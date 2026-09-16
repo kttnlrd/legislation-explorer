@@ -124,12 +124,7 @@ def plan_section(act: str, section: str, status: dict, root: Path,
                          f"{str(want)[:12]} — tampered after staging")
 
     src = rep.get("source_path")
-    if not src:
-        raise ApplyError(f"{key}: no corpus file recorded at staging time (new section) — "
-                         f"this applier replaces reviewed files, it does not create them")
-    target = Path(src)
-    if corpus_root:   # tests / throwaway copies: re-root the recorded path
-        target = Path(corpus_root) / target.relative_to(_corpus_base(src, act))
+    target = _resolve_target(act, section, src, corpus_root)
     if not target.is_file():
         raise ApplyError(f"{key}: corpus file {target} is gone since staging")
     old_bytes = target.read_bytes()
@@ -150,6 +145,49 @@ def plan_section(act: str, section: str, status: dict, root: Path,
             "old_bytes": old_bytes, "old_sha256": old_sha, "new_sha256": new_sha, "size": len(new_bytes),
             "verdict": status["status"], "changed": old_sha != new_sha,
             "reviewed_by": status.get("reviewed_by")}
+
+
+def _resolve_target(act: str, section: str, recorded: str | None, corpus_root: Path | None) -> Path:
+    """The corpus file this section must be written to, found by IDENTITY, not by trust.
+
+    plan_section used to take the recorded `source_path` at face value. For 187 of the
+    hand-reviewed sections that record is a /tmp copy, so the applier would have
+    overwritten the temp file, reported success, and left the corpus untouched — a silent
+    no-op dressed as an apply. A section id occurs exactly once in the corpus tree, so
+    resolve it there and refuse anything that does not line up.
+    """
+    if not recorded:
+        # The record says this section had no corpus file when it was staged. Even if a
+        # file matching the id exists now, that contradiction means the candidate was not
+        # built against it — and creating sections is a different decision from replacing
+        # reviewed ones. Refuse.
+        raise ApplyError(f"{act}/{section}: no corpus file recorded at staging time (new section) — "
+                         f"this applier replaces reviewed files, it does not create them")
+    base = (Path(corpus_root) if corpus_root else REPO / "data") / act / "sections"
+    if not base.is_dir():
+        raise ApplyError(f"{act}/{section}: corpus sections dir {base} does not exist")
+    hits = sorted(base.rglob(f"{section}.md"))
+    if len(hits) > 1:
+        raise ApplyError(f"{act}/{section}: {len(hits)} corpus files match {section}.md "
+                         f"({', '.join(str(h) for h in hits[:3])}…) — ambiguous, refusing")
+    if not hits:
+        raise ApplyError(f"{act}/{section}: no corpus file for {section}.md under {base} — "
+                         f"this applier replaces reviewed files, it does not create them")
+    target = hits[0]
+    if corpus_root is None and recorded:
+        rec = Path(recorded)
+        try:
+            inside = rec.resolve().is_relative_to((REPO / "data").resolve())
+        except (OSError, ValueError):
+            inside = False
+        if not inside:
+            raise ApplyError(f"{act}/{section}: recorded source_path {rec} is not inside the "
+                             f"corpus (data/) — it is a staging copy, not the corpus file. "
+                             f"Refusing to write {target.name} to the wrong place.")
+        if rec.resolve() != target.resolve():
+            raise ApplyError(f"{act}/{section}: recorded source_path {rec} disagrees with the "
+                             f"corpus file {target} — refusing")
+    return target
 
 
 def _corpus_base(src: str, act: str) -> Path:

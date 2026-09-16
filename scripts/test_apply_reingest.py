@@ -79,6 +79,12 @@ class Fixture:
     def run(self, **kw):
         kw.setdefault("guard", False)
         kw.setdefault("keep_going", True)
+        # The fixture's corpus is a throwaway tree, so say so explicitly. The applier
+        # resolves the write target by section identity under the corpus root and
+        # refuses any recorded source_path that is not inside it; without this the
+        # fixture's temp path looks exactly like the /tmp staging copies that caused
+        # a silent no-op apply in production.
+        kw.setdefault("corpus_root", self.tmp / "data")
         return AR.apply_run(self.act, self.root, **kw)
 
 
@@ -194,11 +200,11 @@ class ApplyReingestTest(unittest.TestCase):
         ready = {"status": "READY", "risks": [], "gate": "ACCEPTED"}
         (f.d / "output.md").write_text(OUT_MD + "\nsmuggled\n")
         with self.assertRaisesRegex(AR.ApplyError, "tampered after staging"):
-            AR.plan_section(f.act, f.section, ready, f.root)
+            AR.plan_section(f.act, f.section, ready, f.root, corpus_root=f.tmp / "data")
         (f.d / "output.md").write_text(OUT_MD)
         (f.d / "review.json").write_text(json.dumps({"output_sha256": "0" * 64}))
         with self.assertRaisesRegex(AR.ApplyError, "stale approval"):
-            AR.plan_section(f.act, f.section, ready, f.root)
+            AR.plan_section(f.act, f.section, ready, f.root, corpus_root=f.tmp / "data")
         self.assertEqual(f.corpus_file.read_text(), SRC_MD)
 
     def corpus_snapshot(self, f) -> dict:
