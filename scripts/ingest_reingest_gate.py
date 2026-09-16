@@ -195,63 +195,6 @@ def _furniture(lines: list[dict]) -> dict[int, str]:
     return out
 
 
-SYMBOL_FONT_HINTS = ("ymbol", "Math", "Dingbat", "MT Extra", "Euclid", "Cambria Math")
-
-# Glyphs in this corpus's subsetted Symbol fonts that ToUnicode maps to a plain space, resolved by
-# reading the printed page at 500 dpi. Keyed by (normalised font family, glyph id) so a subset in
-# one volume and a subset in another resolve the same way. A glyph NOT in this table yields no
-# token: an operator nobody has verified as printed stays a failure, which is the safe direction.
-#   3, 4, 7, 10, 12 -> multiplication sign
-#   5              -> asterisk (the mark ITAA puts before a defined term: *CGT asset)
-#   6              -> equals sign
-SYMBOL_GLYPH_CHARS = {
-    ("SymbolMT", 3): "×", ("SymbolMT", 4): "×", ("SymbolMT", 7): "×",
-    ("SymbolMT", 10): "×", ("SymbolMT", 12): "×",
-    ("SymbolMT", 5): "*",
-    ("SymbolMT", 6): "=",
-}
-UNRESOLVED_GLYPHS = {8, 9}      # seen on the page but not confidently read - no credit given
-
-
-def _family(font: str) -> str:
-    return font.split("+")[-1] if "+" in font else font
-
-
-def drawn_operators(doc, meta: dict) -> list[dict]:
-    """Operator glyphs drawn on the section's pages that the text layer throws away.
-
-    Some operators (x, =, and the asterisk before a defined term) are set in a subsetted Symbol
-    font whose ToUnicode maps them to a plain space, so extraction yields whitespace and no token
-    - the character is on the page but invisible to a text comparison. Each glyph is resolved
-    through SYMBOL_GLYPH_CHARS, which was built by reading the printed page, and the resolved
-    character is added to the band's tokens so that R1/R2/R4/R6 all see it. Adding it as a real
-    token keeps the check bounded by occurrence: an operator written where the page draws nothing,
-    or one written more often than it is drawn, still fails.
-    """
-    found: list[dict] = []
-    for pno in range(meta["page"], meta["end_page"] + 1):
-        page = doc[pno]
-        try:
-            traces = page.get_texttrace()
-        except Exception:
-            continue
-        for tr in traces:
-            font = tr.get("font") or ""
-            if not any(h in font for h in SYMBOL_FONT_HINTS):
-                continue
-            for ch in tr.get("chars", []):
-                uni = ch[0] if ch else None
-                if uni is None or chr(uni).strip():
-                    continue                      # a real character: it has a token already
-                box = ch[3] if len(ch) > 3 else ch[2]
-                gid = ch[1] if len(ch) > 1 else None
-                found.append({"page": pno + 1, "x": round(box[0], 1), "y": round(box[1], 1),
-                              "gid": gid, "font": font,
-                              "char": SYMBOL_GLYPH_CHARS.get((_family(font), gid)),
-                              "unresolved": gid in UNRESOLVED_GLYPHS})
-    return found
-
-
 def section_band(doc, meta: dict) -> dict:
     """The section's PDF band: every line on its pages, split kept/dropped.
 
@@ -281,14 +224,7 @@ def section_band(doc, meta: dict) -> dict:
         t = norm_tokens(k["text"])
         tokens.update(t)
         per_page.setdefault(k["page"], Counter()).update(t)
-    drawn = drawn_operators(doc, meta)
-    for d in drawn:
-        ch = d.get("char")
-        if ch:                       # resolved operators count as present on their page
-            tokens[ch] += 1
-            per_page.setdefault(d["page"], Counter())[ch] += 1
     return {"kept": kept, "dropped": dropped, "tokens": tokens, "per_page": per_page,
-            "drawn_operators": drawn,
             "pages": f"{meta['page'] + 1}-{meta['end_page'] + 1}"}
 
 
