@@ -292,7 +292,11 @@ def output_tokens(parsed: dict) -> Counter:
         s = ANCHOR_RE.sub(" ", ln)
         if FOOTER_RE.match(s.strip()) or s.strip() == "---":
             continue
-        s = s.lstrip("> ").replace(">", " ")
+        # '>' is blanked only in MARKER position (line-leading), never mid-line.
+        # Blanking every '>' erased real inequalities from the comparison — e.g.
+        # "Total incidental shipping income > 0.25% of total core shipping income"
+        # read as a lost token — and, worse, made a genuinely DROPPED '>' undetectable.
+        s = re.sub(r"^(?:\s*>)+\s?", " ", s)
         if s.startswith("#"):
             s = s.lstrip("#")
         out.update(norm_tokens(s))
