@@ -171,7 +171,14 @@ def _show(rev: str, path: str) -> str:
 
 
 def collect(args) -> list[tuple[str, str, str]]:
-    """-> [(path, old, new)] for corpus section files only."""
+    """-> [(path, old, new)] for corpus section files only.
+
+    The default set is staged changes PLUS untracked (never-added) section files.
+    Untracked matters: a bulk dump into data/ never touches the index, so a
+    staged-only scan walks straight past it. One external workstream landed 1,458
+    section files into data/nz-master-tax-guide/ that way and a staged-only guard
+    would not have looked at a single one of them.
+    """
     if args.paths:
         return [(p, _show("HEAD", p), Path(p).read_text(encoding="utf-8", errors="replace"))
                 for p in args.paths if CORPUS_RE.search(p)]
@@ -181,8 +188,18 @@ def collect(args) -> list[tuple[str, str, str]]:
         names = _git("diff", "--name-only", f"{a}..{b}").split()
         return [(p, _show(a, p), _show(b, p)) for p in names if CORPUS_RE.search(p)]
     names = _git("diff", "--cached", "--name-only").split()
-    return [(p, _show("HEAD", p), _show("", p))
-            for p in names if CORPUS_RE.search(p)]
+    entries = [(p, _show("HEAD", p), _show("", p))
+               for p in names if CORPUS_RE.search(p)]
+    seen = {p for p, _, _ in entries}
+    for p in _git("ls-files", "--others", "--exclude-standard", "--", "data").split():
+        if p in seen or not CORPUS_RE.search(p):
+            continue
+        try:
+            new = Path(p).read_text(encoding="utf-8", errors="replace")
+        except OSError:
+            continue
+        entries.append((p, "", new))
+    return entries
 
 
 def main() -> int:
