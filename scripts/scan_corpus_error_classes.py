@@ -225,6 +225,51 @@ def _head_word(cell: str):
     return t.strip(",*'\"()") if t else ""
 
 
+def table_coherence_findings(lines: list[str], relpath: str) -> list[dict]:
+    """The C11 detectors for ONE file. scan_table_coherence() walks the corpus
+    and calls this; other tools (corpus_change_guard) reuse it per-file."""
+    out: list[dict] = []
+
+    def add(cls, _path, detail):
+        out.append({"class": cls, "path": relpath, "detail": detail})
+
+    for ln_no, ln in enumerate(lines, 1):
+        if not ln.startswith("|") or re.match(r"^\|\s*---", ln):
+            continue
+        # (b) glyph junk (ignore natural-language accents, e.g. "Fédération")
+        gm = next((m for m in EXTRACT_GLYPH.finditer(ln)
+                   if not _is_natural_word_accent(ln, m)), None)
+        if gm:
+            add("C11_table_glyph", relpath,
+                f"line {ln_no}: extraction glyph {gm.group(0)!r}: {ln.strip()[:90]}")
+            continue
+        # (c) dangling connector end
+        if DANGLE_CELL_END.search(ln):
+            add("C11_table_truncated", relpath,
+                f"line {ln_no}: row ends on bare connector: {ln.strip()[:90]}")
+            continue
+        # (a) mid-word split across adjacent cells — wordlist test
+        if _WORDS is None:
+            continue
+        cells = [c.strip() for c in ln.strip().strip("|").split("|")]
+        for ci in range(len(cells) - 1):
+            left, right = cells[ci], cells[ci + 1]
+            tw = _tail_word(left).lower()
+            hw = _head_word(right).lower()
+            if len(tw) < 1 or len(hw) < 1:
+                continue
+            joined = tw + hw
+            # A boundary is only legitimate when BOTH sides are whole
+            # words ('asset | when'). If either half is a fragment, the
+            # word was cut across cells ('d | efinitions' too — a
+            # single-letter half is still a fragment, not a cell).
+            if joined in _WORDS and not (tw in _WORDS and hw in _WORDS):
+                add("C11_table_midword", relpath,
+                    f"line {ln_no}: '{tw}|{hw}' = '{joined}' cut across cells {ci+1}|{ci+2}: {ln.strip()[:100]}")
+                break
+    return out
+
+
 def scan_table_coherence():
     for act_dir in DATA.iterdir():
         sec_dir = act_dir / "sections"
@@ -235,40 +280,7 @@ def scan_table_coherence():
                 lines = p.read_text(encoding="utf-8", errors="replace").splitlines()
             except Exception:
                 continue
-            for ln_no, ln in enumerate(lines, 1):
-                if not ln.startswith("|") or re.match(r"^\|\s*---", ln):
-                    continue
-                # (b) glyph junk (ignore natural-language accents, e.g. "Fédération")
-                gm = next((m for m in EXTRACT_GLYPH.finditer(ln)
-                           if not _is_natural_word_accent(ln, m)), None)
-                if gm:
-                    add("C11_table_glyph", str(p.relative_to(DATA)),
-                        f"line {ln_no}: extraction glyph {gm.group(0)!r}: {ln.strip()[:90]}")
-                    continue
-                # (c) dangling connector end
-                if DANGLE_CELL_END.search(ln):
-                    add("C11_table_truncated", str(p.relative_to(DATA)),
-                        f"line {ln_no}: row ends on bare connector: {ln.strip()[:90]}")
-                    continue
-                # (a) mid-word split across adjacent cells — wordlist test
-                if _WORDS is None:
-                    continue
-                cells = [c.strip() for c in ln.strip().strip("|").split("|")]
-                for ci in range(len(cells) - 1):
-                    left, right = cells[ci], cells[ci + 1]
-                    tw = _tail_word(left).lower()
-                    hw = _head_word(right).lower()
-                    if len(tw) < 1 or len(hw) < 1:
-                        continue
-                    joined = tw + hw
-                    # A boundary is only legitimate when BOTH sides are whole
-                    # words ('asset | when'). If either half is a fragment, the
-                    # word was cut across cells ('d | efinitions' too — a
-                    # single-letter half is still a fragment, not a cell).
-                    if joined in _WORDS and not (tw in _WORDS and hw in _WORDS):
-                        add("C11_table_midword", str(p.relative_to(DATA)),
-                            f"line {ln_no}: '{tw}|{hw}' = '{joined}' cut across cells {ci+1}|{ci+2}: {ln.strip()[:100]}")
-                        break
+            findings.extend(table_coherence_findings(lines, str(p.relative_to(DATA))))
 
 
 # ── C6 (CDN-0081): stray trailing token at cut point (e.g. "payments") ──────
