@@ -60,6 +60,42 @@ extract_pdfs "$SOURCE/gst-1999"    "$DATA/gst-1999/raw"
 extract_pdfs "$SOURCE/taa-1953"    "$DATA/taa-1953/raw"
 
 # ---------------------------------------------------------------------------
+# 1b. Source compilation guard — refuse to stamp a compilation the source is not.
+#
+# The in-repo ITAA 1997 PDFs are Compilation No. 263 (C2026C00122) while stage 2 stamps
+# --compilation-no 266. Without this check the build produces comp-263 content labelled 266:
+# older text claiming to be current, and comp-266-only provisions (e.g. 40-291A) silently absent.
+# The guard reads the compilation number off the PDF itself, never the filename.
+# ---------------------------------------------------------------------------
+echo "=== 1b. Source compilation guard ==="
+guard_failed=0
+for spec in "itaa-1997 266" "itaa-1936 192" "gst-1999 96" "taa-1953 225"; do
+    set -- $spec
+    act_dir="$SOURCE/$1"; want="$2"
+    if [ -d "$act_dir" ]; then
+        if ! /usr/bin/python3.12 scripts/check_source_compilation.py \
+                --pdf-dir "$act_dir" --expected "$want"; then
+            guard_failed=1
+        fi
+    fi
+done
+if [ "$guard_failed" -ne 0 ]; then
+    cat <<'EOF'
+
+ABORT: the source volumes are not the compilation this build would stamp.
+
+Fix one of these, deliberately — do not bypass:
+  (a) vendor the correct compilation's PDFs into source/<act>/ so the source matches the stamp, or
+  (b) change the --compilation-no in this script to the compilation the source actually is,
+      and accept that the corpus becomes that older compilation.
+
+A rebuild that proceeds here would replace current content with older content under a newer
+number, with no error anywhere downstream.
+EOF
+    exit 1
+fi
+
+# ---------------------------------------------------------------------------
 # 2. Parse primary legislation
 # ---------------------------------------------------------------------------
 echo "=== 2. Parse ITAA 1997 ==="

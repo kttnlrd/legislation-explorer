@@ -407,6 +407,55 @@ def scan_case_citations():
                     f"{cit!r} appears {cnt} times — year-less citation (CDN-0120 class)")
 
 
+def scan_missing_heading(check_root: str | None = None):
+    """C12 (from the nightly mutation test, 2026-09-18): a section can lose its H1 and no class trips.
+
+    The nightly investigator planted four defects in a copy of 30-315.md. Three were caught exactly
+    (glyph, mid-word split, truncated row); deleting the '# ' H1 line was NOT caught by any class in
+    this set, nor by the integrity gate's tail checks. A clean audit therefore said nothing about
+    every section's title surviving.
+
+    The rule is derived from the corpus's own convention rather than asserted: an act whose section
+    files overwhelmingly carry an H1 is an act where a file without one is a defect. Acts that do not
+    follow the convention are reported by name and skipped, so the check cannot become a
+    false-positive factory.
+    """
+    root = Path(check_root) if check_root else DATA
+    acts = sorted(p for p in root.glob("*/sections") if p.is_dir())
+    for act_sections in acts:
+        files = sorted(act_sections.rglob("*.md"))
+        if not files:
+            continue
+        with_h1 = 0
+        missing = []
+        for p in files:
+            try:
+                text = p.read_text(errors="ignore")
+            except Exception:
+                continue
+            # an H1 is a '# ' line, ignoring YAML frontmatter
+            body = text.split("---", 2)[-1] if text.startswith("---") else text
+            if re.search(r"^#\s+\S", body, re.M):
+                with_h1 += 1
+            else:
+                missing.append(p)
+        share = with_h1 / len(files)
+        act = act_sections.parent.name
+        if share < 0.8:
+            add("C12_missing_heading:CONVENTION", f"data/{act}/sections",
+                f"only {with_h1}/{len(files)} files ({share:.0%}) carry an H1 - convention not "
+                f"established for this act, check skipped (not a pass)")
+            continue
+        for p in missing:
+            try:
+                shown = p.relative_to(DATA.parent)
+            except ValueError:
+                shown = p          # scanning a sandbox outside the repo (how this is tested)
+            add("C12_missing_heading", str(shown),
+                f"no '# ' heading in a file of an act where {with_h1}/{len(files)} "
+                f"({share:.0%}) have one - title lost or never written")
+
+
 def main():
     scan_compilation_no()
     scan_empty_tree_nodes()
@@ -419,6 +468,7 @@ def main():
     scan_definitions()
     scan_case_citations()
     scan_table_coherence()
+    scan_missing_heading()
 
     # summarize
     by_class = Counter(f["class"] for f in findings)
