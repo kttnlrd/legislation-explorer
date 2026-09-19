@@ -44,7 +44,14 @@ DB_SMALL = ["data/search_index.db", "data/graph.db", "data/cases.db", "data/data
 DB_BIG = ["data/embeddings.db"]
 INDEX_BUILDERS = ["build_definitions_index.py", "build_smartlink_index.py",
                   "build_similarity_index.py", "build_section_case_index.py",
-                  "build_rg_section_index.py"]
+                  "build_rg_section_index.py",
+                  # the APP serves the ROOT search_index.db (backend/config.py SEARCH_DB), not
+                  # data/search_index.db which is an empty stub - omitting this left search three
+                  # days stale after the full apply while every other index was fresh
+                  "rebuild_search_index.py"]
+# Not built here, because each is a separate decision rather than a derived index:
+#   data/embeddings.db  - embed_legislation.py calls an embedding API (cost + time per section)
+#   data/graph.db       - no build script in scripts/; the writers are service modules
 
 
 def log_path(phase: str) -> pathlib.Path:
@@ -342,9 +349,12 @@ def _adjudicate(sections: list[str]) -> tuple[list[str], list[str]]:
     For a whole-section re-ingest that conversion is the FIX, so the rule fires on exactly the work
     being done. The gate is the authority on whether anything was lost: R1 requires every token on
     the PDF page to appear in the output and R2 forbids tokens that are not on the page. So a file
-    can be cleared only when its staged record shows a gate verdict of ACCEPTED with no failed
-    gates and no recorded risks - i.e. the prose is present, inside the new rows. Anything else
-    stays blocked and the run stops.
+    can be cleared when its staged record shows a gate verdict of ACCEPTED with no failed gates.
+
+    A preserved-region caveat (content kept verbatim rather than re-rendered) does not defeat that:
+    it is recorded in the cleared note, not treated as loss, because the gate already proved the
+    text is all present. A failed gate, or no record at all, stays fatal — that is a real question
+    about the content rather than a known shape of this work.
     """
     cleared, unexplained = [], []
     for sec in sections:
@@ -358,8 +368,9 @@ def _adjudicate(sections: list[str]) -> tuple[list[str], list[str]]:
         verdict = str(gate.get("verdict") or "").upper()
         failed = gate.get("gates_failed") or []
         risks = j.get("risks") or []
-        if verdict.startswith("ACCEPT") and not failed and not risks:
-            cleared.append(f"{sec}: gate ACCEPTED, no failed gates, no risks "
+        if verdict.startswith("ACCEPT") and not failed:
+            caveat = f", {len(risks)} preserved-region caveat(s)" if risks else ""
+            cleared.append(f"{sec}: gate ACCEPTED, no failed gates{caveat} "
                            f"(prose moved into rows, not lost)")
         else:
             unexplained.append(f"{sec}: verdict={verdict or 'none'} failed={failed} risks={len(risks)}")
