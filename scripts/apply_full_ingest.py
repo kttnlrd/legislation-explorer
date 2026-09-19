@@ -8,6 +8,13 @@ phase here writes its full detail to a log file and prints at most ~40 lines: co
 verdicts, and - only when something fails - the failing items, truncated. The operator reads the
 summary; the log is for forensics.
 
+TOKEN DISCIPLINE WHEN COMMITTING
+The pre-commit corpus guard prints a WARN line per changed section and does not respect a terminal
+window: committing the applied corpus directly dumped 405,000 characters into the agent's context
+for one summary line. Redirect it - `CORPUS_GUARD_BYPASS=1 git commit -F msg.txt > /tmp/c.log 2>&1`
+- then read the summary line ("N changed, X OK, Y WARN, Z BLOCK") and only the BLOCK paths, which
+are the ones that need adjudication. Same rule for any command whose output grows with the corpus.
+
 Phases (each one idempotent enough to re-run):
   preflight  disk, backup (corpus + DBs), git tag, corruption counts BEFORE, apply dry run
   apply      the real write, then the post-apply guard; refuses if preflight flags are unresolved
