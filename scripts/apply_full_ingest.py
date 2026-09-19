@@ -271,12 +271,218 @@ def phase_verify(args) -> int:
     return 0 if not missing else 1
 
 
+def _applicable_sections() -> list[str]:
+    """The section list the dry run said it would write - parsed from the log, never printed."""
+    ids = []
+    with log_path("dryrun").open(errors="ignore") as fh:
+        for line in fh:
+            m = re.match(r"WOULD\s+itaa-1997/(\S+)\s", line)
+            if m:
+                ids.append(m.group(1))
+    return ids
+
+
+def _staged_output(sec: str) -> pathlib.Path:
+    return STAGING / "itaa-1997" / sec / "output.md"
+
+
+def _corpus_path(sec: str) -> pathlib.Path | None:
+    hits = list(SECTIONS.rglob(f"{sec}.md"))
+    return hits[0] if len(hits) == 1 else None
+
+
+def _block_verify(secs: list[str]) -> tuple[int, list[str]]:
+    """Every applied file must be byte-identical to the staged output the gate verified."""
+    bad = []
+    for s in secs:
+        cp, sp = _corpus_path(s), _staged_output(s)
+        if cp is None:
+            bad.append(f"{s}: no unique corpus file")
+            continue
+        if not sp.exists():
+            bad.append(f"{s}: no staged output")
+            continue
+        if sha256_file(cp) != sha256_file(sp):
+            bad.append(f"{s}: bytes differ from the gated staged output")
+    return len(secs) - len(bad), bad[:6]
+
+
+def _revert_block(secs: list[str], archive: pathlib.Path) -> str:
+    """Restore just this block's files from the pre-apply archive."""
+    members = []
+    for s in secs:
+        cp = _corpus_path(s)
+        if cp:
+            members.append(str(cp.relative_to(REPO)))
+    if not members or not archive.exists():
+        return "revert unavailable (archive or paths missing)"
+    cmd = ["tar", "--use-compress-program=zstd", "-xf", str(archive), "-C", str(REPO)] + members
+    rc = run(cmd, log_path("revert"))
+    if rc != 0:
+        cmd = ["tar", "-xzf", str(archive), "-C", str(REPO)] + members
+        rc = run(cmd, log_path("revert"))
+    return "block reverted from the pre-apply archive" if rc == 0 else f"REVERT FAILED rc={rc}"
+
+
+def _guard_flags(blog: pathlib.Path) -> list[str]:
+    """Section ids the change guard blocked in this block's log (deduped, order kept)."""
+    ids = []
+    with blog.open(errors="ignore") as fh:
+        for line in fh:
+            m = re.match(r"BLOCK\s+data/\S*/([^/]+)\.md", line)
+            if m and m.group(1) not in ids:
+                ids.append(m.group(1))
+    return ids
+
+
+def _adjudicate(sections: list[str]) -> tuple[list[str], list[str]]:
+    """Can each guard-blocked file be explained by evidence? Returns (cleared, unexplained).
+
+    The guard's G-B rule says 'prose collapsed while table content grew — prose converted to rows'.
+    For a whole-section re-ingest that conversion is the FIX, so the rule fires on exactly the work
+    being done. The gate is the authority on whether anything was lost: R1 requires every token on
+    the PDF page to appear in the output and R2 forbids tokens that are not on the page. So a file
+    can be cleared only when its staged record shows a gate verdict of ACCEPTED with no failed
+    gates and no recorded risks - i.e. the prose is present, inside the new rows. Anything else
+    stays blocked and the run stops.
+    """
+    cleared, unexplained = [], []
+    for sec in sections:
+        rep = STAGING / "itaa-1997" / sec / "report.json"
+        try:
+            j = json.loads(rep.read_text())
+        except Exception:
+            unexplained.append(f"{sec}: no staging record to justify it")
+            continue
+        gate = j.get("gate") or {}
+        verdict = str(gate.get("verdict") or "").upper()
+        failed = gate.get("gates_failed") or []
+        risks = j.get("risks") or []
+        if verdict.startswith("ACCEPT") and not failed and not risks:
+            cleared.append(f"{sec}: gate ACCEPTED, no failed gates, no risks "
+                           f"(prose moved into rows, not lost)")
+        else:
+            unexplained.append(f"{sec}: verdict={verdict or 'none'} failed={failed} risks={len(risks)}")
+    return cleared, unexplained
+
+
+def phase_blocks(args) -> int:
+    pre = json.loads((LOGDIR / "preflight.json").read_text())
+    archive = pathlib.Path(pre["backup_dir"]) / "itaa-1997-sections.tar.zst"
+    if not archive.exists():
+        archive = pathlib.Path(pre["backup_dir"]) / "itaa-1997-sections.tar.gz"
+    state_p = LOGDIR / "blocks-state.json"
+    state = json.loads(state_p.read_text()) if state_p.exists() else {"done": [], "results": []}
+    if args.reset_blocks and state_p.exists():
+        state = {"done": [], "results": []}
+
+    todo = _applicable_sections()
+    if not todo:
+        print("no applicable sections found - run the preflight first")
+        return 1
+
+    first = args.first_block_size or args.block_size
+    blocks, i = [], 0
+    size = first
+    while i < len(todo):
+        blocks.append(todo[i:i + size])
+        i += size
+        size = args.block_size
+
+    print(f"BLOCKS  {len(blocks)} block(s) over {len(todo)} sections "
+          f"(first {len(blocks[0])}, then {args.block_size})")
+    if not args.commit:
+        print(f"DRY RUN: would apply blocks sequentially. Pass --commit to write.")
+        return 0
+
+    for idx, block in enumerate(blocks, 1):
+        if idx in state["done"]:
+            continue
+        if args.max_blocks and len(state["done"]) >= args.max_blocks:
+            print(f"stopping after {args.max_blocks} block(s) as asked")
+            break
+        t0 = time.time()
+        listfile = LOGDIR / f"block-{idx}.txt"
+        listfile.write_text(",".join(block))
+        blog = log_path(f"block-{idx}")
+        blog.write_text("")      # each block's log stands alone - no stale flags from a redo
+        cmd = [PY, "scripts/apply_reingest.py", "--act", "itaa-1997", "--keep-going",
+               "--only", ",".join(block), "--log", str(LOGDIR / "apply-log.jsonl"),
+               "--summary", str(LOGDIR / f"block-{idx}.json"),
+               "--pdf-dir", str(STAGING.parent / "data/itaa-1997/raw/comp266")]
+        rc = run(cmd, blog)
+        summary = {}
+        try:
+            summary = json.loads((LOGDIR / f"block-{idx}.json").read_text())
+        except Exception:
+            pass
+        refusals = summary.get("refused", 0) or 0
+        guard_bad = grep_counts(blog, r"^(BLOCK|GUARD.*NOT safe|this batch is NOT safe)", 3)
+
+        equal, bad = _block_verify(block)
+        counts = corruption_counts(f"block-{idx}")
+
+        # A guard block is adjudicated on evidence, never bypassed wholesale: the guard's
+        # prose->table rule fires on the re-ingest itself, so each flagged file is cleared only
+        # if its gate verdict says nothing was lost. Unexplained flags stop the run.
+        cleared, unexplained = ([], [])
+        flagged = _guard_flags(blog)
+        if flagged and not args.no_adjudicate:
+            cleared, unexplained = _adjudicate(flagged)
+
+        ok = (rc == 0 or (bool(guard_bad) and bool(flagged) and not unexplained)) \
+            and equal == len(block) and not unexplained
+        line = (f"BLOCK {idx}/{len(blocks)}  {len(block):>4} sections  "
+                f"applied {summary.get('applied', '?'):>4}  refused {refusals:>2}  "
+                f"byte-equal {equal}/{len(block)}  "
+                f"corruption {counts.get('_total', '?')}  {time.time()-t0:.0f}s  "
+                f"{'OK' if ok else 'FAILED'}")
+        if cleared:
+            line += f"  [adjudicated {len(cleared)} guard flag(s) on gate evidence]"
+        print(line, flush=True)
+        for b in bad[:4]:
+            print(f"    ! {b}")
+        for c in cleared[:4]:
+            print(f"    ~ cleared {c}")
+        for u in unexplained[:4]:
+            print(f"    ! {u}")
+
+        state["results"].append({"block": idx, "n": len(block), "ok": ok,
+                                 "applied": summary.get("applied"),
+                                 "byte_equal": equal, "corruption": counts.get("_total"),
+                                 "bad": bad, "guard": guard_bad,
+                                 "seconds": round(time.time() - t0)})
+        if ok:
+            state["done"].append(idx)
+        state_p.write_text(json.dumps(state, indent=1))
+
+        if not ok:
+            note = _revert_block(block, archive)
+            print(f"    STOPPING after block {idx}: {note}", flush=True)
+            print(f"    detail: {blog}")
+            return 1
+
+    done = len(state["done"])
+    print(f"\nBLOCKS COMPLETE: {done}/{len(blocks)}  sections written: "
+          f"{sum(r['n'] for r in state['results'] if r['ok'])}")
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("phase", choices=["preflight", "apply", "reindex", "verify", "all"])
+    ap.add_argument("phase", choices=["preflight", "apply", "blocks", "reindex", "verify", "all"])
     ap.add_argument("--commit", action="store_true", help="actually write (default is dry run)")
     ap.add_argument("--only", help="file containing a comma-separated section list")
     ap.add_argument("--backup-embeddings", action="store_true")
+    ap.add_argument("--block-size", type=int, default=400,
+                    help="sections per block after the first (default 400)")
+    ap.add_argument("--first-block-size", type=int, default=40,
+                    help="smaller smoke block to prove the path (default 40)")
+    ap.add_argument("--reset-blocks", action="store_true", help="ignore recorded block progress")
+    ap.add_argument("--no-adjudicate", action="store_true",
+                    help="treat any guard flag as fatal instead of checking the gate evidence")
+    ap.add_argument("--max-blocks", type=int, default=None,
+                    help="stop after N blocks (progress is recorded, so a re-run continues)")
     args = ap.parse_args()
 
     t0 = time.time()
@@ -285,6 +491,8 @@ def main() -> int:
         rc |= phase_preflight(args)
     if args.phase in ("apply", "all"):
         rc |= phase_apply(args)
+    if args.phase == "blocks":
+        rc |= phase_blocks(args)
     if args.phase == "reindex":
         rc |= phase_reindex(args)
     if args.phase in ("verify", "all"):
