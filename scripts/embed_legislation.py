@@ -343,6 +343,22 @@ LEGISLATION_ACTS = ["itaa-1997", "itaa-1936", "gst-1999", "taa-1953", "fbt-1986"
 COMMENTARY_ACTS = ["master-tax-guide", "master-gst-guide"]
 
 
+def _stale_rows(
+    existing_files: set[str], seen_files: set[str], walked_roots: set[str]
+) -> tuple[set[str], set[str]]:
+    """Which stored row-file(s) this run may delete, and which were in scope at all.
+
+    A file_path outside the directories walked by this run belongs to another producer (rulings,
+    cases) and says nothing about whether this run saw it.  The original rule was
+    `existing_files - seen_files`, which deleted every ruling and case row in the table - 260,297
+    rows - as "stale" purely because those paths are not under data/*/sections.
+
+    With nothing walked, nothing is in scope, so nothing can be deleted.
+    """
+    in_scope = {f for f in existing_files if any(f.startswith(root) for root in walked_roots)}
+    return in_scope - seen_files, in_scope
+
+
 def main() -> None:
     conn = sqlite3.connect(OUT_DB)
     init_db(conn)
@@ -352,6 +368,7 @@ def main() -> None:
     model = SentenceTransformer(MODEL_NAME)
 
     seen_files: set[str] = set()
+    walked_roots: set[str] = set()
     total_embedded = 0
 
     for act in LEGISLATION_ACTS:
@@ -366,6 +383,7 @@ def main() -> None:
             tree = json.loads(tree_path.read_text(encoding="utf-8"))
         md_files = sorted(sections_dir.rglob("*.md"))
         print(f"{act}: {len(md_files)} section files")
+        walked_roots.add(str(sections_dir.relative_to(DATA_DIR)) + "/")
         for i, path in enumerate(md_files, 1):
             seen_files.add(str(path.relative_to(DATA_DIR)))
             total_embedded += process_section(act, path, tree, model, conn, source_type="section")
@@ -378,17 +396,32 @@ def main() -> None:
             continue
         md_files = sorted(sections_dir.rglob("*.md"))
         print(f"{act}: {len(md_files)} commentary files")
+        walked_roots.add(str(sections_dir.relative_to(DATA_DIR)) + "/")
         for i, path in enumerate(md_files, 1):
             seen_files.add(str(path.relative_to(DATA_DIR)))
             total_embedded += process_section(act, path, {}, model, conn, source_type="commentary")
             if i % 500 == 0:
                 print(f"  {act}: {i}/{len(md_files)} processed")
 
+    # Only rows this run was actually responsible for may be deleted: a file_path outside the
+    # directories walked above belongs to another producer (rulings, cases) and has nothing to do
+    # with whether this run saw it.  The unscoped rule was `existing_files - seen_files`, which
+    # deleted every ruling and case row in the table - 260,297 rows - as "stale", because those
+    # paths simply are not under data/*/sections.  A producer must never delete another
+    # producer's rows, and "not in my scope" is not "gone from disk".
     existing_files = {r[0] for r in conn.execute("SELECT DISTINCT file_path FROM embeddings").fetchall()}
-    stale = existing_files - seen_files
+    stale, in_scope = _stale_rows(existing_files, seen_files, walked_roots)
     if stale:
+        print(f"removing {len(stale)} row-file(s) under {sorted(walked_roots)} whose file no longer exists")
+        sample = sorted(stale)[:3]
+        for s in sample:
+            print(f"  e.g. {s}")
         conn.executemany("DELETE FROM embeddings WHERE file_path = ?", [(f,) for f in stale])
         conn.commit()
+    out_of_scope = len(existing_files) - len(in_scope)
+    if out_of_scope:
+        print(f"left {out_of_scope:,} row-file(s) outside this pipeline's directories untouched "
+              f"(other producers: rulings, cases)")
 
     row_count = conn.execute("SELECT COUNT(*) FROM embeddings").fetchone()[0]
     print(f"Done. {total_embedded} chunks (re-)embedded, {len(stale)} stale files removed, {row_count} total rows.")
