@@ -513,6 +513,38 @@ ARTIFACT_PATS = {
     "double_heading": re.compile(r"^##\s*$", re.M),
     "stray_bullet": re.compile(r"^\s*[-*]\s*$", re.M),
 }
+# ── C15: characters only a drawing produces, inside a formula fence ─────────
+# The text layer of these volumes names each drawn glyph after the Latin-1 character at the same
+# numeric code, so a fence can carry a bracket piece ('ç', 'ê', 'ø') or a multiplication sign ('´')
+# where the page prints a delimiter or an operator.  Left in place it reads as content and defeats
+# the formula.  The ones already adjudicated were repaired from the page, so a survivor is either a
+# piece nobody has read yet or a repair that missed; either way the page decides, so this reports
+# and never rewrites.  '÷' and the superscripts are INCLUDED deliberately and may be legitimate
+# content - a hit means "look at the page", not "this is wrong".
+DRAWING_CHARS = "´¯°¸æçèéêëö÷øùúûü³²±"
+OPEN_FENCE = re.compile(r"^```")
+
+
+def scan_drawing_characters():
+    for act_dir in DATA.iterdir():
+        sec_dir = act_dir / "sections"
+        if not sec_dir.is_dir():
+            continue
+        for p in sorted(sec_dir.rglob("*.md")):
+            text = p.read_text(errors="replace")
+            in_fence = False
+            for i, line in enumerate(text.split("\n"), 1):
+                if OPEN_FENCE.match(line):
+                    in_fence = not in_fence
+                    continue
+                if not in_fence:
+                    continue
+                hit = sorted({c for c in line if c in DRAWING_CHARS})
+                if hit:
+                    add("C15_drawing_char", str(p.relative_to(DATA)),
+                        f"line {i}: {hit} in {line.strip()[:60]!r}")
+
+
 def scan_formatting_artifacts():
     for act_dir in DATA.iterdir():
         sec_dir = act_dir / "sections"
@@ -653,6 +685,7 @@ def main():
     scan_missing_heading()
     scan_duplicate_anchors()
     scan_lost_formula_structure()
+    scan_drawing_characters()
 
     # summarize
     by_class = Counter(f["class"] for f in findings)
