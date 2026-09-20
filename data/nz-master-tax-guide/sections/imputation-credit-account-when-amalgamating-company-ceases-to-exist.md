@@ -28,5 +28,3 @@ Law: IT07 ss OA 9, OA 10, OA 14, OA 15, OB 24, OB 53
 *Refs: ss OA 9*
 
 Last reviewed on 31 December 2025
-
-when amalgamating company ceases to exist

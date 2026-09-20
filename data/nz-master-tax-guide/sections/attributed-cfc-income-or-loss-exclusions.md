@@ -45,8 +45,6 @@ All CFCs in the group are non-attributing active CFCs if that is the outcome of 
 
 The functional currency as prescribed by the applicable accounting standard is to be adopted when determining status as a non-attributing active CFC. This treatment also applies if CFCs are consolidated for the purposes of the test. When the determination is made on the basis of consolidated accounts that include the accounts of the CFC, all amounts expressed in the functional currency of the CFC must be converted to the presentation currency of the consolidated accounts by use of an average exchange rate for the accounting period and not by following the method prescribed by the governing accounting standard.
 
-income or loss — exclusions
-
 In broad terms, the test in s EX 21E is a fraction comparing passive income with reported income. A non- attributing active CFC is a CFC whose ratio of attributable income to total income is less than 5% where total income is greater than zero. Attributable income is the numerator and total income is the denominator under the formula expressed as: (reported passive + added passive # removed passive) ÷ (reported revenue + added revenue # removed revenue) where: reported passive is income from dividends, royalties, rent, leases, interest, a gain/loss from a financial asset or a derivative instrument, a foreign exchange gain/loss from a financial asset or financial liability and insurance profits together with supporting investment income added passive is the total of amounts not included in reported passive that are life insurance policy proceeds, revenue account property disposal income, New Zealand personal services income, telecommunication services income and attributed PIE income that is not excluded income removed passive is zero if the interest holder so chooses or the total of certain dividends, royalties, rents, gains/losses from a financial asset or financial liability and revenue account property income not included in the attributable CFC amount that have already been included in reported or added passive reported revenue is revenue included under the applicable accounting standard, income from rent and leases, the gain/loss from financial assets and derivative instruments, a foreign exchange gain/loss from a financial asset or financial liability and insurance profits added revenue is zero if the interest holder chooses or the total of amounts that are not reported revenue and are life insurance policy proceeds or certain revenue account property disposal income, and removed revenue is the total of amounts already included in reported or added revenue that fall within certain categories of revenue account property costs, dividends, personal services income that is attributed CFC income, gain/loss from shares that are not revenue account property, income derived from a fixed establishment that is not an attributable CFC amount, income from another CFC that could be part of a CFC test group, income from the reduction of a provision and income from an asset that is neither revenue account property nor a financial asset.
 
 One feature of the formula is to eliminate double-counting and ensure the double-elimination of particular items. The calculation endeavours to specify that attributable income is a reasonable approximation to the attributable income that would be calculated under taxation principles without requiring excessive adjustments to items in the financial accounts.
@@ -60,8 +58,6 @@ A person, or a member of their group, who only holds an income interest in a CFC
 ## Tax-based default test
 
 The tax-based test set out in s EX 21D requires ascertaining the attributed CFC amount of the CFC (see below). Essentially, if passive income of a CFC calculated under income tax principles is less than 5% for the relevant accounting period, the CFC is a non-attributing active CFC. The formula for this test is: (attributable # attributable adjustments) ÷ (gross # gross adjustments) where: attributable is the attributable CFC amount (ie the passive income) for the period
-
-income or loss — exclusions
 
 attributable adjustments is the total of amounts included within attributable that the interest holder may choose to treat as attributable adjustments being certain income derived from the supply of personal services and the cost of certain revenue account property gross is the annual gross income for the accounting period, excluding attributed income from foreign equity, and gross adjustments is the total of the attributable adjustments, expenditure or loss used when calculating the attributable CFC amount, income derived from a fixed establishment that is not an attributable CFC amount, and income derived from a company in the same jurisdiction that uses the same currency and in which the interest holder has an interest of 50% or more.
 
@@ -88,8 +84,6 @@ A non-attributing Australian CFC does not generate attributed CFC income or loss
 Only those Australian unit trusts that are taxed as companies under Australian law or whose units are owned by an Australian resident entity and taxed as a company or treated as part of the head company of a consolidated group are included within the exemption for non-attributing Australian CFCs.
 
 Elective attributing CFC
-
-income or loss — exclusions
 
 Elective attributing CFC status may be chosen by a shareholder who has an income interest of 10% or more in the relevant CFC. The election is available for a CFC that would otherwise be a non-attributing active CFC but may not be made for a non-attributing Australian CFC or a CFC in the business of banking or insurance.
 
@@ -157,8 +151,6 @@ services physically performed in New Zealand (unless the CFC is a network operat
 
 ## attributed PIE income that is not excluded income
 
-income or loss — exclusions
-
 ## dividends from a direct income interest of 10% or more in an Australian company that is not an
 
 attributing interest under the FIF rules
@@ -192,5 +184,3 @@ The Commissioner is authorised to make an assessment of attributed CFC income or
 Law: IT07 ss EX 18A–EX 22, EX 72, EX 73, GB 15B, GB 15C; TAA s 91AAQ
 
 Last reviewed on 31 December 2025
-
-against attributed CFC income

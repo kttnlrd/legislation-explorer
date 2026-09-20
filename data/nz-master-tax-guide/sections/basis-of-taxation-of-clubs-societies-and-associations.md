@@ -33,8 +33,6 @@ When the club, society or association is unable to attract any of these exemptio
 
 IR has consistently adopted the policy that clubs, societies and other similar non-profit organisations are not required to return as income amounts derived from certain member transactions. These are also known as trading "within the circle of membership" (¶24-090). Examples include membership subscriptions or levies. However, income arising from certain transactions with members (such as the sale of trading stock to members or the supply of services) appears to be subject to income tax in the normal way (IR9G, "Clubs or societies return guide 2025", March 2025 at 17).
 
-associations
-
 Law: IT07 s YA 1 ("company")
 
 Last reviewed on 31 December 2025

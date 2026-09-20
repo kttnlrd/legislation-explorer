@@ -65,8 +65,6 @@ However, the fact that a PAYE intermediary is used does not mean that the employ
 
 In accordance with s RP 14 a PAYE intermediary who acts on behalf of an employer generally assumes the PAYE obligations and, if taken on, the ESCT obligations of that employer for its employees for the pay period, including the obligations to:
 
-using PAYE intermediaries
-
 ## calculate and make tax deductions and pay those deductions to the Commissioner by electronic
 
 means and in the prescribed electronic format (¶3-020)

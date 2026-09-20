@@ -47,8 +47,6 @@ Section GB 4 prevents arrangements for the grouping of company tax losses. It us
 
 Section GB 5 prevents arrangements using trusts to defeat the loss continuity provisions.
 
-provisions
-
 Where there is a change in the beneficiaries of a trust under an arrangement which has a purpose or effect of defeating the intent and application of any of the continuity provisions, the trustee is treated as having disposed of the share or option to an unrelated third party and having immediately reacquired it (s GB 5 and ¶16-190).
 
 ## Qualifying companies
@@ -78,8 +76,6 @@ The use of accounting measures is allowed because it reduces the compliance cost
 However, accounting measures of income will inevitably differ from tax measures. Therefore, there is a risk of exploitation in order to benefit from the active business exemption if no effort has been made to align the accounting and tax measures of income by way of adjustments (eg s EX 21E).
 
 If s GB 15C applies, the CFC does not qualify for the active business exemption and its income or loss must be attributed. In addition, if the arrangement involves a financial arrangement between a CFC and an associated CFC, it is possible that the associated CFC may also be treated as not qualifying for the active business exemption. This occurs if the arrangement involves a financial arrangement which produces
-
-provisions
 
 a foreign exchange loss for the first CFC, and it results in a decrease in the numerator of the formula (effectively reducing its accounting measure of attributable income).
 
@@ -112,8 +108,6 @@ No deduction is permitted for a payment for something other than services made b
 When a close company pays or credits any sum as remuneration for services rendered by a shareholder, a director or one of their relatives, the Commissioner is authorised to limit the deduction available to a reasonable level of remuneration (s GB 25 and ¶16-070).
 
 For a look-through company (LTC), the effective look-through interests and consequently the income and deductions allocated to an owner who is a minor (ie less than 20 years of age) may be adjusted by
-
-provisions
 
 the Commissioner, having regard to the services rendered by the minor to the company (s GB 25B and ¶19-210).
 
@@ -148,8 +142,6 @@ Section GA 2 allows the Commissioner to adjust any fringe benefit which a person
 Section GB 33 allows the Commissioner to disallow any deduction for depreciation where it is considered there was an arrangement to enable additional depreciation to be claimed when it was not intended that it be available.
 
 Imputation
-
-provisions
 
 Under s GB 34 a company is treated as not meeting the continuity requirements that apply for imputation credit account (ICA) purposes where any shares in that company or in any other company:
 
@@ -193,8 +185,6 @@ Section GB 49B allows the Commissioner to counteract any tax advantage gained fr
 
 Partners and partnerships, owners of LTCs
 
-provisions
-
 Section GB 50 provides for situations where partners or owners of LTCs enter arrangements involving consideration that is not at market value (¶19-215 and ¶23-070).
 
 ## Land-rich companies and trusts
@@ -222,55 +212,3 @@ Section GB 56 provides for the Commissioner to reduce a research and development
 Law: IT07 subpart GB
 
 Last reviewed on 31 December 2025
-
-Non-market transactions
-
-Anti-avoidance provisions — Non-market transactions
-
-Subpart GC contains provisions dealing with non-market transactions. A summary of the provisions follows.
-
-## Trading stock
-
-Under s GC 1, where trading stock is disposed of without consideration, or for an amount that is less than its market value at the date of sale, the trading stock is treated as having been sold for market value (¶9-087).
-
-This section does not apply to certain identified disposals (including to shares transferred back to a share supplier under a share-lending arrangement (¶17-116)). From 1 April 2024, if a person disposes of, or donates, trading stock to an approved donee organisation at less than market value, the person can treat the disposal at its discounted value or as having zero value.
-
-## Disposal of timber or timber rights
-
-Section GC 2 requires certain disposals of timber or timber rights to be treated as disposals of trading stock for the purposes of s GC 1 (disposals at below market value).
-
-## Life insurers
-
-Section GC 3 requires certain property of a life insurer to be treated as trading stock for the purposes of s GC 1 (disposal below market value).
-
-## Disposal of emissions units
-
-Section GC 3B requires certain disposals of emissions units to be treated as disposals of trading stock for the purposes of s GC 1 (disposals at below market value) (¶9-063).
-
-## Disposal of FIF interests
-
-Under s GC 4, a person who disposes of an attributing interest in a FIF is treated as doing so at market value when:
-
-## the consideration received is less than market value, and
-
-## FIF income or loss has been calculated under the comparative value, deemed rate of return, cost or
-
-fair dividend rate methods.
-
-These 4 methods of calculating FIF income or loss also apply to a person acquiring an attributing interest in a FIF at other than market value.
-
-## Leases for inadequate rent
-
-Section GC 5 notionally increases the amount of rent received by a property owner from a relative or a related company where the rent is less than the market rate (¶10-830).
-
-Transfer pricing
-
-Non-market transactions
-
-Sections GC 6–GC 19 set out the transfer pricing regime, which is directed at multinational companies that shift profits from New Zealand to countries with low tax costs (¶26-605–¶26-610).
-
-Law: IT07 subpart GC
-
-Last reviewed on 31 December 2025
-
-income

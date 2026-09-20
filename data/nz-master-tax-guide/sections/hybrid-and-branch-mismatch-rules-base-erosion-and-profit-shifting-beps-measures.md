@@ -51,8 +51,6 @@ Sections FH 3 and FH 4 are, respectively, the primary and defensive rules relati
 
 Section FH 13 allows a person who pays interest that is non-deductible because of s FH 3 to choose to treat the hybrid financial instrument on which the interest is paid as a share, and the payment as a dividend, for all tax purposes. This election must be notified to the Commissioner before it takes effect, specifying the date on which it takes effect. On the effective date, the amount owing under the loan is treated as fully repaid by
 
-rules — base erosion and profit shifting (BEPS) measures
-
 the person (which may trigger an NRWT obligation) and subscribed for an issue of shares having the same terms as the loan.
 
 An election will cease to have effect if the interest payments are no longer subject to deduction denial under s FH 3. At that time the deemed shares will be treated as cancelled for an amount equal to the amount payable under the loan, and that amount will be treated as re-subscribed for the loan.
@@ -64,8 +62,6 @@ A hybrid entity is an entity that is transparent for tax purposes in the jurisdi
 An interest payment from a hybrid entity (B Co) to its investor (A Co) will be deductible in Country B and disregarded in Country A. This can result in a deduction/non-inclusion hybrid mismatch and results in double non-taxation if B Co groups its tax loss with the income of another entity (B Sub 1) whose income is not taxable in Country A.
 
 The same outcome can arise if B Co is instead a branch of A Co in Country B and is entitled in Country B to a deduction for a charge made to it by A Co in Country A, if that charge is not also recognised in Country A.
-
-rules — base erosion and profit shifting (BEPS) measures
 
 Sections FH 5 and FH 6 are, respectively, the primary and defensive rules designed to deal with disregarded hybrid payment and deemed branch payment mismatches that produce deduction/no inclusion outcomes.
 
@@ -94,8 +90,6 @@ The amendment only applies when the third-party expenditure is non-deductible be
 ## Reverse hybrid and branch payee mismatch
 
 A reverse hybrid entity is an entity which is opaque for tax purposes in the country of an investor (Country A) but transparent for tax purposes in another country, generally where it is established (Country B). In the figure below, B Co is the reverse hybrid.
-
-rules — base erosion and profit shifting (BEPS) measures
 
 If B Co receives a payment that is deductible for the payer (C Co), that payment may not be taxed in Country A or B. This is because Country B views the payment as being earned by A Co, while Country A views the payment as being earned by B Co. If the payment would have been taxable had it been made directly from C Co to A Co, this is a deduction/no inclusion hybrid mismatch outcome.
 
@@ -129,8 +123,6 @@ Section FH 10 is designed to deal with companies that are resident in 2 countrie
 
 An imported mismatch occurs when a payment that does not directly result in a hybrid mismatch outcome funds another payment that creates a hybrid mismatch outcome. The figure below is an example of an imported mismatch.
 
-rules — base erosion and profit shifting (BEPS) measures
-
 The imported mismatch here occurs between B Co and Borrower Co. Borrower Co gets a deduction for its payment and B Co includes that payment as taxable income, meaning there is no direct hybrid mismatch on that payment. However, that payment is used to fund the payment on a hybrid financial instrument from B Co to A Co. This payment results in a deduction for B Co, but no corresponding income inclusion for A Co. The loan between Borrower Co and B Co then "imports" the hybrid mismatch back to Country C, where there is a resulting indirect deduction/no inclusion hybrid mismatch.
 
 Section FH 11 denies a deduction for a payment (the imported mismatch payment) that does not itself give rise to a hybrid or branch mismatch but is treated as funding such a payment (the funded payment). Imported mismatch payments are split into payments where the imported mismatch payment and the funded payment are part of an arrangement (a structured arrangement) and those where they are not.
@@ -138,8 +130,6 @@ Section FH 11 denies a deduction for a payment (the imported mismatch payment) t
 Operational statement OS 21/02 "Administration of the imported mismatch rule – section FH 11" clarifies the Commissioner's expectations as to how taxpayers will meet their self-assessment obligations when applying the imported hybrid mismatch rule in s FH 11 to payments to members of their control group, and also how the rule will be administered by IR in relation to such payments. It is not intended to provide a safe harbour, but compliance with the statement will reduce the likelihood of lack of reasonable care penalties being imposed where an imported mismatch is later found to exist.
 
 In March 2022, remedial amendments clarified that a deduction for a charge to a deducting branch in New Zealand is denied where the charge imports the benefit of an offshore mismatch into New Zealand. In addition, the amendments:
-
-rules — base erosion and profit shifting (BEPS) measures
 
 ## ensure a deduction for a payment is not denied (either wholly or partly) where a jurisdiction(s) in a
 

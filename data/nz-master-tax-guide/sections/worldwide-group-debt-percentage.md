@@ -30,5 +30,3 @@ When an excess debt entity (other than an outbound excess debt entity) is calcul
 Law: IT07 ss FE 10, FE 11, FE 12, FE 17, FE 18, FE 31
 
 Last reviewed on 31 December 2025
-
-group debt percentage

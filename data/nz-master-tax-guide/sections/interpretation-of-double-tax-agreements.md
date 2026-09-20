@@ -18,5 +18,3 @@ DTAs have ambulatory and not static meaning so that a DTA may prevent the imposi
 *Refs: Tax Administration Act 1994*
 
 Last reviewed on 31 December 2025
-
-of "permanent establishment"

@@ -77,8 +77,6 @@ including:
 
 ## tracing of pre-consolidation losses and imputation credits
 
-companies regime
-
 ## keeping records for intra-group transfers of assets
 
 ## preparation of tax accounts for individual group companies, and
@@ -88,5 +86,3 @@ companies regime
 Law: IT07 subpart FM
 
 Last reviewed on 31 December 2025
-
-group

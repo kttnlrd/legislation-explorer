@@ -54,5 +54,3 @@ Law: IT07 ss EW 9, EW 10, EZ 33, EZ 34, EZ 51(1)
 *Refs: ss EW 9*
 
 Last reviewed on 31 December 2025
-
-rules

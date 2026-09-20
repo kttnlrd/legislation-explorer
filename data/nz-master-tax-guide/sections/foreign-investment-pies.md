@@ -53,8 +53,6 @@ and use the provisional tax option under s HM 44.
 
 Tax Information Bulletin ¶238-106 Vol 23, No 8, October 2011 at 27 discusses foreign investment PIEs in more detail.
 
-investment PIEs
-
 A more detailed discussion of the changes implemented under the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 can be found in Tax Information Bulletin ¶2410-113, ¶2410-114 Vol 24, No 10, December 2012 at 62 and 70.
 
 Law: IT07 ss CP 1, CX 56, CX 56B, DB 54B, HM 1, HM 2, HM 6, HM 6B, HM 19B, HM 19C, HM 35C, HM 41(4), HM 44(1B), HM 44B, HM 47, HM 55C–HM 55H, HM 71B, IC 3, LS 1, LS 2, YA 1 ("foreign investment PIE", "notified foreign investor"), Sch 6; TAA ss 28D, 31B, 31C

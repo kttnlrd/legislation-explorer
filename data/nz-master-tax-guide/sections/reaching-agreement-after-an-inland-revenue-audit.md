@@ -58,5 +58,3 @@ The guidelines set out that, when considering a "settlement" of a tax liability 
 Recognising that IR cannot do so in all cases, and where a dispute is commenced with the taxpayer, the guidelines provide a set of criteria which can be taken into account, depending on the particular case, and some guiding principles as to how much weight should be applied to those criteria.
 
 Last reviewed on 31 December 2025
-
-background

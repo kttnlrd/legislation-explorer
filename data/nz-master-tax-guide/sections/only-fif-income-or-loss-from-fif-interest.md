@@ -36,5 +36,3 @@ Law: IT07 ss CX 57B, EX 59, EX 60
 *Refs: ss CX 57B*
 
 Last reviewed on 31 December 2025
-
-method under FIF rules

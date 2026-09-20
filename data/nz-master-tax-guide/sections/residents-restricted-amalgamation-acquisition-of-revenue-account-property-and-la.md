@@ -40,5 +40,3 @@ Rollover relief is only available if the amalgamating company and amalgamated co
 Law: IT07 ss DH 5(5)(d), FO 10(6), FO 17
 
 Last reviewed on 31 December 2025
-
-amalgamation: transfer of financial arrangements

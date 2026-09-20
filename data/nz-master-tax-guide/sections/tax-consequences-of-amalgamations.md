@@ -47,8 +47,6 @@ An amount remitted may arise for base price adjustment calculation purposes if t
 
 Interpretation statement IS 25/10,"Income tax and GST – Amalgamations" provides detailed commentary along with practical examples on the income tax and GST treatment of company amalgamations. The item also sets out the different tax treatments between concessionary amalgamation and non-concessionary amalgamations.
 
-amalgamations
-
 ## Binding rulings
 
 The Commissioner considers that an amalgamated company is entitled to rely on a private, product or status ruling that an amalgamating company was previously entitled to rely on (interpretation statement IS0081 "The impact of company amalgamations on binding rulings" in Tax Information Bulletin ¶176-104 Vol 17, No 6, August 2005 at 12). This is because the amalgamated company succeeds to all of the rights, powers and privileges of the amalgamating company. However, the ability to rely on the pre-amalgamation ruling is subject to the continued fulfilment of any conditions and assumptions and post-amalgamation dealings not being materially different to the arrangement ruled upon.
@@ -60,5 +58,3 @@ In "Questions we've been asked" item QB0045, "The impact of company amalgamation
 Law: IT07 subpart FO; TAA s 76
 
 Last reviewed on 31 December 2025
-
-Commissioner of amalgamation

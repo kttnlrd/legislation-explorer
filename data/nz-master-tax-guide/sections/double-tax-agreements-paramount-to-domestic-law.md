@@ -26,5 +26,3 @@ Law: IT07 s BH 1(4)
 *Refs: s BH 1(4)*
 
 Last reviewed on 31 December 2025
-
-agreements > Interpretation of double tax agreements

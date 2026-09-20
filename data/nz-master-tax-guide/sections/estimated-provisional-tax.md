@@ -35,6 +35,4 @@ Law: IT07 ss RC 5(5), RC 7
 
 Last reviewed on 31 December 2025
 
-estimate
-
 Shortfall penalties for lack of reasonable care when making an

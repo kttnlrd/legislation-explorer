@@ -112,5 +112,3 @@ The penalty for failing to withhold tax from payments made to non-resident contr
 Law: IT07 ss RD 8, RD 23, RD 24, YA 1 ("contract payment", "non-resident contractor"), Sch 4, pt A; TAA ss 24H, 24HB, 141AA, 141GC, Sch 5, pt C, cl 6
 
 Last reviewed on 31 December 2025
-
-entertainers

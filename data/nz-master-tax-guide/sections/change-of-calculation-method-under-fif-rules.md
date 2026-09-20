@@ -56,5 +56,3 @@ Law: IT07 s EX 62
 *Refs: s EX 62*
 
 Last reviewed on 31 December 2025
-
-interest when change of calculation method

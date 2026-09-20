@@ -28,5 +28,3 @@ Law: GST ss 15E(3), (4), 61A
 *Refs: ss 15E(3)*
 
 Last reviewed on 31 December 2025
-
-amalgamation

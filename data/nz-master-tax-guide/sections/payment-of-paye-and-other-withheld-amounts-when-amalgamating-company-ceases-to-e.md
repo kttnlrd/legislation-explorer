@@ -16,5 +16,3 @@ Law: IT07 s RA 20
 *Refs: s RA 20*
 
 Last reviewed on 31 December 2025
-
-an amalgamation

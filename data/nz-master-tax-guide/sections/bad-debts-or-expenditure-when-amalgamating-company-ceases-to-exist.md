@@ -18,5 +18,3 @@ Law: IT07 ss DV 15(2), FO 8
 *Refs: ss DV 15(2)*
 
 Last reviewed on 31 December 2025
-
-expenditure of amalgamating company that ceases to exist

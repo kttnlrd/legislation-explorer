@@ -20,5 +20,3 @@ The NRWT deducted must be paid to the Commissioner on a monthly basis. The NRWT 
 Law: IT07 subpart RF
 
 Last reviewed on 31 December 2025
-
-income

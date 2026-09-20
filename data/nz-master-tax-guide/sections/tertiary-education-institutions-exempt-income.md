@@ -18,5 +18,3 @@ Law: IT07 s CW 55BA
 *Refs: s CW 55B*
 
 Last reviewed on 31 December 2025
-
-M#ori Land Act

@@ -28,5 +28,3 @@ An agent or bare trustee for a transitional resident may be excluded from the re
 Law: IT07 ss RE 5(3), RE 7–RE 9
 
 Last reviewed on 31 December 2025
-
-income "paid"

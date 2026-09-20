@@ -59,8 +59,6 @@ considers the parties' allocation is not based on relative market values. Howeve
 
 *Refs: ss GC 20*
 
-price allocation rules
-
 cannot impose his own allocation on an item of depreciable property if its original cost for the vendor was less than $10,000, the total amount allocated for the item and any identical property is less than $1 million, and the amount allocated for the item is no less than its tax book value and no greater than its original cost.
 
 ## The unilateral allocation rules (ie allocation by the vendor, the purchaser or the Commissioner)
@@ -94,5 +92,3 @@ QWBA QB 25/22, "Do the purchase price allocation rules alter the tax book values
 Law: IT07 ss GC 20, GC 21
 
 Last reviewed on 31 December 2025
-
-right to income

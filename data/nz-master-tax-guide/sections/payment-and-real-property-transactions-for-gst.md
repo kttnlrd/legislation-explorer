@@ -37,8 +37,6 @@ The deposits for the lots were then held by the taxpayer's lawyers as agent for 
 
 IS 10/03 confirms the position that the stakeholder can be a third party or the supplier. Where the stakeholder is a third party, the essential requirement for a stakeholder relationship is the existence of an agreement between the parties. In this case, the time of supply will not be triggered until the stakeholder
 
-GST
-
 applies the deposit for the supplier's benefit. Where the supplier is the stakeholder, the time of supply will not be triggered unless the supplier applies the deposit for their benefit.
 
 ## Long-term agreements
@@ -70,5 +68,3 @@ Also see QB 14/10, "GST — whether a binding contract always establishes a tran
 Law: GST ss 9(1), 25
 
 Last reviewed on 31 December 2025
-
-transactions

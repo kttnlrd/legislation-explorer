@@ -41,12 +41,8 @@ A non-resident seasonal worker employed under the recognised seasonal employment
 
 *Refs: s HD 27(1), s HD 3, s HD 27(2)*
 
-income
-
 Law: IT07 ss BD 1(4), (5)(c), CW 19, HD 27, YD 1(8), (11), Sch 2
 
 *Refs: ss BD 1(4)*
 
 Last reviewed on 31 December 2025
-
-agreement for personal services income

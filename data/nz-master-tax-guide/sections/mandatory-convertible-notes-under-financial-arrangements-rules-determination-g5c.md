@@ -15,6 +15,4 @@ Several specific determinations on mandatory convertible notes have been release
 
 Last reviewed on 31 December 2025
 
-Determination G22A
-
 Optional convertible notes under financial arrangements rules

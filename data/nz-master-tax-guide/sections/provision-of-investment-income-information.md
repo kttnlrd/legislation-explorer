@@ -31,8 +31,6 @@ Investment income information is defined as the items of information listed in S
 
 5 The tax file number of the investor, if held by the payer 6 The contact address of the investor and, if the investor is non-resident, the country code of the investor 7 The date of birth of the investor, if held by the payer 8 The amount and type of income of the investor for the period 9 The tax withheld on behalf of, or approved issuer levy paid in relation to, the investor for the period 10 The date on which or period in which the tax was withheld or levy paid 11 The tax rate of the investor for the period as notified to the payer, if applicable 12 The notified investor rate of the investor, if applicable 13 Whether the PIE is a superannuation fund or a retirement savings scheme or not 14 The imputation credits attached, if applicable 15 The Maori authority credits attached, if applicable 16 The names, tax file numbers, dates of birth, and contact addresses of persons who are joint owners, if held by the payer 17 The number of shares for which the dividend is declared, or in the case of a dividend that is a bonus issue, the number of shares included in the bonus issue 18 The date on which the dividend is declared and the payment date of the dividend 19 In the case of a dividend that is a bonus issue, the amount of the bonus issue as determined under s CD 7 or CD 8 of the IT07
 
-information
-
 20 If the dividend is paid in Australian currency by an Australian ICA company, the exchange rate between the NZ dollar and the Australian dollar that was used to calculate the imputation ratio 21 The total amounts of income, tax withheld, credits, imputation ratio, and Maori authority ratio, as applicable, for the items in rows 8, 9, 14, 15, and 19 22 Further information as required by the Commissioner
 
 Payers of resident passive income must deliver the following information in electronic form to the Commissioner by the 20th of the month following the month in which the investment income is paid to or derived by the payee (ss 25F, 25G, 25I):
@@ -73,8 +71,6 @@ Operational Statement OS 19/01: "Exemption from electronic filing" discusses the
 
 The Commissioner will take into account the availability of connection to the internet and type of connection, and accepts that a person will need at least a broadband internet connection. The reliability of the connection
 
-information
-
 will also be considered and the statement states that an unreliable internet connection will be a significant factor in granting an exemption.
 
 The Commissioner will consider whether the person has the necessary computer skills to be able to use the digital technology and, if not, whether they have an employee, or can engage the services of someone, who is able to use the technology. Whether the person has some disability that affects their ability to use digital services will also be relevant. If a person uses a computer with an internet connection in their business or as part of their everyday affairs, the Commissioner considers it reasonable to expect they will have little difficulty in sending the necessary returns/information electronically.
@@ -84,5 +80,3 @@ The question of costs will be considered by determining what is unreasonable in 
 Law: TAA ss 25C(a), 25D, 25E, 25F, 25G, 25I, 25P, 25Q, 25R, 227E, Sch 6
 
 Last reviewed on 31 December 2025
-
-deduction required from interest payments

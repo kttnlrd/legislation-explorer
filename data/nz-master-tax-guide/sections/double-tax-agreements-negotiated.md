@@ -18,5 +18,3 @@ Australia Indonesia Singapore Austria Ireland Slovak Republic Belgium Italy Sout
 Progress on the negotiation of DTAs is monitored by the Commissioner at www.taxpolicy.ird.govt.nz. From time to time New Zealand negotiates amendments to one of its DTAs by executing a protocol; see, for example, the protocol to the DTA with the United Kingdom made on 4 November 2003.
 
 Last reviewed on 31 December 2025
-
-sparing provisions

@@ -45,8 +45,6 @@ tax in relation to the benefit
 
 question under s GB 25 (excessive remuneration by close company to shareholder, director, or relative)
 
-workers
-
 ## any redundancy payment
 
 ## any retiring allowance
@@ -91,8 +89,6 @@ Work account levy $ classification unit: bread manufacturing (21610) (0.79 × 15
 
 Subtotal 1,305.00 Add GST @ 15% 195.75 Total ACC levies payable to the ACC by the date specified on the invoice 1,500.75
 
-workers
-
 ## Estimation
 
 As noted above, the work account levy is based on an estimate of the salary or wages that will be paid in the year of cover. This estimate is usually made by the ACC (because payment of the work account levy is required before a tax return for that year has been filed), but it may be made by the employer.
@@ -129,8 +125,6 @@ Upward adjustments of 50% must be made if an upward audit discloses that an empl
 
 If in any tax year, after an employer has paid the Work Account levy for that tax year (including the applicable upward adjustment to that levy), a further upward audit under reg 19 discloses that the employer's safety management practices meet the standard required by the upward audit tool, ACC must pay, on the employer's request, any refund due exceeding $100 (after the downward adjustment). If the employer does not request a refund or the refund amount is $100 or less, a credit will be made to the work account levy due for the next tax year (reg 21 of the Accident Compensation (Work Account Levies) Regulations 2025).
 
-workers
-
 ## Work account levy payment
 
 The ACC invoices the work account levy from employers and self-employed persons directly as part of its annual invoicing cycle. Employers and self-employed persons receive only one invoice from the ACC for all levies and only one payment is required per year. As noted above, this invoice will include the estimate of levies for the current year together with the adjustment for the prior year. The ACC begins to issue invoices from June. Payments are due by the date specified in the invoice.
@@ -164,8 +158,6 @@ Step 2 The ratio of each employer's amount to the total $202,790 (rounded) Hospi
 Step 3 Calculate earnings on which excess levy over specified maximum was paid Total earnings on which levy paid: $202,790 Less specified maximum: $152,790 Total earnings on which excess levy paid: $50,000
 
 Step 4 Calculate proportion of earnings on which excess levy paid to be attributed to each employer Hospital One: $50,000 × 75% = $37,500 Hospital Two: $50,000 × 25% = $12,500
-
-workers
 
 Total: $50,000
 

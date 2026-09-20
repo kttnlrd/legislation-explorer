@@ -28,5 +28,3 @@ Law: IT07 s YA 1 ("arrangement")
 *Refs: s YA 1*
 
 Last reviewed on 31 December 2025
-
-a purpose or effect of tax avoidance?

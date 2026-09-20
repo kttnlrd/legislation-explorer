@@ -45,8 +45,6 @@ An indirect control interests arises where a person holds an interest in a CFC, 
 
 When 2 or more New Zealand residents enter into an arrangement whereby any control interests in a foreign company are held by other persons so as to prevent that company from being a CFC, those control interests are deemed to be held by the New Zealand residents in equal shares.
 
-companies and control interests
-
 Control interests are measured on the last day of each calendar quarter. The control interest determined at that date is treated as having been held for the whole of the quarter. Alternatively, the investor may make an irrevocable election for control interests to be ascertained on a daily basis. The election would not be effective if the Commissioner considers that interests have been transferred between associates for the purpose of defeating the CFC or FIF rules.
 
 A New Zealand resident is treated as associated with a non-resident relative only if the New Zealand resident holds a direct control interest or indirect control interest in the CFC.
@@ -66,5 +64,3 @@ See further at ¶29-111 and ¶29-112.
 Law: IT07 ss EX 1, EX 2–EX 7, EX 26, GB 7, YD 2(2)
 
 Last reviewed on 31 December 2025
-
-in a CFC

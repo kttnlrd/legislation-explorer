@@ -36,5 +36,3 @@ Law: IT07 s FE 13
 *Refs: s FE 13*
 
 Last reviewed on 31 December 2025
-
-calculating group debt percentage

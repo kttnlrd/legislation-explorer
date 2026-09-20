@@ -37,8 +37,6 @@ by independent valuation (if so, the cost method becomes applicable)
 
 ## another available calculation method is chosen.
 
-FIF income or loss
-
 Since the FDR method applies to FIF interests held on 1 April, it does not create FIF income for FIF interests purchased during the income year (unless the purchase becomes a "quick sale" FIF).
 
 The FDR method also recognises "quick sale" FIF interests, ie FIF interests that are purchased and sold within the income year. The FDR method creates FIF income for 5% of the lesser of the cost of the quick sale FIF interest or the gain realised from the purchase and sale, with an ability to use average cost if a share reorganisation occurs during the holding period.
@@ -64,8 +62,6 @@ From 1 April 2022, amendments to subpart EM improve the functionality of the rul
 ## Investments in Australian unit trusts
 
 Australian unit trusts are an investment vehicle popular in Australia. In Australia they are treated as trusts under Australian tax law, however they are considered companies under New Zealand tax law. Income rights are divided amongst the beneficiaries based on the number of units that have been issued to them, and income distribution is not subject to trustee discretion. Generally, the FIF rules apply to portfolio interests of less than 10%, while the CFC rules generally apply to companies in which 5 or fewer New Zealand tax residents hold more than 50% of the shareholding. If a New Zealand resident holds 10% or more in an Australian unit trust, they could not apply the FDR method prior to changes made in 2023 (see below) and could have resulted in undesirable tax outcomes (including economic double taxation) for New Zealand resident investors in Australian unit trusts under certain circumstances.
-
-FIF income or loss
 
 In 2023 ss EX 52 and EX 53 were amended retrospectively with an effective date of 1 July 2017 to allow New Zealand resident investors in Australian unit trusts to use the FDR method to calculate FIF income when their interest in the Australian unit trust is 10% or more.
 
@@ -99,8 +95,6 @@ Under the deemed rate of return method, FIF income is the book value of the FIF 
 
 Attributable FIF income method
 
-FIF income or loss
-
 The attributable FIF income method may be chosen for a FIF where adequate financial information can be supplied to the Commissioner and one of the following applies:
 
 ## an income interest of at least 10% is held in the FIF as a foreign company (treating the period in
@@ -128,5 +122,3 @@ Further discussion of the attributable FIF income method can be found in Tax Inf
 Law: IT07 ss CQ 6, DN 7, EX 44–EX 56, EX 58, EX 61, subpt EM
 
 Last reviewed on 31 December 2025
-
-from FIF interest

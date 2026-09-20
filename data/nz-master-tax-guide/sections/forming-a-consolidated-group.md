@@ -34,5 +34,3 @@ Law: IT07 ss FM 32, FM 34, FM 35, FM 38, HD 11(1)
 *Refs: ss FM 32*
 
 Last reviewed on 31 December 2025
-
-group

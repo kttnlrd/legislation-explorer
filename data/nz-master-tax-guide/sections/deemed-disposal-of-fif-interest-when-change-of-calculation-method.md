@@ -40,5 +40,3 @@ Law: IT07 ss EX 63, EX 66B
 *Refs: ss EX 63*
 
 Last reviewed on 31 December 2025
-
-market value for FIF rules

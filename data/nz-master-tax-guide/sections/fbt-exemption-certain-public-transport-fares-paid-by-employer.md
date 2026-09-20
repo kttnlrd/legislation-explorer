@@ -30,5 +30,3 @@ For the FBT treatment of e-scooters and vehicle-share services, see ¶21-660.
 Law: IT07 ss CX 9, CX 19C
 
 Last reviewed on 31 December 2025
-
-services

@@ -18,5 +18,3 @@ Law: IT07 ss CV 4, FO 7, FO 9
 *Refs: ss CV 4*
 
 Last reviewed on 31 December 2025
-
-acquire shares in amalgamating company that ceases to exist

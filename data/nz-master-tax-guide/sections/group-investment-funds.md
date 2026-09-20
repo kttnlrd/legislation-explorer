@@ -62,5 +62,3 @@ For discussion on the impact of the ASCA on tax refunds due, see ¶17-105.
 Law: IT07 ss BC 7, CD 16, CZ 14, DV 5–DV 7, HD 23, HR 2, HR 3, OA 2(5), OB 19, OB 46, OB 65(2), OF 1–OF 5, OZ 5, OZ 6, YA 1 ("company", "group investment fund", "public unit trust", "share", "widely-held GIF"), Sch 1 pt A cls 3–6; TAA s 104B
 
 Last reviewed on 31 December 2025
-
-associations

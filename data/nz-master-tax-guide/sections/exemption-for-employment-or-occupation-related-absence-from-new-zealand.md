@@ -29,6 +29,4 @@ Law: SLSA 2011 s 25(1)(e), Sch 1
 
 Last reviewed on 31 December 2025
 
-loan borrower
-
 Exemption for accompanying spouse, civil union partner or de

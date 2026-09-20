@@ -40,5 +40,3 @@ Law: TAA s 26C(6)
 *Refs: s 26C(6)*
 
 Last reviewed on 31 December 2025
-
-information

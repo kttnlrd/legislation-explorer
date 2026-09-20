@@ -22,5 +22,3 @@ Law: IT07 ss LK 1–LK 6
 *Refs: ss LK 1*
 
 Last reviewed on 31 December 2025
-
-investment fund (FIF) rules

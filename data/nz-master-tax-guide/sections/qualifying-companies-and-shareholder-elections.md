@@ -31,8 +31,6 @@ One or more shareholders who have effective interests in the company of 50% or m
 
 Revocation
 
-elections
-
 A shareholder's election can be revoked by voluntary revocation. The shareholder must notify both the Commissioner and the company. Revocation applies from the beginning of the income year in which Inland Revenue (IR) receives the notice, unless a later year is specified. When determining the effective interest in the company of the person making the revocation, the revocation takes effect when both the company and IR have received the notice, unless a later date is specified.
 
 A shareholder's revocation is also automatic, where certain events occur, ie the death of the shareholder, a previously non-sui juris shareholder becomes sui juris, the entire shareholding is sold to a new shareholder, a joint election has been made and revocation is made by one of the electors, and a minority shareholder becomes a majority shareholder or vice versa.
@@ -42,39 +40,3 @@ A period of grace is allowed for new elections to be made: see ¶19-070.
 Law: IT07 ss HA 5, HA 8, HA 11(5), HA 28, HA 29, HA 30, HA 32, HA 33, HA 43, HA 44
 
 Last reviewed on 31 December 2025
-
-for new elections
-
-Qualifying companies and period of grace for new elections
-
-So long as a new election is made within a specified time, the qualifying company (QC) regime provides for certain periods of grace where an election has been revoked resulting in the QC losing its QC status. A company will, therefore, not cease to be a QC if the following occurs:
-
-## the company would have been a QC but for the death of the shareholder or any other person and the
-
-company meets all the criteria for being a QC within 12 months
-
-## a person eligible to make a shareholder election makes, or is deemed to have made, an election
-
-within 63 days after the date of a shareholder revocation
-
-## an acquiring shareholder makes an election within 63 days of acquisition of the shares
-
-## an existing shareholder who acquires legal capacity makes a shareholder election within 63 days of
-
-acquiring legal capacity
-
-## a minority shareholder makes an election within 63 days of becoming a majority shareholder, or a
-
-new majority shareholder makes an election in respect of the minority shareholding within 63 days, or
-
-## a jointly made election is revoked due to any of the events listed above, and a new election is made
-
-within the relevant period of grace (63 days or 12 months depending on the underlying reason for revocation).
-
-On application, these periods of grace may be extended by the Commissioner.
-
-Law: IT07 ss HA 34–HA 37
-
-Last reviewed on 31 December 2025
-
-to be a qualifying company

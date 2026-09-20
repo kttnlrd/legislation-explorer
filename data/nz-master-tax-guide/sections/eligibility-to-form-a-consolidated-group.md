@@ -69,8 +69,6 @@ Special rules apply to the consolidation of mining operations to ensure that:
 
 companies (s FM 31(2)), and
 
-group
-
 ## losses incurred by mineral miners are dealt with under subpart IS (Mineral miners' and petroleum
 
 miners' tax losses) rather than subpart ID (Use of tax losses by consolidated groups) (s IS 2).

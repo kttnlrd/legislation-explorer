@@ -46,5 +46,3 @@ Law: IT07 ss CW 15, HA 14–HA 16
 *Refs: ss CW 15*
 
 Last reviewed on 31 December 2025
-
-credits attached to dividend

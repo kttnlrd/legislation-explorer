@@ -28,5 +28,3 @@ Section RC 31 sets out specific modifications to the GST ratio method provisions
 Law: IT07 ss FM 4, RC 8, RC 16, RC 17, RC 28–RC 31
 
 Last reviewed on 31 December 2025
-
-consolidated group

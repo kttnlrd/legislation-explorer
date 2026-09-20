@@ -22,5 +22,3 @@ At 31 March 20X4 Big White Co Ltd has a $4,000 debit in its ICA. On 30 June 20X4
 Law: IT07 ss OB 69, RC 35
 
 Last reviewed on 31 December 2025
-
-attribution rules

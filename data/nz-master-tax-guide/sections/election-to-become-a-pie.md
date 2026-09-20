@@ -30,5 +30,3 @@ Upon electing to enter the regime, a notional disposal and reacquisition of cert
 Law: IT07 ss HM 71, HM 72, HM 73, HM 74, HM 75; TAA s 31B
 
 Last reviewed on 31 December 2025
-
-PIE

@@ -18,5 +18,3 @@ Law: IT07 ss FO 4, RC 33
 *Refs: ss FO 4*
 
 Last reviewed on 31 December 2025
-
-when amalgamating company ceases to exist

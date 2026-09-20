@@ -28,5 +28,3 @@ This is because a person who is entitled to acquire a control interest in a fore
 Law: IT07 ss EX 8–EX 11, EX 14–EX 17, EX 26
 
 Last reviewed on 31 December 2025
-
-income or loss — exclusions

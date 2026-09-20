@@ -74,5 +74,3 @@ FBT will apply accordingly throughout the period(s) during which the arrangement
 Law: IT07 ss CX 2(2), (5), GB 31, YA 1 ("arrangement")
 
 Last reviewed on 31 December 2025
-
-fund investors

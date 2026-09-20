@@ -18,5 +18,3 @@ Law: IT07 ss EW 43, EW 49
 *Refs: ss EW 43*
 
 Last reviewed on 31 December 2025
-
-arrangements rules

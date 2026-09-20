@@ -434,9 +434,37 @@
     "chapter_title": "Tax System"
   },
   {
+    "id": "permitted-disclosures-to-persons-and-their-representatives",
+    "title": "Permitted disclosures to persons and their representatives",
+    "paragraph": "¶1-618",
+    "chapter": "1",
+    "chapter_title": "Tax System"
+  },
+  {
+    "id": "permitted-disclosures-to-agencies-for-certain-purposes",
+    "title": "Permitted disclosures to agencies for certain purposes",
+    "paragraph": "¶1-622",
+    "chapter": "1",
+    "chapter_title": "Tax System"
+  },
+  {
+    "id": "permitted-disclosure-approved-credit-reporting-agency",
+    "title": "Permitted disclosure: approved credit reporting agency",
+    "paragraph": "¶1-624",
+    "chapter": "1",
+    "chapter_title": "Tax System"
+  },
+  {
     "id": "permitted-disclosure-suspected-offences-under-companies-act-1993",
     "title": "Permitted disclosure: suspected offences under Companies Act 1993",
     "paragraph": "¶1-625",
+    "chapter": "1",
+    "chapter_title": "Tax System"
+  },
+  {
+    "id": "permitted-disclosure-accident-compensation-corporation",
+    "title": "Permitted disclosure: Accident Compensation Corporation",
+    "paragraph": "¶1-627",
     "chapter": "1",
     "chapter_title": "Tax System"
   },
@@ -451,6 +479,13 @@
     "id": "permitted-disclosure-child-support-exemption",
     "title": "Permitted disclosure: child support exemption",
     "paragraph": "¶1-631",
+    "chapter": "1",
+    "chapter_title": "Tax System"
+  },
+  {
+    "id": "permitted-disclosure-foreign-social-security-agreement",
+    "title": "Permitted disclosure: foreign social security agreement",
+    "paragraph": "¶1-633",
     "chapter": "1",
     "chapter_title": "Tax System"
   },
@@ -472,6 +507,13 @@
     "id": "permitted-disclosure-to-reduce-or-remove-harm",
     "title": "Permitted disclosure to reduce or remove harm",
     "paragraph": "¶1-638",
+    "chapter": "1",
+    "chapter_title": "Tax System"
+  },
+  {
+    "id": "permitted-disclosure-misapplication-of-charitable-funds",
+    "title": "Permitted disclosure: misapplication of charitable funds",
+    "paragraph": "¶1-640",
     "chapter": "1",
     "chapter_title": "Tax System"
   },
@@ -609,6 +651,13 @@
     "chapter_title": "Tax Returns"
   },
   {
+    "id": "returns-for-less-than-6-months-or-more-than-18-months",
+    "title": "Returns for less than 6 months or more than 18 months",
+    "paragraph": "¶2-071",
+    "chapter": "2",
+    "chapter_title": "Tax Returns"
+  },
+  {
     "id": "adjustments-required-when-balance-date-changed",
     "title": "Adjustments required when balance date changed",
     "paragraph": "¶2-075",
@@ -626,6 +675,13 @@
     "id": "late-filing-penalties-and-non-electronic-filing-penalties",
     "title": "Late filing penalties and non-electronic filing penalties",
     "paragraph": "¶2-090",
+    "chapter": "2",
+    "chapter_title": "Tax Returns"
+  },
+  {
+    "id": "addresses-to-send-tax-returns-payments-and-correspondence",
+    "title": "Addresses to send tax returns, payments and correspondence",
+    "paragraph": "¶2-095",
     "chapter": "2",
     "chapter_title": "Tax Returns"
   },
@@ -703,6 +759,13 @@
     "id": "small-amounts-of-refund-or-tax-payable",
     "title": "Small amounts of refund or tax payable",
     "paragraph": "¶2-155",
+    "chapter": "2",
+    "chapter_title": "Tax Returns"
+  },
+  {
+    "id": "refund-of-tax-subsequently-exempted-by-order-in-council",
+    "title": "Refund of tax subsequently exempted by Order in Council",
+    "paragraph": "¶2-160",
     "chapter": "2",
     "chapter_title": "Tax Returns"
   },
@@ -1211,6 +1274,13 @@
     "chapter_title": "Employers' Responsibilities"
   },
   {
+    "id": "distinction-between-employee-and-independent-contractor",
+    "title": "Distinction between employee and independent contractor",
+    "paragraph": "¶3-376",
+    "chapter": "3",
+    "chapter_title": "Employers' Responsibilities"
+  },
+  {
     "id": "consequence-of-being-employee-versus-contractor",
     "title": "Consequence of being employee versus contractor",
     "paragraph": "¶3-386",
@@ -1242,6 +1312,20 @@
     "id": "real-estate-salespersons",
     "title": "Real estate salespersons",
     "paragraph": "¶3-406",
+    "chapter": "3",
+    "chapter_title": "Employers' Responsibilities"
+  },
+  {
+    "id": "accommodation-or-accommodation-allowance-provided",
+    "title": "Accommodation or accommodation allowance provided",
+    "paragraph": "¶3-420",
+    "chapter": "3",
+    "chapter_title": "Employers' Responsibilities"
+  },
+  {
+    "id": "accommodation-or-allowance-provided-exempt-income",
+    "title": "Accommodation or allowance provided — exempt income",
+    "paragraph": "¶3-425",
     "chapter": "3",
     "chapter_title": "Employers' Responsibilities"
   },
@@ -1302,6 +1386,13 @@
     "chapter_title": "Employers' Responsibilities"
   },
   {
+    "id": "expenditure-incurred-in-the-derivation-of-a-schedular-payment",
+    "title": "Expenditure incurred in the derivation of a schedular payment",
+    "paragraph": "¶3-457",
+    "chapter": "3",
+    "chapter_title": "Employers' Responsibilities"
+  },
+  {
     "id": "inducement-payments",
     "title": "Inducement payments",
     "paragraph": "¶3-460",
@@ -1354,6 +1445,13 @@
     "id": "trust-account-for-paye-intermediaries",
     "title": "Trust account for PAYE intermediaries",
     "paragraph": "¶3-476",
+    "chapter": "3",
+    "chapter_title": "Employers' Responsibilities"
+  },
+  {
+    "id": "approval-of-employer-arrangement-with-paye-intermediary",
+    "title": "Approval of employer arrangement with PAYE intermediary",
+    "paragraph": "¶3-477",
     "chapter": "3",
     "chapter_title": "Employers' Responsibilities"
   },
@@ -1456,9 +1554,23 @@
     "chapter_title": "Assessments And Disputes Resolution"
   },
   {
+    "id": "assessments-corrected-without-entering-disputes-process",
+    "title": "Assessments corrected without entering disputes process",
+    "paragraph": "¶4-095",
+    "chapter": "4",
+    "chapter_title": "Assessments And Disputes Resolution"
+  },
+  {
     "id": "limitation-of-time-and-commissioners-power-to-amend-assessments",
     "title": "Limitation of time and Commissioner's power to amend assessments",
     "paragraph": "¶4-110",
+    "chapter": "4",
+    "chapter_title": "Assessments And Disputes Resolution"
+  },
+  {
+    "id": "no-time-limit-for-amending-assessments-or-determinations",
+    "title": "No time limit for amending assessments or determinations",
+    "paragraph": "¶4-115",
     "chapter": "4",
     "chapter_title": "Assessments And Disputes Resolution"
   },
@@ -1484,6 +1596,13 @@
     "chapter_title": "Assessments And Disputes Resolution"
   },
   {
+    "id": "prosecution-being-considered-during-the-disputes-process",
+    "title": "Prosecution being considered during the disputes process",
+    "paragraph": "¶4-128",
+    "chapter": "4",
+    "chapter_title": "Assessments And Disputes Resolution"
+  },
+  {
     "id": "notice-of-proposed-adjustment-nopa-issued-by-commissioner",
     "title": "Notice of proposed adjustment (NOPA) issued by Commissioner",
     "paragraph": "¶4-130",
@@ -1491,9 +1610,30 @@
     "chapter_title": "Assessments And Disputes Resolution"
   },
   {
+    "id": "notice-of-proposed-adjustment-nopa-issued-by-taxpayer",
+    "title": "Notice of proposed adjustment (NOPA) issued by taxpayer",
+    "paragraph": "¶4-135",
+    "chapter": "4",
+    "chapter_title": "Assessments And Disputes Resolution"
+  },
+  {
+    "id": "form-and-content-of-notice-of-proposed-adjustment-nopa",
+    "title": "Form and content of notice of proposed adjustment (NOPA)",
+    "paragraph": "¶4-140",
+    "chapter": "4",
+    "chapter_title": "Assessments And Disputes Resolution"
+  },
+  {
     "id": "commissioner-not-required-to-issue-notice-of-proposed-adjustment-nopa",
     "title": "Commissioner not required to issue notice of proposed adjustment (NOPA)",
     "paragraph": "¶4-145",
+    "chapter": "4",
+    "chapter_title": "Assessments And Disputes Resolution"
+  },
+  {
+    "id": "action-on-receipt-of-notice-of-proposed-adjustment-nopa",
+    "title": "Action on receipt of notice of proposed adjustment (NOPA)",
+    "paragraph": "¶4-150",
     "chapter": "4",
     "chapter_title": "Assessments And Disputes Resolution"
   },
@@ -1645,6 +1785,13 @@
     "chapter_title": "Assessments And Disputes Resolution"
   },
   {
+    "id": "taxation-and-charities-review-authority-general-jurisdiction",
+    "title": "Taxation and Charities Review Authority general jurisdiction",
+    "paragraph": "¶4-235",
+    "chapter": "4",
+    "chapter_title": "Assessments And Disputes Resolution"
+  },
+  {
     "id": "high-court-jurisdiction",
     "title": "High Court jurisdiction",
     "paragraph": "¶4-245",
@@ -1725,6 +1872,13 @@
     "id": "income-derived-but-not-received",
     "title": "Income derived but not received",
     "paragraph": "¶5-043",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
+    "id": "employment-income-remuneration-derived-by-an-employee",
+    "title": "Employment income — remuneration derived by an employee",
+    "paragraph": "¶5-051",
     "chapter": "5",
     "chapter_title": "Income"
   },
@@ -1823,6 +1977,13 @@
     "id": "authorised-income-spreading-of-fines-premiums-and-payments-for-goodwill-on-grant",
     "title": "Authorised income spreading of fines, premiums and payments for goodwill on grant of lease",
     "paragraph": "¶5-115",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
+    "id": "spread-of-income-derived-on-acquisition-of-land-by-crown",
+    "title": "Spread of income derived on acquisition of land by Crown",
+    "paragraph": "¶5-122",
     "chapter": "5",
     "chapter_title": "Income"
   },
@@ -1967,6 +2128,13 @@
     "chapter_title": "Income"
   },
   {
+    "id": "personal-property-acquired-for-purpose-of-disposal-s-cb-4",
+    "title": "Personal property acquired for purpose of disposal — s CB 4",
+    "paragraph": "¶5-197",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
     "id": "dominant-purpose-of-disposal-of-property-s-cb-4",
     "title": "Dominant purpose of disposal of property — s CB 4",
     "paragraph": "¶5-200",
@@ -2005,6 +2173,13 @@
     "id": "cryptoassets",
     "title": "Cryptoassets",
     "paragraph": "¶5-219",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
+    "id": "income-from-sale-of-patent-rights-or-patent-applications",
+    "title": "Income from sale of patent rights or patent applications",
+    "paragraph": "¶5-222",
     "chapter": "5",
     "chapter_title": "Income"
   },
@@ -2093,6 +2268,13 @@
     "chapter_title": "Income"
   },
   {
+    "id": "interest-income-bonus-balloting-shares-and-bank-prizes",
+    "title": "Interest income — bonus balloting shares and bank prizes",
+    "paragraph": "¶5-272",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
     "id": "debenture-interest-income",
     "title": "Debenture interest income",
     "paragraph": "¶5-274",
@@ -2103,6 +2285,13 @@
     "id": "income-annuities",
     "title": "Income — annuities",
     "paragraph": "¶5-275",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
+    "id": "income-benefit-from-money-advanced-in-lieu-of-interest",
+    "title": "Income — benefit from money advanced in lieu of interest",
+    "paragraph": "¶5-279",
     "chapter": "5",
     "chapter_title": "Income"
   },
@@ -2184,9 +2373,23 @@
     "chapter_title": "Income"
   },
   {
+    "id": "income-acc-personal-service-rehabilitation-payments",
+    "title": "Income — ACC personal service rehabilitation payments",
+    "paragraph": "¶5-303",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
     "id": "income-education-grants",
     "title": "Income — education grants",
     "paragraph": "¶5-305",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
+    "id": "income-new-zealand-superannuation-and-main-benefits",
+    "title": "Income — New Zealand superannuation and main benefits",
+    "paragraph": "¶5-307",
     "chapter": "5",
     "chapter_title": "Income"
   },
@@ -2208,6 +2411,13 @@
     "id": "income-pensions",
     "title": "Income — pensions",
     "paragraph": "¶5-315",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
+    "id": "taxation-of-interests-in-foreign-superannuation-schemes",
+    "title": "Taxation of interests in foreign superannuation schemes",
+    "paragraph": "¶5-317",
     "chapter": "5",
     "chapter_title": "Income"
   },
@@ -2240,6 +2450,13 @@
     "chapter_title": "Income"
   },
   {
+    "id": "income-recovered-employer-superannuation-contributions",
+    "title": "Income — recovered employer superannuation contributions",
+    "paragraph": "¶5-343",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
     "id": "income-refund-of-expenditure",
     "title": "Income — refund of expenditure",
     "paragraph": "¶5-344",
@@ -2257,6 +2474,13 @@
     "id": "income-insurance-indemnity-or-compensation-for-trading-stock",
     "title": "Income — insurance, indemnity or compensation for trading stock",
     "paragraph": "¶5-346",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
+    "id": "income-purchase-and-subsequent-disposal-of-leased-asset",
+    "title": "Income — purchase and subsequent disposal of leased asset",
+    "paragraph": "¶5-348",
     "chapter": "5",
     "chapter_title": "Income"
   },
@@ -2429,6 +2653,13 @@
     "chapter_title": "Income"
   },
   {
+    "id": "exempt-income-loans-to-government-by-non-residents",
+    "title": "Exempt income — loans to government by non-residents",
+    "paragraph": "¶5-628",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
     "id": "exempt-income-allowances-and-benefits",
     "title": "Exempt income — allowances and benefits",
     "paragraph": "¶5-630",
@@ -2471,6 +2702,13 @@
     "chapter_title": "Income"
   },
   {
+    "id": "exempt-income-foreign-superannuation-withdrawals",
+    "title": "Exempt income — foreign superannuation withdrawals",
+    "paragraph": "¶5-648",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
     "id": "exempt-income-compensation-payments",
     "title": "Exempt income — compensation payments",
     "paragraph": "¶5-653",
@@ -2495,6 +2733,20 @@
     "id": "exempt-income-superannuation-fund-benefits",
     "title": "Exempt income — superannuation fund benefits",
     "paragraph": "¶5-663",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
+    "id": "rewards-from-customer-loyalty-programmes-not-income",
+    "title": "Rewards from customer loyalty programmes not income",
+    "paragraph": "¶5-683",
+    "chapter": "5",
+    "chapter_title": "Income"
+  },
+  {
+    "id": "income-tax-exemption-for-diplomats-and-consular-officers",
+    "title": "Income tax exemption for diplomats and consular officers",
+    "paragraph": "¶5-685",
     "chapter": "5",
     "chapter_title": "Income"
   },
@@ -2625,6 +2877,13 @@
     "chapter_title": "Financial Arrangements"
   },
   {
+    "id": "spreading-methods-for-financial-arrangements-generally",
+    "title": "Spreading methods for financial arrangements generally",
+    "paragraph": "¶6-125",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
     "id": "ifrs-method-under-financial-arrangements-rules",
     "title": "IFRS method under financial arrangements rules",
     "paragraph": "¶6-130",
@@ -2639,9 +2898,37 @@
     "chapter_title": "Financial Arrangements"
   },
   {
+    "id": "straight-line-method-under-financial-arrangements-rules",
+    "title": "Straight-line method under financial arrangements rules",
+    "paragraph": "¶6-145",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
+    "id": "market-valuation-method-under-financial-arrangements-rules",
+    "title": "Market valuation method under financial arrangements rules",
+    "paragraph": "¶6-153",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
+    "id": "determination-method-under-financial-arrangements-rules",
+    "title": "Determination method under financial arrangements rules",
+    "paragraph": "¶6-165",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
     "id": "alternative-to-a-determination-under-financial-arrangements-rules",
     "title": "Alternative to a determination under financial arrangements rules",
     "paragraph": "¶6-175",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
+    "id": "financial-reporting-method-under-financial-arrangements-rules",
+    "title": "Financial reporting method under financial arrangements rules",
+    "paragraph": "¶6-184",
     "chapter": "6",
     "chapter_title": "Financial Arrangements"
   },
@@ -2656,6 +2943,13 @@
     "id": "change-of-spreading-method-under-financial-arrangements-rules",
     "title": "Change of spreading method under financial arrangements rules",
     "paragraph": "¶6-205",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
+    "id": "currency-fluctuations-under-financial-arrangements-rules",
+    "title": "Currency fluctuations under financial arrangements rules",
+    "paragraph": "¶6-213",
     "chapter": "6",
     "chapter_title": "Financial Arrangements"
   },
@@ -2688,6 +2982,20 @@
     "chapter_title": "Financial Arrangements"
   },
   {
+    "id": "consideration-paid-to-or-by-the-person-in-bpa-calculation",
+    "title": "Consideration paid to or by the person in BPA calculation",
+    "paragraph": "¶6-370",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
+    "id": "and-a-specified-option-and-financial-arrangements-rules",
+    "title": "and a specified option and financial arrangements rules",
+    "paragraph": "¶6-400",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
     "id": "debt-parking-and-financial-arrangements-rules",
     "title": "Debt parking and financial arrangements rules",
     "paragraph": "¶6-410",
@@ -2698,6 +3006,13 @@
     "id": "release-of-debt-out-of-natural-love-and-affection-under-financial-arrangements-r",
     "title": "Release of debt out of natural love and affection under financial arrangements rules",
     "paragraph": "¶6-420",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
+    "id": "release-of-debt-by-statute-under-financial-arrangements-rules",
+    "title": "Release of debt by statute under financial arrangements rules",
+    "paragraph": "¶6-430",
     "chapter": "6",
     "chapter_title": "Financial Arrangements"
   },
@@ -2733,6 +3048,20 @@
     "id": "discretionary-payments-under-a-financial-arrangement",
     "title": "Discretionary payments under a financial arrangement",
     "paragraph": "¶6-550",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
+    "id": "defeating-the-intention-of-the-financial-arrangements-rules",
+    "title": "Defeating the intention of the financial arrangements rules",
+    "paragraph": "¶6-560",
+    "chapter": "6",
+    "chapter_title": "Financial Arrangements"
+  },
+  {
+    "id": "issue-of-determinations-under-the-financial-arrangements-rules",
+    "title": "Issue of determinations under the financial arrangements rules",
+    "paragraph": "¶6-600",
     "chapter": "6",
     "chapter_title": "Financial Arrangements"
   },
@@ -2821,6 +3150,13 @@
     "chapter_title": "Land Transactions"
   },
   {
+    "id": "disposal-of-residential-land-new-2-year-bright-line-test",
+    "title": "Disposal of residential land — new 2-year bright-line test",
+    "paragraph": "¶7-049",
+    "chapter": "7",
+    "chapter_title": "Land Transactions"
+  },
+  {
     "id": "tests",
     "title": "tests",
     "paragraph": "¶7-050",
@@ -2835,9 +3171,30 @@
     "chapter_title": "Land Transactions"
   },
   {
+    "id": "income-from-disposal-of-land-business-relating-to-land",
+    "title": "Income from disposal of land — business relating to land",
+    "paragraph": "¶7-055",
+    "chapter": "7",
+    "chapter_title": "Land Transactions"
+  },
+  {
+    "id": "income-from-disposal-of-land-business-of-dealing-in-land",
+    "title": "Income from disposal of land — business of dealing in land",
+    "paragraph": "¶7-057",
+    "chapter": "7",
+    "chapter_title": "Land Transactions"
+  },
+  {
     "id": "income-from-disposal-of-land-business-of-developing-or-dividing-land",
     "title": "Income from disposal of land — business of developing or dividing land",
     "paragraph": "¶7-059",
+    "chapter": "7",
+    "chapter_title": "Land Transactions"
+  },
+  {
+    "id": "income-from-disposal-of-land-business-of-erecting-buildings",
+    "title": "Income from disposal of land — business of erecting buildings",
+    "paragraph": "¶7-061",
     "chapter": "7",
     "chapter_title": "Land Transactions"
   },
@@ -2849,9 +3206,23 @@
     "chapter_title": "Land Transactions"
   },
   {
+    "id": "income-from-disposal-of-land-developers-other-land",
+    "title": "Income from disposal of land — developer's other land",
+    "paragraph": "¶7-085",
+    "chapter": "7",
+    "chapter_title": "Land Transactions"
+  },
+  {
     "id": "income-from-disposal-of-land-builders-other-land",
     "title": "Income from disposal of land — builder's other land",
     "paragraph": "¶7-095",
+    "chapter": "7",
+    "chapter_title": "Land Transactions"
+  },
+  {
+    "id": "development-or-division-begun-within-10-years-s-cb-12",
+    "title": "Development or division begun within 10 years — s CB 12",
+    "paragraph": "¶7-115",
     "chapter": "7",
     "chapter_title": "Land Transactions"
   },
@@ -2887,6 +3258,13 @@
     "id": "meaning-of-work-of-a-minor-nature",
     "title": "Meaning of work of a minor nature",
     "paragraph": "¶7-120",
+    "chapter": "7",
+    "chapter_title": "Land Transactions"
+  },
+  {
+    "id": "income-from-disposal-of-land-major-development-or-division",
+    "title": "Income from disposal of land — major development or division",
+    "paragraph": "¶7-125",
     "chapter": "7",
     "chapter_title": "Land Transactions"
   },
@@ -2975,6 +3353,13 @@
     "chapter_title": "Land Transactions"
   },
   {
+    "id": "business-premises-exclusion-from-land-disposal-provisions",
+    "title": "Business premises exclusion from land disposal provisions",
+    "paragraph": "¶7-250",
+    "chapter": "7",
+    "chapter_title": "Land Transactions"
+  },
+  {
     "id": "exclusion-from-land-disposal-provisions-for-development-or-division-for-business",
     "title": "Exclusion from land disposal provisions for development or division for business purposes",
     "paragraph": "¶7-260",
@@ -3048,6 +3433,13 @@
     "id": "timing-of-income-derivation-from-land",
     "title": "Timing of income derivation from land",
     "paragraph": "¶7-380",
+    "chapter": "7",
+    "chapter_title": "Land Transactions"
+  },
+  {
+    "id": "accounting-for-amounts-from-long-term-construction-contracts",
+    "title": "Accounting for amounts from long-term construction contracts",
+    "paragraph": "¶7-385",
     "chapter": "7",
     "chapter_title": "Land Transactions"
   },
@@ -3213,6 +3605,20 @@
     "chapter_title": "Student Loans"
   },
   {
+    "id": "new-zealand-based-borrowers-under-student-loan-scheme",
+    "title": "New Zealand-based borrowers under student loan scheme",
+    "paragraph": "¶8-025",
+    "chapter": "8",
+    "chapter_title": "Student Loans"
+  },
+  {
+    "id": "overseas-based-borrowers-under-student-loan-scheme",
+    "title": "Overseas-based borrowers under student loan scheme",
+    "paragraph": "¶8-030",
+    "chapter": "8",
+    "chapter_title": "Student Loans"
+  },
+  {
     "id": "interest-liability-on-a-student-loan",
     "title": "Interest liability on a student loan",
     "paragraph": "¶8-035",
@@ -3251,6 +3657,13 @@
     "id": "exemption-from-repayment-of-student-loan-for-full-time-students",
     "title": "Exemption from repayment of student loan for full-time students",
     "paragraph": "¶8-060",
+    "chapter": "8",
+    "chapter_title": "Student Loans"
+  },
+  {
+    "id": "over-and-under-deductions-from-student-borrowers-income",
+    "title": "Over- and under-deductions from student borrower's income",
+    "paragraph": "¶8-065",
     "chapter": "8",
     "chapter_title": "Student Loans"
   },
@@ -3321,6 +3734,13 @@
     "id": "and-student-loan-borrower",
     "title": "and student loan borrower",
     "paragraph": "¶8-115",
+    "chapter": "8",
+    "chapter_title": "Student Loans"
+  },
+  {
+    "id": "student-loan-borrowers-may-object-to-details-of-loan-advances",
+    "title": "Student loan borrowers may object to details of loan advances",
+    "paragraph": "¶8-120",
     "chapter": "8",
     "chapter_title": "Student Loans"
   },
@@ -3710,6 +4130,20 @@
     "chapter_title": "Deductions"
   },
   {
+    "id": "deductibility-of-advertising-and-sponsorship-expenses",
+    "title": "Deductibility of advertising and sponsorship expenses",
+    "paragraph": "¶10-117",
+    "chapter": "10",
+    "chapter_title": "Deductions"
+  },
+  {
+    "id": "deductibility-of-aircraft-overhaul-and-maintenance-costs",
+    "title": "Deductibility of aircraft overhaul and maintenance costs",
+    "paragraph": "¶10-127",
+    "chapter": "10",
+    "chapter_title": "Deductions"
+  },
+  {
     "id": "deductibility-of-annuities",
     "title": "Deductibility of annuities",
     "paragraph": "¶10-129",
@@ -3822,6 +4256,13 @@
     "chapter_title": "Deductions"
   },
   {
+    "id": "deductibility-of-emissions-units-and-emissions-liabilities",
+    "title": "Deductibility of emissions units and emissions liabilities",
+    "paragraph": "¶10-286",
+    "chapter": "10",
+    "chapter_title": "Deductions"
+  },
+  {
     "id": "deductibility-of-employee-remuneration",
     "title": "Deductibility of employee remuneration",
     "paragraph": "¶10-292",
@@ -3909,6 +4350,13 @@
     "id": "deductibility-of-goodwill",
     "title": "Deductibility of goodwill",
     "paragraph": "¶10-502",
+    "chapter": "10",
+    "chapter_title": "Deductions"
+  },
+  {
+    "id": "deductibility-of-expenditure-funded-by-government-grant",
+    "title": "Deductibility of expenditure funded by government grant",
+    "paragraph": "¶10-513",
     "chapter": "10",
     "chapter_title": "Deductions"
   },
@@ -4011,6 +4459,13 @@
     "chapter_title": "Deductions"
   },
   {
+    "id": "deductibility-of-costs-related-to-plant-variety-rights-grant",
+    "title": "Deductibility of costs related to plant variety rights grant",
+    "paragraph": "¶10-760",
+    "chapter": "10",
+    "chapter_title": "Deductions"
+  },
+  {
     "id": "deductibility-of-rates",
     "title": "Deductibility of rates",
     "paragraph": "¶10-800",
@@ -4032,9 +4487,23 @@
     "chapter_title": "Deductions"
   },
   {
+    "id": "deductibility-of-residential-rental-interest-exemptions",
+    "title": "Deductibility of residential rental interest — exemptions",
+    "paragraph": "¶10-815",
+    "chapter": "10",
+    "chapter_title": "Deductions"
+  },
+  {
     "id": "deductibility-of-residential-rental-interest-main-home-exemption",
     "title": "Deductibility of residential rental interest — main home exemption",
     "paragraph": "¶10-816",
+    "chapter": "10",
+    "chapter_title": "Deductions"
+  },
+  {
+    "id": "deductibility-of-residential-rental-interest-other-exemptions",
+    "title": "Deductibility of residential rental interest — other exemptions",
+    "paragraph": "¶10-817",
     "chapter": "10",
     "chapter_title": "Deductions"
   },
@@ -4091,6 +4560,13 @@
     "id": "deduction-for-payment-of-restitution",
     "title": "Deduction for payment of restitution",
     "paragraph": "¶10-870",
+    "chapter": "10",
+    "chapter_title": "Deductions"
+  },
+  {
+    "id": "deductibility-of-payment-made-for-restrictive-covenant-breach",
+    "title": "Deductibility of payment made for restrictive covenant breach",
+    "paragraph": "¶10-880",
     "chapter": "10",
     "chapter_title": "Deductions"
   },
@@ -4165,6 +4641,13 @@
     "chapter_title": "Deductions"
   },
   {
+    "id": "deduction-for-new-investment-assets-investment-boost",
+    "title": "Deduction for new investment assets — investment boost",
+    "paragraph": "¶10-945",
+    "chapter": "10",
+    "chapter_title": "Deductions"
+  },
+  {
     "id": "introduction-to-tax-credits",
     "title": "Introduction to tax credits",
     "paragraph": "¶11-010",
@@ -4189,6 +4672,13 @@
     "id": "tax-credit-for-gifts-and-donations",
     "title": "Tax credit for gifts and donations",
     "paragraph": "¶11-055",
+    "chapter": "11",
+    "chapter_title": "Tax Credits"
+  },
+  {
+    "id": "procedure-for-claiming-refund-of-charitable-gifts-credit",
+    "title": "Procedure for claiming refund of charitable gifts credit",
+    "paragraph": "¶11-060",
     "chapter": "11",
     "chapter_title": "Tax Credits"
   },
@@ -4263,6 +4753,13 @@
     "chapter_title": "Child Support And Family Scheme"
   },
   {
+    "id": "departure-from-the-child-support-formula-assessment",
+    "title": "Departure from the child support formula assessment",
+    "paragraph": "¶12-020",
+    "chapter": "12",
+    "chapter_title": "Child Support And Family Scheme"
+  },
+  {
     "id": "notification-objection-and-collection-of-child-support",
     "title": "Notification, objection and collection of child support",
     "paragraph": "¶12-025",
@@ -4277,6 +4774,13 @@
     "chapter_title": "Child Support And Family Scheme"
   },
   {
+    "id": "liable-parents-for-child-support-with-overseas-income",
+    "title": "Liable parents for child support with overseas income",
+    "paragraph": "¶12-030",
+    "chapter": "12",
+    "chapter_title": "Child Support And Family Scheme"
+  },
+  {
     "id": "refunds-and-transfers-of-child-support",
     "title": "Refunds and transfers of child support",
     "paragraph": "¶12-038",
@@ -4287,6 +4791,13 @@
     "id": "child-support-may-constitute-a-charge",
     "title": "Child support may constitute a charge",
     "paragraph": "¶12-039",
+    "chapter": "12",
+    "chapter_title": "Child Support And Family Scheme"
+  },
+  {
+    "id": "employers-responsibilities-for-child-support-generally",
+    "title": "Employers' responsibilities for child support — generally",
+    "paragraph": "¶12-040",
     "chapter": "12",
     "chapter_title": "Child Support And Family Scheme"
   },
@@ -4340,6 +4851,13 @@
     "chapter_title": "Child Support And Family Scheme"
   },
   {
+    "id": "calculation-of-family-scheme-income-for-wff-tax-credits",
+    "title": "Calculation of family scheme income for WFF tax credits",
+    "paragraph": "¶12-125",
+    "chapter": "12",
+    "chapter_title": "Child Support And Family Scheme"
+  },
+  {
     "id": "calculating-the-abating-wff-tax-credit",
     "title": "Calculating the abating WFF tax credit",
     "paragraph": "¶12-130",
@@ -4385,6 +4903,13 @@
     "id": "best-start-tax-credit",
     "title": "Best Start tax credit",
     "paragraph": "¶12-165",
+    "chapter": "12",
+    "chapter_title": "Child Support And Family Scheme"
+  },
+  {
+    "id": "end-of-year-tax-credit-and-assessment-for-wff-tax-credits",
+    "title": "End-of-year tax credit and assessment for WFF tax credits",
+    "paragraph": "¶12-170",
     "chapter": "12",
     "chapter_title": "Child Support And Family Scheme"
   },
@@ -4438,6 +4963,13 @@
     "chapter_title": "Depreciation"
   },
   {
+    "id": "depreciable-property-must-be-used-or-available-for-use",
+    "title": "Depreciable property must be used or available for use",
+    "paragraph": "¶13-044",
+    "chapter": "13",
+    "chapter_title": "Depreciation"
+  },
+  {
     "id": "low-value-assets-for-depreciation-purposes",
     "title": "Low-value assets for depreciation purposes",
     "paragraph": "¶13-054",
@@ -4483,6 +5015,20 @@
     "id": "pool-method-for-depreciable-property",
     "title": "Pool method for depreciable property",
     "paragraph": "¶13-144",
+    "chapter": "13",
+    "chapter_title": "Depreciation"
+  },
+  {
+    "id": "adjusted-tax-value-for-an-item-of-depreciable-property",
+    "title": "Adjusted tax value for an item of depreciable property",
+    "paragraph": "¶13-164",
+    "chapter": "13",
+    "chapter_title": "Depreciation"
+  },
+  {
+    "id": "partial-use-of-depreciable-property-to-produce-income",
+    "title": "Partial use of depreciable property to produce income",
+    "paragraph": "¶13-174",
     "chapter": "13",
     "chapter_title": "Depreciation"
   },
@@ -4585,6 +5131,20 @@
     "chapter_title": "Depreciation"
   },
   {
+    "id": "transfer-of-depreciable-property-between-group-companies",
+    "title": "Transfer of depreciable property between group companies",
+    "paragraph": "¶13-480",
+    "chapter": "13",
+    "chapter_title": "Depreciation"
+  },
+  {
+    "id": "land-improvements-that-may-give-rise-to-depreciation-loss",
+    "title": "Land improvements that may give rise to depreciation loss",
+    "paragraph": "¶13-500",
+    "chapter": "13",
+    "chapter_title": "Depreciation"
+  },
+  {
     "id": "depreciation-of-finance-leases",
     "title": "Depreciation of finance leases",
     "paragraph": "¶13-503",
@@ -4644,6 +5204,13 @@
     "id": "depreciation-resource-consents",
     "title": "Depreciation — resource consents",
     "paragraph": "¶13-585",
+    "chapter": "13",
+    "chapter_title": "Depreciation"
+  },
+  {
+    "id": "trustee-and-executor-distributions-of-depreciable-property",
+    "title": "Trustee and executor distributions of depreciable property",
+    "paragraph": "¶13-600",
     "chapter": "13",
     "chapter_title": "Depreciation"
   },
@@ -4844,6 +5411,20 @@
     "chapter_title": "Penalties, Interest And Offences"
   },
   {
+    "id": "reduction-of-shortfall-penalties-for-previous-behaviour",
+    "title": "Reduction of shortfall penalties for previous behaviour",
+    "paragraph": "¶14-129",
+    "chapter": "14",
+    "chapter_title": "Penalties, Interest And Offences"
+  },
+  {
+    "id": "reduction-in-penalty-for-voluntary-disclosure-of-tax-shortfall",
+    "title": "Reduction in penalty for voluntary disclosure of tax shortfall",
+    "paragraph": "¶14-130",
+    "chapter": "14",
+    "chapter_title": "Penalties, Interest And Offences"
+  },
+  {
     "id": "suppression-tool-use",
     "title": "suppression tool use",
     "paragraph": "¶14-133",
@@ -4907,6 +5488,13 @@
     "chapter_title": "Penalties, Interest And Offences"
   },
   {
+    "id": "standard-of-proof-and-onus-of-proof-civil-proceedings",
+    "title": "Standard of proof and onus of proof — civil proceedings",
+    "paragraph": "¶14-190",
+    "chapter": "14",
+    "chapter_title": "Penalties, Interest And Offences"
+  },
+  {
     "id": "recovery-of-civil-penalties",
     "title": "Recovery of civil penalties",
     "paragraph": "¶14-195",
@@ -4949,6 +5537,13 @@
     "chapter_title": "Penalties, Interest And Offences"
   },
   {
+    "id": "manufacturing-supplying-acquiring-or-possessing-ess-tools",
+    "title": "Manufacturing, supplying, acquiring or possessing ESS tools",
+    "paragraph": "¶14-265",
+    "chapter": "14",
+    "chapter_title": "Penalties, Interest And Offences"
+  },
+  {
     "id": "offences-relating-to-court-orders",
     "title": "Offences relating to court orders",
     "paragraph": "¶14-270",
@@ -4977,9 +5572,23 @@
     "chapter_title": "Penalties, Interest And Offences"
   },
   {
+    "id": "penalties-for-offences-for-which-no-specific-penalty-is-imposed",
+    "title": "Penalties for offences for which no specific penalty is imposed",
+    "paragraph": "¶14-290",
+    "chapter": "14",
+    "chapter_title": "Penalties, Interest And Offences"
+  },
+  {
     "id": "offences-of-employees-and-officers",
     "title": "Offences of employees and officers",
     "paragraph": "¶14-295",
+    "chapter": "14",
+    "chapter_title": "Penalties, Interest And Offences"
+  },
+  {
+    "id": "offences-for-disclosure-of-sensitive-revenue-information",
+    "title": "Offences for disclosure of sensitive revenue information",
+    "paragraph": "¶14-300",
     "chapter": "14",
     "chapter_title": "Penalties, Interest And Offences"
   },
@@ -4994,6 +5603,13 @@
     "id": "deduction-of-tax-from-payments-due-to-defaulters",
     "title": "Deduction of tax from payments due to defaulters",
     "paragraph": "¶14-330",
+    "chapter": "14",
+    "chapter_title": "Penalties, Interest And Offences"
+  },
+  {
+    "id": "standard-of-proof-and-onus-of-proof-criminal-proceedings",
+    "title": "Standard of proof and onus of proof — criminal proceedings",
+    "paragraph": "¶14-360",
     "chapter": "14",
     "chapter_title": "Penalties, Interest And Offences"
   },
@@ -5043,6 +5659,13 @@
     "id": "persons-liable-to-deduct-rwt",
     "title": "Persons liable to deduct RWT",
     "paragraph": "¶15-070",
+    "chapter": "15",
+    "chapter_title": "Resident Withholding Tax"
+  },
+  {
+    "id": "resident-withholding-tax-proxy-for-a-non-resident-unit-trust",
+    "title": "Resident withholding tax proxy for a non-resident unit trust",
+    "paragraph": "¶15-074",
     "chapter": "15",
     "chapter_title": "Resident Withholding Tax"
   },
@@ -5120,6 +5743,13 @@
     "id": "correcting-errors-and-refunds-of-deductions-of-rwt",
     "title": "Correcting errors and refunds of deductions of RWT",
     "paragraph": "¶15-180",
+    "chapter": "15",
+    "chapter_title": "Resident Withholding Tax"
+  },
+  {
+    "id": "resident-withholding-tax-and-intermediaries-or-agents",
+    "title": "Resident withholding tax and intermediaries or agents",
+    "paragraph": "¶15-185",
     "chapter": "15",
     "chapter_title": "Resident Withholding Tax"
   },
@@ -5257,6 +5887,27 @@
     "chapter_title": "Companies"
   },
   {
+    "id": "voting-and-market-value-interests-in-special-corporate-entities",
+    "title": "Voting and market value interests in special corporate entities",
+    "paragraph": "¶16-155",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
+    "id": "voting-interests-market-value-interests-and-nominees",
+    "title": "Voting interests, market value interests and nominees",
+    "paragraph": "¶16-160",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
+    "id": "securities-excluded-from-calculating-shareholder-interests",
+    "title": "Securities excluded from calculating shareholder interests",
+    "paragraph": "¶16-165",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
     "id": "what-constitutes-a-market-value-circumstance",
     "title": "What constitutes a market value circumstance",
     "paragraph": "¶16-170",
@@ -5274,6 +5925,13 @@
     "id": "market-value-of-shares-or-share-options",
     "title": "Market value of shares or share options",
     "paragraph": "¶16-180",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
+    "id": "measuring-shareholder-interests-for-continuity-purposes",
+    "title": "Measuring shareholder interests for continuity purposes",
+    "paragraph": "¶16-190",
     "chapter": "16",
     "chapter_title": "Companies"
   },
@@ -5306,6 +5964,13 @@
     "chapter_title": "Companies"
   },
   {
+    "id": "conversion-of-foreign-proprietors-and-continuity-provisions",
+    "title": "Conversion of foreign proprietors and continuity provisions",
+    "paragraph": "¶16-203",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
     "id": "meet-continuity-requirements",
     "title": "meet continuity requirements",
     "paragraph": "¶16-205",
@@ -5330,6 +5995,13 @@
     "id": "reverse-takeovers-and-mergers-of-limited-attribution-companies",
     "title": "Reverse takeovers and mergers of limited attribution companies",
     "paragraph": "¶16-217",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
+    "id": "corporate-reorganisations-by-limited-attribution-companies",
+    "title": "Corporate reorganisations by limited attribution companies",
+    "paragraph": "¶16-219",
     "chapter": "16",
     "chapter_title": "Companies"
   },
@@ -5383,9 +6055,23 @@
     "chapter_title": "Companies"
   },
   {
+    "id": "dividend-shares-issued-under-profit-distribution-plans",
+    "title": "Dividend — shares issued under profit distribution plans",
+    "paragraph": "¶16-571",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
     "id": "dividends-vesting-of-foreign-unit-trust-interests",
     "title": "Dividends — vesting of foreign unit trust interests",
     "paragraph": "¶16-573",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
+    "id": "dividends-producer-boards-and-co-operative-companies",
+    "title": "Dividends — producer boards and co-operative companies",
+    "paragraph": "¶16-575",
     "chapter": "16",
     "chapter_title": "Companies"
   },
@@ -5421,6 +6107,13 @@
     "id": "general-rule-for-calculation-of-dividend-amount",
     "title": "General rule for calculation of dividend amount",
     "paragraph": "¶16-600",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
+    "id": "calculating-amount-of-dividend-when-property-made-available",
+    "title": "Calculating amount of dividend when property made available",
+    "paragraph": "¶16-620",
     "chapter": "16",
     "chapter_title": "Companies"
   },
@@ -5463,6 +6156,13 @@
     "id": "dividend-exclusions-treasury-stock-purchases",
     "title": "Dividend exclusions — treasury stock purchases",
     "paragraph": "¶16-700",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
+    "id": "dividend-exclusions-off-market-share-cancellations",
+    "title": "Dividend exclusions — off-market share cancellations",
+    "paragraph": "¶16-705",
     "chapter": "16",
     "chapter_title": "Companies"
   },
@@ -5512,6 +6212,20 @@
     "id": "dividend-exclusions-payments-by-foreign-superannuation-scheme",
     "title": "Dividend exclusions — payments by foreign superannuation scheme",
     "paragraph": "¶16-733",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
+    "id": "dividend-exclusions-foreign-investment-fund-income",
+    "title": "Dividend exclusions — foreign investment fund income",
+    "paragraph": "¶16-735",
+    "chapter": "16",
+    "chapter_title": "Companies"
+  },
+  {
+    "id": "dividend-exclusions-residents-restricted-amalgamations",
+    "title": "Dividend exclusions — resident's restricted amalgamations",
+    "paragraph": "¶16-740",
     "chapter": "16",
     "chapter_title": "Companies"
   },
@@ -5656,6 +6370,20 @@
     "chapter_title": "Imputation"
   },
   {
+    "id": "imputation-credit-account-debit-or-credit-incorrectly-recorded",
+    "title": "Imputation credit account: debit or credit incorrectly recorded",
+    "paragraph": "¶17-050",
+    "chapter": "17",
+    "chapter_title": "Imputation"
+  },
+  {
+    "id": "continuity-requirements-for-carry-forward-of-imputation-credits",
+    "title": "Continuity requirements for carry forward of imputation credits",
+    "paragraph": "¶17-055",
+    "chapter": "17",
+    "chapter_title": "Imputation"
+  },
+  {
     "id": "allocation-rules-for-imputation-credits",
     "title": "Allocation rules for imputation credits",
     "paragraph": "¶17-060",
@@ -5691,9 +6419,30 @@
     "chapter_title": "Imputation"
   },
   {
+    "id": "company-dividend-statement-for-imputation-purposes",
+    "title": "Company dividend statement for imputation purposes",
+    "paragraph": "¶17-085",
+    "chapter": "17",
+    "chapter_title": "Imputation"
+  },
+  {
+    "id": "shareholder-dividend-statement-for-imputation-purposes",
+    "title": "Shareholder dividend statement for imputation purposes",
+    "paragraph": "¶17-090",
+    "chapter": "17",
+    "chapter_title": "Imputation"
+  },
+  {
     "id": "for-imputation-purposes",
     "title": "for imputation purposes",
     "paragraph": "¶17-100",
+    "chapter": "17",
+    "chapter_title": "Imputation"
+  },
+  {
+    "id": "limit-on-refund-and-transfer-of-tax-for-imputation-purposes",
+    "title": "Limit on refund and transfer of tax for imputation purposes",
+    "paragraph": "¶17-105",
     "chapter": "17",
     "chapter_title": "Imputation"
   },
@@ -5761,6 +6510,13 @@
     "chapter_title": "Imputation"
   },
   {
+    "id": "compliance-requirements-for-an-australian-ica-company",
+    "title": "Compliance requirements for an Australian ICA company",
+    "paragraph": "¶17-225",
+    "chapter": "17",
+    "chapter_title": "Imputation"
+  },
+  {
     "id": "imputation-dividends-paid-in-australian-currency",
     "title": "Imputation — dividends paid in Australian currency",
     "paragraph": "¶17-235",
@@ -5799,6 +6555,27 @@
     "id": "carry-forward-of-company-loss-balances",
     "title": "Carry-forward of company loss balances",
     "paragraph": "¶18-015",
+    "chapter": "18",
+    "chapter_title": "Company Tax Losses"
+  },
+  {
+    "id": "restriction-against-using-tax-losses-for-schedular-tax-liabilities",
+    "title": "Restriction against using tax losses for schedular tax liabilities",
+    "paragraph": "¶18-017",
+    "chapter": "18",
+    "chapter_title": "Company Tax Losses"
+  },
+  {
+    "id": "interposed-entities-restriction-against-using-tax-losses",
+    "title": "Interposed entities — restriction against using tax losses",
+    "paragraph": "¶18-018",
+    "chapter": "18",
+    "chapter_title": "Company Tax Losses"
+  },
+  {
+    "id": "shareholder-continuity-requirement-to-carry-forward-losses",
+    "title": "Shareholder continuity requirement to carry forward losses",
+    "paragraph": "¶18-023",
     "chapter": "18",
     "chapter_title": "Company Tax Losses"
   },
@@ -5866,6 +6643,13 @@
     "chapter_title": "Qualifying Companies and Look-Through Companies"
   },
   {
+    "id": "advantages-and-disadvantages-of-being-a-qualifying-company",
+    "title": "Advantages and disadvantages of being a qualifying company",
+    "paragraph": "¶19-015",
+    "chapter": "19",
+    "chapter_title": "Qualifying Companies and Look-Through Companies"
+  },
+  {
     "id": "definition-of-a-qualifying-company",
     "title": "Definition of a qualifying company",
     "paragraph": "¶19-025",
@@ -5883,6 +6667,13 @@
     "id": "qualifying-companies-and-the-shareholder-test",
     "title": "Qualifying companies and the shareholder test",
     "paragraph": "¶19-035",
+    "chapter": "19",
+    "chapter_title": "Qualifying Companies and Look-Through Companies"
+  },
+  {
+    "id": "qualifying-companies-and-the-shareholder-continuity-limitation",
+    "title": "Qualifying companies and the shareholder continuity limitation",
+    "paragraph": "¶19-038",
     "chapter": "19",
     "chapter_title": "Qualifying Companies and Look-Through Companies"
   },
@@ -5908,9 +6699,23 @@
     "chapter_title": "Qualifying Companies and Look-Through Companies"
   },
   {
+    "id": "qualifying-companies-and-period-of-grace-for-new-elections",
+    "title": "Qualifying companies and period of grace for new elections",
+    "paragraph": "¶19-070",
+    "chapter": "19",
+    "chapter_title": "Qualifying Companies and Look-Through Companies"
+  },
+  {
     "id": "date-when-non-complying-company-ceases-to-be-a-qualifying-company",
     "title": "Date when non-complying company ceases to be a qualifying company",
     "paragraph": "¶19-075",
+    "chapter": "19",
+    "chapter_title": "Qualifying Companies and Look-Through Companies"
+  },
+  {
+    "id": "qualifying-companies-and-liability-of-electing-shareholder",
+    "title": "Qualifying companies and liability of electing shareholder",
+    "paragraph": "¶19-080",
     "chapter": "19",
     "chapter_title": "Qualifying Companies and Look-Through Companies"
   },
@@ -5929,6 +6734,13 @@
     "chapter_title": "Qualifying Companies and Look-Through Companies"
   },
   {
+    "id": "qualifying-companies-and-loss-balances-carried-forward",
+    "title": "Qualifying companies and loss balances carried forward",
+    "paragraph": "¶19-110",
+    "chapter": "19",
+    "chapter_title": "Qualifying Companies and Look-Through Companies"
+  },
+  {
     "id": "dividends-paid-by-a-qualifying-company",
     "title": "Dividends paid by a qualifying company",
     "paragraph": "¶19-115",
@@ -5939,6 +6751,13 @@
     "id": "qualifying-companies-and-imputation-credits-attached-to-dividend",
     "title": "Qualifying companies and imputation credits attached to dividend",
     "paragraph": "¶19-120",
+    "chapter": "19",
+    "chapter_title": "Qualifying Companies and Look-Through Companies"
+  },
+  {
+    "id": "qualifying-companies-and-the-transition-to-a-new-entity",
+    "title": "Qualifying companies and the transition to a new entity",
+    "paragraph": "¶19-150",
     "chapter": "19",
     "chapter_title": "Qualifying Companies and Look-Through Companies"
   },
@@ -5995,6 +6814,13 @@
     "id": "treatment-of-losses-on-transition-to-an-ltc",
     "title": "Treatment of losses on transition to an LTC",
     "paragraph": "¶19-190",
+    "chapter": "19",
+    "chapter_title": "Qualifying Companies and Look-Through Companies"
+  },
+  {
+    "id": "treatment-of-untaxed-reserves-on-transition-to-an-ltc",
+    "title": "Treatment of untaxed reserves on transition to an LTC",
+    "paragraph": "¶19-195",
     "chapter": "19",
     "chapter_title": "Qualifying Companies and Look-Through Companies"
   },
@@ -6118,6 +6944,13 @@
     "chapter_title": "Consolidated Companies and Amalgamation Of Companies"
   },
   {
+    "id": "returns-assessments-and-liability-under-consolidation-regime",
+    "title": "Returns, assessments and liability under consolidation regime",
+    "paragraph": "¶20-035",
+    "chapter": "20",
+    "chapter_title": "Consolidated Companies and Amalgamation Of Companies"
+  },
+  {
     "id": "calculation-of-taxable-income-of-consolidated-group",
     "title": "Calculation of taxable income of consolidated group",
     "paragraph": "¶20-040",
@@ -6128,6 +6961,13 @@
     "id": "loss-carry-forward-and-grouping-of-consolidated-group-members",
     "title": "Loss carry-forward and grouping of consolidated group members",
     "paragraph": "¶20-045",
+    "chapter": "20",
+    "chapter_title": "Consolidated Companies and Amalgamation Of Companies"
+  },
+  {
+    "id": "consolidated-groups-tax-credits-and-cfc-fif-regimes",
+    "title": "Consolidated groups — tax credits and CFC, FIF regimes",
+    "paragraph": "¶20-050",
     "chapter": "20",
     "chapter_title": "Consolidated Companies and Amalgamation Of Companies"
   },
@@ -6230,9 +7070,23 @@
     "chapter_title": "Consolidated Companies and Amalgamation Of Companies"
   },
   {
+    "id": "amalgamation-transfer-of-property-or-financial-arrangements",
+    "title": "Amalgamation: transfer of property or financial arrangements",
+    "paragraph": "¶20-110",
+    "chapter": "20",
+    "chapter_title": "Consolidated Companies and Amalgamation Of Companies"
+  },
+  {
     "id": "treatment-of-financial-arrangements-between-amalgamating-companies",
     "title": "Treatment of financial arrangements between amalgamating companies",
     "paragraph": "¶20-111",
+    "chapter": "20",
+    "chapter_title": "Consolidated Companies and Amalgamation Of Companies"
+  },
+  {
+    "id": "succession-of-rights-and-obligations-in-an-amalgamation",
+    "title": "Succession of rights and obligations in an amalgamation",
+    "paragraph": "¶20-112",
     "chapter": "20",
     "chapter_title": "Consolidated Companies and Amalgamation Of Companies"
   },
@@ -6461,6 +7315,13 @@
     "chapter_title": "Fringe Benefit Tax"
   },
   {
+    "id": "alternate-rate-calculation-for-attributed-fringe-benefits",
+    "title": "Alternate rate calculation for attributed fringe benefits",
+    "paragraph": "¶21-165",
+    "chapter": "21",
+    "chapter_title": "Fringe Benefit Tax"
+  },
+  {
     "id": "fbt-motor-vehicles-and-employees",
     "title": "FBT — motor vehicles and employees",
     "paragraph": "¶21-170",
@@ -6496,6 +7357,13 @@
     "chapter_title": "Fringe Benefit Tax"
   },
   {
+    "id": "fringe-benefits-shareholder-employee-and-motor-vehicle",
+    "title": "Fringe benefits — shareholder-employee and motor vehicle",
+    "paragraph": "¶21-245",
+    "chapter": "21",
+    "chapter_title": "Fringe Benefit Tax"
+  },
+  {
     "id": "fringe-benefits-value-of-motor-vehicle-benefits",
     "title": "Fringe benefits — value of motor vehicle benefits",
     "paragraph": "¶21-250",
@@ -6513,6 +7381,13 @@
     "id": "rented-or-leased",
     "title": "rented or leased",
     "paragraph": "¶21-260",
+    "chapter": "21",
+    "chapter_title": "Fringe Benefit Tax"
+  },
+  {
+    "id": "fringe-benefits-commissioner-determining-cost-of-vehicle",
+    "title": "Fringe benefits — Commissioner determining cost of vehicle",
+    "paragraph": "¶21-265",
     "chapter": "21",
     "chapter_title": "Fringe Benefit Tax"
   },
@@ -6608,6 +7483,20 @@
     "chapter_title": "Fringe Benefit Tax"
   },
   {
+    "id": "unclassified-benefits-records-required-for-fbt-purposes",
+    "title": "Unclassified benefits: records required for FBT purposes",
+    "paragraph": "¶21-500",
+    "chapter": "21",
+    "chapter_title": "Fringe Benefit Tax"
+  },
+  {
+    "id": "fbt-frequent-flyer-and-membership-reward-schemes",
+    "title": "FBT — frequent flyer and membership reward schemes",
+    "paragraph": "¶21-505",
+    "chapter": "21",
+    "chapter_title": "Fringe Benefit Tax"
+  },
+  {
     "id": "fbt-employees-home-telephone",
     "title": "FBT — employee's home telephone",
     "paragraph": "¶21-510",
@@ -6643,6 +7532,13 @@
     "chapter_title": "Fringe Benefit Tax"
   },
   {
+    "id": "income-protection-insurance-and-funeral-trust-contributions",
+    "title": "income protection insurance and funeral trust contributions",
+    "paragraph": "¶21-540",
+    "chapter": "21",
+    "chapter_title": "Fringe Benefit Tax"
+  },
+  {
     "id": "expenses-of-members-of-parliament-and-fbt",
     "title": "Expenses of members of Parliament and FBT",
     "paragraph": "¶21-545",
@@ -6664,9 +7560,30 @@
     "chapter_title": "Fringe Benefit Tax"
   },
   {
+    "id": "exclusion-from-fbt-superannuation-cash-contributions",
+    "title": "Exclusion from FBT — superannuation cash contributions",
+    "paragraph": "¶21-574",
+    "chapter": "21",
+    "chapter_title": "Fringe Benefit Tax"
+  },
+  {
+    "id": "exemption-from-fbt-employee-tax-return-preparation",
+    "title": "Exemption from FBT — employee tax return preparation",
+    "paragraph": "¶21-584",
+    "chapter": "21",
+    "chapter_title": "Fringe Benefit Tax"
+  },
+  {
     "id": "fbt-charitable-organisations",
     "title": "FBT — charitable organisations",
     "paragraph": "¶21-588",
+    "chapter": "21",
+    "chapter_title": "Fringe Benefit Tax"
+  },
+  {
+    "id": "exclusion-from-fbt-employees-of-non-resident-employers",
+    "title": "Exclusion from FBT — employees of non-resident employers",
+    "paragraph": "¶21-594",
     "chapter": "21",
     "chapter_title": "Fringe Benefit Tax"
   },
@@ -6734,6 +7651,13 @@
     "chapter_title": "Fringe Benefit Tax"
   },
   {
+    "id": "fbt-accommodation-and-travel-in-course-of-employment",
+    "title": "FBT — accommodation and travel in course of employment",
+    "paragraph": "¶21-644",
+    "chapter": "21",
+    "chapter_title": "Fringe Benefit Tax"
+  },
+  {
     "id": "exemption-from-fbt-business-tools",
     "title": "Exemption from FBT — business tools",
     "paragraph": "¶21-650",
@@ -6776,6 +7700,13 @@
     "chapter_title": "Provisional Tax"
   },
   {
+    "id": "provisional-tax-payment-due-dates-in-transitional-year",
+    "title": "Provisional tax payment due dates in transitional year",
+    "paragraph": "¶22-013",
+    "chapter": "22",
+    "chapter_title": "Provisional Tax"
+  },
+  {
     "id": "liability-to-pay-provisional-tax",
     "title": "Liability to pay provisional tax",
     "paragraph": "¶22-040",
@@ -6814,6 +7745,13 @@
     "id": "standard-uplift-method-for-provisional-tax",
     "title": "Standard (uplift) method for provisional tax",
     "paragraph": "¶22-075",
+    "chapter": "22",
+    "chapter_title": "Provisional Tax"
+  },
+  {
+    "id": "determining-residual-income-tax-following-a-transitional-year",
+    "title": "Determining residual income tax following a transitional year",
+    "paragraph": "¶22-080",
     "chapter": "22",
     "chapter_title": "Provisional Tax"
   },
@@ -6863,6 +7801,20 @@
     "id": "provisional-tax-instalment-dates-for-transitional-year",
     "title": "Provisional tax instalment dates for transitional year",
     "paragraph": "¶22-120",
+    "chapter": "22",
+    "chapter_title": "Provisional Tax"
+  },
+  {
+    "id": "amount-of-provisional-tax-instalments-in-a-transitional-year",
+    "title": "Amount of provisional tax instalments in a transitional year",
+    "paragraph": "¶22-122",
+    "chapter": "22",
+    "chapter_title": "Provisional Tax"
+  },
+  {
+    "id": "registering-or-deregistering-for-gst-and-provisional-tax",
+    "title": "Registering or deregistering for GST and provisional tax",
+    "paragraph": "¶22-125",
     "chapter": "22",
     "chapter_title": "Provisional Tax"
   },
@@ -6926,6 +7878,13 @@
     "id": "payment-of-terminal-tax",
     "title": "Payment of terminal tax",
     "paragraph": "¶22-235",
+    "chapter": "22",
+    "chapter_title": "Provisional Tax"
+  },
+  {
+    "id": "provisional-tax-to-be-credited-in-payment-of-income-tax",
+    "title": "Provisional tax to be credited in payment of income tax",
+    "paragraph": "¶22-240",
     "chapter": "22",
     "chapter_title": "Provisional Tax"
   },
@@ -7129,6 +8088,13 @@
     "id": "rent-paid-to-partnership",
     "title": "Rent paid to partnership",
     "paragraph": "¶23-134",
+    "chapter": "23",
+    "chapter_title": "Partnerships"
+  },
+  {
+    "id": "deductibility-for-partnership-of-interest-paid-to-partner",
+    "title": "Deductibility for partnership of interest paid to partner",
+    "paragraph": "¶23-136",
     "chapter": "23",
     "chapter_title": "Partnerships"
   },
@@ -7532,6 +8498,13 @@
     "chapter_title": "Special Companies And Associations"
   },
   {
+    "id": "loss-offset-grouping-and-amalgamation-for-mori-authorities",
+    "title": "Loss offset, grouping and amalgamation for M#ori authorities",
+    "paragraph": "¶24-321",
+    "chapter": "24",
+    "chapter_title": "Special Companies And Associations"
+  },
+  {
     "id": "co-operative-companies-as-mori-authorities",
     "title": "Co-operative companies as M#ori authorities",
     "paragraph": "¶24-324",
@@ -7549,6 +8522,13 @@
     "id": "moving-in-and-out-of-the-mori-authority-tax-regime",
     "title": "Moving in and out of the M#ori authority tax regime",
     "paragraph": "¶24-331",
+    "chapter": "24",
+    "chapter_title": "Special Companies And Associations"
+  },
+  {
+    "id": "filing-and-notification-requirements-for-mori-authorities",
+    "title": "Filing and notification requirements for M#ori authorities",
+    "paragraph": "¶24-335",
     "chapter": "24",
     "chapter_title": "Special Companies And Associations"
   },
@@ -7612,6 +8592,13 @@
     "id": "trustee-income-minor-beneficiary-rule",
     "title": "Trustee income — minor beneficiary rule",
     "paragraph": "¶25-115",
+    "chapter": "25",
+    "chapter_title": "Trusts"
+  },
+  {
+    "id": "trustee-income-close-company-beneficiary-income",
+    "title": "Trustee income — close company beneficiary income",
+    "paragraph": "¶25-120",
     "chapter": "25",
     "chapter_title": "Trusts"
   },
@@ -7882,9 +8869,30 @@
     "chapter_title": "Trusts"
   },
   {
+    "id": "introduction-to-taxation-of-offshore-income-and-investments",
+    "title": "Introduction to taxation of offshore income and investments",
+    "paragraph": "¶26-010",
+    "chapter": "26",
+    "chapter_title": "International Tax"
+  },
+  {
+    "id": "recognition-of-overseas-income-with-differing-tax-years",
+    "title": "Recognition of overseas income with differing tax years",
+    "paragraph": "¶26-032",
+    "chapter": "26",
+    "chapter_title": "International Tax"
+  },
+  {
     "id": "currency-conversion-and-exchange-rates",
     "title": "Currency conversion and exchange rates",
     "paragraph": "¶26-035",
+    "chapter": "26",
+    "chapter_title": "International Tax"
+  },
+  {
+    "id": "introduction-to-controlled-foreign-company-cfc-rules",
+    "title": "Introduction to controlled foreign company (CFC) rules",
+    "paragraph": "¶26-038",
     "chapter": "26",
     "chapter_title": "International Tax"
   },
@@ -8057,6 +9065,20 @@
     "chapter_title": "International Tax"
   },
   {
+    "id": "introduction-to-taxation-of-non-residents-in-new-zealand",
+    "title": "Introduction to taxation of non-residents in New Zealand",
+    "paragraph": "¶26-400",
+    "chapter": "26",
+    "chapter_title": "International Tax"
+  },
+  {
+    "id": "collecting-tax-from-large-multinational-group-members",
+    "title": "Collecting tax from large multinational group members",
+    "paragraph": "¶26-410",
+    "chapter": "26",
+    "chapter_title": "International Tax"
+  },
+  {
     "id": "92-day-rule-for-personal-services-income",
     "title": "92-day rule for personal services income",
     "paragraph": "¶26-420",
@@ -8120,6 +9142,13 @@
     "chapter_title": "International Tax"
   },
   {
+    "id": "investment-income-information-requirements-from-1-april-2020",
+    "title": "Investment income information requirements from 1 April 2020",
+    "paragraph": "¶26-457",
+    "chapter": "26",
+    "chapter_title": "International Tax"
+  },
+  {
     "id": "nrwt-is-a-final-or-interim-tax",
     "title": "NRWT is a final or interim tax",
     "paragraph": "¶26-460",
@@ -8158,6 +9187,13 @@
     "id": "non-resident-software-suppliers",
     "title": "Non-resident software suppliers",
     "paragraph": "¶26-495",
+    "chapter": "26",
+    "chapter_title": "International Tax"
+  },
+  {
+    "id": "foreign-investor-tax-credit-fitc-and-supplementary-dividends",
+    "title": "Foreign investor tax credit (FITC) and supplementary dividends",
+    "paragraph": "¶26-500",
     "chapter": "26",
     "chapter_title": "International Tax"
   },
@@ -8232,6 +9268,13 @@
     "chapter_title": "International Tax"
   },
   {
+    "id": "apportionment-of-interest-costs-under-thin-capitalisation-rules",
+    "title": "Apportionment of interest costs under thin capitalisation rules",
+    "paragraph": "¶26-635",
+    "chapter": "26",
+    "chapter_title": "International Tax"
+  },
+  {
     "id": "hybrid-and-branch-mismatch-rules-base-erosion-and-profit-shifting-beps-measures",
     "title": "Hybrid and branch mismatch rules — base erosion and profit shifting (BEPS) measures",
     "paragraph": "¶26-650",
@@ -8281,6 +9324,13 @@
     "chapter_title": "Farming, Fishing And Aquaculture"
   },
   {
+    "id": "domestic-employees-employed-in-farmers-household",
+    "title": "Domestic employees employed in farmer's household",
+    "paragraph": "¶27-045",
+    "chapter": "27",
+    "chapter_title": "Farming, Fishing And Aquaculture"
+  },
+  {
     "id": "accident-compensation-levies-and-health-and-safety-levy-for-farmers",
     "title": "Accident compensation levies and health and safety levy for farmers",
     "paragraph": "¶27-060",
@@ -8305,6 +9355,27 @@
     "id": "main-income-equalisation-scheme-deposits",
     "title": "Main income equalisation scheme — deposits",
     "paragraph": "¶27-070",
+    "chapter": "27",
+    "chapter_title": "Farming, Fishing And Aquaculture"
+  },
+  {
+    "id": "main-income-equalisation-scheme-refunds-and-tax-credits",
+    "title": "Main income equalisation scheme — refunds and tax credits",
+    "paragraph": "¶27-075",
+    "chapter": "27",
+    "chapter_title": "Farming, Fishing And Aquaculture"
+  },
+  {
+    "id": "main-income-equalisation-scheme-interest-on-deposits",
+    "title": "Main income equalisation scheme — interest on deposits",
+    "paragraph": "¶27-080",
+    "chapter": "27",
+    "chapter_title": "Farming, Fishing And Aquaculture"
+  },
+  {
+    "id": "forestry-thinning-operations-income-equalisation-schemes",
+    "title": "Forestry thinning operations income equalisation schemes",
+    "paragraph": "¶27-085",
     "chapter": "27",
     "chapter_title": "Farming, Fishing And Aquaculture"
   },
@@ -8477,6 +9548,13 @@
     "chapter_title": "Farming, Fishing And Aquaculture"
   },
   {
+    "id": "purchase-of-land-and-buildings-for-horticulture-business",
+    "title": "Purchase of land and buildings for horticulture business",
+    "paragraph": "¶27-380",
+    "chapter": "27",
+    "chapter_title": "Farming, Fishing And Aquaculture"
+  },
+  {
     "id": "development-expenditure-for-land-improvements",
     "title": "Development expenditure for land improvements",
     "paragraph": "¶27-385",
@@ -8617,6 +9695,13 @@
     "chapter_title": "Forestry"
   },
   {
+    "id": "treaty-of-waitangi-claim-settlements-rights-to-take-timber",
+    "title": "Treaty of Waitangi claim settlements: rights to take timber",
+    "paragraph": "¶28-021",
+    "chapter": "28",
+    "chapter_title": "Forestry"
+  },
+  {
     "id": "gst-on-sale-of-forestry-rights",
     "title": "GST on sale of forestry rights",
     "paragraph": "¶28-022",
@@ -8659,6 +9744,13 @@
     "chapter_title": "Forestry"
   },
   {
+    "id": "forest-expenditure-planting-and-maintenance-deductions",
+    "title": "Forest expenditure (planting and maintenance) deductions",
+    "paragraph": "¶28-030",
+    "chapter": "28",
+    "chapter_title": "Forestry"
+  },
+  {
     "id": "cost-of-bush-expenditure",
     "title": "Cost of bush expenditure",
     "paragraph": "¶28-035",
@@ -8669,6 +9761,13 @@
     "id": "farmers-expenditure-on-tree-planting",
     "title": "Farmers' expenditure on tree planting",
     "paragraph": "¶28-040",
+    "chapter": "28",
+    "chapter_title": "Forestry"
+  },
+  {
+    "id": "forestry-business-based-partly-on-the-use-of-mori-land",
+    "title": "Forestry business based partly on the use of M#ori land",
+    "paragraph": "¶28-050",
     "chapter": "28",
     "chapter_title": "Forestry"
   },
@@ -8799,6 +9898,13 @@
     "chapter_title": "Forestry"
   },
   {
+    "id": "prohibition-against-double-dipping-of-mining-deductions",
+    "title": "Prohibition against double-dipping of mining deductions",
+    "paragraph": "¶28-130",
+    "chapter": "28",
+    "chapter_title": "Forestry"
+  },
+  {
     "id": "exploration-and-development-activities-by-non-resident-company",
     "title": "Exploration and development activities by non-resident company",
     "paragraph": "¶28-135",
@@ -8806,8 +9912,8 @@
     "chapter_title": "Forestry"
   },
   {
-    "id": "superannuation",
-    "title": "superannuation",
+    "id": "background-to-savings-investment-kiwisaver-and-superannuation",
+    "title": "Background to savings investment, KiwiSaver and superannuation",
     "paragraph": "¶29-010",
     "chapter": "29",
     "chapter_title": "Savings Investment, Kiwisaver And Superannuation"
@@ -9030,6 +10136,13 @@
     "chapter_title": "Savings Investment, Kiwisaver And Superannuation"
   },
   {
+    "id": "record-keeping-for-retirement-scheme-contributions-and-rsct",
+    "title": "Record-keeping for retirement scheme contributions and RSCT",
+    "paragraph": "¶29-325",
+    "chapter": "29",
+    "chapter_title": "Savings Investment, Kiwisaver And Superannuation"
+  },
+  {
     "id": "categories-of-superannuation-scheme",
     "title": "Categories of superannuation scheme",
     "paragraph": "¶29-400",
@@ -9138,6 +10251,13 @@
     "id": "application-of-approved-issuer-levy",
     "title": "Application of approved issuer levy",
     "paragraph": "¶30-325",
+    "chapter": "30",
+    "chapter_title": "Duty"
+  },
+  {
+    "id": "zero-rate-of-approved-issuer-levy-on-qualifying-bonds",
+    "title": "Zero rate of approved issuer levy on qualifying bonds",
+    "paragraph": "¶30-326",
     "chapter": "30",
     "chapter_title": "Duty"
   },
@@ -9471,6 +10591,13 @@
     "chapter_title": "Goods And Services Tax"
   },
   {
+    "id": "gst-apportionment-rules-for-mixed-use-of-goods-and-services",
+    "title": "GST apportionment rules for mixed use of goods and services",
+    "paragraph": "¶32-088",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
     "id": "gst-adjustments-for-mixed-use-assets-under-the-income-tax-act-2007",
     "title": "GST adjustments for mixed-use assets under the Income Tax Act 2007",
     "paragraph": "¶32-089",
@@ -9502,6 +10629,13 @@
     "id": "monthly-taxable-period-for-gst",
     "title": "Monthly taxable period for GST",
     "paragraph": "¶32-120",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
+    "id": "death-liquidation-receivership-or-bankruptcy-for-gst",
+    "title": "Death, liquidation, receivership or bankruptcy for GST",
+    "paragraph": "¶32-130",
     "chapter": "32",
     "chapter_title": "Goods And Services Tax"
   },
@@ -9548,9 +10682,30 @@
     "chapter_title": "Goods And Services Tax"
   },
   {
+    "id": "taxable-supply-information-for-supplies-exceeding-1000",
+    "title": "Taxable supply information for supplies exceeding $1,000",
+    "paragraph": "¶32-160",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
     "id": "taxable-supply-information-for-supplies-between-200-and-1000",
     "title": "Taxable supply information for supplies between $200 and $1,000",
     "paragraph": "¶32-170",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
+    "id": "taxable-supply-information-for-supplies-of-200-or-less",
+    "title": "Taxable supply information for supplies of $200 or less",
+    "paragraph": "¶32-180",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
+    "id": "credit-and-debit-notes-correcting-taxable-supply-information",
+    "title": "Credit and debit notes – correcting taxable supply information",
+    "paragraph": "¶32-205",
     "chapter": "32",
     "chapter_title": "Goods And Services Tax"
   },
@@ -9576,6 +10731,20 @@
     "chapter_title": "Goods And Services Tax"
   },
   {
+    "id": "timing-of-refunds-and-ability-to-withhold-refunds-for-gst",
+    "title": "Timing of refunds and ability to withhold refunds for GST",
+    "paragraph": "¶32-245",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
+    "id": "assessment-and-disputes-resolution-procedures-for-gst",
+    "title": "Assessment and disputes resolution procedures for GST",
+    "paragraph": "¶32-275",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
     "id": "avoidance-and-gst",
     "title": "Avoidance and GST",
     "paragraph": "¶32-280",
@@ -9590,6 +10759,13 @@
     "chapter_title": "Goods And Services Tax"
   },
   {
+    "id": "background-to-business-to-business-financial-services-regime",
+    "title": "Background to business-to-business financial services regime",
+    "paragraph": "¶32-300",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
     "id": "election-to-apply-zero-rating-under-business-to-business-regime-for-gst",
     "title": "Election to apply zero-rating under business-to-business regime for GST",
     "paragraph": "¶32-310",
@@ -9597,9 +10773,37 @@
     "chapter_title": "Goods And Services Tax"
   },
   {
+    "id": "zero-rating-under-business-to-business-regime-for-gst",
+    "title": "Zero-rating under business-to-business regime for GST",
+    "paragraph": "¶32-320",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
+    "id": "input-tax-credits-under-business-to-business-regime-for-gst",
+    "title": "Input tax credits under business-to-business regime for GST",
+    "paragraph": "¶32-330",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
+    "id": "value-of-supply-under-business-to-business-regime-for-gst",
+    "title": "Value of supply under business-to-business regime for GST",
+    "paragraph": "¶32-340",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
     "id": "background-to-reverse-charge-mechanism-for-gst-and-imported-services",
     "title": "Background to reverse charge mechanism for GST and imported services",
     "paragraph": "¶32-400",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
+    "id": "the-reverse-charge-mechanism-for-gst-and-imported-services",
+    "title": "The reverse charge mechanism for GST and imported services",
+    "paragraph": "¶32-410",
     "chapter": "32",
     "chapter_title": "Goods And Services Tax"
   },
@@ -9646,9 +10850,23 @@
     "chapter_title": "Goods And Services Tax"
   },
   {
+    "id": "gst-record-keeping-for-supplies-of-imported-services",
+    "title": "GST record-keeping for supplies of imported services",
+    "paragraph": "¶32-460",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
     "id": "introduction-to-gst-on-land-transactions",
     "title": "Introduction to GST on land transactions",
     "paragraph": "¶32-500",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
+    "id": "compulsory-zero-rating-of-land-transactions-czr-rules",
+    "title": "Compulsory zero-rating of land transactions (CZR rules)",
+    "paragraph": "¶32-505",
     "chapter": "32",
     "chapter_title": "Goods And Services Tax"
   },
@@ -9698,6 +10916,13 @@
     "id": "gst-and-secondhand-goods-input-claims-for-property-transactions-between-associat",
     "title": "GST and secondhand goods input claims for property transactions between associated persons",
     "paragraph": "¶32-558",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
+    "id": "gst-and-residential-property-owners-and-subdivisions",
+    "title": "GST and residential property owners and subdivisions",
+    "paragraph": "¶32-570",
     "chapter": "32",
     "chapter_title": "Goods And Services Tax"
   },
@@ -9779,9 +11004,23 @@
     "chapter_title": "Goods And Services Tax"
   },
   {
+    "id": "gst-and-facilitation-fees-charged-by-inbound-tour-operators",
+    "title": "GST and facilitation fees charged by inbound tour operators",
+    "paragraph": "¶32-647",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
     "id": "gst-and-finance-leases",
     "title": "GST and finance leases",
     "paragraph": "¶32-648",
+    "chapter": "32",
+    "chapter_title": "Goods And Services Tax"
+  },
+  {
+    "id": "gst-and-hire-firm-security-bonds-and-late-return-charges",
+    "title": "GST and hire firm security bonds and late return charges",
+    "paragraph": "¶32-650",
     "chapter": "32",
     "chapter_title": "Goods And Services Tax"
   },
@@ -9905,6 +11144,13 @@
     "chapter_title": "Tax Avoidance"
   },
   {
+    "id": "the-3-step-analysis-to-application-of-anti-avoidance-provision",
+    "title": "The 3-step analysis to application of anti-avoidance provision",
+    "paragraph": "¶33-085",
+    "chapter": "33",
+    "chapter_title": "Tax Avoidance"
+  },
+  {
     "id": "tax-avoidance-step-1-identify-the-arrangement",
     "title": "Tax avoidance — Step 1: Identify the arrangement",
     "paragraph": "¶33-095",
@@ -9922,6 +11168,13 @@
     "id": "tax-avoidance-the-merely-incidental-exception",
     "title": "Tax avoidance — The merely incidental exception",
     "paragraph": "¶33-115",
+    "chapter": "33",
+    "chapter_title": "Tax Avoidance"
+  },
+  {
+    "id": "tax-avoidance-step-3-counteracting-the-tax-advantage",
+    "title": "Tax avoidance — Step 3: Counteracting the tax advantage",
+    "paragraph": "¶33-125",
     "chapter": "33",
     "chapter_title": "Tax Avoidance"
   },
@@ -9950,6 +11203,13 @@
     "id": "specific-anti-avoidance-provisions",
     "title": "Specific anti-avoidance provisions",
     "paragraph": "¶33-144",
+    "chapter": "33",
+    "chapter_title": "Tax Avoidance"
+  },
+  {
+    "id": "anti-avoidance-provisions-non-market-transactions",
+    "title": "Anti-avoidance provisions — Non-market transactions",
+    "paragraph": "¶33-146",
     "chapter": "33",
     "chapter_title": "Tax Avoidance"
   },
@@ -10143,6 +11403,13 @@
     "chapter_title": "Dates • Rates"
   },
   {
+    "id": "prescribed-square-metre-rate-for-dual-use-of-premises",
+    "title": "Prescribed square metre rate for dual use of premises",
+    "paragraph": "¶50-085",
+    "chapter": "50",
+    "chapter_title": "Dates • Rates"
+  },
+  {
     "id": "pie-tax-rates",
     "title": "PIE tax rates",
     "paragraph": "¶50-090",
@@ -10178,6 +11445,13 @@
     "chapter_title": "Dates • Rates"
   },
   {
+    "id": "industry-categories-rates-prior-to-200506-income-year",
+    "title": "Industry Categories rates prior to 2005–06 income year",
+    "paragraph": "¶50-163",
+    "chapter": "50",
+    "chapter_title": "Dates • Rates"
+  },
+  {
     "id": "asset-categories-rates-prior-to-200506-income-year",
     "title": "Asset categories rates prior to 2005–06 income year",
     "paragraph": "¶50-164",
@@ -10204,5 +11478,103 @@
     "paragraph": "¶50-167",
     "chapter": "50",
     "chapter_title": "Dates • Rates"
+  },
+  {
+    "id": "amortisation-rates-for-landfill-cell-construction-expenditure",
+    "title": "Amortisation rates for landfill cell construction expenditure",
+    "paragraph": "¶50-169",
+    "chapter": "50",
+    "chapter_title": "Dates • Rates"
+  },
+  {
+    "id": "year-end-trust-resolution",
+    "title": "Year end trust resolution",
+    "paragraph": "¶90-010",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "resolution-approving-distribution-of-beneficiary-income",
+    "title": "Resolution approving distribution of beneficiary income",
+    "paragraph": "¶90-050",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "deed-of-gift",
+    "title": "Deed of gift",
+    "paragraph": "¶90-100",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "deed-of-acknowledgment-of-debt",
+    "title": "Deed of acknowledgment of debt",
+    "paragraph": "¶90-150",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "marshall-clause",
+    "title": "Marshall Clause",
+    "paragraph": "¶90-200",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "fbt-private-use-restriction-letter",
+    "title": "FBT — Private Use Restriction Letter",
+    "paragraph": "¶90-300",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "fbt-resolution-to-restrict-vehicle-use",
+    "title": "FBT — Resolution to restrict vehicle use",
+    "paragraph": "¶90-305",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "fbt-employee-acknowledgment-of-company-resolution",
+    "title": "FBT — Employee acknowledgment of company resolution",
+    "paragraph": "¶90-310",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "subvention-agreement",
+    "title": "Subvention agreement",
+    "paragraph": "¶90-400",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "notice-of-loss-offset-election",
+    "title": "Notice of loss offset election",
+    "paragraph": "¶90-410",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "sliding-value-clause",
+    "title": "Sliding value clause",
+    "paragraph": "¶90-500",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "company-dividend-statement",
+    "title": "Company dividend statement",
+    "paragraph": "¶90-600",
+    "chapter": "90",
+    "chapter_title": "Precedents"
+  },
+  {
+    "id": "shareholder-dividend-statement",
+    "title": "Shareholder dividend statement",
+    "paragraph": "¶90-605",
+    "chapter": "90",
+    "chapter_title": "Precedents"
   }
 ]

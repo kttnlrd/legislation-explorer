@@ -28,5 +28,3 @@ Consideration must be given to other tax consequences of a transfer besides shif
 Also to be considered are the practical problems arising upon transfer. For example, some assets by their very nature may be incapable of transfer. They may be, by the instrument creating them, expressed to be personal to the high rate taxpayer or they may be subject to licence or control which prohibits alienation.
 
 Last reviewed on 31 December 2025
-
-price allocation rules

@@ -61,8 +61,6 @@ For NRWT purposes, a dividend includes a distribution on liquidation, or a deeme
 
 A deduction of NRWT is not made in relation to taxable bonus issues and non-cash dividends paid to a non- resident, but instead the payer of the dividend makes a payment to IR of an amount equivalent to such a deduction.
 
-income
-
 ## Dual resident company deriving dividends
 
 Effective 30 August 2022, certain dividends derived by a New Zealand resident company that is not resident under a DTA are non-resident passive income. There is an exclusion for dividends that are exempt income, dividends derived from multi-rate or listed PIEs and certain trustee income (s RF 2 (2BA)).
@@ -90,8 +88,6 @@ Often, a non-resident lender may wish to protect itself from the monetary effect
 Example: Non-resident passive income of $170,000 is paid net of tax where a 15% NRWT rate applied. The gross amount of non-resident passive income is calculated as follows: $170,000 ÷ (1 # 0.15) = $200,000.
 
 The NRWT is: $200,000 × 15% = $30,000.
-
-income
 
 ## Approved issuer levy
 

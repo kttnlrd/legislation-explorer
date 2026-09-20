@@ -45,8 +45,6 @@ The child support deduction will be limited to $59.17, since deduction of the fu
 
 Liable parents who have more than one employer have the option of having their total child support liability deducted from one source, even if it would result in net earnings of less than 60%. Employers can disregard
 
-support
-
 the protected net earnings of 60% when the liable parent has more than one employer, provided the total deductions made by all the liable parent's employers do not exceed 40%. In such cases, the Commissioner will advise the employer to disregard the protected net earnings provisions.
 
 Law: CHS ss 165, 166

@@ -41,8 +41,6 @@ From 1 April 2023, the list of activities which are not a taxable activity has b
 
 ## the goods were not acquired for the principal purpose of making taxable supplies
 
-apportionment of secondhand goods credit
-
 ## the goods were not used for the principal purpose of making taxable supplies
 
 ## the goods were not acquired as zero-rated supplies under s 11(1)(m) or (mb), or if they were
@@ -54,5 +52,3 @@ Transitional rule for certain goods acquired before 1 April 2023 Further consequ
 Law: GST ss 2(1) ("dwelling", "principal place of residence"), 5(15), (16), 6(3)(e), 11(1)(mb), 20(3J), 91
 
 Last reviewed on 31 December 2025
-
-for property transactions between associated persons

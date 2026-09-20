@@ -65,8 +65,6 @@ For other categories of excepted financial arrangement that are a part of a fina
 
 ## an option over property for a private or domestic purpose
 
-arrangement and an excepted financial arrangement
-
 ## a private or domestic agreement for the sale and purchase of property or services or specified option
 
 ## an agreement for the sale and purchase of property or services where sales and purchases prepaid

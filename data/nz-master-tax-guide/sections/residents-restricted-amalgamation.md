@@ -35,6 +35,4 @@ Law: IT07 s FO 3; TAA s 75
 
 Last reviewed on 31 December 2025
 
-and available capital distribution amount of amalgamated companies
-
 Available subscribed capital and available capital distribution

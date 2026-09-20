@@ -27,8 +27,6 @@ The Law Association of New Zealand Incorporated released the 11th edition of the
 
 The sale of commercial property is usually expressed to be "plus GST (if any)" and the sale of residential property "inclusive of GST (if any)".
 
-agreements
-
 If neither of the optional clauses in the standard form is deleted, the purchase price is deemed to include GST (if any). This clause formalises the common law principles established by cases such as Smale v Fletcher Homes Ltd (1996) 17 NZTC 12,662. Therefore, if no election is made the cost of the GST is effectively borne by the vendor.
 
 Section 78F(7) provides that if an agent does not have a registration number, their tax file number may be provided in its place.

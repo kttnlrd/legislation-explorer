@@ -77,8 +77,6 @@ benefit:
 
 Table 2 specifies the information that must be provided about new employees and table 3 deals with the information for departing employees. These information requirements are discussed below.
 
-basis
-
 Form IR337, "Completing Employment Information forms", provides guidance on how to complete IR346K and IR348.
 
 ## Employers' groups for delivery of information
@@ -125,8 +123,6 @@ for the employer's purposes
 
 unreasonable in the circumstances.
 
-basis
-
 The Commissioner has to provide a statement of reasons for the exemption. Generally, the exemption remains valid until the Commissioner notifies the employer that it is to be cancelled, in which case it expires 6 months after the date given in the notice. However, the Commissioner can set a time limit on the exemption when it is made.
 
 ## Operational statement OS 24/01
@@ -154,8 +150,6 @@ Tax Information Bulletin ¶305-102 Vol 30, No 5, June 2018 at 8 contains the fol
 ## Special payments
 
 Section 23J deals with certain special payments where the requirement to report them on a payday basis could increase compliance costs for employers. The identified payments and the delivery requirements are as follows:
-
-basis
 
 ## Schedular payments
 
@@ -186,8 +180,6 @@ Note that IR has indicated that the need for this exception relating to out-of-c
 Despite the delivery requirements of the various groups and special payments, an employer can nevertheless deliver their information at any time before the dates set out above.
 
 An employer can also ask the Commissioner for approval to deliver the information in another way. The Commissioner can give consent with terms and conditions, vary the terms and conditions, and cancel the consent.
-
-basis
 
 ## Payday
 
@@ -232,8 +224,6 @@ For departing employees, in addition to the employer identification information,
 ## name, date of cessation of employment
 
 ## tax file number, if supplied to employer.
-
-basis
 
 If any of the above information is already included in the employment income information provided, there is no need to repeat the information and only the additional information is required.
 
@@ -282,8 +272,6 @@ The key date for determining whether there is a penalty is the month in which th
 Example: Matias and Carrie run a business that withholds more than $50,000 of PAYE and ESCT a year so they are in the online group.
 
 Matias manages the payroll which runs every week but he does not always meet his filing obligations with Inland Revenue.
-
-basis
 
 In February Matias missed two due dates for filing employment income information. Because it was not the first time in a twelve- month period, a penalty of $250 was imposed. Three months later Matias again missed a filing obligation, in respect of one payday return during the month, and was again penalised $250.
 

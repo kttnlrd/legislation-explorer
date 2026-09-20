@@ -27,8 +27,6 @@ This definition is inclusive, not exhaustive. Hence tax avoidance can exist even
 
 Specific provisions v anti-avoidance provision
 
-a purpose or effect of tax avoidance?
-
 At this point the obvious paradox concerning the application of the general anti-avoidance provision arises.
 
 First the definition is exceedingly broad. It will literally catch any transaction that has a beneficial tax effect.
@@ -83,8 +81,6 @@ The Supreme Court put the key issue this way at [109] of its Ben Nevis judgment:
 
 The Court interchangeably uses the phrases "Parliament's contemplation", "Parliament's purpose" and "Parliament's intention". This language can present as being equivalent to what was previously styled as the "scheme and purpose" analytical framework: see Penny v C of IR; Hooper v C of IR (2009) 24 NZTC 23,406 (see also C of IR v Penny and Hooper (2010) 24 NZTC 24,287 (CA) at [62], where it states that Ben Nevis endorsed the scheme and purpose approach but with some important qualifications) and Case Z19 (2009) 24 NZTC 14,217 at [174]. Notwithstanding this a different view was expressed in Westpac Banking Corp v
 
-a purpose or effect of tax avoidance?
-
 C of IR (2009) 24 NZTC 23,834 where the Judge said that the Supreme Court in Ben Nevis was not simply restating the "scheme and purpose approach": [174]–[179].
 
 It is suggested that what the Supreme Court means by "Parliamentary contemplation" is very different to what Richardson J had in mind with this "scheme and purpose" formulation, which he used in his judgment in C of IR v Challenge Corp Ltd (1986) 8 NZTC 5,001 (CA). What Richardson J had in mind was that if the arrangement met the terms of the specific provision as purposively interpreted, the general anti-avoidance provision cannot have been intended to apply because there would not be avoidance as defined. Conversely the Supreme Court is using the phrase "Parliamentary contemplation" to inform a question, namely, if the arrangement is looked at in a commercially and economically realistic manner, can it be predicated that Parliament intended the specific provision to be used in the manner it is used by that arrangement? This changed focus is confirmed by the Supreme Court decision in Penny and Hooper v C of IR (2011) 25 NZTC ¶20-073 (SC). The approach of the Privy Council in C of IR v Challenge Corp Ltd (1986) 8 NZTC 5,219 and that of Woodhouse P in the Court of Appeal case gives a more reliable guide to what the Supreme Court is saying in both Ben Nevis and Penny and Hooper than the judgment of Richardson J.
@@ -112,8 +108,6 @@ There is some limited guidance available from our courts in the sense of example
 an interest expense), where such a burden has not, in economic substance, been suffered, and the arrangement has artificially re-characterised a capital payment as deductible.
 
 A further example of a transaction that has been held to be artificial is the issuance of an optional convertible note to a 100% owned subsidiary: see Alesco New Zealand Ltd v C of IR (2013) 26 NZTC ¶21-003 at [112]– [114]. An optional convertible note enables the holder to either have their principal repaid or to have the notes converted into shares. If the holder already owns 100% of the shares in a subsidiary, the ability to have the notes convert into shares is worthless and purposeless as the ability to have the parent company issue more shares was completely in the control of the company and did not require the optional convertible notes to be achieved.
-
-a purpose or effect of tax avoidance?
 
 For a short period, there was a contrasting decision in the decision of the High Court in Frucor Suntory New Zealand Ltd v C of IR (2018) 28 NZTC ¶23-078, where the Court held that shares do have value in a wholly- owned group. In that case it was held the transaction involving convertible notes involved real money flows and did not cross the line between permissible arrangement and tax avoidance arrangement. The Court took the view that debt capitalisations within a wholly-owned group both involved an economic cost and fell within Parliamentary contemplation. However, the Court of Appeal later overturned the decision in C of IR v Frucor Suntory New Zealand Ltd [2020] NZCA 383; (2020) 29 NZTC ¶24-075. In the Court of Appeal's opinion, the funding arrangement came within the Supreme Court's formulation in Ben Nevis as one enabling the taxpayer to gain the benefit of the specific provision in an artificial and contrived way. The transaction was in many respects artificial, and it was clearly contrived for the very purpose of enabling Frucor to gain the benefit of the specific provision allowing interest deductions.
 
@@ -151,8 +145,6 @@ Practical examples of what has been held to amount to an artificial or contrived
 
 An example of a situation which was held not to be artificial or contrived was a doctor being employed by a company involved in an orchard enterprise in circumstances where no salary could consequently be paid to the doctor: White v C of IR (2010) 24 NZTC 24,600.
 
-a purpose or effect of tax avoidance?
-
 The unlimited transfer of losses through the mechanism of the Russell agency and management agreements were held to be artificial and contrived. This was because they had the effect of eroding the tax base by bypassing the grouping rules: Russell v C of IR (2012) 25 NZTC ¶20-120 (CA) at [60].
 
 The Commissioner's view of artificiality and contrivance is discussed at Part 7 of IS 23/01.
@@ -174,8 +166,6 @@ The taxpayers sought to persuade the Court that the licence premium expenditure 
 The courts at all levels did not accept that there was any genuine prospect that the obligations would be met, or any need for them to be. Thus at [120] the court majority concluded that there was a strong evidential basis for concluding that the Trinity scheme would never be profitable, so the notes would be able to be discharged. While the expenditure had been legally "incurred", because of the 48-year mismatch between the point it was incurred and the point in time at which it had to be paid in cash from harvest proceeds, there was no cost in an economic sense. This distortion in timing is described by the Court at [130] as being inconsistent with the purpose of the provisions for depreciation based deductions.
 
 The contingencies associated with actual payment from the net stumpage are described as "outside of the scope of the provision allowing for a deduction for depreciable property". That provision permits depreciation for the cost of, for example, the licence premium. In short, the Supreme Court majority held, applying s BG 1 of the Income Tax Act 1994, that a 48-year promissory note
-
-a purpose or effect of tax avoidance?
 
 which was (on all of the evidence) not likely ever to be satisfied in cash, did not meet the meaning of "cost" for the purposes of the depreciation regime.
 
@@ -206,5 +196,3 @@ received and paid to the counterparty: [128].
 Law: IT07 s YA 1 ("tax avoidance", "tax avoidance arrangement")
 
 Last reviewed on 31 December 2025
-
-incidental exception

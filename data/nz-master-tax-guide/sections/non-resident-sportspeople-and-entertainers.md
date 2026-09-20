@@ -45,8 +45,6 @@ A cultural programme will belong to the government (New Zealand or overseas) if 
 
 ## the funding to be by way of monetary remuneration to an employee.
 
-entertainers
-
 The Commissioner's view is also that sponsorship of a cultural programme requires the government (New Zealand or overseas) to pay or contribute to the costs of that programme. That is, the cultural programme must be wholly or partly funded by the government. The Commissioner's view is that a programme that has received government funding to any extent will be the kind of programme that was anticipated to qualify under the exemption.
 
 ## Not-for-profit overseas organisations

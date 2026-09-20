@@ -1,0 +1,40 @@
+---
+act: "New Zealand Master Tax Guide"
+part: "5"
+section: "income-benefit-from-money-advanced-in-lieu-of-interest"
+title: "Income — benefit from money advanced in lieu of interest"
+paragraph: "¶5-279"
+---
+# Income — benefit from money advanced in lieu of interest ¶5-279
+
+The value of any benefit from money advanced will be income if all of the following criteria are satisfied:
+
+## a lender provides money to a borrower for use in a business that the borrower carries on in New
+
+Zealand, and
+
+## the borrower provides a tangible or intangible benefit to the lender that:
+
+## is not interest, and
+
+## may or may not be relief from an obligation, and
+
+## may or may not be convertible into money, and
+
+## the borrowing is a commercial transaction under which the borrower would have been liable to pay
+
+interest at the current commercial rate if the borrower had not provided the benefit.
+
+Whether interest would have been payable is to be determined having regard to the nature and term of the loan. Examples of the types of benefit that may be income include the discharge, forgiveness or satisfaction of any obligation, liability or debt.
+
+The amount of income assessable to the lender is the interest that the borrower would have been liable to pay if the money had been lent to the borrower at the current commercial rate of interest, reduced by any interest actually paid. What the rate of interest would be is determined with regard to the nature and term of the loan.
+
+Example: An interest-free loan made to a retirement village by a resident in return for reductions in tenancy charges would be subject to tax.
+
+The value assessable to the resident is a sum equal to the amount of interest receivable had that money been lent to the borrower at commercial rates of interest.
+
+Law: IT07 s CC 7
+
+*Refs: s CC 7*
+
+Last reviewed on 31 December 2025

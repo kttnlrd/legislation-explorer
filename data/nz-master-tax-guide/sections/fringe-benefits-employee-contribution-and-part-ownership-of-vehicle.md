@@ -35,8 +35,6 @@ Various adjustments can be made to calculate the amount of taxable fringe benefi
 
 Example: Employer Co Ltd pays FBT on an income-year basis. It has received written approval from IR to change its balance date from 31 March to 30 June. The first year of application is the 2022–23 income year; therefore, the income year ended 31 March 2023 will be a 15-month period from 1 April 2022 to 30 June 2023 (an extra 91 days). Employer Co makes a motor vehicle available for private use to a shareholder-employee, Lucy. Lucy acquired a 30% interest in the motor vehicle provided on 1 August 2022. The GST- inclusive cost price of the motor vehicle is $30,000. The taxable value of the fringe benefit provided in the 2022–23 income year is: number of days in period = 456 days (1 April 2022 to 30 June 2023) period of non-ownership of motor vehicle = 122 days (1 April 2022 to 31 July 2022)
 
-of vehicle
-
 period of ownership of motor vehicle = 334 days (456 # 122) Lucy's portion of cost price of motor vehicle = $9,000 (30% of $30,000) ($30,000 × 20%)  (334/365 × $9,000 × 10%) = $6,000 # $823.56 = $5,176.44
 
 ## QWBA on treatment of an employee contribution to a fringe
@@ -62,8 +60,6 @@ Income tax A contribution made to the employer is income of the employer and mus
 When an employer supplies an employee with a fringe benefit, that supply is deemed to be a supply of goods and services by the employer in the course or furtherance of their taxable activity (s 21I of the GST Act). The supply will be valued under s 10(7) of the GST Act using the FBT taxable value. However, the provision of a fringe benefit will be a supply only to the extent that the employee has not paid an amount for the receipt or enjoyment of the fringe benefit. If an employee makes a partial contribution to the employer for receiving the fringe benefit, the supply must be split into 2 supplies — a supply of a fringe benefit and a supply of the good or service the employee has paid for. There will also be no supply of a fringe benefit for GST purposes if the fringe benefit arises out of an exempt or zero-rated supply.
 
 QB 19/12 also contains a number of examples that illustrate how the law works.
-
-of vehicle
 
 Law: IT07 ss RD 54–RD 57, Sch 5 cl 9, cl 10
 

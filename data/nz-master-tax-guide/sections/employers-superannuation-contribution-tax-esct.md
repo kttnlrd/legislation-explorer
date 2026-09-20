@@ -43,8 +43,6 @@ A PAYE intermediary is also subject to the ESCT rules for any superannuation cas
 
 From 1 April 2023, s RD 71B provides that if a non-resident employer makes an employer's superannuation cash contribution or a contribution to a foreign superannuation scheme for a cross-border employee,
 
-contribution tax (ESCT)
-
 the employer will have to account for ESCT if the contribution applies to a period that the employee was providing services in New Zealand. The employer and employee may record in a document an agreement that the employee is liable to pay and report ESCT to IR (via the IR 56 mechanism, see ¶3-303). The employer must provide the employee with the necessary information to undertake the calculation.
 
 Law: IT07 ss BE 1(5), RA 5(1)(c), RD 64–RD 71B, Sch 1 pt D cl 1

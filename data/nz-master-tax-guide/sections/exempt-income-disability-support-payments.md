@@ -17,6 +17,4 @@ Law: IT07 s CW 52B
 
 Last reviewed on 31 December 2025
 
-deferred pay
-
 Exempt income — military or police services personnel —

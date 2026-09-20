@@ -53,12 +53,8 @@ Any retirement scheme contribution paid for the benefit of a person is excluded 
 
 Payments of RSCT should be made to IR by the 20th of the month following the month in which the deduction is made. Payments to IR should be accompanied by a statement showing the amount of the contribution, the amount of RSCT paid (other than by way of imputation credits or M#ori authority credits (¶29-315)) and any other particulars required by the Commissioner. If a contributor (or the retirement scheme, if acting as the contributor's agent) fails to deduct RSCT from a contribution for a person, the unpaid tax becomes a debt payable to the Commissioner by the contributor, due on the 20th of the month following the month in which the contribution was made. Certain provisions of the RWT rules relating to the non- payment of tax are deemed to apply to the non-payment of RSCT (s RA 24). It is an offence to knowingly not deduct RSCT (¶14-250).
 
-tax (RSCT)
-
 The Commissioner is empowered to make assessments of the amount of a retirement scheme contribution on which, in the Commissioner's opinion, RSCT should be imposed (s 98B of the TAA).
 
 Law: IT07 ss BE 1(5B), RA 6B, RA 10, RA 15, RA 24, RH 2, RH 5, YA 1 ("retirement scheme prescribed rate"), Sch 1 pt D cl 7, Sch 6, Table 2; TAA ss 28C, 47B, 98B
 
 Last reviewed on 31 December 2025
-
-authority credits

@@ -26,5 +26,3 @@ The PAYE obligations arise in the following year.
 Example: A subsidiary of a United States company agreed to pay non-resident employees working in New Zealand a net income equivalent to the net income that they would have received had they been working in the United States. The High Court found that the employees did not derive the difference between the 2 sums until the end of the income year in which the employer paid the estimated tax. The final amount of tax could not be ascertained until that time. The final credit received by an employee when leaving employment in New Zealand was taxable in New Zealand in the year it was made. See Dow Chemical Overseas Management Co Ltd v C of IR (1994) 16 NZTC 11,143.
 
 Last reviewed on 31 December 2025
-
-equity investor

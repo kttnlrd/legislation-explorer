@@ -38,5 +38,3 @@ The market value concept is defined in relation to a person's interests in a for
 Law: IT07 ss EX 67B, EX 68, EX 70
 
 Last reviewed on 31 December 2025
-
-and FIF rules

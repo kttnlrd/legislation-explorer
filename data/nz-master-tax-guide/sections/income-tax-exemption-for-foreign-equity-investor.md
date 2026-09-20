@@ -57,8 +57,4 @@ Under the Income Tax (Approved Territories for Qualifying Foreign Equity Investo
 
 Law: IT07 s CW 12
 
-equity investor
-
 Last reviewed on 31 December 2025
-
-resident withholding tax (NRWT)

@@ -18,5 +18,3 @@ Law: TAA ss 89H, 89I
 *Refs: ss 89H*
 
 Last reviewed on 31 December 2025
-
-proposed adjustment (NOPA) — notice of response (NOR)

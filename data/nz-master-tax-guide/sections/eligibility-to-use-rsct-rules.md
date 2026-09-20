@@ -52,5 +52,3 @@ reasonable, and include a rule that the scheme can request the saver to provide 
 Law: IT07 ss RH 3, RH 4
 
 Last reviewed on 31 December 2025
-
-tax (RSCT)

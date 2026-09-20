@@ -18,5 +18,3 @@ Law: IT07 s DB 8(3)–(5)
 *Refs: s DB 8(3)*
 
 Last reviewed on 31 December 2025
-
-an amalgamation

@@ -26,5 +26,3 @@ Law: IT07 ss RE 4, RE 10
 *Refs: ss RE 4*
 
 Last reviewed on 31 December 2025
-
-partnership

@@ -16,5 +16,3 @@ A director election can be revoked only by a resolution of the board of director
 Law: IT07 ss HA 5, HA 30, HA 31
 
 Last reviewed on 31 December 2025
-
-elections

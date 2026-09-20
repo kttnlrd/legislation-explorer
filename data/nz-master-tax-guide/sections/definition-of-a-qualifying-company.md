@@ -16,5 +16,3 @@ Law: IT07 ss HA 2, HA 5–HA 9
 *Refs: ss HA 2*
 
 Last reviewed on 31 December 2025
-
-test

@@ -41,8 +41,6 @@ In addition, the company must have its shares listed on the Australian Stock Exc
 
 There is an exemption for interests held in certain Australian unit trusts. To qualify for this exemption, the unit trust must meet a 25% minimum turnover requirement or satisfy a 70% minimum distribution test, and the investors must elect to use the resident withholding tax proxy mechanism for their investment in the entity.
 
-rules
-
 ## Australian superannuation fund exemption
 
 An exemption from the FIF rules exists for an interest in an Australian superannuation scheme that meets certain criteria. Generally, to fall within the exemption, the scheme has to be subject to strict preservation rules whereby the benefits are locked in until the member reaches retirement age. This exemption is expected to be wide enough to include those schemes that received compulsory employment superannuation contributions under Australia's guarantee scheme.
@@ -84,8 +82,6 @@ there are restrictions on the ability of the investor to sell the shares. The ex
 beginning of the year, the share scheme taxing date has not passed.
 
 A grey list company is a company resident in a country listed in Sch 24, Pt A (Australia, Canada, Spain, Norway, Germany, Japan, the United Kingdom and the United States).
-
-rules
 
 ## Foreign exchange control exemption
 
@@ -133,8 +129,6 @@ Zealand, and
 
 ## the benefit was not increased by a voluntary action after the person became a resident, or
 
-rules
-
 ## the person entered into a life insurance contract before 2 July 1992 and the benefits did not increase
 
 as a result of any voluntary action taken on or after 2 July 1992.
@@ -142,5 +136,3 @@ as a result of any voluntary action taken on or after 2 July 1992.
 Law: IT07 ss CQ 5(1)(c), (5), EX 31–EX 43, EX 45
 
 Last reviewed on 31 December 2025
-
-FIF income or loss

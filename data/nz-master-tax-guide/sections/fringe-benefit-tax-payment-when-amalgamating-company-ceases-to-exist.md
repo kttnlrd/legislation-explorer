@@ -26,5 +26,3 @@ If an amalgamated (new) company pays FBT annually, the reduction is calculated b
 Law: IT07 ss CX 37, RD 45, RD 46
 
 Last reviewed on 31 December 2025
-
-other withheld amounts when amalgamating company ceases to exist

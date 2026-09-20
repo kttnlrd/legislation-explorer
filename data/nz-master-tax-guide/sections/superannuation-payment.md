@@ -12,5 +12,3 @@ An employee who terminates their employment will often receive a pay-out from th
 *Refs: s YA 1*
 
 Last reviewed on 31 December 2025
-
-Act or the Human Rights Act

@@ -28,5 +28,3 @@ See ¶32-558 and ¶32-686 for discussion on input tax credit claims for a supply
 Law: GST ss 2(1) ("secondhand goods"), 11(1)(mb), 20(3), 75(3B)–(3E)
 
 Last reviewed on 31 December 2025
-
-apportionment of secondhand goods credit

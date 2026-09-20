@@ -33,8 +33,6 @@ If the Commissioner does not exercise the discretion to accept a late document, 
 
 When a taxpayer is late in issuing a NOPA or a SOP, the Commissioner's response period starts from the time when it is decided "exceptional circumstances" exist and the taxpayer's late document is to be allowed.
 
-documents — exceptional circumstances
-
 This ensures the Commissioner is not required to issue a substantive response to a dispute that may not have a procedural basis while a decision is still being reached.
 
 ## Commissioner outside time limit for NOPA
@@ -63,8 +61,6 @@ The Commissioner may apply to the High Court for an order allowing the Commissio
 
 Commissioner from issuing the challenge notice within the 4 years, and
 
-documents — exceptional circumstances
-
 ## the Commissioner applies within 4 years.
 
 An "exceptional circumstance" for the purposes of the application is an event or circumstance beyond the control of the Commissioner or an IR officer that provides the Commissioner with a reasonable justification for not rejecting the adjustment within the response period.
@@ -80,5 +76,3 @@ If an exceptional circumstance has prevented a taxpayer from commencing challeng
 Law: TAA ss 89AB, 89AC, 89K, 89L
 
 Last reviewed on 31 December 2025
-
-notice of response

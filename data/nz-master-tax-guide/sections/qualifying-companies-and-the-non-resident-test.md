@@ -14,5 +14,3 @@ Law: IT07 s HA 6(2)
 *Refs: s HA 6(2)*
 
 Last reviewed on 31 December 2025
-
-test

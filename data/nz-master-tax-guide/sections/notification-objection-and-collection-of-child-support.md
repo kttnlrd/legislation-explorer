@@ -39,8 +39,6 @@ Omitting to lodge an objection because of an oversight by the objector or the ob
 
 There are no appeal or objection rights under the CHS if the Commissioner does not exercise their discretion to accept a late objection. However, the decision can be challenged by way of judicial review to the High Court.
 
-support
-
 ## Grounds for objection
 
 The only grounds on which an objection to an assessment of child support may be made are that:
@@ -58,5 +56,3 @@ Commissioner has failed to give effect to a provision of the Act in relation to 
 Law: CHS ss 88, 88A, 91, 92, 129–133
 
 Last reviewed on 31 December 2025
-
-Australia) Order 2000

@@ -27,8 +27,6 @@ Foreign tax credits are attributed to the class that held the investment that de
 
 When a multi-rate PIE attributes a foreign tax credit to a non-zero-rated investor, the credit may be used by the multi-rate PIE to offset the tax liability attributable to that investor in respect of any investor class in the multi-rate PIE in which the investor holds an investor interest. Multi-rate PIEs are not subject to the ordinary limitations on the use of foreign tax credits under s LJ 2 and can thus use those credits to reduce tax on New Zealand-sourced income and foreign income of a different nature and source.
 
-credits
-
 Foreign tax credits can only be used by the multi-rate PIE to reduce the investor's attributed PIE tax liability and can only be utilised in the tax year in which they arise. Foreign tax credits that are not used by the multi- rate PIE by the end of the tax year are not refundable or transferable and are forfeited. However, for a multi- rate PIE that uses the quarterly tax calculation option, the credit can be used in a later calculation period in the same tax year. For a multi-rate PIE that uses the exit calculation option, the credit can be used in an earlier or later calculation period in the same tax year.
 
 A remedial amendment made in 2021 clarifies that a natural person investor may only use their investor's tax credit in making a PIE schedular tax adjustment under s HM 36B, and the amount of the tax credit that may be used is limited to the extent of the investor's tax liability on their PIE schedular income.
@@ -42,5 +40,3 @@ The effect of the rules under ss HM 55C–HM 55H is the FITC rules apply to the 
 Law: IT07 ss HM 47(5), HM 49–HM 55, LS 1
 
 Last reviewed on 31 December 2025
-
-multi-rate PIE investors

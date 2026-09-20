@@ -38,5 +38,3 @@ Note also that imputation credits will not be available for attaching to distrib
 Law: IT07 ss CV 14, CW 52, HC 21, HD 12(1), YA 1 ("community trust")
 
 Last reviewed on 31 December 2025
-
-accident or death benefit funds

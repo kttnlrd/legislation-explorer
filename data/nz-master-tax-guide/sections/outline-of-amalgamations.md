@@ -76,5 +76,3 @@ The amalgamation proposal must be approved by the shareholders of each amalgamat
 Law: C93 ss 219, 225
 
 Last reviewed on 31 December 2025
-
-amalgamations

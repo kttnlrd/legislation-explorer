@@ -37,8 +37,6 @@ The trustees of superannuation funds return trust income on the same basis as an
 
 Costs incurred with respect to the developing, marketing, selling, promoting and advertising for members of a superannuation fund may be deducted pursuant to s DV 1. Concessionary rules in s DV 2 apply to enable a superannuation fund that only invests in another superannuation fund and that does not have any taxable income to transfer its management expenses to the "master" superannuation fund. The "master fund" is then entitled to deduct those expenses against its taxable income.
 
-tax treatment
-
 Specifically excluded from the trustee income of a superannuation fund is any amount derived from investing funds in a policy of life insurance offered or entered into in New Zealand (s CX 40).
 
 ## Taxation of distributions
@@ -48,5 +46,3 @@ All benefits paid from superannuation funds are exempt from tax, irrespective of
 Law: IT07 ss CX 40, CX 49, DC 7, DV 1, DV 2, HC 10, HC 24–HC 26, HC 29, HC 33, YA 1 ("legacy superannuation fund", "public unit trust", "superannuation fund", "superannuation scheme", "widely-held superannuation fund"), Sch 1 pt A cls 3, 6
 
 Last reviewed on 31 December 2025
-
-contribution tax (ESCT)

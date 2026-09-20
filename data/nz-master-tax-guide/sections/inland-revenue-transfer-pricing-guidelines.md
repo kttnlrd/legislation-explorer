@@ -180,5 +180,3 @@ The next review of interest rates for small value term loans is scheduled for 30
 Law: IT07 ss GB 2, GC 6–GC 14, YD 5
 
 Last reviewed on 31 December 2025
-
-and profit shifting (BEPS) measures

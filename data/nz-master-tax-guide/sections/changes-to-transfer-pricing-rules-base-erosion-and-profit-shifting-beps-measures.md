@@ -61,8 +61,6 @@ Further, from 30 March 2025, amendments clarify that the transfer pricing and di
 
 *Refs: s GC 11*
 
-and profit shifting (BEPS) measures
-
 ## Guidance materials
 
 IR released guidance material, "BEPS — Transfer pricing rules", in Tax Information Bulletin ¶313-104 Vol 31, No 3, April 2019 at 12. The materials discuss the amendments made in more detail.
@@ -94,7 +92,5 @@ IR already required New Zealand headquartered multinational groups with annual c
 Law: ITA ss GC 6–GC 14; TAA s 78G
 
 Last reviewed on 31 December 2025
-
-party debt — base erosion and profit shifting (BEPS) measures
 
 Restricted transfer pricing approach to related-party debt —

@@ -27,8 +27,6 @@ A DTA also deals with co-operation on administrative matters. A DTA generally au
 
 New Zealand has signed the multilateral "Convention on Mutual Administrative Assistance in Tax Matters" which entered into force on 1 March 2014. The convention provides for the exchange of taxpayer information between signatories. The convention also provides for assistance in the recovery of tax owed to one of the signatory states. As such, the convention overrides the common law rule known as "the revenue rule" by which the courts of one state were not available for assistance in the collection of tax owed to another state: Government of India v Taylor [1955] AC 491. The revenue rule had been displaced by agreements to the contrary, being the DTAs with Australia, the United Kingdom, Canada (revised agreement), Poland and Turkey.
 
-agreements > Introduction to international tax agreements
-
 Tax sparing provisions are incorporated into the DTAs with China, Fiji, India, Korea, Malaysia, Papua New Guinea, Singapore and Vietnam. The benefit of a tax sparing provision must be claimed using form IR 486 (¶26-315).
 
 In 2016, the OECD released the text of a multilateral instrument negotiated between more than 100 jurisdictions. The "Multilateral Convention to Implement Tax Treaty Related Measures to Prevent BEPS" implements minimum standards to counter treaty abuse and to improve dispute resolution mechanisms while providing flexibility to accommodate specific tax treaty policies. It rapidly amends a worldwide network of several thousand bilateral tax treaties, rather than countries having to implement these amendments on a treaty-by-treaty basis. The New Zealand Government signed the convention in 2017 and it entered into force for New Zealand from 1 October 2018.
@@ -60,8 +58,6 @@ Tax information exchange agreements (TIEAs) have become an alternative form of i
 ## Extradition
 
 Extradition for tax offences is governed by the Extradition Act 1999 or by a specific extradition treaty with another contracting state. The Extradition Act authorises extradition from New Zealand for an offence of a kind that, if committed in New Zealand, would be punishable under New Zealand law by at least 12 months' imprisonment. Tax evasion, for example, is punishable by imprisonment for up to 5 years so that extradition may be obtainable for tax evasion committed in the requesting state. The procedures for processing an extradition request vary according to the identity of the requesting state.
-
-agreements > Introduction to international tax agreements
 
 New Zealand has concluded several extradition treaties. However, the Extradition Act does not require a foreign country to have a treaty to request extradition from New Zealand.
 
@@ -101,8 +97,6 @@ As at 31 March 2023, there were 98 reportable jurisdictions covered by the CRSs 
 
 The legislation incorporating the CRS and its commentary into New Zealand law is primarily located in Pt 11B of the TAA, alongside the FATCA provisions. The legislation generally only introduces special rules
 
-agreements > Introduction to international tax agreements
-
 when the CRS or commentary either provides flexibility or requires implementing jurisdictions to make decisions (eg decisions on dates that will apply for due diligence and reporting purposes).
 
 ## Financial institutions
@@ -128,8 +122,6 @@ The CRS allows implementing jurisdictions to expand on the list of automatically
 ## Inland Revenue guidance
 
 IR has released a document entitled "Guidance on the Common Reporting Standard for Automatic Exchange of Information" (IR 1048, July 2019). This guidance is intended to provide operational advice in the New Zealand context for financial institutions that are implementing the CRS and others who may have CRS obligations. The guidance is intended to be a self-contained document that can be used by a wide range of taxpayers to clarify their CRS obligations. The Appendices to the guidance also contain a summary of
-
-agreements > Introduction to international tax agreements
 
 various matters, including a comparison between FATCA and CRS, and the options that reporting New Zealand financial institutions can take when carrying out CRS due diligence and reporting.
 
@@ -175,10 +167,6 @@ The total amount of penalties that can be assessed for a tax year is capped at $
 
 Further information on taxpayers' obligations under the CARF, including links to a number of other guides, forms and reports about the AEOI and CRS, can be found on the IR website at Crypto-Asset Reporting Framework.
 
-agreements > Introduction to international tax agreements
-
 Law: IT07 s BH 1; TAA ss 142L, 142M, 185U, Pt 11B
 
 Last reviewed on 31 December 2025
-
-tax agreements paramount to domestic law

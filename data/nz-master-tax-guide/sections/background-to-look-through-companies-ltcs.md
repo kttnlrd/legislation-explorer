@@ -18,5 +18,3 @@ The LTC rules (which are contained mainly in subpart HB of the Income Tax Act 20
 Law: IT07 subpart HB
 
 Last reviewed on 31 December 2025
-
-of an LTC

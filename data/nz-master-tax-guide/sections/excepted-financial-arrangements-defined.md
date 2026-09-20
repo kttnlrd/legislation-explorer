@@ -309,6 +309,4 @@ Law: IT07 ss EW 5, EW 52, EW 52B
 
 Last reviewed on 31 December 2025
 
-arrangement and an excepted financial arrangement
-
 Relationship between a financial arrangement and an excepted

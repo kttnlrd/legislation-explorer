@@ -32,5 +32,3 @@ Law: IT07 ss DV 15(3), FO 10, FO 16, YA 1 ("amortising property")
 *Refs: ss DV 15(3)*
 
 Last reviewed on 31 December 2025
-
-amalgamation: acquisition of trading stock

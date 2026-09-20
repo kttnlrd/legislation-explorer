@@ -26,5 +26,3 @@ For all other kinds of investor the dividend or distribution is excluded income 
 Law: IT07 ss CX 56C, HM 18, HM 19, IC 3, YA 1 ("listed PIE")
 
 Last reviewed on 31 December 2025
-
-gains of PIE

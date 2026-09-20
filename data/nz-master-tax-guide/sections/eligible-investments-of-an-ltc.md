@@ -20,5 +20,3 @@ From 1 April 2017, a limitation applies for those LTCs where more than 50% of th
 There is no restriction on interests held by an LTC in a controlled foreign company (CFC) or a foreign investment fund (FIF), unlike a QC or LAQC that may not hold income interests of 10% or more in a FIF.
 
 Last reviewed on 31 December 2025
-
-LTC

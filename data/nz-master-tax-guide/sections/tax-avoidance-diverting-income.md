@@ -14,5 +14,3 @@ Attribution rules prescribing the derivation of income from a taxpayer's persona
 *Refs: s GB 27*
 
 Last reviewed on 31 December 2025
-
-stripping

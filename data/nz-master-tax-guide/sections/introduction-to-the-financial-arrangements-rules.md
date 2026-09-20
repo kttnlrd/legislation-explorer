@@ -72,5 +72,3 @@ The purchaser of an old financial arrangement after 19 May 1999 becomes subject 
 Law: IT07 ss BD 3, BD 4, EW 1, EW 3, EZ 33
 
 Last reviewed on 31 December 2025
-
-to other provisions

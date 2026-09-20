@@ -91,26 +91,8 @@ rental ring-fencing rules (¶7-365) in accordance with s 177C(5BA) (s 89C(lbb)),
 
 *Refs: s 89C(a), s 89C(b), s 89C(c), s 89C(d), s 89C(db), s 89C(e)(i), s 89C(eb), s 89C(f), s 89C(g), s 89C(h), s 89C(i), s 89C(j), s 89C(k), s 89C(ka), s 22G(6), s 89C(l), s 22H, s 89C(lbaa), ss 139A, s 89C(lba)*
 
-required to issue notice of proposed adjustment (NOPA)
-
 Law: TAA s 89C
 
 *Refs: s 89C*
 
 Last reviewed on 31 December 2025
-
-notice of proposed adjustment (NOPA)
-
-Action on receipt of notice of proposed adjustment (NOPA)
-
-The recipient of a NOPA has 3 possible courses of action. The recipient may:
-
-## accept the proposed adjustments (¶4-155)
-
-## reject the adjustments (¶4-160), or
-
-## do nothing (¶4-155).
-
-Last reviewed on 31 December 2025
-
-proposed adjustment (NOPA)

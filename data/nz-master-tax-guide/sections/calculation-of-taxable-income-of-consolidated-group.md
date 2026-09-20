@@ -49,8 +49,6 @@ For the purposes of the 2-year bright-line test for residential land under s CB 
 
 In general, expenditure or losses incurred through transactions with other consolidated group companies are not deductible. Expenditure incurred on transactions with non-group members are deductible (ss DV 16 and
 
-consolidated group
-
 FM 10). Deductions for administration and other expenses of a holding company are allowed regardless of whether the holding company itself derives any assessable income (s FM 11).
 
 If a consolidated group would be denied a deduction for an item of expenditure or loss as one company, a company that is part of the consolidated group is denied a deduction. The exception is for an amount of expenditure or loss that relates to interest on money borrowed by the company from an external party so that another group member could acquire a minimum 66% shareholding of a third group company (ss DV 17 and FM 12). It will be necessary to demonstrate a clear link between the monies borrowed and the intra-group loan used to purchase equity (in the third group company) to satisfy the requirements of s DB 7.
@@ -62,5 +60,3 @@ In accordance with rules set out in s FM 2, where a provision of the Income Tax 
 Law: IT07 ss CX 60, DV 16, FM 6(1), FM 7–FM 23
 
 Last reviewed on 31 December 2025
-
-grouping of consolidated group members

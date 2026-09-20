@@ -38,5 +38,3 @@ Law: IT07 ss FM 37, FM 39, FM 40, FM 41, FM 42
 *Refs: ss FM 37*
 
 Last reviewed on 31 December 2025
-
-statements required under consolidation regime

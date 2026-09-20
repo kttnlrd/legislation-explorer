@@ -144,5 +144,3 @@ The attributed PIE income of individual investors is generally excluded income (
 Law: IT07 ss HM 6, HM 11, HM 31–HM 48, HM 56–HM 61, YA 1 ("benefit fund PIE", "multi-rate PIE", "notified investor rate", "prescribed investor rate"), Sch 6; TAA s 28B
 
 Last reviewed on 31 December 2025
-
-multi-rate PIE tax liability

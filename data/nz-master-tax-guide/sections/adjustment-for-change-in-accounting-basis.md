@@ -34,5 +34,3 @@ Law: IT07 ss CH 4, DB 52, EG 2
 *Refs: ss CH 4*
 
 Last reviewed on 31 December 2025
-
-year-end

@@ -14,5 +14,3 @@ Law: IT07 s CW 40
 *Refs: s CW 40*
 
 Last reviewed on 31 December 2025
-
-bodies

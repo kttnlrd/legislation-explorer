@@ -20,23 +20,3 @@ Law: IT07 ss FC 1(1)(e), FC 2(1)
 *Refs: ss FC 1(1)(e)*
 
 Last reviewed on 31 December 2025
-
-Transfer of depreciable property between group companies
-
-The Commissioner's approach to the transfer of depreciable property between members of a wholly-owned group is that the sale price must be based upon the property's market value.
-
-The transfer of depreciable assets on amalgamation is discussed at ¶13-390.
-
-Last reviewed on 31 December 2025
-
-Land improvements that may give rise to depreciation loss
-
-A range of land improvements may give rise to a depreciation loss. These are the improvements listed in Sch 13. It is not necessary for the improvements to have occurred in the context of agricultural activities.
-
-The improvements listed in Sch 13 comprise airport runways, bores and wells, bridges, chimneys, culverts, dams, fences, hardstanding (eg asphalt carpark), reservoirs, retaining walls, roads, spillways, swimming pools, tanks, tunnels, wharves, pipes, and purpose-built surfaces for outdoor sports facilities.
-
-Law: IT07 s EE 7(a), Sch 13
-
-*Refs: s EE 7(a)*
-
-Last reviewed on 31 December 2025

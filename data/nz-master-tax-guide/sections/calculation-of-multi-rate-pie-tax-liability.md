@@ -37,8 +37,6 @@ rate × amount
 
 where:
 
-multi-rate PIE tax liability
-
 amount is the net income or loss (as calculated in formula above) rate is the investor's notified rate or notified foreign investor rate (Sch 6, Table 1B) or 28% to the extent which the PIE is the sole investor.
 
 ## Interest rate swaps held by multi-rate PIEs

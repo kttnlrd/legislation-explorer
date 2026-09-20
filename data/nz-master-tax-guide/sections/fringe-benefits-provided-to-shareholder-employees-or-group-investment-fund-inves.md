@@ -43,8 +43,6 @@ The exclusion only applies to close companies where the total fringe benefits pr
 
 The election only applies to new motor vehicle arrangements. Section CX 17(4C) provides that an election may be made for the income year that includes the day on which the close company acquires the motor
 
-fund investors
-
 vehicle or first starts using it for business use. The election will continue to apply until the end of the income year that includes the earlier of the day the company stops using the motor vehicle for business use or the day the company disposes of it (s CX 17(4D)).
 
 The close company must give notice to the Commissioner of the election in the time allowed for filing its return for the income year in which the election was made.

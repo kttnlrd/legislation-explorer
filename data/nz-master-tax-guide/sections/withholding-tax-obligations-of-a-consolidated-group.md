@@ -14,5 +14,3 @@ Law: IT07 s FM 3(7)
 *Refs: s FM 3(7)*
 
 Last reviewed on 31 December 2025
-
-consolidated group

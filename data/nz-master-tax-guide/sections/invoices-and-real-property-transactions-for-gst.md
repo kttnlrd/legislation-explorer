@@ -38,5 +38,3 @@ Law: GST ss 2(1) ("invoice"), 9(1); TAA s 143
 *Refs: ss 2(1), s 143*
 
 Last reviewed on 31 December 2025
-
-GST

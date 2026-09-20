@@ -41,8 +41,6 @@ Taxation under the FIF rules is generally the only taxation applied to the inves
 
 Disclosure to the Commissioner of a FIF interest may be required under s 61 of the TAA.
 
-investment fund (FIF) rules
-
 The Commissioner is authorised to grant exemptions from disclosure. Under s 61(2) of the TAA, the Commissioner has issued an international tax disclosure exemption that applies for the income year ended 31 March 2025 entitled "ITR36: 2025 International Tax Disclosure Exemption".
 
 Failure to make disclosure or the making of any false disclosure is an offence under Pt 9 of the TAA (¶14-250). Failure to disclose may also result in a default assessment under s EX 72.
@@ -50,5 +48,3 @@ Failure to make disclosure or the making of any false disclosure is an offence u
 Law: IT07 ss CQ 4, CQ 5, EX 72; TAA s 61
 
 Last reviewed on 31 December 2025
-
-rules

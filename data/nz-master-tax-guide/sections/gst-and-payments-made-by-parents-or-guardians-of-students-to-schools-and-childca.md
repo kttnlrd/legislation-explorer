@@ -45,8 +45,6 @@ QWBA, QB 23/04 "Goods and Services Tax – Payments made by parents to childcare
 
 ## the payment is made for the supply of early childhood education, childcare services or related goods.
 
-childcare centres
-
 However, where a parent makes an unconditional gift to their child's childcare centre and that centre is a non-profit body, then that payment is not subject to GST. This includes some types of koha. Note that charitable organisations, or donee organisations may be GST registered. Being charitable does not exempt an entity from GST registration.
 
 Last reviewed on 31 December 2025

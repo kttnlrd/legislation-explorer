@@ -16,5 +16,3 @@ Law: IT07 s EX 66
 *Refs: s EX 66*
 
 Last reviewed on 31 December 2025
-
-losses

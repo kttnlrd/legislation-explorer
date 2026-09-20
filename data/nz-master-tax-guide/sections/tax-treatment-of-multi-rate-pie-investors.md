@@ -43,8 +43,6 @@ This square-up applies the correct PIR to the PIE income to determine the PIE ta
 
 *Refs: s LS 2*
 
-multi-rate PIE investors
-
 ## Distributions from a multi-rate PIE
 
 Distributions or dividends from a multi-rate PIE are generally excluded income to the investor. Credits for fees attributed to an investor are also excluded income to the investor where those credits are included in the PIE's tax liability.
@@ -78,5 +76,3 @@ Where an investor disposes of an interest in a PIE, the tax treatment of that di
 Law: IT07 ss CP 1, CX 56, CX 56B, CX 57, DB 53, DB 54, HM 36B, HM 52, HM 54, LS 2–LS 4, RE 2(5)(bb); TAA ss 28B, 31C(5)
 
 Last reviewed on 31 December 2025
-
-requirements for multi-rate PIE

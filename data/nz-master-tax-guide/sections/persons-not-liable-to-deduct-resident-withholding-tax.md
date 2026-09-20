@@ -27,8 +27,6 @@ A person who believes, on reasonable grounds after making reasonable enquiries, 
 
 The above requirement was not met in Case 11/2011 (2011) 25 NZTC ¶1-011. In that case, a New Zealand trust made interest payments to a Hong Kong based company that was found to be tax resident in New Zealand. Accordingly, the interest payments were subject to RWT rather than NRWT and the approved issuer levy (AIL) regime. The trust argued that it was excused from making RWT deductions on the basis that it had concluded on reasonable grounds after making reasonable enquiries that the recipient of the interest was non-resident. Rejecting this argument, the Taxation Review Authority held that in order to meet the statutory criteria the taxpayers should have obtained taxation advice in relation to the matter. Advice as to the residency of the Hong Kong company was not obtained until a number of years after the interest payments commenced and, even then, the advice was not based on all of the relevant facts. On appeal, the High Court did accept that reasonable inquiries had been made of the parties who would have been in possession of all relevant facts, but held that the conclusion that the payments constituted non-resident withholding income was not reached on reasonable grounds. See Vinelight Nominees Ltd v C of IR (2012) 25 NZTC ¶20-155.
 
-tax
-
 ## Resident and non-resident with joint account
 
 IR considers that if a non-resident and a resident hold a joint account, NRWT and RWT can be deducted proportionately if the payer knows the proportions that relate to each person. The non-resident can claim a refund from IR by filing an annual return. See Tax Information Bulletin ¶112-108 Vol 11, No 2, February 1999 at 12.

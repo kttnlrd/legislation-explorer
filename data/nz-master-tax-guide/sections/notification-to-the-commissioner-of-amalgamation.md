@@ -42,5 +42,3 @@ Law: TAA s 75
 *Refs: s 75*
 
 Last reviewed on 31 December 2025
-
-amalgamation

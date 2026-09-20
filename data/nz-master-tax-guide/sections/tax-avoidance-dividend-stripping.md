@@ -37,12 +37,8 @@ The Revenue Alert contains a number of examples that highlight the Commissioner'
 
 In February 2020, the Commissioner released a questions and answers sheet to accompany the Revenue Alert that provides answers to some questions frequently asked by taxpayers in this area, such as whether
 
-stripping
-
 the Commissioner will consider transactions are part of a tax avoidance arrangement if there are commercial reasons for the restructure, whether the Commissioner will be concerned with a restructure done more than 5 years ago, and whether a dividend can be spread (RA 18/01a).
 
 Law: IT07 ss CD 11, GB 1
 
 Last reviewed on 31 December 2025
-
-assets

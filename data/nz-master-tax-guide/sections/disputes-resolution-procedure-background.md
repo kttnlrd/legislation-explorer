@@ -40,5 +40,3 @@ The dispute resolution process is not changed by taxpayer self-assessment.
 Law: TAA Pts 4A, 8A
 
 Last reviewed on 31 December 2025
-
-initiated disputes processes

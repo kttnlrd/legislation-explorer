@@ -39,6 +39,4 @@ Law: IT07 ss RD 28, RD 29(6), RD 31, Sch 5
 
 Last reviewed on 31 December 2025
 
-vehicle owned
-
 Fringe benefits — calculating value of motor vehicle — vehicle

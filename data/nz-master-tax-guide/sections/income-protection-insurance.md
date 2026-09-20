@@ -16,5 +16,3 @@ Law: IT07 s CE 11
 *Refs: s CE 11*
 
 Last reviewed on 31 December 2025
-
-compensation payments

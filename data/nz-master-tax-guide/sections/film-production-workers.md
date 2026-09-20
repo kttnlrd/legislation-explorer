@@ -12,5 +12,3 @@ The employment status of persons working in the film production industry has bee
 Actors, voice-over actors, stand-ins, body doubles, stunt performers, extras, singers, dancers, musicians, entertainers and other persons engaged in film production work are excluded from the definition of "employee" in the Employment Relations Act 2000. These persons are consequently independent contractors unless their written employment agreement expressly provides otherwise.
 
 Last reviewed on 31 December 2025
-
-agents

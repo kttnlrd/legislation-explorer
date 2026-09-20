@@ -18,5 +18,3 @@ Law: IT07 s FO 10(5)
 *Refs: s FO 10(5)*
 
 Last reviewed on 31 December 2025
-
-amalgamation: acquisition of revenue account property and land

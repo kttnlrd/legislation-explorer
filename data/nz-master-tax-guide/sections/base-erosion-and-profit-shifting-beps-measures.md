@@ -43,8 +43,6 @@ Therefore, rules are included that generally require the following terms and con
 
 ## subordination, and
 
-party debt — base erosion and profit shifting (BEPS) measures
-
 ## other exotic features (such as interest payment deferral and convertibility to equity at the option of the
 
 borrower) that are generally not seen with third-party lending.

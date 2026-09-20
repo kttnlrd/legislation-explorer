@@ -45,8 +45,6 @@ The trustee is required to keep a record of releases of debt and distributions t
 
 Trustee income may be treated as having been derived where a debt owed by the trustee has been forgiven and a distribution is made to a beneficiary who is neither a natural person for whom the creditor has natural love and affection nor a charity. This is where the creditor is a natural person and the trust was established
 
-arrangements rules
-
 mainly to benefit natural persons for whom the creditor has natural love and affection, or a charity. The trustee income is derived in the income year in which the distribution is made.
 
 There is one exclusion. It is recognised that a distribution may be made to another trust with beneficiaries who are persons for whom the creditor has natural love and affection, or a charity. The distribution to a similar family trust does not result in trustee income. This exclusion envisages a resettlement of trust assets on a similar family trust. Resettlements are commonly undertaken to isolate a parcel of trust assets to be held in trust for the benefit of a particular beneficiary.
@@ -54,23 +52,5 @@ There is one exclusion. It is recognised that a distribution may be made to anot
 There may be a limit to the amount of trustee income. The trustee income cannot exceed the total amount of the debt that the creditor has forgiven. If debt has been forgiven on a number of occasions, this may require a balance to be kept of total debt forgiven less distributions that have given rise to trustee income (s EW 50).
 
 Law: IT07 ss EW 44, EW 50; TAA s 22B
-
-Last reviewed on 31 December 2025
-
-Release of debt by statute under financial arrangements rules
-
-A debtor is treated as having paid a debt where the debt is released pursuant to:
-
-## s 304 of the Insolvency Act 2006
-
-## any of the Inland Revenue Acts
-
-## the remission of a social assistance suspensory loan, or
-
-## the terms of a loan under the small business cashflow scheme under s 7AA of the TAA.
-
-Under s 304 of the Insolvency Act 2006 a discharge from bankruptcy releases debts owed, except those obtained by fraud and for child support. Treatment of payment of the debt released will have the effect of preventing income arising upon calculation of the base price adjustment.
-
-Law: IT07 s EW 45
 
 Last reviewed on 31 December 2025

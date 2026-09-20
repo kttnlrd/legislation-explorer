@@ -20,15 +20,3 @@ Law: TAA ss 157, 157A
 *Refs: ss 157*
 
 Last reviewed on 31 December 2025
-
-proceedings
-
-Standard of proof and onus of proof — criminal proceedings
-
-The standard of proof in criminal proceedings relating to the imposition of penalties is "beyond reasonable doubt". The onus of proof in criminal proceedings rests with the Commissioner.
-
-Law: TAA s 149A(3), (4)
-
-*Refs: s 149A(3)*
-
-Last reviewed on 31 December 2025

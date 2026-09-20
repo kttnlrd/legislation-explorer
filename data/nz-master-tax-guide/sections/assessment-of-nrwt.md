@@ -20,5 +20,3 @@ Law: IT07 ss RA 2, RA 8, RA 10, RA 19, RA 23, RF 6, RM 8; TAA ss 100, 165B, 173T
 *Refs: ss RA 2, ss 100*
 
 Last reviewed on 31 December 2025
-
-arrangement income and related-party debt

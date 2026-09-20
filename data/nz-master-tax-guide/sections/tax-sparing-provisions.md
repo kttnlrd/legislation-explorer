@@ -12,5 +12,3 @@ In an endeavour to stimulate foreign investment, tax sparing provisions (incorpo
 A taxpayer who has claimed an FTC in respect of a tax sparing arrangement under a DTA must file a tax sparing disclosure return (form IR 486). A separate disclosure return is required for each tax spared arrangement entered into.
 
 Last reviewed on 31 December 2025
-
-information exchange agreements

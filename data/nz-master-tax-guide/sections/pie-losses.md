@@ -52,5 +52,3 @@ The grouping provisions under s IC 3(2B) in subpart IC apply to a multi-rate PIE
 Law: IT07 ss HM 55, HM 64–HM 70, IC 3(2B), YA 1
 
 Last reviewed on 31 December 2025
-
-credits

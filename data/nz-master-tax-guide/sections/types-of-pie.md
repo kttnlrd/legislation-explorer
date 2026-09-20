@@ -36,5 +36,3 @@ Law: IT07 ss HM 2, YA 1 ("benefit fund PIE", "life fund PIE", "listed PIE", "mul
 *Refs: ss HM 2*
 
 Last reviewed on 31 December 2025
-
-requirements for becoming a PIE

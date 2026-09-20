@@ -36,5 +36,3 @@ If the recipient repays any of the income, they are entitled to a deduction for 
 Law: IT07 ss CB 32, RD 3(5), RD 10C; TAA s 138M
 
 Last reviewed on 31 December 2025
-
-basis

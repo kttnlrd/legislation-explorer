@@ -37,8 +37,6 @@ The TAA provides for 2 distinct steps as part of the reassessment process when t
 
 *Refs: s 108(2), s 108(10)*
 
-assessments
-
 challenge substantively the reassessment made by the Commissioner. In the present case, the second step was not in issue. See Case 9/2015 (2015) 27 NZTC ¶3-008.
 
 The 4-year time limit provided by s 108 overrides any other provision that limits the Commissioner's right to amend assessments (s 108(3) of the TAA).
@@ -75,8 +73,6 @@ See Tax Information Bulletin ¶83-128 Vol 8, No 3, August 1996 at 34, which stat
 
 Example: In a preliminary hearing, the TRA considered whether the time bar waiver created a separate limitation period under s 108B that could not be extended and concluded it did not. By signing the waiver the parties simply agreed that the imposition of the time bar specified in s 108 would be delayed for a period of 12 months. The purpose of s 108B was to remove the need for the Commissioner to issue an assessment based on incomplete facts because the time bar against reassessment was due to come into effect. There was no obligation on a taxpayer to agree to an extension of time. There was no restriction on the application of s 108B to situations where an investigation was underway or to the circumstances when the Commissioner and a taxpayer can agree to a waiver. In that
 
-assessments
-
 case, the Commissioner issued amended assessments after the end of the waiver under s 108(2) as the Commissioner had formed the opinion that the returns were fraudulent or wilfully misleading or omitted income. See Case 8/2016 (2016) 27 NZTC ¶3-030.
 
 See [275] of the standard practice statement SPS 23/01, "Disputes process " for a discussion on the exceptions to the statutory time bar.
@@ -88,23 +84,5 @@ Except in cases in which a taxpayer has knowingly or fraudulently failed to make
 The extension of the 4-year time bar also applies to GST returns.
 
 Law: TAA ss 41A, 108, 108A, 108B
-
-Last reviewed on 31 December 2025
-
-No time limit for amending assessments or determinations
-
-Several provisions of the Income Tax Act 2007 and the TAA provide that the Commissioner may issue an amended assessment regardless of the 4-year time limit imposed under s 108 of the TAA and, therefore, irrespective of whether there has been any element of tax evasion. Some of those provisions are as follows:
-
-## s EH 27 concerning assessment of income equalisation refunds upon retirement or death
-
-## s LA 6(3) in relation to the use of remaining refundable credits
-
-## s 44B of the TAA for an adjustment made to a financial arrangement under s EW 53
-
-## s 113B of the TAA concerning dividends recovered or repaid, and
-
-## s 138P of the TAA concerning determinations or assessments made by the TRA or the
-
-Commissioner in conforming to a determination of the Authority.
 
 Last reviewed on 31 December 2025

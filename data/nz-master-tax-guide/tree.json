@@ -223,6 +223,16 @@
           "path": "payment-of-tax.md"
         },
         {
+          "id": "permitted-disclosure-accident-compensation-corporation",
+          "title": "Permitted disclosure: Accident Compensation Corporation",
+          "path": "permitted-disclosure-accident-compensation-corporation.md"
+        },
+        {
+          "id": "permitted-disclosure-approved-credit-reporting-agency",
+          "title": "Permitted disclosure: approved credit reporting agency",
+          "path": "permitted-disclosure-approved-credit-reporting-agency.md"
+        },
+        {
           "id": "permitted-disclosure-child-support-exemption",
           "title": "Permitted disclosure: child support exemption",
           "path": "permitted-disclosure-child-support-exemption.md"
@@ -236,6 +246,16 @@
           "id": "permitted-disclosure-for-international-purposes",
           "title": "Permitted disclosure for international purposes",
           "path": "permitted-disclosure-for-international-purposes.md"
+        },
+        {
+          "id": "permitted-disclosure-foreign-social-security-agreement",
+          "title": "Permitted disclosure: foreign social security agreement",
+          "path": "permitted-disclosure-foreign-social-security-agreement.md"
+        },
+        {
+          "id": "permitted-disclosure-misapplication-of-charitable-funds",
+          "title": "Permitted disclosure: misapplication of charitable funds",
+          "path": "permitted-disclosure-misapplication-of-charitable-funds.md"
         },
         {
           "id": "permitted-disclosure-parental-leave-payments",
@@ -261,6 +281,16 @@
           "id": "permitted-disclosures-made-under-information-sharing-arrangements",
           "title": "Permitted disclosures made under information-sharing arrangements",
           "path": "permitted-disclosures-made-under-information-sharing-arrangements.md"
+        },
+        {
+          "id": "permitted-disclosures-to-agencies-for-certain-purposes",
+          "title": "Permitted disclosures to agencies for certain purposes",
+          "path": "permitted-disclosures-to-agencies-for-certain-purposes.md"
+        },
+        {
+          "id": "permitted-disclosures-to-persons-and-their-representatives",
+          "title": "Permitted disclosures to persons and their representatives",
+          "path": "permitted-disclosures-to-persons-and-their-representatives.md"
         },
         {
           "id": "permitted-disclosures-under-regulations-for-information-sharing-for-public-servi",
@@ -363,6 +393,11 @@
       "id": "ch-2",
       "title": "Ch 2 — Tax Returns",
       "sections": [
+        {
+          "id": "addresses-to-send-tax-returns-payments-and-correspondence",
+          "title": "Addresses to send tax returns, payments and correspondence",
+          "path": "addresses-to-send-tax-returns-payments-and-correspondence.md"
+        },
         {
           "id": "adjustments-required-when-balance-date-changed",
           "title": "Adjustments required when balance date changed",
@@ -509,6 +544,11 @@
           "path": "refund-of-excess-tax.md"
         },
         {
+          "id": "refund-of-tax-subsequently-exempted-by-order-in-council",
+          "title": "Refund of tax subsequently exempted by Order in Council",
+          "path": "refund-of-tax-subsequently-exempted-by-order-in-council.md"
+        },
+        {
           "id": "request-for-non-standard-balance-date",
           "title": "Request for non-standard balance date",
           "path": "request-for-non-standard-balance-date.md"
@@ -517,6 +557,11 @@
           "id": "return-for-less-than-12-months",
           "title": "Return for less than 12 months",
           "path": "return-for-less-than-12-months.md"
+        },
+        {
+          "id": "returns-for-less-than-6-months-or-more-than-18-months",
+          "title": "Returns for less than 6 months or more than 18 months",
+          "path": "returns-for-less-than-6-months-or-more-than-18-months.md"
         },
         {
           "id": "returns-of-partners-trustees-and-others",
@@ -560,9 +605,24 @@
           "path": "accident-compensation-acc.md"
         },
         {
+          "id": "accommodation-or-accommodation-allowance-provided",
+          "title": "Accommodation or accommodation allowance provided",
+          "path": "accommodation-or-accommodation-allowance-provided.md"
+        },
+        {
+          "id": "accommodation-or-allowance-provided-exempt-income",
+          "title": "Accommodation or allowance provided — exempt income",
+          "path": "accommodation-or-allowance-provided-exempt-income.md"
+        },
+        {
           "id": "approval-and-revocation-of-paye-intermediaries",
           "title": "Approval and revocation of PAYE intermediaries",
           "path": "approval-and-revocation-of-paye-intermediaries.md"
+        },
+        {
+          "id": "approval-of-employer-arrangement-with-paye-intermediary",
+          "title": "Approval of employer arrangement with PAYE intermediary",
+          "path": "approval-of-employer-arrangement-with-paye-intermediary.md"
         },
         {
           "id": "background-to-employers-responsibilities",
@@ -635,6 +695,11 @@
           "path": "directors-fees.md"
         },
         {
+          "id": "distinction-between-employee-and-independent-contractor",
+          "title": "Distinction between employee and independent contractor",
+          "path": "distinction-between-employee-and-independent-contractor.md"
+        },
+        {
           "id": "drovers-musterers-and-shearers",
           "title": "Drovers, musterers and shearers",
           "path": "drovers-musterers-and-shearers.md"
@@ -683,6 +748,11 @@
           "id": "exempt-employee-share-schemes-exempt-ess",
           "title": "Exempt employee share schemes (exempt ESS)",
           "path": "exempt-employee-share-schemes-exempt-ess.md"
+        },
+        {
+          "id": "expenditure-incurred-in-the-derivation-of-a-schedular-payment",
+          "title": "Expenditure incurred in the derivation of a schedular payment",
+          "path": "expenditure-incurred-in-the-derivation-of-a-schedular-payment.md"
         },
         {
           "id": "extra-pays",
@@ -1021,6 +1091,11 @@
           "path": "acceptance-of-notice-of-proposed-adjustment-nopa.md"
         },
         {
+          "id": "action-on-receipt-of-notice-of-proposed-adjustment-nopa",
+          "title": "Action on receipt of notice of proposed adjustment (NOPA)",
+          "path": "action-on-receipt-of-notice-of-proposed-adjustment-nopa.md"
+        },
+        {
           "id": "action-on-receipt-of-notice-of-response",
           "title": "Action on receipt of notice of response",
           "path": "action-on-receipt-of-notice-of-response.md"
@@ -1059,6 +1134,11 @@
           "id": "assessment-of-ancillary-taxes",
           "title": "Assessment of ancillary taxes",
           "path": "assessment-of-ancillary-taxes.md"
+        },
+        {
+          "id": "assessments-corrected-without-entering-disputes-process",
+          "title": "Assessments corrected without entering disputes process",
+          "path": "assessments-corrected-without-entering-disputes-process.md"
         },
         {
           "id": "commencing-challenge-proceedings",
@@ -1126,6 +1206,11 @@
           "path": "finalisation-of-pre-populated-account-deemed-to-be-an-assessment.md"
         },
         {
+          "id": "form-and-content-of-notice-of-proposed-adjustment-nopa",
+          "title": "Form and content of notice of proposed adjustment (NOPA)",
+          "path": "form-and-content-of-notice-of-proposed-adjustment-nopa.md"
+        },
+        {
           "id": "high-court-jurisdiction",
           "title": "High Court jurisdiction",
           "path": "high-court-jurisdiction.md"
@@ -1151,6 +1236,11 @@
           "path": "limitation-of-time-and-commissioners-power-to-amend-assessments.md"
         },
         {
+          "id": "no-time-limit-for-amending-assessments-or-determinations",
+          "title": "No time limit for amending assessments or determinations",
+          "path": "no-time-limit-for-amending-assessments-or-determinations.md"
+        },
+        {
           "id": "non-arbitrary-assessment",
           "title": "Non-arbitrary assessment",
           "path": "non-arbitrary-assessment.md"
@@ -1166,6 +1256,11 @@
           "path": "notice-of-proposed-adjustment-nopa-issued-by-commissioner.md"
         },
         {
+          "id": "notice-of-proposed-adjustment-nopa-issued-by-taxpayer",
+          "title": "Notice of proposed adjustment (NOPA) issued by taxpayer",
+          "path": "notice-of-proposed-adjustment-nopa-issued-by-taxpayer.md"
+        },
+        {
           "id": "opting-out-of-the-disputes-resolution-process",
           "title": "Opting out of the disputes resolution process",
           "path": "opting-out-of-the-disputes-resolution-process.md"
@@ -1179,6 +1274,11 @@
           "id": "powers-of-hearing-authority",
           "title": "Powers of hearing authority",
           "path": "powers-of-hearing-authority.md"
+        },
+        {
+          "id": "prosecution-being-considered-during-the-disputes-process",
+          "title": "Prosecution being considered during the disputes process",
+          "path": "prosecution-being-considered-during-the-disputes-process.md"
         },
         {
           "id": "purpose-of-conference-stage",
@@ -1214,6 +1314,11 @@
           "id": "summary-of-commissioner-and-taxpayer-initiated-disputes-processes",
           "title": "Summary of Commissioner- and taxpayer-initiated disputes processes",
           "path": "summary-of-commissioner-and-taxpayer-initiated-disputes-processes.md"
+        },
+        {
+          "id": "taxation-and-charities-review-authority-general-jurisdiction",
+          "title": "Taxation and Charities Review Authority general jurisdiction",
+          "path": "taxation-and-charities-review-authority-general-jurisdiction.md"
         },
         {
           "id": "test-case-procedures",
@@ -1362,6 +1467,11 @@
           "path": "employment-income-remuneration-derived-by-a-shareholderemployee.md"
         },
         {
+          "id": "employment-income-remuneration-derived-by-an-employee",
+          "title": "Employment income — remuneration derived by an employee",
+          "path": "employment-income-remuneration-derived-by-an-employee.md"
+        },
+        {
           "id": "excluded-income-clean-car-discount-scheme",
           "title": "Excluded income — clean car discount scheme",
           "path": "excluded-income-clean-car-discount-scheme.md"
@@ -1417,6 +1527,16 @@
           "path": "exempt-income-foreign-sourced-interest.md"
         },
         {
+          "id": "exempt-income-foreign-superannuation-withdrawals",
+          "title": "Exempt income — foreign superannuation withdrawals",
+          "path": "exempt-income-foreign-superannuation-withdrawals.md"
+        },
+        {
+          "id": "exempt-income-loans-to-government-by-non-residents",
+          "title": "Exempt income — loans to government by non-residents",
+          "path": "exempt-income-loans-to-government-by-non-residents.md"
+        },
+        {
           "id": "exempt-income-non-resident-crew-members-performing-services-in-new-zealand",
           "title": "Exempt income — non-resident crew members performing services in New Zealand",
           "path": "exempt-income-non-resident-crew-members-performing-services-in-new-zealand.md"
@@ -1467,6 +1587,11 @@
           "path": "financial-arrangements.md"
         },
         {
+          "id": "income-acc-personal-service-rehabilitation-payments",
+          "title": "Income — ACC personal service rehabilitation payments",
+          "path": "income-acc-personal-service-rehabilitation-payments.md"
+        },
+        {
           "id": "income-accident-compensation-payments",
           "title": "Income — accident compensation payments",
           "path": "income-accident-compensation-payments.md"
@@ -1480,6 +1605,11 @@
           "id": "income-annuities",
           "title": "Income — annuities",
           "path": "income-annuities.md"
+        },
+        {
+          "id": "income-benefit-from-money-advanced-in-lieu-of-interest",
+          "title": "Income — benefit from money advanced in lieu of interest",
+          "path": "income-benefit-from-money-advanced-in-lieu-of-interest.md"
         },
         {
           "id": "income-by-cheque",
@@ -1532,6 +1662,11 @@
           "path": "income-from-remission-of-a-specified-suspensory-loan.md"
         },
         {
+          "id": "income-from-sale-of-patent-rights-or-patent-applications",
+          "title": "Income from sale of patent rights or patent applications",
+          "path": "income-from-sale-of-patent-rights-or-patent-applications.md"
+        },
+        {
           "id": "income-from-stolen-money-and-property",
           "title": "Income from stolen money and property",
           "path": "income-from-stolen-money-and-property.md"
@@ -1552,6 +1687,11 @@
           "path": "income-insurance-indemnity-or-compensation-for-trading-stock.md"
         },
         {
+          "id": "income-new-zealand-superannuation-and-main-benefits",
+          "title": "Income — New Zealand superannuation and main benefits",
+          "path": "income-new-zealand-superannuation-and-main-benefits.md"
+        },
+        {
           "id": "income-paid-parental-leave",
           "title": "Income — paid parental leave",
           "path": "income-paid-parental-leave.md"
@@ -1565,6 +1705,16 @@
           "id": "income-protection-insurance",
           "title": "Income protection insurance",
           "path": "income-protection-insurance.md"
+        },
+        {
+          "id": "income-purchase-and-subsequent-disposal-of-leased-asset",
+          "title": "Income — purchase and subsequent disposal of leased asset",
+          "path": "income-purchase-and-subsequent-disposal-of-leased-asset.md"
+        },
+        {
+          "id": "income-recovered-employer-superannuation-contributions",
+          "title": "Income — recovered employer superannuation contributions",
+          "path": "income-recovered-employer-superannuation-contributions.md"
         },
         {
           "id": "income-recovered-expenditure-or-loss",
@@ -1585,6 +1735,11 @@
           "id": "income-royalties",
           "title": "Income — royalties",
           "path": "income-royalties.md"
+        },
+        {
+          "id": "income-tax-exemption-for-diplomats-and-consular-officers",
+          "title": "Income tax exemption for diplomats and consular officers",
+          "path": "income-tax-exemption-for-diplomats-and-consular-officers.md"
         },
         {
           "id": "income-treated-as-having-a-source-in-new-zealand",
@@ -1615,6 +1770,11 @@
           "id": "interest-income-and-income-from-money-lent",
           "title": "Interest income and income from money lent",
           "path": "interest-income-and-income-from-money-lent.md"
+        },
+        {
+          "id": "interest-income-bonus-balloting-shares-and-bank-prizes",
+          "title": "Interest income — bonus balloting shares and bank prizes",
+          "path": "interest-income-bonus-balloting-shares-and-bank-prizes.md"
         },
         {
           "id": "interruption-or-impairment-of-business-activities",
@@ -1712,6 +1872,11 @@
           "path": "personal-insurance-compensation.md"
         },
         {
+          "id": "personal-property-acquired-for-purpose-of-disposal-s-cb-4",
+          "title": "Personal property acquired for purpose of disposal — s CB 4",
+          "path": "personal-property-acquired-for-purpose-of-disposal-s-cb-4.md"
+        },
+        {
           "id": "personal-services-source-of-income",
           "title": "Personal services — source of income",
           "path": "personal-services-source-of-income.md"
@@ -1757,6 +1922,11 @@
           "path": "revenue-derived-from-land.md"
         },
         {
+          "id": "rewards-from-customer-loyalty-programmes-not-income",
+          "title": "Rewards from customer loyalty programmes not income",
+          "path": "rewards-from-customer-loyalty-programmes-not-income.md"
+        },
+        {
           "id": "significance-of-residence",
           "title": "Significance of residence",
           "path": "significance-of-residence.md"
@@ -1770,6 +1940,11 @@
           "id": "source-of-income-subject-to-tax",
           "title": "Source of income subject to tax",
           "path": "source-of-income-subject-to-tax.md"
+        },
+        {
+          "id": "spread-of-income-derived-on-acquisition-of-land-by-crown",
+          "title": "Spread of income derived on acquisition of land by Crown",
+          "path": "spread-of-income-derived-on-acquisition-of-land-by-crown.md"
         },
         {
           "id": "spreading-of-authors-income-copyright",
@@ -1820,6 +1995,11 @@
           "id": "taxation-of-inflation-indexed-bonds",
           "title": "Taxation of inflation-indexed bonds",
           "path": "taxation-of-inflation-indexed-bonds.md"
+        },
+        {
+          "id": "taxation-of-interests-in-foreign-superannuation-schemes",
+          "title": "Taxation of interests in foreign superannuation schemes",
+          "path": "taxation-of-interests-in-foreign-superannuation-schemes.md"
         },
         {
           "id": "taxation-of-life-insurance-agents-commission",
@@ -1878,6 +2058,11 @@
           "path": "amalgamations-and-financial-arrangements-rules.md"
         },
         {
+          "id": "and-a-specified-option-and-financial-arrangements-rules",
+          "title": "and a specified option and financial arrangements rules",
+          "path": "and-a-specified-option-and-financial-arrangements-rules.md"
+        },
+        {
           "id": "application-for-a-determination",
           "title": "Application for a determination",
           "path": "application-for-a-determination.md"
@@ -1913,9 +2098,19 @@
           "path": "change-of-spreading-method-under-financial-arrangements-rules.md"
         },
         {
+          "id": "consideration-paid-to-or-by-the-person-in-bpa-calculation",
+          "title": "Consideration paid to or by the person in BPA calculation",
+          "path": "consideration-paid-to-or-by-the-person-in-bpa-calculation.md"
+        },
+        {
           "id": "consolidated-groups-and-financial-arrangements-rules",
           "title": "Consolidated groups and financial arrangements rules",
           "path": "consolidated-groups-and-financial-arrangements-rules.md"
+        },
+        {
+          "id": "currency-fluctuations-under-financial-arrangements-rules",
+          "title": "Currency fluctuations under financial arrangements rules",
+          "path": "currency-fluctuations-under-financial-arrangements-rules.md"
         },
         {
           "id": "debt-parking-and-financial-arrangements-rules",
@@ -1928,9 +2123,19 @@
           "path": "default-method-under-financial-arrangements-rules.md"
         },
         {
+          "id": "defeating-the-intention-of-the-financial-arrangements-rules",
+          "title": "Defeating the intention of the financial arrangements rules",
+          "path": "defeating-the-intention-of-the-financial-arrangements-rules.md"
+        },
+        {
           "id": "determination-g22a",
           "title": "— Determination G22A",
           "path": "determination-g22a.md"
+        },
+        {
+          "id": "determination-method-under-financial-arrangements-rules",
+          "title": "Determination method under financial arrangements rules",
+          "path": "determination-method-under-financial-arrangements-rules.md"
         },
         {
           "id": "determinations-and-binding-rulings",
@@ -1968,6 +2173,11 @@
           "path": "financial-arrangements-defined.md"
         },
         {
+          "id": "financial-reporting-method-under-financial-arrangements-rules",
+          "title": "Financial reporting method under financial arrangements rules",
+          "path": "financial-reporting-method-under-financial-arrangements-rules.md"
+        },
+        {
           "id": "fresh-determination",
           "title": "Fresh determination",
           "path": "fresh-determination.md"
@@ -1988,14 +2198,29 @@
           "path": "introduction-to-the-financial-arrangements-rules.md"
         },
         {
+          "id": "issue-of-determinations-under-the-financial-arrangements-rules",
+          "title": "Issue of determinations under the financial arrangements rules",
+          "path": "issue-of-determinations-under-the-financial-arrangements-rules.md"
+        },
+        {
           "id": "mandatory-convertible-notes-under-financial-arrangements-rules-determination-g5c",
           "title": "Mandatory convertible notes under financial arrangements rules — Determination G5C",
           "path": "mandatory-convertible-notes-under-financial-arrangements-rules-determination-g5c.md"
         },
         {
+          "id": "market-valuation-method-under-financial-arrangements-rules",
+          "title": "Market valuation method under financial arrangements rules",
+          "path": "market-valuation-method-under-financial-arrangements-rules.md"
+        },
+        {
           "id": "relationship-of-financial-arrangements-rules-to-other-provisions",
           "title": "Relationship of financial arrangements rules to other provisions",
           "path": "relationship-of-financial-arrangements-rules-to-other-provisions.md"
+        },
+        {
+          "id": "release-of-debt-by-statute-under-financial-arrangements-rules",
+          "title": "Release of debt by statute under financial arrangements rules",
+          "path": "release-of-debt-by-statute-under-financial-arrangements-rules.md"
         },
         {
           "id": "release-of-debt-out-of-natural-love-and-affection-under-financial-arrangements-r",
@@ -2018,6 +2243,16 @@
           "path": "spreading-method-required-for-financial-arrangements.md"
         },
         {
+          "id": "spreading-methods-for-financial-arrangements-generally",
+          "title": "Spreading methods for financial arrangements generally",
+          "path": "spreading-methods-for-financial-arrangements-generally.md"
+        },
+        {
+          "id": "straight-line-method-under-financial-arrangements-rules",
+          "title": "Straight-line method under financial arrangements rules",
+          "path": "straight-line-method-under-financial-arrangements-rules.md"
+        },
+        {
           "id": "yield-to-maturity-or-an-alternative-method-under-financial-arrangements-rules",
           "title": "Yield to maturity or an alternative method under financial arrangements rules",
           "path": "yield-to-maturity-or-an-alternative-method-under-financial-arrangements-rules.md"
@@ -2028,6 +2263,11 @@
       "id": "ch-7",
       "title": "Ch 7 — Land Transactions",
       "sections": [
+        {
+          "id": "accounting-for-amounts-from-long-term-construction-contracts",
+          "title": "Accounting for amounts from long-term construction contracts",
+          "path": "accounting-for-amounts-from-long-term-construction-contracts.md"
+        },
         {
           "id": "associated-persons-and-tainting-and-land-disposal-provisions",
           "title": "Associated persons and \"tainting\" and land disposal provisions",
@@ -2057,6 +2297,11 @@
           "id": "build-land",
           "title": "build land",
           "path": "build-land.md"
+        },
+        {
+          "id": "business-premises-exclusion-from-land-disposal-provisions",
+          "title": "Business premises exclusion from land disposal provisions",
+          "path": "business-premises-exclusion-from-land-disposal-provisions.md"
         },
         {
           "id": "categories-of-land-disposals-subject-to-taxation",
@@ -2112,6 +2357,16 @@
           "id": "definitions-of-land-and-disposal",
           "title": "Definitions of \"land\" and \"disposal\"",
           "path": "definitions-of-land-and-disposal.md"
+        },
+        {
+          "id": "development-or-division-begun-within-10-years-s-cb-12",
+          "title": "Development or division begun within 10 years — s CB 12",
+          "path": "development-or-division-begun-within-10-years-s-cb-12.md"
+        },
+        {
+          "id": "disposal-of-residential-land-new-2-year-bright-line-test",
+          "title": "Disposal of residential land — new 2-year bright-line test",
+          "path": "disposal-of-residential-land-new-2-year-bright-line-test.md"
         },
         {
           "id": "exclusion-for-bodies-controlled-by-local-authorities",
@@ -2174,14 +2429,39 @@
           "path": "income-from-disposal-of-land-builders-other-land.md"
         },
         {
+          "id": "income-from-disposal-of-land-business-of-dealing-in-land",
+          "title": "Income from disposal of land — business of dealing in land",
+          "path": "income-from-disposal-of-land-business-of-dealing-in-land.md"
+        },
+        {
           "id": "income-from-disposal-of-land-business-of-developing-or-dividing-land",
           "title": "Income from disposal of land — business of developing or dividing land",
           "path": "income-from-disposal-of-land-business-of-developing-or-dividing-land.md"
         },
         {
+          "id": "income-from-disposal-of-land-business-of-erecting-buildings",
+          "title": "Income from disposal of land — business of erecting buildings",
+          "path": "income-from-disposal-of-land-business-of-erecting-buildings.md"
+        },
+        {
+          "id": "income-from-disposal-of-land-business-relating-to-land",
+          "title": "Income from disposal of land — business relating to land",
+          "path": "income-from-disposal-of-land-business-relating-to-land.md"
+        },
+        {
           "id": "income-from-disposal-of-land-dealers-other-land",
           "title": "Income from disposal of land — dealer's other land",
           "path": "income-from-disposal-of-land-dealers-other-land.md"
+        },
+        {
+          "id": "income-from-disposal-of-land-developers-other-land",
+          "title": "Income from disposal of land — developer's other land",
+          "path": "income-from-disposal-of-land-developers-other-land.md"
+        },
+        {
+          "id": "income-from-disposal-of-land-major-development-or-division",
+          "title": "Income from disposal of land — major development or division",
+          "path": "income-from-disposal-of-land-major-development-or-division.md"
         },
         {
           "id": "income-from-disposal-of-land-rezoning-gains",
@@ -2415,9 +2695,24 @@
           "path": "late-payment-interest-and-relief-on-student-loans.md"
         },
         {
+          "id": "new-zealand-based-borrowers-under-student-loan-scheme",
+          "title": "New Zealand-based borrowers under student loan scheme",
+          "path": "new-zealand-based-borrowers-under-student-loan-scheme.md"
+        },
+        {
+          "id": "over-and-under-deductions-from-student-borrowers-income",
+          "title": "Over- and under-deductions from student borrower's income",
+          "path": "over-and-under-deductions-from-student-borrowers-income.md"
+        },
+        {
           "id": "overseas",
           "title": "overseas",
           "path": "overseas.md"
+        },
+        {
+          "id": "overseas-based-borrowers-under-student-loan-scheme",
+          "title": "Overseas-based borrowers under student loan scheme",
+          "path": "overseas-based-borrowers-under-student-loan-scheme.md"
         },
         {
           "id": "overview-of-the-student-loan-scheme",
@@ -2443,6 +2738,11 @@
           "id": "student-loan-borrower-may-challenge-refusal-to-grant-exemption",
           "title": "Student loan borrower may challenge refusal to grant exemption",
           "path": "student-loan-borrower-may-challenge-refusal-to-grant-exemption.md"
+        },
+        {
+          "id": "student-loan-borrowers-may-object-to-details-of-loan-advances",
+          "title": "Student loan borrowers may object to details of loan advances",
+          "path": "student-loan-borrowers-may-object-to-details-of-loan-advances.md"
         },
         {
           "id": "student-loan-repayment-obligations-of-new-zealand-based-borrowers",
@@ -2662,6 +2962,16 @@
           "path": "deductibility-of-accommodation-costs.md"
         },
         {
+          "id": "deductibility-of-advertising-and-sponsorship-expenses",
+          "title": "Deductibility of advertising and sponsorship expenses",
+          "path": "deductibility-of-advertising-and-sponsorship-expenses.md"
+        },
+        {
+          "id": "deductibility-of-aircraft-overhaul-and-maintenance-costs",
+          "title": "Deductibility of aircraft overhaul and maintenance costs",
+          "path": "deductibility-of-aircraft-overhaul-and-maintenance-costs.md"
+        },
+        {
           "id": "deductibility-of-annuities",
           "title": "Deductibility of annuities",
           "path": "deductibility-of-annuities.md"
@@ -2722,9 +3032,19 @@
           "path": "deductibility-of-costs-related-to-patents-and-design-registrations.md"
         },
         {
+          "id": "deductibility-of-costs-related-to-plant-variety-rights-grant",
+          "title": "Deductibility of costs related to plant variety rights grant",
+          "path": "deductibility-of-costs-related-to-plant-variety-rights-grant.md"
+        },
+        {
           "id": "deductibility-of-education-costs",
           "title": "Deductibility of education costs",
           "path": "deductibility-of-education-costs.md"
+        },
+        {
+          "id": "deductibility-of-emissions-units-and-emissions-liabilities",
+          "title": "Deductibility of emissions units and emissions liabilities",
+          "path": "deductibility-of-emissions-units-and-emissions-liabilities.md"
         },
         {
           "id": "deductibility-of-employee-remuneration",
@@ -2735,6 +3055,11 @@
           "id": "deductibility-of-entertainment-expenses",
           "title": "Deductibility of entertainment expenses",
           "path": "deductibility-of-entertainment-expenses.md"
+        },
+        {
+          "id": "deductibility-of-expenditure-funded-by-government-grant",
+          "title": "Deductibility of expenditure funded by government grant",
+          "path": "deductibility-of-expenditure-funded-by-government-grant.md"
         },
         {
           "id": "deductibility-of-feasibility-expenditure",
@@ -2842,6 +3167,11 @@
           "path": "deductibility-of-offshore-payments.md"
         },
         {
+          "id": "deductibility-of-payment-made-for-restrictive-covenant-breach",
+          "title": "Deductibility of payment made for restrictive covenant breach",
+          "path": "deductibility-of-payment-made-for-restrictive-covenant-breach.md"
+        },
+        {
           "id": "deductibility-of-payments-to-environmental-restoration-accounts",
           "title": "Deductibility of payments to environmental restoration accounts",
           "path": "deductibility-of-payments-to-environmental-restoration-accounts.md"
@@ -2877,9 +3207,19 @@
           "path": "deductibility-of-residential-rental-interest.md"
         },
         {
+          "id": "deductibility-of-residential-rental-interest-exemptions",
+          "title": "Deductibility of residential rental interest — exemptions",
+          "path": "deductibility-of-residential-rental-interest-exemptions.md"
+        },
+        {
           "id": "deductibility-of-residential-rental-interest-main-home-exemption",
           "title": "Deductibility of residential rental interest — main home exemption",
           "path": "deductibility-of-residential-rental-interest-main-home-exemption.md"
+        },
+        {
+          "id": "deductibility-of-residential-rental-interest-other-exemptions",
+          "title": "Deductibility of residential rental interest — other exemptions",
+          "path": "deductibility-of-residential-rental-interest-other-exemptions.md"
         },
         {
           "id": "deductibility-of-resource-consent-applications",
@@ -2935,6 +3275,11 @@
           "id": "deduction-for-maori-authority-donation",
           "title": "Deduction for Maori authority donation",
           "path": "deduction-for-maori-authority-donation.md"
+        },
+        {
+          "id": "deduction-for-new-investment-assets-investment-boost",
+          "title": "Deduction for new investment assets — investment boost",
+          "path": "deduction-for-new-investment-assets-investment-boost.md"
         },
         {
           "id": "deduction-for-payment-of-restitution",
@@ -3083,6 +3428,11 @@
           "path": "payroll-giving.md"
         },
         {
+          "id": "procedure-for-claiming-refund-of-charitable-gifts-credit",
+          "title": "Procedure for claiming refund of charitable gifts credit",
+          "path": "procedure-for-claiming-refund-of-charitable-gifts-credit.md"
+        },
+        {
           "id": "research-and-development-tax-credit",
           "title": "Research and development tax credit",
           "path": "research-and-development-tax-credit.md"
@@ -3134,6 +3484,11 @@
           "path": "calculation-of-child-support.md"
         },
         {
+          "id": "calculation-of-family-scheme-income-for-wff-tax-credits",
+          "title": "Calculation of family scheme income for WFF tax credits",
+          "path": "calculation-of-family-scheme-income-for-wff-tax-credits.md"
+        },
+        {
           "id": "child-support-exemptions",
           "title": "Child support exemptions",
           "path": "child-support-exemptions.md"
@@ -3159,6 +3514,11 @@
           "path": "child-support-variation-codes.md"
         },
         {
+          "id": "departure-from-the-child-support-formula-assessment",
+          "title": "Departure from the child support formula assessment",
+          "path": "departure-from-the-child-support-formula-assessment.md"
+        },
+        {
           "id": "early-childhood-education-payment",
           "title": "Early childhood education payment",
           "path": "early-childhood-education-payment.md"
@@ -3172,6 +3532,16 @@
           "id": "employees-protected-net-earnings-for-child-support",
           "title": "Employees' protected net earnings for child support",
           "path": "employees-protected-net-earnings-for-child-support.md"
+        },
+        {
+          "id": "employers-responsibilities-for-child-support-generally",
+          "title": "Employers' responsibilities for child support — generally",
+          "path": "employers-responsibilities-for-child-support-generally.md"
+        },
+        {
+          "id": "end-of-year-tax-credit-and-assessment-for-wff-tax-credits",
+          "title": "End-of-year tax credit and assessment for WFF tax credits",
+          "path": "end-of-year-tax-credit-and-assessment-for-wff-tax-credits.md"
         },
         {
           "id": "executive",
@@ -3192,6 +3562,11 @@
           "id": "introduction-to-working-for-families-tax-credits",
           "title": "Introduction to Working for Families Tax Credits",
           "path": "introduction-to-working-for-families-tax-credits.md"
+        },
+        {
+          "id": "liable-parents-for-child-support-with-overseas-income",
+          "title": "Liable parents for child support with overseas income",
+          "path": "liable-parents-for-child-support-with-overseas-income.md"
         },
         {
           "id": "minimum-family-tax-credit",
@@ -3234,6 +3609,11 @@
       "id": "ch-13",
       "title": "Ch 13 — Depreciation",
       "sections": [
+        {
+          "id": "adjusted-tax-value-for-an-item-of-depreciable-property",
+          "title": "Adjusted tax value for an item of depreciable property",
+          "path": "adjusted-tax-value-for-an-item-of-depreciable-property.md"
+        },
         {
           "id": "amalgamations-and-depreciation",
           "title": "Amalgamations and depreciation",
@@ -3278,6 +3658,11 @@
           "id": "depreciable-property",
           "title": "Depreciable property",
           "path": "depreciable-property.md"
+        },
+        {
+          "id": "depreciable-property-must-be-used-or-available-for-use",
+          "title": "Depreciable property must be used or available for use",
+          "path": "depreciable-property-must-be-used-or-available-for-use.md"
         },
         {
           "id": "depreciation-aircraft",
@@ -3380,6 +3765,11 @@
           "path": "introduction-to-depreciation-regime.md"
         },
         {
+          "id": "land-improvements-that-may-give-rise-to-depreciation-loss",
+          "title": "Land improvements that may give rise to depreciation loss",
+          "path": "land-improvements-that-may-give-rise-to-depreciation-loss.md"
+        },
+        {
           "id": "low-value-assets-for-depreciation-purposes",
           "title": "Low-value assets for depreciation purposes",
           "path": "low-value-assets-for-depreciation-purposes.md"
@@ -3395,6 +3785,11 @@
           "path": "ownership-of-depreciable-property.md"
         },
         {
+          "id": "partial-use-of-depreciable-property-to-produce-income",
+          "title": "Partial use of depreciable property to produce income",
+          "path": "partial-use-of-depreciable-property-to-produce-income.md"
+        },
+        {
           "id": "pool-method-for-depreciable-property",
           "title": "Pool method for depreciable property",
           "path": "pool-method-for-depreciable-property.md"
@@ -3408,6 +3803,16 @@
           "id": "restriction-on-depreciation-deduction-for-associated-person-transfers",
           "title": "Restriction on depreciation deduction for associated person transfers",
           "path": "restriction-on-depreciation-deduction-for-associated-person-transfers.md"
+        },
+        {
+          "id": "transfer-of-depreciable-property-between-group-companies",
+          "title": "Transfer of depreciable property between group companies",
+          "path": "transfer-of-depreciable-property-between-group-companies.md"
+        },
+        {
+          "id": "trustee-and-executor-distributions-of-depreciable-property",
+          "title": "Trustee and executor distributions of depreciable property",
+          "path": "trustee-and-executor-distributions-of-depreciable-property.md"
         }
       ]
     },
@@ -3501,6 +3906,11 @@
           "path": "limitation-on-reduction-in-penalty.md"
         },
         {
+          "id": "manufacturing-supplying-acquiring-or-possessing-ess-tools",
+          "title": "Manufacturing, supplying, acquiring or possessing ESS tools",
+          "path": "manufacturing-supplying-acquiring-or-possessing-ess-tools.md"
+        },
+        {
           "id": "mori-authority-distribution-penalty-tax",
           "title": "M#ori authority distribution penalty tax",
           "path": "mori-authority-distribution-penalty-tax.md"
@@ -3536,6 +3946,11 @@
           "path": "offence-of-obstruction.md"
         },
         {
+          "id": "offences-for-disclosure-of-sensitive-revenue-information",
+          "title": "Offences for disclosure of sensitive revenue information",
+          "path": "offences-for-disclosure-of-sensitive-revenue-information.md"
+        },
+        {
           "id": "offences-in-relation-to-inquiries",
           "title": "Offences in relation to inquiries",
           "path": "offences-in-relation-to-inquiries.md"
@@ -3564,6 +3979,11 @@
           "id": "payment-of-shortfall-penalty-using-losses",
           "title": "Payment of shortfall penalty using losses",
           "path": "payment-of-shortfall-penalty-using-losses.md"
+        },
+        {
+          "id": "penalties-for-offences-for-which-no-specific-penalty-is-imposed",
+          "title": "Penalties for offences for which no specific penalty is imposed",
+          "path": "penalties-for-offences-for-which-no-specific-penalty-is-imposed.md"
         },
         {
           "id": "penalties-relating-to-information-sharing-agreements",
@@ -3599,6 +4019,16 @@
           "id": "reduction-in-penalty-for-temporary-shortfall",
           "title": "Reduction in penalty for temporary shortfall",
           "path": "reduction-in-penalty-for-temporary-shortfall.md"
+        },
+        {
+          "id": "reduction-in-penalty-for-voluntary-disclosure-of-tax-shortfall",
+          "title": "Reduction in penalty for voluntary disclosure of tax shortfall",
+          "path": "reduction-in-penalty-for-voluntary-disclosure-of-tax-shortfall.md"
+        },
+        {
+          "id": "reduction-of-shortfall-penalties-for-previous-behaviour",
+          "title": "Reduction of shortfall penalties for previous behaviour",
+          "path": "reduction-of-shortfall-penalties-for-previous-behaviour.md"
         },
         {
           "id": "remission-of-penalties-and-interest",
@@ -3644,6 +4074,16 @@
           "id": "standard-based-civil-shortfall-penalties",
           "title": "Standard-based civil shortfall penalties",
           "path": "standard-based-civil-shortfall-penalties.md"
+        },
+        {
+          "id": "standard-of-proof-and-onus-of-proof-civil-proceedings",
+          "title": "Standard of proof and onus of proof — civil proceedings",
+          "path": "standard-of-proof-and-onus-of-proof-civil-proceedings.md"
+        },
+        {
+          "id": "standard-of-proof-and-onus-of-proof-criminal-proceedings",
+          "title": "Standard of proof and onus of proof — criminal proceedings",
+          "path": "standard-of-proof-and-onus-of-proof-criminal-proceedings.md"
         },
         {
           "id": "suppression-tool-use",
@@ -3747,6 +4187,11 @@
           "path": "replacement-payments-under-share-lending-arrangements-rwt.md"
         },
         {
+          "id": "resident-withholding-tax-and-intermediaries-or-agents",
+          "title": "Resident withholding tax and intermediaries or agents",
+          "path": "resident-withholding-tax-and-intermediaries-or-agents.md"
+        },
+        {
           "id": "resident-withholding-tax-on-dividends",
           "title": "Resident withholding tax on dividends",
           "path": "resident-withholding-tax-on-dividends.md"
@@ -3760,6 +4205,11 @@
           "id": "resident-withholding-tax-on-taxable-mori-authority-distributions",
           "title": "Resident withholding tax on taxable M#ori authority distributions",
           "path": "resident-withholding-tax-on-taxable-mori-authority-distributions.md"
+        },
+        {
+          "id": "resident-withholding-tax-proxy-for-a-non-resident-unit-trust",
+          "title": "Resident withholding tax proxy for a non-resident unit trust",
+          "path": "resident-withholding-tax-proxy-for-a-non-resident-unit-trust.md"
         },
         {
           "id": "resident-withholding-tax-rates",
@@ -3833,6 +4283,11 @@
           "path": "background-to-the-taxation-of-companies.md"
         },
         {
+          "id": "calculating-amount-of-dividend-when-property-made-available",
+          "title": "Calculating amount of dividend when property made available",
+          "path": "calculating-amount-of-dividend-when-property-made-available.md"
+        },
+        {
           "id": "calculation-of-companys-income-tax-liability",
           "title": "Calculation of company's income tax liability",
           "path": "calculation-of-companys-income-tax-liability.md"
@@ -3858,9 +4313,19 @@
           "path": "companies-tax-returns-and-payment.md"
         },
         {
+          "id": "conversion-of-foreign-proprietors-and-continuity-provisions",
+          "title": "Conversion of foreign proprietors and continuity provisions",
+          "path": "conversion-of-foreign-proprietors-and-continuity-provisions.md"
+        },
+        {
           "id": "corporate-migration-tax-treatment",
           "title": "Corporate migration — tax treatment",
           "path": "corporate-migration-tax-treatment.md"
+        },
+        {
+          "id": "corporate-reorganisations-by-limited-attribution-companies",
+          "title": "Corporate reorganisations by limited attribution companies",
+          "path": "corporate-reorganisations-by-limited-attribution-companies.md"
         },
         {
           "id": "corporate-spin-outs-and-the-continuity-provisions",
@@ -3903,6 +4368,11 @@
           "path": "dividend-exclusions-flat-owning-companies.md"
         },
         {
+          "id": "dividend-exclusions-foreign-investment-fund-income",
+          "title": "Dividend exclusions — foreign investment fund income",
+          "path": "dividend-exclusions-foreign-investment-fund-income.md"
+        },
+        {
           "id": "dividend-exclusions-fringe-benefits",
           "title": "Dividend exclusions — fringe benefits",
           "path": "dividend-exclusions-fringe-benefits.md"
@@ -3911,6 +4381,11 @@
           "id": "dividend-exclusions-non-taxable-bonus-issues",
           "title": "Dividend exclusions — non-taxable bonus issues",
           "path": "dividend-exclusions-non-taxable-bonus-issues.md"
+        },
+        {
+          "id": "dividend-exclusions-off-market-share-cancellations",
+          "title": "Dividend exclusions — off-market share cancellations",
+          "path": "dividend-exclusions-off-market-share-cancellations.md"
         },
         {
           "id": "dividend-exclusions-on-market-share-repurchases",
@@ -3933,6 +4408,11 @@
           "path": "dividend-exclusions-property-supplied-intra-group.md"
         },
         {
+          "id": "dividend-exclusions-residents-restricted-amalgamations",
+          "title": "Dividend exclusions — resident's restricted amalgamations",
+          "path": "dividend-exclusions-residents-restricted-amalgamations.md"
+        },
+        {
           "id": "dividend-exclusions-rights-issues-and-premiums-paid-under-bookbuild-arrangements",
           "title": "Dividend exclusions — rights issues and premiums paid under bookbuild arrangements",
           "path": "dividend-exclusions-rights-issues-and-premiums-paid-under-bookbuild-arrangements.md"
@@ -3953,6 +4433,11 @@
           "path": "dividend-exclusions-vesting-of-property-by-a-foreign-unit-trust.md"
         },
         {
+          "id": "dividend-shares-issued-under-profit-distribution-plans",
+          "title": "Dividend — shares issued under profit distribution plans",
+          "path": "dividend-shares-issued-under-profit-distribution-plans.md"
+        },
+        {
           "id": "dividends-between-companies",
           "title": "Dividends between companies",
           "path": "dividends-between-companies.md"
@@ -3971,6 +4456,11 @@
           "id": "dividends-overdrawn-shareholder-current-account",
           "title": "Dividends — overdrawn shareholder current account",
           "path": "dividends-overdrawn-shareholder-current-account.md"
+        },
+        {
+          "id": "dividends-producer-boards-and-co-operative-companies",
+          "title": "Dividends — producer boards and co-operative companies",
+          "path": "dividends-producer-boards-and-co-operative-companies.md"
         },
         {
           "id": "dividends-vesting-of-foreign-unit-trust-interests",
@@ -4028,6 +4518,11 @@
           "path": "market-value-of-shares-or-share-options.md"
         },
         {
+          "id": "measuring-shareholder-interests-for-continuity-purposes",
+          "title": "Measuring shareholder interests for continuity purposes",
+          "path": "measuring-shareholder-interests-for-continuity-purposes.md"
+        },
+        {
           "id": "measuring-shareholder-interests-in-a-company",
           "title": "Measuring shareholder interests in a company",
           "path": "measuring-shareholder-interests-in-a-company.md"
@@ -4068,6 +4563,11 @@
           "path": "reverse-takeovers-and-mergers-of-limited-attribution-companies.md"
         },
         {
+          "id": "securities-excluded-from-calculating-shareholder-interests",
+          "title": "Securities excluded from calculating shareholder interests",
+          "path": "securities-excluded-from-calculating-shareholder-interests.md"
+        },
+        {
           "id": "shareholder-capacity-test",
           "title": "Shareholder capacity test",
           "path": "shareholder-capacity-test.md"
@@ -4083,6 +4583,11 @@
           "path": "transfer-of-company-value-for-dividend-purposes.md"
         },
         {
+          "id": "voting-and-market-value-interests-in-special-corporate-entities",
+          "title": "Voting and market value interests in special corporate entities",
+          "path": "voting-and-market-value-interests-in-special-corporate-entities.md"
+        },
+        {
           "id": "voting-and-market-value-interests-under-10",
           "title": "Voting and market value interests under 10%",
           "path": "voting-and-market-value-interests-under-10.md"
@@ -4091,6 +4596,11 @@
           "id": "voting-interests-in-a-company",
           "title": "Voting interests in a company",
           "path": "voting-interests-in-a-company.md"
+        },
+        {
+          "id": "voting-interests-market-value-interests-and-nominees",
+          "title": "Voting interests, market value interests and nominees",
+          "path": "voting-interests-market-value-interests-and-nominees.md"
         },
         {
           "id": "what-constitutes-a-market-value-circumstance",
@@ -4154,9 +4664,24 @@
           "path": "companies-required-to-maintain-an-ica.md"
         },
         {
+          "id": "company-dividend-statement-for-imputation-purposes",
+          "title": "Company dividend statement for imputation purposes",
+          "path": "company-dividend-statement-for-imputation-purposes.md"
+        },
+        {
+          "id": "compliance-requirements-for-an-australian-ica-company",
+          "title": "Compliance requirements for an Australian ICA company",
+          "path": "compliance-requirements-for-an-australian-ica-company.md"
+        },
+        {
           "id": "consolidated-imputation-groups",
           "title": "Consolidated imputation groups",
           "path": "consolidated-imputation-groups.md"
+        },
+        {
+          "id": "continuity-requirements-for-carry-forward-of-imputation-credits",
+          "title": "Continuity requirements for carry forward of imputation credits",
+          "path": "continuity-requirements-for-carry-forward-of-imputation-credits.md"
         },
         {
           "id": "credits-and-debits-to-the-australian-ica",
@@ -4177,6 +4702,11 @@
           "id": "for-imputation-purposes",
           "title": "for imputation purposes",
           "path": "for-imputation-purposes.md"
+        },
+        {
+          "id": "imputation-credit-account-debit-or-credit-incorrectly-recorded",
+          "title": "Imputation credit account: debit or credit incorrectly recorded",
+          "path": "imputation-credit-account-debit-or-credit-incorrectly-recorded.md"
         },
         {
           "id": "imputation-dividends-paid-in-australian-currency",
@@ -4209,6 +4739,11 @@
           "path": "legislation-for-the-imputation-regime.md"
         },
         {
+          "id": "limit-on-refund-and-transfer-of-tax-for-imputation-purposes",
+          "title": "Limit on refund and transfer of tax for imputation purposes",
+          "path": "limit-on-refund-and-transfer-of-tax-for-imputation-purposes.md"
+        },
+        {
           "id": "limits-on-amount-of-imputation-credits",
           "title": "Limits on amount of imputation credits",
           "path": "limits-on-amount-of-imputation-credits.md"
@@ -4222,6 +4757,11 @@
           "id": "ratio-change-declaration-for-imputation-purposes",
           "title": "Ratio change declaration for imputation purposes",
           "path": "ratio-change-declaration-for-imputation-purposes.md"
+        },
+        {
+          "id": "shareholder-dividend-statement-for-imputation-purposes",
+          "title": "Shareholder dividend statement for imputation purposes",
+          "path": "shareholder-dividend-statement-for-imputation-purposes.md"
         },
         {
           "id": "summary-of-principal-features-of-imputation-regime",
@@ -4275,6 +4815,11 @@
           "path": "grouping-tax-losses.md"
         },
         {
+          "id": "interposed-entities-restriction-against-using-tax-losses",
+          "title": "Interposed entities — restriction against using tax losses",
+          "path": "interposed-entities-restriction-against-using-tax-losses.md"
+        },
+        {
           "id": "introduction-to-rules-for-grouping-tax-losses",
           "title": "Introduction to rules for grouping tax losses",
           "path": "introduction-to-rules-for-grouping-tax-losses.md"
@@ -4290,6 +4835,16 @@
           "path": "objectives-of-company-tax-loss-provisions.md"
         },
         {
+          "id": "restriction-against-using-tax-losses-for-schedular-tax-liabilities",
+          "title": "Restriction against using tax losses for schedular tax liabilities",
+          "path": "restriction-against-using-tax-losses-for-schedular-tax-liabilities.md"
+        },
+        {
+          "id": "shareholder-continuity-requirement-to-carry-forward-losses",
+          "title": "Shareholder continuity requirement to carry forward losses",
+          "path": "shareholder-continuity-requirement-to-carry-forward-losses.md"
+        },
+        {
           "id": "wholly-owned-group-of-companies",
           "title": "Wholly-owned group of companies",
           "path": "wholly-owned-group-of-companies.md"
@@ -4300,6 +4855,11 @@
       "id": "ch-19",
       "title": "Ch 19 — Qualifying Companies and Look-Through Companies",
       "sections": [
+        {
+          "id": "advantages-and-disadvantages-of-being-a-qualifying-company",
+          "title": "Advantages and disadvantages of being a qualifying company",
+          "path": "advantages-and-disadvantages-of-being-a-qualifying-company.md"
+        },
         {
           "id": "anti-avoidance-rules-relating-to-ltcs",
           "title": "Anti-avoidance rules relating to LTCs",
@@ -4391,6 +4951,21 @@
           "path": "qualifying-companies-and-imputation-credits-attached-to-dividend.md"
         },
         {
+          "id": "qualifying-companies-and-liability-of-electing-shareholder",
+          "title": "Qualifying companies and liability of electing shareholder",
+          "path": "qualifying-companies-and-liability-of-electing-shareholder.md"
+        },
+        {
+          "id": "qualifying-companies-and-loss-balances-carried-forward",
+          "title": "Qualifying companies and loss balances carried forward",
+          "path": "qualifying-companies-and-loss-balances-carried-forward.md"
+        },
+        {
+          "id": "qualifying-companies-and-period-of-grace-for-new-elections",
+          "title": "Qualifying companies and period of grace for new elections",
+          "path": "qualifying-companies-and-period-of-grace-for-new-elections.md"
+        },
+        {
           "id": "qualifying-companies-and-shareholder-elections",
           "title": "Qualifying companies and shareholder elections",
           "path": "qualifying-companies-and-shareholder-elections.md"
@@ -4406,9 +4981,19 @@
           "path": "qualifying-companies-and-the-non-resident-test.md"
         },
         {
+          "id": "qualifying-companies-and-the-shareholder-continuity-limitation",
+          "title": "Qualifying companies and the shareholder continuity limitation",
+          "path": "qualifying-companies-and-the-shareholder-continuity-limitation.md"
+        },
+        {
           "id": "qualifying-companies-and-the-shareholder-test",
           "title": "Qualifying companies and the shareholder test",
           "path": "qualifying-companies-and-the-shareholder-test.md"
+        },
+        {
+          "id": "qualifying-companies-and-the-transition-to-a-new-entity",
+          "title": "Qualifying companies and the transition to a new entity",
+          "path": "qualifying-companies-and-the-transition-to-a-new-entity.md"
         },
         {
           "id": "qualifying-companies-background",
@@ -4454,6 +5039,11 @@
           "id": "treatment-of-losses-on-transition-to-an-ltc",
           "title": "Treatment of losses on transition to an LTC",
           "path": "treatment-of-losses-on-transition-to-an-ltc.md"
+        },
+        {
+          "id": "treatment-of-untaxed-reserves-on-transition-to-an-ltc",
+          "title": "Treatment of untaxed reserves on transition to an LTC",
+          "path": "treatment-of-untaxed-reserves-on-transition-to-an-ltc.md"
         }
       ]
     },
@@ -4461,6 +5051,11 @@
       "id": "ch-20",
       "title": "Ch 20 — Consolidated Companies and Amalgamation Of Companies",
       "sections": [
+        {
+          "id": "amalgamation-transfer-of-property-or-financial-arrangements",
+          "title": "Amalgamation: transfer of property or financial arrangements",
+          "path": "amalgamation-transfer-of-property-or-financial-arrangements.md"
+        },
         {
           "id": "amount-of-amalgamated-companies",
           "title": "amount of amalgamated companies",
@@ -4480,6 +5075,11 @@
           "id": "cancellation-of-shares-in-an-amalgamation",
           "title": "Cancellation of shares in an amalgamation",
           "path": "cancellation-of-shares-in-an-amalgamation.md"
+        },
+        {
+          "id": "consolidated-groups-tax-credits-and-cfc-fif-regimes",
+          "title": "Consolidated groups — tax credits and CFC, FIF regimes",
+          "path": "consolidated-groups-tax-credits-and-cfc-fif-regimes.md"
         },
         {
           "id": "eligibility-to-form-a-consolidated-group",
@@ -4597,6 +5197,16 @@
           "path": "residents-restricted-amalgamation-transfer-of-financial-arrangements.md"
         },
         {
+          "id": "returns-assessments-and-liability-under-consolidation-regime",
+          "title": "Returns, assessments and liability under consolidation regime",
+          "path": "returns-assessments-and-liability-under-consolidation-regime.md"
+        },
+        {
+          "id": "succession-of-rights-and-obligations-in-an-amalgamation",
+          "title": "Succession of rights and obligations in an amalgamation",
+          "path": "succession-of-rights-and-obligations-in-an-amalgamation.md"
+        },
+        {
           "id": "tax-consequences-of-amalgamations",
           "title": "Tax consequences of amalgamations",
           "path": "tax-consequences-of-amalgamations.md"
@@ -4632,6 +5242,11 @@
       "id": "ch-21",
       "title": "Ch 21 — Fringe Benefit Tax",
       "sections": [
+        {
+          "id": "alternate-rate-calculation-for-attributed-fringe-benefits",
+          "title": "Alternate rate calculation for attributed fringe benefits",
+          "path": "alternate-rate-calculation-for-attributed-fringe-benefits.md"
+        },
         {
           "id": "attributed-fringe-benefits",
           "title": "Attributed fringe benefits",
@@ -4678,9 +5293,19 @@
           "path": "exclusion-from-fbt-employee-share-loans.md"
         },
         {
+          "id": "exclusion-from-fbt-employees-of-non-resident-employers",
+          "title": "Exclusion from FBT — employees of non-resident employers",
+          "path": "exclusion-from-fbt-employees-of-non-resident-employers.md"
+        },
+        {
           "id": "exclusion-from-fbt-exempt-allowances",
           "title": "Exclusion from FBT — exempt allowances",
           "path": "exclusion-from-fbt-exempt-allowances.md"
+        },
+        {
+          "id": "exclusion-from-fbt-superannuation-cash-contributions",
+          "title": "Exclusion from FBT — superannuation cash contributions",
+          "path": "exclusion-from-fbt-superannuation-cash-contributions.md"
         },
         {
           "id": "exemption-from-fbt-benefit-provided-on-employers-premises",
@@ -4693,6 +5318,11 @@
           "path": "exemption-from-fbt-business-tools.md"
         },
         {
+          "id": "exemption-from-fbt-employee-tax-return-preparation",
+          "title": "Exemption from FBT — employee tax return preparation",
+          "path": "exemption-from-fbt-employee-tax-return-preparation.md"
+        },
+        {
           "id": "expatriate-home-leave-travel-and-fbt",
           "title": "Expatriate home leave travel and FBT",
           "path": "expatriate-home-leave-travel-and-fbt.md"
@@ -4701,6 +5331,11 @@
           "id": "expenses-of-members-of-parliament-and-fbt",
           "title": "Expenses of members of Parliament and FBT",
           "path": "expenses-of-members-of-parliament-and-fbt.md"
+        },
+        {
+          "id": "fbt-accommodation-and-travel-in-course-of-employment",
+          "title": "FBT — accommodation and travel in course of employment",
+          "path": "fbt-accommodation-and-travel-in-course-of-employment.md"
         },
         {
           "id": "fbt-and-entertainment",
@@ -4798,6 +5433,11 @@
           "path": "fbt-exemption-self-powered-and-low-powered-vehicles-and-vehicle-share-services.md"
         },
         {
+          "id": "fbt-frequent-flyer-and-membership-reward-schemes",
+          "title": "FBT — frequent flyer and membership reward schemes",
+          "path": "fbt-frequent-flyer-and-membership-reward-schemes.md"
+        },
+        {
           "id": "fbt-loan-record-keeping-requirements",
           "title": "FBT — loan record-keeping requirements",
           "path": "fbt-loan-record-keeping-requirements.md"
@@ -4863,6 +5503,11 @@
           "path": "fringe-benefits-and-goods-and-services-tax.md"
         },
         {
+          "id": "fringe-benefits-commissioner-determining-cost-of-vehicle",
+          "title": "Fringe benefits — Commissioner determining cost of vehicle",
+          "path": "fringe-benefits-commissioner-determining-cost-of-vehicle.md"
+        },
+        {
           "id": "fringe-benefits-employee-contribution-and-part-ownership-of-vehicle",
           "title": "Fringe benefits — employee contribution and part-ownership of vehicle",
           "path": "fringe-benefits-employee-contribution-and-part-ownership-of-vehicle.md"
@@ -4871,6 +5516,11 @@
           "id": "fringe-benefits-provided-to-shareholder-employees-or-group-investment-fund-inves",
           "title": "Fringe benefits provided to shareholder-employees or group investment fund investors",
           "path": "fringe-benefits-provided-to-shareholder-employees-or-group-investment-fund-inves.md"
+        },
+        {
+          "id": "fringe-benefits-shareholder-employee-and-motor-vehicle",
+          "title": "Fringe benefits — shareholder-employee and motor vehicle",
+          "path": "fringe-benefits-shareholder-employee-and-motor-vehicle.md"
         },
         {
           "id": "fringe-benefits-value-of-motor-vehicle-benefits",
@@ -4891,6 +5541,11 @@
           "id": "goods-not-liable-to-fbt",
           "title": "Goods not liable to FBT",
           "path": "goods-not-liable-to-fbt.md"
+        },
+        {
+          "id": "income-protection-insurance-and-funeral-trust-contributions",
+          "title": "income protection insurance and funeral trust contributions",
+          "path": "income-protection-insurance-and-funeral-trust-contributions.md"
         },
         {
           "id": "introduction-to-fringe-benefit-tax",
@@ -4953,6 +5608,11 @@
           "path": "transport-in-heavy-goods-vehicle-not-a-fringe-benefit.md"
         },
         {
+          "id": "unclassified-benefits-records-required-for-fbt-purposes",
+          "title": "Unclassified benefits: records required for FBT purposes",
+          "path": "unclassified-benefits-records-required-for-fbt-purposes.md"
+        },
+        {
           "id": "value-of-accommodation-not-a-fringe-benefit",
           "title": "Value of accommodation not a fringe benefit",
           "path": "value-of-accommodation-not-a-fringe-benefit.md"
@@ -4974,6 +5634,11 @@
           "path": "allowance-for-provisional-tax-paid-by-agent.md"
         },
         {
+          "id": "amount-of-provisional-tax-instalments-in-a-transitional-year",
+          "title": "Amount of provisional tax instalments in a transitional year",
+          "path": "amount-of-provisional-tax-instalments-in-a-transitional-year.md"
+        },
+        {
           "id": "application-of-use-of-money-interest",
           "title": "Application of use of money interest",
           "path": "application-of-use-of-money-interest.md"
@@ -4992,6 +5657,11 @@
           "id": "determination-of-provisional-tax-by-commissioner",
           "title": "Determination of provisional tax by Commissioner",
           "path": "determination-of-provisional-tax-by-commissioner.md"
+        },
+        {
+          "id": "determining-residual-income-tax-following-a-transitional-year",
+          "title": "Determining residual income tax following a transitional year",
+          "path": "determining-residual-income-tax-following-a-transitional-year.md"
         },
         {
           "id": "due-date-for-payment-of-provisional-and-terminal-tax",
@@ -5079,14 +5749,29 @@
           "path": "provisional-tax-instalment-dates-for-transitional-year.md"
         },
         {
+          "id": "provisional-tax-payment-due-dates-in-transitional-year",
+          "title": "Provisional tax payment due dates in transitional year",
+          "path": "provisional-tax-payment-due-dates-in-transitional-year.md"
+        },
+        {
           "id": "provisional-tax-pooling",
           "title": "Provisional tax pooling",
           "path": "provisional-tax-pooling.md"
         },
         {
+          "id": "provisional-tax-to-be-credited-in-payment-of-income-tax",
+          "title": "Provisional tax to be credited in payment of income tax",
+          "path": "provisional-tax-to-be-credited-in-payment-of-income-tax.md"
+        },
+        {
           "id": "refund-and-transfer-of-overpaid-provisional-tax",
           "title": "Refund and transfer of overpaid provisional tax",
           "path": "refund-and-transfer-of-overpaid-provisional-tax.md"
+        },
+        {
+          "id": "registering-or-deregistering-for-gst-and-provisional-tax",
+          "title": "Registering or deregistering for GST and provisional tax",
+          "path": "registering-or-deregistering-for-gst-and-provisional-tax.md"
         },
         {
           "id": "residual-income-tax",
@@ -5153,6 +5838,11 @@
           "id": "death-of-a-partner",
           "title": "Death of a partner",
           "path": "death-of-a-partner.md"
+        },
+        {
+          "id": "deductibility-for-partnership-of-interest-paid-to-partner",
+          "title": "Deductibility for partnership of interest paid to partner",
+          "path": "deductibility-for-partnership-of-interest-paid-to-partner.md"
         },
         {
           "id": "disposal-of-partnership-interests",
@@ -5406,6 +6096,11 @@
           "path": "energy-companies.md"
         },
         {
+          "id": "filing-and-notification-requirements-for-mori-authorities",
+          "title": "Filing and notification requirements for M#ori authorities",
+          "path": "filing-and-notification-requirements-for-mori-authorities.md"
+        },
+        {
           "id": "flat-owning-companies",
           "title": "Flat-owning companies",
           "path": "flat-owning-companies.md"
@@ -5434,6 +6129,11 @@
           "id": "liability-of-mori-trustee-acting-as-a-receiver",
           "title": "Liability of M#ori Trustee acting as a receiver",
           "path": "liability-of-mori-trustee-acting-as-a-receiver.md"
+        },
+        {
+          "id": "loss-offset-grouping-and-amalgamation-for-mori-authorities",
+          "title": "Loss offset, grouping and amalgamation for M#ori authorities",
+          "path": "loss-offset-grouping-and-amalgamation-for-mori-authorities.md"
         },
         {
           "id": "mori-authority-credit-account",
@@ -5747,6 +6447,11 @@
           "path": "trustee-income-and-imputation.md"
         },
         {
+          "id": "trustee-income-close-company-beneficiary-income",
+          "title": "Trustee income — close company beneficiary income",
+          "path": "trustee-income-close-company-beneficiary-income.md"
+        },
+        {
           "id": "trustee-income-minor-beneficiary-rule",
           "title": "Trustee income — minor beneficiary rule",
           "path": "trustee-income-minor-beneficiary-rule.md"
@@ -5798,6 +6503,11 @@
           "path": "ambit-of-thin-capitalisation-rules.md"
         },
         {
+          "id": "apportionment-of-interest-costs-under-thin-capitalisation-rules",
+          "title": "Apportionment of interest costs under thin capitalisation rules",
+          "path": "apportionment-of-interest-costs-under-thin-capitalisation-rules.md"
+        },
+        {
           "id": "ascertaining-cost-and-market-value-for-fif-rules",
           "title": "Ascertaining cost and market value for FIF rules",
           "path": "ascertaining-cost-and-market-value-for-fif-rules.md"
@@ -5841,6 +6551,11 @@
           "id": "changes-to-transfer-pricing-rules-base-erosion-and-profit-shifting-beps-measures",
           "title": "Changes to transfer pricing rules — base erosion and profit shifting (BEPS) measures",
           "path": "changes-to-transfer-pricing-rules-base-erosion-and-profit-shifting-beps-measures.md"
+        },
+        {
+          "id": "collecting-tax-from-large-multinational-group-members",
+          "title": "Collecting tax from large multinational group members",
+          "path": "collecting-tax-from-large-multinational-group-members.md"
         },
         {
           "id": "concession-for-exchange-rate-fluctuation-when-calculating-group-debt-percentage",
@@ -5893,6 +6608,11 @@
           "path": "exemptions-from-fif-rules.md"
         },
         {
+          "id": "foreign-investor-tax-credit-fitc-and-supplementary-dividends",
+          "title": "Foreign investor tax credit (FITC) and supplementary dividends",
+          "path": "foreign-investor-tax-credit-fitc-and-supplementary-dividends.md"
+        },
+        {
           "id": "foreign-tax-credits-against-attributed-cfc-income",
           "title": "Foreign tax credits against attributed CFC income",
           "path": "foreign-tax-credits-against-attributed-cfc-income.md"
@@ -5928,6 +6648,11 @@
           "path": "interpretation-of-double-tax-agreements.md"
         },
         {
+          "id": "introduction-to-controlled-foreign-company-cfc-rules",
+          "title": "Introduction to controlled foreign company (CFC) rules",
+          "path": "introduction-to-controlled-foreign-company-cfc-rules.md"
+        },
+        {
           "id": "introduction-to-foreign-investment-fund-fif-rules",
           "title": "Introduction to foreign investment fund (FIF) rules",
           "path": "introduction-to-foreign-investment-fund-fif-rules.md"
@@ -5943,6 +6668,16 @@
           "path": "introduction-to-non-resident-withholding-tax-nrwt.md"
         },
         {
+          "id": "introduction-to-taxation-of-non-residents-in-new-zealand",
+          "title": "Introduction to taxation of non-residents in New Zealand",
+          "path": "introduction-to-taxation-of-non-residents-in-new-zealand.md"
+        },
+        {
+          "id": "introduction-to-taxation-of-offshore-income-and-investments",
+          "title": "Introduction to taxation of offshore income and investments",
+          "path": "introduction-to-taxation-of-offshore-income-and-investments.md"
+        },
+        {
           "id": "introduction-to-thin-capitalisation",
           "title": "Introduction to thin capitalisation",
           "path": "introduction-to-thin-capitalisation.md"
@@ -5951,6 +6686,11 @@
           "id": "introduction-to-transfer-pricing",
           "title": "Introduction to transfer pricing",
           "path": "introduction-to-transfer-pricing.md"
+        },
+        {
+          "id": "investment-income-information-requirements-from-1-april-2020",
+          "title": "Investment income information requirements from 1 April 2020",
+          "path": "investment-income-information-requirements-from-1-april-2020.md"
         },
         {
           "id": "meaning-of-permanent-establishment",
@@ -6021,6 +6761,11 @@
           "id": "rates-of-nrwt",
           "title": "Rates of NRWT",
           "path": "rates-of-nrwt.md"
+        },
+        {
+          "id": "recognition-of-overseas-income-with-differing-tax-years",
+          "title": "Recognition of overseas income with differing tax years",
+          "path": "recognition-of-overseas-income-with-differing-tax-years.md"
         },
         {
           "id": "tax-equalisation-payments",
@@ -6114,6 +6859,11 @@
           "path": "development-expenditure-for-land-improvements.md"
         },
         {
+          "id": "domestic-employees-employed-in-farmers-household",
+          "title": "Domestic employees employed in farmer's household",
+          "path": "domestic-employees-employed-in-farmers-household.md"
+        },
+        {
           "id": "enza-and-tg",
           "title": "ENZA and T&G",
           "path": "enza-and-tg.md"
@@ -6132,6 +6882,11 @@
           "id": "fishing-gear-and-quotas",
           "title": "Fishing gear and quotas",
           "path": "fishing-gear-and-quotas.md"
+        },
+        {
+          "id": "forestry-thinning-operations-income-equalisation-schemes",
+          "title": "Forestry thinning operations income equalisation schemes",
+          "path": "forestry-thinning-operations-income-equalisation-schemes.md"
         },
         {
           "id": "general-principles-of-taxation-of-horse-breeders",
@@ -6179,6 +6934,16 @@
           "path": "main-income-equalisation-scheme-deposits.md"
         },
         {
+          "id": "main-income-equalisation-scheme-interest-on-deposits",
+          "title": "Main income equalisation scheme — interest on deposits",
+          "path": "main-income-equalisation-scheme-interest-on-deposits.md"
+        },
+        {
+          "id": "main-income-equalisation-scheme-refunds-and-tax-credits",
+          "title": "Main income equalisation scheme — refunds and tax credits",
+          "path": "main-income-equalisation-scheme-refunds-and-tax-credits.md"
+        },
+        {
           "id": "market-value-and-replacement-price-valuation",
           "title": "Market value and replacement price valuation",
           "path": "market-value-and-replacement-price-valuation.md"
@@ -6212,6 +6977,11 @@
           "id": "purchase-and-planting-of-horticultural-plants",
           "title": "Purchase and planting of horticultural plants",
           "path": "purchase-and-planting-of-horticultural-plants.md"
+        },
+        {
+          "id": "purchase-of-land-and-buildings-for-horticulture-business",
+          "title": "Purchase of land and buildings for horticulture business",
+          "path": "purchase-of-land-and-buildings-for-horticulture-business.md"
         },
         {
           "id": "recurring-annual-costs-for-tending-trees",
@@ -6345,6 +7115,11 @@
           "path": "farmers-expenditure-on-tree-planting.md"
         },
         {
+          "id": "forest-expenditure-planting-and-maintenance-deductions",
+          "title": "Forest expenditure (planting and maintenance) deductions",
+          "path": "forest-expenditure-planting-and-maintenance-deductions.md"
+        },
+        {
           "id": "forest-land-development-costs",
           "title": "Forest land development costs",
           "path": "forest-land-development-costs.md"
@@ -6358,6 +7133,11 @@
           "id": "forestry-background",
           "title": "Forestry — background",
           "path": "forestry-background.md"
+        },
+        {
+          "id": "forestry-business-based-partly-on-the-use-of-mori-land",
+          "title": "Forestry business based partly on the use of M#ori land",
+          "path": "forestry-business-based-partly-on-the-use-of-mori-land.md"
         },
         {
           "id": "forestry-rights",
@@ -6435,6 +7215,11 @@
           "path": "pre-investment-expenditure-for-forestry-business.md"
         },
         {
+          "id": "prohibition-against-double-dipping-of-mining-deductions",
+          "title": "Prohibition against double-dipping of mining deductions",
+          "path": "prohibition-against-double-dipping-of-mining-deductions.md"
+        },
+        {
           "id": "spreading-of-income-and-deductions",
           "title": "Spreading of income and deductions",
           "path": "spreading-of-income-and-deductions.md"
@@ -6458,6 +7243,11 @@
           "id": "transfer-of-timber-under-relationship-agreement",
           "title": "Transfer of timber under relationship agreement",
           "path": "transfer-of-timber-under-relationship-agreement.md"
+        },
+        {
+          "id": "treaty-of-waitangi-claim-settlements-rights-to-take-timber",
+          "title": "Treaty of Waitangi claim settlements: rights to take timber",
+          "path": "treaty-of-waitangi-claim-settlements-rights-to-take-timber.md"
         }
       ]
     },
@@ -6469,6 +7259,11 @@
           "id": "automatic-enrolment-in-a-kiwisaver-scheme",
           "title": "Automatic enrolment in a KiwiSaver scheme",
           "path": "automatic-enrolment-in-a-kiwisaver-scheme.md"
+        },
+        {
+          "id": "background-to-savings-investment-kiwisaver-and-superannuation",
+          "title": "Background to savings investment, KiwiSaver and superannuation",
+          "path": "background-to-savings-investment-kiwisaver-and-superannuation.md"
         },
         {
           "id": "background-to-the-pie-regime",
@@ -6596,6 +7391,11 @@
           "path": "pie-losses.md"
         },
         {
+          "id": "record-keeping-for-retirement-scheme-contributions-and-rsct",
+          "title": "Record-keeping for retirement scheme contributions and RSCT",
+          "path": "record-keeping-for-retirement-scheme-contributions-and-rsct.md"
+        },
+        {
           "id": "retirement-scheme-contribution-tax-rsct",
           "title": "Retirement scheme contribution tax (RSCT)",
           "path": "retirement-scheme-contribution-tax-rsct.md"
@@ -6619,11 +7419,6 @@
           "id": "savings-suspension-from-kiwisaver",
           "title": "Savings suspension from KiwiSaver",
           "path": "savings-suspension-from-kiwisaver.md"
-        },
-        {
-          "id": "superannuation",
-          "title": "superannuation",
-          "path": "superannuation.md"
         },
         {
           "id": "superannuation-funds-income-tax-treatment",
@@ -6760,6 +7555,11 @@
           "id": "scheme-of-the-gaming-duties-act-1971",
           "title": "Scheme of the Gaming Duties Act 1971",
           "path": "scheme-of-the-gaming-duties-act-1971.md"
+        },
+        {
+          "id": "zero-rate-of-approved-issuer-levy-on-qualifying-bonds",
+          "title": "Zero rate of approved issuer levy on qualifying bonds",
+          "path": "zero-rate-of-approved-issuer-levy-on-qualifying-bonds.md"
         }
       ]
     },
@@ -6839,9 +7639,19 @@
           "path": "apportionment-of-input-tax.md"
         },
         {
+          "id": "assessment-and-disputes-resolution-procedures-for-gst",
+          "title": "Assessment and disputes resolution procedures for GST",
+          "path": "assessment-and-disputes-resolution-procedures-for-gst.md"
+        },
+        {
           "id": "avoidance-and-gst",
           "title": "Avoidance and GST",
           "path": "avoidance-and-gst.md"
+        },
+        {
+          "id": "background-to-business-to-business-financial-services-regime",
+          "title": "Background to business-to-business financial services regime",
+          "path": "background-to-business-to-business-financial-services-regime.md"
         },
         {
           "id": "background-to-goods-and-services-tax",
@@ -6879,9 +7689,24 @@
           "path": "claiming-gst-input-tax.md"
         },
         {
+          "id": "compulsory-zero-rating-of-land-transactions-czr-rules",
+          "title": "Compulsory zero-rating of land transactions (CZR rules)",
+          "path": "compulsory-zero-rating-of-land-transactions-czr-rules.md"
+        },
+        {
           "id": "correcting-errors-in-gst-returns",
           "title": "Correcting errors in GST returns",
           "path": "correcting-errors-in-gst-returns.md"
+        },
+        {
+          "id": "credit-and-debit-notes-correcting-taxable-supply-information",
+          "title": "Credit and debit notes – correcting taxable supply information",
+          "path": "credit-and-debit-notes-correcting-taxable-supply-information.md"
+        },
+        {
+          "id": "death-liquidation-receivership-or-bankruptcy-for-gst",
+          "title": "Death, liquidation, receivership or bankruptcy for GST",
+          "path": "death-liquidation-receivership-or-bankruptcy-for-gst.md"
         },
         {
           "id": "deemed-supplies-for-gst",
@@ -6969,6 +7794,11 @@
           "path": "gst-and-exported-services.md"
         },
         {
+          "id": "gst-and-facilitation-fees-charged-by-inbound-tour-operators",
+          "title": "GST and facilitation fees charged by inbound tour operators",
+          "path": "gst-and-facilitation-fees-charged-by-inbound-tour-operators.md"
+        },
+        {
           "id": "gst-and-finance-leases",
           "title": "GST and finance leases",
           "path": "gst-and-finance-leases.md"
@@ -6977,6 +7807,11 @@
           "id": "gst-and-goods-sold-to-satisfy-debt",
           "title": "GST and goods sold to satisfy debt",
           "path": "gst-and-goods-sold-to-satisfy-debt.md"
+        },
+        {
+          "id": "gst-and-hire-firm-security-bonds-and-late-return-charges",
+          "title": "GST and hire firm security bonds and late return charges",
+          "path": "gst-and-hire-firm-security-bonds-and-late-return-charges.md"
         },
         {
           "id": "gst-and-imported-goods",
@@ -7034,6 +7869,11 @@
           "path": "gst-and-remote-services.md"
         },
         {
+          "id": "gst-and-residential-property-owners-and-subdivisions",
+          "title": "GST and residential property owners and subdivisions",
+          "path": "gst-and-residential-property-owners-and-subdivisions.md"
+        },
+        {
           "id": "gst-and-retirement-villages",
           "title": "GST and retirement villages",
           "path": "gst-and-retirement-villages.md"
@@ -7069,6 +7909,11 @@
           "path": "gst-and-trading-trusts.md"
         },
         {
+          "id": "gst-apportionment-rules-for-mixed-use-of-goods-and-services",
+          "title": "GST apportionment rules for mixed use of goods and services",
+          "path": "gst-apportionment-rules-for-mixed-use-of-goods-and-services.md"
+        },
+        {
           "id": "gst-exempt-supplies-financial-services",
           "title": "GST exempt supplies: financial services",
           "path": "gst-exempt-supplies-financial-services.md"
@@ -7089,9 +7934,19 @@
           "path": "gst-on-late-payment-fees.md"
         },
         {
+          "id": "gst-record-keeping-for-supplies-of-imported-services",
+          "title": "GST record-keeping for supplies of imported services",
+          "path": "gst-record-keeping-for-supplies-of-imported-services.md"
+        },
+        {
           "id": "imported-services-and-group-companies-branches-and-divisions",
           "title": "Imported services and group companies, branches and divisions",
           "path": "imported-services-and-group-companies-branches-and-divisions.md"
+        },
+        {
+          "id": "input-tax-credits-under-business-to-business-regime-for-gst",
+          "title": "Input tax credits under business-to-business regime for GST",
+          "path": "input-tax-credits-under-business-to-business-regime-for-gst.md"
         },
         {
           "id": "interest-and-penalties-for-gst",
@@ -7184,9 +8039,24 @@
           "path": "taxable-supply-information-for-supplies-between-200-and-1000.md"
         },
         {
+          "id": "taxable-supply-information-for-supplies-exceeding-1000",
+          "title": "Taxable supply information for supplies exceeding $1,000",
+          "path": "taxable-supply-information-for-supplies-exceeding-1000.md"
+        },
+        {
+          "id": "taxable-supply-information-for-supplies-of-200-or-less",
+          "title": "Taxable supply information for supplies of $200 or less",
+          "path": "taxable-supply-information-for-supplies-of-200-or-less.md"
+        },
+        {
           "id": "taxable-supply-information-requirements",
           "title": "Taxable supply information requirements",
           "path": "taxable-supply-information-requirements.md"
+        },
+        {
+          "id": "the-reverse-charge-mechanism-for-gst-and-imported-services",
+          "title": "The reverse charge mechanism for GST and imported services",
+          "path": "the-reverse-charge-mechanism-for-gst-and-imported-services.md"
         },
         {
           "id": "time-of-supply-for-gst",
@@ -7197,6 +8067,11 @@
           "id": "time-of-supply-of-imported-services-for-gst",
           "title": "Time of supply of imported services for GST",
           "path": "time-of-supply-of-imported-services-for-gst.md"
+        },
+        {
+          "id": "timing-of-refunds-and-ability-to-withhold-refunds-for-gst",
+          "title": "Timing of refunds and ability to withhold refunds for GST",
+          "path": "timing-of-refunds-and-ability-to-withhold-refunds-for-gst.md"
         },
         {
           "id": "two-monthly-taxable-period-for-gst",
@@ -7229,6 +8104,11 @@
           "path": "value-of-supply-of-imported-services-for-gst.md"
         },
         {
+          "id": "value-of-supply-under-business-to-business-regime-for-gst",
+          "title": "Value of supply under business-to-business regime for GST",
+          "path": "value-of-supply-under-business-to-business-regime-for-gst.md"
+        },
+        {
           "id": "zero-rating-of-going-concerns",
           "title": "Zero-rating of going concerns",
           "path": "zero-rating-of-going-concerns.md"
@@ -7237,6 +8117,11 @@
           "id": "zero-rating-of-imported-services-for-gst",
           "title": "Zero-rating of imported services for GST",
           "path": "zero-rating-of-imported-services-for-gst.md"
+        },
+        {
+          "id": "zero-rating-under-business-to-business-regime-for-gst",
+          "title": "Zero-rating under business-to-business regime for GST",
+          "path": "zero-rating-under-business-to-business-regime-for-gst.md"
         }
       ]
     },
@@ -7244,6 +8129,11 @@
       "id": "ch-33",
       "title": "Ch 33 — Tax Avoidance",
       "sections": [
+        {
+          "id": "anti-avoidance-provisions-non-market-transactions",
+          "title": "Anti-avoidance provisions — Non-market transactions",
+          "path": "anti-avoidance-provisions-non-market-transactions.md"
+        },
         {
           "id": "attribution-rules-for-personal-services-income",
           "title": "Attribution rules for personal services income",
@@ -7335,6 +8225,11 @@
           "path": "tax-avoidance-step-2-is-there-a-purpose-or-effect-of-tax-avoidance.md"
         },
         {
+          "id": "tax-avoidance-step-3-counteracting-the-tax-advantage",
+          "title": "Tax avoidance — Step 3: Counteracting the tax advantage",
+          "path": "tax-avoidance-step-3-counteracting-the-tax-advantage.md"
+        },
+        {
           "id": "tax-avoidance-the-merely-incidental-exception",
           "title": "Tax avoidance — The merely incidental exception",
           "path": "tax-avoidance-the-merely-incidental-exception.md"
@@ -7350,6 +8245,11 @@
           "path": "tax-avoidance-transfer-of-right-to-income.md"
         },
         {
+          "id": "the-3-step-analysis-to-application-of-anti-avoidance-provision",
+          "title": "The 3-step analysis to application of anti-avoidance provision",
+          "path": "the-3-step-analysis-to-application-of-anti-avoidance-provision.md"
+        },
+        {
           "id": "the-governing-approach-to-tax-avoidance",
           "title": "The governing approach to tax avoidance",
           "path": "the-governing-approach-to-tax-avoidance.md"
@@ -7360,6 +8260,11 @@
       "id": "ch-50",
       "title": "Ch 50 — Dates • Rates",
       "sections": [
+        {
+          "id": "amortisation-rates-for-landfill-cell-construction-expenditure",
+          "title": "Amortisation rates for landfill cell construction expenditure",
+          "path": "amortisation-rates-for-landfill-cell-construction-expenditure.md"
+        },
         {
           "id": "amortisation-rates-for-listed-horticultural-plants",
           "title": "Amortisation rates for listed horticultural plants",
@@ -7426,6 +8331,11 @@
           "path": "industry-categories-from-200506-income-year.md"
         },
         {
+          "id": "industry-categories-rates-prior-to-200506-income-year",
+          "title": "Industry Categories rates prior to 2005–06 income year",
+          "path": "industry-categories-rates-prior-to-200506-income-year.md"
+        },
+        {
           "id": "mori-authorities",
           "title": "M#ori authorities",
           "path": "mori-authorities.md"
@@ -7449,6 +8359,11 @@
           "id": "pie-tax-rates",
           "title": "PIE tax rates",
           "path": "pie-tax-rates.md"
+        },
+        {
+          "id": "prescribed-square-metre-rate-for-dual-use-of-premises",
+          "title": "Prescribed square metre rate for dual use of premises",
+          "path": "prescribed-square-metre-rate-for-dual-use-of-premises.md"
         },
         {
           "id": "provisional-tax-dates",
@@ -7500,7 +8415,73 @@
     {
       "id": "ch-90",
       "title": "Ch 90 — Precedents",
-      "sections": []
+      "sections": [
+        {
+          "id": "company-dividend-statement",
+          "title": "Company dividend statement",
+          "path": "company-dividend-statement.md"
+        },
+        {
+          "id": "deed-of-acknowledgment-of-debt",
+          "title": "Deed of acknowledgment of debt",
+          "path": "deed-of-acknowledgment-of-debt.md"
+        },
+        {
+          "id": "deed-of-gift",
+          "title": "Deed of gift",
+          "path": "deed-of-gift.md"
+        },
+        {
+          "id": "fbt-employee-acknowledgment-of-company-resolution",
+          "title": "FBT — Employee acknowledgment of company resolution",
+          "path": "fbt-employee-acknowledgment-of-company-resolution.md"
+        },
+        {
+          "id": "fbt-private-use-restriction-letter",
+          "title": "FBT — Private Use Restriction Letter",
+          "path": "fbt-private-use-restriction-letter.md"
+        },
+        {
+          "id": "fbt-resolution-to-restrict-vehicle-use",
+          "title": "FBT — Resolution to restrict vehicle use",
+          "path": "fbt-resolution-to-restrict-vehicle-use.md"
+        },
+        {
+          "id": "marshall-clause",
+          "title": "Marshall Clause",
+          "path": "marshall-clause.md"
+        },
+        {
+          "id": "notice-of-loss-offset-election",
+          "title": "Notice of loss offset election",
+          "path": "notice-of-loss-offset-election.md"
+        },
+        {
+          "id": "resolution-approving-distribution-of-beneficiary-income",
+          "title": "Resolution approving distribution of beneficiary income",
+          "path": "resolution-approving-distribution-of-beneficiary-income.md"
+        },
+        {
+          "id": "shareholder-dividend-statement",
+          "title": "Shareholder dividend statement",
+          "path": "shareholder-dividend-statement.md"
+        },
+        {
+          "id": "sliding-value-clause",
+          "title": "Sliding value clause",
+          "path": "sliding-value-clause.md"
+        },
+        {
+          "id": "subvention-agreement",
+          "title": "Subvention agreement",
+          "path": "subvention-agreement.md"
+        },
+        {
+          "id": "year-end-trust-resolution",
+          "title": "Year end trust resolution",
+          "path": "year-end-trust-resolution.md"
+        }
+      ]
     }
   ]
 }

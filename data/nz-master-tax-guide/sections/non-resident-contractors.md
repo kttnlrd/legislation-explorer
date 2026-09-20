@@ -24,5 +24,3 @@ Law: IT07 ss RD 8(1)(b)(iv), (v), (vi), RD 24, Sch 4 pt A; TAA s 24H, Sch 5 pt C
 *Refs: ss RD 8(1)(b)(iv), s 24H*
 
 Last reviewed on 31 December 2025
-
-firms

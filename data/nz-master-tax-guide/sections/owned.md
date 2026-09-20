@@ -33,8 +33,6 @@ The gross value of the benefit is calculated as follows: 71 days/90 days × $28,
 
 Quarterly taxable value 1,124 less contributions (12 wks × $20) 240 less ownership reductions ($5,000 × 0.025) 125 365
 
-vehicle owned
-
 Net quarterly taxable value 759
 
 The fringe benefit tax payable for the quarter is 49.25% of the net quarterly taxable value, being: $759 × 49.25% = $373.81
@@ -81,8 +79,6 @@ and
 
 The term "business accessories" means accessories, components and equipment fitted to the vehicle, required for and relating solely to the business operations for which the vehicle is used. These items must also be in themselves "depreciable property" for tax purposes. If the "business accessories" are powered, the definition states that they will usually require the vehicle's power source to operate them.
 
-vehicle owned
-
 The phrase "fitted to the vehicle" is defined in the ruling as permanently affixed to the vehicle. However, the accessory will still be "fitted to the vehicle" if it is temporarily removed for repair or maintenance, or removed on sale or disposal of the vehicle or the accessory itself.
 
 The ruling applies for an indefinite period from 1 November 2008.
@@ -104,7 +100,5 @@ An application may be made to amend the start time of an FBT day or to revoke an
 Law: IT07 ss RD 29, RD 30, Sch 5
 
 Last reviewed on 31 December 2025
-
-vehicle rented or leased
 
 Fringe benefits — calculating value of motor vehicle — vehicle

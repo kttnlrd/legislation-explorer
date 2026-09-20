@@ -52,15 +52,3 @@ Section YC 13(1B) treats the notional single person that holds an interest in a 
 Law: IT07 s YC 13
 
 Last reviewed on 31 December 2025
-
-Conversion of foreign proprietors and continuity provisions
-
-The rules for measuring voting and market value interests are modified for the continuity provisions when an overseas company is converted from an unincorporated company of proprietors to a limited liability company.
-
-Without the concession, shareholder continuity could technically be breached for New Zealand companies owned by the overseas company even though there has been no change in the underlying beneficial ownership as a result of the conversion. Section YC 19 prevents a breach of shareholder continuity in these circumstances by treating the company of proprietors as having been a company with shareholders at all times before the conversion and the shareholders in the new company as having held their interests in that company at all times before the conversion.
-
-Law: IT07 s YC 19
-
-Last reviewed on 31 December 2025
-
-Anti-avoidance provision — directors' knowledge of failure to

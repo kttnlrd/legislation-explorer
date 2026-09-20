@@ -55,8 +55,6 @@ part of salary or wages with vouchers.
 
 Previously, when there was a large gap between the top marginal tax rate and the corporate (or trustee) tax rate, arrangements were entered into by some employers where an employee selected an amount of salary or wage that was substituted for vouchers (like, supermarket or petrol vouchers) which are very similar to the cash equivalent of the salary or wage. A "voucher" in this context may take many forms, including paper vouchers, digital vouchers and electronic vouchers on stored value cards.
 
-guide
-
 Under this "repackaging" or structuring arrangement, the vouchers are not being treated as income of the employee and no PAYE is deducted by the employer. The employee's income is treated as being reduced by the amount of the salary substituted with vouchers. As well as paying less income tax, employees who seek to reduce their income in this way pay less child support; decrease their student loan repayment obligation; reduce their KiwiSaver contributions and may claim a larger entitlement to Working for Families Tax Credit than they should. In addition, repackaging in this way has the effect of reducing the contribution that their employer is required to make to the employee's KiwiSaver scheme.
 
 The Revenue Alert warns that IR considers these arrangements to be tax avoidance. While RA 13/01 was issued in 2013, with the increase in the top marginal tax rate from the 2021–22 income year, there is a risk that employers and employees could be looking to implement such arrangements. IR's position would remain unchanged and such arrangements would be considered tax avoidance arrangements.
@@ -66,5 +64,3 @@ In addition, after the decision in Frucor, IR released an updated interpretation
 Law: IT07 ss BG 1, GA 1
 
 Last reviewed on 31 December 2025
-
-tax avoidance

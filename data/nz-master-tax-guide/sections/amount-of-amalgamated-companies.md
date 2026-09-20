@@ -22,5 +22,3 @@ Law: IT07 ss CD 43(15), (24), (25), CD 44(8)
 *Refs: ss CD 43(15)*
 
 Last reviewed on 31 December 2025
-
-amalgamating company ceases to exist

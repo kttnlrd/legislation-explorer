@@ -36,5 +36,3 @@ See CCH, Dep Rates 2026, at ¶50-080 for a full list of rates of tax for schedul
 Law: IT07 Sch 4 pt F
 
 Last reviewed on 31 December 2025
-
-entertainers

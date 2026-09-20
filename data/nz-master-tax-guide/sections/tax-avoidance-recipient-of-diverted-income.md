@@ -12,5 +12,3 @@ The essence of diverting income for tax purposes is to have it diverted to a non
 Among considerations which must be taken into account, apart from comparative tax costs, are the possibility of legislative changes, asset planning implications, the degree of sophistication of the taxpayer, the taxpayer's appreciation of the legal implications and general understanding of the nature of the vehicles that might be employed, and the benefit to the taxpayer personally of having the income diverted to the new recipient.
 
 Last reviewed on 31 December 2025
-
-marketed tax schemes

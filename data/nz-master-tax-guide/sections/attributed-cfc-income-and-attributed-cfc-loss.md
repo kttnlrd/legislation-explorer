@@ -45,8 +45,6 @@ The tenor of the CFC rules is to create attributed CFC income or attributed CFC 
 
 Disclosure
 
-income and attributed CFC loss
-
 A person with an income interest in a CFC of 10% or more must make electronic disclosure of the interest (s 61 of the TAA). A default assessment of attributed CFC income or loss is authorised by s EX 72 where there is failure to disclose.
 
 The Commissioner is authorised to grant exemptions from disclosure. Under s 61(2) of the TAA, the Commissioner has issued an international tax disclosure exemption that applies for the income year ended 31 March 2025 entitled "ITR36: 2025 International Tax Disclosure Exemption".
@@ -56,5 +54,3 @@ Failure to make disclosure or the making of any false disclosure is an offence u
 Law: IT07 ss CQ 1, CQ 2, DN 1, DN 2, EX 72, EX 73, IQ 2, IQ 2B, IQ 4; TAA s 61
 
 Last reviewed on 31 December 2025
-
-companies and control interests

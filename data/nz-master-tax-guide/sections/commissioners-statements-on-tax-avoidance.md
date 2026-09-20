@@ -53,8 +53,6 @@ Understanding what is actually achieved requires a complete understanding of the
 
 to Parliament's purpose for the provisions in question are in fact present (or absent)
 
-tax avoidance
-
 ## determining whether a tax avoidance arrangement exists involves considering various factors,
 
 including the:
@@ -101,8 +99,6 @@ The statement includes a flow chart illustrating the steps the Commissioner cons
 
 Flow chart 1: An approach to the tax avoidance enquiry
 
-tax avoidance
-
 Reproduced from Tax Information Bulletin ¶352-106 Vol 35, No 2, March 2023.
 
 In summary, IS 23/01 sets out the following as the approach to applying s BG 1:
@@ -116,8 +112,6 @@ In summary, IS 23/01 sets out the following as the approach to applying s BG 1:
 ## Parliament's purpose for the specific provisions.
 
 ## The conclusion on whether s BG 1 applies must be one that is:
-
-tax avoidance
 
 ## open on the evidence and on the facts established from the evidence
 
@@ -177,8 +171,6 @@ or effects of the arrangement; and
 
 The merely incidental test involves the consideration of many of the same factors that are considered under the Parliamentary contemplation test. A conclusion under the Parliamentary contemplation test that an arrangement has a tax avoidance purpose or effect means it is very unlikely that the arrangement's tax avoidance purpose will be merely incidental.
 
-tax avoidance
-
 ## Counteracting the tax advantage
 
 Interpretation statement, IS 23/01, also covers the Commissioner's application of s GA 1. While s BG 1 gives the Commissioner the authority to void the arrangement if tax avoidance is present, it does not appropriately counteract the tax advantage arising from that arrangement. Section GA 1 gives the Commissioner a broad, flexible discretion on how to make the adjustments required to counteract the tax advantage.
@@ -192,10 +184,6 @@ making adjustments, and
 ## reinstate permissible tax outcomes voided by s BG 1.
 
 A flow chart setting out the steps the Commissioner considers should be taken in applying s GA 1 is included in IS 23/01:
-
-tax avoidance
-
-tax avoidance
 
 Reproduced from Tax Information Bulletin ¶352-106 Vol 35, No 2, March 2023.
 
@@ -234,8 +222,6 @@ arrangement where the same amount is resettled back on the trust
 ## allocation of income to a beneficiary by crediting the
 
 beneficiary's current account where the beneficiary has
-
-tax avoidance
 
 no knowledge of the allocation or no expectation of receiving the income A trustee adopts a company structure and transfers its Examples of the use of corporate structures that may raise income-earning assets to the company concerns include:
 

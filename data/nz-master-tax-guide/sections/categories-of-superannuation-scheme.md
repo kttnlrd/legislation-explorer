@@ -50,5 +50,3 @@ Non-registered superannuation schemes fall within the meaning of unit trust and,
 Law: IT07 ss HC 10(1)(b), YA 1 ("superannuation fund", "superannuation scheme")
 
 Last reviewed on 31 December 2025
-
-tax treatment

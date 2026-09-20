@@ -45,8 +45,6 @@ any), and
 
 ## is settled for its face value (or its present value if converted before the end of its term).
 
-Determination G22A
-
 ## The Alesco case
 
 In Alesco New Zealand Ltd v C of IR, the Court of Appeal held that Alesco New Zealand Ltd (Alesco NZ) failed to prove that its use of optional convertible notes (OCNs) was not a tax avoidance arrangement. In upholding the High Court's decision and dismissing Alesco NZ's appeal, the Court of Appeal said that Alesco NZ had used the financial arrangements rules and (the former) Determination G22 to claim tax deductions in a way that was outside Parliament's contemplation (Alesco New Zealand Ltd v C of IR (2013) 26 NZTC ¶21-003).

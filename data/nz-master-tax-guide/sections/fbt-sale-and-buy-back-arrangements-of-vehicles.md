@@ -32,5 +32,3 @@ Law: IT07 s GB 31(4), Sch 5 cl 8
 *Refs: s GB 31(4)*
 
 Last reviewed on 31 December 2025
-
-of vehicle

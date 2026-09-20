@@ -18,5 +18,3 @@ Law: IT07 ss LE 7B, LO 2B; TAA ss 29(1), 31(1)
 *Refs: ss LE 7B, ss 29(1)*
 
 Last reviewed on 31 December 2025
-
-tax credits

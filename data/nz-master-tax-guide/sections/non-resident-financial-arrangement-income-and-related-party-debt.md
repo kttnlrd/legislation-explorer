@@ -47,8 +47,6 @@ A financial arrangement to which a member of a New Zealand banking group is a pa
 
 Indirect associated funding arrangement
 
-arrangement income and related-party debt
-
 An indirect associated funding arrangement refers to an arrangement under which a non-resident, as the indirect lender, provides funds to a direct lender who provides funds to the borrower and:
 
 ## there is the purpose or effect that the borrower incurs financial arrangement expenditure and the
@@ -101,8 +99,6 @@ Taxpayers are required to complete a deferral calculation for each related-party
 
 Where the deferral calculation is satisfied, NRFAI does not arise and the related-party debt continues to be taxed under the existing NRWT rules. The deferral calculation to be undertaken is: accumulated payments ÷ (accumulated accruals – hybrid deductions) where:
 
-arrangement income and related-party debt
-
 accumulated payments is the total interest paid by the borrower since the financial arrangement became a related-party debt until the NRFAI due date for the borrower's income year (being the 20th of the third month after balance date) accumulated accruals is the total expenditure the borrower incurs under the related-party debt over the same period, and hybrid deductions is the period's denied deduction under the hybrid mismatch rules.
 
 The item for hybrid deductions ensures that expenditure subject to the hybrid mismatch rules (¶26-650) is not taken into account in determining whether a loan gives rise to NRFAI.
@@ -134,8 +130,6 @@ To make an election the taxpayer must notify the Commissioner by the earlier of 
 The general rule is that the amount of NRFAI derived by a lender for all or part of an income year is an amount equal to the expenditure the borrower incurs in the income year on the related-party debt.
 
 The expenditure of the borrower is that expenditure determined by the spreading method applied under the financial arrangements rules in subpt EW. Note that the fair value method and the market value method are excluded; if the borrower has used either of these methods another spreading method must be applied.
-
-arrangement income and related-party debt
 
 The borrower's expenditure may include an expense of the borrower under the related-party debt that is not received by the lender.
 

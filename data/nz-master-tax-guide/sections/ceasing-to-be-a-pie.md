@@ -65,8 +65,6 @@ An entity will lose its PIE status if, on the last day of a quarter (the first q
 
 Where a breach is "not significant" and/or "not within the control of the entity", a temporary breach of those requirements is permitted provided that the breach is corrected by the last day of the second quarter. In effect the entity could have up to 6 months to remedy the breach depending upon when the breach first occurred. If the temporary breach is not remedied by the last day of the second quarter, the entity loses PIE status immediately following the end of that quarter.
 
-PIE
-
 ## Commencement or winding up
 
 Temporary breaches of the 5 listed requirements are also further accommodated on the commencement and winding-up of a PIE. Measuring the temporary breaches does not need to be undertaken in respect of a first quarter that:
@@ -100,5 +98,3 @@ Section 31B states that notice must be in the prescribed electronic form. Sectio
 Law: IT07 ss HM 24–HM 29, HM 72, HM 75; TAA s 31B
 
 Last reviewed on 31 December 2025
-
-equivalent

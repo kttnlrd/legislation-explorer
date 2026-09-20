@@ -1,11 +1,11 @@
 ---
 act: "New Zealand Master Tax Guide"
 part: "29"
-section: "superannuation"
-title: "superannuation"
+section: "background-to-savings-investment-kiwisaver-and-superannuation"
+title: "Background to savings investment, KiwiSaver and superannuation"
 paragraph: "¶29-010"
 ---
-# superannuation ¶29-010
+# Background to savings investment, KiwiSaver and superannuation ¶29-010
 
 ## Portfolio investment entity regime
 
@@ -24,5 +24,3 @@ The retirement savings scheme operates alongside KiwiSaver and aligns the tax tr
 Superannuation schemes are generally treated for tax purposes like any other form of investment savings entity. The aim of the superannuation scheme provisions is to tax all superannuation schemes constituted as trusts under the ordinary trust taxation provisions.
 
 Last reviewed on 31 December 2025
-
-the PIE regime

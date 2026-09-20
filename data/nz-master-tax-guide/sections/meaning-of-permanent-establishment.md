@@ -33,8 +33,6 @@ Therefore, the taxpayer is not considered to have a physical presence in the for
 
 Web server
 
-of "permanent establishment"
-
 A web server that is essentially an advertising site would be unlikely to trigger the PE provisions of a DTA because advertising is generally considered to be preparatory or auxiliary in nature. This activity is outside the scope of a PE. A web server that both presents information and records orders (or concludes contracts) may result in a PE in a country if it is leased or owned by the taxpayer in question. The question of whether the business of an enterprise is wholly or partly carried on through such equipment needs to be considered on a case-by-case basis, having regard to whether it can be said that, because of such equipment, the enterprise has facilities at its disposal where business functions of the enterprise are performed.
 
 ## Virtual office
@@ -76,8 +74,6 @@ business exists is dependent on the activities of the enterprises in the foreign
 ## Permanent establishment anti-avoidance rules
 
 Base erosion and profit shifting (BEPS) measures that strengthen the transfer pricing and PE rules to address BEPS strategies used by some multinationals were introduced in 2018.
-
-of "permanent establishment"
 
 The OECD updated the definition of a PE in their model tax treaty and New Zealand adopted this into its DTAs by signing the OECD's "Multilateral Convention to Implement Tax Treaty Related Measures to Prevent BEPS". However, a domestic law change was needed to cover cases where the relevant DTA does not yet include the OECD's new recommendations. As a result, a PE avoidance rule was introduced into New Zealand domestic law. The rule deems a PE to exist in New Zealand for a non-resident if all the following criteria are met:
 
@@ -139,8 +135,6 @@ not incorporate the OECD's PE definition, then the PE anti-avoidance rule applie
 
 does incorporate the OECD's PE definition, then the PE anti-avoidance rule does not apply. Instead the OECD's PE definition in the DTA applies to determine whether the non-resident has a PE in New Zealand.
 
-of "permanent establishment"
-
 ## If the jurisdiction where the non-resident is resident does not have a DTA with New Zealand, then
 
 the PE anti-avoidance rule does not apply. Instead the domestic PE definition (which incorporates the OECD's PE definition) applies to determine whether the non-resident has a PE in New Zealand.
@@ -154,5 +148,3 @@ Guidance materials IR released guidance materials, "BEPS — Permanent establish
 Law: IT07 ss GB 54, YD 4B, Sch 23
 
 Last reviewed on 31 December 2025
-
-tax agreements negotiated

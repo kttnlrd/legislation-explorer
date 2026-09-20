@@ -62,5 +62,3 @@ Law: IT07 ss HM 2–HM 30, HM 71, HM 72, HM 75, YA 1 ("benefit fund PIE", "life 
 *Refs: ss HM 2*
 
 Last reviewed on 31 December 2025
-
-become a PIE

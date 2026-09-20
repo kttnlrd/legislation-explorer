@@ -44,11 +44,3 @@ Both these penalties will themselves be subject to the late payment penalty and 
 Law: TAA ss 139A, 139AAA, 139AA
 
 Last reviewed on 31 December 2025
-
-Addresses to send tax returns, payments and correspondence
-
-IR has processing centres to which tax payments, tax returns and correspondence can be mailed. See ird.govt.nz for the relevant addresses.
-
-For tax payments, see ¶2-115.
-
-Last reviewed on 31 December 2025

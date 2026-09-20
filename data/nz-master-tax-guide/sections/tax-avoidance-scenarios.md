@@ -58,5 +58,3 @@ The Commissioner notes in QB 23/02 that certain factual variations may mean that
 Law: IT07 s BG 1
 
 Last reviewed on 31 December 2025
-
-provisions

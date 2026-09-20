@@ -38,5 +38,3 @@ The ruling applies to income derived by a M#ori Trust Board for an indefinite pe
 Law: CHA s 13(2)(b); ML s 245
 
 Last reviewed on 31 December 2025
-
-and trusts

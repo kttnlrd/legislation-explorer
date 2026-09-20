@@ -27,6 +27,4 @@ Law: IT07 s CW 29B
 
 Last reviewed on 31 December 2025
 
-scheme contribution tax (RSCT) rules
-
 Background to retirement scheme contribution tax (RSCT)

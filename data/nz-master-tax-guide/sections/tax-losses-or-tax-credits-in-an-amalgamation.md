@@ -51,8 +51,6 @@ An amalgamated company may only carry forward its tax losses from a previous inc
 
 companies.
 
-an amalgamation
-
 An ordering rule ensures that a carried forward tax loss of an amalgamated company must first be used to subtract from the company's part-year net income (if any) up to the date of amalgamation.
 
 Any balance remaining may be carried forward to the post-amalgamation part year if:
@@ -103,8 +101,6 @@ Kim 22.5%
 
 There is a pre-amalgamation tax loss carried forward by B Ltd as at the date of the amalgamation. A Ltd would be entitled to deduct the tax loss from its post-amalgamation net income. Disregarding the amalgamation, the shareholding of Jon ensures compliance with the shareholder continuity requirement for the carry-forward of the tax loss.
 
-an amalgamation
-
 Also see Example 7 in IS 25/09 for a further illustration.
 
 In Selectrix Management Ltd v Registrar of Companies (2005) 22 NZTC 19,181 the shareholders of the amalgamating company became shareholders in the amalgamated company. Consequently, the amalgamated company ceased to satisfy the 49% continuity shareholder requirement to be able to carry forward its pre-amalgamation tax losses. The High Court rejected the application for a declaration that the amalgamation was a nullity and of no legal effect. The pre-amalgamation tax loss was forfeited and unavailable to the amalgamated company upon the amalgamation.
@@ -114,5 +110,3 @@ The treatment and use of tax credits when companies amalgamate is regulated by s
 Law: IT07 ss IA 9(3), IE 1–IE 5, IQ 1(4), LK 12–LK 15
 
 Last reviewed on 31 December 2025
-
-when amalgamating company ceases to exist

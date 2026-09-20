@@ -14,5 +14,3 @@ Non-cash prizes are not assessable income in the hands of the recipient, althoug
 It was a non-monetary perquisite or emolument and was not included within the meaning of the term "allowance". The fact that the benefit may have been convertible into cash is irrelevant once it has been decided that the benefit is not an allowance.
 
 Last reviewed on 31 December 2025
-
-allowances

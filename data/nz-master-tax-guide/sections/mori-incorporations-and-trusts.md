@@ -16,5 +16,3 @@ M#ori incorporations are established by order of the M#ori Land Court. Under s 2
 Law: ML s 258
 
 Last reviewed on 31 December 2025
-
-Trustee acting as a receiver

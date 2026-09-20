@@ -51,10 +51,6 @@ In addition, a DTA invariably creates an exemption for business profits not attr
 
 Both kinds of DTA exemption usually do not extend to public entertainers. Income from this kind of activity normally remains subject to New Zealand income tax on the basis that New Zealand is the country of source of the income. For example, refer to art 17 of the Australia–New Zealand DTA.
 
-agreement for personal services income
-
 Independent personal services income subject to New Zealand income tax may also be subject to a withholding tax regime. See ¶26-480 and Sch 4, pt A of the IT07.
 
 Last reviewed on 31 December 2025
-
-employers

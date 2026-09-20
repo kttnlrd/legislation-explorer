@@ -16,5 +16,3 @@ Law: IT07 s FO 6
 *Refs: s FO 6*
 
 Last reviewed on 31 December 2025
-
-amalgamation: transfer of depreciable assets

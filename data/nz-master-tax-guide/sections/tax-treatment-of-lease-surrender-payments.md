@@ -26,5 +26,3 @@ Law: IT07 ss CC 1, CC 1C
 *Refs: ss CC 1*
 
 Last reviewed on 31 December 2025
-
-agent

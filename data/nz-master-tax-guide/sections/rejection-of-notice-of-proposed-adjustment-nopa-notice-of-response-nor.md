@@ -40,5 +40,3 @@ Law: TAA ss 89AB, 89AC, 89G, 89H, 89J
 *Refs: ss 89A*
 
 Last reviewed on 31 December 2025
-
-documents — exceptional circumstances
