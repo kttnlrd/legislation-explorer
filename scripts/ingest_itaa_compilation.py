@@ -452,6 +452,46 @@ def _join(words: list[str]) -> str:
     return " ".join(out)
 
 
+# ── output normalisation: the two defects the corpus repair had to undo (2026-09-19) ──
+# 1. duplicate anchors. Every subsec/para paragraph emitted its <a id> unconditionally, so a
+#    subsection whose text resumes after an interleaved table emitted the same id twice - 449 of
+#    4,629 sections after the full apply, and a fragment URL only ever resolves to the first match.
+#    The FIRST occurrence is the one that belongs at the subparagraph's start, so later copies go.
+# 2. quotes. The source PDFs carry typographic quotes; copying them verbatim broke this corpus's
+#    deliberate straight-quote convention (a59a3285e) in 1,762 files.
+# Applied to the assembled text BEFORE the gate runs, so what the gate verifies is what gets written.
+CURLY_QUOTES = "\u201c\u201d\u2018\u2019"
+STRAIGHT_QUOTES = "\"\"''"
+_QUOTE_MAP = {ord(c): s for c, s in zip(CURLY_QUOTES, STRAIGHT_QUOTES)}
+_ANCHOR_RE = re.compile(r'<a id="([^"]+)"></a>')
+
+
+def finalise(text: str) -> str:
+    """Enforce the corpus conventions this ingester must not violate (see above)."""
+    seen: set[str] = set()
+    out_lines: list[str] = []
+    for ln in text.splitlines():
+        ids = _ANCHOR_RE.findall(ln)
+        if ids:
+            keep = []
+            for aid in ids:
+                if aid not in seen:
+                    seen.add(aid)
+                    keep.append(aid)
+            if len(keep) != len(ids):
+                if not keep:
+                    stripped = _ANCHOR_RE.sub("", ln)
+                    if not stripped.strip():
+                        continue                  # the line was only the duplicate hook
+                    ln = stripped
+                else:
+                    it = iter(keep)
+                    ln = _ANCHOR_RE.sub(lambda m: (m.group(0) if next(it, None) else ""), ln)
+        out_lines.append(ln)
+    body = "\n".join(out_lines).translate(_QUOTE_MAP)
+    return body + ("\n" if text.endswith("\n") else "")
+
+
 def emit_prose(lines: list[dict], section: str) -> list[str]:
     """Markdown for a run of non-table lines, in the corpus's own shape."""
     paras: list[dict] = []
@@ -623,6 +663,9 @@ def ingest_section(doc, meta: dict, act_name: str, comp: dict, pdf_name: str) ->
     text = "\n".join(l.rstrip() for l in out).replace("\n\n\n", "\n\n") + "\n"
     while "\n\n\n" in text:
         text = text.replace("\n\n\n", "\n\n")
+
+    text = finalise(text)      # dedupe anchors + straighten quotes BEFORE the gate below, so the
+                               # gate's verdict describes the bytes that get written
 
     # I1: every PDF token back out of the markdown
     checked = re.sub(r"\A---\n.*?\n---\n", "", text, flags=re.S)

@@ -342,17 +342,27 @@ _spec.loader.exec_module(sc)
 for _fn in ["scan_compilation_no", "scan_empty_tree_nodes", "scan_tree_titles",
             "scan_asterisk_noise", "scan_section_fragments", "scan_stray_cut_tokens",
             "scan_chapeau", "scan_formatting_artifacts", "scan_definitions",
-            "scan_case_citations", "scan_body_fragments", "scan_table_coherence"]:
+            "scan_case_citations", "scan_body_fragments", "scan_table_coherence",
+            "scan_missing_heading", "scan_duplicate_anchors"]:
     getattr(sc, _fn)()
 _by_class = {}
 for _f in sc.findings:
     _by_class.setdefault(_f["class"], []).append(_f)
+_skips = 0
 for _cls, _items in sorted(_by_class.items()):
     _first = _items[0]
     _nfiles = len({_i["path"] for _i in _items})
-    rec("content", f"corpus {_cls}", "FIND",
+    # A class ending :CONVENTION is a check declining to judge an act that does not follow the
+    # convention the check relies on - not a defect. Counting it as a FIND inflated the nightly
+    # number (2 of 7 classes) and raised a ticket for a deliberate skip. Reported as SKIP, which
+    # sync_issues() ignores, so the FIND count means "unknown defects" and nothing else.
+    _status = "SKIP" if _cls.endswith(":CONVENTION") else "FIND"
+    if _status == "SKIP":
+        _skips += 1
+    rec("content", f"corpus {_cls}", _status,
         f"{len(_items)} finding(s) across {_nfiles} file(s) e.g. {_first['path']}: {_first['detail'][:70]}")
-print(f"\n── CONTENT PHASE: {len(_by_class)} finding classes | FAIL 0 | FIND {len(_by_class)}")
+print(f"\n── CONTENT PHASE: {len(_by_class)} classes | FAIL 0 | "
+      f"FIND {len(_by_class) - _skips} | SKIP {_skips}")
 
 fails_content = [r for r in results if r[0] == "content" and r[2] == "FAIL"]
 finds_content = [r for r in results if r[0] == "content" and r[2] == "FIND"]
