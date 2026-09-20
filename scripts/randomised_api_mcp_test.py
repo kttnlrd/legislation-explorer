@@ -348,15 +348,19 @@ for _fn in ["scan_compilation_no", "scan_empty_tree_nodes", "scan_tree_titles",
 _by_class = {}
 for _f in sc.findings:
     _by_class.setdefault(_f["class"], []).append(_f)
+# Shapes a detector reports separately because they are measured to be correct, not damage.
+_BENIGN_CLASSES = {"C11_table_rowwrap", "C11_table_header_split"}
 _skips = 0
 for _cls, _items in sorted(_by_class.items()):
     _first = _items[0]
     _nfiles = len({_i["path"] for _i in _items})
     # A class ending :CONVENTION is a check declining to judge an act that does not follow the
-    # convention the check relies on - not a defect. Counting it as a FIND inflated the nightly
-    # number (2 of 7 classes) and raised a ticket for a deliberate skip. Reported as SKIP, which
-    # sync_issues() ignores, so the FIND count means "unknown defects" and nothing else.
-    _status = "SKIP" if _cls.endswith(":CONVENTION") else "FIND"
+    # convention the check relies on - not a defect. Same for the explicitly benign shapes a split
+    # detector reports separately (C11_table_rowwrap: a row that wraps to the next line ends on a
+    # connector by nature - measured, not assumed, by _continuation_after). Counting either as a FIND
+    # inflated the nightly number and raised tickets for correct text. They report as SKIP, which
+    # sync_issues() ignores, so the FIND count means "defects" and nothing else.
+    _status = "SKIP" if (_cls.endswith(":CONVENTION") or _cls in _BENIGN_CLASSES) else "FIND"
     if _status == "SKIP":
         _skips += 1
     rec("content", f"corpus {_cls}", _status,

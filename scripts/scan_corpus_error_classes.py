@@ -225,6 +225,44 @@ def _head_word(cell: str):
     return t.strip(",*'\"()") if t else ""
 
 
+def _continuation_after(lines: list[str], ln_no: int, max_look: int = 4) -> tuple[str, str]:
+    """Classify what follows a row that ends on a connector: 'wrap', 'header', or 'none'.
+
+    A wrapped row ends on a connector by nature ("... to the" / "extent that ...") and the next row
+    holds the rest. A column heading in a comparative table is also a split phrase - it is completed
+    by the DATA rows below the '| --- |' rule, not by the line immediately after it, so the separator
+    has to be looked through:
+
+        | Item | Topic | These supplies are GST-free (except to the extent that |
+        | --- | --- | --- |          <- the phrase continues in the cells below the rule
+
+    What remains - a connector with no row, no heading rule, and no prose carrying it on - is the
+    defect DANGLE_CELL_END was written for. Returns (kind, why), and the kind decides the class.
+    """
+    saw_separator = False
+    for off in range(1, max_look + 1):
+        j = ln_no - 1 + off
+        if j >= len(lines):
+            return "none", "end of file"
+        nxt = lines[j]
+        if not nxt.strip():
+            continue
+        if re.match(r"^\|\s*---", nxt.strip()):
+            saw_separator = True
+            continue
+        if not nxt.startswith("|"):
+            return "none", f"next non-empty line is not a table row ({nxt.strip()[:28]!r})"
+        first = nxt.strip().strip("|").split("|")[0].strip()
+        if saw_separator:
+            return "header", "a heading rule follows, so the phrase continues in the rows below it"
+        if not first:
+            return "wrap", "next row opens with an empty first cell"
+        if first[:1].islower():
+            return "wrap", f"next row continues in lower case ({first[:24]!r})"
+        return "none", f"next row starts a new item ({first[:24]!r})"
+    return "none", "no following row"
+
+
 def table_coherence_findings(lines: list[str], relpath: str) -> list[dict]:
     """The C11 detectors for ONE file. scan_table_coherence() walks the corpus
     and calls this; other tools (corpus_change_guard) reuse it per-file."""
@@ -243,10 +281,24 @@ def table_coherence_findings(lines: list[str], relpath: str) -> list[dict]:
             add("C11_table_glyph", relpath,
                 f"line {ln_no}: extraction glyph {gm.group(0)!r}: {ln.strip()[:90]}")
             continue
-        # (c) dangling connector end
+        # (c) dangling connector end - a defect ONLY when nothing continues the sentence.
+        # A row that wraps ends on a connector by nature, so the old rule counted the wrap as damage
+        # and named the class 'truncated'. Every one of the 138 findings was that shape, in corpora
+        # the re-ingest never touched (the audit's own examples were gst-1999), which is how a class
+        # can be 138 findings strong and still never have found the thing it was named for.
         if DANGLE_CELL_END.search(ln):
-            add("C11_table_truncated", relpath,
-                f"line {ln_no}: row ends on bare connector: {ln.strip()[:90]}")
+            kind, why = _continuation_after(lines, ln_no)
+            if kind == "wrap":
+                add("C11_table_rowwrap", relpath,
+                    f"line {ln_no}: row ends on bare connector, continued by the next row "
+                    f"({why}): {ln.strip()[:80]}")
+            elif kind == "header":
+                add("C11_table_header_split", relpath,
+                    f"line {ln_no}: split column heading ({why}): {ln.strip()[:80]}")
+            else:
+                add("C11_table_truncated", relpath,
+                    f"line {ln_no}: row ends on bare connector and nothing continues it "
+                    f"({why}): {ln.strip()[:80]}")
             continue
         # (a) mid-word split across adjacent cells — wordlist test
         if _WORDS is None:
