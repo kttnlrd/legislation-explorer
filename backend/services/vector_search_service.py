@@ -27,6 +27,7 @@ DIMS = 1536
 
 _ids: np.ndarray | None = None
 _matrix: np.ndarray | None = None
+_loaded_signature: tuple[float, int] | None = None
 _meta: dict[int, tuple] | None = None
 
 # Load API key from .hermes/.env
@@ -49,7 +50,7 @@ def load() -> None:
     otherwise need ~1.7GB just for the matrix and OOM the 1.5GB cgroup).
     If the DB has grown past the snapshot, rebuild it first (self-heal).
     """
-    global _ids, _matrix, _meta
+    global _ids, _matrix, _meta, _loaded_signature
 
     def _build() -> None:
         logger.info("Vector matrix snapshot stale — rebuilding via %s", BUILD_SCRIPT.name)
@@ -81,12 +82,45 @@ def load() -> None:
     _matrix = np.load(MATRIX_FILE, mmap_mode="r")
     with open(META_FILE, "rb") as f:
         _meta = pickle.load(f)
+    _loaded_signature = _current_signature()
     logger.info("Vector search loaded: %d embeddings (1536-dim, mmap)", _ids.shape[0])
 
 
+def _current_signature() -> tuple[float, int]:
+    """Identify the state of the matrix snapshot + the DB it must agree with.
+
+    (matrix file mtime, embeddings row count) - cheap enough to check per request, and it changes
+    whenever the snapshot is rebuilt, which is the only thing that can make an in-memory copy
+    wrong.
+    """
+    try:
+        mtime = MATRIX_FILE.stat().st_mtime
+    except OSError:
+        mtime = -1.0
+    try:
+        conn = sqlite3.connect(f"file:{EMBEDDINGS_DB}?mode=ro", uri=True)
+        try:
+            rows = conn.execute("SELECT count(*) FROM embeddings").fetchone()[0]
+        finally:
+            conn.close()
+    except sqlite3.Error:
+        rows = -1
+    return (mtime, rows)
+
+
 def _ensure_loaded() -> None:
-    if _ids is None:
+    """(Re)load when the snapshot on disk no longer matches what this process holds.
+
+    Loading once and never re-checking meant a long-running worker kept serving whatever matrix it
+    read at startup: a full re-embed plus a restored set of 257,260 ruling and case rows stayed
+    invisible to the API until the process was restarted, while every read of the file looked
+    correct.
+    """
+    global _loaded_signature
+    sig = _current_signature()
+    if _ids is None or sig != _loaded_signature:
         load()
+        _loaded_signature = sig
 
 
 def embed_query(query: str) -> np.ndarray:
