@@ -28,6 +28,33 @@ logger = logging.getLogger(__name__)
 GRAPH_DB = Path(__file__).resolve().parents[2] / "data" / "graph.db"
 INDEX_TABLE = "neighborhood_index"
 
+# The index is a materialised view of graph_edges.  It used to be rebuilt only when it was
+# MISSING, so a graph rebuild (pipeline/graph_etl.py --rebuild drops and recreates nodes and
+# graph_edges) left the old index in place: same table name, same shape, counts belonging to a
+# graph that no longer existed, and every count served to users as the neighbourhood of a node.
+# Record the graph the index was built from and rebuild when it no longer matches.
+META_TABLE = "neighborhood_index_meta"
+
+
+def _graph_fingerprint(conn: sqlite3.Connection) -> str:
+    """Identify the graph the index must agree with: node count + edge count."""
+    try:
+        n = conn.execute("SELECT COUNT(*) FROM nodes").fetchone()[0]
+        e = conn.execute("SELECT COUNT(*) FROM graph_edges").fetchone()[0]
+    except sqlite3.OperationalError:
+        return "no-graph"
+    return f"{n}:{e}"
+
+
+def _record_fingerprint(conn: sqlite3.Connection) -> None:
+    conn.execute(
+        f"CREATE TABLE IF NOT EXISTS {META_TABLE} (k TEXT PRIMARY KEY, v TEXT NOT NULL)"
+    )
+    conn.execute(
+        f"INSERT OR REPLACE INTO {META_TABLE} (k, v) VALUES ('graph_fingerprint', ?)",
+        (_graph_fingerprint(conn),),
+    )
+
 _build_lock = threading.Lock()
 
 
@@ -111,6 +138,7 @@ def build_index(conn: sqlite3.Connection) -> int:
             for (nid, et), members in agg.items()
         ],
     )
+    _record_fingerprint(conn)
     conn.commit()
     logger.info("[graph] built %s: %d rows", INDEX_TABLE, len(agg))
     return len(agg)
@@ -122,16 +150,29 @@ def _index_exists(conn: sqlite3.Connection) -> bool:
     ).fetchone() is not None
 
 
+def _index_is_current(conn: sqlite3.Connection) -> bool:
+    """True only if the index was built from the graph currently in this database."""
+    if not _index_exists(conn):
+        return False
+    try:
+        row = conn.execute(
+            f"SELECT v FROM {META_TABLE} WHERE k = 'graph_fingerprint'"
+        ).fetchone()
+    except sqlite3.OperationalError:
+        return False        # built before fingerprints existed — treat as stale
+    return row is not None and row[0] == _graph_fingerprint(conn)
+
+
 def _ensure_index(conn: sqlite3.Connection) -> None:
-    if _index_exists(conn):
+    if _index_is_current(conn):
         return
     with _build_lock:
-        if _index_exists(conn):
+        if _index_is_current(conn):
             return
         # build needs write access — the caller's conn may be read-only
         wconn = sqlite3.connect(GRAPH_DB, timeout=30)
         try:
-            if _index_exists(wconn):
+            if _index_is_current(wconn):
                 return
             build_index(wconn)
         finally:
