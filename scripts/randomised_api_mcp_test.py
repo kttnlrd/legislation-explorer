@@ -88,8 +88,33 @@ rc, t = api("/api/tree/itaa-1997")
 exp_leaves = tree_leaves("itaa-1997")
 rec("api", "tree itaa comp 266", "OK" if rc == 200 and isinstance(t, dict) and t.get("compilation_no") == 266 else "FAIL",
     f"status={rc} comp={t.get('compilation_no') if isinstance(t, dict) else '?'}")
-rec("api", "tree itaa leaves==corpus tree", "OK" if exp_leaves == 4648 else "FAIL",
-    f"tree.json leaves={exp_leaves} (expected 4648)")
+
+
+def _count_paths(node) -> int:
+    """Count .md leaves in a tree payload (served API response or tree.json - same shape)."""
+    n = 0
+    if isinstance(node, dict):
+        p = node.get("path")
+        if isinstance(p, str) and p.endswith(".md"):
+            n += 1
+        for v in node.values():
+            n += _count_paths(v)
+    elif isinstance(node, list):
+        for v in node:
+            n += _count_paths(v)
+    return n
+
+
+# This check used to compare tree.json's leaf count against a hardcoded 4648 and never consult the
+# API at all, despite its name. That made it two failures in one: it could not catch production
+# serving a stale tree (the regression it exists for), and it broke the moment the corpus legitimately
+# changed size - reinstating s 900-5 took tree.json to 4,649 and the audit reported an API contract
+# failure for a corpus that was correct. It now compares the served tree against tree.json, so it
+# still fails if the two disagree, and no longer fails when they agree.
+api_leaves = _count_paths(t) if rc == 200 else -1
+rec("api", "api tree leaves==corpus tree.json leaves",
+    "OK" if rc == 200 and api_leaves == exp_leaves else "FAIL",
+    f"api={api_leaves} tree.json={exp_leaves}" + ("" if api_leaves == exp_leaves else " MISMATCH"))
 for part, sids in (("3-1", ["102-6", "119-1", "115-102"]), ("2-10", ["40-291A"])):
     rc, t = api("/api/tree/itaa-1997", part=part, depth="sections")
     flat = json.dumps(t) if t else ""
