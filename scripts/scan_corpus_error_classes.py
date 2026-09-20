@@ -359,6 +359,25 @@ def scan_stray_cut_tokens():
                 f"(H1 carries a ¶ reference, H2 repeats its opening words) - skipped, not a pass")
 
 
+# ── C13 (CDN-0193 follow-up): duplicate anchors introduced by a re-ingest ──
+# The gate verifies tokens, not markup, so a re-ingest can emit the same <a id="..."> hook twice for
+# one printed subparagraph and pass every check. Duplicate anchors break deep links: a fragment URL
+# resolves to the first match, so the second copy is unreachable. Found on 2026-09-19 by the
+# structural integrity gate AFTER a 4,629-section apply that every per-block check had passed -
+# byte-equality against the gate-verified output and the corruption counts are both blind to it.
+def scan_duplicate_anchors():
+    for act_dir in DATA.iterdir():
+        sec_dir = act_dir / "sections"
+        if not sec_dir.is_dir():
+            continue
+        for p in sorted(sec_dir.rglob("*.md")):
+            ids = re.findall(r'<a id="([^"]+)"', p.read_text(errors="replace"))
+            dupes = sorted(k for k, v in Counter(ids).items() if v > 1)
+            if dupes:
+                add("C13_duplicate_anchor", str(p.relative_to(DATA)),
+                    f"{len(dupes)} duplicated anchor id(s): {','.join(dupes[:6])}")
+
+
 # ── C7 (CDN-0124): chapeau dropped — section body missing opening paragraph ──
 # If the first body paragraph after frontmatter starts with a subsection marker
 # or is empty → chapeau likely dropped.
@@ -527,6 +546,7 @@ def main():
     scan_case_citations()
     scan_table_coherence()
     scan_missing_heading()
+    scan_duplicate_anchors()
 
     # summarize
     by_class = Counter(f["class"] for f in findings)

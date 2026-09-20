@@ -266,8 +266,22 @@ def phase_verify(args) -> int:
         if rc != str(expect):
             missing.append(f"api {sec}")
 
+    # the structural gate: anchors, tree/title invariants. This was missing from the phase until a
+    # 4,629-section apply passed every per-block check (byte-equality against the gate-verified
+    # output, corruption counts falling block on block) and still left 3 sections carrying duplicate
+    # <a id> anchors. Both of those checks are blind to markup: the ingest gate compares tokens, and
+    # the corruption classes describe table shape. Only this gate reports it.
+    ig = subprocess.run(["/usr/bin/python3.12", "scripts/verify_data_integrity.py"], cwd=str(REPO),
+                        capture_output=True, text=True)
+    ig_ok = "RESULT: PASS" in (ig.stdout or "")
+    crit = re.search(r"critical_entries=(\d+)", ig.stdout or "")
+    print(f"  integrity gate: {'PASS' if ig_ok else 'FAIL'}"
+          + (f" | critical entries {crit.group(1)}" if crit else ""))
+    if not ig_ok:
+        missing.append("integrity gate")
+
     after = corruption_counts("after")
-    print(f"  corruption AFTER: total {after.get('_total', '?')} "
+    print(f"  corruption AFTER: total {after.get('_total', '?')} ",
           f"(was {pre['before'].get('_total', '?')}) | "
           f"glyph {after.get('C11_table_glyph','?')} (was {pre['before'].get('C11_table_glyph','?')}) "
           f"truncated {after.get('C11_table_truncated','?')} (was {pre['before'].get('C11_table_truncated','?')})")

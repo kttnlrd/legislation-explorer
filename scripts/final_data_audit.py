@@ -74,8 +74,13 @@ else:
 # it was written for: C6 reported 15 legitimate guide headings as cut remnants and never caught a
 # real one. Each such correction ships a self-test asserting BOTH directions, and running them here
 # is what stops them rotting into decoration. A detector that no longer fires must fail the audit.
+#
+# Convention: a corpus-detector self-test is named test_c<CLASS>_<what>.py (mirroring the C1..C12
+# class names in scan_corpus_error_classes.py). Do NOT widen this to scripts/test_*.py - that swept
+# in unrelated, pre-existing scripts whose dependencies live in other projects (test_scrape_10.py
+# died on a missing cadena-knowledge-MCP data file) and reported a detector failure that was not one.
 import pathlib as _pl
-det_tests = sorted(_pl.Path(ROOT, "scripts").glob("test_*.py"))
+det_tests = sorted(_pl.Path(ROOT, "scripts").glob("test_c[0-9]*_*.py"))
 det_fail = []
 for t in det_tests:
     rt = run([PY, str(t.relative_to(ROOT))])
