@@ -37,6 +37,35 @@ OUT_DB = DATA_DIR / "embeddings.db"
 # Sections that are dictionaries of defined terms rather than prose, per act.
 DICTIONARY_SECTIONS = {"995-1", "6", "195-1"}
 
+# This pipeline produces LOCAL BAAI/bge-small-en-v1.5 vectors (384 dims). The API's vector
+# search queries data/embeddings.db with text-embedding-3-small (1536 dims) via
+# scripts/openai_embed.py. Two pipelines, one table, one column - and this INSERT never wrote
+# the `model` column, so a run of this script against the production table left it holding two
+# incompatible vector spaces that looked identical in the data. Refuse instead.
+DIMS = 384
+
+
+def assert_db_is_this_pipeline(conn: sqlite3.Connection) -> None:
+    """Refuse to write unless every row in the table was made by this same model."""
+    try:
+        rows = conn.execute(
+            "SELECT length(embedding), model, count(*) FROM embeddings GROUP BY 1, 2"
+        ).fetchall()
+    except sqlite3.OperationalError:
+        return                      # table not created yet - nothing to collide with
+    foreign = [(ln, m, n) for ln, m, n in rows if ln != DIMS * 4]
+    if foreign:
+        ln, m, n = foreign[0]
+        raise SystemExit(
+            f"refusing to write: this table already holds {n:,} embedding(s) of {ln // 4} "
+            f"dims (model={m!r}), and this pipeline produces {DIMS} dims "
+            f"(BAAI/bge-small-en-v1.5). Writing here would put two vector spaces in one "
+            f"column, and the API's vector search queries this table with "
+            f"text-embedding-3-small/1536 dims - use scripts/openai_embed.py for that table, "
+            f"or point OUT_DB at a separate file.")
+    if rows:
+        print(f"table is compatible: {sum(n for _l, _m, n in rows):,} row(s) of {DIMS} dims")
+
 
 # ---------------------------------------------------------------------------
 # Parsing / text prep
@@ -281,15 +310,17 @@ def process_section(
             conn.execute(
                 """
                 INSERT INTO embeddings (source_type, act, section, section_title, chunk_index,
-                                         file_path, text_hash, embedding_text, embedding)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                                         file_path, text_hash, embedding_text, embedding, model)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON CONFLICT(file_path, chunk_index) DO UPDATE SET
                     text_hash=excluded.text_hash,
                     embedding_text=excluded.embedding_text,
                     embedding=excluded.embedding,
-                    section_title=excluded.section_title
+                    section_title=excluded.section_title,
+                    model=excluded.model
                 """,
-                (source_type, act, section, section_title, idx, file_path, h, etext, vec.astype("float32").tobytes()),
+                (source_type, act, section, section_title, idx, file_path, h, etext,
+                 vec.astype("float32").tobytes(), MODEL_NAME),
             )
             if idx == 0 and refs:
                 row_id = conn.execute(
@@ -315,6 +346,7 @@ COMMENTARY_ACTS = ["master-tax-guide", "master-gst-guide"]
 def main() -> None:
     conn = sqlite3.connect(OUT_DB)
     init_db(conn)
+    assert_db_is_this_pipeline(conn)
 
     print(f"Loading {MODEL_NAME} ...")
     model = SentenceTransformer(MODEL_NAME)
