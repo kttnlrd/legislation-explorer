@@ -32,7 +32,7 @@ CLICK_RE = re.compile(r'^\s*Click to open document in a browser\s*$', re.M | re.
 COPYRIGHT_RE = re.compile(r'^\s*©\s*CCH.*$', re.M)
 PAGENUM_RE = re.compile(r'^\s*\d{1,4}\s*$', re.M)
 NAV_RE = re.compile(r'^\s*\[(?:Index|Search|Noteup|Help|Download)\].*$', re.M)
-MARKER_ONLY_RE = re.compile(r'^\s*\[¶\d+-\d+\]\s*$', re.M)
+MARKER_ONLY_RE = re.compile(r'^\s*\[¶(?P<para>\d+-\d+)\]\s*$')
 HEADING_RE = re.compile(r'^(?P<title>.+?)\s*\[¶(?P<para>\d+-\d+)\]\s*$')
 PARA_RE = re.compile(r'¶(?P<para>\d+-\d+)')
 # NZ statutory references: numeric (s 170) and alphanumeric (s BD 1, ss CX 5(2))
@@ -55,14 +55,44 @@ def pdftotext(pdf: Path, limit: int | None = None) -> str:
     return r.stdout
 
 
+def strip_breadcrumbs(t: str) -> str:
+    """Drop the per-page breadcrumb line plus any wrapped remainder (CDN-0197).
+
+    pdftotext -layout puts the breadcrumb on one line; when the final crumb is
+    too long for the text column it wraps, and the remainder lands on the next
+    line where BREADCRUMB_RE (anchored to 'Master Tax Guide >') cannot see it.
+    Those remainders — 'paymen' / 'assessment', 'child' / 'support' — leaked
+    into section bodies as stray lone words (376 across the corpus). The page
+    header is always separated from body text by a blank line, and a remainder
+    never carries a ¶ marker or sentence punctuation, so both are the guard.
+    """
+    out, lines, i = [], t.split("\n"), 0
+    while i < len(lines):
+        if BREADCRUMB_RE.match(lines[i]):
+            i += 1
+            wrapped = 0
+            while i < len(lines) and wrapped < 2:
+                nxt = lines[i]
+                if not nxt.strip() or "¶" in nxt or len(nxt) > 90 \
+                        or nxt.rstrip().endswith(('.', ':', ';', ',')):
+                    break
+                i += 1
+                wrapped += 1
+            continue
+        out.append(lines[i])
+        i += 1
+    return "\n".join(out)
+
+
 def clean(raw: str) -> str:
     t = raw.replace("\f", "\n")
-    t = BREADCRUMB_RE.sub("", t)
+    t = strip_breadcrumbs(t)
     t = CLICK_RE.sub("", t)
     t = COPYRIGHT_RE.sub("", t)
     t = NAV_RE.sub("", t)
     t = PAGENUM_RE.sub("", t)
-    t = MARKER_ONLY_RE.sub("", t)
+    # MARKER_ONLY lines are NOT dropped here: an own-line marker is a heading
+    # whose title wrapped onto the previous line (see split_sections, CDN-0195).
     t = re.sub(r'\n{3,}', '\n\n', t)
     return t
 
@@ -110,7 +140,28 @@ def split_sections(text: str):
                 yield cur_title, cur_para, buf
             cur_title, cur_para, buf = title, m.group("para"), []
             continue
-        if cur_title is not None:
+        mo = MARKER_ONLY_RE.match(line.strip())
+        if mo:
+            # Own-line marker: the CCH export wraps some headings so the ¶ number
+            # is on its own line, and the Precedents chapter does this for every
+            # topic. The line above the marker is then the heading TITLE, not body
+            # text of the preceding section (CDN-0195: 196 topics were being
+            # swallowed into the previous section, incl. all 13 of ch 90).
+            prev = buf[-1].strip() if buf else ""
+            if prev and len(prev) < 80 and not prev.endswith(('.', ':', ';', ',')):
+                buf.pop()
+                if cur_title is not None:
+                    yield cur_title, cur_para, buf
+                cur_title, cur_para, buf = prev, mo.group("para"), []
+            # else: the duplicate marker that follows a normal 'Title [¶N-N]' heading
+            continue
+        if cur_title is None:
+            # Before the first heading: keep a short window of preamble lines only.
+            # The own-line-marker heading form puts its title on the line directly
+            # above the marker, which is all this buffer is needed for.
+            buf.append(line)
+            del buf[:-3]
+        else:
             buf.append(line)
     if cur_title is not None:
         yield cur_title, cur_para, buf

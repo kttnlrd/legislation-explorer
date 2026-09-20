@@ -1,0 +1,4479 @@
+{
+ "generated": "2026-09-05",
+ "total_sections_with_tables": 497,
+ "sections": [
+  {
+   "path": "fbt-1986/sections/part-iia/division-1/5B.md",
+   "section": "5B",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-iii/division-10a/39GB.md",
+   "section": "39GB",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-iii/division-13/58Q.md",
+   "section": "58Q",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-iii/division-2/9.md",
+   "section": "9",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-iiia/division-unknown/65J.md",
+   "section": "65J",
+   "dup_headers": 4,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 2
+  },
+  {
+   "path": "fbt-1986/sections/part-vii/division-2/103.md",
+   "section": "103",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "fbt-1986/sections/part-vii/division-2/109.md",
+   "section": "109",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-vii/division-2/110.md",
+   "section": "110",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-vii/division-2/111.md",
+   "section": "111",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-vii/division-2/112B.md",
+   "section": "112B",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-xib/division-unknown/135Q.md",
+   "section": "135Q",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-xic/division-unknown/135W.md",
+   "section": "135W",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-xid/division-unknown/136.md",
+   "section": "136",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-xii/division-unknown/140.md",
+   "section": "140",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "fbt-1986/sections/part-xii/division-unknown/167.md",
+   "section": "167",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-1-2/division-3/3-5.md",
+   "section": "3-5",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-2-2/division-11/11-30.md",
+   "section": "11-30",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-2/division-11/11-99.md",
+   "section": "11-99",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-2/division-9/9-20.md",
+   "section": "9-20",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-2/division-9/9-26.md",
+   "section": "9-26",
+   "dup_headers": 2,
+   "broken_bold": 1,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-2-2/division-9/9-39.md",
+   "section": "9-39",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-2-2/division-9/9-69.md",
+   "section": "9-69",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-2/division-9/9-99.md",
+   "section": "9-99",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-3/division-13/13-99.md",
+   "section": "13-99",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-3/division-15/15-99.md",
+   "section": "15-99",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-2-4/division-17/17-5.md",
+   "section": "17-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-4/division-17/17-99.md",
+   "section": "17-99",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-2-4/division-19/19-5.md",
+   "section": "19-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-4/division-19/19-99.md",
+   "section": "19-99",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-2-4/division-21/21-99.md",
+   "section": "21-99",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-5/division-23/23-99.md",
+   "section": "23-99",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-5/division-25/25-49.md",
+   "section": "25-49",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-5/division-25/25-99.md",
+   "section": "25-99",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-2-6/division-27/27-99.md",
+   "section": "27-99",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-6/division-29/29-39.md",
+   "section": "29-39",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-2-6/division-29/29-69.md",
+   "section": "29-69",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-6/division-29/29-99.md",
+   "section": "29-99",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-7/division-31/31-8.md",
+   "section": "31-8",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-7/division-31/31-99.md",
+   "section": "31-99",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-7/division-33/33-3.md",
+   "section": "33-3",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-2-7/division-33/33-99.md",
+   "section": "33-99",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-2-7/division-35/35-99.md",
+   "section": "35-99",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-2-8/division-37/37-1.md",
+   "section": "37-1",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-3-1/division-38/38-185.md",
+   "section": "38-185",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-3-1/division-38/38-190.md",
+   "section": "38-190",
+   "dup_headers": 2,
+   "broken_bold": 1,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-3-1/division-38/38-355.md",
+   "section": "38-355",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-4-2/division-111/111-20.md",
+   "section": "111-20",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-4-2/division-69/69-45.md",
+   "section": "69-45",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-4-2/division-69/69-50.md",
+   "section": "69-50",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-2/division-70/70-20.md",
+   "section": "70-20",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-2/division-75/75-10.md",
+   "section": "75-10",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-4-2/division-78/78-15.md",
+   "section": "78-15",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-2/division-79/79-95.md",
+   "section": "79-95",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-2/division-84/84-13.md",
+   "section": "84-13",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-2/division-84/84-5.md",
+   "section": "84-5",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-4-3/division-114/114-5.md",
+   "section": "114-5",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-4-4/division-126/126-10.md",
+   "section": "126-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-4/division-129/129-70.md",
+   "section": "129-70",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-4/division-129/129-75.md",
+   "section": "129-75",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-4/division-131/131-40.md",
+   "section": "131-40",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-4/division-132/132-5.md",
+   "section": "132-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-4/division-136/136-10.md",
+   "section": "136-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-6/division-159/159-10.md",
+   "section": "159-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-6/division-159/159-5.md",
+   "section": "159-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-7/division-162/162-175.md",
+   "section": "162-175",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-7/division-162/162-180.md",
+   "section": "162-180",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-7/division-162/162-195.md",
+   "section": "162-195",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-4-7/division-162/162-5.md",
+   "section": "162-5",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-4-7/division-162/162-70.md",
+   "section": "162-70",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "gst-1999/sections/part-6-2/division-188/188-5.md",
+   "section": "188-5",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "gst-1999/sections/part-6-3/division-195/195-1.md",
+   "section": "195-1",
+   "dup_headers": 16,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 5
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-1/23AF.md",
+   "section": "23AF",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-1/23AG.md",
+   "section": "23AG",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-16e/159GQA.md",
+   "section": "159GQA",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-3/51AAA.md",
+   "section": "51AAA",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-3/73AA.md",
+   "section": "73AA",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-5/94.md",
+   "section": "94",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-6aaa/102AAM.md",
+   "section": "102AAM",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-6aaa/102AAZD.md",
+   "section": "102AAZD",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-7a/109E.md",
+   "section": "109E",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-7a/109Y.md",
+   "section": "109Y",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-9aa/121AS.md",
+   "section": "121AS",
+   "dup_headers": 16,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 2,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iii/division-9aa/121AT.md",
+   "section": "121AT",
+   "dup_headers": 10,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-iv/division-unknown/170.md",
+   "section": "170",
+   "dup_headers": 6,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1936/sections/part-iv/division-unknown/170B.md",
+   "section": "170B",
+   "dup_headers": 6,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 2
+  },
+  {
+   "path": "itaa-1936/sections/part-iv/division-unknown/171A.md",
+   "section": "171A",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1936/sections/part-va/division-4/202D.md",
+   "section": "202D",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/part-x/division-7/419.md",
+   "section": "419",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1936/sections/part-x/division-8/446.md",
+   "section": "446",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/schedule-2d/division-57/57-110.md",
+   "section": "57-110",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/schedule-2d/division-57/57-85.md",
+   "section": "57-85",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/schedule-2f/division-265/265-10.md",
+   "section": "265-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/schedule-2f/division-266/266-10.md",
+   "section": "266-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/schedule-2f/division-266/266-145.md",
+   "section": "266-145",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/schedule-2h/division-326/326-145.md",
+   "section": "326-145",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1936/sections/schedule-2h/division-326/326-90.md",
+   "section": "326-90",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-1-2/division-2/2-15.md",
+   "section": "2-15",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-1-2/division-2/2-5.md",
+   "section": "2-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-1-3/division-4/4-10.md",
+   "section": "4-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-1-3/division-4/4-15.md",
+   "section": "4-15",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-1-4/division-9/9-1.md",
+   "section": "9-1",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-1-4/division-9/9-5.md",
+   "section": "9-5",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-1/division-20/20-105.md",
+   "section": "20-105",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-1/division-20/20-115.md",
+   "section": "20-115",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-1/division-20/20-140.md",
+   "section": "20-140",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-1/division-20/20-30.md",
+   "section": "20-30",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-1/division-20/20-5.md",
+   "section": "20-5",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-1/division-20/20-55.md",
+   "section": "20-55",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-10.md",
+   "section": "40-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-102.md",
+   "section": "40-102",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-180.md",
+   "section": "40-180",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-185.md",
+   "section": "40-185",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-190.md",
+   "section": "40-190",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-300.md",
+   "section": "40-300",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-305.md",
+   "section": "40-305",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-340.md",
+   "section": "40-340",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-40.md",
+   "section": "40-40",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-455.md",
+   "section": "40-455",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-545.md",
+   "section": "40-545",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-40/40-95.md",
+   "section": "40-95",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-43/43-140.md",
+   "section": "43-140",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-43/43-145.md",
+   "section": "43-145",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-43/43-2.md",
+   "section": "43-2",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-43/43-210.md",
+   "section": "43-210",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-43/43-215.md",
+   "section": "43-215",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-43/43-90.md",
+   "section": "43-90",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-45/45-10.md",
+   "section": "45-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-45/45-30.md",
+   "section": "45-30",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-10/division-45/45-5.md",
+   "section": "45-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-50/50-10.md",
+   "section": "50-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-50/50-15.md",
+   "section": "50-15",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-50/50-25.md",
+   "section": "50-25",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-50/50-30.md",
+   "section": "50-30",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-50/50-35.md",
+   "section": "50-35",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-50/50-40.md",
+   "section": "50-40",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-50/50-45.md",
+   "section": "50-45",
+   "dup_headers": 6,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 2
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-50/50-5.md",
+   "section": "50-5",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-51/51-10.md",
+   "section": "51-10",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-51/51-30.md",
+   "section": "51-30",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-51/51-5.md",
+   "section": "51-5",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-52/52-10.md",
+   "section": "52-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-52/52-114.md",
+   "section": "52-114",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-52/52-15.md",
+   "section": "52-15",
+   "dup_headers": 4,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-52/52-20.md",
+   "section": "52-20",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-52/52-25.md",
+   "section": "52-25",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-52/52-40.md",
+   "section": "52-40",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-52/52-65.md",
+   "section": "52-65",
+   "dup_headers": 4,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-52/52-75.md",
+   "section": "52-75",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-15/division-53/53-10.md",
+   "section": "53-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-20/division-61/61-115.md",
+   "section": "61-115",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-20/division-61/61-35.md",
+   "section": "61-35",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-20/division-63/63-10.md",
+   "section": "63-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-20/division-67/67-23.md",
+   "section": "67-23",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-25/division-70/70-30.md",
+   "section": "70-30",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-25/division-70/70-45.md",
+   "section": "70-45",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-40/division-82/82-150.md",
+   "section": "82-150",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-40/division-83/83-100.md",
+   "section": "83-100",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-40/division-83/83-115.md",
+   "section": "83-115",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-40/division-83/83-80.md",
+   "section": "83-80",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-40/division-83A/83A-325.md",
+   "section": "83A-325",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-25/25-35.md",
+   "section": "25-35",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-26/26-30.md",
+   "section": "26-30",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-28/28-15.md",
+   "section": "28-15",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-28/28-170.md",
+   "section": "28-170",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-28/28-185.md",
+   "section": "28-185",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-28/28-5.md",
+   "section": "28-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-100.md",
+   "section": "30-100",
+   "dup_headers": 4,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 2
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-102.md",
+   "section": "30-102",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-105.md",
+   "section": "30-105",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-15.md",
+   "section": "30-15",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 2,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-20.md",
+   "section": "30-20",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-215.md",
+   "section": "30-215",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-25.md",
+   "section": "30-25",
+   "dup_headers": 6,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-315.md",
+   "section": "30-315",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-40.md",
+   "section": "30-40",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-45.md",
+   "section": "30-45",
+   "dup_headers": 6,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 2
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-50.md",
+   "section": "30-50",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-55.md",
+   "section": "30-55",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-65.md",
+   "section": "30-65",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-70.md",
+   "section": "30-70",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-80.md",
+   "section": "30-80",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-90.md",
+   "section": "30-90",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-30/30-95.md",
+   "section": "30-95",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-32/32-30.md",
+   "section": "32-30",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-32/32-35.md",
+   "section": "32-35",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-32/32-40.md",
+   "section": "32-40",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-32/32-45.md",
+   "section": "32-45",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-32/32-50.md",
+   "section": "32-50",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-34/34-5.md",
+   "section": "34-5",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-35/35-45.md",
+   "section": "35-45",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-36/36-17.md",
+   "section": "36-17",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-36/36-25.md",
+   "section": "36-25",
+   "dup_headers": 9,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-36/36-40.md",
+   "section": "36-40",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-2-5/division-36/36-55.md",
+   "section": "36-55",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-100/100-10.md",
+   "section": "100-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-100/100-15.md",
+   "section": "100-15",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-100/100-20.md",
+   "section": "100-20",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-102/102-30.md",
+   "section": "102-30",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-104/104-100.md",
+   "section": "104-100",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-104/104-240.md",
+   "section": "104-240",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-104/104-245.md",
+   "section": "104-245",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-104/104-47.md",
+   "section": "104-47",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-104/104-5.md",
+   "section": "104-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-104/104-500.md",
+   "section": "104-500",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-104/104-525.md",
+   "section": "104-525",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-104/104-71.md",
+   "section": "104-71",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 2
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-104/104-95.md",
+   "section": "104-95",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-106/106-5.md",
+   "section": "106-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-108/108-75.md",
+   "section": "108-75",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-109/109-10.md",
+   "section": "109-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-109/109-5.md",
+   "section": "109-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-109/109-55.md",
+   "section": "109-55",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-109/109-60.md",
+   "section": "109-60",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-110/110-10.md",
+   "section": "110-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-110/110-36.md",
+   "section": "110-36",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-110/110-45.md",
+   "section": "110-45",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-115.md",
+   "section": "112-115",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-150.md",
+   "section": "112-150",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-20.md",
+   "section": "112-20",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-45.md",
+   "section": "112-45",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-46.md",
+   "section": "112-46",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-48.md",
+   "section": "112-48",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-50.md",
+   "section": "112-50",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-53.md",
+   "section": "112-53",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-53A.md",
+   "section": "112-53A",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-53AA.md",
+   "section": "112-53AA",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-53AB.md",
+   "section": "112-53AB",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-53B.md",
+   "section": "112-53B",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-53C.md",
+   "section": "112-53C",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-54.md",
+   "section": "112-54",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-54A.md",
+   "section": "112-54A",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-55.md",
+   "section": "112-55",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-60.md",
+   "section": "112-60",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-65.md",
+   "section": "112-65",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-70.md",
+   "section": "112-70",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-77.md",
+   "section": "112-77",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-78.md",
+   "section": "112-78",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-80.md",
+   "section": "112-80",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-85.md",
+   "section": "112-85",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-87.md",
+   "section": "112-87",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-90.md",
+   "section": "112-90",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-92.md",
+   "section": "112-92",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-95.md",
+   "section": "112-95",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-112/112-97.md",
+   "section": "112-97",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-114/114-5.md",
+   "section": "114-5",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-115/115-110.md",
+   "section": "115-110",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-115/115-115.md",
+   "section": "115-115",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-115/115-25.md",
+   "section": "115-25",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-115/115-280.md",
+   "section": "115-280",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-115/115-30.md",
+   "section": "115-30",
+   "dup_headers": 4,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 2
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-116/116-20.md",
+   "section": "116-20",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-116/116-25.md",
+   "section": "116-25",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-118/118-105.md",
+   "section": "118-105",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-118/118-190.md",
+   "section": "118-190",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-118/118-195.md",
+   "section": "118-195",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-1/division-118/118-300.md",
+   "section": "118-300",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-10/division-230/230-305.md",
+   "section": "230-305",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-10/division-230/230-310.md",
+   "section": "230-310",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-10/division-235/235-835.md",
+   "section": "235-835",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-10/division-240/240-10.md",
+   "section": "240-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-10/division-245/245-145.md",
+   "section": "245-145",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-10/division-245/245-65.md",
+   "section": "245-65",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-10/division-250/250-155.md",
+   "section": "250-155",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-25/division-275/275-100.md",
+   "section": "275-100",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-122/122-135.md",
+   "section": "122-135",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-122/122-140.md",
+   "section": "122-140",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-122/122-25.md",
+   "section": "122-25",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-122/122-35.md",
+   "section": "122-35",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-122/122-50.md",
+   "section": "122-50",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-124/124-520.md",
+   "section": "124-520",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-124/124-525.md",
+   "section": "124-525",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-124/124-790.md",
+   "section": "124-790",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-124/124-85.md",
+   "section": "124-85",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-124/124-95.md",
+   "section": "124-95",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-125/125-80.md",
+   "section": "125-80",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-126/126-15.md",
+   "section": "126-15",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-126/126-50.md",
+   "section": "126-50",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-128/128-15.md",
+   "section": "128-15",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-130/130-105.md",
+   "section": "130-105",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-130/130-15.md",
+   "section": "130-15",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-130/130-20.md",
+   "section": "130-20",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-130/130-40.md",
+   "section": "130-40",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-130/130-60.md",
+   "section": "130-60",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-132/132-15.md",
+   "section": "132-15",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-134/134-1.md",
+   "section": "134-1",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-149/149-30.md",
+   "section": "149-30",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-149/149-60.md",
+   "section": "149-60",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-3/division-152/152-70.md",
+   "section": "152-70",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-293/293-160.md",
+   "section": "293-160",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-294/294-130.md",
+   "section": "294-130",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-294/294-25.md",
+   "section": "294-25",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-294/294-80.md",
+   "section": "294-80",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-295/295-160.md",
+   "section": "295-160",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-295/295-190.md",
+   "section": "295-190",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-295/295-320.md",
+   "section": "295-320",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-295/295-335.md",
+   "section": "295-335",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-295/295-35.md",
+   "section": "295-35",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-295/295-405.md",
+   "section": "295-405",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-295/295-490.md",
+   "section": "295-490",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-295/295-495.md",
+   "section": "295-495",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-295/295-85.md",
+   "section": "295-85",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-296/296-55.md",
+   "section": "296-55",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-296/296-60.md",
+   "section": "296-60",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-296/296-70.md",
+   "section": "296-70",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-307/307-142.md",
+   "section": "307-142",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-307/307-300.md",
+   "section": "307-300",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-307/307-400.md",
+   "section": "307-400",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-30/division-307/307-5.md",
+   "section": "307-5",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-35/division-320/320-246.md",
+   "section": "320-246",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-328/328-10.md",
+   "section": "328-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-328/328-225.md",
+   "section": "328-225",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-355/355-100.md",
+   "section": "355-100",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-355/355-310.md",
+   "section": "355-310",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-355/355-520.md",
+   "section": "355-520",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-360/360-45.md",
+   "section": "360-45",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-376/376-135.md",
+   "section": "376-135",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-376/376-65.md",
+   "section": "376-65",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-380/380-30.md",
+   "section": "380-30",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-385/385-5.md",
+   "section": "385-5",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-392/392-5.md",
+   "section": "392-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-392/392-90.md",
+   "section": "392-90",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-405/405-45.md",
+   "section": "405-45",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-405/405-50.md",
+   "section": "405-50",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 3,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-45/division-415/415-15.md",
+   "section": "415-15",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-164/164-15.md",
+   "section": "164-15",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-165/165-115H.md",
+   "section": "165-115H",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-165/165-120.md",
+   "section": "165-120",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-165/165-126.md",
+   "section": "165-126",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-165/165-13.md",
+   "section": "165-13",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-165/165-30.md",
+   "section": "165-30",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-167/167-10.md",
+   "section": "167-10",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-170/170-130.md",
+   "section": "170-130",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-170/170-145.md",
+   "section": "170-145",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-170/170-30.md",
+   "section": "170-30",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-175/175-100.md",
+   "section": "175-100",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-5/division-197/197-60.md",
+   "section": "197-60",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-205/205-15.md",
+   "section": "205-15",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-205/205-30.md",
+   "section": "205-30",
+   "dup_headers": 5,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-207/207-55.md",
+   "section": "207-55",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-208/208-115.md",
+   "section": "208-115",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-208/208-120.md",
+   "section": "208-120",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-208/208-130.md",
+   "section": "208-130",
+   "dup_headers": 5,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-208/208-145.md",
+   "section": "208-145",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-208/208-170.md",
+   "section": "208-170",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-210/210-105.md",
+   "section": "210-105",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-210/210-120.md",
+   "section": "210-120",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-215/215-20.md",
+   "section": "215-20",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-219/219-15.md",
+   "section": "219-15",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-219/219-30.md",
+   "section": "219-30",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-6/division-220/220-800.md",
+   "section": "220-800",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-701/701-60.md",
+   "section": "701-60",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-703/703-15.md",
+   "section": "703-15",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-703/703-20.md",
+   "section": "703-20",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-703/703-25.md",
+   "section": "703-25",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-703/703-60.md",
+   "section": "703-60",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-705/705-59.md",
+   "section": "705-59",
+   "dup_headers": 4,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 2
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-705/705-60.md",
+   "section": "705-60",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-705/705-65.md",
+   "section": "705-65",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-705/705-75.md",
+   "section": "705-75",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-707/707-310.md",
+   "section": "707-310",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-707/707-320.md",
+   "section": "707-320",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-707/707-415.md",
+   "section": "707-415",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-709/709-215.md",
+   "section": "709-215",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-711/711-20.md",
+   "section": "711-20",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-711/711-45.md",
+   "section": "711-45",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-713/713-140.md",
+   "section": "713-140",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-713/713-240.md",
+   "section": "713-240",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-715/715-145.md",
+   "section": "715-145",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-715/715-660.md",
+   "section": "715-660",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-715/715-665.md",
+   "section": "715-665",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-715/715-670.md",
+   "section": "715-670",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-719/719-10.md",
+   "section": "719-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-719/719-20.md",
+   "section": "719-20",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-719/719-265.md",
+   "section": "719-265",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-719/719-80.md",
+   "section": "719-80",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-90/division-721/721-10.md",
+   "section": "721-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-95/division-725/725-245.md",
+   "section": "725-245",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-95/division-725/725-250.md",
+   "section": "725-250",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-95/division-725/725-335.md",
+   "section": "725-335",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-95/division-727/727-400.md",
+   "section": "727-400",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-95/division-727/727-520.md",
+   "section": "727-520",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-95/division-727/727-530.md",
+   "section": "727-530",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-3-95/division-727/727-550.md",
+   "section": "727-550",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-95/division-727/727-715.md",
+   "section": "727-715",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-3-95/division-727/727-780.md",
+   "section": "727-780",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-768/768-100.md",
+   "section": "768-100",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-768/768-520.md",
+   "section": "768-520",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-768/768-525.md",
+   "section": "768-525",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-768/768-530.md",
+   "section": "768-530",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-775/775-15.md",
+   "section": "775-15",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-775/775-210.md",
+   "section": "775-210",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-775/775-245.md",
+   "section": "775-245",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-775/775-285.md",
+   "section": "775-285",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-775/775-30.md",
+   "section": "775-30",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-775/775-45.md",
+   "section": "775-45",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-775/775-55.md",
+   "section": "775-55",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-775/775-65.md",
+   "section": "775-65",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-775/775-70.md",
+   "section": "775-70",
+   "dup_headers": 6,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 2
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-775/775-75.md",
+   "section": "775-75",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-815/815-120.md",
+   "section": "815-120",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-10.md",
+   "section": "820-10",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-120.md",
+   "section": "820-120",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-185.md",
+   "section": "820-185",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-225.md",
+   "section": "820-225",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-330.md",
+   "section": "820-330",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-420.md",
+   "section": "820-420",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-430.md",
+   "section": "820-430",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-435.md",
+   "section": "820-435",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-60.md",
+   "section": "820-60",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-85.md",
+   "section": "820-85",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-855.md",
+   "section": "820-855",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 1,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-860.md",
+   "section": "820-860",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-905.md",
+   "section": "820-905",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-820/820-930.md",
+   "section": "820-930",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-830/830-100.md",
+   "section": "830-100",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-830/830-90.md",
+   "section": "830-90",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-832/832-615.md",
+   "section": "832-615",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-842/842-105.md",
+   "section": "842-105",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-842/842-250.md",
+   "section": "842-250",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-4-5/division-855/855-30.md",
+   "section": "855-30",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-5-30/division-900/900-10.md",
+   "section": "900-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-5-30/division-900/900-12.md",
+   "section": "900-12",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-120.md",
+   "section": "960-120",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-130.md",
+   "section": "960-130",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-190.md",
+   "section": "960-190",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-265.md",
+   "section": "960-265",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-285.md",
+   "section": "960-285",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-50.md",
+   "section": "960-50",
+   "dup_headers": 9,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-60.md",
+   "section": "960-60",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-65.md",
+   "section": "960-65",
+   "dup_headers": 4,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-80.md",
+   "section": "960-80",
+   "dup_headers": 6,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-85.md",
+   "section": "960-85",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "itaa-1997/sections/part-6-1/division-960/960-90.md",
+   "section": "960-90",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "itaa-1997/sections/part-6-5/division-995/995-1.md",
+   "section": "995-1",
+   "dup_headers": 5,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "sis-1993/sections/part-1/division-1/6.md",
+   "section": "6",
+   "dup_headers": 12,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 3,
+   "dup_intro": 2
+  },
+  {
+   "path": "sis-1993/sections/part-16/division-1a/128L.md",
+   "section": "128L",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "sis-1993/sections/part-20/division-3/166.md",
+   "section": "166",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "sis-1993/sections/part-32/division-unknown/381.md",
+   "section": "381",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "sis-1993/sections/part-8/division-3/82.md",
+   "section": "82",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "spec/sections/feature-panels.md",
+   "section": "11",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "spec/sections/known-deviations-from-spec.md",
+   "section": "12",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-iia/division-unknown/8AAB.md",
+   "section": "8AAB",
+   "dup_headers": 8,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-iia/division-unknown/8AAD.md",
+   "section": "8AAD",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-iii/division-2/8W.md",
+   "section": "8W",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-10/10-5.md",
+   "section": "10-5",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-110/110-50.md",
+   "section": "110-50",
+   "dup_headers": 5,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-111/111-50.md",
+   "section": "111-50",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-112/112-50.md",
+   "section": "112-50",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-12/12-5.md",
+   "section": "12-5",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-128/128-15.md",
+   "section": "128-15",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-128/128-25.md",
+   "section": "128-25",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-13/13-5.md",
+   "section": "13-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-131/131-10.md",
+   "section": "131-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-131/131-80.md",
+   "section": "131-80",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-135/135-10.md",
+   "section": "135-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-138/138-40.md",
+   "section": "138-40",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-14/14-205.md",
+   "section": "14-205",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-155/155-15.md",
+   "section": "155-15",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-155/155-20.md",
+   "section": "155-20",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-16/16-75.md",
+   "section": "16-75",
+   "dup_headers": 2,
+   "broken_bold": 1,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-250/250-10.md",
+   "section": "250-10",
+   "dup_headers": 12,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 2
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-260/260-45.md",
+   "section": "260-45",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-260/260-75.md",
+   "section": "260-75",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-268/268-40.md",
+   "section": "268-40",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-268/268-45.md",
+   "section": "268-45",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-268/268-90.md",
+   "section": "268-90",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-269/269-10.md",
+   "section": "269-10",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-269/269-30.md",
+   "section": "269-30",
+   "dup_headers": 4,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-284/284-150.md",
+   "section": "284-150",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-284/284-160.md",
+   "section": "284-160",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-284/284-80.md",
+   "section": "284-80",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-284/284-90.md",
+   "section": "284-90",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-288/288-115.md",
+   "section": "288-115",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-288/288-80.md",
+   "section": "288-80",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-340/340-10.md",
+   "section": "340-10",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-340/340-5.md",
+   "section": "340-5",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-350/350-10.md",
+   "section": "350-10",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-355/355-175.md",
+   "section": "355-175",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-355/355-50.md",
+   "section": "355-50",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-355/355-55.md",
+   "section": "355-55",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-355/355-65.md",
+   "section": "355-65",
+   "dup_headers": 23,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 5
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-355/355-70.md",
+   "section": "355-70",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-357/357-75.md",
+   "section": "357-75",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-359/359-50.md",
+   "section": "359-50",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-362/362-50.md",
+   "section": "362-50",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-389/389-15.md",
+   "section": "389-15",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-389/389-30.md",
+   "section": "389-30",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-389/389-5.md",
+   "section": "389-5",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-396/396-55.md",
+   "section": "396-55",
+   "dup_headers": 4,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-446/446-5.md",
+   "section": "446-5",
+   "dup_headers": 3,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-45/45-230.md",
+   "section": "45-230",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-45/45-232.md",
+   "section": "45-232",
+   "dup_headers": 7,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-45/45-400.md",
+   "section": "45-400",
+   "dup_headers": 0,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-45/45-402.md",
+   "section": "45-402",
+   "dup_headers": 4,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-45/45-610.md",
+   "section": "45-610",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-45/45-910.md",
+   "section": "45-910",
+   "dup_headers": 2,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 1
+  },
+  {
+   "path": "taa-1953/sections/part-schedule1/division-45/45-935.md",
+   "section": "45-935",
+   "dup_headers": 1,
+   "broken_bold": 0,
+   "blockquote_in_table": 0,
+   "col_bleed": 0,
+   "dup_intro": 0
+  }
+ ]
+}
