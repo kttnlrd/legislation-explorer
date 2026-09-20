@@ -27822,6 +27822,11 @@
               "title": "Application of Division",
               "sections": [
                 {
+                  "id": "900-5",
+                  "title": "Application of the requirements of Division 900",
+                  "path": "part-5-30/division-900/900-5.md"
+                },
+                {
                   "id": "900-10",
                   "title": "Substantiation requirement",
                   "path": "part-5-30/division-900/900-10.md"
