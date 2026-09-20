@@ -56,3 +56,6 @@ scripts/_tmp_*.py
 /scan_output.txt
 /test_script.py
 *.bak-*
+
+# generated pipeline output (the NZ guide build writes here)
+pipeline/output/
