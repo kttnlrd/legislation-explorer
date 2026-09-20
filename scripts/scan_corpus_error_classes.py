@@ -430,6 +430,59 @@ def scan_duplicate_anchors():
                     f"{len(dupes)} duplicated anchor id(s): {','.join(dupes[:6])}")
 
 
+# ── C14 (CDN-0193): formula structure lost - every term present, nothing relating them ──
+# Drawn operators (x, -, +, division) are set in subsetted Symbol fonts whose ToUnicode maps them to
+# a plain space, so a re-ingested formula keeps the terms and loses the structure between them:
+#
+#     ```ingest-formula source=vol08.pdf page=160
+#     Owned deductions + Acquired deductions        *Corporate tax rate     <- the x is gone
+#     ```
+#
+# A fence whose lines carry a fraction rule is NOT a finding: the rule IS the structure (numerator
+# over denominator) and it survives extraction. What is reported is a fence with no operator and no
+# rule anywhere - the formula a reader cannot reconstruct. The fence marker names its own source page,
+# so every finding is locatable, unlike the gate-derived operator worklist.
+#
+# Measured 2026-09-19: 963 suspect lines across 173 ITAA sections and 201 distinct source pages. This
+# is the real size of the drawn-operator problem; the 67 positions in /tmp/operator-worklist.json were
+# a small gate-derived subset whose characters the gate had wrong.
+FORMULA_FENCE = re.compile(r"```ingest-formula source=(\S+) page=(\d+)")
+_FORMULA_OPS = "+\u2212\u00d7\u00f7="
+_FRACTION_RULE = re.compile(r"_{4,}")
+
+
+def scan_lost_formula_structure():
+    for act_dir in DATA.iterdir():
+        sec_dir = act_dir / "sections"
+        if not sec_dir.is_dir():
+            continue
+        for p in sorted(sec_dir.rglob("*.md")):
+            lines = p.read_text(errors="replace").splitlines()
+            i = 0
+            while i < len(lines):
+                m = FORMULA_FENCE.match(lines[i])
+                if not m:
+                    i += 1
+                    continue
+                body, j = [], i + 1
+                while j < len(lines) and not lines[j].startswith("```"):
+                    body.append(lines[j])
+                    j += 1
+                text = " ".join(body)
+                has_op = any(o in text for o in _FORMULA_OPS)
+                has_rule = bool(_FRACTION_RULE.search(text))
+                meaningful = [b for b in body if b.strip() and not b.strip().startswith("---")]
+                if meaningful and not has_op and not has_rule:
+                    add("C14_formula_structure", str(p.relative_to(DATA)),
+                        f"line {i + 1}: {m.group(1)} p{m.group(2)} - {len(meaningful)} term line(s), "
+                        f"no operator and no fraction rule: {meaningful[0].strip()[:70]}")
+                elif meaningful and has_rule and not has_op:
+                    add("C14_fraction_rule", str(p.relative_to(DATA)),
+                        f"line {i + 1}: {m.group(1)} p{m.group(2)} - fraction rule present "
+                        f"({len(meaningful)} line(s))")
+                i = j
+
+
 # ── C7 (CDN-0124): chapeau dropped — section body missing opening paragraph ──
 # If the first body paragraph after frontmatter starts with a subsection marker
 # or is empty → chapeau likely dropped.
@@ -599,6 +652,7 @@ def main():
     scan_table_coherence()
     scan_missing_heading()
     scan_duplicate_anchors()
+    scan_lost_formula_structure()
 
     # summarize
     by_class = Counter(f["class"] for f in findings)

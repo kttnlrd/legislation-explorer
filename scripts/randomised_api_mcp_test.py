@@ -339,7 +339,8 @@ _spec = importlib.util.spec_from_file_location(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), "scan_corpus_error_classes.py"))
 sc = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(sc)
-for _fn in ["scan_compilation_no", "scan_empty_tree_nodes", "scan_tree_titles",
+for _fn in ["scan_lost_formula_structure",
+            "scan_compilation_no", "scan_empty_tree_nodes", "scan_tree_titles",
             "scan_asterisk_noise", "scan_section_fragments", "scan_stray_cut_tokens",
             "scan_chapeau", "scan_formatting_artifacts", "scan_definitions",
             "scan_case_citations", "scan_body_fragments", "scan_table_coherence",
@@ -349,7 +350,7 @@ _by_class = {}
 for _f in sc.findings:
     _by_class.setdefault(_f["class"], []).append(_f)
 # Shapes a detector reports separately because they are measured to be correct, not damage.
-_BENIGN_CLASSES = {"C11_table_rowwrap", "C11_table_header_split"}
+_BENIGN_CLASSES = {"C11_table_rowwrap", "C11_table_header_split", "C14_fraction_rule"}
 _skips = 0
 for _cls, _items in sorted(_by_class.items()):
     _first = _items[0]
