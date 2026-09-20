@@ -438,8 +438,106 @@ def r6_multi_unit(parsed: dict, band: dict) -> dict:
 
 
 # ── driver ──────────────────────────────────────────────────────────────────
+# ── page-verified operator credit ────────────────────────────────────────────
+# An operator set in a Symbol subset whose ToUnicode maps it to a space leaves no token behind: the
+# page shows "Assessable income = Deductions", the text layer yields a gap, so writing the '=' was
+# called an invention by R2 while R1 could not demand it either.  The resolver reads such a glyph off
+# the section's OWN pages - glyph name inside its own embedded subset, bounded to the fence's y-band
+# on that page - and the proposal records, per line, exactly which characters it placed and which
+# glyph justifies each.  That evidence is folded into the band's tokens here, so:
+#
+#   * R2 permits a character only where a page-derived glyph justifies it, ONE OCCURRENCE AT A TIME:
+#     writing two multiplication signs where the page draws one is still rejected;
+#   * R1 now DEMANDS the character, so the printed gap stops being quietly acceptable;
+#   * a character the tokeniser erases is never credited - norm_tokens('*') is empty, so no output
+#     could satisfy the demand and the credit could never be spent.
+#
+# Keyed by SECTION, never by (font family, glyph id): glyph ids are per-volume ordinals into a
+# subsetted font, so id 0x2B is a different character in a different volume.  An earlier attempt
+# keyed a table that way and was reverted.
+OPERATOR_EVIDENCE: dict[tuple[str, int], Counter] = {}
+EVIDENCE_REFUSED: list[dict] = []
+
+
+def load_operator_evidence(path: Path) -> dict[tuple[str, int], Counter]:
+    """Per-section, per-page operator credit from a resolver proposal.
+
+    Keyed by (section, page) because the credit has to reach the PAGE's token set as well as the
+    section's: a formula fence is a preserved region, and R4/R6 validate every region token against
+    the page it declares - so a credited operator missing from per_page fails those gates even
+    though the band as a whole knows about it.
+
+    Credited as TOKENS (through norm_tokens), not raw characters, so the credit is in the same
+    normal form as the comparison: norm_tokens('´') is [\"'\"], and crediting the acute accent as
+    itself would never match the output.
+    """
+    doc = json.loads(Path(path).read_text(encoding="utf-8"))
+    ev: dict[tuple[str, int], Counter] = {}
+    refused: list[dict] = []
+    for fence in doc.get("fences", []):
+        if fence.get("status") != "change-needed":
+            continue
+        section, page = fence.get("section"), fence.get("page")
+        page_glyphs = {(g.get("glyph_name"), g.get("char"))
+                       for g in fence.get("glyphs", []) if g.get("kind") == "operator"}
+        for line in fence.get("lines", []):
+            for ins in line.get("insertions", []):
+                if ins.get("skipped") or ins.get("kind") != "operator":
+                    continue
+                ch, name = ins.get("char"), ins.get("glyph_name")
+                if not ch:
+                    continue
+                if (name, ch) not in page_glyphs:
+                    refused.append({"section": section, "page": page, "char": ch, "glyph": name,
+                                    "why": "no page-verified glyph in this fence justifies it"})
+                    continue
+                toks = norm_tokens(ch)
+                if not toks:
+                    refused.append({"section": section, "page": page, "char": ch, "glyph": name,
+                                    "why": "the tokeniser erases this character, so no output can "
+                                           "satisfy a demand for it"})
+                    continue
+                bucket = ev.setdefault((section, page), Counter())
+                for t in toks:
+                    bucket[t] += 1
+    OPERATOR_EVIDENCE.clear()
+    OPERATOR_EVIDENCE.update(ev)
+    EVIDENCE_REFUSED.clear()
+    EVIDENCE_REFUSED.extend(refused)
+    return ev
+
+
+def credit_for(section: str) -> tuple[Counter, dict[int, Counter]]:
+    """(section-wide credit, per-page credit) for one section."""
+    total: Counter = Counter()
+    per_page: dict[int, Counter] = {}
+    for (sec, page), c in OPERATOR_EVIDENCE.items():
+        if sec != section:
+            continue
+        total.update(c)
+        per_page.setdefault(page, Counter()).update(c)
+    return total, per_page
+
+
+def band_with_credit(band: dict, section: str) -> dict:
+    """The band, its page token sets, plus the operators a page-derived glyph justifies here."""
+    total, per_page = credit_for(section)
+    if not total:
+        return band
+    out = dict(band)
+    out["tokens"] = Counter(band["tokens"]) + total
+    new_pages = dict(band.get("per_page") or {})
+    for page, c in per_page.items():
+        if page in new_pages:
+            new_pages[page] = Counter(new_pages[page]) + c
+    out["per_page"] = new_pages
+    out["operator_credit"] = dict(total)
+    return out
+
+
 def gate_ingested(act: str, section: str, ingested_text: str, band: dict,
                   relpath: str | None = None) -> dict:
+    band = band_with_credit(band, section)
     parsed = parse_output(ingested_text)
     got = output_tokens(parsed)
     gates = {
@@ -457,6 +555,7 @@ def gate_ingested(act: str, section: str, ingested_text: str, band: dict,
         # a preserved region is proven-complete text of unproven structure
         "needs_review": bool(parsed["regions"]) if ok else None,
         "frontmatter": parsed["frontmatter"],
+        "operator_credit": band.get("operator_credit", {}),
         "gates": gates,
     }
 
@@ -543,6 +642,58 @@ def selfcheck() -> int:
     bad += not ok
     print(f"  {'ok  ' if ok else 'FAIL'} {'clean no-region':18s} -> {rep['verdict']} "
           f"needs_review={rep['needs_review']}")
+    # ── page-verified operator credit ────────────────────────────────────────
+    # The band has no '×'.  Credit exactly one, from a glyph read off the page, and prove the credit
+    # is bounded in BOTH directions: it can be spent once, it must be spent, and it cannot be
+    # overdrawn.  A credit that only ever permitted things would be a check that cannot fail.
+    print("  -- operator credit --")
+    saved = dict(OPERATOR_EVIDENCE)
+    OPERATOR_EVIDENCE.clear()
+    OPERATOR_EVIDENCE[("6-1", 1)] = Counter({"×": 1})         # one drawn multiplication glyph, p1
+    band_nox = dict(band)
+    band_nox["tokens"] = Counter({t: n for t, n in band["tokens"].items() if t != "×"})
+    band_nox["per_page"] = {1: band_nox["tokens"]}
+    # '×' is ADDED to the fence body; the band's own '´' demand must stay satisfied, because
+    # norm_tokens('´') is ["'"] - replacing it instead of adding would fail R1 for the wrong reason.
+    for name, text, want, gate in (
+        ("credit spent once",     good.replace("alpha ´ beta", "alpha ´ × beta"),   "ACCEPTED", None),
+        ("credit unspent (R1)",   good,                                            "REJECTED", "R1_pdf_token_recall"),
+        ("credit overdrawn (R2)", good.replace("alpha ´ beta", "alpha ´ × × beta"), "REJECTED", "R2_no_invention"),
+    ):
+        rep = gate_ingested("selfcheck", "6-1", text, band_nox)
+        ok = rep["verdict"] == want and (gate is None or not rep["gates"][gate]["pass"])
+        bad += not ok
+        print(f"  {'ok  ' if ok else 'FAIL'} {name:20s} -> {rep['verdict']}"
+              + ("" if ok else "  " + "; ".join(
+                  f"{k}={g['pass']}:{g['reason'][:60]}" for k, g in rep["gates"].items())))
+    OPERATOR_EVIDENCE.clear()
+    OPERATOR_EVIDENCE.update(saved)
+
+    # the loader's own refusals: an unjustified glyph, and a character no output could satisfy
+    import tempfile
+    with tempfile.TemporaryDirectory() as td:
+        p = Path(td) / "proposal.json"
+        p.write_text(json.dumps({"fences": [{
+            "section": "9-9", "page": 1, "status": "change-needed",
+            "glyphs": [{"glyph_name": "uniF0B4", "char": "×", "kind": "operator"},
+                       {"glyph_name": "uniF02A", "char": "*", "kind": "operator"}],
+            "lines": [{"insertions": [
+                {"char": "×", "glyph_name": "uniF0B4", "kind": "operator", "skipped": False},
+                {"char": "×", "glyph_name": "uniF999", "kind": "operator", "skipped": False},
+                {"char": "*", "glyph_name": "uniF02A", "kind": "operator", "skipped": False},
+                {"char": "×", "glyph_name": "uniF0B4", "kind": "operator", "skipped": True},
+            ]}]}]}), encoding="utf-8")
+        ev = load_operator_evidence(p)
+        got = ev.get(("9-9", 1), Counter())
+        ok = (got == Counter({"×": 1}) and len(EVIDENCE_REFUSED) == 2
+              and any(r["char"] == "*" and "eras" in r["why"] for r in EVIDENCE_REFUSED)
+              and any(r["char"] == "×" and "justif" in r["why"] for r in EVIDENCE_REFUSED))
+        bad += not ok
+        print(f"  {'ok  ' if ok else 'FAIL'} {'loader refusals':20s} -> credited={dict(got)} "
+              f"refused={[(r['char'], r['why'][:22]) for r in EVIDENCE_REFUSED]}")
+    OPERATOR_EVIDENCE.clear()
+    OPERATOR_EVIDENCE.update(saved)
+
     print("selfcheck:", "PASS" if not bad else f"{bad} FAILURES")
     return 1 if bad else 0
 
@@ -560,7 +711,19 @@ def main() -> int:
     ap.add_argument("--sections", help="batch: comma-separated subset")
     ap.add_argument("--pdf", required=True, type=Path)
     ap.add_argument("--json", type=Path)
+    ap.add_argument("--operator-evidence", type=Path,
+                    help="a resolver proposal.json whose page-verified operators are credited, "
+                         "per section and per page, so R1 demands them and R2 permits exactly the "
+                         "occurrences the page shows")
     a = ap.parse_args()
+
+    if a.operator_evidence:
+        ev = load_operator_evidence(a.operator_evidence)
+        total = sum(sum(c.values()) for c in ev.values())
+        print(f"operator credit: {total} operator token(s) across "
+              f"{len({s for s, _p in ev})} section(s), from {a.operator_evidence.name}")
+        for r in EVIDENCE_REFUSED:
+            print(f"  refused {r['char']!r} in {r['section']} p{r['page']}: {r['why']}")
 
     jobs: list[tuple[str, Path]] = []
     if a.ingested_root:
