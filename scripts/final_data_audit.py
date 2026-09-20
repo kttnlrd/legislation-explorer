@@ -6,8 +6,9 @@ Phases:
   2. LAYER+CONTENT  — randomised_api_mcp_test.py (API -> MCP -> full-corpus
                       content scan; new date seed each run)
   3. PROD SUITE     — test_prod_v270.py (52 functional API checks)
+  4. DETECTOR TESTS — scripts/test_*.py pinned self-tests for the corpus checks
 
-Exit 0 only if ALL three pass. Findings sync to CDN tickets via phase 2.
+Exit 0 only if ALL four phases pass. Findings sync to CDN tickets via phase 2.
 """
 import os, random, re, subprocess, sys
 from datetime import date
@@ -40,7 +41,7 @@ results = []
 p1 = run([PY, "scripts/verify_data_integrity.py"])
 pass1 = "RESULT: PASS" in p1.stdout
 ok = ok and pass1
-results.append(f"[1/3] INTEGRITY     : {'PASS' if pass1 else f'FAIL ({why(p1)})'}")
+results.append(f"[1/4] INTEGRITY     : {'PASS' if pass1 else f'FAIL ({why(p1)})'}")
 
 # ── Phase 2: layer + content (random seed each run; reproducible via --seed N) ──
 seed = random.SystemRandom().randrange(10_000_000, 99_999_999)
@@ -53,7 +54,7 @@ if m2 and p2.returncode == 0:
 else:
     phase2 = f"(seed={seed}) RUN FAILED (exit {p2.returncode}: {why(p2)})"
     ok = False
-results.append(f"[2/3] LAYER+CONTENT : {phase2}")
+results.append(f"[2/4] LAYER+CONTENT : {phase2}")
 
 # ── Phase 3: prod suite ──
 p3 = run([PY, "backend/tests/test_prod_v270.py"])
@@ -63,10 +64,26 @@ if m3:
     passed = int(m3.group(1))
     failed = int(m3f.group(1)) if m3f else 0
     ok = ok and failed == 0
-    results.append(f"[3/3] PROD SUITE    : {passed}/{passed + failed} passed")
+    results.append(f"[3/4] PROD SUITE    : {passed}/{passed + failed} passed")
 else:
     ok = False
-    results.append(f"[3/3] PROD SUITE    : RUN FAILED (exit {p3.returncode}: {why(p3)})")
+    results.append(f"[3/4] PROD SUITE    : RUN FAILED (exit {p3.returncode}: {why(p3)})")
+
+# ── Phase 4: pinned detector self-tests ──
+# A corpus check that was corrected to skip an act's convention can stop firing on the very damage
+# it was written for: C6 reported 15 legitimate guide headings as cut remnants and never caught a
+# real one. Each such correction ships a self-test asserting BOTH directions, and running them here
+# is what stops them rotting into decoration. A detector that no longer fires must fail the audit.
+import pathlib as _pl
+det_tests = sorted(_pl.Path(ROOT, "scripts").glob("test_*.py"))
+det_fail = []
+for t in det_tests:
+    rt = run([PY, str(t.relative_to(ROOT))])
+    if rt.returncode != 0:
+        det_fail.append(f"{t.name} ({why(rt)})")
+ok = ok and not det_fail
+results.append(f"[4/4] DETECTOR TESTS: {len(det_tests) - len(det_fail)}/{len(det_tests)} passed"
+               + (f" | FAILED: {', '.join(det_fail)}" if det_fail else ""))
 
 print("═══ FINAL DATA AUDIT ═══")
 for r in results:

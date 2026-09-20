@@ -284,21 +284,79 @@ def scan_table_coherence():
 
 
 # ── C6 (CDN-0081): stray trailing token at cut point (e.g. "payments") ──────
-# In tree titles or section H1: title that is a single fragment word repeated.
+# A cut remnant duplicates the END of a heading: the title was severed at the cut point and the
+# trailing token was stranded on the next line as its own two-word-at-most heading. It does NOT
+# duplicate the START of the heading.
+#
+# Every finding this class produced (15, all in nz-master-tax-guide) was one legitimate shape: H1 is
+# the heading as printed carrying its paragraph number ("Fishing gear and quotas ¶27-371") and H2 is
+# the short topic heading the guide prints beneath it ("Fishing gear"). The H2 repeats the START of
+# H1 - the topic - which is the act's own convention, so the check was reporting the guide's layout
+# as damage while never seeing the shape it was written for.
+#
+# Fixed on 2026-09-19: a finding requires the repeated token to be the TRAILING token of H1. Acts
+# whose headings carry paragraph references are reported by name and skipped, so the correction
+# cannot silently become a check that cannot fire - the pinned self-test in
+# scripts/test_c6_cut_token.py fails if the CDN-0081 shape stops being caught.
+PARA_REF = re.compile(r"\s*¶\s*\d{1,3}-\d{1,4}\s*$")
+_WORD_EDGE = "*_.,;:()[]'\""
+
+
+def cut_token_shape(h1: str, h2: str) -> str:
+    """Classify an H1/H2 pair: 'cut' (CDN-0081), 'convention' (legitimate), or 'none'.
+
+    Split out from the scanner so the pinned self-test exercises the same code path the corpus
+    scan uses, rather than a copy of it that can drift.
+    """
+    core = PARA_REF.sub("", h1)
+    t1 = [w.lower().strip(_WORD_EDGE) for w in core.split() if w.strip()]
+    t2 = [w.lower().strip(_WORD_EDGE) for w in h2.split() if w.strip()]
+    if not t1 or not t2 or len(t2) > 2:
+        return "none"
+    shares = any(
+        len(w1) >= 3 and len(w2) >= 3 and (w1.startswith(w2[:5]) or w2.startswith(w1[:5]))
+        for w1 in t1 for w2 in t2
+    )
+    # The paragraph reference is what distinguishes the two conventions, not where the shared word
+    # sits. A guide heading carries "¶NN-NNN" and is followed by a short topic heading restating
+    # part of it - at the front ("Fishing gear and quotas" / "Fishing gear"), at the back
+    # ("Introduction to tax credits" / "Credits"), or as a shared stem ("Tax rates for trusts" /
+    # "Trustee income"). A cut remnant of the same shape is indistinguishable from it, so an act
+    # using this convention is skipped by name rather than guessed either way.
+    if PARA_REF.search(h1):
+        return "convention" if shares else "none"
+    trailing = len(t1[-1]) >= 3 and t1[-1].startswith(t2[0][:5]) and t2[0][:5] in t1[-1]
+    leading = len(t1[0]) >= 3 and t1[0].startswith(t2[0][:5]) and t2[0][:5] in t1[0]
+    if trailing and not leading:
+        return "cut"                      # heading severed, trailing token stranded
+    if leading and trailing and len(t1) == 1:
+        return "cut"                      # the same single token repeated
+    return "none"
+
+
 def scan_stray_cut_tokens():
     for act_dir in DATA.iterdir():
         sec_dir = act_dir / "sections"
         if not sec_dir.is_dir():
             continue
+        convention = 0
         for p in sorted(sec_dir.rglob("*.md")):
             text = p.read_text(errors="replace")
-            # H1 then immediately a very short H2 identical-ish (cut artifact)
+            # H1 then immediately a short H2 - the shape a cut point leaves behind
             m = re.search(r"^# (.+)\n\n## (.+)$", text, re.M)
-            if m:
-                h1, h2 = m.group(1).strip(), m.group(2).strip()
-                if h2.lower().startswith(h1.lower().split()[0][:5]) and len(h2.split()) <= 2:
-                    add("C6_cut_token", str(p.relative_to(DATA)),
-                        f"H1={h1!r} H2={h2!r} looks like cut remnant")
+            if not m:
+                continue
+            h1, h2 = m.group(1).strip(), m.group(2).strip()
+            shape = cut_token_shape(h1, h2)
+            if shape == "cut":
+                add("C6_cut_token", str(p.relative_to(DATA)),
+                    f"H1={h1!r} H2={h2!r} trailing token repeated - cut remnant")
+            elif shape == "convention":
+                convention += 1
+        if convention:
+            add("C6_cut_token:CONVENTION", f"data/{act_dir.name}/sections",
+                f"{convention} H1+H2 pairs are the act's own heading/topic-heading convention "
+                f"(H1 carries a ¶ reference, H2 repeats its opening words) - skipped, not a pass")
 
 
 # ── C7 (CDN-0124): chapeau dropped — section body missing opening paragraph ──
