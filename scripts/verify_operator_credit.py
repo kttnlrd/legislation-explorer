@@ -1,63 +1,42 @@
 #!/usr/bin/env python3.12
-"""Prove the operator credit works on REAL corpus sections, before anything is written.
+"""Prove the operator credit on REAL corpus sections, in-process, before anything is written.
 
-For each chosen section it builds the proposal's text into a scratch directory (never the corpus)
-and runs the gate three ways:
+For every section with a change-needed fence it builds the proposal's text into a scratch directory
+(never the corpus) and gates it three ways:
 
   A. proposed text + evidence   -> must be ACCEPTED   (the credit is spendable)
-  B. proposed text, no evidence -> must be REJECTED   (R2: the operator is an invention)
+  B. proposed text, no evidence -> must be REJECTED   (R2: the operator would be an invention)
   C. current text  + evidence   -> must be REJECTED   (R1: the page demands the operator)
 
-If A is not ACCEPTED the proposal is not applicable; if B or C is ACCEPTED the credit proves
-nothing, because either the operator was never needed or a gap is silently tolerated.
+If A is not ACCEPTED the proposal is not applicable to that section.  If B or C is ACCEPTED the
+credit proves nothing about it - either the operator was never missing, or a gap is being tolerated.
+
+The bands are opened through the gate's own cached index, so each volume is parsed once instead of
+once per invocation: same verdicts, minutes instead of hours.
 """
 from __future__ import annotations
 
 import json
 import shutil
-import subprocess
 import sys
 from pathlib import Path
 
 ROOT = Path("/home/harrison/legislation-explorer")
-PROPOSAL = Path("/tmp/opres2/proposal.json")
 SCRATCH = Path("/tmp/gate-test")
+PROPOSAL = Path("/tmp/opres2/proposal.json")
+sys.path.insert(0, str(ROOT / "scripts"))
+
+import ingest_reingest_gate as G  # noqa: E402
 
 
-def build(section: str, fences: list[dict]) -> tuple[Path, str]:
-    """Write the section's markdown with the proposal's lines applied; return (path, act)."""
-    src = Path(fences[0]["file"])
-    if not src.is_absolute():
-        src = ROOT / src
-    act = src.parts[src.parts.index("data") + 1]
-    lines = src.read_text(encoding="utf-8").splitlines(keepends=True)
-    applied = 0
-    for fence in fences:
-        for ln in fence.get("lines", []):
-            if ln.get("status") != "change-needed" or ln.get("proposed") == ln.get("current"):
-                continue
-            cur, prop = ln["current"], ln["proposed"]
-            for i, line in enumerate(lines):
-                if line.rstrip("\n") == cur:
-                    lines[i] = prop + "\n"
-                    applied += 1
-                    break
-    out = SCRATCH / act / f"{section}.md"
-    out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text("".join(lines), encoding="utf-8")
-    return out, act
-
-
-def gate(act: str, section: str, ingested: Path, pdf: Path, evidence: Path | None) -> tuple[str, str]:
-    cmd = ["/usr/bin/python3.12", str(ROOT / "scripts" / "ingest_reingest_gate.py"),
-           "--act", act, "--section", section, "--ingested", str(ingested), "--pdf", str(pdf)]
-    if evidence:
-        cmd += ["--operator-evidence", str(evidence)]
-    p = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT, timeout=900)
-    out = p.stdout + p.stderr
-    verdict = "ACCEPTED" if "ACCEPTED" in out and "REJECTED" not in out else "REJECTED"
-    failed = [l.strip() for l in out.splitlines() if "REJECTED" in l or "[FAIL" in l or " FAIL" in l]
-    return verdict, (failed[0][:130] if failed else out.strip().splitlines()[-1][:130] if out.strip() else "")
+def resolve_pdf(act: str, source: str) -> Path | None:
+    nn = source[3:5] if source.startswith("vol") else ""
+    for cand in (Path("/home/harrison/legislation-explorer-staging/data") / act / "raw" / "comp266" / source,
+                 ROOT / "source" / act / source,
+                 ROOT / "source" / act / f"C2026C00122VOL{nn}.pdf"):
+        if cand.exists():
+            return cand
+    return None
 
 
 def main() -> int:
@@ -69,38 +48,72 @@ def main() -> int:
         if f.get("status") == "change-needed":
             by_section.setdefault(f["section"], []).append(f)
 
-    wanted = sys.argv[1:] or ["4-15", "83-170", "705-115"]
-    bad = 0
-    for section in wanted:
-        fences = by_section.get(section)
-        if not fences:
-            print(f"  [SKIP] {section}: no change-needed fence in the proposal")
+    only = set(sys.argv[1:]) or None
+    results: list[dict] = []
+    for section, fences in sorted(by_section.items()):
+        if only and section not in only:
             continue
-        pdf = ROOT / "source" / fences[0]["file"].split("/")[1] / fences[0]["source"]
-        if not pdf.exists():
-            print(f"  [SKIP] {section}: no pdf at {pdf}")
+        src = Path(fences[0]["file"])
+        if not src.is_absolute():
+            src = ROOT / src
+        act = src.parts[src.parts.index("data") + 1]
+        pdf = resolve_pdf(act, fences[0]["source"])
+        if pdf is None:
+            results.append({"section": section, "status": "no-pdf"})
+            print(f"  [SKIP] {act} {section}: {fences[0]['source']} not found")
             continue
-        proposed, act = build(section, fences)
-        current = Path(fences[0]["file"])
-        if not current.is_absolute():
-            current = ROOT / current
-        chars = sorted({g["char"] for f in fences for g in f.get("glyphs", [])
-                        if g.get("kind") == "operator"})
-        print(f"== {act} {section}  (operators: {' '.join(chars)})  pdf={pdf.name}")
 
-        vA, rA = gate(act, section, proposed, pdf, PROPOSAL)
-        vB, rB = gate(act, section, proposed, pdf, None)
-        vC, rC = gate(act, section, current, pdf, PROPOSAL)
-        ok = vA == "ACCEPTED" and vB == "REJECTED" and vC == "REJECTED"
-        bad += not ok
-        for tag, v, r in (("A proposed + evidence ", vA, rA),
-                          ("B proposed, no evidence", vB, rB),
-                          ("C current  + evidence ", vC, rC)):
-            print(f"   {'ok  ' if True else ''}{tag} -> {v}  {r}")
-        print(f"   {'PASS' if ok else 'FAIL: the credit is not proven for this section'}")
+        current_text = src.read_text(encoding="utf-8")
+        lines = current_text.splitlines(keepends=True)
+        applied = 0
+        for fence in fences:
+            for ln in fence.get("lines", []):
+                if ln.get("status") != "change-needed" or ln.get("proposed") == ln.get("current"):
+                    continue
+                for i, line in enumerate(lines):
+                    if line.rstrip("\n") == ln["current"]:
+                        lines[i] = ln["proposed"] + "\n"
+                        applied += 1
+                        break
+        proposed_text = "".join(lines)
+        out = SCRATCH / act / f"{section}.md"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(proposed_text, encoding="utf-8")
+
+        _doc, band = G.open_band(pdf, section)
+        if band is None:
+            results.append({"section": section, "status": "not-located", "pdf": pdf.name})
+            print(f"  [SKIP] {act} {section}: not located in {pdf.name}")
+            continue
+
+        G.load_operator_evidence(PROPOSAL)                 # A and C: credited
+        repA = G.gate_ingested(act, section, proposed_text, band)
+        credited = dict(repA.get("operator_credit") or {})
+        G.OPERATOR_EVIDENCE.clear()                        # B: uncredited
+        repB = G.gate_ingested(act, section, proposed_text, band)
+        G.load_operator_evidence(PROPOSAL)                 # C
+        repC = G.gate_ingested(act, section, current_text, band)
+        G.OPERATOR_EVIDENCE.clear()
+
+        def fails(rep):
+            return [k for k, v in rep["gates"].items() if not v["pass"]]
+
+        rec = {"section": section, "act": act, "lines": applied, "credit": credited,
+               "A": repA["verdict"], "B": repB["verdict"], "C": repC["verdict"],
+               "failA": fails(repA), "failB": fails(repB), "failC": fails(repC)}
+        rec["ok"] = rec["A"] == "ACCEPTED" and rec["B"] == "REJECTED" and rec["C"] == "REJECTED"
+        results.append(rec)
+        print(f"  {'PASS' if rec['ok'] else 'FAIL'} {act} {section:10s} lines={applied} "
+              f"credit={credited} A={rec['A']} B={rec['B']} C={rec['C']}"
+              + ("" if rec["ok"] else f"  failA={rec['failA']} failB={rec['failB']} failC={rec['failC']}"))
+
+    outjson = Path("/tmp/apply-full/credit_verification.json")
+    outjson.write_text(json.dumps(results, indent=1))
+    ok = [r for r in results if r.get("ok")]
     print()
-    print("all sections proven" if not bad else f"{bad} section(s) not proven")
-    return 1 if bad else 0
+    print(f"{len(ok)}/{len(results)} sections proven  (A accepted, B rejected, C rejected)")
+    print(f"detail: {outjson}")
+    return 0 if len(ok) == len(results) else 1
 
 
 if __name__ == "__main__":
