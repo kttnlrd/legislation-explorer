@@ -479,12 +479,33 @@ def scan_duplicate_anchors():
 # is the real size of the drawn-operator problem; the 67 positions in /tmp/operator-worklist.json were
 # a small gate-derived subset whose characters the gate had wrong.
 FORMULA_FENCE = re.compile(r"```ingest-formula source=(\S+) page=(\d+)")
-_FORMULA_OPS = "+\u2212\u00d7\u00f7="
+# Operators that SURVIVE extraction, so their presence means the structure is not lost.
+# The en dash (U+2013) is the printed subtraction in these formulas and it does come through:
+# PDF-verified on the source pages named by the fences - 40-75 vol02 p49 prints "365 – 25" and
+# its fence contains the en dash, 104-95 vol03 p228 prints "$5,000 – $4,500" likewise. Adding it
+# (2026-09-22) removed 15 of 80 findings that were reporting a formula whose only missing glyph
+# was the multiplication sign, i.e. they were counting a printed operator as an absent one.
+# DELIBERATELY NOT operators, though they occur in fences:
+#   '*'  the defined-term marker the Act prints on the first occurrence of a term (*All Groups,
+#        *exempt income) - 40 of the 80 findings contain one and none of them is arithmetic;
+#   '-'  an intra-word hyphen ("Write-off days in income year") - 23 of the 80;
+#   'x'  a letter inside a word ("expenditure", "tax") - 0 standalone occurrences corpus-wide.
+# This class is therefore a FLOOR on the drawn-operator problem, not a measurement: a fence that
+# kept its en dash and lost its multiplication sign is no longer reported. The restore workstream
+# reads operators off the page (scripts/apply_operator_proposal.py, OPERATORS = "×÷−–—+=-≤≥±<>,*")
+# rather than trusting a fence's surviving characters.
+_FORMULA_OPS = "+\u2212\u00d7\u00f7=\u2013\u2014"
 _FRACTION_RULE = re.compile(r"_{4,}")
 
 
-def scan_lost_formula_structure():
-    for act_dir in DATA.iterdir():
+def scan_lost_formula_structure(root=None):
+    """Formula fences with terms but nothing relating them.
+
+    `root` defaults to the live corpus (DATA), mirroring scan_asterisk_noise; the pinned
+    self-test points it at a scratch corpus so it can assert both directions.
+    """
+    base = Path(root) if root else DATA
+    for act_dir in base.iterdir():
         sec_dir = act_dir / "sections"
         if not sec_dir.is_dir():
             continue
@@ -505,11 +526,11 @@ def scan_lost_formula_structure():
                 has_rule = bool(_FRACTION_RULE.search(text))
                 meaningful = [b for b in body if b.strip() and not b.strip().startswith("---")]
                 if meaningful and not has_op and not has_rule:
-                    add("C14_formula_structure", str(p.relative_to(DATA)),
+                    add("C14_formula_structure", str(p.relative_to(base)),
                         f"line {i + 1}: {m.group(1)} p{m.group(2)} - {len(meaningful)} term line(s), "
                         f"no operator and no fraction rule: {meaningful[0].strip()[:70]}")
                 elif meaningful and has_rule and not has_op:
-                    add("C14_fraction_rule", str(p.relative_to(DATA)),
+                    add("C14_fraction_rule", str(p.relative_to(base)),
                         f"line {i + 1}: {m.group(1)} p{m.group(2)} - fraction rule present "
                         f"({len(meaningful)} line(s))")
                 i = j
