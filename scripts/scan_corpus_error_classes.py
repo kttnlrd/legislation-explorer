@@ -124,12 +124,44 @@ def scan_body_fragments():
 
 
 # ── C4 (CDN-0006/0049): asterisk footnote lines in section bodies ───────────
-def scan_asterisk_noise():
-    for p in sorted((DATA / "itaa-1997" / "sections").rglob("*.md")):
+# Two shapes are flagged, both of which only a broken extraction produces:
+#   (a) a line that is nothing but asterisks (2 or more) — genuine noise in every case;
+#   (b) a '*' line mentioning a footnote marker — a real PDF artifact shape that has no
+#       hits in the corpus today; kept as a live check, not decoration.
+#
+# RETIRED 2026-09-21 (CDN-0199): the third alternative, `\*+ *[A-Za-z]+\s*\*+`
+# (an emphasis-wrapped word). Measured over the live corpus: 18 findings, 18 false
+# positives. Every one was legitimate content — the Act's own emphasis subheadings
+# rendered as markdown emphasis on a line of their own (`**Defence**`, `*Exception*`,
+# `*Partner*`/`*Beneficiary*`/`*Trustee*`, `**Object**`, `*Application*`/`**List**`/
+# `*Objects*`), or defined-term asterisk markers INSIDE ```ingest-unclassified``` /
+# ```ingest-formula``` fences, where the text is literal and never markdown emphasis.
+# The shape it was written for — a stranded bold fragment left behind when a table cell
+# was split (`**and**` / `**expenditure**` in itaa-1997, fixed by hand on 2026-08-30 in
+# commit 620032e8b) — is STRUCTURALLY IDENTICAL to those subheadings and fence markers,
+# so no pattern can tell them apart. Stranded-marker noise stays covered by
+# C8_stray_bullet (`^[ \t]*[-*][ \t]*$` in ARTIFACT_PATS) and by (a) above.
+#
+# `^[ \t]*` rather than `^\s*` (both anchors): in re.M, `\s` matches the newline itself,
+# so a match could BEGIN on the preceding blank line and every reported line number came
+# out one too low (51-5.md reported "line 16" for text on line 17). These findings are
+# acted on by hand, so the number has to be the asterisk line's own.
+ASTERISK_LINE = re.compile(r"^[ \t]*\*{2,}\s*$|^[ \t]*\*[^*].*footnote", re.M)
+
+
+def scan_asterisk_noise(root=None):
+    """C4 asterisk noise in itaa-1997 section bodies.
+
+    `root` defaults to the live corpus (DATA), mirroring scan_missing_heading; a scratch
+    root is used by the pinned self-test. Finding paths are relative to whichever base was
+    scanned, so the default run still reports 'itaa-1997/sections/...' as it always has.
+    """
+    base = Path(root) if root else DATA
+    for p in sorted((base / "itaa-1997" / "sections").rglob("*.md")):
         text = p.read_text(errors="replace")
         for m in ASTERISK_LINE.finditer(text):
             line = text.count("\n", 0, m.start()) + 1
-            add("C4_asterisk_noise", str(p.relative_to(DATA)), f"line {line}: {m.group(0).strip()[:60]}")
+            add("C4_asterisk_noise", str(p.relative_to(base)), f"line {line}: {m.group(0).strip()[:60]}")
 
 
 # ── C5 (CDN-0045/0167): sentence fragments / mid-sentence cut at end of section ─
