@@ -1,0 +1,771 @@
+================================================================================
+MANAGING SECTIONS ACROSS NEW COMPILATIONS: A PROVISION-TOKEN REGISTRY
+Research consolidated 2026-09-22 | legislation-explorer corpus
+================================================================================
+
+WHAT THIS IS
+
+Desk research into how to manage ~20,000 statute provisions (one markdown file per
+provision, 9 Acts) so that a NEW COMPILATION of an Act produces an exact, auditable
+add/change/delete list instead of a full re-ingest plus hand repairs. Four research
+strands were run in parallel, each required to cite primary specifications rather
+than commentary:
+
+  1. How the legal-document markup standards identify a provision (Akoma Ntoso,
+     ELI, USLM) and what they say happens on renumbering, moving and repeal.
+  2. How two national legislation systems actually run point-in-time versions and
+     amendment tracking in production (legislation.gov.uk; Australian Federal
+     Register of Legislation), and what their public APIs expose.
+  3. The engineering mechanics of a content-addressed, incrementally updatable
+     store (git object model, canonicalise-before-hash, patience/histogram diff,
+     three-way merge, identity vs label) plus verifiable prior art.
+  4. Provenance and verification standards for derived datasets (PROV-O, SLSA,
+     reproducible builds, W3C DWBP, FAIR, Unicode normalisation), and what
+     evidence an auditor would need per provision.
+
+Every citation is to a primary source; the numbered list is at the end. Items I
+could not verify are marked so rather than smoothed over. Live checks I ran myself
+are marked [live]. Claims taken from a research strand are cited to that strand's
+source.
+
+================================================================================
+1. THE PROBLEM, PRECISELY (all figures live-verified)
+================================================================================
+
+The corpus cannot be reproduced from its own vendored sources:
+
+  - Vendored sources: source/itaa-1997/C2026C00122VOL01-12.pdf.
+  - The Federal Register says register ID C2026C00122 is ITAA 1997 **compilation
+    263**, start 2026-04-01, end 2026-05-21 [live, 30].
+  - Every section file, tree.json and rebuild.sh stamp compilation **266**.
+  - rebuild.sh §1b reads the compilation number off the PDF (never the filename)
+    and refuses the build: "STOP source is Compilation No. 263 but the build stamps
+    266". The repo's own guard is correct; nothing reconciled the two.
+
+Consequence: 26 provisions exist that the vendor's comp-263 PDFs never print (e.g.
+40-291A, served live at /api/section/itaa-1997/40-291A), and 15 headed provisions
+the PDFs do print are absent from the corpus (e.g. all of Subdivision 900-I,
+26-95, 28-180, 290-95, 900-35/40/45). So a rebuild would gain 15 and lose 26.
+
+The authoritative target is reachable and named:
+
+  compilation 266  registerId C2026C00324  start 2026-07-01  end 2026-08-27
+                   registered 2026-07-24  [live, 30-32]
+  compilation 265  registerId C2026C00242
+  compilation 264  registerId C2026C00218
+  compilation 263  registerId C2026C00122   <- our vendored PDFs
+
+and comp 266 carries a machine-readable change list: `reasons[]`, six entries, each
+naming the amending Act and the provisions that changed [live, 30-32]:
+
+  Amend  sch 1 (items 79-98)               by C2025A00057 Treasury Laws Amendment
+                                            (Payday Superannuation) Act 2025
+  Amend  sch 1 (items 1-6)                 by C2026A00058 Treasury Laws Amendment
+                                            (Delivering an Efficient/Trusted Tax System)
+  Amend  sch 4 (items 1-4)                 by C2026A00058
+  Amend  sch 8 (items 38-50)               by C2025A00017 Veterans' Entitlements...
+  Amend  sch 1 (items 1-51, 64-79A),       by C2026A00049 Treasury Laws Amendment
+         sch 3 (items 1-3), sch 4 (items 1-16)   (Tax Reform No. 1) Act 2026
+  Amend  sch 1 (items 54-59)               by C2026A00049
+
+Also live: the version in force from 2026-08-27 onward reports
+hasUnincorporatedAmendments = true, and comp 266's own record carries
+publishComments recording that sections 40-340, 328-430 and 328-450 have been
+modified under the Commissioner's Remedial Power [30]. In other words "current" is
+not 266, and "the text as amended" is not the same as "the text as printed".
+
+That is the single most important research finding: **the change list this project
+needs is already published as structured data.** Nothing about the update workflow
+has to be guessed from PDF diffs alone.
+
+================================================================================
+2. WHAT THE STANDARDS SAY ABOUT PROVISION IDENTITY
+================================================================================
+
+2.1 Akoma Ntoso / OASIS LegalDocML [1][2][3][4]
+
+Three id attributes, each with a different job:
+
+  - eId — "Expression-level identifier ... uniqueness of an element within a
+    specific Expression ... it needs to be updated regularly whenever the
+    structural role of the element changes in a new Expression (i.e., if the
+    element is renumbered or changed in nature, e.g., from article to clause)."
+  - wId — "The value of the wId attribute never changes; it must be the same values
+    for the same elements in all the Expressions of a document." It exists only
+    where the eId has diverged, anchored to a nominated Master Expression. The
+    schema states the intent: "the wId is used to mark the identifier that the
+    structure used to have in the original version, and is only needed when a
+    renumbering occurred."
+  - GUID — "an application-specific identifier ... required syntax none", no
+    compliance impact.
+
+The eId grammar [3] is `[prefix "__"] element_ref ["_" number]`, where the number is
+the `<num>` text with "final punctuation, meaningless separations as well as
+redundant characters" stripped. The governing principle that matters here is
+**Persistency**: "the identifier of a part is persistent across versions ... if a
+part is moved and renamed the identifier accompanies the part, and does not stay
+with the number." The four divergence cases are enumerated, including "article 2 is
+from now on known as article 15", with the operating rule: "Tracking is always based
+on the wId, navigation is always based on the identifier that was the eId at the
+moment, and transfer is always based on the eId." Divergences are recorded in
+`<mappings>` (`@original` = first wId, `@current` = eId for a temporal period, plus
+`@start`/`@end`), and `<previous href="...">` references the pre-modification
+element "especially useful when renumbering occurs" [3][4].
+
+Consolidation/versioning is expressed at three levels [1][2][4]: the root's
+`@contains` attribute (`originalVersion` | `singleVersion` | `multipleVersions` —
+where singleVersion requires that "amendment documents and the enactment dates of
+the amendments ... be all mentioned in the <lifecycle> element"); `<lifecycle>` with
+its mandatory `@source` agent and dated `<eventRef>`s; and `<proprietary>` (any
+metadata, also with mandatory `@source`) as the sanctioned place for a compilation
+number or vendor stamp. Version identity lives in the Expression IRI
+`/{lang}@{version}`: an dangling `@` is the original, `@2004-07-21` is "as amended on
+July 2004", and no version token means "the version in force at the moment of the
+resolution of the IRI".
+
+Correction to a widely repeated claim: **there is no date-based eId convention.**
+The grammar has no date component; the Naming Convention was inspected and none
+exists [3].
+
+Silence worth knowing: **repeal is not specified as an identity question.** No clause
+governs what happens to an eId/wId on repeal, nor whether a repealed number may be
+reused. Repeal appears only in the modification layer (`<textualMod type="repeal">`,
+`@status`, `@end` with no `@start` for "a fragment that was part of the original
+document but has been repealed"). Treat identity-across-repeal as undocumented.
+
+2.2 ELI (European Legislation Identifier) [5][6][7]
+
+FRBR refinement: work = `eli:LegalResource`, expression = `eli:LegalExpression`,
+manifestation = `eli:Format`, and "the item level is not part of ELI". Properties that
+map onto this project's fields: `eli:id_local` ("The unique identifier used in a local
+reference system to maintain backwards compatibility"); `eli:version_date` ("The
+point-in-time at which the provided description of the legislation is valid"); and
+`eli:consolidates` / `eli:consolidated_by` — "indicates that this consolidated legal
+resource or expression (which is usually the product of an editorial process that
+revises the legislation) takes into account another one ... the original version or
+the previous consolidated version, and ... the legislations making the change".
+
+URI components: `{point in time}` (YYYYMMDD or YYYY-MM-DD, "To retrieve the version of
+the legislation valid at a given date") and `{version}` ("To distinguish between a
+base act and a consolidated version"), with an incomplete ELI redirecting to "the
+latest consolidated version or base act".
+
+Where it helps this design: a consolidation may be modelled either as a separate
+legal resource or as a new expression of the same resource — ELI explicitly declines
+to pick. That means the choice is ours and must be written down, not assumed.
+
+2.3 USLM (United States Legislative Markup) [8][9][10][11][12]
+
+The most operationally explicit of the three, and the closest fit to a token:
+
+  - `@id`: "should always be assigned an immutable (non-changing) value. If the item
+    is subject to renaming or renumbering, then the @id attribute should not reflect
+    any part of the changeable part ... prefixed with 'id' and followed by a GUID
+    that is guaranteed to be globally unique across both time and space."
+  - Lifecycle rules stated as MUSTs: "Whenever an element is moved, its @id attribute
+    value must be preserved. When an element is copied, a new value for the @id
+    attribute value must be generated for the new element created." And on
+    repeal-plus-recreation: "If an item is deleted and later a similarly named item
+    is created, then the new item should be assigned a newly generated identity as it
+    is not related to the earlier item."
+  - `@temporalId`: the human-readable, recomputable half — "may need to be recomputed
+    based on the temporal state of a document", built as
+    `[parentId + "_"] + [bigLevelPrefix] + num` with document/main levels omitted.
+    Crucially, "the uniqueness of the @temporalId attribute is not enforced by the
+    schema, and some ambiguity is possible."
+  - Alternate versions of an item **exist alongside one another inside the same
+    document**, each associated with the periods it was in force.
+
+Taken together: three standards agree that identity and label are different things,
+and USLM is the one that tells you exactly what to do when a label changes or a
+provision is repealed and re-created.
+
+================================================================================
+3. HOW PRODUCTION SYSTEMS ACTUALLY DO IT
+================================================================================
+
+3.1 legislation.gov.uk [13]-[21]
+
+An **effect** "is a record of the change that helps our editors track where (and
+when) to apply amendments and commencements", and explicitly "does not contain the
+amending text, and nor does it contain machine-readable instructions on how to apply
+the amendment". The record and the payload are separate artefacts joined by a
+provision-level citation — the editor reads the amending provision and applies it.
+
+Effect payload fields [13][20]: type; affecting and affected provisions; **savings**
+("provisions that qualify the meaning of the effect, usually to preserve the previous
+meaning of the amended provisions in certain contexts"); in-force dates, which may be
+split by extent or purpose; commencement authority; extent; and the boolean pair
+applied / requires-applied (plus Welsh equivalents). The CLML `EffectType` carries a
+generated `EffectId` (an MD5 hash), and each `InForce` "represents an amendment. An
+effect has one amendment for each time its affecting provision comes into force in
+full, in part or for specified extents or purposes", with a `Prospective` flag.
+
+Textual vs non-textual is a first-class distinction: textual types change words
+(inserted, substituted, repealed, words omitted); non-textual types record a legal
+relationship without changing text (**applied**, **modified**, **excluded**). For tax
+law the non-textual class is not an edge case — "applied (with modifications)" is
+common, and our own corpus proves it (the comp-266 publishComments records
+Commissioner's Remedial Power modifications to 40-340, 328-430, 328-450).
+
+Point-in-time URIs: `/id/...` (identifier), document,
+`.../{section}/{authority}/{extent}/{version}`, plus `/data.{ext}` for a
+representation. "If no version is specified in a document URI, this is taken to refer
+to the version of the legislation that is currently in force." Whole-item point-in-
+time returns everything, with sections that "aren't valid at the date requested"
+flagged `Match="false"` and `Status` of `Prospective`, `Repealed` or `Discarded`; a
+repealed section's DocumentURI "will point to the version of the section that was in
+force on the day before its repeal". Failures observed in testing: the documented
+`/prospective` paths returned 404, and `/id/effect/{id}` returned 404 [caveat from
+the research strand, not re-tested here].
+
+Editorial reality, which is the part to copy: **unapplied effects are user-visible.**
+A "Changes to Legislation" banner, a per-provision listing, All/Applied/Unapplied
+filters on `/changes`, and `<ukm:UnappliedEffects>` in XML. The service guide is
+blunt: "one of the limitations of this site is not all the changes we know about have
+been applied to the content. It is therefore out of date." Instead of publishing a
+backlog count, they publish service targets ("within a maximum of three months of
+the coming into force date", after preparatory work that "typically take[s] from four
+to eight weeks"), and the project wiki records that 2002 "was the last date at which
+all primary legislation on the database was fully up to date".
+
+The most directly reusable mechanism is the **Publication Log** [16]: one entry per
+publication, republication or withdrawal, typed `legislation | draft |
+associated-documents | changes` and `published | withdrawn`, with fields for
+republished/new/newly-issued. Critically: "a publication of a set of changes may
+delete some or all of the existing effects. This is still recorded as a 'published'
+event." That is exactly the semantics an audited corpus needs for a compilation that
+supersedes an earlier one.
+
+Data endpoints (verified live at the time of research, except the 404s above):
+`/ukpga/2007/3/data.xml`, `/ukpga/2007/3/2026-01-01/data.xml`,
+`/ukpga/2007/3/section/11D/2026-01-01/data.xml`, `/data.akn`, `/data.xht`,
+`/changes[/affected/...][/affecting/...]` with `/data.feed` and `/data.csv`,
+`/update/data.feed`, and `/new/[yyyy-mm-dd]/data.feed`. Rate limit 3,000 requests /
+5 minutes / IP with a mandatory user agent [14][15].
+
+3.2 Australian Federal Register of Legislation [23]-[33]
+
+The model is compilation-based and it is the model this corpus already claims to use.
+A compilation "is a version of a law that shows the text of the law as amended at a
+particular point in time"; the compilation number is "a unique alphanumeric
+identifier assigned to a specific point-in-time version"; the compilation date "is
+the date from which the text of the law shown in the compilation applies" [23]. OPC
+must prepare and register compilations on amendment or disallowance, tied to Acts
+"as soon as practicable after the amendments commence", with instruments lodged
+"typically within two working days" [30][31].
+
+**Authorised version** is a legal status, not a synonym for current: versions relied
+on in court under ss 15ZA/15ZB are always PDF, stamped "Authorised version",
+"Authoritative" or "Federal Register of Legislative Instruments" — and an unaltered
+downloaded or printed copy retains that authority [22]. Exposed as `isAuthorised` in
+the API.
+
+**Composition of a compilation is inferable from its metadata, and the API exposes
+the booleans that matter**: `hasUnincorporatedAmendments` on a Version ("the text
+does not yet incorporate amendments that are already known") and
+`hasCommencedUnincorporatedAmendments` on a Title. Plus, per version:
+`reasons[]` — for each reason, `affect` (AsMade, Amend, Repeal, Cease, ChangeDate,
+Disallow), a markdown citation, `affectedByTitle`, `amendedByTitle`, and
+`dateChanged{from,to}`. Documents additionally carry `versionType`
+(Rectification | Replacement | RetrospectiveCompilation), `rectificationVersionNumber`,
+`rectified`, `rectificationReason`, `volumeNumber`, `format`, `pageCount`,
+`sizeInBytes`, `isAuthorised`. The `$metadata` CSDL publishes all of it [32][33].
+
+**Superseded compilations remain retrievable** — "a superseded version always has the
+start date of the compilation in the URL" — and this was verified for comp 263, which
+the API returns with `isCurrent:false, isLatest:false` and whose documents remain
+`isAuthorised:true` [27][live].
+
+**Editorial changes exist and are reported.** Division 3 of Part 2 of Chapter 2 of
+the Legislation Act 2003 lets the First Parliamentary Counsel make editorial and
+presentational changes, but "the editorial power cannot be used to change the effect
+of the law, to resolve an ambiguity in the law or to rewrite legislation"; six-monthly
+Editorial Changes Reports are published and the changes appear in compilation
+endnotes [33]. This is the mechanism by which a compilation can differ from a pure
+amendment-set — i.e. a text change with no amending Act behind it — which is exactly
+the kind of silent difference that breaks a naive "diff against the previous
+compilation" check.
+
+================================================================================
+4. ENGINEERING MECHANICS OF A TOKEN REGISTRY
+================================================================================
+
+4.1 Content addressing [34][35][36]
+
+A git blob id is `sha1("blob " + byte-length + NUL + content)`, verified locally:
+hashing `what is up, doc?` gave bd9dbf5a…, matching an independent
+`sha1(b"blob 16\0" + content)`. The **filename is not in that hash** — content
+identity and path identity are separate facts, which is what lets a provision keep
+its identity while moving between parts.
+
+A tree object is the Merkle node: "one or more entries, each of which is the SHA-1
+hash of a blob or subtree with its associated mode, type, and filename". Two
+consequences: **equality is a proof** (equal subtree ids mean identical names and
+identical bytes below, with no file reads), and change detection prunes to O(changed
+paths), not O(corpus). Measured on a synthetic 20,000-file corpus: `git add -A &&
+git commit` 2.21s; a naive `find | sort | sha256sum` manifest 0.50s; after editing
+three files, exactly three paths and three of nine Act-subtree ids changed.
+
+4.2 Canonicalise before hashing [42]
+
+Hashing raw bytes makes formatting differences look like content changes — and this
+corpus has exactly that problem, since its fidelity gate already canonicalises
+(dashes, quotes, curve/drawn glyphs) before comparing. RFC 8785 states the principle:
+"cryptographic operations like hashing and signing need the data to be expressed in
+an invariant format so that the operations are reliably repeatable." Measured: seven
+byte-variants of `Section 6—Meaning of 'eligible entity'` (em dash vs ASCII, curly vs
+straight quotes, CRLF vs LF, NBSP, non-breaking hyphen) collapsed from seven distinct
+SHA-256s to **five** canonical hashes — the two non-collapsing pairs differ in how
+much text is present (two hyphens vs one em dash; double vs single quoted phrase),
+which is arguably a real difference and should not be folded.
+
+Design conclusion: keep **two hashes per provision** — `raw_sha256` (bytes, and the
+git blob) and `norm_sha256` (canonical text). Report a change only when `norm_sha256`
+moves; label a raw-only difference `presentation_only` so it is visible rather than
+swallowed.
+
+4.3 Diffs and merges [37][38][39]
+
+git's default is Myers, with `--patience` and `--histogram` available, and git-merge
+concedes that a different algorithm "can help avoid mismerges that occur due to
+unimportant matching lines" (ort defaults to histogram). Local reproduction on
+repeated structural lines: Myers reported a duplicate numbered paragraph as deleted
+here and added there; patience reported only the one heading that actually changed.
+Both are minimal; patience's is the one a human can adjudicate.
+
+Three-way merge, using a recorded base, is what distinguishes unchanged /
+changed-upstream / changed-locally / both. Measured with GNU diff3 and
+`git merge-file --diff3`: identical inputs merged unchanged; one-sided changes merged
+cleanly; **independent edits on different lines merged cleanly with exit 0 and no
+conflict markers**; conflicting edits on the same line produced the
+`<<<<<<< ||||||| ======= >>>>>>>` block and exit 1.
+
+That third case is the trap worth naming in the design: a clean merge can silently
+combine two independent edits. Never accept a clean merge for a legal text — re-run
+the fidelity gate on the merged bytes.
+
+4.4 Identity vs label [3][40][41]
+
+Akoma Ntoso formalises the split (wId immutable, eId evolving, `<mappings>` recording
+divergences). Persistent-identifier practice treats stability as a service
+commitment, not a property of the string: "persistence is neither inherent in an
+object nor conferred on it by a particular naming syntax" [40]; W3C's position is
+simply "a cool URI is one which does not change" [41]. The database analogue is a key
+generated independently of the row's attributes.
+
+Practical rule for this corpus: derive `provision_id` from the **original**
+compilation's numbering, never the current display number, never reuse a retired id,
+and keep a `mappings` table when the label changes.
+
+4.5 Verifiable prior art [43]-[49]
+
+  - **legalize-dev/legalize** (MIT), "Every law as a Markdown file. Every reform as a
+    Git commit", 31 countries. Its SPEC.md v0.4 is the closest published design to
+    what is proposed here: identifier = public name = file name, unique repo-wide;
+    shard by `sha1(identifier)[:2]` because it "is always present and never changes"
+    whereas "a key that can be corrected turns a metadata fix into a file rename — a
+    change to the history that no legislature made"; commit trailers
+    `Source-Id` / `Source-Date` / `Norm-Id` recording what amended what; per-file
+    `git log -- <path>` as the version history; deterministic pipeline git identity so
+    rebuilds reproduce commit hashes. It has **no** canonicalisation layer of its own
+    and relies wholly on git blobs and trees.
+  - **Laws.Africa Indigo** (GPL-3): identity is `Work.frbr_uri`; each version is a
+    `Document` with an `expression_date`; `ArbitraryExpressionDate` marks a
+    consolidation point; `Commencement` records which provisions commenced by
+    provision id. Versions are compared **structurally** (`xmldiff` over rendered AKN
+    HTML, with `eId` unset on ref/def/authorialNote first), not by text hash.
+  - **NZ Legislation as Code** (`openfisca-aotearoa`, AGPL-3): parameters as YAML with
+    date-keyed values. Rules, not documents — no provision-level identity registry,
+    so not a model for corpus bookkeeping.
+  - Could not verify: `laws-africa/limpopo` (HTTP 404, no claim made); `Laws.LK` (no
+    repository found; nearest verifiable artefact is `nuuuwan/lk_legal_docs`, a
+    document corpus rather than a structured store).
+
+================================================================================
+5. PROVENANCE AND VERIFICATION
+================================================================================
+
+5.1 PROV-O, and what it does not do [50][51]
+
+PROV-O is a W3C Recommendation modelling Entity / Activity / Agent with
+`prov:wasDerivedFrom`, `prov:wasGeneratedBy`, `prov:used`, `prov:wasAttributedTo`,
+`prov:generatedAtTime`, `prov:wasRevisionOf`, `prov:specializationOf`,
+`prov:alternateOf`. It also constrains vocabulary choice: the more specific
+subproperties "should be used when applicable" — a provision transcribed from a PDF
+is a quotation of a specialization of a compilation, and saying so signals verbatim.
+
+Limits that matter: PROV-O contains no integrity vocabulary (no hash/checksum/
+digest property); identity is asserted, not computed ("Two entities are equal if they
+have the same identifier" — so `prov:wasDerivedFrom :compilation-266` against a
+comp-263 PDF is a false triple PROV-O cannot falsify); and derivation carries no byte
+semantics — it does not say which regions changed, nor require untouched regions to
+stay identical. PROV-O describes provenance; it does not check it.
+
+5.2 Reproducible vs verifiable [52][53][54][55][56]
+
+"A build is **reproducible** if given the same source code, build environment and
+build instructions, any party can recreate bit-by-bit identical copies"; "the
+reproducibility of artifacts is **verified** by bit-by-bit comparison", usually by
+hash. The manifest carries the claim; the verification is separate and someone
+else's. A signed buildinfo "attests what their build result was. (This alone does not
+indicate if it is reproducible...)".
+
+Two rules transfer directly: build metadata must come from the source, not the build
+("The date and time of the build itself is hardly of value as an old source code can
+always be compiled long after it has been released"), and abbreviated VCS hashes are
+non-deterministic because the abbreviation length "is dependent on the number of
+objects in the Git repository" — so never stamp a build timestamp or short commit
+hash into 20,000 files.
+
+SLSA supplies the attestation shape: provenance "MUST unambiguously identify the
+output package by cryptographic digest and describe how that package was produced",
+with `resolvedDependencies[]` each carrying a digest map, plus `builder.id`,
+`buildType`, `externalParameters` and run metadata; verification requires that the
+attestation `subject` digest match the artefact [57][58][59]. Note the ceiling: even
+SLSA's `SLSA_BUILD_REPRODUCED` is issued by a *third party* who reproduced the build
+on independently operated platforms [60].
+
+5.3 Dataset versioning and hashes as tamper checks [61][62][63][64][65]
+
+W3C Data on the Web Best Practices require, in its own words: BP5 "Provide data
+provenance information"; BP7 "Provide a version indicator" (because "explicit
+versioning allows for repeatability in research"); BP8 "Provide a complete version
+history that explains the changes made in each version"; BP9/BP10 persistent URIs
+within datasets; BP11 "Assign URIs to individual versions of datasets as well as to
+the overall series"; BP27 identifiers must survive removal. FAIR requires F1
+(globally unique persistent identifier), F3 (metadata include the identifier), R1.2
+(detailed provenance), with the caveat that FAIR "is not itself a standard or
+specification".
+
+Registry practice shows the field shape: npm's `integrity` is "a sha512 or sha1
+Standard Subresource Integrity string for the artifact"; W3C SRI §3.1 defines
+integrity metadata as algorithm + digest + options and §3.2 requires SHA-256/384/512,
+refusing MD5/SHA-1; PyPI's JSON API publishes per-file `digests` (sha256,
+blake2b_256), and its Integrity API returns provenance objects bundling attestations
+"with the identity that produced them". The registry hash proves the bytes arrived
+unchanged; the attestation ties those bytes to a build.
+
+5.4 Normalise before comparing — but do not conflate the two checks [66][67]
+
+UAX #15 §1.2: normalisation transforms each string into a Normalization Form so that
+"a binary comparison of the transformed strings will then determine equivalence", and
+§10 is explicit that a raw byte comparison is not an equivalence test, and that
+"higher-level processes that transform or compare strings ... must respect canonical
+equivalence or problems will result." Two consequences: record the normalisation form
+**and** the Unicode version with any fingerprint (stability is promised only for
+characters assigned in that version), and remember that normalisation is a comparison
+device, not a storage format — UTS #39 warns that a confusable "skeleton" output
+"should definitely not be used as a 'normalization' of identifiers".
+
+So the fidelity gate needs two checks, not one: canonical-form equality for "this is
+the same provision text", and an exact byte hash of the regions the pipeline never
+touched for "nothing was silently altered".
+
+================================================================================
+6. THE DESIGN FOR THIS CORPUS: A PROVISION-TOKEN REGISTRY
+================================================================================
+
+6.1 Model choice (explicit, because ELI leaves it open)
+
+A **compilation is a new Expression of the same Work**, not a new Work. Rationale:
+the register treats a compilation as "a version of a law ... at a particular point in
+time", the amending Acts are separate Works, and USLM keeps alternate versions of an
+item inside one document. Consequence: identity is per provision, across
+compilations; the compilation number is a *version*, never part of the identity.
+
+6.2 The token (per provision, in frontmatter and in the manifest)
+
+  id:            stable, opaque, never reused; derived from the ORIGINAL compilation's
+                 numbering; a new suffix is minted for inserted provisions; a retired
+                 id is retired forever (USLM: a later section with the same number is
+                 "not the same item")
+  act:           act slug
+  label:         the CURRENT display number (e.g. "40-291A") — a label, not identity
+  mappings:      [{original, current, start, end}] where the label has ever changed
+                 (Akoma Ntoso <mappings>)
+
+  Source pinning (per provision, not per repo):
+  source_register_id / compilation_no / compilation_date
+  source_pdf_path / source_pdf_sha256
+  source_page / source_volume
+  anchor_text:   first and last ~8 printed words, so a human can re-find it
+
+  Fingerprints:
+  raw_sha256          bytes as extracted, before any substitution
+  norm_sha256         after documented canonicalisation
+  norm_form:          e.g. NFC
+  unicode_version
+  untouched_sha256    the region the pipeline must not have written
+  substitution_table_sha256   so the gate's tolerance is itself auditable
+
+  Base bookkeeping:
+  base_compilation_no / base_norm_sha256 / base_manifest_sha256
+
+  Gate + build:
+  gate_name / gate_version / gate_verdict ∈
+      {pass, pass_with_substitutions, fail, no_source}
+  source_reason: which `reasons[]` entry (affecting title + provisions) accounts for
+      the current text, if any — including "non-textual: applied/modified", which is
+      NOT a textual amendment and must never be recorded as one
+  built_by: pipeline commit + extractor version + invocation id
+
+A provision with no source is `no_source`, never `pass`.
+
+6.3 The corpus manifest
+
+`manifest.json`: provision_id → the fields above, plus per-Act subtree hashes and the
+manifest's own SHA-256 as the corpus fingerprint. Then two independent proofs of
+"nothing changed": a third party can re-hash files against the manifest, and can
+compare git tree ids between compilations. Building it costs ~0.5s for 20,000 files,
+measured.
+
+6.4 The update workflow (new compilation N+1)
+
+  1. RESOLVE. Ask the Register API for the title's versions: registerId,
+     compilationNumber, start/end, isCurrent, hasUnincorporatedAmendments, reasons[].
+     Refuse to proceed on a compilation whose register ID is not the one being
+     vendored [our own bug: the filename said one thing, the PDF said another, and it
+     took a guard to notice].
+  2. VENDOR + PIN. Download the compilation, hash it, and record register ID +
+     compilation number **read off the document** and cross-checked against the API
+     record. Disagreement is a hard stop.
+  3. CLASSIFY WITHOUT TEXT DIFFS. For each provision compare three hashes —
+     base_norm_sha256 from the manifest, the file on disk, the new source — giving
+     unchanged / changed-upstream / changed-locally / both in O(n) integer
+     comparisons. Use patience/histogram diffs only to RENDER the changed ones.
+  4. RECONCILE THE REASONS. Every changed provision must be attributable to a
+     `reasons[]` entry, or to `hasUnincorporatedAmendments`, or to a recorded
+     editorial change (Legislation Act 2003 Div 3 Part 2 Ch 2) — or it is unexplained
+     and blocks. Conversely, every `reasons[]` entry naming provisions must show up
+     as a change, or the sources are wrong.
+  5. GATE. Run the fidelity gate on the merged bytes with the page evidence, and the
+     byte-exact check on the untouched regions. Never accept a clean merge.
+  6. APPLY. Block-applied, in reviewable units, with the provenance invariant (an
+     insertion must be removable at its recorded offset to reproduce the prior bytes).
+  7. RECORD. Publish a Publication-Log-style entry for the corpus: what was
+     published, what was withdrawn, which effects were applied — "a publication of a
+     set of changes may delete some or all of the existing effects ... still recorded
+     as a published event".
+
+6.5 Fail-closed rules
+
+  - A provision present in the corpus but absent from its declared source is a BUILD
+    FAILURE, not a finding. (This is the 26-and-15 situation: both directions must
+    fail the build with the ids listed.)
+  - A label change with no `mappings` row is a failure — a renumber must never
+    silently retarget a citation.
+  - A provision whose gate verdict is `no_source` may not be served as authoritative.
+  - Non-textual effects (applied / modified / excluded) must be recorded as
+    non-textual; the comp-266 publishComments show why (Commissioner's Remedial Power
+    modifications to 40-340, 328-430, 328-450 alter the operation of provisions
+    without amending their words).
+  - "Not reproducible" is a first-class status. The UK service publishes its
+    unapplied-effects state rather than implying completeness; this corpus should
+    publish which compilations it has and has not reconciled.
+
+================================================================================
+7. WHAT THIS MEANS FOR THE KNOWN DEFECTS
+================================================================================
+
+  - The 263/266 break becomes a build failure with a named cause (register ID
+    mismatch) and a named fix (vendor C2026C00324), rather than a discovery months
+    later. The repo's existing guard is right; it needs the API record as its other
+    half.
+  - The 26 "present but unprinted" and 15 "printed but missing" become non-zero exit
+    codes listing provision ids, which is what should have happened when they were
+    introduced.
+  - Present-and-wrong operators and the font-encoded `×`/`´` class stop being a
+    gate-versus-corpus argument: the substitution table is hashed into the manifest
+    with the page evidence that justifies each entry, so the tolerance is auditable
+    rather than implicit.
+  - "Unchanged" becomes provable twice over (manifest re-hash; git subtree id), which
+    is the property the corpus currently lacks entirely.
+
+================================================================================
+8. IMMEDIATE NEXT ACTIONS (in order)
+================================================================================
+
+  1. Vendor comp 266 (C2026C00324) and reconcile the 26/15 against the true comp-266
+     text — this closes the reproducibility break with the authoritative source.
+     Comp 265 (C2026C00242) and 264 (C2026C00218) complete the chain back to the
+     PDFs we already hold, so the intermediate history is reconstructable too.
+  2. Add `source_register_id` + `source_pdf_sha256` to frontmatter and write the first
+     manifest with raw/norm hashes. Cheap, and it is the load-bearing artefact.
+  3. Add `base_compilation_no` + `base_norm_sha256` so the next compilation is
+     classified by hash comparison rather than by re-ingest.
+  4. Make "in corpus but not in source" and "in source but not in corpus" build
+     failures that list ids.
+  5. Adopt identity-never-the-label: mint a stable id per provision and record
+     mappings when a number changes. Existing ids can be derived from the original
+     compilation's numbering without touching the served URLs.
+
+================================================================================
+SOURCES
+================================================================================
+
+Akoma Ntoso / OASIS LegalDocML
+  1  Akoma Ntoso Version 1.0. Part 1: XML Vocabulary, OASIS Standard, 29 Aug 2018
+     https://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part1-vocabulary/akn-core-v1.0-os-part1-vocabulary.html
+  2  Akoma Ntoso Version 1.0. Part 2: Specifications, OASIS Standard, 29 Aug 2018
+     https://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/akn-core-v1.0-os-part2-specs.html
+  3  Akoma Ntoso Naming Convention Version 1.0, OASIS Standard, 21 Feb 2019
+     https://docs.oasis-open.org/legaldocml/akn-nc/v1.0/os/akn-nc-v1.0-os.html
+  4  akomantoso30.xsd, distributed with Akoma Ntoso v1.0 Part 2
+     https://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd
+
+ELI (European Legislation Identifier)
+  5  ELI ontology (eli.owl) v1.4, Publications Office of the EU
+     https://op.europa.eu/documents/3938058/11669184/eli.owl/
+  6  ELI — A Technical Implementation Guide, ELI Task Force, 2015 (doi:10.2830/74251)
+     https://op.europa.eu/documents/2050822/2138819/ELI+-+A+Technical+Implementation+Guide.pdf/
+  7  ELI, EU Vocabularies, Publications Office of the EU
+     https://op.europa.eu/en/web/eu-vocabularies/eli
+
+USLM (United States Legislative Markup)
+  8  USLM — User Guide for the USLM Schema (current), usgpo/uslm
+     https://raw.githubusercontent.com/usgpo/uslm/main/USLM-User-Guide.md
+  9  USLM XML Schema (USLM.xsd, current 2.x), usgpo/uslm
+     https://raw.githubusercontent.com/usgpo/uslm/main/USLM.xsd
+ 10  User Guide for the USLM Schema, Office of the Law Revision Counsel, 2013 (0.1.3)
+     https://xml.house.gov/schemas/uslm/1.0/USLM-User-Guide.pdf
+ 11  uslm-2.0.5.xsd, US Government Publishing Office (govinfo)
+     https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.5.xsd
+ 12  usgpo/uslm repository README (schema provenance; 2 USC 181)
+     https://github.com/usgpo/uslm
+
+legislation.gov.uk (UK National Archives)
+ 13  Effects / changes to legislation — guidance and change listings
+     https://www.legislation.gov.uk/changes
+ 14  legislation.gov.uk data documentation (API, data.ext patterns)
+     https://legislation.github.io/data-documentation/
+ 15  legislation.gov.uk API documentation index
+     https://legislation.github.io/data-documentation/api/
+ 16  Publication Log documentation
+     https://legislation.github.io/data-documentation/api/publication-log.html
+ 17  legislation.gov.uk — about us / editorial authority statements
+     https://www.legislation.gov.uk/about-us
+ 18  legislation.gov.uk service standards / targets (CAS document)
+     https://cdn.nationalarchives.gov.uk/documents/cas-82049-legislation-date.pdf
+ 19  legislation.gov.uk community wiki (editorial workflow, initial edit, corrections)
+     http://community.legislation.gov.uk/mediawiki/index.php?title=Main_Page
+ 20  legislation.gov.uk CLML metadata schema (EffectType) — via data documentation [14]
+ 21  Live effects feed used as a sample of real effect types
+     https://www.legislation.gov.uk/changes/affected/ukpga/2007/3/data.feed
+
+Federal Register of Legislation (Australia)
+ 22  About this website — authorised versions; content coverage
+     https://www.legislation.gov.au/help-and-resources/using-the-legislation-register/about-the-federal-register-of-legislation
+ 23  Glossary — compilation, compilation date, compilation number, as made, editorial changes
+     https://www.legislation.gov.au/help-and-resources/understanding-legislation/glossary
+ 24  Some things to consider when reading legislation — commencement vs registration
+     https://www.legislation.gov.au/help-and-resources/understanding-legislation/reading-legislation
+ 25  Data share and reuse — API entry point (OpenAPI v3.0.1, no keys)
+     https://www.legislation.gov.au/help-and-resources/using-the-legislation-register/data-share-and-reuse
+ 26  Linking and downloads — link formats, ComLaw redirects
+     https://www.legislation.gov.au/help-and-resources/using-the-legislation-register/linking-and-downloads
+ 27  Frequently asked questions — register ID semantics; superseded-version URLs
+     https://www.legislation.gov.au/help-and-resources/using-the-legislation-register/frequently-asked-questions
+ 28  System updates — All Versions tab, unincorporated-amendment indicators
+     https://www.legislation.gov.au/help-and-resources/using-the-legislation-register/system-updates
+ 29  Editorial changes reports — statutory basis and limits
+     https://www.legislation.gov.au/help-and-resources/understanding-legislation/editorial-changes-reports
+ 30  Legislation Public API — endpoint root (verified live for ITAA 1997 = C2004A05138)
+     https://api.prod.legislation.gov.au/v1/
+ 31  Legislation Public API — OpenAPI/Swagger specification
+     https://api.prod.legislation.gov.au/swagger/v1/swagger.json
+ 32  Legislation Public API — OData CSDL metadata ($metadata): entity and field names
+     https://api.prod.legislation.gov.au/v1/$metadata
+ 33  Compilation services and Registering instruments — Office of Parliamentary Counsel
+     https://www.opc.gov.au/opc-services/publishing/compilation-services
+
+Content addressing, diff and merge
+ 34  git-hash-object — Git documentation
+     https://git-scm.com/docs/git-hash-object
+ 35  Pro Git — Git Internals, Git Objects (blob/tree construction)
+     https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
+ 36  gitrepository-layout — Git documentation
+     https://git-scm.com/docs/gitrepository-layout
+ 37  git-diff — Git documentation (myers default, --patience, --histogram)
+     https://git-scm.com/docs/git-diff
+ 38  git-merge — Git documentation (merge base, ort defaults, merge.conflictStyle)
+     https://git-scm.com/docs/git-merge
+ 39  GNU diffutils manual — Comparing and Merging Files (diff3 -e/-3/-x; -x semantics)
+     https://www.gnu.org/software/diffutils/manual/diffutils.html
+
+Identity and persistence
+ 40  The ARK Identifier Scheme (IETF draft-kunze-ark-41) — persistence is a service property
+     https://www.ietf.org/archive/id/draft-kunze-ark-41.txt
+ 41  W3C — Cool URIs don't change
+     https://www.w3.org/Provider/Style/URI
+ 42  RFC 8785 — JSON Canonicalization Scheme (JCS)
+     https://www.rfc-editor.org/rfc/rfc8785.html
+
+Prior art (structured, versioned legislation projects)
+ 43  legalize-dev/legalize — README (MIT; Markdown per law, commit per reform)
+     https://github.com/legalize-dev/legalize
+ 44  legalize-dev/legalize — SPEC.md v0.4 (identifier/sharding/commit-trailer model)
+     https://github.com/legalize-dev/legalize/blob/main/SPEC.md
+ 45  laws-africa/indigo — README and models (Work.frbr_uri; Document.expression_date)
+     https://github.com/laws-africa/indigo
+ 46  laws-africa/indigo — indigo_lib/differ.py (structural xmldiff comparison)
+     https://github.com/laws-africa/indigo/blob/master/indigo_lib/differ.py
+ 47  laws-africa/cobalt, bluebell, slaw (Akoma Ntoso libraries; licences per repo)
+     https://github.com/laws-africa/cobalt
+ 48  BetterRules/openfisca-aotearoa — NZ legislation as code (AGPL-3)
+     https://github.com/BetterRules/openfisca-aotearoa
+ 49  nuuuwan/lk_legal_docs — Sri Lankan legal document corpus (MIT), not a structured store
+     https://github.com/nuuuwan/lk_legal_docs
+
+Provenance and verification
+ 50  W3C PROV-O: The PROV Ontology, Recommendation, 30 Apr 2013
+     https://www.w3.org/TR/prov-o/
+ 51  W3C PROV-DM: The PROV Data Model, Recommendation, 30 Apr 2013
+     https://www.w3.org/TR/prov-dm/
+ 52  Reproducible Builds — Definitions
+     https://reproducible-builds.org/docs/definition/
+ 53  Reproducible Builds — Formal definition (buildinfo; signature does not prove reproducibility)
+     https://reproducible-builds.org/docs/formal-definition/
+ 54  Reproducible Builds — Recording the build environment
+     https://reproducible-builds.org/docs/recording/
+ 55  Reproducible Builds — Version information (no build timestamps; hash abbreviation)
+     https://reproducible-builds.org/docs/version-information/
+ 56  Reproducible Builds — Cryptographic checksums
+     https://reproducible-builds.org/docs/checksums/
+ 57  SLSA — Provenance predicate, spec v1.0
+     https://slsa.dev/spec/v1.0/provenance
+ 58  SLSA — Producing artifacts (provenance MUST identify output by digest)
+     https://slsa.dev/spec/v1.0/requirements
+ 59  SLSA — Verifying artifacts (subject digest must match)
+     https://slsa.dev/spec/v1.0/verifying-artifacts
+ 60  SLSA — Verified properties (SLSA_BUILD_REPRODUCED, third-party issued)
+     https://slsa.dev/spec/v1.2/verified-properties
+ 61  W3C — Data on the Web Best Practices, Recommendation, 31 Jan 2017 (BP5, BP7-BP11, BP27)
+     https://www.w3.org/TR/dwbp/
+ 62  Wilkinson et al., The FAIR Guiding Principles, Scientific Data 3:160018 (2016), Box 2
+     https://doi.org/10.1038/sdata201618
+ 63  npm — package-lock.json documentation (integrity field)
+     https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json
+ 64  W3C — Subresource Integrity, Recommendation, 23 Jun 2016 (§3.1-3.2)
+     https://www.w3.org/TR/2016/REC-SRI-20160623/
+ 65  PyPI — JSON API (digests) and Integrity API (provenance objects, PEP 740)
+     https://docs.pypi.org/api/json/
+     https://docs.pypi.org/api/integrity/
+ 66  Unicode — UAX #15: Unicode Normalization Forms
+     https://www.unicode.org/reports/tr15/
+ 67  Unicode — UTS #39: Unicode Security Mechanisms
+     https://www.unicode.org/reports/tr39/
+
+UNVERIFIED / NOT REACHABLE (recorded rather than smoothed over)
+  - laws-africa/limpopo — HTTP 404; no claim made about it.
+  - https://www.go-fair.org/fair-principles/ — HTTP 403 to fetch and to a headless
+    browser; the peer-reviewed FAIR paper [62] is cited instead.
+  - legislation.gov.uk `/prospective` URI patterns and `/id/effect/{id}` — documented
+    but returned 404 when tested during this research; not re-tested here.
+  - The third research strand could not reproduce legalize's reported flat-vs-sharded
+    time effect at a smaller commit count (size effect reproduced); recorded as a
+    non-reproduction, not a refutation.
+
+================================================================================
+END
+================================================================================
