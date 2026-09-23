@@ -89,7 +89,9 @@ The words "for use of the business" do not necessarily require business activiti
 
 The s CB 19 exclusion provides for apportionment, meaning it may apply to only part of the land sold. For example, where a landowner occupies a single storey of a multi-storey office building as their business premises, the exclusion will apply to the proportion of the total sale price of the land that is attributable to that part of the building.
 
-The question of whether a person has engaged in a regular pattern of buying, or building, and selling business premises is also a question of fact and degree. QB 19/14 confirms that the discussion in QB 16/07 on what constitutes a regular pattern is also relevant in the s CB 19 context. Generally, at least 3 prior transactions would be needed. Note QB 25/09 replaces QB 16/07 but the principles discussed in QB 25/09 remain the same.
+The question of whether a person has engaged in a regular pattern of buying, or building, and selling business premises is also a question of fact and degree. QB 19/14 confirms that the discussion in QB 16/07 on what constitutes a regular pattern is also relevant in the s CB 19 context. Generally, at least 3 prior transactions would be needed.
+
+> **Note:** QB 25/09 replaces QB 16/07 but the principles discussed in QB 25/09 remain the same.
 
 If a landowner sells land covered by the s CB 19 exclusion at a loss, the loss will be capital in nature, so will not reduce the taxpayer's net income. The sale proceeds are not income (unless a taxing provision without a business premises exclusion applies), so the cost of the land is not deductible.
 

@@ -132,7 +132,7 @@ L5 Amount remaining after            when entity ceases to be                   
 
 L6 Error in calculation of tax       start of the income year                      the net overstated amount       the net understated amount cost setting amount for joining when the Commissioner                              resulting from the errors, or a resulting from the errors, or a entity's assets (s 104-525)          becomes aware of the                          portion of that amount          portion of that amount errors ....................................
 
-L8 Reduction in tax cost setting just after entity becomes                         no capital gain                      amount of reduction that amount for reset cost base           subsidiary member                                                                  cannot be allocated assets on joining cannot be allocated (s 104-535) ____________________________________
+L8 Reduction in tax cost setting just after entity becomes                         no capital gain                      amount of reduction that amount for reset cost base           subsidiary member                                                                  cannot be allocated assets on joining cannot be allocated (s 104-535)
 
 *Refs: s 104-205), s 104-210), s 104-215), s 104-220), s 104-225), s 104-230), s 104-235), s                   725-365, s 104-250, s 775-70(1), s 104-260), s 775-75(1), s 104-265), s 705-57, s 104-500), s 104-505), s 104-510), s 104-515), s 104-520), s 104-525), s 104-535)*
 

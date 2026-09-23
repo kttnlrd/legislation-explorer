@@ -578,6 +578,30 @@ DRAWING_CHARS = "´¯°¸æçèéêëö÷øùúûü³²±"
 OPEN_FENCE = re.compile(r"^```")
 
 
+def scan_page_rule_artifacts():
+    """C16: a page rule left in PROSE (CDN-0203).
+
+    The source PDFs draw a horizontal rule at a page break; the extractor kept it as a run of
+    underscores, which splits the sentence and swallows the Note that followed.  Runs INSIDE a
+    formula fence are legitimate fraction bars (62 of them across 52 files) and are skipped -
+    which is why this walks fences instead of grepping.
+    """
+    for act_dir in DATA.iterdir():
+        sec_dir = act_dir / "sections"
+        if not sec_dir.is_dir():
+            continue
+        for p in sorted(sec_dir.rglob("*.md")):
+            text = p.read_text(errors="replace")
+            in_fence = False
+            for i, line in enumerate(text.split("\n"), 1):
+                if line.startswith("```"):
+                    in_fence = not in_fence
+                    continue
+                if not in_fence and "_" * 6 in line:
+                    add("C16_page_rule", str(p.relative_to(DATA)),
+                        f"line {i}: a page rule left in prose: {line.strip()[:60]!r}")
+
+
 def scan_drawing_characters():
     for act_dir in DATA.iterdir():
         sec_dir = act_dir / "sections"
@@ -739,6 +763,7 @@ def main():
     scan_duplicate_anchors()
     scan_lost_formula_structure()
     scan_drawing_characters()
+    scan_page_rule_artifacts()
 
     # summarize
     by_class = Counter(f["class"] for f in findings)

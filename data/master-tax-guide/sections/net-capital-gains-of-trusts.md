@@ -51,7 +51,9 @@ Deborah has an additional capital gain of $7,000 in 2023–24. Deborah has a sep
 
 1. Share of the capital gain = $1,500 (being the adjusted Division 6 percentage of 60% of the capital gain remaining after speciﬁc entitlements excluded) 2. Beneﬁciary Fraction = $1,500 / $5,000 (being the capital gain) = 30% 3. Attributable gain = 30% × $5,000 = $1,500 4. Double the step 3 amount (as 50% discount applied) = $3,000.
 
-DH Pty Ltd has an additional capital gain of $3,000 in 2023–24. As DH Pty Ltd is a company it is not entitled to reapply the 50% discount. Note DH Pty Ltd will also have trust income of $1,200 for the year.
+DH Pty Ltd has an additional capital gain of $3,000 in 2023–24. As DH Pty Ltd is a company it is not entitled to reapply the 50% discount.
+
+> **Note:** DH Pty Ltd will also have trust income of $1,200 for the year.
 
 Where the total of the trust's net capital gains and franked distributions (after being reduced by deductions directly relevant to them) exceeds the trust's net income (ignoring franking credits), the attributable gain in step 3 is calculated by undertaking the rateable reduction in the following formula (s 115-225): Attributable               Taxable amount                                   Taxable income of the trust (excluding franking credits) =                                          × gain                    of capital gain                                  net capital gain of the trust + net franked distributions Example 2 During 2023–24, the Woodley Trust made a capital gain of $3 million. The capital gain was eligible for the general discount at 50%, the 50% small business discount and applied the CGT retirement exemption in relation to $500,000. The net capital gain was reduced to $250,000. The Woodley Trust also derived $35,000 of franked distributions, $15,000 of franking credits and had a net rental loss of $100,000. The taxable income of the trust for 2023–24 was $200,000 (being $185,000 excluding franking credits).
 
