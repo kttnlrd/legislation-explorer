@@ -205,6 +205,25 @@ def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50, dep
                             if q_lower in sec["id"].lower() or q_lower in sec.get("title", "").lower():
                                 all_results.append({"act": a, "section": sec["id"], "title": sec.get("title", "")})
 
+    # ATO rulings are not in sections_meta — they live in their own rulings_fts table — so a
+    # search scoped to the rulings tab (act="rulings", the id the UI's rulings tab sends) matched
+    # nothing in sections_fts and returned an empty list for every query, including an exact
+    # citation.  Read the rulings index for that scope, exactly as /search/flat already does.
+    rulings_count = 0
+    if act == "rulings":
+        try:
+            for r in search_rulings(q, limit=limit):
+                all_results.append({
+                    "act": "rulings",
+                    "section": r["citation"],
+                    "title": r.get("title", ""),
+                    "snippet": r.get("snippet", ""),
+                    "type": "ruling",
+                })
+                rulings_count += 1
+        except Exception:
+            logger.exception("Ruling search failed")
+
     # Private rulings by authnum / year / name — searchable by bare number
     private_count = 0
     if act is None or act == "private-rulings":

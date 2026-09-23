@@ -617,7 +617,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
               const sectionDisplay = isCase
                 ? r.title || r.section
                 : isRuling
-                  ? r.section
+                  ? r.title || r.section
                   : isCchGuide
                     ? shortActName(r.act)
                     : `${shortActName(r.act)} ${r.section}`

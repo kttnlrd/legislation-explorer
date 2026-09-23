@@ -1864,8 +1864,7 @@ async def get_info() -> str:
             "query_format": {
                 "search_legislation": "keywords, AND matching — all terms must appear; section-shaped queries exact-matched first; omit stopwords",
                 "search_all": "keywords; type_filter=section|case|ruling|commentary",
-                "search_cases": "topic, case name, or citation",
-                "search_case_paragraphs": "exact phrase; omit stopwords",
+                "search_cases": "topic, case name, or citation. Full judgment text is NOT searchable by paragraph: search_case_paragraphs was deprecated and full paragraph text is no longer stored. For full text call get_case and fetch sources.text.url (hosted HTML, fetchable), or pages.read if you need it inline",
                 "get_definition": "single plain term (e.g. 'dividend'); plural forms auto-stripped ('capital gains' works)",
                 "resolve_alias": "'s 100A', 'Div 7A', 'Part IVA', 'Subdiv 115-C', '109Y', '8-1'",
             },
