@@ -67,9 +67,9 @@ def get_title_for_item(item_type: str, item_id: str) -> str:
         except ValueError: # Not a valid section ID format
             return section_id
     elif item_type == "case":
-        cases = load_cases()
-        case = next((c for c in cases if c["citation"] == item_id), None)
-        return case["title"] if case else item_id
+        from ..services.data_loader import load_case_name_index
+        entry = load_case_name_index().get(item_id)
+        return entry["title"] if entry else item_id
     elif item_type == "ruling":
         rulings = load_rulings()
         ruling = next((r for r in rulings if r["citation"] == item_id), None)

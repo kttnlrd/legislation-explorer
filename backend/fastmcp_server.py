@@ -721,11 +721,13 @@ def _graph_cases_for_section(act: str, section: str, limit: int = 10) -> list[di
             meta = json.loads(meta_json or "{}")
         except Exception:
             pass
+        entry = cases.get(citation, {})
         out.append({
             "type": "case",
             "citation": citation,
-            "title": cases.get(citation, {}).get("title") or label,
-            "court": meta.get("court") or "",
+            "title": entry.get("title") or label,
+            "short_name": entry.get("short_name") or "",
+            "court": meta.get("court") or entry.get("court") or "",
         })
     return out
 
@@ -788,8 +790,10 @@ def _graph_private_rulings_for_section(act: str, section: str, limit: int = 10) 
 
 @functools.lru_cache(maxsize=1)
 def _load_cases_map() -> dict[str, dict]:
-    from backend.services.data_loader import load_cases
-    return {c.get("citation", ""): c for c in load_cases()}
+    # Name lookup uses the wide index (CASE_DIR + scripts/cleaned/summaries);
+    # the /api/cases listing still uses load_cases() (CASE_DIR only).
+    from backend.services.data_loader import load_case_name_index
+    return load_case_name_index()
 
 
 @functools.lru_cache(maxsize=1)

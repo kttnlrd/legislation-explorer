@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import functools
 import json
+import os
 import re
 import logging
 import sqlite3
@@ -12,7 +13,18 @@ from typing import Any
 import numpy as np
 
 from fastapi import HTTPException
-from backend.config import DATA_DIR, COMMENTARY_DIR, CASE_DIR, RULING_DIR, ATO_RULING_DIR, PUBLICATION_NAMES, PUB_ACT_MAP
+from backend.config import BASE, DATA_DIR, COMMENTARY_DIR, CASE_DIR, RULING_DIR, ATO_RULING_DIR, PUBLICATION_NAMES, PUB_ACT_MAP
+
+# Case-name corpus used as a fallback for citation→name lookup. CASE_DIR (the
+# ASIC/tax scrape) only covers a few hundred cases; scripts/cleaned/summaries
+# carries ~8.5k case summaries with citation + case_name. Name lookup prefers
+# CASE_DIR because those entries also carry the full `content`.
+CASE_SUMMARIES_DIR = Path(
+    os.environ.get(
+        "CASE_SUMMARIES_DIR",
+        str(BASE / "scripts" / "cleaned" / "summaries"),
+    )
+)
 
 logger = logging.getLogger(__name__)
 
@@ -585,6 +597,61 @@ def load_cases() -> list[dict]:
         except Exception:
             logger.exception("Error loading case %s", f.name)
     return cases
+
+
+@functools.lru_cache(maxsize=None)
+def load_case_name_index() -> dict[str, dict]:
+    """citation → case-name metadata, CASE_DIR first then cleaned summaries.
+
+    CASE_DIR (the ASIC/tax scrape) carries only a few hundred cases and the
+    full `content`; scripts/cleaned/summaries carries ~8.5k case summaries
+    (citation, case_name/title, court, decision_date). CASE_DIR wins when a
+    citation appears in both. This is a NAME-lookup index only — the
+    /api/cases listing keeps using load_cases() (CASE_DIR only) so it does not
+    silently grow from ~525 to ~8,500 cases.
+    """
+    index: dict[str, dict] = {}
+    for c in load_cases():
+        cit = c.get("citation")
+        if cit:
+            index[cit] = c
+    if not CASE_SUMMARIES_DIR.is_dir():
+        return index
+    for f in sorted(CASE_SUMMARIES_DIR.glob("*.json")):
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        citation = data.get("citation") or _citation_from_case_stem(f.stem)
+        if not citation or citation in index:
+            continue
+        name = data.get("case_name") or data.get("title") or ""
+        if not name:
+            continue
+        index[citation] = {
+            "citation": citation,
+            "title": name,
+            "short_name": short_case_name(name),
+            "category": classify_case(name),
+            "court": data.get("court", ""),
+            "year": _year_from_citation(citation),
+            "date": data.get("decision_date", "") or data.get("date", ""),
+            "source_url": "",
+        }
+    return index
+
+
+def _citation_from_case_stem(stem: str) -> str:
+    """'1905_HCA_57' → '[1905] HCA 57' (summary filenames drop brackets/spaces)."""
+    m = re.match(r'^(\d{4})_([A-Za-z]+)_(\d+)$', stem)
+    if m:
+        return f"[{m.group(1)}] {m.group(2).upper()} {m.group(3)}"
+    return ""
+
+
+def _year_from_citation(citation: str) -> int:
+    m = re.search(r'(\d{4})', citation or "")
+    return int(m.group(1)) if m else 0
 
 
 # ---------------------------------------------------------------------------
