@@ -87,8 +87,23 @@ for t in det_tests:
     if rt.returncode != 0:
         det_fail.append(f"{t.name} ({why(rt)})")
 ok = ok and not det_fail
+# S3 (2026-09-26): every class the CONTENT PHASE emitted must have a self-test, otherwise a
+# corrected detector can rot into decoration with nothing noticing. The class list is read from
+# phase 2's own output (no extra scan). A class is covered when a test file test_c<N>_*.py exists
+# for its prefix, or when a test file names the class itself - the character family (C20-C26)
+# deliberately shares one self-test (scripts/test_c20_character_classes.py) that names each class
+# it pins. Landed as a REPORT first, as the plan says: the classes still without one are the ones
+# no batch has covered yet, so a fatal check here would fail the audit for unplanned work. It
+# becomes an assertion once the list is empty.
+det_classes = sorted({m.group(1) for m in re.finditer(r"corpus (C\d+[A-Za-z_]*)", p2.stdout or "")})
+det_text = "\n".join(t.read_text(errors="replace") for t in det_tests)
+untested = [c for c in det_classes
+            if not any(t.name.startswith(f"test_{c.split('_')[0].lower()}_") for t in det_tests)
+            and not re.search(rf"\b{re.escape(c)}\b", det_text)]
 results.append(f"[4/4] DETECTOR TESTS: {len(det_tests) - len(det_fail)}/{len(det_tests)} passed"
-               + (f" | FAILED: {', '.join(det_fail)}" if det_fail else ""))
+               + (f" | FAILED: {', '.join(det_fail)}" if det_fail else "")
+               + (f" | {len(untested)} emitted class(es) with no self-test: {' '.join(untested)}"
+                  if untested else " | every emitted class has a self-test"))
 
 print("═══ FINAL DATA AUDIT ═══")
 for r in results:

@@ -18,8 +18,14 @@ DATA = Path("/home/harrison/legislation-explorer/data")
 findings: list[dict] = []
 
 
-def add(cls: str, path: str, detail: str):
-    findings.append({"class": cls, "path": path, "detail": detail})
+def add(cls: str, path: str, detail: str, count: int = 1):
+    """Record one finding. `count` is the number of occurrences it stands for (character
+    classes aggregate, so C22_ligature is 1,300 findings for 22,212 characters); it is only
+    written when it differs from 1, so the shape of every existing finding is unchanged."""
+    f: dict = {"class": cls, "path": path, "detail": detail}
+    if count != 1:
+        f["count"] = count
+    findings.append(f)
 
 
 # ── C1 (CDN-0053/0070): compilation_no type consistency ─────────────────────
@@ -597,15 +603,17 @@ DRAWING_CHARS = "´¯°¸æçèéêëö÷øùúûü³²±"
 OPEN_FENCE = re.compile(r"^```")
 
 
-def scan_page_rule_artifacts():
+def scan_page_rule_artifacts(root=None):
     """C16: a page rule left in PROSE (CDN-0203).
 
     The source PDFs draw a horizontal rule at a page break; the extractor kept it as a run of
     underscores, which splits the sentence and swallows the Note that followed.  Runs INSIDE a
     formula fence are legitimate fraction bars (62 of them across 52 files) and are skipped -
-    which is why this walks fences instead of grepping.
+    which is why this walks fences instead of grepping.  `root` lets the pinned self-test point
+    the same code at a scratch corpus.
     """
-    for act_dir in DATA.iterdir():
+    base = Path(root) if root else DATA
+    for act_dir in base.iterdir():
         sec_dir = act_dir / "sections"
         if not sec_dir.is_dir():
             continue
@@ -617,12 +625,13 @@ def scan_page_rule_artifacts():
                     in_fence = not in_fence
                     continue
                 if not in_fence and "_" * 6 in line:
-                    add("C16_page_rule", str(p.relative_to(DATA)),
+                    add("C16_page_rule", str(p.relative_to(base)),
                         f"line {i}: a page rule left in prose: {line.strip()[:60]!r}")
 
 
-def scan_drawing_characters():
-    for act_dir in DATA.iterdir():
+def scan_drawing_characters(root=None):
+    base = Path(root) if root else DATA
+    for act_dir in base.iterdir():
         sec_dir = act_dir / "sections"
         if not sec_dir.is_dir():
             continue
@@ -637,7 +646,7 @@ def scan_drawing_characters():
                     continue
                 hit = sorted({c for c in line if c in DRAWING_CHARS})
                 if hit:
-                    add("C15_drawing_char", str(p.relative_to(DATA)),
+                    add("C15_drawing_char", str(p.relative_to(base)),
                         f"line {i}: {hit} in {line.strip()[:60]!r}")
 
 
@@ -766,37 +775,464 @@ def scan_missing_heading(check_root: str | None = None):
                 f"({share:.0%}) have one - title lost or never written")
 
 
-def main():
-    scan_compilation_no()
-    scan_empty_tree_nodes()
-    scan_tree_titles()
-    scan_asterisk_noise()
-    scan_section_fragments()
-    scan_stray_cut_tokens()
-    scan_chapeau()
-    scan_formatting_artifacts()
-    scan_definitions()
-    scan_case_citations()
-    scan_table_coherence()
-    scan_missing_heading()
-    scan_duplicate_anchors()
-    scan_lost_formula_structure()
-    scan_drawing_characters()
-    scan_page_rule_artifacts()
+# ══ C17-C27: the classes the 2026-09-25 plan measured but no detector covered ══
+# Every one of these was measured at HEAD on 2026-09-26 by RUNNING it; the count in each
+# docstring is that measurement, next to the plan's number where they differ. Each has a
+# self-test in scripts/test_c2X_*.py with one planted positive and one planted negative
+# (phase 4 of scripts/final_data_audit.py runs them nightly), because a detector that
+# cannot fail is decoration.
 
-    # summarize
+# ── C17 (CDN-0124): a corps section body that starts at (a)/(b) - the chapeau is gone ──
+# ingest_corps_act.py's stray-heading fallback (:286-303) deletes any first line under 120
+# characters unless it starts with '(', 'Note:', 'Example:', 'In this Act:', 'Where ' or
+# 'If '. A chapeau ending "...provided by others If:" has no trailing space after 'If', so
+# it does not match 'If ' and is deleted with the other ~403 real opening words; the file
+# then begins at the first item marker. The fix is the ingest, not the corpus: this reports.
+# Measured 2026-09-26: 313 findings - exactly the plan's 313, all in corporations-act-2001
+# (itaa-1997/itaa-1936/gst-1999 have 0).
+CHAPEAU_ITEM = re.compile(r"^\**\((?:a|b)\)\**")
+
+
+def first_body_line(text: str) -> str:
+    """First non-empty body line that is not a heading (frontmatter stripped)."""
+    body = text.split("---", 2)[-1] if text.startswith("---") else text
+    for line in body.splitlines():
+        s = line.strip()
+        if s and not s.startswith("#"):
+            return s
+    return ""
+
+
+def scan_missing_chapeau(root=None):
+    base = Path(root) if root else DATA
+    for p in sorted((base / "corporations-act-2001" / "sections").rglob("*.md")):
+        first = first_body_line(p.read_text(errors="replace"))
+        if CHAPEAU_ITEM.match(first):
+            add("C17_missing_chapeau", str(p.relative_to(base)),
+                f"body starts at an item marker, no chapeau above it: {first[:70]!r}")
+
+
+# ── C18 (CDN-0173): nz-it-2007 serves amendment-history sections as if they were law ──
+# parse_nz_it.py:193 soup.find_all("div", class_="part") also matched the parts nested inside
+# div.end / div.skeletons / div.skeleton-act (endnote copies of at least 11 amending Acts) and
+# div.schedule-amendments / div.amend, so part ids '1', '2', '3' and '3B' sit in the tree
+# beside the consolidated Parts A-Z and their files overwrite each other. This is a tree-level
+# check: a consolidated Act's parts are letters.
+# Measured 2026-09-26: 445 findings (part 1: 374, 2: 40, 3: 8, 3B: 23) - exactly the plan's
+# 445. 87 of the titles also match the "(replaced)/(repealed)/New section" shape and every one
+# of them is inside those four parts, so they add nothing to the count.
+NZ_AMENDMENT_TITLE = re.compile(r"^(Section .* (?:replaced|repealed)|New section)")
+
+
+def scan_nz_amendment_parts(root=None):
+    base = Path(root) if root else DATA
+    tree = base / "nz-it-2007" / "tree.json"
+    if not tree.exists():
+        return
+    try:
+        t = json.loads(tree.read_text())
+    except Exception as e:
+        add("C18_nz_amendment_part", str(tree.relative_to(base.parent)), f"unreadable: {e}")
+        return
+    tree_rel = str(tree.relative_to(base.parent))
+    for part in t.get("parts", []):
+        pid = str(part.get("id", ""))
+        amendment_part = not re.match(r"^[A-Z]$", pid)
+        nodes = [part]
+        for d in part.get("divisions", []):
+            nodes.append(d)
+            nodes += d.get("subdivisions", [])
+        for node in nodes:
+            for s in node.get("sections", []):
+                title = str(s.get("title", ""))
+                if amendment_part:
+                    add("C18_nz_amendment_part", tree_rel,
+                        f"part {pid!r} is not a consolidated Part A-Z: section {s.get('id')} "
+                        f"({title[:50]!r}) is amendment-history text served as law, path "
+                        f"{s.get('path')}")
+                elif NZ_AMENDMENT_TITLE.match(title):
+                    add("C18_nz_amendment_part", tree_rel,
+                        f"section {s.get('id')} in Part {pid}: title is an amendment-history "
+                        f"heading ({title[:60]!r})")
+
+
+# ── C19 (CDN-0204): a served ruling title that is a fragment ────────────────
+# Titles come from backend/services/data_loader.load_rulings() - the list the API actually
+# serves - so the check cannot drift from the served artefact. The three shapes are the ones
+# the ticket measured: 219 titles started lower case, 17 with a digit or '(', 106 ended on a
+# connector such as 'of'/'to'.
+# Measured 2026-09-26: 26 findings, i.e. the plan's TARGET, not its 273: the 0204 extractor
+# (_wrapped_title / _best_authoritative / _is_title_truncation) landed in commit 3b715b745,
+# so the 273 the plan measured at its own HEAD is already repaired. The detector pins it.
+TITLE_CONNECTOR_END = re.compile(
+    r"\b(?:the|of|and|to|for|in|on|with|by|as|at|is|are|was|were|a|an|or|from|that|which)\s*$",
+    re.I)
+
+
+def title_fragment_reason(title: str | None) -> str | None:
+    """Why a served ruling title reads as a fragment (CDN-0204), or None if it is whole.
+
+    Split out from the scanner so the pinned self-test exercises the same decision the corpus
+    scan uses, rather than a copy of it that can drift.
+    """
+    t = (title or "").strip()
+    if not t:
+        return "empty title"
+    if t[:1].isalpha() and t[:1].islower():
+        return "starts lower case - the extracted title is the middle of a wrapped title"
+    if re.match(r"^[\(\d]", t):
+        return "starts with a digit or '(' - the extracted title is a body fragment"
+    if TITLE_CONNECTOR_END.search(t):
+        return "ends on a connector word - the title was cut"
+    return None
+
+
+def _served_ruling_titles() -> list[tuple[str, str]]:
+    """(citation, served full_title) for every ruling the API serves."""
+    root = Path(__file__).resolve().parent.parent
+    if str(root) not in sys.path:
+        sys.path.insert(0, str(root))
+    from backend.services.data_loader import load_rulings   # deferred: needs the backend env
+    return [(str(r.get("citation", "?")), r.get("full_title") or "") for r in load_rulings()]
+
+
+def scan_ruling_title_fragments(titles=None):
+    """`titles` is the test seam: the pinned self-test passes planted (citation, title) pairs."""
+    if titles is None:
+        try:
+            titles = _served_ruling_titles()
+        except Exception as e:
+            add("C19_ruling_title_fragment:CONVENTION", "backend/services/data_loader.py",
+                f"load_rulings() unavailable in this environment ({type(e).__name__}: {e}) - "
+                f"check skipped, not a pass")
+            return
+    for citation, title in titles:
+        why = title_fragment_reason(title)
+        if why:
+            add("C19_ruling_title_fragment", f"data/rulings/{citation}",
+                f"{why}: {title[:90]!r}")
+
+
+# ── C20-C26 (plan Part B / E-a..E-g): character and encoding classes ────────
+# One detector, one class per defect, over every text file the corpus serves: section
+# markdown, the tree/index JSON, rulings text and their derived summaries, the derived
+# case-summary corpus the FTS is built from, maps, the Keays chapters and the regulatory
+# guide texts. Raw AustLII HTML is deliberately NOT scanned: entities in .html are correct
+# there (the browser renders them) and the defect is in the DERIVED text only.
+NON_LATIN_SCRIPTS = {
+    # Latin + combining marks (OECD and NZ Maori macrons: "Tāwhirimātea") are NOT in these
+    # blocks, so macrons cannot fire. The Arabic block stops at U+FEFF: it is the BOM and is
+    # reported by C23 as an invisible character, not as Arabic.
+    "cyrillic": re.compile(r"[\u0400-\u04FF\u0500-\u052F]"),
+    "greek": re.compile(r"[\u0370-\u03FF\u1F00-\u1FFF]"),
+    "cjk": re.compile(r"[\u3040-\u30FF\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF]"),
+    "arabic": re.compile(r"[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFE]"),
+    "hebrew": re.compile(r"[\u0590-\u05FF\uFB1D-\uFB4F]"),
+}
+HTML_ENTITY = re.compile(r"&(?:[a-zA-Z][a-zA-Z0-9]{1,31}|#\d{1,7}|#x[0-9a-fA-F]{1,6});")
+LIGATURE = re.compile(r"[\uFB00-\uFB06]")
+INVISIBLE = re.compile(r"[\uFEFF\u200B-\u200D]")
+NONSTANDARD_HYPHEN = re.compile(r"[\u2010\u2011]")
+SOFT_HYPHEN = re.compile(r"\u00AD")
+PUA_GLYPH = re.compile(r"[\uE000-\uF8FF]")
+
+# (class, regex, what, skip inside a fence, skip on a table row, sample note)
+_CHARACTER_CLASSES = (
+    ("C21_html_entity", HTML_ENTITY, "raw HTML entity in derived text", False, False,
+     "the derived-text cleaners unescape nothing; rebuild the row through html_to_text()"),
+    ("C22_ligature", LIGATURE, "typographic ligature never NFKC-normalised", False, False,
+     "MCP/embeddings/FTS read the raw text, so 'financial' does not match 'financial'"),
+    ("C23_invisible_char", INVISIBLE, "zero-width/invisible character", False, True,
+     "FEFF breaks quoted search and '(1)(a)' citation regexes"),
+    ("C23_nonstandard_hyphen", NONSTANDARD_HYPHEN, "non-standard hyphen", False, True,
+     "FTS5 treats U+2011 as a separator, so quoted '\"sub-fund\"' returns 0 rows"),
+    ("C23_soft_hyphen", SOFT_HYPHEN, "soft hyphen", False, True,
+     "renders as nothing, or as a missing hyphen where it stands in for one"),
+    ("C26_pua_glyph", PUA_GLYPH, "private-use-area glyph (Symbol/Wingdings font)",
+     False, False, "a drawn operator or bullet passed through as F0xx/E0xx"),
+)
+
+
+def character_corpus_files(base: Path) -> list[Path]:
+    """Every served text file the character classes apply to (never .html)."""
+    files: list[Path] = []
+    for d in sorted(base.iterdir()):
+        if not d.is_dir():
+            continue
+        if (d / "sections").is_dir():
+            files += sorted((d / "sections").rglob("*.md"))
+        elif d.name in ("maps", "spec"):
+            files += sorted(p for p in d.rglob("*") if p.is_file() and p.suffix != ".html")
+    for sub in (("regulatory-guides", "texts"), ("insolvency-keays", "chapters"),
+                ("rulings", "summaries"), ("rulings",), ("maps",)):
+        d = base.joinpath(*sub)
+        if d.is_dir():
+            files += sorted(p for p in d.glob("*") if p.is_file() and p.suffix != ".html")
+    files += sorted(base.glob("*/tree.json")) + sorted(base.glob("*/section_index.json"))
+    return files
+
+
+def scan_character_classes(root=None):
+    """C20-C26 in one pass: each class counts characters (the unit the plan measured in).
+
+    Findings are one per (file, class, kind) with the occurrence count in `count`, so a
+    class that fires 22,000 times does not write 22,000 JSON rows. Measured 2026-09-26:
+      C20 4,110 Cyrillic chars in 897 fields of 2 master-tax-guide JSON files (= the plan's
+          1,370 'тАв' triplets) plus 16 Greek chars in 5 files;
+      C21 52 entities in 50 scripts/cleaned/summaries files (the plan's 50 FTS rows) plus
+          132 in 4 ruling-summary files and 9 in 6 maps;
+      C22 22,212 ligatures (MTG 18,688 in 1,315 files - the plan's exact figure - Keays 3,107
+          in 21, MTG section_index.json 404, maps 13); plan: 21,000 or more;
+      C23_invisible_char 1,947 (the plan's exact 1,947, all U+FEFF in nz-it-2007);
+      C23_nonstandard_hyphen 3,045 (plan: 3,034 in corps + 11 elsewhere);
+      C23_soft_hyphen 36 (plan: 35);
+      C26_pua_glyph 1,969 (plan: 46 in sections + 1,919 in regulatory guides).
+    """
+    base = Path(root) if root else DATA
+    files = character_corpus_files(base)
+    if root is None:
+        # The derived case-summary corpus the case_summaries_fts table is built from lives
+        # outside data/ (data_loader.CASE_SUMMARIES_DIR). Only the live run reaches it;
+        # the pinned self-test plants its own derived files under the scratch root.
+        d = Path(os.environ.get("CASE_SUMMARIES_DIR",
+                                str(Path(__file__).resolve().parent.parent
+                                    / "scripts" / "cleaned" / "summaries")))
+        if d.is_dir():
+            files += sorted(p for p in d.glob("*.json") if p.is_file())
+    for p in files:
+        if p.suffix == ".html":
+            continue                      # entities in raw case HTML are correct, not a defect
+        try:
+            text = p.read_text(encoding="utf-8", errors="replace")
+        except OSError:
+            continue
+        try:
+            rel = str(p.relative_to(base))
+        except ValueError:
+            rel = str(p)                  # CASE_SUMMARIES_DIR sits outside the corpus root
+        agg: dict[tuple[str, str], int] = {}
+        samples: dict[tuple[str, str], tuple[str, str]] = {}
+        in_fence = False
+        for line in text.split("\n"):
+            if line.startswith("```"):
+                in_fence = not in_fence
+                continue
+            table_row = line.lstrip().startswith("|")
+            for script, rx in NON_LATIN_SCRIPTS.items():
+                if script == "greek" and in_fence:
+                    continue              # Greek inside a formula fence is maths, not a field
+                found = rx.findall(line)
+                if found:
+                    key = ("C20_non_latin_script", script)
+                    agg[key] = agg.get(key, 0) + len(found)
+                    samples.setdefault(key, (line.strip()[:70], "".join(found)))
+            for cls, rx, _what, skip_fence, skip_table, _note in _CHARACTER_CLASSES:
+                if (skip_fence and in_fence) or (skip_table and table_row):
+                    continue
+                found = rx.findall(line)
+                if found:
+                    key = (cls, "".join(sorted(set(found))))
+                    agg[key] = agg.get(key, 0) + len(found)
+                    samples.setdefault(key, (line.strip()[:70], "".join(found)))
+        for (cls, kind), n in sorted(agg.items()):
+            sample, matched = samples.get((cls, kind), ("", kind))
+            # the matched characters are named by code point as well as by glyph: U+FEFF and
+            # U+00AD print as nothing, so a report that shows only the character is unreadable.
+            codes = " ".join(f"U+{ord(c):04X}" for c in dict.fromkeys(matched))[:40]
+            add(cls, rel, f"{n} x {kind or '(invisible)'} [{codes}]: {sample!r}", count=n)
+
+
+# ── C24 (E-d): an aml-ctf-2006 bold heading glued to the end of a paragraph ──
+# The ingester joined the heading to the paragraph it follows instead of starting a new line,
+# so "…effect to this Act. **Penalties**" reads as body text and the heading is not a heading.
+# Measured 2026-09-26: 176 findings in 89 files - the plan's exact figure.
+GLUED_HEADING = re.compile(r"[.;:)] \*\*[A-Z][^*\n]{0,100}\*\*[ \t]*$", re.M)
+
+
+def scan_glued_headings(root=None):
+    base = Path(root) if root else DATA
+    for p in sorted((base / "aml-ctf-2006" / "sections").rglob("*.md")):
+        text = p.read_text(errors="replace")
+        for m in GLUED_HEADING.finditer(text):
+            ln = text.count("\n", 0, m.start()) + 1
+            add("C24_glued_heading", str(p.relative_to(base)),
+                f"line {ln}: heading glued to the paragraph: {m.group(0).strip()[-60:]!r}")
+
+
+# ── C25 (E-f): endnote / table-of-contents text leaked into a section ───────
+# parse_gst1999.py and parse_fbt_sis.py have no endnote cutoff, so the whole "Endnote 4 -
+# Amendment history" block landed inside the act's last section as one flattened line; the
+# OECD table of contents leaked into c31-32 as a spaced dot leader.
+#
+# The plan's first draft of this rule ("5+ dots in a line longer than 2,000 characters, or after
+# an Endnote heading") fires 18 times in 11 files, and 15 of those are the legitimate population
+# the same plan says must not fire: the itAA-1997 Div 10/11/12 checklists, the master-GST-guide
+# checklists and glossary, and the MTG rate layouts are also single long flattened lines with dot
+# leaders. What separates them is the CONTEXT, not the length: the artefact line is endnote text,
+# so an Endnote heading or amendment-history wording sits in it or just above it. With that
+# requirement the class fires on exactly the 3 files the plan named - gst-1999/195-1.md:2483,
+# sis-1993/381.md:772 and fbt-1986/167.md:809 (measured 2026-09-26: 18 rows, 11 -> 3 files at
+# first cut; see the commit) - and 381.md:775 still fires from the block context.
+#
+# The legitimate rows are not asserted clean by a list: the self-test plants the plan's own
+# `child care subsidy ...... 52-150` negative and a long flattened checklist row.
+DOT_RUN = re.compile(r"\.{5,}")
+TOC_LEADER = re.compile(r"\. \. \. \.")
+ENDNOTE_HEAD = re.compile(r"^[ \t]*#{0,6}[ \t]*(?:endnote|endnotes)\b", re.I)
+# Amendment-history wording, which is what the leaked block carries.
+ENDNOTE_MARK = re.compile(r"\bendnote\b|\bamendment history\b|\bamended by\b|\brepealed by\b"
+                          r"|\bas amended\b|\bamending Act\b", re.I)
+
+
+def _endnote_context(lines: list[str], i: int, window: int = 5) -> bool:
+    """True when an Endnote heading or amendment-history wording sits in the 5 lines above i."""
+    return any(ENDNOTE_HEAD.match(lines[j]) or ENDNOTE_MARK.search(lines[j])
+               for j in range(max(0, i - window), i))
+
+
+def scan_dot_leaders(root=None):
+    base = Path(root) if root else DATA
+    for d in sorted(x for x in base.iterdir() if (x / "sections").is_dir()):
+        for p in sorted((d / "sections").rglob("*.md")):
+            rel = str(p.relative_to(base))
+            lines = p.read_text(errors="replace").split("\n")
+            for i, ln in enumerate(lines):
+                if DOT_RUN.search(ln):
+                    # fires on the endnote CONTEXT, not on the length: a long flattened index row
+                    # with no endnote wording is the legitimate shape this class must not report.
+                    if ENDNOTE_MARK.search(ln) or _endnote_context(lines, i):
+                        add("C25_dot_leader_endnote", rel,
+                            f"line {i + 1}: dot leaders in endnote context on a {len(ln)}-character "
+                            f"line - endnote text flattened into the section: {ln.strip()[:60]!r}")
+                if TOC_LEADER.search(ln):
+                    add("C25_toc_leak", rel,
+                        f"line {i + 1}: spaced dot leader ('. . . .') from a leaked table of "
+                        f"contents: {ln.strip()[:60]!r}")
+
+
+# ── C27 (S4): a section file no tree/index references ──────────────────────
+# master-tax-examples carries 23 slug-length twins whose bodies are identical to a registered
+# section: two slug generations were written in one regeneration (19068816f) and only one was
+# registered. The general check is what catches the next generation, so it runs on every act
+# with a tree/index - triage the orphans it finds, never bulk-delete them.
+# Measured 2026-09-26: 23 findings, all in master-tax-examples (310 registered + 23 unregistered
+# = 333 files) - the plan's exact figure. No other act has an orphan.
+def tree_section_refs(act_dir: Path) -> set[str]:
+    """Every path, file name and id an act's tree.json / section_index.json references."""
+    refs: set[str] = set()
+    tree = act_dir / "tree.json"
+    if tree.exists():
+        try:
+            t = json.loads(tree.read_text())
+        except Exception:
+            t = None
+
+        def walk(node):
+            if isinstance(node, dict):
+                for s in node.get("sections", []):
+                    if s.get("path"):
+                        refs.add(str(s["path"]))
+                    if s.get("id") is not None:
+                        refs.add(str(s["id"]))
+                for k in ("parts", "divisions", "subdivisions"):
+                    for c in node.get(k, []):
+                        walk(c)
+        if t is not None:
+            walk(t)
+    idx = act_dir / "section_index.json"
+    if idx.exists():
+        try:
+            entries = json.loads(idx.read_text())
+        except Exception:
+            entries = []
+        for e in entries if isinstance(entries, list) else []:
+            if isinstance(e, dict):
+                for k in ("path", "id"):
+                    if e.get(k):
+                        refs.add(str(e[k]))
+    return refs
+
+
+def scan_unregistered_sections(root=None):
+    base = Path(root) if root else DATA
+    for d in sorted(x for x in base.iterdir() if (x / "sections").is_dir()):
+        refs = tree_section_refs(d)
+        if not refs:
+            add("C27_unregistered_section:CONVENTION", f"data/{d.name}/sections",
+                "no tree.json / section_index.json references to check against - "
+                "check skipped, not a pass")
+            continue
+        for p in sorted((d / "sections").rglob("*.md")):
+            rel = str(p.relative_to(d / "sections"))
+            if rel in refs or p.stem in refs or p.name in refs:
+                continue
+            add("C27_unregistered_section", f"{d.name}/sections/{rel}",
+                "no tree.json / section_index.json entry references this file - orphan "
+                "(triage: a duplicate of a registered twin, or a real section missing from "
+                "the tree)")
+
+
+# ── shared detector registry (S3, 2026-09-26) ───────────────────────────────
+# ONE list. main() iterates it, and scripts/randomised_api_mcp_test.py (the nightly's content
+# phase) imports THIS list instead of keeping its own copy. Before this the two had already
+# drifted in both directions: the nightly's hand-kept 15 names included scan_body_fragments,
+# which main() never called, and omitted scan_drawing_characters (C15) and
+# scan_page_rule_artifacts (C16), both of which main() did call - so C15/C16 were dark at
+# night and C5_body_fragments was dark in the standalone scanner. Every detector added below
+# is registered here; nothing is called from main() that is not in this list.
+DETECTORS = [
+    "scan_compilation_no",
+    "scan_empty_tree_nodes",
+    "scan_tree_titles",
+    "scan_asterisk_noise",
+    "scan_section_fragments",
+    "scan_body_fragments",
+    "scan_stray_cut_tokens",
+    "scan_chapeau",
+    "scan_missing_chapeau",
+    "scan_nz_amendment_parts",
+    "scan_ruling_title_fragments",
+    "scan_formatting_artifacts",
+    "scan_definitions",
+    "scan_case_citations",
+    "scan_table_coherence",
+    "scan_missing_heading",
+    "scan_duplicate_anchors",
+    "scan_lost_formula_structure",
+    "scan_drawing_characters",
+    "scan_page_rule_artifacts",
+    "scan_character_classes",
+    "scan_glued_headings",
+    "scan_dot_leaders",
+    "scan_unregistered_sections",
+]
+
+
+def main():
+    for name in DETECTORS:
+        globals()[name]()
+
+    # summarize: findings, plus the occurrence count for classes that aggregate characters
     by_class = Counter(f["class"] for f in findings)
+    occurrences = Counter()
+    for f in findings:
+        occurrences[f["class"]] += int(f.get("count", 1))
     print(f"TOTAL FINDINGS: {len(findings)}")
     for cls, cnt in sorted(by_class.items()):
-        print(f"  {cls}: {cnt}")
+        occ = occurrences[cls]
+        extra = f" ({occ} occurrence(s))" if occ != cnt else ""
+        print(f"  {cls}: {cnt}{extra}")
     print()
-    # print first 3 per class for context
-    seen = set()
-    for f in findings:
-        if f["class"] not in seen:
-            print(f"--- {f['class']} ---")
-            seen.add(f["class"])
-        print(f"  {f['path']}: {f['detail'][:100]}")
+    # print a bounded sample per class for context - the full list goes to the JSON. A class
+    # like C22_ligature has ~1,300 findings and printing them all buried the rest of the report;
+    # the samples are grouped by class so the report reads class by class.
+    PER_CLASS_SAMPLE = 20
+    for cls in sorted(by_class):
+        print(f"--- {cls} ---")
+        for f in [x for x in findings if x["class"] == cls][:PER_CLASS_SAMPLE]:
+            print(f"  {f['path']}: {f['detail'][:100]}")
+        if by_class[cls] > PER_CLASS_SAMPLE:
+            print(f"  ... {by_class[cls] - PER_CLASS_SAMPLE} more in the JSON below")
 
     out = Path("/tmp/corpus_scan_20260826.json")
     out.write_text(json.dumps(findings, indent=2))

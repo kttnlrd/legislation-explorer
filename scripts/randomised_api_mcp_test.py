@@ -333,18 +333,16 @@ print(f"\n── MCP PHASE: {sum(1 for r in results if r[0]=='mcp')} checks | FA
 # Full-corpus scans for corruption classes (glued files, fragments, stray cut
 # tokens, chapeau drops, formatting artifacts, broken definitions, case
 # citations). Every class found is a FIND (data gap) -> synced as a ticket.
+# The detector set is scan_corpus_error_classes.DETECTORS — ONE shared list, iterated here
+# and by the scanner's own main() (S3, 2026-09-26). Before that this file kept its own
+# 15-name hand copy, which had already drifted from main() in both directions.
 import importlib.util
 _spec = importlib.util.spec_from_file_location(
     "scan_corpus_error_classes",
     os.path.join(os.path.dirname(os.path.abspath(__file__)), "scan_corpus_error_classes.py"))
 sc = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(sc)
-for _fn in ["scan_lost_formula_structure",
-            "scan_compilation_no", "scan_empty_tree_nodes", "scan_tree_titles",
-            "scan_asterisk_noise", "scan_section_fragments", "scan_stray_cut_tokens",
-            "scan_chapeau", "scan_formatting_artifacts", "scan_definitions",
-            "scan_case_citations", "scan_body_fragments", "scan_table_coherence",
-            "scan_missing_heading", "scan_duplicate_anchors"]:
+for _fn in sc.DETECTORS:
     getattr(sc, _fn)()
 _by_class = {}
 for _f in sc.findings:
