@@ -202,7 +202,7 @@ CHANGELOG = [
             "Removed redundant Report a Bug button in sidebar (Bugs modal already has report form).",
             "Cleaned up sidebar button formatting — removed flexWrap/center that caused cramped layout.",
             "Filter tabs (All, Sections, Rulings, Cases, Commentary) now auto-trigger search on click — no need to press Search again.",
-            "Removed autocomplete dropdown — search button goes straight to full paginated results.",
+            "Removed autocomplete dropdown — search button goes straight to full paginated results. (Reversed 2026-09-26: live suggestions restored while typing, 2-char minimum / 250 ms debounce — CDN-0099.)",
             "Removed color coding of open vs. known issues in IssuesModal (resolved section split is sufficient).",
             "Cleaned up 24 test/placeholder tickets from the issues database. Updated notes to remove B-notation.",
             "Version bumped to 2.7.4",

@@ -55,6 +55,13 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const [suggestions, setSuggestions] = useState<{ act: string; section: string; title: string; type: string }[]>([])
   const [showSuggestions, setShowSuggestions] = useState(false)
   const [highlightIdx, setHighlightIdx] = useState(-1)
+  const suggestTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+  // api.suggest takes no AbortSignal (frontend/src/api.ts), so a slow response
+  // cannot be cancelled. Two guards instead: a monotonic request id, and the
+  // query the request was issued for. A response is applied only when it is
+  // still the newest request AND its query is still the live one.
+  const suggestSeq = useRef(0)
+  const suggestFor = useRef('')
   const containerRef = useRef<HTMLDivElement>(null)
 
   const SUGGEST_LIMIT = 8
@@ -85,8 +92,43 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
-  // Suggestions are only fetched when the user presses Search — no live
-  // typing dropdown. They act as instant quick-nav while the full search runs.
+  // Debounced suggest — live autocomplete as the user types (CDN-0099).
+  // Restores the effect removed in 7066299a5 (2-char minimum, 250 ms debounce,
+  // api.suggest(q, 8)) with a staleness guard. The removed version used an
+  // AbortController that api.suggest ignored, so an out-of-order response could
+  // overwrite newer suggestions; the sequence ref below fixes that.
+  useEffect(() => {
+    const q = query.trim()
+    if (q.length < 2) {
+      // Also invalidates any in-flight request for the previous query.
+      suggestSeq.current += 1
+      suggestFor.current = ''
+      setSuggestions([])
+      setShowSuggestions(false)
+      setHighlightIdx(-1)
+      return
+    }
+    if (suggestTimer.current) clearTimeout(suggestTimer.current)
+    suggestTimer.current = setTimeout(async () => {
+      const seq = ++suggestSeq.current
+      suggestFor.current = q
+      try {
+        const data = await api.suggest(q, SUGGEST_LIMIT)
+        // Stale response: a newer query has been typed, or the box was cleared.
+        if (seq !== suggestSeq.current || suggestFor.current !== q) return
+        if (data.suggestions) {
+          setSuggestions(data.suggestions)
+          setShowSuggestions(data.suggestions.length > 0)
+          setHighlightIdx(-1)
+        }
+      } catch {
+        // ignore failed request
+      }
+    }, 250)
+    return () => {
+      if (suggestTimer.current) clearTimeout(suggestTimer.current)
+    }
+  }, [query])
 
   const runSearchWithSuggestions = async () => {
     const term = query.trim()
