@@ -297,7 +297,17 @@ def _continuation_after(lines: list[str], ln_no: int, max_look: int = 4) -> tupl
 
 def table_coherence_findings(lines: list[str], relpath: str) -> list[dict]:
     """The C11 detectors for ONE file. scan_table_coherence() walks the corpus
-    and calls this; other tools (corpus_change_guard) reuse it per-file."""
+    and calls this; other tools (corpus_change_guard) reuse it per-file.
+
+    S5 (2026-09-26) — are C11_table_midword and C11_table_truncated one class reported twice?
+    No: they are two distinct defects. What made them look like one is that the per-line check
+    stopped at the first match (glyph `continue`, truncated `continue`, midword tested last), so a
+    row carrying both signatures was reported once and the second signature was invisible. The
+    measured evidence: of 31 files with either class, 11 carry both, but 0 shared a LINE, and the
+    identical "78 in 31 files" for both classes is a coincidence. Removing the first-match-wins
+    `continue` makes 4 lines report both (itaa-1936 94.md:146, 121AS.md:57/203/205); the classes
+    stay distinct and their counts rise to true incidence rather than being a floor.
+    """
     out: list[dict] = []
 
     def add(cls, _path, detail):
@@ -306,13 +316,23 @@ def table_coherence_findings(lines: list[str], relpath: str) -> list[dict]:
     for ln_no, ln in enumerate(lines, 1):
         if not ln.startswith("|") or re.match(r"^\|\s*---", ln):
             continue
+        # Every signature on the line is reported; the dedup key is (file, line, class), so one
+        # row can name a glyph AND a truncation AND a mid-word split, but never the same class
+        # twice (this is what keeps a repair worklist one row per row).
+        emitted: set[str] = set()
+
+        def emit(cls, detail):
+            if cls in emitted:
+                return
+            emitted.add(cls)
+            add(cls, relpath, detail)
+
         # (b) glyph junk (ignore natural-language accents, e.g. "Fédération")
         gm = next((m for m in EXTRACT_GLYPH.finditer(ln)
                    if not _is_natural_word_accent(ln, m)), None)
         if gm:
-            add("C11_table_glyph", relpath,
-                f"line {ln_no}: extraction glyph {gm.group(0)!r}: {ln.strip()[:90]}")
-            continue
+            emit("C11_table_glyph",
+                 f"line {ln_no}: extraction glyph {gm.group(0)!r}: {ln.strip()[:90]}")
         # (c) dangling connector end - a defect ONLY when nothing continues the sentence.
         # A row that wraps ends on a connector by nature, so the old rule counted the wrap as damage
         # and named the class 'truncated'. Every one of the 138 findings was that shape, in corpora
@@ -321,17 +341,16 @@ def table_coherence_findings(lines: list[str], relpath: str) -> list[dict]:
         if DANGLE_CELL_END.search(ln):
             kind, why = _continuation_after(lines, ln_no)
             if kind == "wrap":
-                add("C11_table_rowwrap", relpath,
-                    f"line {ln_no}: row ends on bare connector, continued by the next row "
-                    f"({why}): {ln.strip()[:80]}")
+                emit("C11_table_rowwrap",
+                     f"line {ln_no}: row ends on bare connector, continued by the next row "
+                     f"({why}): {ln.strip()[:80]}")
             elif kind == "header":
-                add("C11_table_header_split", relpath,
-                    f"line {ln_no}: split column heading ({why}): {ln.strip()[:80]}")
+                emit("C11_table_header_split",
+                     f"line {ln_no}: split column heading ({why}): {ln.strip()[:80]}")
             else:
-                add("C11_table_truncated", relpath,
-                    f"line {ln_no}: row ends on bare connector and nothing continues it "
-                    f"({why}): {ln.strip()[:80]}")
-            continue
+                emit("C11_table_truncated",
+                     f"line {ln_no}: row ends on bare connector and nothing continues it "
+                     f"({why}): {ln.strip()[:80]}")
         # (a) mid-word split across adjacent cells — wordlist test
         if _WORDS is None:
             continue
@@ -348,8 +367,8 @@ def table_coherence_findings(lines: list[str], relpath: str) -> list[dict]:
             # word was cut across cells ('d | efinitions' too — a
             # single-letter half is still a fragment, not a cell).
             if joined in _WORDS and not (tw in _WORDS and hw in _WORDS):
-                add("C11_table_midword", relpath,
-                    f"line {ln_no}: '{tw}|{hw}' = '{joined}' cut across cells {ci+1}|{ci+2}: {ln.strip()[:100]}")
+                emit("C11_table_midword",
+                     f"line {ln_no}: '{tw}|{hw}' = '{joined}' cut across cells {ci+1}|{ci+2}: {ln.strip()[:100]}")
                 break
     return out
 
