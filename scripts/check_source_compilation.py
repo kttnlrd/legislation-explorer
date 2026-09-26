@@ -1,11 +1,17 @@
 #!/usr/bin/env python3.12
 """Refuse to build a corpus from source volumes that are not the compilation being claimed.
 
-WHY: rebuild.sh extracts the in-repo PDFs (Compilation No. 263, C2026C00122) into
-data/itaa-1997/raw and then runs the parser with `--compilation-no 266 --compilation-date
-2026-07-01`. The result is a corpus of comp-263 content stamped 266 — it gets OLDER while claiming
+WHY: rebuild.sh extracted the then-vendored PDFs (Compilation No. 263, C2026C00122) into
+data/itaa-1997/raw and then ran the parser with `--compilation-no 266 --compilation-date
+2026-07-01`. The result was a corpus of comp-263 content stamped 266 — it gets OLDER while claiming
 to be current, and comp-266-only provisions (e.g. 40-291A) vanish with no error. Nothing in the
 build noticed, because nothing compared the source to the claim.
+
+Current state (S1, batch 5, 2026-09-26): source/itaa-1997/ vendors the comp-266 set
+(C2026C00324VOL01-12.pdf), so this guard now passes for all four guarded acts, and
+scripts/test_rebuild_guards.py pins this script's expectations against both the PDF footer and
+the corpus frontmatter. scripts/check_guard_vs_corpus.py is the companion check: this script
+cannot see the corpus, so it cannot notice a rebuild that downgrades published law text.
 
 This is the comparison. It reads the compilation number off the source volume itself (not its
 filename, which can lie) and exits non-zero when it disagrees with the number the build is about
