@@ -14,6 +14,8 @@ source_pdf: "corps-act"
 
 # 9AA Certain family relationships
 
+For the purposes of this Act, relationships (including the relationship of being family) are taken to include:
+
 **(a)** relationships between de facto partners (within the meaning of the Acts Interpretation Act 1901); and
 
 **(b)** relationships of child and parent that arise:

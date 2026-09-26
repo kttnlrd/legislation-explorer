@@ -4,7 +4,7 @@ chapter: "Chapter 5—External administration"
 part: "5.7B"
 part_title: "Part 5.7B—Recovering property or compensation for the benefit of creditors of insolvent company"
 division: "3"
-division_title: "Division 3—Duties to prevent insolvent trading and creditor‑defeating dispositions"
+division_title: "Division 3—Duties to prevent insolvent trading and creditor-defeating dispositions"
 section: "588GAAA"
 section_title: "Safe harbour—temporary relief in response to the coronavirus"
 compilation_no: 0
@@ -20,7 +20,7 @@ source_pdf: "corps-act"
 
 **(b)** during:
 
-**(i)** the 6‑month period starting on the day this section commences; or
+**(i)** the 6-month period starting on the day this section commences; or
 
 **(ii)** any longer period that starts on the day this section commences and that is prescribed by the regulations for the purposes of this subparagraph; and
 

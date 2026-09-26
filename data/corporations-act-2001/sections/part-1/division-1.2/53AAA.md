@@ -20,9 +20,9 @@ source_pdf: "corps-act"
 
 **(a)** disregard subparagraphs (ii) and (iia); and
 
-**(b)** treat the reference in subparagraph (iv) to the body as instead being a reference to a sub‑fund of the CCIV; and
+**(b)** treat the reference in subparagraph (iv) to the body as instead being a reference to a sub-fund of the CCIV; and
 
-**(c)** treat the reference to a liquidator or provisional liquidator of the body as instead being a reference to a liquidator or provisional liquidator of a sub‑fund of the CCIV.
+**(c)** treat the reference to a liquidator or provisional liquidator of the body as instead being a reference to a liquidator or provisional liquidator of a sub-fund of the CCIV.
 
 **(3)** The provisions for subsection (1) are the following:
 

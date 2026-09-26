@@ -4,7 +4,7 @@ chapter: "Chapter 2M—Financial reports, sustainability reports and audit"
 part: "2M"
 part_title: "Part 2M.3—Financial and sustainability reporting"
 division: "7"
-division_title: "Division 7—Financial years and half‑years"
+division_title: "Division 7—Financial years and half-years"
 section: "323DAAA"
 section_title: "Financial years for registrable superannuation entities"
 compilation_no: 0

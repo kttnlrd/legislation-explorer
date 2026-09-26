@@ -14,7 +14,7 @@ source_pdf: "corps-act"
 
 # 9AB Meaning of asset
 
-**(1)** An asset (except in relation to a sub‑fund of a CCIV) is property, or a right, of any kind, and includes:
+**(1)** An asset (except in relation to a sub-fund of a CCIV) is property, or a right, of any kind, and includes:
 
 **(a)** any legal or equitable estate or interest (whether present or future, vested or contingent, tangible or intangible, in real or personal property) of any kind; and
 
@@ -26,7 +26,7 @@ source_pdf: "corps-act"
 
 **(2)** The assets of a financial services licensee are all the licensee's assets (as defined in subsection (1)), whether or not the assets are used in connection with the licensee's Australian financial services licence.
 
-**(3)** An asset of a sub‑fund of a CCIV has the meaning given by section 1233H.
+**(3)** An asset of a sub-fund of a CCIV has the meaning given by section 1233H.
 
 ---
 *Corporations Act 2001*

@@ -6,17 +6,17 @@ part_title: "Part 5.7B—Recovering property or compensation for the benefit of 
 division: "2"
 division_title: "Division 2—Voidable transactions"
 section: "588FGAA"
-section_title: "ASIC may order undoing of effect of creditor‑defeating dispositions by company being wound up"
+section_title: "ASIC may order undoing of effect of creditor-defeating dispositions by company being wound up"
 compilation_no: 0
 compilation_date: ""
 source_pdf: "corps-act"
 ---
 
-# 588FGAA ASIC may order undoing of effect of creditor‑defeating dispositions by company being wound up
+# 588FGAA ASIC may order undoing of effect of creditor-defeating dispositions by company being wound up
 
 **(1)** This section applies if:
 
-**(a)** a company for which a liquidator has been appointed has made a creditor‑defeating disposition of property; and
+**(a)** a company for which a liquidator has been appointed has made a creditor-defeating disposition of property; and
 
 **(b)** the disposition is voidable under subsection 588FE(6B); and
 
@@ -26,13 +26,13 @@ source_pdf: "corps-act"
 
 **(ii)** the person's acquisition of the property after the disposition.
 
-**Note:** The person may receive money or property as an indirect result of acquiring (by the creditor‑defeating disposition or a later transaction) the property of the company that was the subject of the creditor‑defeating disposition, and later disposing of that property and receiving money or property as consideration for the later disposal.
+**Note:** The person may receive money or property as an indirect result of acquiring (by the creditor-defeating disposition or a later transaction) the property of the company that was the subject of the creditor-defeating disposition, and later disposing of that property and receiving money or property as consideration for the later disposal.
 
 Liquidator may request order
 
-**(2)** The company's liquidator may request ASIC to make an order under subsection (3). The request may be made only during the period beginning on the relation‑back day and ending on the later of:
+**(2)** The company's liquidator may request ASIC to make an order under subsection (3). The request may be made only during the period beginning on the relation-back day and ending on the later of:
 
-**(a)** 3 years after the relation‑back day; and
+**(a)** 3 years after the relation-back day; and
 
 **(b)** 12 months after the first appointment of a liquidator in relation to the winding up of the company.
 
