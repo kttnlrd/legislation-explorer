@@ -592,8 +592,17 @@ def _graph_commentary_for_section(act: str, section: str, limit: int = 10) -> li
     entries while the graph carries 2 explained_in commentary nodes.
 
     Returns entries shaped for get_section's related.commentary block:
-    publication, chapter_number, chapter_title, heading_title, url, snippet
-    (+ content when include_commentary=True is handled by the caller).
+    publication, chapter_number, chapter_title, heading_title/title, source,
+    url, snippet, content_ref (+ content when include_commentary=True is
+    handled by the caller).
+
+    CDN-0206: chapters are ranked by how many of their commentary nodes explain
+    this section, then the publications are interleaved round-robin, most-linked
+    chapter first. Two earlier selections failed: `ORDER BY e.weight DESC LIMIT
+    n` (head) returned only Master Tax Examples for s8-1, because every edge
+    weighs 1.0 and MTE node ids sort first; alternating publications but breaking
+    ties by node key (the working-tree diff) went alphabetical by chapter, so
+    MTG ch-16 (Deductions, 47 of the 73 MTG links to s8-1) never appeared.
     """
     if not _GRAPH_DB.exists():
         return []
@@ -608,22 +617,64 @@ def _graph_commentary_for_section(act: str, section: str, limit: int = 10) -> li
             cid = row[0]
             rows = conn.execute(
                 """
-                SELECT n.key AS nkey, n.label AS nlabel, n.content_ref
+                SELECT n.key AS nkey, n.label AS nlabel, n.content_ref,
+                       MAX(e.weight) AS w
                 FROM graph_edges e
                 JOIN nodes n ON n.id = CASE WHEN e.source_id=? THEN e.target_id ELSE e.source_id END
                 WHERE (e.source_id=? OR e.target_id=?)
                   AND e.edge_type='explained_in' AND n.node_type='commentary'
                 GROUP BY n.id
-                ORDER BY e.weight DESC
-                LIMIT ?
                 """,
-                (cid, cid, cid, limit),
+                (cid, cid, cid),
             ).fetchall()
-            out = []
-            for nkey, nlabel, content_ref in rows:
-                entry = _graph_commentary_entry(nkey, nlabel, content_ref)
-                if entry:
-                    out.append(entry)
+            # CDN-0206 ranking. Every explained_in edge for a section carries the
+            # same weight (1.0, method=regex), so weight cannot separate the
+            # candidates: for itaa-1997 s8-1 there are 73 Master Tax Guide + 39
+            # Master Tax Examples nodes. Rank a chapter by how many of its
+            # commentary nodes explain this section — 47 of the 73 MTG links come
+            # from ch-16 (Deductions), so ch-16 is the most relevant chapter — then
+            # interleave the publications round-robin so neither one fills the slice
+            # (both "order by weight" and "alternate + break ties by key" failed:
+            # the first returned only MTE, the second went alphabetical by chapter
+            # and never reached ch-16).
+            chapter_links: dict[tuple[str, str], int] = {}
+            candidates: list[tuple[str, str, str | None, str, str, float]] = []
+            for nkey, nlabel, content_ref, weight in rows:
+                parts = nkey.split(":", 2)
+                if len(parts) < 3:
+                    continue
+                pub, path = parts[1], parts[2]
+                ch_part = path.split("/", 1)[0]
+                chapter_links[(pub, ch_part)] = chapter_links.get((pub, ch_part), 0) + 1
+                candidates.append((nkey, nlabel, content_ref, pub, ch_part, float(weight or 0.0)))
+            candidates.sort(key=lambda c: (
+                -chapter_links[(c[3], c[4])],   # the chapter's link count to this section
+                -c[5],                          # then the edge weight
+                c[0],                           # then the node key, for determinism
+            ))
+            groups: dict[str, list] = {}
+            for c in candidates:
+                groups.setdefault(c[3], []).append(c)
+            # Round-robin across publications, most-linked chapter first.
+            order = sorted(
+                groups,
+                key=lambda p: (-max(chapter_links[(p, c[4])] for c in groups[p]), p),
+            )
+            out: list[dict] = []
+            while len(out) < limit:
+                progressed = False
+                for p in order:
+                    if len(out) >= limit:
+                        break
+                    if not groups[p]:
+                        continue
+                    nkey, nlabel, content_ref, _pub, _ch, _w = groups[p].pop(0)
+                    progressed = True
+                    entry = _graph_commentary_entry(nkey, nlabel, content_ref)
+                    if entry:
+                        out.append(entry)
+                if not progressed:
+                    break
             return out
         finally:
             conn.close()
@@ -631,11 +682,59 @@ def _graph_commentary_for_section(act: str, section: str, limit: int = 10) -> li
         return []
 
 
+@functools.lru_cache(maxsize=None)
+def _commentary_section_index(pub: str) -> dict[str, dict]:
+    """data/<pub>/section_index.json → {slug: {chapter, chapter_title, ...}}."""
+    path = DATA_DIR / pub / "section_index.json"
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+    return {e.get("id"): e for e in data if isinstance(e, dict) and e.get("id")}
+
+
+@functools.lru_cache(maxsize=None)
+def _commentary_part_titles(pub: str) -> dict[str, str]:
+    """data/<pub>/tree.json → {'ch-01': 'Ch 01 — Introduction to ...'}."""
+    path = DATA_DIR / pub / "tree.json"
+    if not path.exists():
+        return {}
+    try:
+        tree = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+    return {p.get("id"): p.get("title", "") for p in tree.get("parts", []) if isinstance(p, dict)}
+
+
+def _parse_commentary_frontmatter(text: str) -> dict:
+    """Parse the leading YAML frontmatter of a commentary corpus file."""
+    fm: dict[str, str] = {}
+    if not text.startswith("---"):
+        return fm
+    end = text.find("\n---", 3)
+    if end == -1:
+        return fm
+    for line in text[3:end].splitlines():
+        if ":" not in line:
+            continue
+        k, v = line.split(":", 1)
+        fm[k.strip()] = v.strip().strip('"').strip("'")
+    return fm
+
+
 def _graph_commentary_entry(nkey: str, nlabel: str, content_ref: str | None) -> dict | None:
     """Build a related.commentary entry from a commentary graph node.
 
     key format: commentary:<publication>:ch-<n>/<section-slug>
     e.g. commentary:master-tax-examples:ch-10/10-240-division-7a-...
+
+    CDN-0206: `source` comes from the corpus file's own frontmatter `act`
+    (e.g. 'Australian Master Tax Guide'), `chapter_title` from
+    section_index.json (falling back to tree.json part title), and
+    heading_title/title from the frontmatter `title` (clean, no graph-label
+    prefix). The existing locator fields are preserved.
     """
     try:
         _, pub, path = nkey.split(":", 2)
@@ -646,11 +745,14 @@ def _graph_commentary_entry(nkey: str, nlabel: str, content_ref: str | None) -> 
     ch_part, slug = path.split("/", 1)
     if not slug:
         return None
+    fm: dict = {}
     snippet = ""
     if content_ref:
         md_path = DATA_DIR / content_ref.removeprefix("data/")
         try:
-            body = md_path.read_text(encoding="utf-8")
+            raw = md_path.read_text(encoding="utf-8")
+            fm = _parse_commentary_frontmatter(raw)
+            body = raw
             if body.startswith("---"):
                 fm_end = _re.search(r"\n---\s*\n", body)
                 if fm_end:
@@ -662,11 +764,20 @@ def _graph_commentary_entry(nkey: str, nlabel: str, content_ref: str | None) -> 
             snippet = body[:500]
         except Exception:
             snippet = ""
+    chapter_title = ""
+    idx_entry = _commentary_section_index(pub).get(slug)
+    if idx_entry:
+        chapter_title = idx_entry.get("chapter_title") or ""
+    if not chapter_title:
+        chapter_title = _commentary_part_titles(pub).get(ch_part, "") or ""
+    clean_title = (fm.get("title") or "").strip() or nlabel
     return {
         "publication": _PUB_DISPLAY.get(pub, pub),
         "chapter_number": ch_part.removeprefix("ch-"),
-        "chapter_title": "",
-        "heading_title": nlabel,
+        "chapter_title": chapter_title,
+        "heading_title": clean_title,
+        "title": clean_title,
+        "source": fm.get("act") or _PUB_DISPLAY.get(pub, pub),
         "url": f"/{pub}/{slug}",
         "snippet": snippet,
         "content_ref": content_ref,
@@ -1026,8 +1137,11 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
             "chapter_number": entry.get("chapter_number"),
             "chapter_title": entry.get("chapter_title", ""),
             "heading_title": entry.get("heading_title", ""),
+            "title": entry.get("title", entry.get("heading_title", "")),
+            "source": entry.get("source", ""),
             "url": entry.get("url"),
             "snippet": entry.get("snippet", ""),
+            "content_ref": entry.get("content_ref"),
         }
         if include_commentary and entry.get("content_ref"):
             md_path = DATA_DIR / entry["content_ref"].removeprefix("data/")
