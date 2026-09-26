@@ -593,7 +593,7 @@
     },
     {
       "id": "ch-04",
-      "title": "Ch 04 — Dividends тАв Imputation System",
+      "title": "Ch 04 — Dividends • Imputation System",
       "sections": [
         {
           "id": "allocating-franking-credits-to-distributions",
@@ -1010,7 +1010,7 @@
     },
     {
       "id": "ch-06",
-      "title": "Ch 06 — Trustees тАв Beneficiaries тАв Deceased Estates",
+      "title": "Ch 06 — Trustees • Beneficiaries • Deceased Estates",
       "sections": [
         {
           "id": "accumulating-income-of-non-resident-trusts",
@@ -1473,7 +1473,7 @@
     },
     {
       "id": "ch-09",
-      "title": "Ch 09 — Tax Accounting тАв Trading Stock",
+      "title": "Ch 09 — Tax Accounting • Trading Stock",
       "sections": [
         {
           "id": "cash-versus-accruals-basis",
@@ -1629,7 +1629,7 @@
     },
     {
       "id": "ch-10",
-      "title": "Ch 10 — Assessable Income тАв Tax Exemptions",
+      "title": "Ch 10 — Assessable Income • Tax Exemptions",
       "sections": [
         {
           "id": "accident-and-disability-policies",
@@ -2070,7 +2070,7 @@
     },
     {
       "id": "ch-11",
-      "title": "Ch 11 — Capital Gains Tax тАв General Topics",
+      "title": "Ch 11 — Capital Gains Tax • General Topics",
       "sections": [
         {
           "id": "acquisitions-without-a-cgt-event",
@@ -2406,7 +2406,7 @@
     },
     {
       "id": "ch-12",
-      "title": "Ch 12 — Capital Gains Tax тАв Special Topics",
+      "title": "Ch 12 — Capital Gains Tax • Special Topics",
       "sections": [
         {
           "id": "assets-of-a-business",
@@ -2717,7 +2717,7 @@
     },
     {
       "id": "ch-13",
-      "title": "Ch 13 — Superannuation Funds тАв Contributions",
+      "title": "Ch 13 — Superannuation Funds • Contributions",
       "sections": [
         {
           "id": "acceptance-of-contributions-and-benefit-accruals",
@@ -2953,7 +2953,7 @@
     },
     {
       "id": "ch-14",
-      "title": "Ch 14 — Superannuation Benefits тАв Termination Payments",
+      "title": "Ch 14 — Superannuation Benefits • Termination Payments",
       "sections": [
         {
           "id": "authority",
@@ -3195,7 +3195,7 @@
     },
     {
       "id": "ch-16",
-      "title": "Ch 16 — Business, Employment and Investment Deductions тАв Gifts",
+      "title": "Ch 16 — Business, Employment and Investment Deductions • Gifts",
       "sections": [
         {
           "id": "acquisitions",
@@ -4083,7 +4083,7 @@
     },
     {
       "id": "ch-19",
-      "title": "Ch 19 — Mining тАв Infrastructure тАв Environmental Protection",
+      "title": "Ch 19 — Mining • Infrastructure • Environmental Protection",
       "sections": [
         {
           "id": "benefits",
@@ -4159,7 +4159,7 @@
     },
     {
       "id": "ch-20",
-      "title": "Ch 20 — R&D тАв Films тАв Digital Games тАв Capital Works тАв NRAS тАв Innovation Incentives",
+      "title": "Ch 20 — R&D • Films • Digital Games • Capital Works • NRAS • Innovation Incentives",
       "sections": [
         {
           "id": "actual-use-and-intended-use-of-capital-works",
@@ -4290,7 +4290,7 @@
     },
     {
       "id": "ch-21",
-      "title": "Ch 21 — Residence тАв Source тАв Foreign Tax Offsets тАв Accruals Taxation",
+      "title": "Ch 21 — Residence • Source • Foreign Tax Offsets • Accruals Taxation",
       "sections": [
         {
           "id": "accruals-taxation-of-non-resident-trust-income",
@@ -4536,7 +4536,7 @@
     },
     {
       "id": "ch-22",
-      "title": "Ch 22 — Non-resident Withholding тАв DTAs тАв Transfer Pricing тАв Thin Capitalisation",
+      "title": "Ch 22 — Non-resident Withholding • DTAs • Transfer Pricing • Thin Capitalisation",
       "sections": [
         {
           "id": "advance-pricing-arrangements",
@@ -4687,7 +4687,7 @@
     },
     {
       "id": "ch-23",
-      "title": "Ch 23 — Financial Arrangements тАв TOFA",
+      "title": "Ch 23 — Financial Arrangements • TOFA",
       "sections": [
         {
           "id": "asset-financing-and-tax-preferred-entities",
@@ -4848,7 +4848,7 @@
     },
     {
       "id": "ch-24",
-      "title": "Ch 24 — Returns тАв Activity Statements тАв RBAs тАв Rulings",
+      "title": "Ch 24 — Returns • Activity Statements • RBAs • Rulings",
       "sections": [
         {
           "id": "additional-time-for-lodgment",
@@ -4974,7 +4974,7 @@
     },
     {
       "id": "ch-25",
-      "title": "Ch 25 — Assessment тАв Audit тАв Collection",
+      "title": "Ch 25 — Assessment • Audit • Collection",
       "sections": [
         {
           "id": "4-year-amendment-period",
@@ -5412,7 +5412,7 @@
     },
     {
       "id": "ch-28",
-      "title": "Ch 28 — Objections тАв Appeals",
+      "title": "Ch 28 — Objections • Appeals",
       "sections": [
         {
           "id": "administrative-review-of-commissioners-decisions",
@@ -5513,7 +5513,7 @@
     },
     {
       "id": "ch-29",
-      "title": "Ch 29 — Penalties тАв Offences",
+      "title": "Ch 29 — Penalties • Offences",
       "sections": [
         {
           "id": "commissioners-discretion-to-remit-penalties",
@@ -5594,7 +5594,7 @@
     },
     {
       "id": "ch-30",
-      "title": "Ch 30 — Tax Avoidance тАв Alienation of Income тАв PSI",
+      "title": "Ch 30 — Tax Avoidance • Alienation of Income • PSI",
       "sections": [
         {
           "id": "application-of-general-anti-avoidance-rules",
@@ -5740,7 +5740,7 @@
     },
     {
       "id": "ch-31",
-      "title": "Ch 31 — Tax Planning тАв Year End Tax Strategies",
+      "title": "Ch 31 — Tax Planning • Year End Tax Strategies",
       "sections": [
         {
           "id": "avoid-deriving-assessable-amounts",
@@ -6027,7 +6027,7 @@
     },
     {
       "id": "ch-33",
-      "title": "Ch 33 — Tax File Numbers тАв Director Identification Numbers тАв Australian Business Numbers тАв Third Party Reporting",
+      "title": "Ch 33 — Tax File Numbers • Director Identification Numbers • Australian Business Numbers • Third Party Reporting",
       "sections": [
         {
           "id": "director-identification-number-din",
@@ -7082,7 +7082,7 @@
     },
     {
       "id": "ch-43",
-      "title": "Ch 43 — Capital Allowances (Depreciation) тАв Effective Life",
+      "title": "Ch 43 — Capital Allowances (Depreciation) • Effective Life",
       "sections": [
         {
           "id": "car-depreciation-limit",
