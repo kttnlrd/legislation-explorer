@@ -230,6 +230,38 @@ Within a major heading, emit in this order:
 3. Section refs italic line (`*Refs: s 6-5, s 8-1*`)
 4. Sub-headings (`## Sub-heading`) with their content blocks
 
+### 7.4 NEVER derive a title from a file name (E-a, 2026-09-26)
+**Rule.** A chapter, part or section title comes from the PDF's own first-page heading or
+the upstream content field. It NEVER comes from the source file's name.
+
+**Why.** `data/tax-docs.zip` in the cadena-knowledge-MCP archive stores 22 MTG filenames
+containing U+2022 with the zip UTF-8 flag (0x800) set — the only 22 entries that carry it.
+The unzip step ignored the flag and decoded the *names* as CP866, so the bullet in
+`Ch 04 - Dividends • Imputation System.pdf` became the three Cyrillic characters `тАв`
+(U+0442 U+0410 U+0432). The archive ingest then took the chapter title from that filename
+(`ingest_cch_commentary.py:249-255`, and `scripts/ingest_2025_docs.py:64-72` the same way),
+and the title reached the served tree, the section index and the Postgres `chapter_title`.
+1,370 occurrences in 897 fields had to be repaired by a CP866 round trip
+(`scripts/repair_mtg_mojibake.py`, commit `b8b6723dd`).
+
+**How it is enforced.** `pipeline/build_cch_explorer.py:chapter_title()` takes the title
+from `first_page_heading` / `heading` / `chapter_heading` / `content_title`, else from the
+upstream `title` **only when it is not a file name and carries no non-Latin script**
+(a Cyrillic run in a Latin-script guide is a decoding signature, not content; Latin macrons
+such as `Tāwhirimātea` are legitimate). When neither is usable it prints a warning and
+falls back to the chapter label — it never falls back to the file name. The same rule
+applies to any new ingester: take the heading from the document, not from `Path.stem`.
+Self-test: `scripts/test_e_a_chapter_title_rule.py`.
+
+### 7.5 Normalise the ligature block, and only it (E-c, 2026-09-26)
+**Rule.** Run `pipeline/text_normalize.py:nfkc_ligatures()` over every string an ingester
+serves. It applies `unicodedata.normalize('NFKC', ...)` to U+FB00–U+FB06 only.
+
+**Why.** Full NFKC also rewrites superscripts and fractions, which this corpus serves inside
+formulas (`2⁵`, `½`), so a blanket NFKC would corrupt them. The ligature block alone must be
+normalised because the raw readers — MCP `get_section`, the embeddings, the insolvency FTS —
+do not fold: `financial` matched 9 of 21 Keays chapters while `ﬁnancial` matched 19.
+
 ---
 
 ## 8. Validation Checklist

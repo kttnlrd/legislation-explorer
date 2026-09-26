@@ -3,7 +3,13 @@
 
 import re
 import os
+import sys
 from pathlib import Path
+
+# The producer's own directory, so the shared normaliser imports whether this is run as a
+# script (`python3 pipeline/parse_keays.py`) or imported by a test.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from text_normalize import nfkc_ligatures  # noqa: E402
 
 RAW = "/home/harrison/legislation-explorer/data/keays-raw.txt"
 OUT = "/home/harrison/legislation-explorer/data/insolvency-keays/chapters"
@@ -60,9 +66,18 @@ BOUNDARIES = [
 ]
 
 def clean_text(text: str) -> str:
-    """Clean extracted text for markdown output."""
+    """Clean extracted text for markdown output.
+
+    E-c: the PDF's typographic ligatures (U+FB00-U+FB06) are normalised here, in the one
+    function every chapter body passes through (:116), so "ﬁnancial" is indexed as
+    "financial" - the insolvency FTS reads this text raw, and "financial" searched 9 of the
+    21 chapters while "ﬁnancial" searched 19.  The mapping touches the ligature block only:
+    full NFKC would also rewrite superscripts and fractions elsewhere in this corpus.
+    """
     # Remove \x03 (ETX) characters
     text = text.replace("\x03", "")
+    # Normalise the ligature block (E-c) - everything else is copied byte for byte
+    text = nfkc_ligatures(text)
     # Replace form feeds with clean page breaks
     text = text.replace("\f", "")
     # Collapse multiple blank lines into one

@@ -8,7 +8,14 @@ Produces for each publication:
 """
 import json
 import re
+import sys
 from pathlib import Path
+
+# The producer's own directory, so the shared normaliser imports whether this is run as a
+# script (`python3 pipeline/build_cch_explorer.py`) or imported by a test.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from text_normalize import nfkc_ligatures  # noqa: E402
+
 
 def _natural_key(s: str):
     """Natural sort key: '2' < '10', '83A' after '83'."""
@@ -33,8 +40,15 @@ def slugify(text: str) -> str:
 
 
 def normalize_quotes(text: str) -> str:
-    """Straighten Unicode curly quotes/apostrophes to ASCII."""
-    return (text
+    """Straighten Unicode curly quotes/apostrophes to ASCII, then normalise ligatures.
+
+    E-c: the ligature pass is here because this is the one function every string the
+    builder serves passes through - chapter titles (:144), heading titles (:154), sub-heading
+    titles (:175) and every content block (clean_markdown_text, :45).  Restricting it to
+    U+FB00-06 is deliberate: full NFKC would rewrite the superscripts and fractions in the
+    formulas this corpus serves.
+    """
+    return nfkc_ligatures(text
             .replace('\u2018', "'").replace('\u2019', "'")
             .replace('\u201c', '"').replace('\u201d', '"'))
 
@@ -123,6 +137,63 @@ def clean_markdown_text(text: str) -> str:
     return body
 
 
+# ── E-a: a chapter title is never derived from a file name ──────────────────
+# The archive ingest took the chapter title from the PDF's FILE NAME
+# (ARCHIVE_cadena-knowledge-MCP/pipeline/ingest_cch_commentary.py:249-255, and
+# scripts/ingest_2025_docs.py:64-72 the same way), and 22 of the zip entry names carried
+# the UTF-8 flag that the unzip step ignored and decoded as CP866 - so the bullet in
+# "Dividends • Imputation System" arrived as the Cyrillic "тАв" and became a served chapter
+# title, a tree part title and a section_index chapter_title.  A file name is not a source
+# of a heading: the served title comes from, in order,
+#   1. the PDF's own first-page heading, when the upstream record carries it
+#      (`first_page_heading` / `heading` / `chapter_heading` / `content_title`);
+#   2. the upstream `title`, when it is NOT a file name and holds no non-Latin script
+#      (a Cyrillic run in a Latin-script guide is the CP866 signature, not a title);
+#   3. the chapter number label, with a warning naming the title it refused.
+# The first major heading is deliberately NOT the fallback: it is a section heading, not
+# the chapter's ("Background to income tax in Australia" for Ch 01 "Introduction to
+# Australian Tax System"), so using it would silently mislabel the chapter.
+HEADING_FIELDS = ("first_page_heading", "heading", "chapter_heading", "content_title")
+# The blocks C20_non_latin_script reports; the guide is a Latin-script publication, so any
+# of these in a chapter title is a decoding signature rather than content.  Macrons
+# (OECD, Māori) are Latin and stay legal.
+NON_LATIN_SCRIPT = re.compile(
+    r"[\u0400-\u04FF\u0500-\u052F\u0370-\u03FF\u1F00-\u1FFF"
+    r"\u3040-\u30FF\u4E00-\u9FFF\u0600-\u06FF\u0590-\u05FF]")
+
+
+def _is_file_name(value: str, ch: dict) -> bool:
+    """True when the string is the PDF's file name rather than a heading."""
+    v = value.strip()
+    src = str(ch.get("source_file") or "").strip()
+    if v.lower().endswith(".pdf"):
+        return True
+    if src and v in (src, Path(src).stem, Path(src).name):
+        return True
+    # "Ch 04 - Dividends • Imputation System" is the file-name shape: the ingest built it
+    # by splitting the stem on " - " (ingest_2025_docs.py:69).
+    if re.match(r"^(?:Ch|Topic)\s+\d+\s*[-–—]\s*\S", v):
+        return True
+    return False
+
+
+def chapter_title(ch: dict) -> str:
+    """The chapter's own heading - never a file name, never a decoding signature."""
+    for key in HEADING_FIELDS:
+        v = ch.get(key)
+        if isinstance(v, str) and v.strip() and not _is_file_name(v, ch):
+            return normalize_quotes(v.strip())
+    v = ch.get("title")
+    if isinstance(v, str) and v.strip() and not _is_file_name(v, ch) \
+            and not NON_LATIN_SCRIPT.search(v):
+        return normalize_quotes(v.strip())
+    num = str(ch.get("number") or "").strip()
+    print(f"  WARNING: chapter {num!r} carries no usable heading - "
+          f"{str(v)[:60]!r} is a file name or a non-Latin decoding signature; "
+          f"falling back to the chapter label, not the file name")
+    return f"Chapter {num}" if num else ""
+
+
 def build_pub(json_file: str, meta: dict):
     pub_id = meta["id"]
     pub_name = meta["name"]
@@ -141,7 +212,7 @@ def build_pub(json_file: str, meta: dict):
 
     for ch in data.get("chapters", []):
         ch_num = ch.get("number", "")
-        ch_title = normalize_quotes(ch.get("title", ""))
+        ch_title = chapter_title(ch)
         part_id = f"ch-{ch_num}" if ch_num else slugify(ch_title)
 
         part = {
