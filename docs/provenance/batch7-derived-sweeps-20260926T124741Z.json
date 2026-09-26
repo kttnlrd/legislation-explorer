@@ -1,0 +1,46 @@
+{
+  "batch": "batch 7 of docs/bug-plan-2026-09-25.md (CDN-0173, E-d)",
+  "generated": "2026-09-26T12:58:00+00:00",
+  "source_change": {
+    "deleted_section_files": 445,
+    "deleted_dirs": [
+      "data/nz-it-2007/sections/part-1",
+      "data/nz-it-2007/sections/part-2",
+      "data/nz-it-2007/sections/part-3",
+      "data/nz-it-2007/sections/part-3B"
+    ],
+    "bom_characters_removed": 1939,
+    "bom_files_stripped": 710,
+    "tree_json_parts": "19 -> 15"
+  },
+  "search_index_db": {
+    "producer": "scripts/rebuild_search_index.py -> backend.services.search_service.init_search_index",
+    "runtime_seconds": 152.8,
+    "sections_fts_total": {"before": 20842, "after": 20430, "delta": -412},
+    "sections_meta_total": {"before": 20842, "after": 20430, "delta": -412},
+    "nz_rows": {"before": 3262, "after": 2850, "delta": -412},
+    "nz_rows_in_parts_1_2_3_3B": {"before": 412, "after": 0},
+    "note": "412 not 445: the index keys on (act, section) and the four amendment parts reuse each other's ids, so 445 files were only 412 distinct index rows. No other act's row count changed (20842-412=20430)."
+  },
+  "embeddings_db": {
+    "producer": "scripts/openai_embed.py --prune (prune_stale_rows)",
+    "rows": {"before": 281113, "after": 280665, "delta": -448},
+    "nz_rows": {"before": 4891, "after": 4443, "delta": -448},
+    "rows_for_the_445_dirs": {"before": 448, "after": 0},
+    "scope_check": "13,746 existing section/commentary file paths vs 13,301 on disk = exactly the 445 stale files, all under data/nz-it-2007/sections/part-{1,2,3,3B}/; no other act was a candidate",
+    "collateral": {
+      "similarity_index_dangling_embedding_id": {"before": 917358, "after": 917448},
+      "similarity_index_dangling_neighbor_id": {"before": 938203, "after": 938307},
+      "cross_references_dangling": {"before": 187776, "after": 187776},
+      "note": "similarity_index and cross_references are built by their own producers and are left alone; the ~917k/938k pre-existing orphans are not from this batch (this batch added 90/104)."
+    }
+  },
+  "graph_db": {
+    "producer": "scripts/sweep_graph_stale_sections.py (the stale-node sweep pipeline/graph_etl.py lacks)",
+    "section_nodes_scanned": 13722,
+    "stale_nodes": 0,
+    "deleted_nodes": 0,
+    "deleted_edges": 0,
+    "note": "graph_etl.py:24 ACTS does not include nz-it-2007 and data/graph.db holds 0 nz-it-2007 nodes (by key and by content_ref), so the 445 ids never reached the graph. The sweep is committed anyway so a future ETL that loads nz cannot leave stale nodes."
+  }
+}
