@@ -443,6 +443,29 @@ def _find_similar_via_embeddings(act: str, section: str, target_type: str, limit
         db.close()
 
 
+def _apply_case_names(cases: list[dict]) -> list[dict]:
+    """Replace citation-shaped titles with party names in place (CDN-0205).
+
+    The embeddings/smartlink indexes key cases by citation, so both paths used
+    to hand the frontend `title == citation`. The name index (CASE_DIR then
+    scripts/cleaned/summaries, ~8.5k cases) is the same one the MCP path uses.
+    """
+    if not cases:
+        return cases
+    index = load_case_name_index()
+    for c in cases:
+        cit = c.get("citation") or ""
+        entry = index.get(cit) or index.get(cit.replace("_", " "))
+        if not entry or not entry.get("title"):
+            continue
+        c["title"] = entry["title"]
+        if entry.get("short_name"):
+            c["short_name"] = entry["short_name"]
+        if entry.get("court") and not c.get("court"):
+            c["court"] = entry["court"]
+    return cases
+
+
 def get_cases_for_section(act: str, section: str, limit: int = 50, offset: int = 0) -> list[dict]:
     # Primary: embeddings similarity index (vector-based, highest quality)
     cases = _find_similar_via_embeddings(act, section, "case", limit)
@@ -461,6 +484,10 @@ def get_cases_for_section(act: str, section: str, limit: int = 50, offset: int =
         for cl in case_links:
             case_id = cl.get("id", "")
             cases.append({"type": "case", "title": case_id, "citation": case_id})
+    
+    # CDN-0205: every source above yields citations, so name the rows from the
+    # wide citation→name index before serving them.
+    _apply_case_names(cases)
     
     end = offset + min(limit, 100)
     return cases[offset:end]
@@ -547,23 +574,40 @@ def classify_case(case_name: str) -> str:
     return "other"
 
 
+_GOV_PARTY_KEYS = ("commissioner", "commission", "asic", "australian securities",
+                   "director", "attorney-general", "minister", "administrator")
+# 'Foo Pty Ltd and Commissioner of Taxation (Taxation)' — the AAT/ART conjoiner,
+# as opposed to the ' v ' form the courts use.
+_GOV_CONJOINER_RE = re.compile(
+    r"\s+and\s+(?=(?:the\s+)?(?:Federal\s+|Deputy\s+)?Commissioner\b|Australian Securities\b)",
+    re.IGNORECASE,
+)
+
+
+def _pick_case_party(left: str, right: str) -> str:
+    """Return the non-government side of a case name (the taxpayer/company)."""
+    left_gov = any(k in left.lower() for k in _GOV_PARTY_KEYS)
+    right_gov = any(k in right.lower() for k in _GOV_PARTY_KEYS)
+    if left_gov and not right_gov:
+        return right
+    if right_gov and not left_gov:
+        return left
+    return left if len(left) < len(right) else right
+
+
 def short_case_name(case_name: str) -> str:
     name = case_name.removeprefix("Re ")
     parts = re.split(r'\s+[vV]\s+', name, maxsplit=1)
     if len(parts) == 2:
-        left, right = parts[0], parts[1]
-        gov = ["commissioner", "commission", "asic", "australian securities",
-               "director", "attorney-general", "minister", "administrator"]
-        left_gov = any(k in left.lower() for k in gov)
-        right_gov = any(k in right.lower() for k in gov)
-        if left_gov and not right_gov:
-            candidate = right
-        elif right_gov and not left_gov:
-            candidate = left
-        else:
-            candidate = left if len(left) < len(right) else right
+        candidate = _pick_case_party(parts[0], parts[1])
     else:
-        candidate = name
+        # CDN-0205: 574 AAT/ART names read 'X and Commissioner of Taxation
+        # (Taxation)'. Only splitting on ' v ' left the whole string, and the
+        # tail rule below then returned the jurisdiction word 'Taxation' as the
+        # case's short name. Split on ' and <government party>' and take the
+        # taxpayer side, exactly as the ' v ' branch does.
+        m = _GOV_CONJOINER_RE.split(name, maxsplit=1)
+        candidate = _pick_case_party(m[0], m[1]) if len(m) == 2 else name
     candidate = re.split(r'[;,]\s+(In the Matter of|in the matter of|Receiver)', candidate)[0]
     candidate = re.split(r'\s+\(', candidate)[0]
     candidate = candidate.strip()
