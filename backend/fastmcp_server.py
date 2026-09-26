@@ -2162,6 +2162,12 @@ async def get_case(
     # Structured sources with fetchable flags
     if dl_result and "sources" in dl_result:
         result["sources"] = dl_result["sources"]
+        # The builder returns API-relative paths; an MCP client is remote, so hand it absolute
+        # URLs it can actually fetch.  Without this the full-text HTML link (the route that
+        # replaces the deprecated paragraph search) was unusable outside our own origin.
+        for _src in result["sources"].values():
+            if isinstance(_src, dict) and _src.get("url"):
+                _src["url"] = _abs(_src["url"])
         # Add the hosted browser URL as browser source
         result["sources"]["browser"] = {
             "url": dev_site_url,
