@@ -34,17 +34,23 @@ DATA = REPO / "data"
 OUT = Path("/home/harrison/table-rebuild-out")
 STAGING = Path("/home/harrison/legislation-explorer-staging")
 
-# VERIFIED source map (2026-09-12).  The plan's table is wrong for itaa-1997
-# and itaa-1936; these paths were checked against the PDFs' own footers.
+# VERIFIED source map.  The plan's table is wrong for itaa-1997 and itaa-1936; these paths
+# were checked against the PDFs' own footers.
 #
-# TRAP: staging/source/itaa-1997/C2026C00122VOL*.pdf are compilation 263.
-# The corpus is 266.  Rebuilding from 263 would silently revert law text.
+# S1 (batch 5, 2026-09-26): the repo now vendors the comp-266 volumes itself as
+# source/itaa-1997/C2026C00324VOL*.pdf, so it no longer has to read them from staging.
+# S2 (same batch): gst-1999 moved from source/gst-1999-vol{1,2}.pdf into source/gst-1999/.
+#
+# TRAP (unchanged, now guarded by register id instead of a directory name):
+# staging/source/itaa-1997/C2026C00122VOL*.pdf are compilation 263 while the corpus is 266.
+# Rebuilding from 263 would silently revert law text, so any candidate volume whose own
+# authorised-version register is on the `forbid` list is refused before it is read.
+REPO_SOURCE = REPO / "source"
 SOURCES: dict[str, dict] = {
     "itaa-1997": {
         "comp": 266,
-        "pdfs": sorted((STAGING / "data/itaa-1997/raw/comp266").glob("vol*.pdf"))
-        if (STAGING / "data/itaa-1997/raw/comp266").is_dir() else [],
-        "require_dir": "comp266",
+        "pdfs": sorted((REPO_SOURCE / "itaa-1997").glob("*.pdf")),
+        "forbid": ("C2026C00122",),
     },
     "sis-1993": {"comp": 126, "pdfs": [STAGING / "source/sis-1993/part1.pdf",
                                        STAGING / "source/sis-1993/part2.pdf"]},
@@ -52,12 +58,11 @@ SOURCES: dict[str, dict] = {
                                       STAGING / "source/fbt-1986/part2.pdf"]},
     "taa-1953": {"comp": 222, "pdfs": sorted((STAGING / "source/taa-1953").glob("vol*.pdf"))},
     "itaa-1936": {"comp": 191, "pdfs": sorted((STAGING / "source/itaa-1936").glob("C2026C00165VOL*.pdf"))},
-    # gst-1999: the plan (and codex/opus) said "no PDFs" — WRONG.  Two
-    # exact-compilation volumes exist one level up from the act dir
-    # (verified footer: "Compilation No. 96", pages 430 + 306), so the
-    # PDF path IS available for this act.
-    "gst-1999": {"comp": 96, "pdfs": [STAGING / "source/gst-1999-vol1.pdf",
-                                      STAGING / "source/gst-1999-vol2.pdf"]},
+    # gst-1999: the plan (and codex/opus) said "no PDFs" — WRONG.  Two exact-compilation
+    # volumes exist (verified footer: "Compilation No. 96", pages 430 + 306).  Since S2 they
+    # live in the repo at source/gst-1999/, which is also what rebuild.sh's 1b guard reads.
+    "gst-1999": {"comp": 96, "pdfs": [REPO_SOURCE / "gst-1999" / "vol1.pdf",
+                                      REPO_SOURCE / "gst-1999" / "vol2.pdf"]},
 }
 
 COMP_RE = re.compile(r"Compilation No\.\s*(\d+)")
@@ -95,11 +100,14 @@ def pick_pdf(act: str, section: str, want_comp: int, override: Path | None):
     if not cands:
         raise SystemExit(f"{act}: no source PDFs (repo raw text only) — "
                          f"out of scope for the PDF rebuild path")
-    if act == "itaa-1997":
-        bad = [p for p in cands if cfg["require_dir"] not in str(p)]
+    # The trap guard, now keyed on the volume's own register id rather than a directory name:
+    # the superseded comp-263 volumes (C2026C00122) must never be read for a comp-266 corpus.
+    forbid = cfg.get("forbid") or ()
+    if forbid:
+        bad = [p for p in cands if any(f in Path(p).name.upper() for f in forbid)]
         if bad:
             raise SystemExit(
-                "REFUSING itaa-1997 rebuild: source must be the comp266 volumes "
+                "REFUSING itaa-1997 rebuild: source must be a comp-266 volume "
                 f"(got {bad[0]}).  C2026C00122VOL*.pdf are compilation 263 and "
                 "would silently revert the corpus from 266 to 263.")
     best = None

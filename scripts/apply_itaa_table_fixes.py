@@ -20,7 +20,11 @@ from pathlib import Path
 
 REPO = Path("/home/harrison/legislation-explorer")
 DATA = REPO / "data" / "itaa-1997" / "sections"
-PDFDIR = Path("/home/harrison/legislation-explorer-staging/source/itaa-1997")
+# S1 (batch 5, 2026-09-26): the repo now vendors the comp-266 volumes itself, so the
+# authoritative source is in-repo.  staging/source/itaa-1997 still holds the superseded
+# comp-263 set; every candidate is compilation-checked before it is read, so a stale
+# volume is skipped rather than silently reverting law text.
+PDFDIR = REPO / "source" / "itaa-1997"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import table_rebuild_staging as STAGING  # noqa: E402  (codex R4 gate)
@@ -44,33 +48,32 @@ def _find_python_with_fitz() -> list[str]:
     return ["python3"]  # fall back; extraction will fail loudly if fitz absent
 
 SECTIONS = {
-    "30-25": "C2026C00122VOL01.pdf",
-    "40-180": "C2026C00122VOL02.pdf",
-    "40-190": "C2026C00122VOL02.pdf",
-    "40-300": "C2026C00122VOL02.pdf",
-    "118-300": "C2026C00122VOL03.pdf",
-    "122-25": "C2026C00122VOL04.pdf",
-    "109-55": "C2026C00122VOL03.pdf",
-    "115-30": "C2026C00122VOL03.pdf",
-    "126-15": "C2026C00122VOL04.pdf",
-    "130-40": "C2026C00122VOL04.pdf",
-    "130-60": "C2026C00122VOL04.pdf",
-    "294-80": "C2026C00122VOL06.pdf",
-    "376-135": "C2026C00122VOL07.pdf",
-    "727-550": "C2026C00122VOL09.pdf",
-    "832-615": "C2026C00122VOL09.pdf",
+    "30-25": "C2026C00324VOL01.pdf",
+    "40-180": "C2026C00324VOL02.pdf",
+    "40-190": "C2026C00324VOL02.pdf",
+    "40-300": "C2026C00324VOL02.pdf",
+    "118-300": "C2026C00324VOL03.pdf",
+    "122-25": "C2026C00324VOL04.pdf",
+    "109-55": "C2026C00324VOL03.pdf",
+    "115-30": "C2026C00324VOL03.pdf",
+    "126-15": "C2026C00324VOL04.pdf",
+    "130-40": "C2026C00324VOL04.pdf",
+    "130-60": "C2026C00324VOL04.pdf",
+    "294-80": "C2026C00324VOL06.pdf",
+    "376-135": "C2026C00324VOL07.pdf",
+    "727-550": "C2026C00324VOL09.pdf",
+    "832-615": "C2026C00324VOL09.pdf",
 }
 
 EXTRACTOR = REPO / "scripts" / "extract_itaa_tables_pdf.py"
 
-# ── Source-compilation guard (2026-09-12) ────────────────────────────────────
-# The map above names C2026C00122VOL*.pdf, which are compilation **263**, while the
-# corpus frontmatter/body is compilation **266**. Extracting tables from the stale
-# volumes would silently revert law text (266 -> 263) on the largest act, so every
-# run must resolve a volume whose own footer compilation matches the corpus, and
-# abort otherwise. The matching comp-266 sources live under staging as
-# data/itaa-1997/raw/comp266/volNN.pdf (verified footer "Compilation No. 266",
-# authorised version C2026C00324).
+# ── Source-compilation guard ────────────────────────────────────────────────
+# The map above names the vendored source volumes in source/itaa-1997/ — compilation **266**,
+# register C2026C00324 (S1, batch 5, 2026-09-26). That matches the corpus frontmatter/body,
+# which is the point: the two disagreed until the comp-263 set was replaced. Extracting tables
+# from an older volume would silently revert law text (266 -> 263) on the largest act, so every
+# run still resolves a volume whose own footer compilation matches the corpus, and aborts
+# otherwise. COMP266_DIR is the staging fallback (identical volumes, same compilation).
 COMP266_DIR = Path("/home/harrison/legislation-explorer-staging/data/itaa-1997/raw/comp266")
 
 

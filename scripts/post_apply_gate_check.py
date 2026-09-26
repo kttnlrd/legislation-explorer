@@ -25,7 +25,7 @@ def resolve_pdf(act: str, source: str) -> Path | None:
     nn = source[3:5] if source.startswith("vol") else ""
     for cand in (STAGING / act / "raw" / "comp266" / source,
                  ROOT / "source" / act / source,
-                 ROOT / "source" / act / f"C2026C00122VOL{nn}.pdf"):
+                 ROOT / "source" / act / f"C2026C00324VOL{nn}.pdf"):
         if cand.exists():
             return cand
     return None
