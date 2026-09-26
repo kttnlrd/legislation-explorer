@@ -9,6 +9,7 @@ fixture in a throwaway git repo and asserts the rollback point and the log exist
 Run: /usr/bin/python3.12 scripts/test_page_rule_provenance.py      (exit 1 on any failure)
 """
 import json
+import re
 import shutil
 import subprocess
 import sys
@@ -56,8 +57,10 @@ with tempfile.TemporaryDirectory() as td:
 
     logs = sorted((root / "docs" / "provenance").glob("cdn203-page-rule-artifacts-*.json"))
     check(bool(logs), f"provenance log written under docs/provenance/ -> {[l.name for l in logs]}")
-    check("/tmp/cdn203" not in SCRIPT.read_text(encoding="utf-8"),
-          "the script no longer writes its provenance to /tmp")
+    src = SCRIPT.read_text(encoding="utf-8")
+    check('"docs" / "provenance"' in src and not re.search(r'^LOG\s*=\s*Path\(', src, re.M),
+          "the script writes provenance under docs/provenance/ and has no /tmp LOG constant "
+          "(the old path may still be named in the comment explaining the move)")
 
     tags = git("tag", "-l").stdout.split()
     expected_tag = f"page-rule-apply-rollback-{head}"

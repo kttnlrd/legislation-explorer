@@ -954,7 +954,11 @@ _CHARACTER_CLASSES = (
 
 
 def character_corpus_files(base: Path) -> list[Path]:
-    """Every served text file the character classes apply to (never .html)."""
+    """Every served text file the character classes apply to (never .html).
+
+    Deduped: `maps` is reached twice (once as a top-level directory with no sections/, once via
+    the extras list below), and a duplicate entry double-counted every character in it.
+    """
     files: list[Path] = []
     for d in sorted(base.iterdir()):
         if not d.is_dir():
@@ -969,7 +973,7 @@ def character_corpus_files(base: Path) -> list[Path]:
         if d.is_dir():
             files += sorted(p for p in d.glob("*") if p.is_file() and p.suffix != ".html")
     files += sorted(base.glob("*/tree.json")) + sorted(base.glob("*/section_index.json"))
-    return files
+    return sorted(set(files))
 
 
 def scan_character_classes(root=None):
