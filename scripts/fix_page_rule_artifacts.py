@@ -21,12 +21,21 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import subprocess
 import sys
+import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-LOG = Path("/tmp/cdn203-apply.json")
+# ── provenance (X2, 2026-09-26) ─────────────────────────────────────────────
+# This was /tmp/cdn203-apply.json: a write outside the repo, lost on reboot, invisible to
+# git, and the template every Part B repair script would have copied. A repair's record of
+# what it changed belongs with the repo, next to the rollback point it names.
+#   every write  -> docs/provenance/<ticket>-<UTC stamp>.json   (one file per apply run)
+#   --verify     -> reads the newest such file, or --log to name one
+TICKET = "cdn203-page-rule-artifacts"
+PROVENANCE_DIR = ROOT / "docs" / "provenance"
 
 RULE = re.compile(r"[ \t]*_{6,}[ \t]*")
 # "…see Division 27. Note If you receive…" - a Note that should be its own block.
@@ -125,6 +134,29 @@ def scan() -> None:
         print(s)
 
 
+def latest_log() -> Path | None:
+    """Newest docs/provenance/<ticket>-*.json written by --apply (None if there is none)."""
+    if not PROVENANCE_DIR.is_dir():
+        return None
+    runs = sorted(PROVENANCE_DIR.glob(f"{TICKET}-*.json"))
+    return runs[-1] if runs else None
+
+
+def rollback_tag() -> tuple[str, str]:
+    """Tag HEAD before the first write, the way apply_operator_proposal.py:175-177 does.
+
+    A tag is the rollback point a reviewed bulk edit is allowed to have; recording the sha in
+    the provenance file means the log names the state the write can be undone to.
+    """
+    head = subprocess.run(["git", "rev-parse", "--short", "HEAD"], cwd=ROOT,
+                          capture_output=True, text=True).stdout.strip()
+    tag = f"page-rule-apply-rollback-{head}" if head else "page-rule-apply-rollback-nogit"
+    if head:
+        subprocess.run(["git", "tag", "-f", tag], cwd=ROOT, check=True,
+                       capture_output=True, text=True)
+    return head, tag
+
+
 def apply(block_size: int) -> int:
     records = []
     targets = []
@@ -134,6 +166,11 @@ def apply(block_size: int) -> int:
         if ch:
             targets.append((p, text, new, ch))
     print(f"  {len(targets)} file(s) to change")
+    if not targets:
+        print("  nothing to do - no tag, no provenance file")
+        return 0
+    head, tag = rollback_tag()
+    print(f"  rollback point: tag {tag} (HEAD {head or 'unknown'})")
     written = 0
     for n, (p, before, after, ch) in enumerate(targets, 1):
         p.write_text(after, encoding="utf-8")
@@ -142,18 +179,28 @@ def apply(block_size: int) -> int:
         written += 1
         if n % block_size == 0:
             print(f"    block: {n}/{len(targets)} files written")
-    LOG.write_text(json.dumps({"files": records}, indent=1))
-    print(f"  wrote {written} file(s); provenance at {LOG}")
+    PROVENANCE_DIR.mkdir(parents=True, exist_ok=True)
+    log = PROVENANCE_DIR / f"{TICKET}-{time.strftime('%Y%m%dT%H%M%SZ', time.gmtime())}.json"
+    log.write_text(json.dumps({"ticket": TICKET, "script": str(Path(__file__).name),
+                               "rollback_tag": tag, "head": head,
+                               "written_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                               "files": records}, indent=1))
+    print(f"  wrote {written} file(s); provenance at {log.relative_to(ROOT)}")
     return 0
 
 
-def verify() -> int:
+def verify(log: Path | None = None) -> int:
     """Every recorded change must be re-derivable from the current bytes.
 
     Re-derives rather than re-checking the recorded line numbers: editing shifts them, so the
     first version of this reported phantom problems against the wrong lines.
     """
-    data = json.loads(LOG.read_text())
+    log = log or latest_log()
+    if log is None or not log.exists():
+        print(f"  no provenance file under {PROVENANCE_DIR} - nothing to verify")
+        return 1
+    print(f"  verifying against {log}")
+    data = json.loads(log.read_text())
     bad = 0
     for rec in data["files"]:
         p = ROOT / rec["file"]
@@ -175,10 +222,11 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--verify", action="store_true")
+    ap.add_argument("--log", help="provenance file to verify against (default: the newest)")
     ap.add_argument("--block-size", type=int, default=50)
     a = ap.parse_args()
     if a.verify:
-        sys.exit(verify())
+        sys.exit(verify(Path(a.log) if a.log else None))
     if a.apply:
         sys.exit(apply(a.block_size))
     scan()
