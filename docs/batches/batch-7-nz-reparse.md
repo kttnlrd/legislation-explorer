@@ -1,81 +1,185 @@
-# Batch 7 — CDN-0173 (445 nz amendment sections) + E-d (nz BOM)
+# Batch 7 — CDN-0173 (nz amendment-history sections) + E-d (nz BOM)
 
-Executor log. Packet: batch 7 of `docs/bug-plan-2026-09-25.md`, two ids sharing the `pipeline/parse_nz_it.py` fix site, plus the three derived-row sweeps. Branch `master`, python `/usr/bin/python3.12`. No push. `data/quotes.json` left alone (still dirty, mtime 2026-09-24).
+Executor log. Packet: batch 7 of `docs/bug-plan-2026-09-25.md`, ids CDN-0173 and E-d (the nz half;
+the aml glued-heading half of E-d belongs to batch 8). Branch `master` from `994cf3377`.
+Python `/usr/bin/python3.12`. No push. `data/quotes.json` left alone (still dirty, mtime
+2026-09-24 09:28; untouched by every command below).
 
-## Commits
+Job order: docs/BUILD_PROCESS.md gates 1-5. Spec read from the plan's CDN-0173 (:90-109) and
+E-d (:356-373) sections; both root causes were re-read in the source before anything was written.
+
+## Fix sites and commits
 
 | Commit | Fix site | Files |
 |---|---|---|
-| `73c0f9cb8` | parse_nz_it — endnote skip + BOM strip | `pipeline/parse_nz_it.py`, `scripts/test_c18_parse_nz_it.py` |
-| `87422e62a` | data repair (delete 445, strip 1,939 BOM, drop 4 tree parts) | `data/nz-it-2007/…`, `scripts/fix_nz_amendment_parts.py`, `docs/provenance/batch7-*` |
-| `007b36828` | derived sweeps | `scripts/openai_embed.py`, `scripts/sweep_graph_stale_sections.py`, `docs/provenance/batch7-derived-sweeps.json` |
-| (this file) | batch log | `docs/batches/batch-7-nz-reparse.md` |
+| `73c0f9cb8` | Parser: endnote-part skip + BOM strip | `pipeline/parse_nz_it.py`, `scripts/test_c18_parse_nz_it.py` |
+| `87422e62a` | Data: 445 deletions, tree rebuild, 1,939 U+FEFF | `data/nz-it-2007/**` (445 D, 710 M, tree.json), `scripts/fix_nz_amendment_parts.py`, `docs/provenance/batch7-nz-reparse-*.json`, `docs/provenance/batch7-corpus-guard-*.json` |
+| `007b36828` | Derived sweeps (search + graph + embeddings) | `scripts/sweep_graph_stale_sections.py`, `scripts/openai_embed.py` |
+| `65420d762` | Sweep scope check + sweep evidence | `scripts/test_embed_prune_scope.py`, `docs/provenance/batch7-derived-sweeps-*.json` |
 
-Rollback: `git tag batch7-rollback-20260926T124741Z` + DB file copies under `/tmp/batch7-rollback/`.
+## The checks that failed first (gate 3)
+
+`scripts/test_c18_parse_nz_it.py` plants a miniature of the 31 MB document — the consolidated
+Part A plus all three endnote containers (`div.end > div.skeletons > div.skeleton-act`,
+`div.schedule-amendments`, `div.amend`) each carrying its own `div.part` with ids 1/2/3B — and a
+U+FEFF between subsection brackets.
+
+```
+against HEAD's parser (PARSE_NZ_MODULE=/tmp/parse_nz_it_head.py)
+  written: ['part-1/3.md', 'part-2/9.md', 'part-3B/RA-1.md', 'part-A/division-AA/AA-1.md']
+  5 FAILURE(S)   (including "no U+FEFF in the served text")
+against the working tree
+  written: ['part-A/division-AA/AA-1.md']   7 PASS
+```
+
+Corpus-level, `scripts/scan_corpus_error_classes.py`, before → after:
+
+```
+C18_nz_amendment_part   445      ->  0
+C23_invisible_char      714 (1947 occurrences) -> 0
+TOTAL FINDINGS         2190      ->  1031
+```
+
+2190 − 1031 = 1159 = 445 + 714, so nothing else moved. The remaining C23 findings are
+`C23_nonstandard_hyphen` 33 and `C23_soft_hyphen` 9, and every one of the 42 is non-nz
+(`itaa-1997`, `regulatory-guides`, `rulings`, `scripts/cleaned/summaries`).
 
 ## What the fix site actually was
 
-`parse_nz_it.py:193` ran `soup.find_all("div", class_="part")`, which also matched the parts nested
-inside `div.end > div.skeletons > div.skeleton-act` (endnote copies of the amending Acts) and inside
-`div.schedule-amendments` / `div.amend` (the TAA 1994 text). Their part ids reuse "1"/"2"/"3", so 445
-amendment-history sections were written beside Parts A-Z and served as law. `clean_text` used `\s`,
-which does not match U+FEFF, so 1,947 BOMs sat between subsection brackets ("(1)\ufeff(a)").
+**CDN-0173.** `soup.find_all("div", class_="part")` (:195) matched the parts nested inside the
+endnote copies of the amending Acts and inside `div.schedule-amendments` / `div.amend`. Their ids
+reuse "1"/"2"/"3", so they overwrote each other's files and 445 amendment-history sections were
+served beside the consolidated Parts A-Z. New `inside_endnote(part)` walks `part.parents` for a
+`div` carrying one of `{end, skeletons, schedule-amendments, amend}` as an exact class token.
 
-Fix: `inside_endnote()` rejects a `div.part` with any of the four containers as an ancestor;
-`clean_text` deletes U+FEFF so the bracket pair stays adjacent.
+**E-d.** `clean_text` (:37) collapsed `\s+`, and U+FEFF is not `\s`, so a BOM between subsection
+brackets survived. It now deletes U+FEFF rather than collapsing it to a space — "(1)\ufeff(a)" is
+one citation, and a space there would invent a word break.
 
-## The check that failed first (gate 3)
-
-`scripts/test_c18_parse_nz_it.py` plants the Act plus all three endnote containers and a BOM.
+Re-parse to offline staging (`/tmp/batch7-staging`, never written into `data/`):
 
 ```
-against HEAD's parser (PARSE_NZ_MODULE=/tmp/parse_nz_it_head.py): 5 FAILURE(S)
-  writes part-1/3.md, part-2/9.md, part-3B/RA-1.md; serves "(1)\ufeff(a)"
-against the working tree: PASS — one file written, no U+FEFF
+{"parts": 23, "subparts": 168, "sections": 2850, "skipped_endnote_parts": 12}
+2850 written + 445 amendment = 3,295 = the corpus leaf count
 ```
 
-## Data repair — surgical, not a full re-parse
+## Verify pass (gate 4)
 
-A full re-parse-and-overwrite was rejected: `pipeline/build_tree.py` reorders the lettered parts
-(its sort key mis-sorts single roman letters I/L/C/D/M) and rewrites every surviving title with the
-a59a3285e straight quotes — ~241 unrelated title changes and a part reorder, neither this batch's
-fix site. So the tree was repaired by dropping exactly the four non-letter parts, byte-identical
-otherwise (`scripts/fix_nz_amendment_parts.py`). The builder was still run as the cross-check: its
-output over the staged re-parse drops exactly those four parts and agrees with the repaired tree on
-all 2,850 surviving leaves.
+The staged re-parse vs HEAD, folded only for the two known post-parse drifts — the frontmatter
+blank line and the corpus-wide cosmetic pass `a59a3285e` ("single space after **(n)** markers,
+straight quotes", applied unevenly: plain numeric markers got one space, `(5B)`-style kept two,
+so the marker spacing is normalised on both sides):
 
-Verify pass over the surviving A-Z sections (2,850 files), folding out the known a59a3285e cosmetic
-classes (straight quotes, single-space subsection markers, frontmatter blank line):
+```
+2,138 of 2,850  reproduce HEAD byte-for-byte
+  709           match exactly once the BOM is removed
+    3           REVIEW LIST — not applied
+```
 
-- 2,138 reproduce HEAD byte-for-byte; 709 differ only by U+FEFF removal; 3 go to review
-  (CX-55, ED-2B, EX-31 — HEAD is truncated mid-sentence, the re-parse restores the tail; NOT applied).
+Review list: `part-C/division-CX/CX-55.md`, `part-E/division-ED/ED-2B.md`,
+`part-E/division-EX/EX-31.md`. In all three HEAD is truncated mid-sentence ("...a market licensee
+under") and the re-parse restores the tail (the text continues on the next line of the source).
+That is a real corpus truncation, not a BOM; it is out of this batch's fix site and was not
+applied.
 
-Corpus guard over the staged deletion + strip: 1,155 changed files — 710 OK, 445 WARN (G-B prose
-loss on deletion), 0 BLOCK. `docs/provenance/batch7-corpus-guard-*.json`.
+Applied change: `text.replace("\ufeff", "")` on the 710 surviving files that carried one, nothing
+else. Independent check (`/tmp/batch7-bomcheck.py`): for all 710, worktree == HEAD with U+FEFF
+deleted; 0 other differences; 1,939 characters removed (714/1,947 minus the 4 files/8 occurrences
+that lived inside the deleted parts).
 
-## Derived sweeps (each through its producer)
+`data/nz-it-2007/tree.json`: 19 parts → 15, 445 sections dropped, 2,850 leaves, **deletions only**
+(2,253 lines removed); every surviving part is byte-identical to HEAD and keeps its order.
+Written by `scripts/fix_nz_amendment_parts.py`, deliberately *not* by `pipeline/build_tree.py`: a
+fresh build reorders the lettered parts (its part sort key emits I, L, C, D, M first) and rewrites
+every title with `a59a3285e`'s straight quotes. Neither is this batch's fix site, so the producer's
+output was not used as the writer — it was used as the cross-check: over the staged re-parse it
+yields exactly those four parts dropped, 15 parts, 2,850 leaves, **0 new leaves**.
 
-- **search** `scripts/rebuild_search_index.py`: sections_meta 20,842 → 20,430 (-412), nz amendment
-  rows 0, nz FTS 2,850. (412 < 445 because sections_meta is UNIQUE(act,section) and the amendment
-  parts reused numeric ids.)
-- **graph** `scripts/sweep_graph_stale_sections.py` (new; the ETL is upsert-only): 0 stale —
-  `graph_etl.ACTS` has no nz-it-2007, verified 0 nz nodes.
-- **embeddings** `scripts/openai_embed.py --prune` (new flag): 281,113 → 280,665 rows (-448), 445
-  distinct file_paths, all under part-1/2/3/3B.
+## Corpus guard (not a bypass)
 
-## Master verification (against the running service)
+`scripts/corpus_change_guard.py --json docs/provenance/batch7-corpus-guard-<stamp>.json` over the
+staged set (the 445 deletions plus the 710 BOM strips):
 
-- scan: C18_nz_amendment_part 445 → **0**; C23_invisible_char 714 (1,947) → **0**.
-- `/api/tree/nz-it-2007` → parts A–Z only; `/api/section/nz-it-2007/AA-1` 200;
-  `/api/section/nz-it-2007/3` 404.
-- service restarted, health 200, vector matrix auto-rebuilt 281,113 → 280,665.
+```
+1155 changed section file(s) — 710 OK, 445 WARN, 0 BLOCK     (exit 0)
+```
 
-## Unresolved / carried forward
+The 445 WARNs are G-B "prose tokens no longer present" on the deletions — the guard reading a
+deletion as prose loss, which is what it should say. `CORPUS_GUARD_BYPASS` was not set.
 
-- 3 review-list files (CX-55, ED-2B, EX-31): HEAD truncates mid-sentence; the re-parse's fuller
-  text was NOT applied. Flag for a follow-up.
-- similarity_index carries ~917k rows whose embedding_id does not resolve against embeddings (a
-  pre-existing mismatch between that index and the OpenAI-embedding id space, unrelated to this
-  batch's 448-row sweep). Its producer is `build_similarity_index.py`, out of scope here.
-- The BOM-stripped files' embeddings still hold the pre-strip text (1,011 rows) — re-embedding was
-  not in scope; the embeddings remain semantically valid (U+FEFF is invisible).
+## Derived-artefact sweeps (each through its own producer)
+
+| Store | Producer | Before → after | Removed |
+|---|---|---|---|
+| `search_index.db` | `scripts/rebuild_search_index.py` → `init_search_index` (reads tree.json) | sections_meta 20,842 → 20,430; nz rows 3,262 → 2,850; nz part-1/2/3/3B rows 412 → **0** | 412 rows (445 files = 412 distinct (act,section) keys) |
+| `data/embeddings.db` | `scripts/openai_embed.py --prune` (new flag, `walk_corpus_files` shared with the embed path) | 281,113 → 280,665; nz 4,891 → 4,443; rows for the 445 dirs 448 → **0** | 448 rows / 445 distinct files |
+| `data/graph.db` | `scripts/sweep_graph_stale_sections.py` (new; `pipeline/graph_etl.py` is upsert-only and has no sweep) | 13,722 section nodes scanned, 0 stale | **0 nodes, 0 edges** |
+
+The rebuild took 2m33s and did not move any other act (20,842 − 412 = 20,430). The build ran with
+output to a file: `REBUILD ... Done. real 2m32.779s`.
+
+**Graph, why zero:** `pipeline/graph_etl.py:24` `ACTS` does not list `nz-it-2007`, and
+`data/graph.db` holds 0 nz-it-2007 nodes (0 by `key LIKE 'section:nz-it-2007:%'`, 0 by
+`content_ref LIKE 'data/nz-it-2007/%'`). The 445 ids never reached the graph. The sweep is
+committed anyway, so an ETL that starts walking nz cannot leave stale nodes behind.
+
+**Embeddings scope check before pruning:** 13,746 existing section/commentary `file_path`s vs
+13,301 on disk = exactly the 445 stale files, every one under
+`data/nz-it-2007/sections/part-{1,2,3,3B}/`; no other act was a candidate.
+`scripts/test_embed_prune_scope.py` pins that scope (a missing file under a walked act is deleted;
+a ruling row, a case row and a section row for an unwalked act are not; `commit=False` deletes
+nothing; a second run is a no-op).
+
+**Collateral, reported not fixed:** `similarity_index` (its own producer) went from 917,358 to
+917,448 dangling `embedding_id` rows and 938,203 to 938,307 dangling `neighbor_id` rows — +90/+104
+from this batch on top of a pre-existing ~917k/938k. `cross_references` was 187,776 dangling
+before and after. Neither table is swept here.
+
+## Verification (gate 5)
+
+```
+scripts/test_c18_nz_parts.py            PASS
+scripts/test_c20_character_classes.py   PASS
+scripts/test_c18_parse_nz_it.py         PASS
+scripts/test_embed_prune_scope.py       PASS
+tests/integration_test.py               Results: 34 passed, 0 failed
+```
+
+`systemctl --user restart legislation-explorer` → active; `GET /health` → 200; search for the
+deleted id returns it no longer: `/api/search?q=80KA&act=nz-it-2007` returns only s MF-1 (which
+cites "TAA ss 80KA-80KG"), and `/api/section/nz-it-2007/80KA` → 404 while
+`/api/section/nz-it-2007/MF-1` → 200.
+
+The restart triggered the vector-search service's own snapshot check ("Matrix snapshot 281,113 rows
+vs DB 280,665 — rebuilding via build_vector_matrix.py"), i.e. the embeddings change is visible to
+that producer; it rebuilt and the service came up clean on the second start.
+
+## Rollback points
+
+- `git tag batch7-rollback-20260926T124741Z` (HEAD before the batch).
+- `/tmp/batch7-rollback/embeddings.db.20260926T124741Z.pre-batch7` (2,525,982,720 B, pre-sweep)
+- `/tmp/batch7-rollback/graph.db.20260926T124741Z.pre-batch7` (125,607,936 B)
+- `/tmp/batch7-rollback/search_index.db.20260926T124741Z.pre-batch7` (954,114,048 B)
+- `/tmp/batch7-rollback/embeddings.db.pre-prune` and `openai_embed.snapshot-125326.py`
+- The 445 deleted files are recoverable from `87422e62a^` (and from
+  `batch7-rollback-20260926T124741Z`).
+- Offline staging and reports: `/tmp/batch7-staging/`, `/tmp/batch7-verifypass.json`,
+  `/tmp/batch7-bomcheck.py`, `/tmp/batch7-baseline-scan.txt`, `/tmp/batch7-after-scan.txt`.
+
+## What I could not establish / open items
+
+1. **A second writer was editing this working tree while this batch ran.** `scripts/openai_embed.py`
+   was modified twice by session `20260926_224031_a46409` (22:52:17, 22:53:06) with its own
+   `--prune`/`sweep_stale_section_files` implementation; that writer's run deleted the 448
+   embeddings rows, so this executor's `--prune` then printed "pruned 0" while the row count moved
+   281,113 → 280,665 (the same 448 rows). The file now holds one implementation
+   (`walk_corpus_files` + `prune_stale_rows`) and commit `007b36828` was made by that writer, not
+   by this executor. The two commits are consistent, but the counts in `007b36828` are this
+   executor's measurements of the shared working tree. A snapshot of the file as this executor
+   saw it is at `/tmp/batch7-rollback/openai_embed.snapshot-125326.py`. Treat the shared-tree
+   collision as the batch's main process risk.
+2. **What C18's "125 of the 132 amendment-style titles" means** was not re-measured; the detector
+   counts parts, not titles, and 445 is the number it reports.
+3. **`similarity_index` / `cross_references` orphanness** (above) is pre-existing and unswept.
+4. **Vector-matrix snapshot** (`data/*.npy` for vector search) is rebuilt by the service on
+   startup, not by this batch; it is now consistent with the pruned embeddings.
