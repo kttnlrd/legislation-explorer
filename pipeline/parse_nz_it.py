@@ -34,8 +34,31 @@ except ImportError as exc:
     raise SystemExit("beautifulsoup4 is required: pip install beautifulsoup4") from exc
 
 
+BOM = "\ufeff"
+
+# Endnote copies of amending Acts and the Tax Administration Act 1994 amendment text are
+# carried in the same document as the consolidated Act. Their div.part nodes reuse part ids
+# "1"/"2"/"3", so scanning every div.part in the soup wrote 445 amendment-history "sections"
+# into the consolidated Parts A-Z tree (CDN-0173). A part is the consolidated Act only when
+# it sits outside these containers.
+ENDNOTE_CONTAINER_CLASSES = frozenset({"end", "skeletons", "schedule-amendments", "amend"})
+
+
 def clean_text(text: str) -> str:
-    return re.sub(r"\s+", " ", text).strip()
+    # U+FEFF (BOM) is not matched by \s, so a BOM between subsection brackets survived
+    # ("subsection (1)\ufeff(a)", E-d). Delete it rather than collapsing it to a space: the
+    # bracket pair is one citation, not a word break.
+    return re.sub(r"\s+", " ", text.replace(BOM, "")).strip()
+
+
+def inside_endnote(part) -> bool:
+    """True when a div.part is nested in an endnote/amendment container (CDN-0173)."""
+    for parent in part.parents:
+        if getattr(parent, "name", None) != "div":
+            continue
+        if ENDNOTE_CONTAINER_CLASSES.intersection(parent.get("class") or ()):
+            return True
+    return False
 
 
 def label_of(element) -> str:
@@ -190,9 +213,12 @@ def parse_nz_income_tax(html_path: Path, out_dir: Path,
     out_dir.mkdir(parents=True, exist_ok=True)
     soup = BeautifulSoup(html_path.read_text(encoding="utf-8"), "html.parser")
 
-    stats = {"parts": 0, "subparts": 0, "sections": 0}
+    stats = {"parts": 0, "subparts": 0, "sections": 0, "skipped_endnote_parts": 0}
 
     for part in soup.find_all("div", class_="part"):
+        if inside_endnote(part):
+            stats["skipped_endnote_parts"] += 1
+            continue
         head = part.find("h2", class_="part")
         if not head:
             continue
