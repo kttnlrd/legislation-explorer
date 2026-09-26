@@ -1,4 +1,11 @@
 {
+  "_provenance": {
+    "generator": "pipeline/extract_definitions.py",
+    "source_commit": "899e86afc021b92462b49b1e04ee5cff583172fe",
+    "source": "/home/harrison/legislation-explorer/data/itaa-1997/sections/part-6-5/division-995/995-1.md",
+    "extracted_terms": 803,
+    "preserved_terms": 897
+  },
   "4% build to rent manner": {
     "term": "4% build to rent manner",
     "section": "995-1",
@@ -10083,6 +10090,120 @@
     "term": "zero-capital amount",
     "section": "995-1",
     "anchor": "s995-1-zero-capital-amount",
+    "act": "ITAA 1997"
+  },
+  "actual cost method of working out the value of a registered emissions unit": {
+    "term": "actual cost method of working out the value of a registered emissions unit",
+    "section": "995-1",
+    "anchor": "s995-1-actual-cost-method-of-working-out-the-value-of-a-registered-emissions-unit",
+    "act": "ITAA 1997"
+  },
+  "adjusted tax on adjusted taxable income or on adjusted withholding income": {
+    "term": "adjusted tax on adjusted taxable income or on adjusted withholding income",
+    "section": "995-1",
+    "anchor": "s995-1-adjusted-tax-on-adjusted-taxable-income-or-on-adjusted-withholding-income",
+    "act": "ITAA 1997"
+  },
+  "amount required to be withheld by an entity from a withholding payment": {
+    "term": "amount required to be withheld by an entity from a withholding payment",
+    "section": "995-1",
+    "anchor": "s995-1-amount-required-to-be-withheld-by-an-entity-from-a-withholding-payment",
+    "act": "ITAA 1997"
+  },
+  "artwork": {
+    "term": "artwork",
+    "section": "995-1",
+    "anchor": "s995-1-artwork",
+    "act": "ITAA 1997"
+  },
+  "asset included in the total assets of a company that is a foreign resident": {
+    "term": "asset included in the total assets of a company that is a foreign resident",
+    "section": "995-1",
+    "anchor": "s995-1-asset-included-in-the-total-assets-of-a-company-that-is-a-foreign-resident",
+    "act": "ITAA 1997"
+  },
+  "audited consolidated financial statements for an entity for a period": {
+    "term": "audited consolidated financial statements for an entity for a period",
+    "section": "995-1",
+    "anchor": "s995-1-audited-consolidated-financial-statements-for-an-entity-for-a-period",
+    "act": "ITAA 1997"
+  },
+  "eligible continuing substantial member of a former exempting entity": {
+    "term": "eligible continuing substantial member of a former exempting entity",
+    "section": "995-1",
+    "anchor": "s995-1-eligible-continuing-substantial-member-of-a-former-exempting-entity",
+    "act": "ITAA 1997"
+  },
+  "fifo cost method of working out the value of a registered emissions unit": {
+    "term": "FIFO cost method of working out the value of a registered emissions unit",
+    "section": "995-1",
+    "anchor": "s995-1-fifo-cost-method-of-working-out-the-value-of-a-registered-emissions-unit",
+    "act": "ITAA 1997"
+  },
+  "guaranteed residual value for an asset that is put to a tax preferred use": {
+    "term": "guaranteed residual value for an asset that is put to a tax preferred use",
+    "section": "995-1",
+    "anchor": "s995-1-guaranteed-residual-value-for-an-asset-that-is-put-to-a-tax-preferred-use",
+    "act": "ITAA 1997"
+  },
+  "jpda (short for joint petroleum development area)": {
+    "term": "JPDA (short for Joint Petroleum Development Area)",
+    "section": "995-1",
+    "anchor": "s995-1-jpda-short-for-joint-petroleum-development-area",
+    "act": "ITAA 1997"
+  },
+  "market value method of working out the value of a registered emissions unit": {
+    "term": "market value method of working out the value of a registered emissions unit",
+    "section": "995-1",
+    "anchor": "s995-1-market-value-method-of-working-out-the-value-of-a-registered-emissions-unit",
+    "act": "ITAA 1997"
+  },
+  "nras certificate (short for national rental affordability scheme certificate)": {
+    "term": "NRAS certificate (short for National Rental Affordability Scheme certificate)",
+    "section": "995-1",
+    "anchor": "s995-1-nras-certificate-short-for-national-rental-affordability-scheme-certificate",
+    "act": "ITAA 1997"
+  },
+  "nras consortium (short for national rental affordability scheme consortium)": {
+    "term": "NRAS consortium (short for National Rental Affordability Scheme consortium)",
+    "section": "995-1",
+    "anchor": "s995-1-nras-consortium-short-for-national-rental-affordability-scheme-consortium",
+    "act": "ITAA 1997"
+  },
+  "ordinary payment is defined as set out in this table": {
+    "term": "ordinary payment is defined as set out in this table",
+    "section": "995-1",
+    "anchor": "s995-1-ordinary-payment-is-defined-as-set-out-in-this-table",
+    "act": "ITAA 1997"
+  },
+  "original excess non-concessional contributions tax assessment day": {
+    "term": "original excess non-concessional contributions tax assessment day",
+    "section": "995-1",
+    "anchor": "s995-1-original-excess-non-concessional-contributions-tax-assessment-day",
+    "act": "ITAA 1997"
+  },
+  "r&d partnership": {
+    "term": "R&D partnership",
+    "section": "995-1",
+    "anchor": "s995-1-rd-partnership",
+    "act": "ITAA 1997"
+  },
+  "redeemable shares": {
+    "term": "redeemable shares",
+    "section": "995-1",
+    "anchor": "s995-1-redeemable-shares",
+    "act": "ITAA 1997"
+  },
+  "superannuation income stream provider for a superannuation income stream": {
+    "term": "superannuation income stream provider for a superannuation income stream",
+    "section": "995-1",
+    "anchor": "s995-1-superannuation-income-stream-provider-for-a-superannuation-income-stream",
+    "act": "ITAA 1997"
+  },
+  "supporting r&d activities": {
+    "term": "supporting R&D activities",
+    "section": "995-1",
+    "anchor": "s995-1-supporting-rd-activities",
     "act": "ITAA 1997"
   }
 }

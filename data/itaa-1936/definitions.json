@@ -1,4 +1,11 @@
 {
+  "_provenance": {
+    "generator": "pipeline/extract_definitions.py",
+    "source_commit": "899e86afc021b92462b49b1e04ee5cff583172fe",
+    "source": "/home/harrison/legislation-explorer/data/itaa-1936/sections/part-i/division-unknown/6.md",
+    "extracted_terms": 205,
+    "preserved_terms": 0
+  },
   "100% subsidiary": {
     "term": "100% subsidiary",
     "section": "6",

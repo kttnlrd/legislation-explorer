@@ -1,4 +1,11 @@
 {
+  "_provenance": {
+    "generator": "pipeline/extract_definitions.py",
+    "source_commit": "899e86afc021b92462b49b1e04ee5cff583172fe",
+    "source": "/home/harrison/legislation-explorer/data/gst-1999/sections/part-6-3/division-195/195-1.md",
+    "extracted_terms": 327,
+    "preserved_terms": 0
+  },
   "90% owned group": {
     "term": "90% owned group",
     "section": "195-1",

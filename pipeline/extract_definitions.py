@@ -11,6 +11,13 @@ used by ``backend/processors/markdown.py`` at serve time.
 OUTPUT FORMAT (per act, flat dict keyed by the lowercased star-free term):
 
     {
+      "_provenance": {
+        "generator": "pipeline/extract_definitions.py",
+        "source_commit": "<git sha>",
+        "source": "<markdown source path>",
+        "extracted_terms": <n>,
+        "preserved_terms": <n>
+      },
       "<lowercase key>": {
         "term":    "<display term (original casing, '*' removed)>",
         "section": "<dictionary section id>",
@@ -19,6 +26,9 @@ OUTPUT FORMAT (per act, flat dict keyed by the lowercased star-free term):
       },
       ...
     }
+
+Consumers iterate the terms, so the provenance block is a key starting with "_"
+and must be skipped (pipeline/extract_all_definitions.py does).
 
 SOURCES
 -------
@@ -53,6 +63,7 @@ import argparse
 import json
 import os
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -83,14 +94,24 @@ DEFAULT_SOURCES = {
 
 # Predicate style: "<term> means/includes/has the meaning ...".
 # Include Unicode curly quotes (U+2018/U+2019) commonly found in PDF-extracted text.
+# CDN-0209: "&" must be inside the term class, otherwise the capture restarts
+# after the ampersand ("R&D entity" -> "D entity" / "d entity") and every R&D
+# term in the served catalogue is lost.
 PREDICATE_RE = re.compile(
-    r"^([A-Za-z0-9*][\w%*\u2018\u2019'() -]{0,80}?)\s+"
+    r"^([A-Za-z0-9*][\w%*\u2018\u2019'() &-]{0,80}?)\s+"
     r"(has (?:the|a) meaning given by|has (?:the|a) meaning affected by|"
     r"has the same meaning as(?: in)?|means|includes)\b"
 )
 
 # Colon style: "<term>: ...".
-COLON_RE = re.compile(r"^([A-Za-z0-9*][\w%*\u2018\u2019'() -]{0,80}?):\s")
+COLON_RE = re.compile(r"^([A-Za-z0-9*][\w%*\u2018\u2019'() &-]{0,80}?):\s")
+
+# CDN-0209 left boundary: a capture that begins mid-word — a lone lowercase
+# letter then a space, e.g. "d entity" from "R&D entity", "s length profits"
+# from "arm’s length profits" — is the tail of a longer term, never a
+# definition start.
+_MIDWORD_LEAD_RE = re.compile(r"^[a-z]\s")
+
 
 # Strip trailing predicate words accidentally captured in a colon-style term
 # (kills the "payment means" junk class).
@@ -209,6 +230,11 @@ def capture_term(text: str) -> str | None:
             term = m.group(1).strip()
             term = TRAILING_PREDICATE_RE.sub("", term).strip()
     if not term:
+        return None
+    # CDN-0209: reject a capture that begins mid-word (left boundary).  With
+    # "&" now inside the term class this no longer fires for "R&D entity", but
+    # it still guards run-on text that starts mid-token.
+    if _MIDWORD_LEAD_RE.match(term):
         return None
     # Reject list-style continuation fragments (CDN-0172): dictionary items
     # are enumerated ("(a) X means ...; (b) Y ...") and a captured line ending
@@ -354,6 +380,35 @@ def write_atomic(path: Path, data: dict) -> None:
     os.replace(tmp, path)
 
 
+# Provenance (CDN-0209): every derived artefact records what produced it.
+# Consumers must ignore any key starting with "_" — extract_all_definitions.py
+# skips them, so a provenance key never becomes a served term.
+PROVENANCE_KEY = "_provenance"
+
+
+def source_commit() -> str:
+    """The git commit the catalogue was generated from."""
+    try:
+        return subprocess.run(
+            ["git", "-C", str(BASE), "rev-parse", "HEAD"],
+            capture_output=True, text=True, check=True,
+        ).stdout.strip()
+    except Exception:
+        return "unknown"
+
+
+def load_previous_terms(path: Path) -> dict:
+    """The term rows already in a per-act catalogue (provenance block skipped)."""
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (ValueError, OSError):
+        return {}
+    return {k: v for k, v in data.items()
+            if not k.startswith("_") and isinstance(v, dict)}
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     for act in ACTS:
@@ -363,8 +418,17 @@ def main() -> None:
             default=None,
             help=f"override source markdown for {act}",
         )
+    ap.add_argument(
+        "--preserve-existing",
+        action="store_true",
+        help="keep the terms already in data/{act}/definitions.json that this "
+             "run no longer re-derives (e.g. a section re-ingested into run-on "
+             "paragraphs after the catalogue was built). Counts are recorded in "
+             "_provenance. Without it the catalogue is replaced, as before.",
+    )
     args = ap.parse_args()
 
+    sha = source_commit()
     for act in ACTS:
         override = getattr(args, f"source_{act.replace('-', '_')}")
         source = Path(override) if override else DEFAULT_SOURCES[act]
@@ -372,11 +436,42 @@ def main() -> None:
             print(f"  SKIP {act}: source not found: {source}")
             continue
         terms, log = extract_act(act, source)
+        extracted_count = len(terms)
         out_path = DATA_DIR / act / "definitions.json"
-        write_atomic(out_path, terms)
-        print(f"  {act}: {len(terms)} terms -> {out_path} (source {source})")
+
+        preserved = 0
+        if args.preserve_existing:
+            previous = load_previous_terms(out_path)
+            extracted_rows = dict(terms)
+            # Keep the catalogue's existing key order so the diff shows only
+            # real changes; refresh values from this run, carry over the rows it
+            # no longer re-derives, append genuinely new terms.
+            merged: dict = {}
+            for key, info in previous.items():
+                merged[key] = extracted_rows.get(key, info)
+            for key, info in extracted_rows.items():
+                if key not in merged:
+                    merged[key] = info
+            preserved = sum(1 for key in previous if key not in extracted_rows)
+            terms = merged
+
+        write_atomic(out_path, {
+            PROVENANCE_KEY: {
+                "generator": "pipeline/extract_definitions.py",
+                "source_commit": sha,
+                "source": str(source),
+                "extracted_terms": extracted_count,
+                "preserved_terms": preserved,
+            },
+            **terms,
+        })
+        extra = f", {preserved} preserved from the previous catalogue" if preserved else ""
+        print(f"  {act}: {len(terms)} terms ({extracted_count} extracted{extra}) "
+              f"-> {out_path} (source {source})")
         for line in log:
             print(f"    {line}")
+
+
 
 
 if __name__ == "__main__":

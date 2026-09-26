@@ -30,6 +30,7 @@ from __future__ import annotations
 import json
 import os
 import re
+import subprocess
 from pathlib import Path
 
 BASE = Path.home() / "legislation-explorer"
@@ -90,11 +91,19 @@ def build_act_terms(act: str, dict_section: str | None) -> dict | None:
 
     raw = json.loads(per_act_path.read_text(encoding="utf-8"))
     casing = load_term_casing(act)
+    # Provenance of the per-act file, carried through to the served catalogue
+    # (CDN-0209).  Extra keys are ignored by every consumer of this file
+    # (data_loader, graph_etl, validate_data all read "section"/"terms").
+    provenance = raw.get("_provenance") or {}
 
     terms: dict[str, dict] = {}
     sections_seen: set[str] = set()
 
     for key, info in raw.items():
+        # Provenance and other underscore-prefixed metadata keys are not terms
+        # (CDN-0209: extract_definitions.py writes a "_provenance" block).
+        if key.startswith("_"):
+            continue
         # Display term: prefer the explicit "term" field, then recovered casing,
         # then the (lowercased) key itself.
         display = info.get("term") or casing.get(key.lower()) or key
@@ -119,7 +128,7 @@ def build_act_terms(act: str, dict_section: str | None) -> dict | None:
             1 for v in terms.values() if v["section"] == s
         ))
 
-    return {"section": section, "terms": terms}
+    return {"section": section, "provenance": provenance, "terms": terms}
 
 
 def validate_anchors(act: str, entry: dict, sample: int = 50) -> tuple[int, int]:
@@ -153,14 +162,33 @@ def validate_anchors(act: str, entry: dict, sample: int = 50) -> tuple[int, int]
     return hits, len(items)
 
 
+def source_commit() -> str:
+    """The git commit the catalogue was merged at (provenance)."""
+    try:
+        return subprocess.run(
+            ["git", "-C", str(BASE), "rev-parse", "HEAD"],
+            capture_output=True, text=True, check=True,
+        ).stdout.strip()
+    except Exception:
+        return "unknown"
+
+
 def main() -> None:
     catalog: dict[str, dict] = {}
+    sha = source_commit()
 
     for act, dict_section in ACT_DICT_SECTION.items():
         entry = build_act_terms(act, dict_section)
         if entry is None:
             print(f"  SKIP {act}: no per-act definitions.json (or no usable terms)")
             continue
+        # The served entry records its own producer as well as the per-act
+        # producer it was merged from (CDN-0209).
+        entry["provenance"] = {
+            **(entry.get("provenance") or {}),
+            "merged_by": "pipeline/extract_all_definitions.py",
+            "merged_source_commit": sha,
+        }
         catalog[act] = entry
         hits, checked = validate_anchors(act, entry)
         pct = (100 * hits / checked) if checked else 0.0
