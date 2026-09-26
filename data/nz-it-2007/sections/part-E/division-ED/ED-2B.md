@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
   - (ii) would be a double tax agreement if negotiated between New Zealand and the other tax jurisdiction; and
 
-- (c) is included on the official list of ASX Limited, a market licensee under
+- (c) is included on the official list of ASX Limited, a market licensee under Chapter 7 of the Corporations Act 2001 (Aust); and
 
 - (d) is not an entity described in schedule 25, part B (Foreign investment funds); and
 
