@@ -28,12 +28,19 @@ SECTION_DIR = OUT_DIR / "sections"
 _EM_DASH = "\u2014"
 _HAIR_SPACE = "\u200a"
 _NBSP = "\u00a0"
+# E-e: the two non-ASCII hyphens.  FTS5's unicode61 tokenizer treats both as
+# *separators*, so the quoted-phrase LIKE path in search_service.py misses them:
+# '"sub-fund"' returned 0 rows while '"sub\u2011fund"' returned 206 (CDN-0124's
+# companion ticket E-e).  Map both to ASCII '-'.
+_HYPHEN_NB = "\u2011"   # NON-BREAKING HYPHEN
+_HYPHEN_FIG = "\u2010"  # HYPHEN (figure dash-width form)
 
 
 def clean(text: str) -> str:
     text = text.replace(_EM_DASH, "—")
     text = text.replace(_HAIR_SPACE, " ")
     text = text.replace(_NBSP, " ")
+    text = text.replace(_HYPHEN_NB, "-").replace(_HYPHEN_FIG, "-")
 
     # Fix double-encoding: UTF-8 bytes stored as Latin-1 decoded chars
     # These appear in different chapters depending on PDF source encoding
@@ -108,6 +115,10 @@ def _add_paragraph_breaks(body: str) -> str:
 
     return "\n".join(result)
 
+
+# A "(1)"-style subsection marker.  Used by the stray-heading fallback in main():
+# a dropped heading is always followed by one of these, a chapeau never is.
+_SUBSECTION_MARKER = re.compile(r"^\(\d+[A-Z]*\)")
 
 _INDENT_PATTERNS = [
     (re.compile(r"^\((\d+[A-Z]*)\)\s+(.*)"), 0, r"**(\1)** \2"),       # (1), (1A), (2) → bold
@@ -286,8 +297,23 @@ def main() -> None:
         # Fallback: if the body still starts with a short heading-like line
         # (e.g. "General obligations\n(1)..."), drop it — the heading is
         # already captured in the markdown title.
+        #
+        # CDN-0124: this fallback used to delete the *chapeau* (the opening
+        # words of the section) whenever the opening words did not happen to
+        # start with one of the hard-coded prefixes.  s 189's chapeau ends
+        # "...provided by others If:" — there is no "If " (no trailing space),
+        # so it was deleted with the other 402 real chapeaus.  A stray heading
+        # is now only dropped when it *cannot* be chapeau text:
+        #   * it does not end in ':', '.' or ';' (a chapeau such as
+        #     "A company must not acquire shares ... except:" always does), and
+        #   * the line after it is a "(1)"-style subsection marker, which a
+        #     dropped heading always is followed by.
+        # Re-running the old rule over finreg.db dropped 928 first lines;
+        # 367 end in ':' and 36 in '.' (= 403 real chapeaus), the other 525 are
+        # headings followed by "(1)" and are still dropped.
         first_line, sep, rest = body.partition("\n")
         first_line = first_line.strip()
+        next_line = rest.lstrip("\n").split("\n", 1)[0].strip() if rest.strip() else ""
         if (
             first_line
             and len(first_line) < 120
@@ -297,6 +323,8 @@ def main() -> None:
             and not first_line.startswith("In this Act:")
             and not first_line.startswith("Where ")
             and not first_line.startswith("If ")
+            and not first_line.endswith((":", ".", ";"))
+            and _SUBSECTION_MARKER.match(next_line)
             and rest.strip()
         ):
             # Looks like a stray heading line — check it's followed by content
