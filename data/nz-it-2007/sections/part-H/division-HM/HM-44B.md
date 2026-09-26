@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
   - (i) derives a dividend with imputation credits attached from a company resident in New Zealand together with a related supplementary dividend; and
 
-  - (ii) has, as an investor, a notified foreign investor who meets the requirements of section LP 2(1)﻿(a) (Tax credits for supplementary dividends); and
+  - (ii) has, as an investor, a notified foreign investor who meets the requirements of section LP 2(1)(a) (Tax credits for supplementary dividends); and
 
   - (iii) pays the investor an amount that represents the total amount of the dividend and supplementary dividend that would be attributed to the investor in the absence of subsection (2); and
 

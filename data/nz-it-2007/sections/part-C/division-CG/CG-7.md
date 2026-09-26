@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 - (a) the sum of the payments made; or
 
-- (b) the total amount of the deductions referred to in subsection (1)﻿(b).
+- (b) the total amount of the deductions referred to in subsection (1)(b).
 
 **Timing of income**
 

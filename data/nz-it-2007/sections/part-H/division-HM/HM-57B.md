@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Determining rate**
 
-**(2)** Despite section BD 1(5)﻿(c) (Income, exempt income, excluded income, non-residents' foreign-sourced income, and assessable income), the person must include the total amount of their non-residents' foreign-sourced income in their assessable income.
+**(2)** Despite section BD 1(5)(c) (Income, exempt income, excluded income, non-residents' foreign-sourced income, and assessable income), the person must include the total amount of their non-residents' foreign-sourced income in their assessable income.
 
 **Choosing not to apply this section**
 

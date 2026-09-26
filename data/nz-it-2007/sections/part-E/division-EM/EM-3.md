@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (a) is a contract to conditionally or unconditionally acquire or dispose of any currency in return for any other currency, or is a swap with legs denominated in any currency; and
 
-- (b) meets the requirements of subsection (1)﻿(b) to (e); and
+- (b) meets the requirements of subsection (1)(b) to (e); and
 
 - (c) is entered into only to rebalance currency exposures for the person's other eligible hedges.
 

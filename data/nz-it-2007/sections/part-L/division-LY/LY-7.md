@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)** This section applies for a person for the purposes of section LY 5(2)﻿(b) if the person has an amount of expenditure or loss (foreign research and development expenditure) that—
+**(1)** This section applies for a person for the purposes of section LY 5(2)(b) if the person has an amount of expenditure or loss (foreign research and development expenditure) that—
 
 - (a) is incurred on a supporting research and development activity performed outside New Zealand:
 
@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Calculation of eligible research and development expenditure: foreign research and development expenditure**
 
-**(2)** For the purposes of section LY 5(2)﻿(b), eligible research and development expenditure includes an amount of foreign research and development expenditure, described in subsection (1), to the extent the amount is less than or equal to the lesser of—
+**(2)** For the purposes of section LY 5(2)(b), eligible research and development expenditure includes an amount of foreign research and development expenditure, described in subsection (1), to the extent the amount is less than or equal to the lesser of—
 
 - (a) the amount given by the formula in subsection (3):
 
@@ -30,13 +30,13 @@ compilation_date: 2026-06-06
 
 **Actual overseas expenditure amount**
 
-**(3)** For the purposes of subsection (2)﻿(a), the amount is calculated using the formula— contract amount − ineligible expenditure + foreign in-house amount.
+**(3)** For the purposes of subsection (2)(a), the amount is calculated using the formula— contract amount − ineligible expenditure + foreign in-house amount.
 
 **Definition of items in formula**
 
 **(4)** In the formula in subsection (3),—
 
-- (a) contract amount means the amount of foreign research and development expenditure, described in subsection (1)﻿(a) and (c), for another person (a foreign contractor) to perform research and development activities on behalf of the person:
+- (a) contract amount means the amount of foreign research and development expenditure, described in subsection (1)(a) and (c), for another person (a foreign contractor) to perform research and development activities on behalf of the person:
 
 - (b) ineligible expenditure means the foreign contractor's expenditure or loss in relation to performing the research and development activities, to the extent to which the expenditure or loss is not eligible research and development expenditure under section LY 5(1), treating the foreign contractor as the relevant person for the purposes of that section:
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Capped overseas expenditure amount**
 
-**(5)** For the purposes of subsection (2)﻿(b), the amount is calculated using the formula— 0.1 × total NZ R & D expenditure ÷ 0.9.
+**(5)** For the purposes of subsection (2)(b), the amount is calculated using the formula— 0.1 × total NZ R & D expenditure ÷ 0.9.
 
 **Definition of item in formula**
 

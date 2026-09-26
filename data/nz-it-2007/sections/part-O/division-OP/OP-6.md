@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Consolidation provisions**
 
-**(3)** Sections FM 4 and FM 5 (which relate to the liabilities of group companies) override subsection (1)﻿(b).
+**(3)** Sections FM 4 and FM 5 (which relate to the liabilities of group companies) override subsection (1)(b).
 
 **Tax advantage arrangements and determinations**
 

@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)** This section applies, for a person and an income year, when the person—
 
-- (a) meets the requirements of section FE 2(1)﻿(b), (c), or (cc); and
+- (a) meets the requirements of section FE 2(1)(b), (c), or (cc); and
 
 - (b) is an eligible infrastructure entity for the income year; and
 
@@ -150,7 +150,7 @@ compilation_date: 2026-06-06
 
   - (ii) is an associate of a shareholder described in subparagraph (i), if the shareholder holds, together with any associated persons, 5% or less of the shares in the listed company; and
 
-- (c) excludes debt if a person described in paragraph (a)﻿(i), or an associated person of that person, provides the funds or pays the money, directly or indirectly, to another person (the direct lender) who provides funds to the borrower, and the arrangement has the purpose or effect of enabling the funds to be provided to the borrower, or of reimbursing or compensating the direct lender for providing the funds; and
+- (c) excludes debt if a person described in paragraph (a)(i), or an associated person of that person, provides the funds or pays the money, directly or indirectly, to another person (the direct lender) who provides funds to the borrower, and the arrangement has the purpose or effect of enabling the funds to be provided to the borrower, or of reimbursing or compensating the direct lender for providing the funds; and
 
 - (d) excludes debt that—
 

@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Kinds of insurance**
 
-**(3)** The kinds of insurance referred to in subsection (1)﻿(a) are—
+**(3)** The kinds of insurance referred to in subsection (1)(a) are—
 
 - (a) general insurance:
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Conditions for premium**
 
-**(4)** The premium referred to in subsection (1)﻿(b) is—
+**(4)** The premium referred to in subsection (1)(b) is—
 
 - (a) a premium derived by an insurer who is not resident in New Zealand when they derive it:
 

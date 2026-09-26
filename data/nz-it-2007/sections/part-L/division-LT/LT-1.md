@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(3)** In the formula,—
 
-- (a) amount of loss is the amount of the net loss described in subsection (1)﻿(c) to the extent to which the amount does not exceed the total of the amounts for the deductions referred to in subsection (1)﻿(a)﻿(i) to (iii):
+- (a) amount of loss is the amount of the net loss described in subsection (1)(c) to the extent to which the amount does not exceed the total of the amounts for the deductions referred to in subsection (1)(a)(i) to (iii):
 
 - (b) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Total tax**
 
-**(4B)**  In subsection (4)﻿(a), total tax is the amount of income tax paid by,—
+**(4B)**  In subsection (4)(a), total tax is the amount of income tax paid by,—
 
 - (a) for a petroleum miner, the petroleum miner and any consolidated group of which they are a member on net income derived for all earlier tax years, calculated on a year-by-year basis and aggregated:
 
@@ -56,15 +56,15 @@ compilation_date: 2026-06-06
 
 **Current loss credit**
 
-**(4C)**  In the formula in subsection (4)﻿(b), the item current loss credit is the amount given by subsection (2).
+**(4C)**  In the formula in subsection (4)(b), the item current loss credit is the amount given by subsection (2).
 
 **Exploration abandonment excess**
 
-**(4D)**  In the formula in subsection (4)﻿(b), the item exploration abandonment excess is the greater of zero and,—
+**(4D)**  In the formula in subsection (4)(b), the item exploration abandonment excess is the greater of zero and,—
 
-- (a) if the amount described in subsection (1)﻿(a)﻿(iii) is zero or the amount of the net loss described in subsection (1)﻿(c) is less than or equal to the total amount of the deductions described in subsection (1)﻿(a)﻿(i) and (ii), zero; or
+- (a) if the amount described in subsection (1)(a)(iii) is zero or the amount of the net loss described in subsection (1)(c) is less than or equal to the total amount of the deductions described in subsection (1)(a)(i) and (ii), zero; or
 
-- (b) if the amount of the net loss described in subsection (1)﻿(c) is equal to or exceeds the total amount of the deductions described in subsection (1)﻿(a)﻿(i) to (iii) and the amount described in subsection (1)﻿(a)﻿(iii) is greater than zero, the amount calculated by multiplying the amount referred to in subsection (1)﻿(a)﻿(iii) for the income year by the tax rate referred to in subsection (3)﻿(b) and subtracting the amount of income tax (the post-abandonment tax) paid by,—
+- (b) if the amount of the net loss described in subsection (1)(c) is equal to or exceeds the total amount of the deductions described in subsection (1)(a)(i) to (iii) and the amount described in subsection (1)(a)(iii) is greater than zero, the amount calculated by multiplying the amount referred to in subsection (1)(a)(iii) for the income year by the tax rate referred to in subsection (3)(b) and subtracting the amount of income tax (the post-abandonment tax) paid by,—
 
   - (i) for a petroleum miner, the petroleum miner and any consolidated group of which they are a member on net income derived for tax years beginning after drilling for the purposes of exploration ceased in the exploratory well, calculated on a year-by-year basis and aggregated:
 
@@ -74,15 +74,15 @@ compilation_date: 2026-06-06
 
 **Definition of items in formula**
 
-**(4E)**  In the formula in subsection (4D)﻿(c),—
+**(4E)**  In the formula in subsection (4D)(c),—
 
-- (a) net loss is the amount of the net loss described in subsection (1)﻿(c):
+- (a) net loss is the amount of the net loss described in subsection (1)(c):
 
-- (b) decommissioning deductions is the total amount of the deductions described in subsection (1)﻿(a)﻿(i) and (ii):
+- (b) decommissioning deductions is the total amount of the deductions described in subsection (1)(a)(i) and (ii):
 
-- (c) tax rate is the tax rate referred to in subsection (3)﻿(b):
+- (c) tax rate is the tax rate referred to in subsection (3)(b):
 
-- (d) post-abandonment tax is the amount of income tax described in subsection (4D)﻿(b).
+- (d) post-abandonment tax is the amount of income tax described in subsection (4D)(b).
 
 **Consolidated groups**
 
@@ -100,7 +100,7 @@ compilation_date: 2026-06-06
 
 **Calculations on year-by-year basis**
 
-**(7)** In subsections (4B), (4D), and (6)﻿(c) a reference to a calculation on a year-by-year basis refers to a calculation starting with the immediately preceding tax year and working backwards to earlier tax years until the amount of tax paid is equal to or more than the current loss credit.
+**(7)** In subsections (4B), (4D), and (6)(c) a reference to a calculation on a year-by-year basis refers to a calculation starting with the immediately preceding tax year and working backwards to earlier tax years until the amount of tax paid is equal to or more than the current loss credit.
 
 **Treatment of tax losses**
 

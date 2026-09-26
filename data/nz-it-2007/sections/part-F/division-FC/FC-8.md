@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)** This section applies, in the circumstances described in section FC 1(1)﻿(a) or (b), to a transfer of a financial arrangement on a person's death.
+**(1)** This section applies, in the circumstances described in section FC 1(1)(a) or (b), to a transfer of a financial arrangement on a person's death.
 
 **Financial arrangements: cash basis person**
 

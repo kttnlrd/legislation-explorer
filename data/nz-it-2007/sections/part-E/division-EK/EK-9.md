@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (a) the excess, if the payment is more than the person's maximum payment for the income year:
 
-- (b) the payment, if the payment is described by subsection (1)﻿(b).
+- (b) the payment, if the payment is described by subsection (1)(b).
 
 **No interest payable by Commissioner**
 

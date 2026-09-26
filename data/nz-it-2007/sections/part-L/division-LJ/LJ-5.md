@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 - (b) losses—
 
-  - (i) is the amount of the loss balance carried forward to the tax year that the person must subtract from their net income under section IA 4(1)﻿(a) (Using loss balances carried forward to tax year):
+  - (i) is the amount of the loss balance carried forward to the tax year that the person must subtract from their net income under section IA 4(1)(a) (Using loss balances carried forward to tax year):
 
   - (ii) must be no more than the amount of the person's net income:
 

@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **From cash to accrual accounting method**
 
-**(2)** If subsection (1)﻿(a) applies,—
+**(2)** If subsection (1)(a) applies,—
 
 - (a) an amount owed to the person on the last day of the income year before the year of change is income of the person in the year of change; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **From accrual to cash accounting method**
 
-**(3)** If subsection (1)﻿(b) applies,—
+**(3)** If subsection (1)(b) applies,—
 
 - (a) an amount equal to the total of all amounts owing by the person in the year of change that have been allowed as a deduction in earlier income years is income of the person in the year of change; and
 

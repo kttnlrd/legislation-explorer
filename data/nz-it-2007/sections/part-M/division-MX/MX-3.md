@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Wage intensity criteria**
 
-**(1)** For the purposes of section MX 1(1)﻿(f), a person meets the wage intensity criteria for an income year if, for the income year or for the part of the income year for which the person exists (the part-year) if that is not the whole income year,—
+**(1)** For the purposes of section MX 1(1)(f), a person meets the wage intensity criteria for an income year if, for the income year or for the part of the income year for which the person exists (the part-year) if that is not the whole income year,—
 
 - (a) the amount calculated for the person using the formula in subsection (2) is 0.2 or more; and
 
@@ -42,13 +42,13 @@ compilation_date: 2026-06-06
 
   - (ii) the amount of salary or wages paid to employees:
 
-  - (iii) if the person makes the election referred to in paragraph (a)﻿(iii), the amount referred to in subsection (4) for each employee:
+  - (iii) if the person makes the election referred to in paragraph (a)(iii), the amount referred to in subsection (4) for each employee:
 
   - (iv) the amount paid to shareholder-employees to which section RD 3B(3) or RD 3C(4) apply.
 
 **Amount for optional inclusion in total R&D labour expenditure and total labour expenditure**
 
-**(4)** For the purposes of subsection (3)﻿(a)﻿(iii) and (b)﻿(iii), the expenditure of an employer for an employee that the person may choose to include in the items total R&D labour expenditure and total labour expenditure is the total of all—
+**(4)** For the purposes of subsection (3)(a)(iii) and (b)(iii), the expenditure of an employer for an employee that the person may choose to include in the items total R&D labour expenditure and total labour expenditure is the total of all—
 
 - (a) the employer's superannuation cash contributions for the employee that are not salary or wages:
 

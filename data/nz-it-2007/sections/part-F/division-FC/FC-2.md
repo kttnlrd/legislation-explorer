@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Date of transfer of estate of deceased person**
 
-**(2)** For property referred to in section FC 1(1)﻿(a), the disposal and acquisition is treated as occurring immediately before the death of the person.
+**(2)** For property referred to in section FC 1(1)(a), the disposal and acquisition is treated as occurring immediately before the death of the person.
 
 **Exceptions to general rule**
 

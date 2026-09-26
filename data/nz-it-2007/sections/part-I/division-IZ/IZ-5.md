@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Market value circumstances and minimum interests**
 
-**(2)** For the purposes of subsection (1)﻿(b),—
+**(2)** For the purposes of subsection (1)(b),—
 
 - (a) if, during the period a market value circumstance exists for the company, the group of persons must also hold for the period total minimum market value interests in the company that add up to at least 49%:
 

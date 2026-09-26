@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Formula for debt-asset ratio of CFC**
 
-**(4)** The formula for the CFC's debt-asset ratio referred to in subsection (2)﻿(a) is— (total CFC's debts − group funding) ÷ (total CFC's assets − total CFC's non-debt liabilities − group funding).
+**(4)** The formula for the CFC's debt-asset ratio referred to in subsection (2)(a) is— (total CFC's debts − group funding) ÷ (total CFC's assets − total CFC's non-debt liabilities − group funding).
 
 **Definition of items in formula**
 

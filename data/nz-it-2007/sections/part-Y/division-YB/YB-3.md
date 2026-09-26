@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Aggregation rule for land provisions**
 
-**(4)** For the purposes of subsections (1) and (2) and the land provisions, if a person (person A) and another person (person B) are associated under any of sections YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, and YB 10 to YB 14, person A is treated as holding anything held by person B.
+**(4)** For the purposes of subsections (1) and (2) and the land provisions, if a person (person A) and another person (person B) are associated under any of sections YB 4(1)(b) and (2) to (4), YB 7, YB 8, and YB 10 to YB 14, person A is treated as holding anything held by person B.
 
 *Defined in this Act: associated person, company, land provisions, market value circumstance, market value interest, voting interest*
 

@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Exception**
 
-**(4)** This section does not apply for the capital contribution if the person has chosen, in accordance with section DB 64(1)﻿(c) (Capital contributions), to apply section DB 64 instead.
+**(4)** This section does not apply for the capital contribution if the person has chosen, in accordance with section DB 64(1)(c) (Capital contributions), to apply section DB 64 instead.
 
 *Defined in this Act: amount, capital contribution, income, income year, return of income*
 

@@ -36,17 +36,17 @@ compilation_date: 2026-06-06
 
 - (c) in section OZ 9,—
 
-  - (i) in subsection (1)﻿(b), the reference to sections OB 61(4) and OC 28(4) had been replaced by a reference to section OK 20(3):
+  - (i) in subsection (1)(b), the reference to sections OB 61(4) and OC 28(4) had been replaced by a reference to section OK 20(3):
 
-  - (ii) in subsection (1)﻿(c)﻿(ii), the reference to a ratio of 30/70 had been replaced by a reference to a ratio of 19.5/80.5:
+  - (ii) in subsection (1)(c)(ii), the reference to a ratio of 30/70 had been replaced by a reference to a ratio of 19.5/80.5:
 
-  - (iii) in subsection (3)﻿(b), the reference to a ratio of 28/72 had been replaced by a reference to a ratio of 17.5/82.5:
+  - (iii) in subsection (3)(b), the reference to a ratio of 28/72 had been replaced by a reference to a ratio of 17.5/82.5:
 
 - (d) in section OZ 10,—
 
-  - (i) in subsection (1)﻿(b), a reference to a ratio of 28/72 had been replaced by a reference to a ratio of 17.5/82.5 and a reference to a ratio of 30/70 had been replaced by a reference to a ratio of 19.5/80.5:
+  - (i) in subsection (1)(b), a reference to a ratio of 28/72 had been replaced by a reference to a ratio of 17.5/82.5 and a reference to a ratio of 30/70 had been replaced by a reference to a ratio of 19.5/80.5:
 
-  - (ii) subsection (1)﻿(b)﻿(ii) and (iii) were omitted:
+  - (ii) subsection (1)(b)(ii) and (iii) were omitted:
 
   - (iii) in subsection (2), the reference to section LE 8 had been replaced by a reference to section LO 3:
 
@@ -54,11 +54,11 @@ compilation_date: 2026-06-06
 
 - (e) in section OZ 11,—
 
-  - (i) in subsection (1)﻿(b)﻿(i), the reference to a ratio of 28/72 had been replaced by a reference to a ratio of 17.5/82.5 and the reference to a ratio of 30/70 had been replaced by a reference to a ratio of 19.5/80.5:
+  - (i) in subsection (1)(b)(i), the reference to a ratio of 28/72 had been replaced by a reference to a ratio of 17.5/82.5 and the reference to a ratio of 30/70 had been replaced by a reference to a ratio of 19.5/80.5:
 
-  - (ii) subsection (1)﻿(b)﻿(ii) and (iii) had been omitted:
+  - (ii) subsection (1)(b)(ii) and (iii) had been omitted:
 
-  - (iii) in subsection (1)﻿(c), a reference to a new company tax rate person had been replaced by a reference to a Maori authority that uses a 17.5% basic tax rate for the 2011–12 income year or later income years:
+  - (iii) in subsection (1)(c), a reference to a new company tax rate person had been replaced by a reference to a Maori authority that uses a 17.5% basic tax rate for the 2011–12 income year or later income years:
 
   - (iv) in subsection (2), in the formula, the figure 0.28 had been replaced by the figure 17.5:
 

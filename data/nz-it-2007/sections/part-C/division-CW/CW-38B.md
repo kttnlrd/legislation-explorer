@@ -36,13 +36,13 @@ compilation_date: 2026-06-06
 
 - (c) to remove the name of a company.
 
-**When Minister of Revenue must recommend Order in Council under subsection (4)﻿(c)**
+**When Minister of Revenue must recommend Order in Council under subsection (4)(c)**
 
 **(5)** The Minister of Revenue must recommend that an Order in Council be made to remove the name of a company from schedule 35 if the Minister is satisfied that—
 
 - (a) the company has been removed from the register of companies kept under the Companies Act 1993; or
 
-- (b) the company no longer meets the criteria set out in subsection (4)﻿(a).
+- (b) the company no longer meets the criteria set out in subsection (4)(a).
 
 **Secondary legislation**
 

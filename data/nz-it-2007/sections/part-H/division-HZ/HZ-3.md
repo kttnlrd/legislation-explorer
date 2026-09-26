@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **No disposal: same partnership**
 
-**(2)** No partners' interests are disposed of merely because of the termination and succession described in subsection (1)﻿(b). The partners of the special partnership are treated as the same partners of the new limited partnership.
+**(2)** No partners' interests are disposed of merely because of the termination and succession described in subsection (1)(b). The partners of the special partnership are treated as the same partners of the new limited partnership.
 
 **Initial basis**
 

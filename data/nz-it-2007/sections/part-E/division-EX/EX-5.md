@@ -36,15 +36,15 @@ compilation_date: 2026-06-06
 
 **Measurement of available subscribed capital**
 
-**(3)** When the direct control interest in the category in subsection (1)﻿(a) is calculated, the percentage is the total of the available subscribed capital per share calculated under the slice rule of the shares held as a percentage of the total available subscribed capital per share calculated under the slice rule of all shares in the company.
+**(3)** When the direct control interest in the category in subsection (1)(a) is calculated, the percentage is the total of the available subscribed capital per share calculated under the slice rule of the shares held as a percentage of the total available subscribed capital per share calculated under the slice rule of all shares in the company.
 
 **Varying decision-making rights**
 
-**(4)** When the direct control interest in the category in subsection (1)﻿(b) is calculated, if the percentage varies between the rights described in the different paragraphs of the definition of shareholder decision-making rights in section YA 1 (Definitions), the highest percentage is taken.
+**(4)** When the direct control interest in the category in subsection (1)(b) is calculated, if the percentage varies between the rights described in the different paragraphs of the definition of shareholder decision-making rights in section YA 1 (Definitions), the highest percentage is taken.
 
 **Income distribution rights: assumptions**
 
-**(5)** When the direct control interest in the category in subsection (1)﻿(c) is calculated, it is assumed that—
+**(5)** When the direct control interest in the category in subsection (1)(c) is calculated, it is assumed that—
 
 - (a) the income is distributed on the last day of the accounting period; and
 

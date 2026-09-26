@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
   - (xivb) the exemption for share users in returning share transfers in section EX 43B (Exemption for share users in returning share transfers):
 
-  - (xv) an exemption for a non-attributing active FIF given by sections EX 50, EX 18A(2)﻿(b)﻿(i), and EX 21B (which relate to the attributable FIF income method and FIFs corresponding to non-attributing active CFCs); and
+  - (xv) an exemption for a non-attributing active FIF given by sections EX 50, EX 18A(2)(b)(i), and EX 21B (which relate to the attributable FIF income method and FIFs corresponding to non-attributing active CFCs); and
 
 - (d) if the person is a natural person,—
 
@@ -76,7 +76,7 @@ compilation_date: 2026-06-06
 
 **Treatment of transaction under section EX 63, EX 65, or EX 67**
 
-**(1B)**  If a person is treated under section EX 63(5), EX 65, or EX 67 (which relate to changes in method or application of FIF rules) as disposing of or acquiring rights in an income year, the disposal or acquisition is ignored for the purposes of subsection (1)﻿(d) and (e).
+**(1B)**  If a person is treated under section EX 63(5), EX 65, or EX 67 (which relate to changes in method or application of FIF rules) as disposing of or acquiring rights in an income year, the disposal or acquisition is ignored for the purposes of subsection (1)(d) and (e).
 
 **Look-through calculation methods**
 
@@ -84,7 +84,7 @@ compilation_date: 2026-06-06
 
 - (a) FIF income arises in the income year only if the relevant accounting period of the FIF ends during the year; and
 
-- (b) the tests in subsection (1)﻿(a), (b), (c), and (f) are applied on the basis that references in subsection (1)﻿(a), (b), (c), and (f) to any time in the year are read as references to any time in the relevant accounting period.
+- (b) the tests in subsection (1)(a), (b), (c), and (f) are applied on the basis that references in subsection (1)(a), (b), (c), and (f) to any time in the year are read as references to any time in the relevant accounting period.
 
 **FIF income from CFC with FIF interest**
 
@@ -96,7 +96,7 @@ compilation_date: 2026-06-06
 
 **Requirements for trustees**
 
-**(5)** Subsection (1)﻿(e) applies to the trustee of a trust for an income year if—
+**(5)** Subsection (1)(e) applies to the trustee of a trust for an income year if—
 
 - (a) the trust is of the estate of a deceased person and the income year begins on or before the day that is 5 years after the person's death:
 

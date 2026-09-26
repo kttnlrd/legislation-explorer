@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
   - (iv) that the person would be permitted to make if the scheme were a KiwiSaver scheme:
 
-  - (v) in circumstances set out in the distribution rules that have been approved under subsection (1)﻿(c)﻿(i):
+  - (v) in circumstances set out in the distribution rules that have been approved under subsection (1)(c)(i):
 
 - (c) the entity may require the person to provide information to ensure that the requirements relating to a withdrawal are met.
 

@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **When companies have different balance dates**
 
-**(3)** If the balance dates of company A and company B are different, section IC 10(2)﻿(b) applies to extend the commonality period.
+**(3)** If the balance dates of company A and company B are different, section IC 10(2)(b) applies to extend the commonality period.
 
 **Relationship with section IZ 7**
 

@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Sole originators for attributed assets**
 
-**(2B)**  When an originator makes an election under subsection (1) or section HZ 9 (Elections to treat existing debt funding special purpose vehicles as transparent) in relation to an attributed asset referred to in section HR 9(1)﻿(b), no other originator may make an election in relation to that asset.
+**(2B)**  When an originator makes an election under subsection (1) or section HZ 9 (Elections to treat existing debt funding special purpose vehicles as transparent) in relation to an attributed asset referred to in section HR 9(1)(b), no other originator may make an election in relation to that asset.
 
 **Relationship with section HR 10B**
 

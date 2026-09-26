@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 - (b) Determination G26: Variable rate financial arrangements or a determination that succeeds it:
 
-- (c) a determination made by the Commissioner under section 90AC(1)﻿(bb) of the Tax Administration Act 1994 or a binding ruling made under section 91CC(1)﻿(b) of that Act:
+- (c) a determination made by the Commissioner under section 90AC(1)(bb) of the Tax Administration Act 1994 or a binding ruling made under section 91CC(1)(b) of that Act:
 
 - (d) a method other than those set out in paragraphs (a) to (c) if the alternative—
 

@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 **Date for payment**
 
-**(8)** In subsection (7)﻿(a), the date for payment is 30 days after the later of—
+**(8)** In subsection (7)(a), the date for payment is 30 days after the later of—
 
 - (a) the date on which the person who paid the tax receives the refund:
 

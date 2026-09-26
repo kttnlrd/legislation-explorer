@@ -54,11 +54,11 @@ compilation_date: 2026-06-06
 
   - (ii) at the end of the accounting period; and
 
-- (d) the requirements of subsection (2)﻿(a), (b), (d), and (e) are met.
+- (d) the requirements of subsection (2)(a), (b), (d), and (e) are met.
 
 **Threshold ratio**
 
-**(3)** A CFC is a non-attributing active CFC under section EX 21B(2)﻿(b) for an accounting period and an interest holder if, under subsection (4),—
+**(3)** A CFC is a non-attributing active CFC under section EX 21B(2)(b) for an accounting period and an interest holder if, under subsection (4),—
 
 - (a) the amount calculated using the formula in subsection (5) is less than 0.05; and
 
@@ -156,33 +156,33 @@ compilation_date: 2026-06-06
 
 **(8)** Added passive is the total of amounts not included in the item reported passive for the accounting period that are 1 or more of the following:
 
-- (a) income from a life insurance policy that is included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(g):
+- (a) income from a life insurance policy that is included in the attributable CFC amount for the accounting period under section EX 20B(3)(g):
 
-- (b) income from the disposal of revenue account property that is included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(k), if the property is—
+- (b) income from the disposal of revenue account property that is included in the attributable CFC amount for the accounting period under section EX 20B(3)(k), if the property is—
 
   - (i) not a share, financial arrangement, or life insurance policy; and
 
   - (ii) used by the CFC in a way giving rise to income or gains that increase the numerator of the formula in subsection (5):
 
-- (c) income from a supply of services performed in New Zealand that is included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(l):
+- (c) income from a supply of services performed in New Zealand that is included in the attributable CFC amount for the accounting period under section EX 20B(3)(l):
 
-- (d) income from a supply of telecommunications services that is included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(m) or (n):
+- (d) income from a supply of telecommunications services that is included in the attributable CFC amount for the accounting period under section EX 20B(3)(m) or (n):
 
-- (e) attributed PIE income that is included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(o).
+- (e) attributed PIE income that is included in the attributable CFC amount for the accounting period under section EX 20B(3)(o).
 
 **Removed passive**
 
 **(9)** Removed passive is zero if the interest holder does not choose to include an amount for this item or is the total of amounts that are included in the item reported passive or added passive for the accounting period and are in a category included in categories chosen by the interest holder from the following:
 
-- (a) a dividend that is not included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(a) to (c):
+- (a) a dividend that is not included in the attributable CFC amount for the accounting period under section EX 20B(3)(a) to (c):
 
-- (b) a royalty that would be included in the attributable CFC amount for the accounting period but for section EX 20B(5)﻿(a) to (d):
+- (b) a royalty that would be included in the attributable CFC amount for the accounting period but for section EX 20B(5)(a) to (d):
 
-- (c) rent that would be included in the attributable CFC amount for the accounting period but for section EX 20B(7)﻿(a) to (c):
+- (c) rent that would be included in the attributable CFC amount for the accounting period but for section EX 20B(7)(a) to (c):
 
 - (cb) gain or loss from a financial asset or financial liability that is a financial arrangement or agreement referred to in section EX 20B(12):
 
-- (d) the cost of revenue account property producing an amount (the included amount) included in the attributable CFC amount under section EX 20B(3)﻿(k) to the extent, not exceeding the included amount, to which—
+- (d) the cost of revenue account property producing an amount (the included amount) included in the attributable CFC amount under section EX 20B(3)(k) to the extent, not exceeding the included amount, to which—
 
   - (i) the cost would be a deduction of the CFC in the accounting period if the CFC were a resident of New Zealand; and
 
@@ -228,9 +228,9 @@ compilation_date: 2026-06-06
 
 **(11)** Added revenue is zero if the interest holder does not choose to include an amount for this item or is the total of amounts that are not included in the item reported revenue for the accounting period and are either or both of the following:
 
-- (a) income from a life insurance policy that is included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(g):
+- (a) income from a life insurance policy that is included in the attributable CFC amount for the accounting period under section EX 20B(3)(g):
 
-- (b) income from the disposal of revenue account property that is included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(k), if the property is—
+- (b) income from the disposal of revenue account property that is included in the attributable CFC amount for the accounting period under section EX 20B(3)(k), if the property is—
 
   - (i) not a share, financial arrangement, or life insurance policy; and
 
@@ -240,11 +240,11 @@ compilation_date: 2026-06-06
 
 **(12)** Removed revenue is the total of amounts that are included under the applicable accounting standard in the item reported revenue or added revenue for the accounting period and are 1 or more of the following:
 
-- (a) an amount included in the item removed passive under subsection (9)﻿(d):
+- (a) an amount included in the item removed passive under subsection (9)(d):
 
-- (b) a dividend to the extent to which it is included in the item removed passive, under subsection (9)﻿(a):
+- (b) a dividend to the extent to which it is included in the item removed passive, under subsection (9)(a):
 
-- (c) income from a supply of personal services that is included in the item reported revenue, and in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(h):
+- (c) income from a supply of personal services that is included in the item reported revenue, and in the attributable CFC amount for the accounting period under section EX 20B(3)(h):
 
 - (d) income or loss from a share that is not revenue account property under this Act in the form of—
 
@@ -254,7 +254,7 @@ compilation_date: 2026-06-06
 
   - (iii) a foreign exchange gain or loss on the share:
 
-- (db) income that is derived from a fixed establishment by a member of the test group and is not an attributable CFC amount, if the member is included in the test group under subsection (2)﻿(b)﻿(ii):
+- (db) income that is derived from a fixed establishment by a member of the test group and is not an attributable CFC amount, if the member is included in the test group under subsection (2)(b)(ii):
 
 - (e) income derived from another CFC that—
 

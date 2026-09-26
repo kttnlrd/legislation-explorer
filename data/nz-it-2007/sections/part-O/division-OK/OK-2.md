@@ -40,9 +40,9 @@ compilation_date: 2026-06-06
 
 - (b) for an amount of excess tax transferred in a tax year (the transfer year) from another period or tax type of the Maori authority under section 173L of the Tax Administration Act 1994,—
 
-  - (i) despite section 173L(2)﻿(a) to (bb) of that Act, the date of the request for the transfer, if that date is in the transfer year; or
+  - (i) despite section 173L(2)(a) to (bb) of that Act, the date of the request for the transfer, if that date is in the transfer year; or
 
-  - (ii) despite section 173L(2)﻿(a) to (bb) of that Act, the date of the request for the transfer, if that date is in the tax year following the transfer year and, at the end of the transfer year, the credit in the MACA from which the amount is transferred equals or exceeds the amount of all transfers from that account requested in the transfer year under section 173L or 173M of that Act or section RC 32(5)﻿(b), and the MACA to which the transfer is made is in credit; or
+  - (ii) despite section 173L(2)(a) to (bb) of that Act, the date of the request for the transfer, if that date is in the tax year following the transfer year and, at the end of the transfer year, the credit in the MACA from which the amount is transferred equals or exceeds the amount of all transfers from that account requested in the transfer year under section 173L or 173M of that Act or section RC 32(5)(b), and the MACA to which the transfer is made is in credit; or
 
   - (iii) the date of the transfer under section 173L of that Act, if the requirements of neither subparagraph (i) nor subparagraph (ii) are met.
 

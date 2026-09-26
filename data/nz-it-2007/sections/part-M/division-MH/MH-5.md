@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)** When a person is entitled to a FamilyBoost tax credit for a tax credit quarter under section MH 3 and the person's tax credit income for that quarter is greater than $35,000, this section calculates the abatement amount for the purposes of section MH 3(3)﻿(b).
+**(1)** When a person is entitled to a FamilyBoost tax credit for a tax credit quarter under section MH 3 and the person's tax credit income for that quarter is greater than $35,000, this section calculates the abatement amount for the purposes of section MH 3(3)(b).
 
 **Rate of abatement**
 

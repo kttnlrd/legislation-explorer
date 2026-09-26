@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Exclusions**
 
-**(2)** Subsection (1)﻿(a) does not apply if the person for whose benefit the contribution is made—
+**(2)** Subsection (1)(a) does not apply if the person for whose benefit the contribution is made—
 
 - (a) is non-resident, and the contribution is non-resident passive income:
 

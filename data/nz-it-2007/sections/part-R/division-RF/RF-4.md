@@ -20,11 +20,11 @@ compilation_date: 2026-06-06
 
 **Obligation to withhold: agent, custodial institution, or other person**
 
-**(2)** The agent, custodial institution, or other person must withhold the amount of tax referred to in subsection (1)﻿(b) for the payment and pay it to the Commissioner. The obligation to withhold arises at the time of receipt.
+**(2)** The agent, custodial institution, or other person must withhold the amount of tax referred to in subsection (1)(b) for the payment and pay it to the Commissioner. The obligation to withhold arises at the time of receipt.
 
 **Notifying agent, custodial institution, or other person**
 
-**(3)** If, in the circumstances described in subsection (1)﻿(a), the person paying the non-resident passive income has withheld the amount of tax for the payment, they must notify the agent, custodial institution, or other person of the amount withheld. Notification must be made at the time the payment is made.
+**(3)** If, in the circumstances described in subsection (1)(a), the person paying the non-resident passive income has withheld the amount of tax for the payment, they must notify the agent, custodial institution, or other person of the amount withheld. Notification must be made at the time the payment is made.
 
 **Agreements to transfer withholding obligations: outsourcing withholding**
 

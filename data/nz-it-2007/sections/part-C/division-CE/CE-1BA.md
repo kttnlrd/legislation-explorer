@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(3)** If the employer chooses to treat the amount paid as employment income of the employee, as described in subsection (2)﻿(a), section CW 17BA (Reimbursement of expenditure paid as employment income) applies to the payment.
+**(3)** If the employer chooses to treat the amount paid as employment income of the employee, as described in subsection (2)(a), section CW 17BA (Reimbursement of expenditure paid as employment income) applies to the payment.
 
 **Exclusion: payments for certain work-related meals**
 

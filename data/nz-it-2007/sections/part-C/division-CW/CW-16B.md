@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Estimated expenditure**
 
-**(4)** For the purposes of subsection (1)﻿(c)﻿(ii),—
+**(4)** For the purposes of subsection (1)(c)(ii),—
 
 - (a) an employer may make, for a relevant period, a reasonable estimate of the amount of expenditure likely to be incurred on an employee's accommodation; and
 

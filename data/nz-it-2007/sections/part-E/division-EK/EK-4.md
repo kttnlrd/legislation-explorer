@@ -48,9 +48,9 @@ compilation_date: 2026-06-06
 
 **(6)** An amount may be transferred from the environmental restoration account of a person—
 
-- (a) to an environmental restoration account of a person to whom the amount has been transferred under section EK 15 or EK 16(3)﻿(b):
+- (a) to an environmental restoration account of a person to whom the amount has been transferred under section EK 15 or EK 16(3)(b):
 
-- (b) to the department that is at the time responsible for administering the Environment Act 1986, if the amount has been transferred under section EK 16(3)﻿(a):
+- (b) to the department that is at the time responsible for administering the Environment Act 1986, if the amount has been transferred under section EK 16(3)(a):
 
 - (c) to an environmental restoration account of an amalgamated company to which the amount has been transferred under section EK 19.
 

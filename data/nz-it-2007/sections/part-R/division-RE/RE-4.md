@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Requirements**
 
-**(1)** A person referred to in section RE 3(1)﻿(a) meets the requirements of this section for an obligation to withhold an amount of tax if they meet at least 1 requirement of each of subsections (2) and (3) in relation to a payment of resident passive income.
+**(1)** A person referred to in section RE 3(1)(a) meets the requirements of this section for an obligation to withhold an amount of tax if they meet at least 1 requirement of each of subsections (2) and (3) in relation to a payment of resident passive income.
 
 **Requirement for person**
 

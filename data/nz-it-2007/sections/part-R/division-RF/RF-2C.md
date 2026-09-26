@@ -24,9 +24,9 @@ compilation_date: 2026-06-06
 
 - (c) the financial arrangement—
 
-  - (i) gives rise to non-resident passive income under section RF 2(1)﻿(a)﻿(iv); or
+  - (i) gives rise to non-resident passive income under section RF 2(1)(a)(iv); or
 
-  - (ii) would give rise to income referred to in subparagraph (i) in the absence of section RF 2(2B)﻿(c).
+  - (ii) would give rise to income referred to in subparagraph (i) in the absence of section RF 2(2B)(c).
 
 **Meaning of non-resident financial arrangement income**
 
@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Deferral calculation**
 
-**(4)** Subject to subsection (6), the deferral calculation referred to in subsection (2)﻿(b)﻿(ii) is the percentage calculated using the formula— accumulated payments ÷ (accumulated accruals − hybrid deductions).
+**(4)** Subject to subsection (6), the deferral calculation referred to in subsection (2)(b)(ii) is the percentage calculated using the formula— accumulated payments ÷ (accumulated accruals − hybrid deductions).
 
 **Definition of items in formula**
 
@@ -62,9 +62,9 @@ compilation_date: 2026-06-06
 
   - (i) starts on the day on which the financial arrangement first meets the requirements for a related-party debt; and
 
-  - (ii) ends on the last day of the income year before the income year referred to in paragraph (a)﻿(ii):
+  - (ii) ends on the last day of the income year before the income year referred to in paragraph (a)(ii):
 
-- (c) hybrid deductions is an amount equal to the part of the expenditure that the borrower incurs under the arrangement in the period given by paragraph (b) that has been denied as a deduction under subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements) when the expenditure is incurred and is not allowed as a deduction under the subpart in that period, on the date referred to in paragraph (b)﻿(ii).
+- (c) hybrid deductions is an amount equal to the part of the expenditure that the borrower incurs under the arrangement in the period given by paragraph (b) that has been denied as a deduction under subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements) when the expenditure is incurred and is not allowed as a deduction under the subpart in that period, on the date referred to in paragraph (b)(ii).
 
 **When calculation treated as more than 90%**
 
@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 - (a) the item accumulated accruals is equal to the item hybrid deductions:
 
-- (b) the date in subsection (5)﻿(b)﻿(ii) occurs before the date in subsection (5)﻿(b)﻿(i).
+- (b) the date in subsection (5)(b)(ii) occurs before the date in subsection (5)(b)(i).
 
 **NRFAI due date**
 

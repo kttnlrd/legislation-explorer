@@ -24,13 +24,13 @@ compilation_date: 2026-06-06
 
 - (c) excluded foreign tax is an amount of foreign income tax paid in a country or territory listed in schedule 27 (Countries and types of income with unrecognised tax) to the extent to which the foreign income tax is paid on the types of income listed in the schedule.
 
-**Modifications to formula: section LK 1(1)﻿(d)**
+**Modifications to formula: section LK 1(1)(d)**
 
-**(3)** For the purposes of the formula in this section, when section LK 1(1)﻿(d) applies to provide a tax credit for a tax year when foreign income tax is paid by the person in relation to the CFC from which the income is derived, the calculation of the amount of the tax credit is made under subsection (1), ignoring the section EX 18 income interest in subsection (2)﻿(a).
+**(3)** For the purposes of the formula in this section, when section LK 1(1)(d) applies to provide a tax credit for a tax year when foreign income tax is paid by the person in relation to the CFC from which the income is derived, the calculation of the amount of the tax credit is made under subsection (1), ignoring the section EX 18 income interest in subsection (2)(a).
 
 **Modifications to formula: section LK 1(1B)**
 
-**(4)** For the purposes of the formula in this section, when section LK 1(1B) applies to provide a tax credit for a tax year to a group company, the calculation of the amount of the tax credit is made under subsection (1), ignoring the section EX 18 income interest in subsection (2)﻿(a).
+**(4)** For the purposes of the formula in this section, when section LK 1(1B) applies to provide a tax credit for a tax year to a group company, the calculation of the amount of the tax credit is made under subsection (1), ignoring the section EX 18 income interest in subsection (2)(a).
 
 *Defined in this Act: accounting period, amount, attributed CFC income, CFC, company, foreign income tax, group of companies, income, income interest, income tax, pay, tax credit, tax year*
 

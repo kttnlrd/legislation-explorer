@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Representative rates**
 
-**(2)** The Commissioner may set a representative conversion rate that the person may use, instead of the rate or method referred to in subsection (1)﻿(a), in converting the amount into New Zealand currency.
+**(2)** The Commissioner may set a representative conversion rate that the person may use, instead of the rate or method referred to in subsection (1)(a), in converting the amount into New Zealand currency.
 
 *Defined in this Act: amount, Commissioner, New Zealand*
 

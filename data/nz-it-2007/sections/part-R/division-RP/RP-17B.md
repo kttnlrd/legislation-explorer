@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (a) provisional tax other than under the AIM method:
 
-- (b) terminal tax, other than terminal tax for a person to whom section RC 3(2)﻿(e) or (f) (Who is required to pay provisional tax?) applies:
+- (b) terminal tax, other than terminal tax for a person to whom section RC 3(2)(e) or (f) (Who is required to pay provisional tax?) applies:
 
 - (c) an increased amount of tax described in subsection (3):
 
@@ -88,27 +88,27 @@ compilation_date: 2026-06-06
 
 **Group companies**
 
-**(4B)**  For the purposes of subsection (4)﻿(c), if the person is part of a group of companies, the person includes the other companies in the group at the time at which a deposit to the tax pooling account is made, or funds purchased or used, as applicable.
+**(4B)**  For the purposes of subsection (4)(c), if the person is part of a group of companies, the person includes the other companies in the group at the time at which a deposit to the tax pooling account is made, or funds purchased or used, as applicable.
 
 **Transfer within 60 days for increased amounts and use of money interest**
 
-**(5)** If a person chooses to use funds in a tax pooling account to satisfy an obligation for an increased amount of tax as described in subsection (3)﻿(a) to (ac), or for interest under Part 7 of the Tax Administration Act 1994 on the increased amount of tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the Commissioner issues the notice of assessment increasing the amount to transfer the amount to the person's tax account with the Commissioner.
+**(5)** If a person chooses to use funds in a tax pooling account to satisfy an obligation for an increased amount of tax as described in subsection (3)(a) to (ac), or for interest under Part 7 of the Tax Administration Act 1994 on the increased amount of tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the Commissioner issues the notice of assessment increasing the amount to transfer the amount to the person's tax account with the Commissioner.
 
 **Transfer within 60 days for deferrable tax, agreed delay tax, and use of money interest**
 
-**(6)** If a person chooses to use funds in a tax pooling account to satisfy an obligation for deferrable tax under subsection (3)﻿(b), for agreed delay tax referred to in subsection (3)﻿(bb), or for interest under Part 7 of the Tax Administration Act 1994 on deferrable tax or agreed delay tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the court proceedings are finally determined to transfer the amount to the person's tax account with the Commissioner. For the purposes of this subsection, court proceedings include proceedings before the Taxation Review Authority.
+**(6)** If a person chooses to use funds in a tax pooling account to satisfy an obligation for deferrable tax under subsection (3)(b), for agreed delay tax referred to in subsection (3)(bb), or for interest under Part 7 of the Tax Administration Act 1994 on deferrable tax or agreed delay tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the court proceedings are finally determined to transfer the amount to the person's tax account with the Commissioner. For the purposes of this subsection, court proceedings include proceedings before the Taxation Review Authority.
 
 **Maximum amount of transfer**
 
 **(7)** The maximum amount that a person may ask a tax pooling intermediary to transfer to meet an obligation to pay tax is—
 
-- (a) for a transfer under subsection (4)﻿(a) or (b), the total of—
+- (a) for a transfer under subsection (4)(a) or (b), the total of—
 
   - (i) the provisional tax or terminal tax payable:
 
   - (ii) interest under Part 7 of the Tax Administration Act 1994 on the provisional tax or terminal tax:
 
-- (b) for a transfer under subsection (4)﻿(c), the amount of the funds deposited by the person under section RP 18:
+- (b) for a transfer under subsection (4)(c), the amount of the funds deposited by the person under section RP 18:
 
 - (c) for a transfer under subsection (5), the total of—
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)** This section applies for the purposes of section EJ 20B(4)﻿(a) for the item rate in the formula that determines the amount of the deduction a mineral miner is allowed for an income year that falls in the spreading period described in section EJ 20C.
+**(1)** This section applies for the purposes of section EJ 20B(4)(a) for the item rate in the formula that determines the amount of the deduction a mineral miner is allowed for an income year that falls in the spreading period described in section EJ 20C.
 
 **Formula for straight-line rate**
 

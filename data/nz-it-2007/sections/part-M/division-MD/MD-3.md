@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Order in Council increasing amount**
 
-**(6)** In subsection (4)﻿(a) and (b), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
+**(6)** In subsection (4)(a) and (b), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
 
 **When another person cares for dependent child**
 

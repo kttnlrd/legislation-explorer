@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Treatment of other person**
 
-**(3)** The person referred to in subsection (1)﻿(d) that is not the company is treated as not having incurred the amount of expenditure or loss.
+**(3)** The person referred to in subsection (1)(d) that is not the company is treated as not having incurred the amount of expenditure or loss.
 
 *Defined in this Act: amount, arrangement, assessable income, associated person, business, company, deduction, income year, loss, tax avoidance, tax loss component, tax year*
 

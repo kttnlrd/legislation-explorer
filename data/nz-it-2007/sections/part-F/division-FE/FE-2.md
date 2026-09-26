@@ -84,7 +84,7 @@ compilation_date: 2026-06-06
 
 **(1B)**  For the purposes of this subpart and the definition of non-resident owning body,—
 
-- (a) a non-resident includes a person who meets the requirements of section FE 2(1)﻿(cc), (d), or (db):
+- (a) a non-resident includes a person who meets the requirements of section FE 2(1)(cc), (d), or (db):
 
 - (b) in determining the relationship between the amount of a company's debt relating to a member and the level of ownership interests in the company relating to the member, the level of each type of ownership interest in the company is considered, despite section FE 39.
 
@@ -100,11 +100,11 @@ compilation_date: 2026-06-06
 
 **(4)** A resident of New Zealand and a relative who is a non-resident are not associated persons—
 
-- (a) in relation to a company for the purposes of subsection (1)﻿(b)﻿(ii), if the non-resident does not have a direct or indirect ownership interest in the company.
+- (a) in relation to a company for the purposes of subsection (1)(b)(ii), if the non-resident does not have a direct or indirect ownership interest in the company.
 
 **New Zealand banking group of Crown-owned registered bank**
 
-**(5)** If the members of the New Zealand banking group of a registered bank are given by section FE 36B, the interests held by a member of the group for the purposes of subsection (1)﻿(e) and (f) do not include interests held by an associated person who is not a member of the group.
+**(5)** If the members of the New Zealand banking group of a registered bank are given by section FE 36B, the interests held by a member of the group for the purposes of subsection (1)(e) and (f) do not include interests held by an associated person who is not a member of the group.
 
 *Defined in this Act: associated person, attributable FIF income method, CFC, company, double tax agreement, eligible infrastructure entity, FIF, income interest, income year, interest, New Zealand, New Zealand banking group, non-complying trust, non-resident, non-resident company, non-resident owning body, ownership interest, public project debt, relative, resident in New Zealand, settlement, trustee*
 

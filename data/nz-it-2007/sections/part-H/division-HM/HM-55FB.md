@@ -16,13 +16,13 @@ compilation_date: 2026-06-06
 
 - (a) a foreign investment PIE has an investment consisting of shares in a company resident in New Zealand; and
 
-- (b) a notified foreign investor in the PIE is a non-resident who meets the requirements of section LP 2(1)﻿(c) (Tax credits for supplementary dividends); and
+- (b) a notified foreign investor in the PIE is a non-resident who meets the requirements of section LP 2(1)(c) (Tax credits for supplementary dividends); and
 
 - (c) the company has declared a dividend to be paid on a later date.
 
 **Notification by PIE**
 
-**(2)** The PIE must notify the company of the investors referred to in subsection (1)﻿(b) who have an investor interest in the PIE on the date on which ownership of the shares determines a legal entitlement to the dividend. The PIE must provide the information before the date of payment of the dividend.
+**(2)** The PIE must notify the company of the investors referred to in subsection (1)(b) who have an investor interest in the PIE on the date on which ownership of the shares determines a legal entitlement to the dividend. The PIE must provide the information before the date of payment of the dividend.
 
 **Sufficient information**
 

@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section ED 1**
 
-**(6)** Subsections (4)﻿(c) and (d) and (5)﻿(c) override sections EA 1(4)﻿(c) and ED 1 (which relate to the valuation of excepted financial arrangements).
+**(6)** Subsections (4)(c) and (d) and (5)(c) override sections EA 1(4)(c) and ED 1 (which relate to the valuation of excepted financial arrangements).
 
 *Defined in this Act: arrangement, associated person, emissions unit, excepted financial arrangement, New Zealand emissions unit, pre-1990 forest land emissions unit*
 

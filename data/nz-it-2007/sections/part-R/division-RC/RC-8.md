@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
   - (i) the base amounts have been assessed; and
 
-  - (ii) the circumstances in paragraph (a)﻿(ii) and (iii) do not exist.
+  - (ii) the circumstances in paragraph (a)(ii) and (iii) do not exist.
 
 **Commissioner's calculation**
 
@@ -86,7 +86,7 @@ compilation_date: 2026-06-06
 
   - (i) the base amounts have been assessed; and
 
-  - (ii) the circumstances in paragraph (a)﻿(ii) and (iii) do not exist.
+  - (ii) the circumstances in paragraph (a)(ii) and (iii) do not exist.
 
 **Total taxable supplies**
 

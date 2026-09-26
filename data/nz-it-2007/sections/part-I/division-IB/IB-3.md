@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
   - (i) since the later of the beginning of the earlier income year and the beginning of the 2020–21 income year; and
 
-  - (ii) in relation to which the requirements of subsection (2)﻿(b) and (c) for the carrying forward to the tax year of the tax loss component are not met:
+  - (ii) in relation to which the requirements of subsection (2)(b) and (c) for the carrying forward to the tax year of the tax loss component are not met:
 
 - (c) the earlier income year is before the 2020–21 income year and the tax loss component could not be carried forward to the 2020–21 tax year in the absence of this subpart.
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Permitted major changes**
 
-**(5)** A major change in the nature of the business activities carried on by the company during the business continuity period does not breach the requirement set out in subsection (2)﻿(c) if the major change is—
+**(5)** A major change in the nature of the business activities carried on by the company during the business continuity period does not breach the requirement set out in subsection (2)(c) if the major change is—
 
 - (a) made to increase the efficiency of a business activity that the company carried on immediately before the beginning of the business continuity period:
 

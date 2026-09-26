@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Relationship with subpart DE**
 
-**(6BA)**  Subpart DE (Motor vehicle expenditure) overrides this section for expenditure to which that subpart relates, if a company is a close company that has chosen to apply that subpart instead of the FBT rules, in accordance with section CX 17(4B)﻿(c) (Benefits provided to employees who are shareholders or investors).
+**(6BA)**  Subpart DE (Motor vehicle expenditure) overrides this section for expenditure to which that subpart relates, if a company is a close company that has chosen to apply that subpart instead of the FBT rules, in accordance with section CX 17(4B)(c) (Benefits provided to employees who are shareholders or investors).
 
 **Relationship with subpart DG**
 

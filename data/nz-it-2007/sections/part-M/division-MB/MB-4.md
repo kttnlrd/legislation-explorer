@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Second formula: attributed interest**
 
-**(5)** For the purposes of the item attributed interest in subsection (4)﻿(b), the relevant amount is calculated using the formula— dependent child interest ÷ relevant major shareholders.
+**(5)** For the purposes of the item attributed interest in subsection (4)(b), the relevant amount is calculated using the formula— dependent child interest ÷ relevant major shareholders.
 
 **Definition of items in formula in subsection (5)**
 
@@ -58,15 +58,15 @@ compilation_date: 2026-06-06
 
   - (ii) the person's spouse, civil union partner, or de facto partner:
 
-  - (iii) principal caregivers of the dependent children described in paragraph (a)﻿(i) and (ii), but ignoring principal caregivers already counted under subparagraphs (i) and (ii) of this paragraph.
+  - (iii) principal caregivers of the dependent children described in paragraph (a)(i) and (ii), but ignoring principal caregivers already counted under subparagraphs (i) and (ii) of this paragraph.
 
 **Main income equalisation deposits**
 
-**(7)** For the purposes of subsection (2)﻿(b), if the company makes a main income equalisation deposit for the company's income year, the amount of the deposit is added to the item income in the formula in subsection (3).
+**(7)** For the purposes of subsection (2)(b), if the company makes a main income equalisation deposit for the company's income year, the amount of the deposit is added to the item income in the formula in subsection (3).
 
 **Main income equalisation refunds**
 
-**(8)** For the purposes of subsection (2)﻿(b), if the company receives a main income equalisation refund for the company's income year, the amount of the refund is subtracted from the item income in the formula in subsection (3).
+**(8)** For the purposes of subsection (2)(b), if the company receives a main income equalisation refund for the company's income year, the amount of the refund is subtracted from the item income in the formula in subsection (3).
 
 *Defined in this Act: amount, civil union partner, close company, de facto partner, dependent child, dividend, family scheme income, income year, main income equalisation account, main income equalisation deposit, main income equalisation refund, major shareholder, net income, principal caregiver, share, spouse, voting interest*
 

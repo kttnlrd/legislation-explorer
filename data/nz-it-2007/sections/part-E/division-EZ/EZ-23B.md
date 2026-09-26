@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
   - (i) not depreciable intangible property; and
 
-  - (ii) included in 1 of the categories (an affected class) of the person's depreciable property referred to in subsection (10)﻿(b); and
+  - (ii) included in 1 of the categories (an affected class) of the person's depreciable property referred to in subsection (10)(b); and
 
   - (iii) included in an affected class that is not linked with a replacement interest under section EZ 23BB; and
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Amount of reduction: expenditure on replacement item and suspended recovery income**
 
-**(4)** The amount of the reduction under subsection (3)﻿(a) or (b) for a replacement item and an affected class of affected property for which the person does not use the pool method is—
+**(4)** The amount of the reduction under subsection (3)(a) or (b) for a replacement item and an affected class of affected property for which the person does not use the pool method is—
 
 - (a) zero, if the cost of the affected class equals or is less than the person's total expenditure in acquiring, before the replacement item, other replacement property linked with the affected class; or
 
@@ -104,7 +104,7 @@ compilation_date: 2026-06-06
 
 **(7)** An item of replacement property for a person must—
 
-- (c) be included in the same category under subsection (10)﻿(b) as the affected class with which the person links the item, if the affected class is described in subsection (10)﻿(b)﻿(i) or (ii); and
+- (c) be included in the same category under subsection (10)(b) as the affected class with which the person links the item, if the affected class is described in subsection (10)(b)(i) or (ii); and
 
 - (d) be located in greater Christchurch as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011, if the item is a building or commercial fit-out.
 

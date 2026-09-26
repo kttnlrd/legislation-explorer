@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Table references**
 
-**(3)** The ASC debit in subsection (2)﻿(a) is referred to in table O12: ASC debits, row 2 (transfer to imputation credit account). The imputation credit in subsection (2)﻿(b) is referred to in table O1: imputation credits, row 16 (transfer from ASC account).
+**(3)** The ASC debit in subsection (2)(a) is referred to in table O12: ASC debits, row 2 (transfer to imputation credit account). The imputation credit in subsection (2)(b) is referred to in table O1: imputation credits, row 16 (transfer from ASC account).
 
 **Amount**
 

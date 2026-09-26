@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **(3)** In the formula,—
 
-- (a) expenditure or loss is the excess amount referred to in subsection (1)﻿(b) to the extent to which it consists of the amounts referred to in subsection (1)﻿(a)﻿(i) to (iii):
+- (a) expenditure or loss is the excess amount referred to in subsection (1)(b) to the extent to which it consists of the amounts referred to in subsection (1)(a)(i) to (iii):
 
 - (b) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Calculated on a year-by-year basis**
 
-**(7)** In subsections (4)﻿(b), (5)﻿(c) and (6), a reference to a calculation on a year-by-year basis refers to a calculation starting with the immediately preceding tax year and working backwards to earlier tax years until the amount of tax paid is equal to or more than the amount referred to in subsection (4)﻿(a).
+**(7)** In subsections (4)(b), (5)(c) and (6), a reference to a calculation on a year-by-year basis refers to a calculation starting with the immediately preceding tax year and working backwards to earlier tax years until the amount of tax paid is equal to or more than the amount referred to in subsection (4)(a).
 
 **Treatment of tax loss**
 

@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Payment**
 
-**(2)** Within 30 working days of the Commissioner being satisfied that the person meets the requirement in section MK 2(1)﻿(cc), the Commissioner must pay a tax credit to the fund provider of the scheme or fund to which the person has contributed. The amount of the tax credit is calculated under section MK 4. Subsection (5) overrides this subsection.
+**(2)** Within 30 working days of the Commissioner being satisfied that the person meets the requirement in section MK 2(1)(cc), the Commissioner must pay a tax credit to the fund provider of the scheme or fund to which the person has contributed. The amount of the tax credit is calculated under section MK 4. Subsection (5) overrides this subsection.
 
 **Full amount paid**
 

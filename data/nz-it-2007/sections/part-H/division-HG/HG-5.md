@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Exiting partner: excluded payment**
 
-**(3)** The disposal payment described in subsection (2)﻿(a) is excluded income of the exiting partner.
+**(3)** The disposal payment described in subsection (2)(a) is excluded income of the exiting partner.
 
 **Exiting partner: no deduction**
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Entering partner: no deduction**
 
-**(5)** An entering partner is denied any deduction for the disposal payment described in subsection (2)﻿(a).
+**(5)** An entering partner is denied any deduction for the disposal payment described in subsection (2)(a).
 
 **Entering partner: stepping in**
 

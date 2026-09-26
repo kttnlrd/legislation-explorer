@@ -30,9 +30,9 @@ compilation_date: 2026-06-06
 
 **(1B)**  This section does not apply to limit the effect of—
 
-- (a) any of the source rules in section YD 4 other than those in section YD 4(2), (3), and (11)﻿(b)﻿(i); or
+- (a) any of the source rules in section YD 4 other than those in section YD 4(2), (3), and (11)(b)(i); or
 
-- (b) the source rules in section YD 4(2), (3), and (11)﻿(b)﻿(i) to the extent to which the income referred to is also income referred to in any source rule other than those in section YD 4(2), (3), and (11)﻿(b)﻿(i).
+- (b) the source rules in section YD 4(2), (3), and (11)(b)(i) to the extent to which the income referred to is also income referred to in any source rule other than those in section YD 4(2), (3), and (11)(b)(i).
 
 **Apportionment**
 
@@ -44,15 +44,15 @@ compilation_date: 2026-06-06
 
 **First formula: Apportionment of income from interest or redemption payment**
 
-**(4)** Subject to subsections (6) and (7), interest or a redemption payment derived as described in subsection (1)﻿(d) is apportioned to a source in New Zealand using the formula— loan ratio × amount.
+**(4)** Subject to subsections (6) and (7), interest or a redemption payment derived as described in subsection (1)(d) is apportioned to a source in New Zealand using the formula— loan ratio × amount.
 
 **Definition of items in formula**
 
 **(5)** In the formula in subsection (4),—
 
-- (a) loan ratio is calculated by applying the formula in subsection (8) to the business described in subsection (1)﻿(d):
+- (a) loan ratio is calculated by applying the formula in subsection (8) to the business described in subsection (1)(d):
 
-- (b) amount is the amount of interest or redemption payment described in subsection (1)﻿(d).
+- (b) amount is the amount of interest or redemption payment described in subsection (1)(d).
 
 **Apportionment if loan ratio 0.05 or less**
 

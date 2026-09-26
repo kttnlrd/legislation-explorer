@@ -92,7 +92,7 @@ compilation_date: 2026-06-06
 
 - (bb) a veteran's pension, other than a veteran's pension paid under section 182 of the Veterans' Support Act 2014:
 
-- (bc) New Zealand superannuation, other than New Zealand superannuation paid under section 26(2)﻿(b) of the New Zealand Superannuation and Retirement Income Act 2001:
+- (bc) New Zealand superannuation, other than New Zealand superannuation paid under section 26(2)(b) of the New Zealand Superannuation and Retirement Income Act 2001:
 
 - (bd) a retirement lump sum paid under Part 5, subpart 7 of the Veterans' Support Act 2014:
 
@@ -112,7 +112,7 @@ compilation_date: 2026-06-06
 
 **Accommodation benefits**
 
-**(8)** A benefit treated as income under section CE 1(1)﻿(bb) (Amounts derived in connection with employment) is included in salary or wages.
+**(8)** A benefit treated as income under section CE 1(1)(bb) (Amounts derived in connection with employment) is included in salary or wages.
 
 **Cash contributions**
 
@@ -120,7 +120,7 @@ compilation_date: 2026-06-06
 
 **Unrepaid PAYE income overpayments**
 
-**(10)** An unrepaid PAYE income overpayment that is treated as salary or wages under section RD 8B(2)﻿(a) is included in salary or wages.
+**(10)** An unrepaid PAYE income overpayment that is treated as salary or wages under section RD 8B(2)(a) is included in salary or wages.
 
 *Defined in this Act: accident compensation earnings-related payment, accommodation, amount, de facto partner, employee, employer's superannuation cash contribution, employer's superannuation contribution, employment, exempt income, expenditure on account of an employee, extra pay, income, main benefit, New Zealand superannuation, pay, salary or wages, schedular payment, unrepaid PAYE income overpayment, veteran's pension*
 

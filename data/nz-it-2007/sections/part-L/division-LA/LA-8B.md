@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
   - (ii) the tax credit apportioned to their shareholder base is less than their income tax liability for the tax year, calculating their income tax liability (the shareholder base income tax liability) as if they only had shareholder base income and allowable deductions:
 
-- (b) the amount of unsatisfied income tax liability is the total of the difference, if any, described in paragraph (a)﻿(i) and the difference, if any, described in paragraph (a)﻿(ii):
+- (b) the amount of unsatisfied income tax liability is the total of the difference, if any, described in paragraph (a)(i) and the difference, if any, described in paragraph (a)(ii):
 
 - (c) the amount of unsatisfied income tax liability under paragraph (b) is satisfied when the life insurer pays their terminal tax for the tax year.
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **(3)** Despite section LA 4,—
 
-- (a) if the tax credit apportioned to the policyholder base or the shareholder base is greater than the relevant base income tax liability described in subsection (2)﻿(a)﻿(i) or (ii), the tax credit is used, in the order prescribed in section LA 4(1), to satisfy the relevant base income tax liability. There is no cross-crediting:
+- (a) if the tax credit apportioned to the policyholder base or the shareholder base is greater than the relevant base income tax liability described in subsection (2)(a)(i) or (ii), the tax credit is used, in the order prescribed in section LA 4(1), to satisfy the relevant base income tax liability. There is no cross-crediting:
 
 - (b) tax credits not used under paragraph (a) are treated as remaining tax credits referred to in section LA 4(2) and the life insurer must deal with the credits under section LA 5.
 

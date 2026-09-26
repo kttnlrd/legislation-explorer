@@ -38,13 +38,13 @@ compilation_date: 2026-06-06
 
 **Definition of items in formula**
 
-**(4)** The items in the formula in subsection (3)﻿(c) are defined in subsections (6), (10), and (11).
+**(4)** The items in the formula in subsection (3)(c) are defined in subsections (6), (10), and (11).
 
 **Funding fraction**
 
 **(6)** Funding fraction is equal to,—
 
-- (a) if the item funding in subsection (7)﻿(a) is zero, 1; or
+- (a) if the item funding in subsection (7)(a) is zero, 1; or
 
 - (b) if the item is being used to calculate the item apportioned funding costs and the interest holder chooses to rely on this paragraph, 1; or
 
@@ -80,7 +80,7 @@ compilation_date: 2026-06-06
 
   - (i) zero, if subparagraph (ii) does not apply; or
 
-  - (ii) the amount of the item group funding referred to in subsection (7)﻿(b), if subsection (6)﻿(c) applies for the interest holder and the CFC:
+  - (ii) the amount of the item group funding referred to in subsection (7)(b), if subsection (6)(c) applies for the interest holder and the CFC:
 
 - (c) total CFC's assets is the total value of the CFC's assets.
 
@@ -124,7 +124,7 @@ compilation_date: 2026-06-06
 
   - (iii) correspond to amounts that would be deductions of the CFC after the adjustments that would be made under sections CH 2 and DB 50 (which relate to adjustments for prepayments) if the CFC were a resident:
 
-- (b) the amounts relate to financial arrangements or shares referred to in the definition of the item funding in subsection (7)﻿(a) and exceed in total the amount given by multiplying the items funding costs and funding fraction, used in calculating the item apportioned funding costs under subsection (3)﻿(c):
+- (b) the amounts relate to financial arrangements or shares referred to in the definition of the item funding in subsection (7)(a) and exceed in total the amount given by multiplying the items funding costs and funding fraction, used in calculating the item apportioned funding costs under subsection (3)(c):
 
 - (c) the amounts—
 

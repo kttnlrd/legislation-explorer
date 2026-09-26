@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Imputed dividends**
 
-**(2)** If subsection (1)﻿(a) to (c) does not apply to the investor, the amount is excluded income to the extent to which the amount of the distribution or dividend is more than the amount that is fully credited as described in section CD 43(26) (Available subscribed capital amount).
+**(2)** If subsection (1)(a) to (c) does not apply to the investor, the amount is excluded income to the extent to which the amount of the distribution or dividend is more than the amount that is fully credited as described in section CD 43(26) (Available subscribed capital amount).
 
 *Defined in this Act: amount, dividend, excluded income, income year, investor, listed PIE, PIE, resident in New Zealand, return of income, trustee*
 

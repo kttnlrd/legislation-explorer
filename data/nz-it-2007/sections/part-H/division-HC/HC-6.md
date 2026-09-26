@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Date by which income must be allocated**
 
-**(1B)**  The date referred to in subsection (1)﻿(b) is the later of the following:
+**(1B)**  The date referred to in subsection (1)(b) is the later of the following:
 
 - (a) a date that falls within 6 months of the end of the income year; or
 

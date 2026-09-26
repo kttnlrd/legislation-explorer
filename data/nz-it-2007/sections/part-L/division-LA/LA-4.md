@@ -20,9 +20,9 @@ compilation_date: 2026-06-06
 
 - (c) third, a tax credit for an imputation credit:
 
-- (cb) fourth, a research and development tax credit under section LY 1(3)﻿(b):
+- (cb) fourth, a research and development tax credit under section LY 1(3)(b):
 
-- (cc) fifth, a research and development tax credit under section LY 1(3)﻿(a):
+- (cc) fifth, a research and development tax credit under section LY 1(3)(a):
 
 - (d) sixth, a refundable tax credit.
 

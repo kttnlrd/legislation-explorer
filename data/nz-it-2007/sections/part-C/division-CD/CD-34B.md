@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Exception: distributions for excess shareholdings**
 
-**(3)** Subsection (2)﻿(c) is ignored,—
+**(3)** Subsection (2)(c) is ignored,—
 
 - (a) for a distribution to a member, if the member holds shares in the co-operative company that—
 

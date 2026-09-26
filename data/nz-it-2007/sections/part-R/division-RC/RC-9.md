@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Part-year change into AIM**
 
-**(4C)**  A person who chooses to change to the AIM method under section RC 5(5B)﻿(a)﻿(ii) must use the relevant remaining instalment dates for them under the AIM method. The amount of each relevant instalment is calculated under section RC 10B.
+**(4C)**  A person who chooses to change to the AIM method under section RC 5(5B)(a)(ii) must use the relevant remaining instalment dates for them under the AIM method. The amount of each relevant instalment is calculated under section RC 10B.
 
 **Provisional tax when GST paid on 6-monthly basis**
 

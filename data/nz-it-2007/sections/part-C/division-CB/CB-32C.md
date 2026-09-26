@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(4)** For the purposes of subsection (2)﻿(a), the amount of income is a positive amount calculated using the formula— (untaxed reserves + reserves imputation credit) × effective interest.
+**(4)** For the purposes of subsection (2)(a), the amount of income is a positive amount calculated using the formula— (untaxed reserves + reserves imputation credit) × effective interest.
 
 **Definition of items in formula**
 
@@ -46,11 +46,11 @@ compilation_date: 2026-06-06
 
 - (b) reserves imputation credit is the total amount given by the formula in subsection (7B), up to the maximum permitted ratio for the untaxed reserves under section OA 18 (Calculation of maximum permitted ratios) and is treated as an attached imputation credit included in the dividend calculated under this section:
 
-- (c) effective interest is the person's effective look-through interest for an LTC on the relevant day under subsection (1)﻿(a) or (b).
+- (c) effective interest is the person's effective look-through interest for an LTC on the relevant day under subsection (1)(a) or (b).
 
 **Formula**
 
-**(6)** For the purposes of subsection (5)﻿(a), the amount of untaxed reserves is calculated using the formula— dividends – assessable income – exit exemption.
+**(6)** For the purposes of subsection (5)(a), the amount of untaxed reserves is calculated using the formula— dividends – assessable income – exit exemption.
 
 **Definition of items in formula**
 
@@ -64,13 +64,13 @@ compilation_date: 2026-06-06
 
   - (iii) it was liquidated, with the amount of cash remaining being distributed to shareholders without imputation credits attached:
 
-- (b) assessable income is the total assessable income that the company would derive by taking the actions described in paragraph (a)﻿(i) and (ii) less the amount of any deduction that the company would have for taking those actions:
+- (b) assessable income is the total assessable income that the company would derive by taking the actions described in paragraph (a)(i) and (ii) less the amount of any deduction that the company would have for taking those actions:
 
 - (c) exit exemption is the amount given by the formula in section CX 63(2) (Dividends derived after ceased to be look-through company), treating the amount described in paragraph (a) as a dividend paid by the company for the purposes of section CX 63(1), if section CX 63 would apply to a dividend paid by the company.
 
 **Formula**
 
-**(7B)**  For the purposes of subsection (5)﻿(b), the amount of reserves imputation credit is calculated using the formula— current credits + future amounts.
+**(7B)**  For the purposes of subsection (5)(b), the amount of reserves imputation credit is calculated using the formula— current credits + future amounts.
 
 **Definition of items in formula**
 
@@ -82,7 +82,7 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(8)** For the purposes of subsection (2)﻿(b), the amount of income is a positive amount calculated using the formula— ((balances ÷ tax rate – balances) + balances imputation credit) × effective interest.
+**(8)** For the purposes of subsection (2)(b), the amount of income is a positive amount calculated using the formula— ((balances ÷ tax rate – balances) + balances imputation credit) × effective interest.
 
 **Definition of items in formula**
 
@@ -98,19 +98,19 @@ compilation_date: 2026-06-06
 
 - (c) balances imputation credit is the amount of the item balances in paragraph (a), and is treated as an attached imputation credit included in the dividend calculated under this section:
 
-- (d) effective interest is the person's effective look-through interest for an LTC on the relevant day under subsection (1)﻿(a) or (b).
+- (d) effective interest is the person's effective look-through interest for an LTC on the relevant day under subsection (1)(a) or (b).
 
 **Relevant day**
 
 **(10)** In this section, the relevant day for measuring relevant items in the formulas is—
 
-- (a) the last day of the income year before the income year described in subsection (1)﻿(a), as applicable; or
+- (a) the last day of the income year before the income year described in subsection (1)(a), as applicable; or
 
-- (b) the day of the amalgamation described in subsection (1)﻿(b), as applicable.
+- (b) the day of the amalgamation described in subsection (1)(b), as applicable.
 
 **Income tax and refund**
 
-**(11)** For the purposes of subsections (7C)﻿(b) and (9)﻿(a)﻿(ii),—
+**(11)** For the purposes of subsections (7C)(b) and (9)(a)(ii),—
 
 - (a) income tax payable is income tax that would, when paid, give rise to a credit in the company's imputation credit account under sections OB 4 to OB 29 (which relate to imputation credits):
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Carry forward**
 
-**(1)** For the purposes of section LA 5(4B) (Treatment of remaining credits), a person's remaining research and development tax credit for a tax year is carried forward to the next tax year and credited under section LY 1(3)﻿(b) for that next tax year.
+**(1)** For the purposes of section LA 5(4B) (Treatment of remaining credits), a person's remaining research and development tax credit for a tax year is carried forward to the next tax year and credited under section LY 1(3)(b) for that next tax year.
 
 **Carry forward: exception**
 
@@ -40,11 +40,11 @@ compilation_date: 2026-06-06
 
 **Carry forward of credits despite continuity breach**
 
-**(4C)**  Despite a breach of continuity under subsection (3), a company may carry forward a remaining research and development tax credit arising in a tax year to a later tax year and credit it under section LY 1(3)﻿(b) for that later tax year, if the remaining tax credit could be carried forward to that later tax year under subpart IB (Carrying forward companies' loss balances: continuity of business activities), treating the remaining tax credit as a tax loss component arising on the last day of the income year corresponding to the tax year in which the credit first arose.
+**(4C)**  Despite a breach of continuity under subsection (3), a company may carry forward a remaining research and development tax credit arising in a tax year to a later tax year and credit it under section LY 1(3)(b) for that later tax year, if the remaining tax credit could be carried forward to that later tax year under subpart IB (Carrying forward companies' loss balances: continuity of business activities), treating the remaining tax credit as a tax loss component arising on the last day of the income year corresponding to the tax year in which the credit first arose.
 
 **Credits for earlier income years**
 
-**(5)** Despite a breach of continuity under subsection (3), a person's remaining research and development tax credit for an earlier tax year may be carried forward to a tax year (year A) and credited under section LY 1(3)﻿(b) to the extent to which—
+**(5)** Despite a breach of continuity under subsection (3), a person's remaining research and development tax credit for an earlier tax year may be carried forward to a tax year (year A) and credited under section LY 1(3)(b) to the extent to which—
 
 - (a) the requirements for continuity of ownership would be met if the continuity period included only part of the income year of the company that corresponds to year A; and
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Credits for year of breach**
 
-**(6)** Despite a breach of continuity under subsection (3), a person's remaining research and development tax credit may be carried forward to the tax year (year B) from year A and credited under section LY 1(3)﻿(b) to the extent to which—
+**(6)** Despite a breach of continuity under subsection (3), a person's remaining research and development tax credit may be carried forward to the tax year (year B) from year A and credited under section LY 1(3)(b) to the extent to which—
 
 - (a) the requirements for continuity of ownership would be met if the continuity period included only part of the income year of the company that corresponds to year A; and
 

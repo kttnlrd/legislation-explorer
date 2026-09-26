@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Certain persons only**
 
-**(2)** The person referred to in subsection (1)﻿(a) must be—
+**(2)** The person referred to in subsection (1)(a) must be—
 
 - (a) a company that is not a life insurer; or
 

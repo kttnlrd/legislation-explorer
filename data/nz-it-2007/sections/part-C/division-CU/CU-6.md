@@ -26,11 +26,11 @@ compilation_date: 2026-06-06
 
 **Business**
 
-**(2)** The business referred to in subsection (1)﻿(a) and (b) is the business of mining a listed industrial mineral in New Zealand.
+**(2)** The business referred to in subsection (1)(a) and (b) is the business of mining a listed industrial mineral in New Zealand.
 
 **Activities**
 
-**(3)** The activities referred to in subsection (1)﻿(c), (d), and (e) are—
+**(3)** The activities referred to in subsection (1)(c), (d), and (e) are—
 
 - (a) exploring, searching, or mining for a listed industrial mineral in New Zealand; or
 

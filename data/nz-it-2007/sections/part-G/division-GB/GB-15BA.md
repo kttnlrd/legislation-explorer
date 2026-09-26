@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Treatment of election**
 
-**(2)** The Commissioner may treat an election as having been made or not made, as appropriate to prevent the arrangement having the effect referred to in subsection (1)﻿(c).
+**(2)** The Commissioner may treat an election as having been made or not made, as appropriate to prevent the arrangement having the effect referred to in subsection (1)(c).
 
 *Defined in this Act: accounting period, arrangement, CFC, Commissioner, net attributable CFC income, net attributable CFC loss, non-attributing active CFC*
 

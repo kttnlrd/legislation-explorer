@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 A worldwide group for an excess debt entity is made up of the entity itself and the entity's New Zealand group if—
 
-- (a) the entity would not meet the requirements of section FE 2 in the absence of section FE 2(1)﻿(cb):
+- (a) the entity would not meet the requirements of section FE 2 in the absence of section FE 2(1)(cb):
 
 - (b) the entity's New Zealand parent is identified to be the trustee of the entity by section FE 26(4D).
 

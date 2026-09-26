@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 - (a) a person, including a broker or agent, who pays the premium to Lloyd's of London; or
 
-- (b) a person described in subsection (4)﻿(b).
+- (b) a person described in subsection (4)(b).
 
 **Liability of agents**
 

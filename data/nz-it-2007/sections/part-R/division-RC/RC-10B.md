@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Calculating amount when part-year change into AIM method**
 
-**(2)** For a person who chooses to change to the AIM method under section RC 5(5B)﻿(a)﻿(ii), the amount of provisional tax payable on a remaining instalment date for a tax year is given by subsection (1), except for the first remaining instalment date. Subsection (3) provides the calculation for the first remaining instalment date.
+**(2)** For a person who chooses to change to the AIM method under section RC 5(5B)(a)(ii), the amount of provisional tax payable on a remaining instalment date for a tax year is given by subsection (1), except for the first remaining instalment date. Subsection (3) provides the calculation for the first remaining instalment date.
 
 **Calculating when part-year change into AIM method: first remaining instalment**
 

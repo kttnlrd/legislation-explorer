@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When subsections (2), (3), and (4) apply**
 
-**(1)** Subsections (2), (3), and (4) apply for an income year when, in relation to a debt funding special purpose vehicle and an asset referred to in section HR 9(1) or an arrangement, including any liability under that arrangement, described in section HR 9(3)﻿(d),—
+**(1)** Subsections (2), (3), and (4) apply for an income year when, in relation to a debt funding special purpose vehicle and an asset referred to in section HR 9(1) or an arrangement, including any liability under that arrangement, described in section HR 9(3)(d),—
 
 - (a) an originator (the first originator) stops being an originator at a particular date in the income year (the breach date); and
 

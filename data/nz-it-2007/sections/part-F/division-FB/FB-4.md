@@ -26,9 +26,9 @@ compilation_date: 2026-06-06
 
 **(3)** For the purposes of subsection (2), the transferee is treated as having incurred expenditure in—
 
-- (a) acquiring the land of an amount equal to the market value referred to in subsection (2)﻿(a); and
+- (a) acquiring the land of an amount equal to the market value referred to in subsection (2)(a); and
 
-- (b) carrying on the undertaking or scheme of an amount equal to the expenditure in subsection (2)﻿(b).
+- (b) carrying on the undertaking or scheme of an amount equal to the expenditure in subsection (2)(b).
 
 **When scheme not begun at date of transfer**
 

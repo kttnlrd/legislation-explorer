@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
   - (ii) in relation to a sale, the net amount paid after subtracting from the purchase price all commission, insurance, freight, classing charges and other expenses incurred by the seller in connection with the sale; and
 
-- (ab) includes an unrepaid PAYE income overpayment that is treated as all or part of a schedular payment under section RD 8B(2)﻿(c); and
+- (ab) includes an unrepaid PAYE income overpayment that is treated as all or part of a schedular payment under section RD 8B(2)(c); and
 
 - (b) does not include—
 

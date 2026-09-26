@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Use by natural persons**
 
-**(2)** The person referred to in subsection (1)﻿(a) is a natural person who—
+**(2)** The person referred to in subsection (1)(a) is a natural person who—
 
 - (a) owns, leases, licenses, or otherwise has the asset:
 

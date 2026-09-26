@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Australian managed investment trusts**
 
-**(2)** A trust that is, for Australian tax purposes, a managed investment trust under the Income Tax Assessment Act 1997 (Australia) is a foreign PIE equivalent if it meets the requirement in subsection (1)﻿(a).
+**(2)** A trust that is, for Australian tax purposes, a managed investment trust under the Income Tax Assessment Act 1997 (Australia) is a foreign PIE equivalent if it meets the requirement in subsection (1)(a).
 
 *Defined in this Act: company, investor, investor class, investor interest, resident in New Zealand, superannuation scheme*
 

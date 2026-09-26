@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **When this section applies: revocation ignored**
 
-**(3)** An owner's revocation notice for the income year is ignored for the purposes of this section and section HB 13(4)﻿(a) if the owner stops having a look-through interest in the LTC and the new owner reverses the revocation notice before the start of the income year by notice to the Commissioner.
+**(3)** An owner's revocation notice for the income year is ignored for the purposes of this section and section HB 13(4)(a) if the owner stops having a look-through interest in the LTC and the new owner reverses the revocation notice before the start of the income year by notice to the Commissioner.
 
 **Look-through for effective look-through interest**
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
   - (ii) a person's average daily market value interest for the income year:
 
-- (d) if there is a market value circumstance for the LTC, and the assessable income and notification requirements described in paragraph (b)﻿(i) are met, the average of the following 2 amounts:
+- (d) if there is a market value circumstance for the LTC, and the assessable income and notification requirements described in paragraph (b)(i) are met, the average of the following 2 amounts:
 
   - (i) a person's look-through interest for the time of look-through under subsection (4):
 

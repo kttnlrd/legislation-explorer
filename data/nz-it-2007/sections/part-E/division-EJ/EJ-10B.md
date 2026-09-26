@@ -54,13 +54,13 @@ compilation_date: 2026-06-06
 
 **(5)** The person, as lessee, is allowed a deduction for the IFRS lease for—
 
-- (a) make-good costs, described in subsection (4)﻿(d)﻿(i), for the income year that they incur the costs:
+- (a) make-good costs, described in subsection (4)(d)(i), for the income year that they incur the costs:
 
-- (b) direct costs, described in subsection (4)﻿(d)﻿(ii), for the income year that they incur the costs, if they have chosen to apply subsection (4)﻿(d)﻿(ii).
+- (b) direct costs, described in subsection (4)(d)(ii), for the income year that they incur the costs, if they have chosen to apply subsection (4)(d)(ii).
 
 **Wash-up: income or deduction**
 
-**(6)** The person, as lessee, has income for a positive amount, and is allowed a deduction for a negative amount, for the income year in which the IFRS lease ends or does not meet a requirement in subsection (1)﻿(a), (b), or (c), calculated using the formula— IFRS deductions − IFRS income − expenditure.
+**(6)** The person, as lessee, has income for a positive amount, and is allowed a deduction for a negative amount, for the income year in which the IFRS lease ends or does not meet a requirement in subsection (1)(a), (b), or (c), calculated using the formula— IFRS deductions − IFRS income − expenditure.
 
 **Definition of items in formula**
 
@@ -82,7 +82,7 @@ compilation_date: 2026-06-06
 
 - (a) retrospective accounting expenditure is the total amount of expenditure or loss recognised under NZ IFRS 16 for the IFRS lease for the income years that the person has applied NZ IFRS 16 retrospectively for the IFRS lease or has not applied this section for the IFRS lease while they have applied NZ IFRS 16 for it, if the amount is in accordance with NZ IFRS 16:
 
-- (b) retrospective tax adjustments is the total amount of adjustments and deductions in subsections (4)﻿(b), (c), and (d) and (5) for the income years that the person has applied NZ IFRS 16 retrospectively for the IFRS lease or has not applied this section for the IFRS lease while they have applied NZ IFRS 16 for it, treating subsections (4)﻿(b), (c), and (d) and (5) as applying for those income years:
+- (b) retrospective tax adjustments is the total amount of adjustments and deductions in subsections (4)(b), (c), and (d) and (5) for the income years that the person has applied NZ IFRS 16 retrospectively for the IFRS lease or has not applied this section for the IFRS lease while they have applied NZ IFRS 16 for it, treating subsections (4)(b), (c), and (d) and (5) as applying for those income years:
 
 - (c) previous tax deductions is the total amount of deductions not in accordance with NZ IFRS 16 and not provided by this section, for the income years that the person has applied NZ IFRS 16 retrospectively for the IFRS lease or has not applied this section for the IFRS lease while they have applied NZ IFRS 16 for it.
 

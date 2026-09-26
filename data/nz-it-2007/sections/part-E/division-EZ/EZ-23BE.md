@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
   - (i) not depreciable intangible property; and
 
-  - (ii) included in one of the categories (an affected class) of the person's depreciable property referred to in subsection (12)﻿(b); and
+  - (ii) included in one of the categories (an affected class) of the person's depreciable property referred to in subsection (12)(b); and
 
 - (b) is entitled to the flood compensation because each item of the affected property, as a result of a North Island flooding event, is affected by—
 
@@ -64,7 +64,7 @@ compilation_date: 2026-06-06
 
 **Amount of reduction: expenditure on replacement item and suspended recovery income**
 
-**(5)** The amount of the reduction under subsection (4)﻿(a) or (b) for a replacement item and an affected class of affected property for which the person does not use the pool method is—
+**(5)** The amount of the reduction under subsection (4)(a) or (b) for a replacement item and an affected class of affected property for which the person does not use the pool method is—
 
 - (a) zero, if the cost of the affected class equals or is less than the person's total expenditure in acquiring, before the replacement item, other replacement property linked with the affected class; or
 
@@ -102,7 +102,7 @@ compilation_date: 2026-06-06
 
 **(8)** An item of replacement property for a person must—
 
-- (a) be included in the same category under subsection (12)﻿(b) as the affected class with which the person links the item if the affected class is described in subsection (12)﻿(b)﻿(i), (ii), (v), or (vi); and
+- (a) be included in the same category under subsection (12)(b) as the affected class with which the person links the item if the affected class is described in subsection (12)(b)(i), (ii), (v), or (vi); and
 
 - (b) be located in New Zealand, if the item is a building or commercial fit-out.
 

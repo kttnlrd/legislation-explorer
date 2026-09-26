@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Basis of allocation**
 
-**(4)** For the purposes of subsection (3)﻿(b), it does not matter whether the allocation of the transferred amount is made on a portfolio basis or on a property-by-property basis.
+**(4)** For the purposes of subsection (3)(b), it does not matter whether the allocation of the transferred amount is made on a portfolio basis or on a property-by-property basis.
 
 **When subsection (6) applies**
 

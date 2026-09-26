@@ -32,13 +32,13 @@ compilation_date: 2026-06-06
 
   - (i) the income year referred to in paragraph (a); or
 
-  - (ii) the extended period referred to in section HC 6(1)﻿(b) (Beneficiary income); and
+  - (ii) the extended period referred to in section HC 6(1)(b) (Beneficiary income); and
 
 - (c) in relation to which the trustee makes an RWT substitution payment under section RE 2(7).
 
 **Allocation and tax credits**
 
-**(5)** The trustee may, in a return of income for the income year referred to in subsection (4)﻿(a), choose to allocate, for that year, an amount to a beneficiary of the trust that is equal to some or all of the amount of the detached tax credit referred to in subsection (4). The trustee has a tax credit equal to the amount that is not allocated to a beneficiary, and a beneficiary has a tax credit for the amount that is allocated to them.
+**(5)** The trustee may, in a return of income for the income year referred to in subsection (4)(a), choose to allocate, for that year, an amount to a beneficiary of the trust that is equal to some or all of the amount of the detached tax credit referred to in subsection (4). The trustee has a tax credit equal to the amount that is not allocated to a beneficiary, and a beneficiary has a tax credit for the amount that is allocated to them.
 
 **Treatment of amounts**
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Meaning of detached tax credit**
 
-**(8)** A detached tax credit, for a beneficiary and an income year, means an amount equal to the amount of an RWT substitution payment referred to in subsection (4)﻿(c) that meets the requirements of subsection (4)﻿(a) and (b).
+**(8)** A detached tax credit, for a beneficiary and an income year, means an amount equal to the amount of an RWT substitution payment referred to in subsection (4)(c) that meets the requirements of subsection (4)(a) and (b).
 
 *Defined in this Act: amount, amount of tax, Commissioner, detached tax credit, income tax liability, income year, investor, multi-rate PIE, notify, replacement payment, resident passive income, RWT substitution payment, tax credit, tax withheld, tax year, trustee, trustee income*
 

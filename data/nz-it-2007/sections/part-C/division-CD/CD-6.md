@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections DV 18 and DV 19**
 
-**(5)** For the purposes of subsections (3)﻿(b) and (4)﻿(b), section DV 19 is not overridden by section DV 18 (Statutory producer boards and co-operative companies).
+**(5)** For the purposes of subsections (3)(b) and (4)(b), section DV 19 is not overridden by section DV 18 (Statutory producer boards and co-operative companies).
 
 *Defined in this Act: arrangement, associated person, company, co-operative company, deduction, share, shareholder, statutory producer board, transfer of company value, trustee*
 

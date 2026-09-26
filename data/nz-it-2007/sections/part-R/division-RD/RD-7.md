@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
   - (iv) as a result of a retrospective increase in salary or wages, but only to the extent to which it accrues from the start of the increase until the start of the first pay period in which the increase is included in salary or wages; and
 
-- (bb) includes a benefit under section CE 1(1)﻿(d) (Amounts derived in connection with employment) in relation to which the employer has made an election under section RD 7B to withhold an amount of tax; and
+- (bb) includes a benefit under section CE 1(1)(d) (Amounts derived in connection with employment) in relation to which the employer has made an election under section RD 7B to withhold an amount of tax; and
 
 - (c) includes an amount of income that a person derives under section CE 9 (Restrictive covenants) or CE 10 (Exit inducements) if the income is derived in connection with an employment relationship between the person and the person who paid the amount; and
 
-- (cb) includes an unrepaid PAYE income overpayment that is treated as all or part of an amount of extra pay under section RD 8B(2)﻿(b); and
+- (cb) includes an unrepaid PAYE income overpayment that is treated as all or part of an amount of extra pay under section RD 8B(2)(b); and
 
 - (d) does not include a payment of exempt income.
 

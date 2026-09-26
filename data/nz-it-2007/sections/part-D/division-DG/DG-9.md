@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Other units of measurement**
 
-**(4)** A unit of measurement of time other than days, whether relating to hours, or nights, or anything else, is to be used in the formula and in subsection (3)﻿(b) and (c), if it achieves a more appropriate apportionment. For this purpose, the same unit must be used in relation to both items in subsection (3)﻿(b) and (c).
+**(4)** A unit of measurement of time other than days, whether relating to hours, or nights, or anything else, is to be used in the formula and in subsection (3)(b) and (c), if it achieves a more appropriate apportionment. For this purpose, the same unit must be used in relation to both items in subsection (3)(b) and (c).
 
 *Defined in this Act: amount, asset, deduction, exempt income, fringe benefit tax, income, income year, market value, private use*
 

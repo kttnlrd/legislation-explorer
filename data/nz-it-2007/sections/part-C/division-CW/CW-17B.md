@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Exemption from distance test**
 
-**(5)** The requirement in subsection (4)﻿(a) for a person's workplace to be beyond reasonable travelling distance of their residence does not apply to a person whose accommodation forms an integral part of their work.
+**(5)** The requirement in subsection (4)(a) for a person's workplace to be beyond reasonable travelling distance of their residence does not apply to a person whose accommodation forms an integral part of their work.
 
 **Determinations**
 

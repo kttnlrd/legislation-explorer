@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Deduction for surplus payments**
 
-**(3)** If, at the end of the lease, the total amount of the payments referred to in subsection (2)﻿(a) exceed the total amount of the payments referred to in subsection (2)﻿(b), the person has a deduction for the income year in which the lease ends equal to the amount of the excess.
+**(3)** If, at the end of the lease, the total amount of the payments referred to in subsection (2)(a) exceed the total amount of the payments referred to in subsection (2)(b), the person has a deduction for the income year in which the lease ends equal to the amount of the excess.
 
 **Payments at end of lease by or to lessor for aircraft engine maintenance**
 

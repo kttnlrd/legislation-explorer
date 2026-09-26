@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)** A Maori authority has a Maori authority credit for the amount of tax for resident passive income treated under section RA 9(1)﻿(b) (Treatment of amounts withheld as received) as derived by the Maori authority.
+**(1)** A Maori authority has a Maori authority credit for the amount of tax for resident passive income treated under section RA 9(1)(b) (Treatment of amounts withheld as received) as derived by the Maori authority.
 
 **Table reference**
 

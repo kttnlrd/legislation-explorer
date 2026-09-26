@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **(5)** For the purposes of applying sections HG 11 and HG 12 (which relate to limited partnership deduction rules) to the partners of a limited partnership described in subsection (2) for the transitional income year and later years, all of the partners must choose 1 of the 2 following methods for calculating their partner's basis under section HG 11(3):
 
-- (a) for calculating amounts under section HG 11(5)﻿(a) for shares that were held at the end of the income year (the last year) before the transitional income year, they may choose to use the market value or the accounting book value of those shares as at the end of the last year. Calculations under section HG 11(7)﻿(b) and (8)﻿(b) are changed to account for the valuation under this paragraph; or
+- (a) for calculating amounts under section HG 11(5)(a) for shares that were held at the end of the income year (the last year) before the transitional income year, they may choose to use the market value or the accounting book value of those shares as at the end of the last year. Calculations under section HG 11(7)(b) and (8)(b) are changed to account for the valuation under this paragraph; or
 
 - (b) they may choose to apply section HG 11(3) as if the qualifying company had always been a limited partnership and all relevant rules relating to limited partnerships had always existed, applying those rules with any necessary modifications.
 

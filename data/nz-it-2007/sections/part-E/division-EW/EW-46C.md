@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **(4)** The debtor is treated as having paid the amount of debt on the date on which it is remitted,—
 
-- (a) if the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b):
+- (a) if the relevant debt, creditor, and debtor are described in subsection (1)(a) or (b):
 
 - (b) to the extent to which the proportional debt ratio for the amount equals the proportional ownership ratio.
 
@@ -74,7 +74,7 @@ compilation_date: 2026-06-06
 
 **(5)** Unless subsection (5C) applies, the creditor is treated as having been paid the amount of debt on the date on which it is remitted,—
 
-- (a) if the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b):
+- (a) if the relevant debt, creditor, and debtor are described in subsection (1)(a) or (b):
 
 - (b) to the extent to which the proportional debt ratio for the amount equals the proportional ownership ratio.
 
@@ -82,7 +82,7 @@ compilation_date: 2026-06-06
 
 **(5B)**  Subsection (5C) applies when—
 
-- (a) the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b); and
+- (a) the relevant debt, creditor, and debtor are described in subsection (1)(a) or (b); and
 
 - (b) the creditor is a person to which section EW 41 applies in relation to the relevant debt.
 

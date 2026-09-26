@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **Interest exceptions**
 
-**(2B)**  Subsection (1)﻿(a)﻿(iv) does not include interest derived from money lent by a non-resident—
+**(2B)**  Subsection (1)(a)(iv) does not include interest derived from money lent by a non-resident—
 
 - (a) for the purposes of a business they carry on in New Zealand through a fixed establishment in New Zealand; or
 
@@ -100,7 +100,7 @@ compilation_date: 2026-06-06
 
 **Company deriving minimum amount**
 
-**(6)** For the purposes of subsection (5) for a company, if the total amount of non-resident passive income and other income derived by the company in the corresponding tax year is not more than $1,000, the income tax liability of the company for the tax year is the sum referred to in subsection (5)﻿(a).
+**(6)** For the purposes of subsection (5) for a company, if the total amount of non-resident passive income and other income derived by the company in the corresponding tax year is not more than $1,000, the income tax liability of the company for the tax year is the sum referred to in subsection (5)(a).
 
 **Application of financial arrangements rules**
 

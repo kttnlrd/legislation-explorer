@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(4)** The formula referred to in subsection (3)﻿(a) is— share cost − (cost pre-cancellation × amount from cancellation ÷ market value).
+**(4)** The formula referred to in subsection (3)(a) is— share cost − (cost pre-cancellation × amount from cancellation ÷ market value).
 
 **Definition of items in formula**
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Adding amount to cost of shares**
 
-**(7)** The amount referred to in subsection (2)﻿(b) or (3)﻿(a) must be fairly divided among, and added to, the cost of the shareholder's remaining shares of the same class.
+**(7)** The amount referred to in subsection (2)(b) or (3)(a) must be fairly divided among, and added to, the cost of the shareholder's remaining shares of the same class.
 
 *Defined in this Act: amount, company, deduction, dividend, market value, notice, off-market cancellation, revenue account property, share, shareholder, shares of the same class, trading stock*
 

@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Limit for payments**
 
-**(2)** An amount that company B agrees to pay company A under section IC 5(2)﻿(b) must be no more than the amount of company A's tax loss.
+**(2)** An amount that company B agrees to pay company A under section IC 5(2)(b) must be no more than the amount of company A's tax loss.
 
 **No accounting for amount by companies**
 

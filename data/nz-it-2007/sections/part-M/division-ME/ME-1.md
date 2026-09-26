@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Order in Council increasing amount**
 
-**(4)** In subsection (3)﻿(a), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
+**(4)** In subsection (3)(a), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
 
 **Relationship with section 80KW of the Tax Administration Act 1994**
 

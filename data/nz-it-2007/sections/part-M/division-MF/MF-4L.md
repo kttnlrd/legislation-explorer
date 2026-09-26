@@ -38,9 +38,9 @@ compilation_date: 2026-06-06
 
 - (d) weekly periods,—
 
-  - (i) for 2 or more entitlement periods forming 1 continuous period, is the number of whole periods of 1 week in the continuous period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) (Fifth requirement: earner) refers or is an earner described in section MD 9(1)﻿(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies:
+  - (i) for 2 or more entitlement periods forming 1 continuous period, is the number of whole periods of 1 week in the continuous period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) (Fifth requirement: earner) refers or is an earner described in section MD 9(1)(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies:
 
-  - (ii) for an entitlement period to which subparagraph (i) does not apply, is the number of whole periods of 1 week in the entitlement period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)﻿(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies.
+  - (ii) for an entitlement period to which subparagraph (i) does not apply, is the number of whole periods of 1 week in the entitlement period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies.
 
 *Defined in this Act: amount, child, civil union partner, de facto partner, earner, entitlement period, in-work tax credit, spouse, tax credit, tax year*
 

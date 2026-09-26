@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Notifying company and consolidated group**
 
-**(2)** For the purposes of subsection (1)﻿(c), the Commissioner must notify the company and the consolidated group if the discretion has been exercised.
+**(2)** For the purposes of subsection (1)(c), the Commissioner must notify the company and the consolidated group if the discretion has been exercised.
 
 **When subsection (4) applies**
 

@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (d) a person holding included ownership interests in the initial parent before the arrangement is entered into does not receive a dividend, gift, or other direct benefit as a result of the arrangement. For the purposes of this paragraph,—
 
-  - (i) included ownership interests in the initial parent for which paragraph (c)﻿(ii) applies are excluded from a person's holding of included ownership interests:
+  - (i) included ownership interests in the initial parent for which paragraph (c)(ii) applies are excluded from a person's holding of included ownership interests:
 
   - (ii) included ownership interests in the new parent are excluded from being a dividend, gift, or other direct benefit.
 

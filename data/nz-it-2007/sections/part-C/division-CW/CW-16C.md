@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Period of exemption**
 
-**(4)** Section CW 16B applies to the amount that is the value provided or expenditure incurred by the employer for the remainder of the period for which the employee is required to remain at the distant workplace under the out-of-town secondment or project of limited duration. For these purposes, the period starts on the date on which the employer revises their expectation, and ends at the earliest of the dates referred to in subsection (1)﻿(a) to (d) or (2)﻿(a) to (d), as applicable.
+**(4)** Section CW 16B applies to the amount that is the value provided or expenditure incurred by the employer for the remainder of the period for which the employee is required to remain at the distant workplace under the out-of-town secondment or project of limited duration. For these purposes, the period starts on the date on which the employer revises their expectation, and ends at the earliest of the dates referred to in subsection (1)(a) to (d) or (2)(a) to (d), as applicable.
 
 **Time limits in exceptional circumstances**
 

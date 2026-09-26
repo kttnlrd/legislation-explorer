@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)** This section applies when a person (person A) who is a person listed in a paragraph in section 32E(2)﻿(a) to (h) of the Tax Administration Act 1994—
+**(1)** This section applies when a person (person A) who is a person listed in a paragraph in section 32E(2)(a) to (h) of the Tax Administration Act 1994—
 
 - (a) receives an amount from another person (person B); or
 

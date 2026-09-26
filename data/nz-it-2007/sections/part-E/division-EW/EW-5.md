@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (a) an annuity for a term contingent on human life:
 
-- (b) an annuity for a term not contingent on human life to which section EY 8(2)﻿(c) (Meaning of life insurance) applies.
+- (b) an annuity for a term not contingent on human life to which section EY 8(2)(c) (Meaning of life insurance) applies.
 
 **Bet**
 

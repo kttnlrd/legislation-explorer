@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
   - (iii) there is no material risk that there will be a change in the terms of the shares affecting the value of the shares:
 
-- (b) the date when the shares or related rights of an employee share scheme beneficiary are cancelled or are transferred to a person who is not associated with a beneficiary described in section CE 7(a)﻿(i) or (ii).
+- (b) the date when the shares or related rights of an employee share scheme beneficiary are cancelled or are transferred to a person who is not associated with a beneficiary described in section CE 7(a)(i) or (ii).
 
 **Exclusions**
 

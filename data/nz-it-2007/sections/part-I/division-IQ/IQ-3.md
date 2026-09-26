@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section CQ 5**
 
-**(2)** Despite subsection (1) and section IQ 2, if the person's FIF net loss is carried forward to a tax year and section CQ 5(1)﻿(d) or (e) (When FIF income arises) applies, they may subtract the amount from their net income for the tax year, but only to the extent to which the amount is no more than their assessable income from interests that would be interests in a FIF for the tax year in the absence of that section.
+**(2)** Despite subsection (1) and section IQ 2, if the person's FIF net loss is carried forward to a tax year and section CQ 5(1)(d) or (e) (When FIF income arises) applies, they may subtract the amount from their net income for the tax year, but only to the extent to which the amount is no more than their assessable income from interests that would be interests in a FIF for the tax year in the absence of that section.
 
 **Treatment of excess**
 

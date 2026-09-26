@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Person may include group of persons**
 
-**(4)** For the purposes of subsection (3)﻿(b), person includes a group of persons if the requirements of subsection (5) are met.
+**(4)** For the purposes of subsection (3)(b), person includes a group of persons if the requirements of subsection (5) are met.
 
 **Meaning of group of persons**
 

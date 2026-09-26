@@ -48,15 +48,15 @@ compilation_date: 2026-06-06
 
 **When foreign investment PIEs included in group**
 
-**(2D)**  For the purposes of subsection (2B)﻿(b), a multi-rate PIE that chooses under section HM 71B (Choosing to become foreign investment PIE) to become a foreign investment PIE, must not be part of a group of companies that includes a land investment company.
+**(2D)**  For the purposes of subsection (2B)(b), a multi-rate PIE that chooses under section HM 71B (Choosing to become foreign investment PIE) to become a foreign investment PIE, must not be part of a group of companies that includes a land investment company.
 
 **Measuring common voting interests**
 
-**(3)** In subsection (1)﻿(a) and section IC 4(1)﻿(a), a person's common voting interest in the relevant companies at a particular time is the percentage of their voting interests under sections YC 2, YC 4(1) to (3), YC 5, and YC 6 (which relate to voting interests) in each of the companies at the time.
+**(3)** In subsection (1)(a) and section IC 4(1)(a), a person's common voting interest in the relevant companies at a particular time is the percentage of their voting interests under sections YC 2, YC 4(1) to (3), YC 5, and YC 6 (which relate to voting interests) in each of the companies at the time.
 
 **Measuring common market value interests**
 
-**(4)** In subsection (1)﻿(b), a person's common market value interest in the relevant companies at a particular time is the percentage of their market value interests under sections YC 3, YC 4(1) to (3), YC 5, and YC 6 (which relate to market value interests) in each of the companies at the time.
+**(4)** In subsection (1)(b), a person's common market value interest in the relevant companies at a particular time is the percentage of their market value interests under sections YC 3, YC 4(1) to (3), YC 5, and YC 6 (which relate to market value interests) in each of the companies at the time.
 
 **Common interest percentages**
 

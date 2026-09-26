@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Types of insurance**
 
-**(4)** The types of insurance referred to in subsection (1)﻿(b) are—
+**(4)** The types of insurance referred to in subsection (1)(b) are—
 
 - (a) general insurance:
 

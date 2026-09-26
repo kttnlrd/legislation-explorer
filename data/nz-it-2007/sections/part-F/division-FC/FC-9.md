@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **What this section applies to**
 
-**(1)** This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when residential land is transferred on a person's death and section FC 5 does not apply.
+**(1)** This section applies in the circumstances described in section FC 1(1)(a) or (b) when residential land is transferred on a person's death and section FC 5 does not apply.
 
 **Residential land**
 
-**(2)** Section CB 6A (Disposal within 2 years: bright-line test for residential land) does not apply to the transfer of residential land (see also: section CB 6A(5)﻿(b)﻿(iii)).
+**(2)** Section CB 6A (Disposal within 2 years: bright-line test for residential land) does not apply to the transfer of residential land (see also: section CB 6A(5)(b)(iii)).
 
 **Cost of residential land**
 

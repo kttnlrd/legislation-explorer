@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # CW 16E  Accommodation expenditure: new employees
 
-Despite section CW 16B(2)﻿(b), section CW 16B applies to a new employee in the following circumstances:
+Despite section CW 16B(2)(b), section CW 16B applies to a new employee in the following circumstances:
 
 - (a) when the employer intends, at the time of employing the new employee, that the new employee would work permanently at a workplace of the employer that is not a distant workplace, but instead requires the employee to work temporarily at another of their workplaces that is a distant workplace:
 

@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Transitional residents**
 
-**(9)** Despite subsection (3)﻿(a), a transitional resident who is an investor in a foreign investment zero-rate PIE may choose the prescribed investor rate set out in schedule 6, table 1, row 10.
+**(9)** Despite subsection (3)(a), a transitional resident who is an investor in a foreign investment zero-rate PIE may choose the prescribed investor rate set out in schedule 6, table 1, row 10.
 
 *Defined in this Act: CFC, Commissioner, excluded income, FIF, foreign investment PIE, foreign trust, income interest, multi-rate PIE, non-resident, notified foreign investor, notify, resident in New Zealand, transitional resident, trustee*
 

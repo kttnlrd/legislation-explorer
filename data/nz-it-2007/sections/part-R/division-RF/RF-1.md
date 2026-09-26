@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 - (db) section RZ 13 (Treatment of prepayments); and
 
-- (dc) section YD 5(1)﻿(d), and (4) to (9) (Apportionment of income derived partly in New Zealand); and
+- (dc) section YD 5(1)(d), and (4) to (9) (Apportionment of income derived partly in New Zealand); and
 
 - (e) sections 32M, 49, 100, Part 9, and sections 165B and 185 of the Tax Administration Act 1994.
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **What this section does not apply to**
 
-**(3)** This section does not apply to an amount referred to in section CC 1(2)﻿(a) to (d) (Land) to which section CC 9 (Royalties) applies.
+**(3)** This section does not apply to an amount referred to in section CC 1(2)(a) to (d) (Land) to which section CC 9 (Royalties) applies.
 
 **Exception: certain income from land**
 

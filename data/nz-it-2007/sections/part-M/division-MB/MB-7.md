@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Second formula: companies income**
 
-**(5)** For the purposes of the item companies income in subsection (4)﻿(b), an amount to be totalled is, for each relevant company, calculated using the formula— trustee's interest × (income − dividends).
+**(5)** For the purposes of the item companies income in subsection (4)(b), an amount to be totalled is, for each relevant company, calculated using the formula— trustee's interest × (income − dividends).
 
 **Definition of items in formula in subsection (5)**
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Main income equalisation deposits**
 
-**(7)** For the purposes of subsection (2B), if the trustee or a company described in subsection (4)﻿(b) makes a main income equalisation deposit for an income year, the amount of the deposit is added to—
+**(7)** For the purposes of subsection (2B), if the trustee or a company described in subsection (4)(b) makes a main income equalisation deposit for an income year, the amount of the deposit is added to—
 
 - (a) the item trustee's adjusted net income in the formula in subsection (3), if the trustee makes the deposit:
 
@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 **Main income equalisation refunds**
 
-**(8)** For the purposes of subsection (2B), if the trustee or a company described in subsection (4)﻿(b) receives a main income equalisation refund for an income year, the amount of the refund is subtracted from—
+**(8)** For the purposes of subsection (2B), if the trustee or a company described in subsection (4)(b) receives a main income equalisation refund for an income year, the amount of the refund is subtracted from—
 
 - (a) the item trustee's adjusted net income in the formula in subsection (3), if the trustee receives the refund:
 

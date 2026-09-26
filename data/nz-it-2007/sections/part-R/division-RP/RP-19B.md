@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 - (a) first, the amount is transferred to meet a liability of the person for—
 
-  - (i) provisional tax (other than under the AIM method), terminal tax, and interest under Part 7 of the Tax Administration Act 1994, referred to in section RP 17B(4)﻿(a) or (b):
+  - (i) provisional tax (other than under the AIM method), terminal tax, and interest under Part 7 of the Tax Administration Act 1994, referred to in section RP 17B(4)(a) or (b):
 
   - (ii) an amount referred to in section RP 17B(5) consisting of an increased amount of tax and interest payable under Part 7 of the Tax Administration Act 1994 on the increased amount of tax:
 
@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section RP 17B**
 
-**(6)** This section overrides section RP 17B(7)﻿(a).
+**(6)** This section overrides section RP 17B(7)(a).
 
 *Defined in this Act: amount, apply, Commissioner, instalment date, provisional tax, provisional tax rules, request, return of income, tax pooling account, tax year, terminal tax*
 

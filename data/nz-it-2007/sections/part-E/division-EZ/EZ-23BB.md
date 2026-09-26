@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
   - (ii) not property for which the person uses the pool method; and
 
-  - (iii) included in 1 of the categories (an affected class) of the person's depreciable property referred to in subsection (11)﻿(b); and
+  - (iii) included in 1 of the categories (an affected class) of the person's depreciable property referred to in subsection (11)(b); and
 
   - (iv) not linked with replacement property under section EZ 23B or has a link with replacement property that may be removed under section EZ 23B(11B); and
 
@@ -58,7 +58,7 @@ compilation_date: 2026-06-06
 
 **Suspended recovery income for replacement interest and reduction of suspended recovery income for affected class**
 
-**(4)** The amount under subsection (3)﻿(a) and (b) for a replacement interest and affected class is—
+**(4)** The amount under subsection (3)(a) and (b) for a replacement interest and affected class is—
 
 - (a) zero, if the cost of the affected property in the affected class equals or is less than the total of the fractional interest values for other replacement interests acquired by the person before the replacement interest; or
 
@@ -82,7 +82,7 @@ compilation_date: 2026-06-06
 
 **(6)** An item of replacement property for a person or owning company must—
 
-- (a) be included in the same category under subsection (11)﻿(b) as the affected class with which the person links the item, if the affected class is described in subsection (11)﻿(b)﻿(i) or (ii); and
+- (a) be included in the same category under subsection (11)(b) as the affected class with which the person links the item, if the affected class is described in subsection (11)(b)(i) or (ii); and
 
 - (b) be located in greater Christchurch as that term is defined in section 4 of the Canterbury Earthquake Recovery Act 2011, if the item is a building or commercial fit-out.
 

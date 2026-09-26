@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **When dividends derived by foreign investment PIEs**
 
-**(3B)**  For the purposes of subsection (1)﻿(c) and the calculation of the amount of the credit, the following apply in relation to a qualifying investor in a foreign investment PIE:
+**(3B)**  For the purposes of subsection (1)(c) and the calculation of the amount of the credit, the following apply in relation to a qualifying investor in a foreign investment PIE:
 
 - (a) the item credit amount in the formula is the imputation credit that would, in the absence of this subpart, be attached to the portion of the dividend attributed to the investor:
 

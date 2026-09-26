@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **When assets transferred by companies**
 
-**(2)** For the purposes of subsection (1)﻿(a), the person must be a company that has transferred assets to the special purpose vehicle and all the transferred assets are—
+**(2)** For the purposes of subsection (1)(a), the person must be a company that has transferred assets to the special purpose vehicle and all the transferred assets are—
 
 - (a) treated for financial reporting purposes as the person's assets; or
 
@@ -28,9 +28,9 @@ compilation_date: 2026-06-06
 
 **Other assets**
 
-**(3)** For the purposes of subsection (1)﻿(b), the person must be a beneficiary or shareholder of the special purpose vehicle and a person who—
+**(3)** For the purposes of subsection (1)(b), the person must be a beneficiary or shareholder of the special purpose vehicle and a person who—
 
-- (a) is treated for financial reporting purposes as holding assets of the special purpose vehicle to which subsection (1)﻿(a) does not apply; or
+- (a) is treated for financial reporting purposes as holding assets of the special purpose vehicle to which subsection (1)(a) does not apply; or
 
 - (b) prepares consolidated financial statements that include the assets referred to in paragraph (a) or is a member of the same wholly-owned group of companies as another person who prepares consolidated financial statements that include those assets.
 

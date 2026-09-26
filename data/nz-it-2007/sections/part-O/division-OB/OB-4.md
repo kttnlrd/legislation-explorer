@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Credit**
 
-**(1)** An ICA company has an imputation credit for an amount of income tax or provisional tax paid or an amount of excess tax transferred under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b) (Wholly-owned groups of companies). Subsection (3) overrides this subsection.
+**(1)** An ICA company has an imputation credit for an amount of income tax or provisional tax paid or an amount of excess tax transferred under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)(b) (Wholly-owned groups of companies). Subsection (3) overrides this subsection.
 
 **Table reference**
 
-**(2)** The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 2 (provisional tax or income tax paid), row 2B (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b)), row 2C (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b)), and row 2D (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)﻿(b)).
+**(2)** The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 2 (provisional tax or income tax paid), row 2B (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)(b)), row 2C (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)(b)), and row 2D (transfer to ICA under section 173L or 173M of the Tax Administration Act 1994 or section RC 32(5)(b)).
 
 **No credit**
 
@@ -44,11 +44,11 @@ compilation_date: 2026-06-06
 
 - (a) for an amount of income tax or provisional tax paid other than an amount referred to in paragraph (c), the day the tax is paid:
 
-- (c) for an amount of excess tax transferred in a tax year (the transfer year) from another period or tax type of the ICA company on a date under section 173L of the Tax Administration Act 1994, or from another ICA company on a date under section 173M of that Act or section RC 32(5)﻿(b),—
+- (c) for an amount of excess tax transferred in a tax year (the transfer year) from another period or tax type of the ICA company on a date under section 173L of the Tax Administration Act 1994, or from another ICA company on a date under section 173M of that Act or section RC 32(5)(b),—
 
-  - (i) despite section 173L(2)﻿(a) to (bb) of that Act, the date of the request for the transfer if that date is in the transfer year; or
+  - (i) despite section 173L(2)(a) to (bb) of that Act, the date of the request for the transfer if that date is in the transfer year; or
 
-  - (ii) despite section 173L(2)﻿(a) to (bb) of that Act, the date of the request for the transfer if that date is in the tax year following the transfer year and, at the end of the transfer year, the credit in the ICA from which the amount is transferred equals or exceeds the amount of all transfers from that account requested in the transfer year under section 173L or 173M of that Act or section RC 32(5)﻿(b), and the ICA to which the transfer is made is in credit; or
+  - (ii) despite section 173L(2)(a) to (bb) of that Act, the date of the request for the transfer if that date is in the tax year following the transfer year and, at the end of the transfer year, the credit in the ICA from which the amount is transferred equals or exceeds the amount of all transfers from that account requested in the transfer year under section 173L or 173M of that Act or section RC 32(5)(b), and the ICA to which the transfer is made is in credit; or
 
   - (iii) the date referred to in the opening words of this paragraph, if the requirements of neither subparagraph (i) nor subparagraph (ii) are met.
 

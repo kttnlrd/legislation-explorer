@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)** This section applies—
 
-- (a) on a resident's restricted amalgamation, in relation to an amalgamated company and a memorandum account, if an amalgamating company ends its existence on the amalgamation and, at the time of the amalgamation, the amalgamating company maintains 1 or more memorandum accounts of the type referred to in sections OA 2(1)﻿(a) to (d), and (f); and
+- (a) on a resident's restricted amalgamation, in relation to an amalgamated company and a memorandum account, if an amalgamating company ends its existence on the amalgamation and, at the time of the amalgamation, the amalgamating company maintains 1 or more memorandum accounts of the type referred to in sections OA 2(1)(a) to (d), and (f); and
 
 - (b) for the purposes of determining whether a credit or debit arises in the same type of account of the amalgamated company.
 

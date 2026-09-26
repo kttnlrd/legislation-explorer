@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (a) is derived by a New Zealand resident company that is treated under a double tax agreement as not being resident in New Zealand; and
 
-- (b) meets the requirements set out in section CW 10(1)﻿(b) to (d), (5), and (6) (Dividend within New Zealand wholly-owned group).
+- (b) meets the requirements set out in section CW 10(1)(b) to (d), (5), and (6) (Dividend within New Zealand wholly-owned group).
 
 *Defined in this Act: company, dividend, double tax agreement, DRCD deferral date, income, income year, New Zealand resident, non-cash dividend, resident in New Zealand*
 

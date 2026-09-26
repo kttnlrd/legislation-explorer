@@ -20,13 +20,13 @@ compilation_date: 2026-06-06
 
   - (i) under section GB 29 (Attribution rule: calculation); or
 
-  - (ii) as a shareholder salary, being a payment treated as income other than from a PAYE income payment under section RD 3B(1)﻿(b) or RD 3C(1)﻿(b); and
+  - (ii) as a shareholder salary, being a payment treated as income other than from a PAYE income payment under section RD 3B(1)(b) or RD 3C(1)(b); and
 
 - (c) an amount of tax has been withheld from the payment in relation to which the company has, or will have, a tax credit under section LB 1.
 
 **Use of tax credits**
 
-**(2)** Despite section LA 6(2)﻿(a) to (c) (Remaining refundable credits: PAYE, RWT, and certain other items), the company may apply to have an amount of the company's tax credit transferred under section LA 6(2)﻿(d) to the person, treating the amount as tax paid in excess.
+**(2)** Despite section LA 6(2)(a) to (c) (Remaining refundable credits: PAYE, RWT, and certain other items), the company may apply to have an amount of the company's tax credit transferred under section LA 6(2)(d) to the person, treating the amount as tax paid in excess.
 
 **Treatment for company**
 

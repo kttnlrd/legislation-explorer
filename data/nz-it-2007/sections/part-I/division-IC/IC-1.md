@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Losing continuity or commonality in tax year**
 
-**(3)** If company A or company B fail to meet 1 or both of the threshold levels referred to in subsection (2)﻿(a), a tax loss may not be grouped unless section IP 4 or IP 5 (which relate to the grouping of part-year losses) applies.
+**(3)** If company A or company B fail to meet 1 or both of the threshold levels referred to in subsection (2)(a), a tax loss may not be grouped unless section IP 4 or IP 5 (which relate to the grouping of part-year losses) applies.
 
 **References to years**
 

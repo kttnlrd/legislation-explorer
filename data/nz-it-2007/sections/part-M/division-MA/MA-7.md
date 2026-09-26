@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 - (a) a person who is employed in a pay period that is longer than 1 week is treated as undertaking the employment activities to a uniform daily extent for the period:
 
-- (b) a person who is employed becomes incapacitated as described in subsection (3) and is unable to undertake employment in a week in which but for the incapacity they would be employed as provided by subsection (1B)﻿(a) and (b) or would be employed for the number of hours set out in subsection (1)﻿(a) and (b) is treated as having been employed or as having been employed for the hours referred to, as the case may be:
+- (b) a person who is employed becomes incapacitated as described in subsection (3) and is unable to undertake employment in a week in which but for the incapacity they would be employed as provided by subsection (1B)(a) and (b) or would be employed for the number of hours set out in subsection (1)(a) and (b) is treated as having been employed or as having been employed for the hours referred to, as the case may be:
 
 - (bb) a person who has a payment period under the Compensation for Live Organ Donors Act 2016 and is employed at the start of the period is treated as being employed during the period for the hours for which the person would have been employed during the period but for the organ donation:
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Incapacity**
 
-**(3)** The incapacity referred to in subsection (2)﻿(b) and (d) is an incapacity due to—
+**(3)** The incapacity referred to in subsection (2)(b) and (d) is an incapacity due to—
 
 - (a) personal injury by accident for which an accident compensation earnings-related payment has been, is being, or will be paid:
 

@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Limited amount**
 
-**(3)** The amount of the income referred to in subsection (2) must be no more than the total tax loss referred to in section CG 2C(1)﻿(e) or CG 2D(1)﻿(d), as applicable, for all previous tax years.
+**(3)** The amount of the income referred to in subsection (2) must be no more than the total tax loss referred to in section CG 2C(1)(e) or CG 2D(1)(d), as applicable, for all previous tax years.
 
 **Default apportionment**
 

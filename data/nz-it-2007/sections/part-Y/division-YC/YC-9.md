@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Company acting as trustee**
 
-**(3B)**  A reference to company in subsection (3)﻿(b) includes a company that is acting in the capacity of trustee.
+**(3B)**  A reference to company in subsection (3)(b) includes a company that is acting in the capacity of trustee.
 
 **Trustee treated as disposing of share or option**
 

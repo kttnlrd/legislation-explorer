@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Companies deriving exempt income**
 
-**(4)** For the purposes of subsection (1)﻿(c), a company that derives only exempt income includes a local authority that is not a council-controlled organisation.
+**(4)** For the purposes of subsection (1)(c), a company that derives only exempt income includes a local authority that is not a council-controlled organisation.
 
 **Companies opting out**
 

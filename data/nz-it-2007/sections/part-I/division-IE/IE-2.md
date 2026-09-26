@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Other amalgamating companies**
 
-**(3)** In subsection (1)﻿(b), the amalgamated company includes a company that has amalgamated with the amalgamated company before or during the tax year in which the amount is used. The tax year referred to in that subsection means the tax year of the relevant company.
+**(3)** In subsection (1)(b), the amalgamated company includes a company that has amalgamated with the amalgamated company before or during the tax year in which the amount is used. The tax year referred to in that subsection means the tax year of the relevant company.
 
 **New companies**
 
-**(4)** Subsection (1)﻿(b) does not apply if the amalgamated company is incorporated only on the amalgamation.
+**(4)** Subsection (1)(b) does not apply if the amalgamated company is incorporated only on the amalgamation.
 
 *Defined in this Act: amalgamated company, amalgamating company, amount, company, net income, resident's restricted amalgamation, tax loss, tax year*
 

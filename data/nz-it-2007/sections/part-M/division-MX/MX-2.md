@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # MX 2  Corporate eligibility criteria
 
-For the purposes of section MX 1(1)﻿(b), a person meets the corporate eligibility criteria for an income year if, for the income year or for the part of the income year for which the person exists if that is not the whole income year,—
+For the purposes of section MX 1(1)(b), a person meets the corporate eligibility criteria for an income year if, for the income year or for the part of the income year for which the person exists if that is not the whole income year,—
 
 - (a) the person is a company that is resident in New Zealand; and
 

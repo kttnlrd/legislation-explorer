@@ -22,15 +22,15 @@ compilation_date: 2026-06-06
 
   - (ii) income of a person who is not the payee; and
 
-- (bb) if the amount does not meet the requirements of paragraph (b)﻿(i) and meets the requirements of paragraph (b)﻿(ii) by being treated as the income of a person who is not the payee, the person is in the same control group as the payer or the amount is a payment under a structured arrangement; and
+- (bb) if the amount does not meet the requirements of paragraph (b)(i) and meets the requirements of paragraph (b)(ii) by being treated as the income of a person who is not the payee, the person is in the same control group as the payer or the amount is a payment under a structured arrangement; and
 
 - (c) the payment is made under a structured arrangement or the payer is in the same control group as the payee when the expenditure is incurred; and
 
 - (d) under the taxation law of New Zealand and of the countries and territories outside New Zealand, the amount received by the payee is not subject to taxation as income and is not recognised as CFC attributed income, or the equivalent of attributed CFC income, of a person in the same control group as the payee; and
 
-- (e) if the amount meets the requirements of paragraph (b)﻿(i), an equivalent payment by the payer would have been subject to taxation as income of the payee under the taxation law of the payee jurisdiction if the equivalent payment were treated as being received by the payee in the payee jurisdiction; and
+- (e) if the amount meets the requirements of paragraph (b)(i), an equivalent payment by the payer would have been subject to taxation as income of the payee under the taxation law of the payee jurisdiction if the equivalent payment were treated as being received by the payee in the payee jurisdiction; and
 
-- (f) if the amount meets the requirements of paragraphs (b)﻿(ii) and (bb), an equivalent payment by the payer would have been subject to taxation as income of the person who is treated as deriving the income under the taxation law of the payee jurisdiction if the equivalent payment were treated as being received by the person in the country or territory where that person is resident.
+- (f) if the amount meets the requirements of paragraphs (b)(ii) and (bb), an equivalent payment by the payer would have been subject to taxation as income of the person who is treated as deriving the income under the taxation law of the payee jurisdiction if the equivalent payment were treated as being received by the person in the country or territory where that person is resident.
 
 **Amount of deduction denied**
 

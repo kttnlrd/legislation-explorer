@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 - (b) subpart IC (Grouping tax losses) and section GB 4 (Arrangements for grouping tax losses: companies) apply as if an amount of attributed CFC net loss or FIF net loss were a tax loss component; and
 
-- (c) subsection (3) overrides sections IC 5(1)﻿(d) and IC 8 (which impose limits on the amount of transferred tax loss); and
+- (c) subsection (3) overrides sections IC 5(1)(d) and IC 8 (which impose limits on the amount of transferred tax loss); and
 
 - (d) section IA 3(2) (Using tax losses in tax year) and subpart IP (Meeting requirements for part-years) do not apply.
 

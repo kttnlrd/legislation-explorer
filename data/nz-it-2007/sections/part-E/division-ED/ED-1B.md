@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 - (b) have been held continuously by the person from the time of the transfer; and
 
-- (c) have not been valued under either of subsections (4)﻿(a) and (8)﻿(a) before the income year; and
+- (c) have not been valued under either of subsections (4)(a) and (8)(a) before the income year; and
 
 **Value of units transferred to person if no earlier emissions unit shortfall year**
 
@@ -48,9 +48,9 @@ compilation_date: 2026-06-06
 
 **(5)** If the value of an emissions unit (the revalued unit) held by the person immediately before the end of the income year is zero, the value of the revalued unit at the end of the year is given by the application of the paragraphs in subsection (8) in alphabetical order to revalued units until all the revalued units are assigned a value.
 
-**Limit on application of subsection (8)﻿(a)**
+**Limit on application of subsection (8)(a)**
 
-**(6)** The maximum number of units valued under subsection (8)﻿(a) for the income year is the greater of zero and the number calculated using the formula— unit entitlement − disposals at zero value.
+**(6)** The maximum number of units valued under subsection (8)(a) for the income year is the greater of zero and the number calculated using the formula— unit entitlement − disposals at zero value.
 
 **Definition of items in formula**
 
@@ -80,17 +80,17 @@ compilation_date: 2026-06-06
 
 **Emissions unit shortfall year**
 
-**(9)** If the number of units assigned a market value for an income year under subsection (8)﻿(a) is less than the maximum number given by subsection (6) for the income year, at the end of the income year—
+**(9)** If the number of units assigned a market value for an income year under subsection (8)(a) is less than the maximum number given by subsection (6) for the income year, at the end of the income year—
 
 - (a) the income year is an emissions unit shortfall year and has 2 numbers (the unit shortfall and the unit shortfall value) associated with it:
 
-- (b) the unit shortfall relating to the emissions unit shortfall year is the difference between the maximum number given by subsection (6) for the income year and the number of zero value units assigned a market value under subsection (8)﻿(a) for the income year:
+- (b) the unit shortfall relating to the emissions unit shortfall year is the difference between the maximum number given by subsection (6) for the income year and the number of zero value units assigned a market value under subsection (8)(a) for the income year:
 
 - (c) the unit shortfall value relating to the emissions unit shortfall year is the unit shortfall multiplied by the market value of an emissions unit at the end of the income year.
 
 **Reductions in unit shortfall and unit shortfall value**
 
-**(10)** When an emissions unit held by a person is assigned a value under subsection (4)﻿(a) in relation to a year that is an emissions unit shortfall year for the person,—
+**(10)** When an emissions unit held by a person is assigned a value under subsection (4)(a) in relation to a year that is an emissions unit shortfall year for the person,—
 
 - (a) the unit shortfall relating to that year is reduced by the number of emissions units assigned a value in relation to that year:
 

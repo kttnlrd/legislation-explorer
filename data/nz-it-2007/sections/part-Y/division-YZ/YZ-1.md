@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Application from 29 July 1983**
 
-**(1)** Section YD 4(11)﻿(a) and (b) (Classes of income treated as having New Zealand source) applies to—
+**(1)** Section YD 4(11)(a) and (b) (Classes of income treated as having New Zealand source) applies to—
 
 - (a) interest derived from money lent under a binding contract entered into on or after 29 July 1983:
 

@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (a) the obligation the debtor is released from is an amount of debt to which section EW 46C(4) (Consideration when debt remitted within economic group) applies; and
 
-- (b) at the time the debtor is released, the debtor is a company that is a member of the same wholly-owned group as the creditor, and the debtor is described in section EW 46C(1)﻿(a) or (b).
+- (b) at the time the debtor is released, the debtor is a company that is a member of the same wholly-owned group as the creditor, and the debtor is described in section EW 46C(1)(a) or (b).
 
 **When shares are cancelled**
 

@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) expenditure that they incur for the business use of a motor vehicle:
 
-- (ab) interest on amounts used to fund, directly or indirectly, expenditure the person incurs for the business use of a motor vehicle, if the person is a close company that has chosen to apply this subpart instead of the FBT rules, in accordance with section CX 17(4B)﻿(c) (Benefits provided to employees who are shareholders or investors):
+- (ab) interest on amounts used to fund, directly or indirectly, expenditure the person incurs for the business use of a motor vehicle, if the person is a close company that has chosen to apply this subpart instead of the FBT rules, in accordance with section CX 17(4B)(c) (Benefits provided to employees who are shareholders or investors):
 
 - (b) an amount of depreciation loss for the business use of a motor vehicle.
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **Calculation of deduction: depreciation loss generally**
 
-**(5)** The formula referred to in subsection (4)﻿(a) is— standard calculation × business proportion.
+**(5)** The formula referred to in subsection (4)(a) is— standard calculation × business proportion.
 
 **Definition of items in formula**
 
@@ -72,7 +72,7 @@ compilation_date: 2026-06-06
 
 **Calculation of deduction: depreciation loss on disposal**
 
-**(8)** The formula referred to in subsection (4)﻿(b) is— disposal depreciation loss × all deductions ÷ (base value − adjusted tax value).
+**(8)** The formula referred to in subsection (4)(b) is— disposal depreciation loss × all deductions ÷ (base value − adjusted tax value).
 
 **Definition of items in formula**
 
@@ -96,7 +96,7 @@ compilation_date: 2026-06-06
 
 **Calculation of deduction: depreciation loss on disposal after business use**
 
-**(11)** The formula referred to in subsection (4)﻿(c) is— disposal depreciation loss × business proportion.
+**(11)** The formula referred to in subsection (4)(c) is— disposal depreciation loss × business proportion.
 
 **Definition of items in formula**
 

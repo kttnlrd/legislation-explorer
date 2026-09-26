@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 **(2)** This subpart applies for a residential land purchase amount in relation to a disposal of residential land located in New Zealand by a person (the vendor) to another person (the purchaser) if—
 
-- (a) the relevant residential land purchase amount would be income of the vendor under section CB 6A (Disposal within 2 years: bright-line test for residential land) ignoring sections CB 6A(5)﻿(b)﻿(i) and CB 16A (Main home exclusion for disposal within 2 years); and
+- (a) the relevant residential land purchase amount would be income of the vendor under section CB 6A (Disposal within 2 years: bright-line test for residential land) ignoring sections CB 6A(5)(b)(i) and CB 16A (Main home exclusion for disposal within 2 years); and
 
 - (b) the vendor is an offshore RLWT person.
 

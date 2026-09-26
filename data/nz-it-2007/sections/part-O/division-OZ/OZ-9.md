@@ -32,9 +32,9 @@ compilation_date: 2026-06-06
 
 **(3)** The cases referred to in subsection (2) are the following:
 
-- (a) in the case of a benchmark dividend described in subsection (1)﻿(c)﻿(i), section OZ 8 does not apply to the later dividend through the lack of a relevant credit balance described in section OZ 8(1)﻿(b):
+- (a) in the case of a benchmark dividend described in subsection (1)(c)(i), section OZ 8 does not apply to the later dividend through the lack of a relevant credit balance described in section OZ 8(1)(b):
 
-- (b) in the case of a benchmark dividend described in subsection (1)﻿(c)﻿(ii), the later dividend has a ratio of 28/72.
+- (b) in the case of a benchmark dividend described in subsection (1)(c)(ii), the later dividend has a ratio of 28/72.
 
 *Defined in this Act: benchmark dividend, company, dividend, imputation ratio, transitional period*
 

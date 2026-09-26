@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 - (ac) adjust is—
 
-  - (i) zero, if the excess debt entity is not an excess debt outbound company or a natural person or trustee described in section FE 2(1)﻿(g) and is a party to a financial arrangement that is removed under section FE 18(3B) from the measurement of total group debt for the excess debt entity or that is related-party debt for which the lender is not a New Zealand resident and does not carry on a business through a fixed establishment in New Zealand; or
+  - (i) zero, if the excess debt entity is not an excess debt outbound company or a natural person or trustee described in section FE 2(1)(g) and is a party to a financial arrangement that is removed under section FE 18(3B) from the measurement of total group debt for the excess debt entity or that is related-party debt for which the lender is not a New Zealand resident and does not carry on a business through a fixed establishment in New Zealand; or
 
   - (ii) the amount (the group finance cost) that is the total amount for the New Zealand group found by calculating for each member of the New Zealand group the total amount (the member finance cost) of the items total deduction and FRD for the member, if the group finance cost is $1,000,000 or less and subparagraph (i) does not apply; or
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 - (b) total debt is the total amount of the debt of the excess debt entity's New Zealand group for the income year as calculated under section FE 15, before allowing for a reduction under section FE 13:
 
-- (c) concession is any reduction allowed under section FE 13 in the total group debt of the excess debt entity's New Zealand group for the income year, averaged when section FE 8(1)﻿(a) or (b) applies:
+- (c) concession is any reduction allowed under section FE 13 in the total group debt of the excess debt entity's New Zealand group for the income year, averaged when section FE 8(1)(a) or (b) applies:
 
 - (cb) group debt factor is—
 
@@ -60,13 +60,13 @@ compilation_date: 2026-06-06
 
 - (e) threshold amount is, as applicable,—
 
-  - (i) if the excess debt entity is none of an excess debt outbound company, an excess debt entity with a worldwide group given by section FE 31D, and a trustee who is described in section FE 2(1)﻿(g), the greater of 60% and 110% of the debt percentage of their worldwide group:
+  - (i) if the excess debt entity is none of an excess debt outbound company, an excess debt entity with a worldwide group given by section FE 31D, and a trustee who is described in section FE 2(1)(g), the greater of 60% and 110% of the debt percentage of their worldwide group:
 
-  - (ii) if the person is a natural person who is not described in section FE 2(1)﻿(g), 60%:
+  - (ii) if the person is a natural person who is not described in section FE 2(1)(g), 60%:
 
-  - (iii) if the excess debt entity is an excess debt outbound company, or is a trustee who is described in section FE 2(1)﻿(g), the greater of 75% and 110% of the debt percentage of their worldwide group:
+  - (iii) if the excess debt entity is an excess debt outbound company, or is a trustee who is described in section FE 2(1)(g), the greater of 75% and 110% of the debt percentage of their worldwide group:
 
-  - (iv) if the person is a natural person who is described in section FE 2(1)﻿(g), 75%.
+  - (iv) if the person is a natural person who is described in section FE 2(1)(g), 75%.
 
 **Formula for excess debt entities with worldwide group given by section FE 31D**
 
@@ -94,7 +94,7 @@ compilation_date: 2026-06-06
 
 - (d) total debt is the total amount of the debt of the excess debt entity's New Zealand group for the income year as calculated under section FE 15, before allowing for a reduction under section FE 13:
 
-- (e) concession is any reduction allowed under section FE 13 in the total group debt of the excess debt entity's New Zealand group for the income year, averaged when section FE 8(1)﻿(a) or (b) applies:
+- (e) concession is any reduction allowed under section FE 13 in the total group debt of the excess debt entity's New Zealand group for the income year, averaged when section FE 8(1)(a) or (b) applies:
 
 - (f) group debt comparison factor is—
 
@@ -104,7 +104,7 @@ compilation_date: 2026-06-06
 
 **Formula for group debt comparison factor**
 
-**(3D)**  The group debt comparison factor under subsection (3C)﻿(f)﻿(ii) for an excess debt entity and an income year is the amount calculated using the formula— (New Zealand group debt percentage – threshold amount) ÷ (New Zealand group debt percentage – worldwide group debt percentage).
+**(3D)**  The group debt comparison factor under subsection (3C)(f)(ii) for an excess debt entity and an income year is the amount calculated using the formula— (New Zealand group debt percentage – threshold amount) ÷ (New Zealand group debt percentage – worldwide group debt percentage).
 
 **Definition of item in formula**
 

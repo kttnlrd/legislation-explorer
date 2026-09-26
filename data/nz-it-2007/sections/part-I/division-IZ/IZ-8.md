@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) the taxable income year, which refers to the first of the offset years:
 
-- (c) the initial taxable income, which refers to the amount of taxable income given by subsection (2)﻿(a) for the person and the taxable income year:
+- (c) the initial taxable income, which refers to the amount of taxable income given by subsection (2)(a) for the person and the taxable income year:
 
 - (d) the net loss year, which refers to the second of the offset years:
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (h) the loss ownership period, which refers to the part of the offset ownership period that occurs in the net loss year:
 
-- (i) the group loss excess, which is the amount of the excess of net loss given by subsection (3)﻿(b) for the members of a wholly-owned group of companies and the loss ownership period.
+- (i) the group loss excess, which is the amount of the excess of net loss given by subsection (3)(b) for the members of a wholly-owned group of companies and the loss ownership period.
 
 **Who may make election under this section: general rule**
 
@@ -66,9 +66,9 @@ compilation_date: 2026-06-06
 
 **(5)** If the person is not a company, the person's net loss for the net loss year is reduced, and the person's available tax loss for the taxable income year is increased, by an amount that is the smallest of—
 
-- (a) the initial taxable income referred to in subsection (2)﻿(a):
+- (a) the initial taxable income referred to in subsection (2)(a):
 
-- (b) the amount of the net loss referred to in subsection (2)﻿(b):
+- (b) the amount of the net loss referred to in subsection (2)(b):
 
 - (c) the elected amount.
 
@@ -76,11 +76,11 @@ compilation_date: 2026-06-06
 
 **(6)** If the person is a company, other than a company that is a member of a group of companies at a time in the offset ownership period, the person's net loss for the net loss year is reduced, and the person's available tax loss for the taxable income year is increased, by an amount that is the smallest of—
 
-- (a) the initial taxable income referred to in subsection (2)﻿(a):
+- (a) the initial taxable income referred to in subsection (2)(a):
 
 - (b) the amount of the net income of the person for the income ownership period:
 
-- (c) the amount of the net loss referred to in subsection (2)﻿(b):
+- (c) the amount of the net loss referred to in subsection (2)(b):
 
 - (d) the amount of the net loss of the person for the loss ownership period:
 
@@ -92,11 +92,11 @@ compilation_date: 2026-06-06
 
 - (a) the total amount of—
 
-  - (i) the smaller of the initial taxable income referred to in subsection (2)﻿(a) and the net income of the person for the income ownership period:
+  - (i) the smaller of the initial taxable income referred to in subsection (2)(a) and the net income of the person for the income ownership period:
 
   - (ii) the part of the elected amount that is made available under subparts IC and IP (which relate to the use and grouping of tax losses) to other members of the group of companies in the taxable income year:
 
-- (b) if the person is a member of a wholly-owned group in the loss ownership period, the group loss excess referred to in subsection (3)﻿(b) reduced by the total amount of the reductions in net loss for the period for the other members of the group from elections under this section:
+- (b) if the person is a member of a wholly-owned group in the loss ownership period, the group loss excess referred to in subsection (3)(b) reduced by the total amount of the reductions in net loss for the period for the other members of the group from elections under this section:
 
 - (c) the elected amount.
 
@@ -110,7 +110,7 @@ compilation_date: 2026-06-06
 
 - (c) the requirements in section IP 4(4) and section IP 5 (which relate to breaches of continuity or commonality requirements) are not applied:
 
-- (d) the requirements in section IP 4(2)﻿(a), (ab), and (c) (Breach in income year in which tax loss component arises) are replaced by the requirements given by subsection (9).
+- (d) the requirements in section IP 4(2)(a), (ab), and (c) (Breach in income year in which tax loss component arises) are replaced by the requirements given by subsection (9).
 
 **Replacement requirements in applying section IP 4(2)**
 

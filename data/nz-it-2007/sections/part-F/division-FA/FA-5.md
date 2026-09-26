@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Adjustment to income**
 
-**(3)** If the total amount of the deductions referred to in subsection (1)﻿(b) is less than or equal to the excess, the amount of income under subsection (2) is the total amount of the deductions.
+**(3)** If the total amount of the deductions referred to in subsection (1)(b) is less than or equal to the excess, the amount of income under subsection (2) is the total amount of the deductions.
 
 **Apportionment**
 
@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **(7)** In this section,—
 
-- (a) subsection (1)﻿(c) does not apply to an acquisition on a settlement of relationship property:
+- (a) subsection (1)(c) does not apply to an acquisition on a settlement of relationship property:
 
 - (b) subsection (5) does not apply to a disposal on a settlement of relationship property.
 

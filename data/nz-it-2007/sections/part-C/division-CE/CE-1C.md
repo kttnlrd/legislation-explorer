@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **When location in New Zealand is uncertain**
 
-**(3)** For the purposes of subsection (1)﻿(a), if the location where the person would be likely to work for their employer in New Zealand is uncertain, the relevant market rental value is taken as either the average market rental value or the median market rental value, as applicable, for the whole of New Zealand.
+**(3)** For the purposes of subsection (1)(a), if the location where the person would be likely to work for their employer in New Zealand is uncertain, the relevant market rental value is taken as either the average market rental value or the median market rental value, as applicable, for the whole of New Zealand.
 
 *Defined in this Act: accommodation, amount, New Zealand*
 

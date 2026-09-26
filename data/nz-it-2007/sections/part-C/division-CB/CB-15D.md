@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Exclusion from application of some land provisions**
 
-**(1)** Sections CB 9(2), CB 10(2), CB 11(1)﻿(b)﻿(ii), and CB 15(1) do not apply to Kāinga Ora–Homes and Communities or a company in the same wholly-owned group of companies as Kāinga Ora–Homes and Communities.
+**(1)** Sections CB 9(2), CB 10(2), CB 11(1)(b)(ii), and CB 15(1) do not apply to Kāinga Ora–Homes and Communities or a company in the same wholly-owned group of companies as Kāinga Ora–Homes and Communities.
 
 **Exclusion for group members and members of consolidated group**
 

@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
   - (i) the cost of land, plant, or machinery:
 
-  - (ii) expenditure referred to in section DU 8(1)﻿(b) to (d):
+  - (ii) expenditure referred to in section DU 8(1)(b) to (d):
 
   - (iii) residual expenditure.
 

@@ -132,7 +132,7 @@ compilation_date: 2026-06-06
 
   - (iv) is not a superannuation scheme; and
 
-  - (v) has a principal settlor that satisfies the criteria set out in paragraph (a) at the time the trust chooses to use the revenue account method in accordance with subsection (2)﻿(b).
+  - (v) has a principal settlor that satisfies the criteria set out in paragraph (a) at the time the trust chooses to use the revenue account method in accordance with subsection (2)(b).
 
 **Meaning of extended RAM taxpayer**
 
@@ -154,13 +154,13 @@ compilation_date: 2026-06-06
 
 - (c) the trustee of a trust that—
 
-  - (i) satisfies the criteria set out in paragraph (b)﻿(i) to (iv) of the definition of RAM taxpayer in subsection (9); and
+  - (i) satisfies the criteria set out in paragraph (b)(i) to (iv) of the definition of RAM taxpayer in subsection (9); and
 
   - (ii) has a principal settlor that satisfies the criteria set out in paragraph (a) or (b) of this definition.
 
 **Transitional provision for transitional residents before 1 April 2024**
 
-**(11)** For the purposes of subsections (9)﻿(a)﻿(ii) and (10)﻿(a)﻿(ii), a person is treated as becoming New Zealand resident on or after 1 April 2024 if the person became New Zealand resident before that date but was a transitional resident and only stopped being a transitional resident on or after 1 April 2024.
+**(11)** For the purposes of subsections (9)(a)(ii) and (10)(a)(ii), a person is treated as becoming New Zealand resident on or after 1 April 2024 if the person became New Zealand resident before that date but was a transitional resident and only stopped being a transitional resident on or after 1 April 2024.
 
 *Defined in this Act: amount, attributing interest, comparative value method, complying trust, deemed rate of return method, double tax agreement, excluded RAM interest, exempt income, extended RAM interest, extended RAM taxpayer, FIF, FIF income, FIF loss, foreign company, gifting settlor, income, income year, loss, natural person, New Zealand, New Zealand resident, non-resident, principal settlor, RAM interest, RAM taxpayer, recognised exchange, revenue account method, share, superannuation scheme, tax, transitional resident, trustee*
 

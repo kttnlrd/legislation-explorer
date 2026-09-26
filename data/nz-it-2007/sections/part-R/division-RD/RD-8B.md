@@ -32,11 +32,11 @@ compilation_date: 2026-06-06
 
 **(2)** To the extent to which the amount is an unrepaid PAYE income overpayment, the amount is treated as follows:
 
-- (a) as salary or wages, if the amount is treated as described in subsection (1)﻿(b)﻿(i):
+- (a) as salary or wages, if the amount is treated as described in subsection (1)(b)(i):
 
-- (b) as all or part of an amount of extra pay, as applicable, if the amount is treated as described in subsection (1)﻿(b)﻿(ii):
+- (b) as all or part of an amount of extra pay, as applicable, if the amount is treated as described in subsection (1)(b)(ii):
 
-- (c) as all or part of a schedular payment, as applicable, if the amount is treated as described in subsection (1)﻿(b)﻿(iii).
+- (c) as all or part of a schedular payment, as applicable, if the amount is treated as described in subsection (1)(b)(iii).
 
 **Meaning of unrepaid PAYE income overpayment**
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Amounts repayable under breached repayment agreements**
 
-**(4)** For the purposes of subsection (3)﻿(a)﻿(iii), an amount that is repayable to the employer by the employee under an agreement (the agreement) between them is treated as an amount that is not repayable to the employer by the employee under an agreement between them if—
+**(4)** For the purposes of subsection (3)(a)(iii), an amount that is repayable to the employer by the employee under an agreement (the agreement) between them is treated as an amount that is not repayable to the employer by the employee under an agreement between them if—
 
 - (a) the employee breaches the agreement and does not remedy the breach within 2 months:
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 - (a) an amount that is income of the employee under section CB 32 (Property obtained by theft):
 
-- (b) an amount that is an overpayment of a benefit or grant referred to in section RD 5(6)﻿(a) to (c):
+- (b) an amount that is an overpayment of a benefit or grant referred to in section RD 5(6)(a) to (c):
 
 - (c) an employer's superannuation contribution other than an overpayment of an amount of an employer's superannuation cash contribution that an employee chooses to have treated as salary or wages under section RD 68 (Choosing to have amount treated as salary or wages).
 

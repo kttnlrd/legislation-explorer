@@ -72,13 +72,13 @@ compilation_date: 2026-06-06
 
 **When branches located in New Zealand**
 
-**(7B)**  For the purposes of subsection (7)﻿(a)﻿(ii), if the non-resident custodial institution has a branch located in New Zealand that receives a payment of investment income, the branch is treated as the person who must withhold the amount of tax for the payment under subsection (3).
+**(7B)**  For the purposes of subsection (7)(a)(ii), if the non-resident custodial institution has a branch located in New Zealand that receives a payment of investment income, the branch is treated as the person who must withhold the amount of tax for the payment under subsection (3).
 
 **Meaning of investment income**
 
 **(8)** For the purposes of this section, and sections RE 4 and RF 4, investment income means—
 
-- (a) resident passive income under section RE 2(1)﻿(a) to (c) subject to the withholding obligations set out in sections RE 3 and RE 4:
+- (a) resident passive income under section RE 2(1)(a) to (c) subject to the withholding obligations set out in sections RE 3 and RE 4:
 
 - (b) non-resident passive income under section RF 2(1) (Non-resident passive income) subject to the withholding obligations set out in section RF 3 (Obligation to withhold amounts of tax for non-resident passive income):
 

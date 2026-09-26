@@ -34,13 +34,13 @@ compilation_date: 2026-06-06
 
   - (i) the formula in section MD 12; and
 
-  - (ii) the formula in section MD 12B(2), if section MD 12B applies, and if the entitlement period includes the day described in section MD 12B(3)﻿(a)﻿(i) or (ii):
+  - (ii) the formula in section MD 12B(2), if section MD 12B applies, and if the entitlement period includes the day described in section MD 12B(3)(a)(i) or (ii):
 
 - (d) credit abatement is the total amount, for the entitlement period, of—
 
   - (i) a family credit abatement calculated using the formula in section MD 13(2), and modified, if the item parental tax credit in paragraph (c) is greater than zero, by section MD 2(3) and (4); and
 
-  - (ii) an amount of parental tax credit abatement calculated using the formula in section MD 16(2), if section MD 16 applies, and if the entitlement period includes the day described in section MD 16(3)﻿(a)﻿(i) or (ii).
+  - (ii) an amount of parental tax credit abatement calculated using the formula in section MD 16(2), if section MD 16 applies, and if the entitlement period includes the day described in section MD 16(3)(a)(i) or (ii).
 
 **Extra instalment**
 

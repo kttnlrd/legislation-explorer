@@ -32,13 +32,13 @@ compilation_date: 2026-06-06
 
 **(3)** The amount is—
 
-- (a) the amount of the consideration derived for the disposal that is not income under another provision of this Act, if that amount is less than the total amount of deductions referred to in subsection (1)﻿(a); or
+- (a) the amount of the consideration derived for the disposal that is not income under another provision of this Act, if that amount is less than the total amount of deductions referred to in subsection (1)(a); or
 
-- (b) the total amount of deductions referred to in subsection (1)﻿(a), if paragraph (a) does not apply.
+- (b) the total amount of deductions referred to in subsection (1)(a), if paragraph (a) does not apply.
 
 **Deductions in acquiring property**
 
-**(4)** The amount is the total amount of deductions referred to in subsection (1)﻿(a) for expenditure incurred in acquiring the application property.
+**(4)** The amount is the total amount of deductions referred to in subsection (1)(a) for expenditure incurred in acquiring the application property.
 
 *Defined in this Act: deduction, design registration application, dispose, income, plant variety rights*
 

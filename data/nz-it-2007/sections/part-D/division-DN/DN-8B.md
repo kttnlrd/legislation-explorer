@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)** This section applies when a person has an amount of FIF loss under section EX 56B(3)﻿(b) (Revenue account method) for an income year.
+**(1)** This section applies when a person has an amount of FIF loss under section EX 56B(3)(b) (Revenue account method) for an income year.
 
 **Amount of deduction**
 

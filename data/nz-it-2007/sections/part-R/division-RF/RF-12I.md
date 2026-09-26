@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 - (b) the indirect lender is associated with the borrower; and
 
-- (c) the funding does not meet the requirements of section RF 12H(1)﻿(a)﻿(i) and (iii) for related-party debt.
+- (c) the funding does not meet the requirements of section RF 12H(1)(a)(i) and (iii) for related-party debt.
 
 **Non-resident owning bodies**
 

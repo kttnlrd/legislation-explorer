@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (c) a company that is—
 
-  - (i) established by a mandated iwi organisation to be an asset-holding company, as contemplated by section 12(1)﻿(d) of the Maori Fisheries Act 2004:
+  - (i) established by a mandated iwi organisation to be an asset-holding company, as contemplated by section 12(1)(d) of the Maori Fisheries Act 2004:
 
   - (ii) recognised by Te Ohu Kai Moana Trustee Limited as a mandated iwi organisation under section 13(1) of the Maori Fisheries Act 2004:
 

@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **(8)** The following rules apply for the purposes of subsection (7):
 
-- (a) the minimum interest referred to in subsection (7)﻿(a) or (b) of a person must be counted if their interests change after the credit arises; and
+- (a) the minimum interest referred to in subsection (7)(a) or (b) of a person must be counted if their interests change after the credit arises; and
 
 - (b) a credit retains its separate character and is not treated as part of a credit referred to in section OA 7 in a later tax year; and
 

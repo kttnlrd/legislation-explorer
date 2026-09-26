@@ -28,13 +28,13 @@ compilation_date: 2026-06-06
 
 - (a) eligible currency assets is the total market value of,—
 
-  - (i) a person's assets described in section EM 1(1)﻿(a) and (b) that are denominated in the same currency (the calculation currency) that the calculation hedge hedges; and
+  - (i) a person's assets described in section EM 1(1)(a) and (b) that are denominated in the same currency (the calculation currency) that the calculation hedge hedges; and
 
-  - (ii) if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by a multi-rate PIE, described in section EM 1(1)﻿(a) and (b), and denominated in the calculation currency:
+  - (ii) if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by a multi-rate PIE, described in section EM 1(1)(a) and (b), and denominated in the calculation currency:
 
 - (b) proxied currency assets is,—
 
-  - (i) unless subparagraph (ii) or (iii) applies, the total market value of a person's assets described in section EM 1(1)﻿(a) and (b) that are denominated in a currency (the proxied currency) other than the calculation currency, if an eligible hedge that is denominated in the calculation currency acts like hedging for the assets due to a relationship between exchange rate movements in the proxied currency and the calculation currency:
+  - (i) unless subparagraph (ii) or (iii) applies, the total market value of a person's assets described in section EM 1(1)(a) and (b) that are denominated in a currency (the proxied currency) other than the calculation currency, if an eligible hedge that is denominated in the calculation currency acts like hedging for the assets due to a relationship between exchange rate movements in the proxied currency and the calculation currency:
 
   - (ii) zero, if the person has hedges denominated in the proxied currency:
 
@@ -72,9 +72,9 @@ compilation_date: 2026-06-06
 
 **Definition of items in FDR gross formula**
 
-**(10C)**  In the formula in subsection (10B)﻿(b), all items are expressed in New Zealand currency, and—
+**(10C)**  In the formula in subsection (10B)(b), all items are expressed in New Zealand currency, and—
 
-- (a) eligible currency assets is the total market value of a person's assets described in section EM 1(1)﻿(a) and (b) and, if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by the relevant multi-rate PIE and described in section EM 1(1)﻿(a) and (b):
+- (a) eligible currency assets is the total market value of a person's assets described in section EM 1(1)(a) and (b) and, if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by the relevant multi-rate PIE and described in section EM 1(1)(a) and (b):
 
 - (b) FDR hedges amount is the amount of foreign currency hedged by a person's fair dividend rate hedge portions, but excluding the portion for the calculation hedge:
 

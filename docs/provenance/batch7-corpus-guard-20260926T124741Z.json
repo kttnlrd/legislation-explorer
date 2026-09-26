@@ -1,0 +1,6667 @@
+[
+  {
+    "path": "data/nz-it-2007/sections/part-1/10.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/101.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 101, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/102.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 52 prose token(s) no longer present: 09, 1, 10, 102, 11, 2"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/103.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 46 prose token(s) no longer present: 09, 1, 10, 103, 11, 2"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/104.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 51 prose token(s) no longer present: 09, 1, 104, 11, 2, 2007"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/105.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 105, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/106.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 106, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/107.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 107, 10B, 2, 2007"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/109.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 158 prose token(s) no longer present: 1, 10, 109, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/11.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 11, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/110.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 110, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/111.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 111, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/112.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 42 prose token(s) no longer present: 09, 1, 112, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/113.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 113, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/114.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 10, 114, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/117.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 117, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/118.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 157 prose token(s) no longer present: 09, 1, 10, 11, 118, 12"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/12.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 12, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/120.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 120, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/121.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 121, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/122.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 72 prose token(s) no longer present: 09, 1, 11, 12, 122, 2"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/123.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 53 prose token(s) no longer present: 09, 1, 11, 123, 2, 2007"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/125.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 125, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/127.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 1, 12, 127, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/128.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 1, 128, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/129.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 1, 129, 13B, 13C, 2, 2007"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/13.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 10, 13, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/130.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 130, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/131.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 131, 19, 2, 20, 2007"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/132.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 86 prose token(s) no longer present: 1, 132, 2007, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/135.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 65 prose token(s) no longer present: 1, 135, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/136.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 1, 10, 136, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/137.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 1, 10, 137, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/14.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 09, 1, 14, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/15.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 11, 15, 2, 2007"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/152.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 10, 152, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/153.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 153, 18A, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/154.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 1, 154, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/155.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 1, 155, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/156.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 41 prose token(s) no longer present: 1, 156, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/16.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 16, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/161.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 57 prose token(s) no longer present: 1, 11, 14, 16, 161, 17"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/162.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 41 prose token(s) no longer present: 1, 162, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/163.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 1, 163, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/164.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 164, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/165.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 1, 165, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/169.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 169, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/17.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 48 prose token(s) no longer present: 1, 11, 17, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/173.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 52 prose token(s) no longer present: 1, 10, 11, 13, 14, 15"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/176.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 1, 10, 176, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/18.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 18, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/180.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 43 prose token(s) no longer present: 1, 180, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/181.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 57 prose token(s) no longer present: 1, 10, 11, 181, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/183.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 183, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/184.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 1, 10, 184, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/185.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 83 prose token(s) no longer present: 1, 185, 2, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/186.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 186, 2, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/187.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 79 prose token(s) no longer present: 1, 187, 2, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/188.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 188, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/189.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 83 prose token(s) no longer present: 1, 189, 2, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/19.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 31 prose token(s) no longer present: 1, 10, 19, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/190.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 83 prose token(s) no longer present: 1, 15, 190, 2, 2007, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/193.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 89 prose token(s) no longer present: 1, 193, 2, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/194.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 91 prose token(s) no longer present: 1, 194, 1982, 1989, 2007, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/195.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 195, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/197.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 197, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/199.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 86 prose token(s) no longer present: 1, 199, 2, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/20.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 1, 20, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/202.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 56 prose token(s) no longer present: 1, 2, 2007, 2008, 2009, 202"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/203.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 31 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/207.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 207"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/208.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 208"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/209.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 46 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/21.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 57 prose token(s) no longer present: 1, 2, 2007, 2008, 2026-06-06, 21"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/210.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 210"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/211.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 54 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/212.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 1, 2007, 2009, 2026-06-06, 212, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/214.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 214"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/215.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 215"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/216.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 216"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/217.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 42 prose token(s) no longer present: 1, 2007, 2009, 2026-06-06, 217, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/218.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 53 prose token(s) no longer present: 1, 10, 11, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/219.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 43 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 219"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/22.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 22"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/220.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 1, 10, 11, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/221.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 221"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/222.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 222"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/223.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 42 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 223"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/224.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 41 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 224"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/225.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 225"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/226.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 226"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/227.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 227"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/228.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 228"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/229.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 229"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/23.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 1, 2007, 2009, 2026-06-06, 23, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/230.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 44 prose token(s) no longer present: 1, 2007, 2009, 2026-06-06, 230, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/231.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 231"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/232.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/234.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/235.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 30 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/237.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 1, 15B, 15C, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/238.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 51 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/24.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 24"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/240.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 240"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/246.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 246"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/247.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 247"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/248.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 248"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/249.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 12, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/251.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 31 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/252.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 252"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/253.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/254.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/256.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/257.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 16, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/259.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 259"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/26.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/260.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 260"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/261.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 30 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/263.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/264.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 105 prose token(s) no longer present: 09, 1, 11, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/265.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/266.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/269.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 58 prose token(s) no longer present: 1, 2, 2007, 2008, 2026-06-06, 269"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/27.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 27"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/270.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 54 prose token(s) no longer present: 1, 2, 2007, 2008, 2026-06-06, 270"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/271.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 57 prose token(s) no longer present: 1, 2, 2007, 2008, 2026-06-06, 271"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/272.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 54 prose token(s) no longer present: 1, 2, 2007, 2008, 2026-06-06, 272"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/273.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 54 prose token(s) no longer present: 1, 2, 2007, 2008, 2026-06-06, 273"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/274.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 59 prose token(s) no longer present: 1, 2, 2007, 2008, 2026-06-06, 274"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/275.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 64 prose token(s) no longer present: 1, 2, 2007, 2008, 2026-06-06, 275"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/276.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/28.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 43 prose token(s) no longer present: 1, 2007, 2009, 2026-06-06, 28, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/29.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/293.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 293"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/294.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 10, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/296.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 109 prose token(s) no longer present: 09, 1, 11, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/297.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 96 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/298.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 47 prose token(s) no longer present: 09, 1, 10, 11, 2, 2007"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/3.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 91 prose token(s) no longer present: 09, 1, 10, 11, 12, 2"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/30.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/300.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/301.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/302.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 51 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/303.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 2B"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/304.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/307.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 79 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 307"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/310.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 81 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 310"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/311.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/314.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/315.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/316.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/324.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 46 prose token(s) no longer present: 09, 1, 11, 2007, 2008, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/325.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 87 prose token(s) no longer present: 1, 2007, 2010, 2026-06-06, 325, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/326.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 81 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 2B"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/327.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 83 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/33.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 95 prose token(s) no longer present: 1, 2007, 2009, 2010, 2026-06-06, 33"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/335.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/336.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 49 prose token(s) no longer present: 09, 1, 11, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/338.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/339.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/34.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 93 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/340.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 53 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/341.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/342.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 342"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/343.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 343"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/344.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/345.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/346.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 346"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/349.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/354.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 31 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/355.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/356.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/357.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 30 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/358.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/359.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 31 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/36.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 95 prose token(s) no longer present: 1, 2007, 2009, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/360.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/361.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/363.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/364.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/365.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/37.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 93 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/371.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/372.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 78 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 372"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/373.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/374.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 78 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/375.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 82 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/377.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 12, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/378.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 52 prose token(s) no longer present: 09, 1, 11, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/38.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 93 prose token(s) no longer present: 1, 11, 12, 2007, 2009, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/380.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 81 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 380"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/381.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 93 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/382.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 82 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/385.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 1, 11, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/386.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 17, 2, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/387.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/388.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 94 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/389.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/39.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/390.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 111 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/392.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 81 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 35B"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/393.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/395.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 39"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/396.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 396"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/397.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/398.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 398"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/399.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 120 prose token(s) no longer present: 09, 1, 10, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/4.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/400.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 110 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/401.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 51 prose token(s) no longer present: 1, 11, 2, 2007, 2009, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/402.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 81 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 2B"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/403.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 403"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/404.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 404"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/405.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 405"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/406.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 406"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/407.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 407"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/408.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/409.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/41.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/410.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 2, 20, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/411.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 23"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/413.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 42 prose token(s) no longer present: 1, 2007, 2009, 2026-06-06, 3, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/414.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 45 prose token(s) no longer present: 1, 2007, 2009, 2026-06-06, 3, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/415.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/416.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 33"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/417.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 34"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/418.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 85 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 35"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/419.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 419"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/420.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 93 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/424.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 424"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/425.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 425"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/426.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 11, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/428.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 23"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/429.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 24"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/43.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 1, 10, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/433.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 43 prose token(s) no longer present: 1, 12, 13, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/434.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 1, 14, 16, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/437.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 437"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/439.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 79 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 439"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/44.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 181 prose token(s) no longer present: 09, 1, 2, 2004, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/440.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/441.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/442.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/443.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 14B, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/444.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/445.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 105 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/446.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/447.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 94 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/448.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 14, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/449.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 83 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/450.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 2, 20, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/451.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 21"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/452.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 97 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/453.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/454.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 81 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 33B"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/455.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/456.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 38"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/458.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 44"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/459.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 100 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/46.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 91 prose token(s) no longer present: 000, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/460.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 116 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/461.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 103 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/462.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 462"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/463.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 463"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/464.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 464"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/465.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 465"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/466.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/467.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 467"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/468.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 468"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/469.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 100 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/472.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 472"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/473.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 473"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/474.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 474"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/475.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 475"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/478.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 478"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/479.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 1, 105, 108, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/482.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 482"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/483.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 85 prose token(s) no longer present: 1, 109, 116, 2, 2007, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/484.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 81 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 484"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/485.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 485"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/486.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/488.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/489.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/49.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 81 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 49"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/490.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 51 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/491.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 48 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/492.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 113 prose token(s) no longer present: 09, 1, 15, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/493.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/494.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 29 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/496.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/497.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/5.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 48 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/50.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/500.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/503.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 106 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/504.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 49 prose token(s) no longer present: 09, 1, 10, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/507.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/508.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/509.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/512.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/514.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 42 prose token(s) no longer present: 09, 1, 10, 11, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/517.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/518.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/519.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 11, 12, 13, 2007"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/52.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/521.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/523.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/524.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 43 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/525.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 110 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/526.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/527.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/528.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 41 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/529.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 31 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/530.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 29 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/531.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 119 prose token(s) no longer present: 09, 1, 11, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/533.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/534.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/536.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 12, 12C, 2, 2007"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/54.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 10, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/540.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 540"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/543.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/544.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/545.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/547.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/548.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/55.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/557.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 530 prose token(s) no longer present: 09, 1, 10, 100, 104, 107"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/558.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 558"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/56.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/563.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 98 prose token(s) no longer present: 1, 11, 2, 20, 2007, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/568.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 31 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/57.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/571.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/572.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/576.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/577.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 91 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/579.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/58.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/580.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/581.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 13, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/582.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 41 prose token(s) no longer present: 09, 1, 2, 20, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/585.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/589.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 41 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/59.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/6.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/60.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/61.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 1B, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/63.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 119 prose token(s) no longer present: 1, 11, 2, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/65.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/66.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/67.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 41 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/68.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/69.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 09, 1, 2007, 2008, 2026-06-06, 6"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/7.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/70.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 70"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/71.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 33 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/76.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/8.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 43 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/81.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 1, 2, 2007, 2008, 2026-06-06, 60B"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/82.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/83.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/84.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/85.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/87.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/89.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/9.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 1, 10, 2, 2007, 2009, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/90.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/91.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 1, 2, 2007, 2009, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/92.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 1, 10, 11B, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/93.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 39 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/94.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 83 prose token(s) no longer present: 1, 2, 2007, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/95.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/97.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-1/99.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 32 prose token(s) no longer present: 1, 2, 2007, 2008, 2026-06-06, 935"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/117.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 125 prose token(s) no longer present: 09, 1, 11, 117, 13, 2"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/12.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 80 prose token(s) no longer present: 1, 11, 12, 2, 2007, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/121.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 95 prose token(s) no longer present: 1, 121, 2, 2007, 2009, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/122.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 97 prose token(s) no longer present: 1, 122, 2, 2007, 2009, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/125.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 103 prose token(s) no longer present: 09, 1, 125, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/13.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 92 prose token(s) no longer present: 1, 11, 12, 13, 2, 2007"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/139.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 69 prose token(s) no longer present: 1, 139, 2, 2007, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/140.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 68 prose token(s) no longer present: 1, 140, 2, 2007, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/141.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 104 prose token(s) no longer present: 1, 141, 2, 2007, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/143.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 99 prose token(s) no longer present: 1, 143, 2, 2007, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/144.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 67 prose token(s) no longer present: 1, 144, 2, 2007, 2026-06-06, 935"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/145.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 71 prose token(s) no longer present: 1, 145, 2, 2007, 2026-06-06, 935"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/154.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 147 prose token(s) no longer present: 09, 1, 11, 12, 154, 2"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/17.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 130 prose token(s) no longer present: 09, 1, 17, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/20.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 109 prose token(s) no longer present: 1, 10, 2, 20, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/27.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 105 prose token(s) no longer present: 1, 2, 2007, 2010, 2012, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/29.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 49 prose token(s) no longer present: 1, 10, 11, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/30.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 90 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2011"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/31.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 47 prose token(s) no longer present: 1, 10, 11, 2, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/33.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 99 prose token(s) no longer present: 1, 2, 2007, 2010, 2012, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/35.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 82 prose token(s) no longer present: 1, 11, 12, 2, 2007, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/36.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 83 prose token(s) no longer present: 1, 11, 12, 2, 2007, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/39.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 96 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/4.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 21 prose token(s) no longer present: 2007, 2026-06-06, 4, 935, Act, Compilation"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/42.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 83 prose token(s) no longer present: 09, 1, 19, 2, 2007, 2008"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/45.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 93 prose token(s) no longer present: 1, 2007, 2009, 2010, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/46.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 95 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/47.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 95 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/48.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 95 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/49.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 95 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/50.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 94 prose token(s) no longer present: 1, 15, 16, 17, 2007, 2009"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/54.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 101 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/55.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 94 prose token(s) no longer present: 1, 2007, 2009, 2010, 2026-06-06, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/58.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 97 prose token(s) no longer present: 1, 15, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/59.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 98 prose token(s) no longer present: 1, 16, 2, 2007, 2009, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/60.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 96 prose token(s) no longer present: 1, 17, 2, 2007, 2009, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/61.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 97 prose token(s) no longer present: 1, 19, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/62.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 96 prose token(s) no longer present: 1, 2, 20, 2007, 2009, 2010"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/63.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 96 prose token(s) no longer present: 1, 2, 2007, 2009, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-2/95.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 112 prose token(s) no longer present: 1, 11, 2, 2007, 2010, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3/24.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3/25.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 34 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3/32.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3/34.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3/37.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 38 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3/38.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 35 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3/43.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 37 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3/44.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 36 prose token(s) no longer present: 09, 1, 2, 2007, 2008, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KA.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 202 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 3, 3-month"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KB.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 439 prose token(s) no longer present: 1, 1955, 2, 2007, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KC.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 172 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 3, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KD.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 249 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 3, 80KB"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KE.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 40 prose token(s) no longer present: 2007, 2026-06-06, 80KD, 80KE, 935, A"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KF.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 92 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 80KF, 80KH"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KG.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 290 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 3, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KH.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 133 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 80KG, 80KH"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KI.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 120 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 3, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KJ.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 63 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 80KJ, 935"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KK.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 218 prose token(s) no longer present: 1, 1964, 2, 2007, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KL.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 213 prose token(s) no longer present: 1, 1982, 1989, 2, 2007, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KM.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 141 prose token(s) no longer present: 1, 2, 20, 2007, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KN.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 139 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 225A, 80KN"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KO.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 84 prose token(s) no longer present: 13, 2007, 2026-06-06, 3, 80KN, 80KO"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KP.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 97 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 80KN, 80KP"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KQ.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 63 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 80KQ, 935"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KR.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 74 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 80KQ, 80KR"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KS.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 89 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 3, 4"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KT.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 176 prose token(s) no longer present: 1, 2, 20, 2007, 2026-06-06, 3"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KU.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 183 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 3, 80KU"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KV.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 105 prose token(s) no longer present: 1, 2, 2007, 2026-06-06, 80KV, 935"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-3B/80KW.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 476 prose token(s) no longer present: 1, 13, 14, 2, 2007, 2026-06-06"
+    ]
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-B/division-BC/BC-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-B/division-BH/BH-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-15C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-15D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-16A.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-19.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-32C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CB/CB-6A.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CC/CC-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CC/CC-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-24.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-25.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-27.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-34B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-36.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-41.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-43.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-44.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CD/CD-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CE/CE-1B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CE/CE-1BA.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CE/CE-1C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CE/CE-1D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CE/CE-1E.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CE/CE-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CE/CE-7B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CE/CE-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CF/CF-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CF/CF-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CG/CG-2D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CG/CG-2E.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CG/CG-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CG/CG-7B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CG/CG-7C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CG/CG-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CG/CG-8C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CH/CH-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CH/CH-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CQ/CQ-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CQ/CQ-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CR/CR-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CT/CT-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CU/CU-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CU/CU-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CU/CU-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CU/CU-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-16B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-16C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-16E.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-17B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-17BA.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-1B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-22D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-23.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-26C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-28.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-28B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-38B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-42.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-42B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-55BA.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CW/CW-61.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CX/CX-19.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CX/CX-34.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CX/CX-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CX/CX-50B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CX/CX-55.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CX/CX-56C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-20.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-24.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-24B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-25.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-25B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-25C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-29.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-29B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-33.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-34.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-C/division-CZ/CZ-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DB/DB-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DB/DB-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DB/DB-23.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DB/DB-24.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DB/DB-25.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DB/DB-31.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DB/DB-41.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DB/DB-46.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DB/DB-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DB/DB-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DC/DC-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DC/DC-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DE/DE-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DE/DE-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DE/DE-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-17.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-19.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DG/DG-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DI/DI-4B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DN/DN-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DN/DN-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DN/DN-8B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DO/DO-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DO/DO-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DQ/DQ-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DT/DT-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DT/DT-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DT/DT-17.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DT/DT-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DT/DT-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DU/DU-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DU/DU-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DU/DU-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DU/DU-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DU/DU-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DU/DU-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DV/DV-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DV/DV-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DV/DV-19.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DV/DV-27.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DV/DV-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DW/DW-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DW/DW-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DZ/DZ-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DZ/DZ-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DZ/DZ-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DZ/DZ-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DZ/DZ-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-D/division-DZ/DZ-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EA/EA-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EA/EA-4B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EB/EB-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EB/EB-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EB/EB-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EC/EC-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EC/EC-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-ED/ED-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-ED/ED-1B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-26.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-31.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-37.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-38.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-39.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-41.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-48.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-49.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-50.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-54.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-57.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-59.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-60.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-61.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-65.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EE/EE-67.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EG/EG-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EG/EG-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EH/EH-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EH/EH-36.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EH/EH-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EJ/EJ-10B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EJ/EJ-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EJ/EJ-12B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EJ/EJ-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EJ/EJ-20D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EJ/EJ-20E.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EJ/EJ-23.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EJ/EJ-25.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EJ/EJ-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EK/EK-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EK/EK-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EK/EK-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EK/EK-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EK/EK-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EK/EK-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EL/EL-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EL/EL-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EL/EL-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EL/EL-19.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EL/EL-20.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EL/EL-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EL/EL-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EM/EM-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EM/EM-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EM/EM-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EM/EM-5B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EM/EM-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EM/EM-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EM/EM-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-15B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-15E.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-15F.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-15G.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-15H.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-15I.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-20.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-23.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-24.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-25B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-29.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-32.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-33B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-34.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-39.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-45.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-46C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-52B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-53.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-57.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EW/EW-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-20B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-20C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-20D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-20E.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-21D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-21E.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-24.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-30.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-38.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-46.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-46B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-50.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-52.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-53.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-56.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-56B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-59.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-61.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-62.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-63.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-65.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-68.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-69.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-73.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EX/EX-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-19.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-20.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-23.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-28.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-29.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-30.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EY/EY-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-23B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-23BA.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-23BB.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-23BC.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-23BE.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-24.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-26.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-32D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-32E.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-32F.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-32H.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-35.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-37.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-38.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-39.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-41.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-42.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-48.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-49.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-52.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-52B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-52C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-69.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-69B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-77.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-81.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-E/division-EZ/EZ-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FA/FA-11B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FA/FA-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FA/FA-2B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FA/FA-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FA/FA-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FB/FB-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FB/FB-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FB/FB-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FC/FC-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FC/FC-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FC/FC-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FC/FC-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FC/FC-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FC/FC-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FC/FC-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FC/FC-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FD/FD-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FD/FD-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-16B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-17.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-24.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-26.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-28.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-29.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-31.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-31C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-31D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-7B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FE/FE-7C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FH/FH-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FH/FH-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FH/FH-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FH/FH-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FH/FH-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FH/FH-5B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FH/FH-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FL/FL-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FM/FM-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FM/FM-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FM/FM-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FM/FM-31.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FM/FM-42.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FM/FM-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FM/FM-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FN/FN-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FO/FO-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FO/FO-19.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FO/FO-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FO/FO-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FO/FO-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FP/FP-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FP/FP-24.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FP/FP-25.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FZ/FZ-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FZ/FZ-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FZ/FZ-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-F/division-FZ/FZ-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-15B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-15BA.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-27.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-28.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-31.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-32.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-35.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-36.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-3BAC.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-43.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-45.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-46.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-48.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-53.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GB/GB-54.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GC/GC-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GC/GC-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GC/GC-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GC/GC-20.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GC/GC-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-G/division-GC/GC-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HA/HA-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HA/HA-33B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HA/HA-34.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HA/HA-41.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HA/HA-44.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HA/HA-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HB/HB-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HB/HB-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HB/HB-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HB/HB-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HB/HB-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-25.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-26.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-29.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-30.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-31.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-31B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-33.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-36.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-39.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HC/HC-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HD/HD-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HD/HD-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HD/HD-17B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HD/HD-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HF/HF-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HG/HG-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HG/HG-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HG/HG-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-19C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-25.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-28.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-30.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-35B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-35C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-38.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-41.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-42B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-44B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-48.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-50.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-52.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-55D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-55FB.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-57B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-65.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HM/HM-75.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HP/HP-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HR/HR-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HR/HR-10B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HR/HR-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HR/HR-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HR/HR-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HR/HR-9BA.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HR/HR-9BAA.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HZ/HZ-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HZ/HZ-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HZ/HZ-4B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HZ/HZ-4C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-H/division-HZ/HZ-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IA/IA-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IA/IA-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IA/IA-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IB/IB-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IB/IB-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IC/IC-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IC/IC-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IC/IC-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IC/IC-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IC/IC-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IC/IC-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IC/IC-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IC/IC-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IC/IC-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IE/IE-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IP/IP-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IP/IP-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IP/IP-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IP/IP-3B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IP/IP-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IP/IP-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IP/IP-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IQ/IQ-2C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IQ/IQ-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IQ/IQ-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IQ/IQ-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IZ/IZ-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IZ/IZ-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IZ/IZ-7B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-I/division-IZ/IZ-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LA/LA-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LA/LA-8B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LB/LB-1B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LB/LB-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LD/LD-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LD/LD-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LD/LD-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LE/LE-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LE/LE-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LJ/LJ-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LJ/LJ-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LK/LK-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LK/LK-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LK/LK-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LO/LO-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LP/LP-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LS/LS-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LT/LT-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LT/LT-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LU/LU-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LY/LY-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LY/LY-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LY/LY-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LY/LY-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LY/LY-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-L/division-LZ/LZ-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MA/MA-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MB/MB-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MB/MB-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MB/MB-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MB/MB-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MB/MB-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MB/MB-7B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MC/MC-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MD/MD-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MD/MD-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MD/MD-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MD/MD-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MD/MD-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MD/MD-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MD/MD-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MD/MD-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MD/MD-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MD/MD-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-ME/ME-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-ME/ME-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MF/MF-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MF/MF-4J.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MF/MF-4K.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MF/MF-4L.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MF/MF-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MF/MF-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MG/MG-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MG/MG-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MG/MG-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MH/MH-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MK/MK-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MK/MK-2B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MK/MK-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MX/MX-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MX/MX-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MX/MX-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-M/division-MX/MX-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OA/OA-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OA/OA-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OA/OA-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OA/OA-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-26.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-32.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-37.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-45.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-62.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-71.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-72B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-82.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-83.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OB/OB-84.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OF/OF-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OK/OK-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OK/OK-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OK/OK-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OK/OK-14B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OK/OK-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OK/OK-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OK/OK-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OP/OP-17.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OP/OP-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OP/OP-23.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OP/OP-30.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OP/OP-35.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OP/OP-45.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OP/OP-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OZ/OZ-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OZ/OZ-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OZ/OZ-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OZ/OZ-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OZ/OZ-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OZ/OZ-7B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-O/division-OZ/OZ-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RA/RA-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RA/RA-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RA/RA-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RA/RA-15.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RA/RA-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RA/RA-20.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RA/RA-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RA/RA-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-10B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-14.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-17.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-19.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-31.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-38.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RC/RC-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-10B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-17.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-21.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-26.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-30.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-35.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-3C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-46.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-47.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-49.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-50.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-56.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-60.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-61.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-62.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-62B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-7.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-71B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-7B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RD/RD-8B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RE/RE-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RE/RE-10C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RE/RE-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RE/RE-18B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RE/RE-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RE/RE-29.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RE/RE-30.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RE/RE-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RE/RE-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-11BB.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-12G.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-12H.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-12I.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-12J.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-2B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-2C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RF/RF-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RH/RH-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RI/RI-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RL/RL-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RL/RL-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RL/RL-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RM/RM-10.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RM/RM-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RM/RM-16.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RM/RM-22.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RM/RM-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RP/RP-17B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RP/RP-17C.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RP/RP-18.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RP/RP-19.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RP/RP-19B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RZ/RZ-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RZ/RZ-11.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RZ/RZ-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RZ/RZ-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RZ/RZ-5D.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-R/division-RZ/RZ-6.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YA/YA-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YB/YB-12.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YB/YB-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YB/YB-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YB/YB-3.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YB/YB-4.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YC/YC-13.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YC/YC-18B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YC/YC-20.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YC/YC-9.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YD/YD-1.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YD/YD-1B.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YD/YD-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YD/YD-5.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YD/YD-8.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YF/YF-2.md",
+    "status": "OK",
+    "reasons": []
+  },
+  {
+    "path": "data/nz-it-2007/sections/part-Y/division-YZ/YZ-1.md",
+    "status": "OK",
+    "reasons": []
+  }
+]

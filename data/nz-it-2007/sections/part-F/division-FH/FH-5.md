@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Mismatch amount**
 
-**(4)** The payer is denied a deduction for the expenditure or for the amount of the charge that exceeds the expenditure or loss referred to in subsection (3)﻿(d).
+**(4)** The payer is denied a deduction for the expenditure or for the amount of the charge that exceeds the expenditure or loss referred to in subsection (3)(d).
 
 **Deductions denied for mismatch amounts until offset**
 

@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)** The Governor-General may, by Order in Council,—
 
-- (a) increase the amounts in section MD 3(4)﻿(a) and (b) (Calculation of family tax credit) by amounts that—
+- (a) increase the amounts in section MD 3(4)(a) and (b) (Calculation of family tax credit) by amounts that—
 
   - (i) correspond to the movement in the Consumers Price Index (all groups) after the quarter ended with 30 September 2021 that has not yet been taken into account by an increase:
 
@@ -26,35 +26,35 @@ compilation_date: 2026-06-06
 
 - (d) increase the amount appearing as an item in the formula for the minimum family tax credit in section ME 1(3) (Minimum family tax credit):
 
-- (db) change the amounts in section MG 2(2)﻿(a) (Best Start tax credit) by an amount that—
+- (db) change the amounts in section MG 2(2)(a) (Best Start tax credit) by an amount that—
 
   - (i) corresponds to the movement in the Consumers Price Index (all groups) after the quarter ended with 30 September 2021 that has not yet been taken into account by an increase:
 
   - (ii) is rounded up to the nearest whole dollar, without affecting the calculation of later increases made under this paragraph:
 
-- (dc) change the amounts in section MG 3(2)﻿(a) (Best Start tax credit abatement):
+- (dc) change the amounts in section MG 3(2)(a) (Best Start tax credit abatement):
 
 - (e) replace schedule 31 (Annualised equivalent amount for Part M).
 
-**Order in Council under subsection (1)﻿(a): requirements**
+**Order in Council under subsection (1)(a): requirements**
 
-**(2)** An Order in Council under subsection (1)﻿(a),—
+**(2)** An Order in Council under subsection (1)(a),—
 
-- (b) in the case of the first Order in Council made under subsection (1)﻿(a) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent, must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on 1 October 2021 is 5% or more:
+- (b) in the case of the first Order in Council made under subsection (1)(a) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent, must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on 1 October 2021 is 5% or more:
 
-- (c) in the case of a subsequent Order in Council under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
+- (c) in the case of a subsequent Order in Council under subsection (1)(a), must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
 
-**Order in Council under subsection (1)﻿(db): requirements**
+**Order in Council under subsection (1)(db): requirements**
 
-**(2BA)**  An Order in Council under subsection (1)﻿(db),—
+**(2BA)**  An Order in Council under subsection (1)(db),—
 
-- (a) in the case of the first Order in Council made under subsection (1)﻿(db) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent﻿, must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on 1 October 2021 is 5% or more:
+- (a) in the case of the first Order in Council made under subsection (1)(db) after the date on which the Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021 receives the Royal assent, must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on 1 October 2021 is 5% or more:
 
-- (b) in the case of a subsequent Order in Council under subsection (1)﻿(db), must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
+- (b) in the case of a subsequent Order in Council under subsection (1)(db), must be made when the total percentage increase in the movement in the Consumers Price Index (all groups) measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
 
 **How movement in CPI determined**
 
-**(2B)**  For the purposes of subsections (1)﻿(a)﻿(i) and (db)﻿(i), (2), and (2BA), a movement in the Consumers Price Index (all groups) over a period is determined by comparing the following numbers:
+**(2B)**  For the purposes of subsections (1)(a)(i) and (db)(i), (2), and (2BA), a movement in the Consumers Price Index (all groups) over a period is determined by comparing the following numbers:
 
 - (a) the number that, when the period started, was the most recent quarterly index number of the Consumers Price Index (all groups):
 

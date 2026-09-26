@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
   - (iv) if there is a mortgage secured on the land, the date on which the land is disposed of by or for the mortgagee because the mortgagor defaulted; or
 
-- (b) if none of paragraph (a)﻿(i) to (iv) apply, the date on which the estate or interest in the land is disposed of.
+- (b) if none of paragraph (a)(i) to (iv) apply, the date on which the estate or interest in the land is disposed of.
 
 **When this section does not apply**
 
@@ -44,9 +44,9 @@ compilation_date: 2026-06-06
 
 - (a) to a disposal of land by—
 
-  - (i) an executor or administrator who acquired the land in the circumstances described in section FC 1(1)﻿(a) (Disposals to which this subpart applies):
+  - (i) an executor or administrator who acquired the land in the circumstances described in section FC 1(1)(a) (Disposals to which this subpart applies):
 
-  - (ii) a beneficiary who acquired the land in the circumstances described in section FC 1(1)﻿(b):
+  - (ii) a beneficiary who acquired the land in the circumstances described in section FC 1(1)(b):
 
 - (b) if—
 

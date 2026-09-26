@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Extension of payment period for shareholder-employee**
 
-**(3)** For employment income paid to a shareholder-employee, the 63 day period for payment in subsection (1)﻿(b)﻿(i) is extended until the last date by which the person could file a return of income for the income year if the time for filing were extended to its maximum under section 37(5) of the Tax Administration Act 1994.
+**(3)** For employment income paid to a shareholder-employee, the 63 day period for payment in subsection (1)(b)(i) is extended until the last date by which the person could file a return of income for the income year if the time for filing were extended to its maximum under section 37(5) of the Tax Administration Act 1994.
 
 **Disposal of business: obligations transferred to non-associates**
 
@@ -56,9 +56,9 @@ compilation_date: 2026-06-06
 
 **(5)** If subsection (4) would have applied but for the fact that the seller and the buyer are associated at the time of the disposal,—
 
-- (a) the amount of employment income is not treated as income of the seller in any income year following the disposal, despite subsection (2)﻿(a) and section CH 3; and
+- (a) the amount of employment income is not treated as income of the seller in any income year following the disposal, despite subsection (2)(a) and section CH 3; and
 
-- (b) the seller is denied a deduction for the amount of employment income in any income year following the disposal, despite subsection (2)﻿(b) and section DB 51; and
+- (b) the seller is denied a deduction for the amount of employment income in any income year following the disposal, despite subsection (2)(b) and section DB 51; and
 
 - (c) the buyer may be allowed a deduction under section DC 10(3) (Disposal of business: transferred employment income obligations).
 
@@ -66,9 +66,9 @@ compilation_date: 2026-06-06
 
 **(6)** If section DC 11 (Transfers of employment income obligations to associates) applies,—
 
-- (a) the amount of employment income is not treated as income of the transferor (person A) in any income year following the disposal, despite subsection (2)﻿(a) and section CH 3; and
+- (a) the amount of employment income is not treated as income of the transferor (person A) in any income year following the disposal, despite subsection (2)(a) and section CH 3; and
 
-- (b) the transferor is denied a deduction for the amount of employment income in any income year following the disposal, despite subsection (2)﻿(b) and section DB 51; and
+- (b) the transferor is denied a deduction for the amount of employment income in any income year following the disposal, despite subsection (2)(b) and section DB 51; and
 
 - (c) the transferee (person B) may be allowed a deduction under section DC 11.
 

@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Formula**
 
-**(4)** For the purposes of subsection (3)﻿(b), the amount is calculated using the formula— ownership disposal percentage × total deductions.
+**(4)** For the purposes of subsection (3)(b), the amount is calculated using the formula— ownership disposal percentage × total deductions.
 
 **Definition of items in formula**
 

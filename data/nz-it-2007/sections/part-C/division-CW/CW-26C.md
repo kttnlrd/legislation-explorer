@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
   - (i) a loan for the cost of the shares is available to the employee; or
 
-  - (ii) the employee may pay for or buy the shares in regular instalments of a month or less, and any regular instalments are subject to paragraph (d)﻿(ii); and
+  - (ii) the employee may pay for or buy the shares in regular instalments of a month or less, and any regular instalments are subject to paragraph (d)(ii); and
 
 - (b) any loan to an employee to buy shares is free of interest and other charges; and
 
@@ -102,7 +102,7 @@ compilation_date: 2026-06-06
 
 - (b) if the employee has acquired the shares for market value, there is a period of restriction during which the shares must not be disposed of other than as part of a takeover or similar share reorganisation, and that period of restriction is no longer than the shorter of—
 
-  - (i) the shortest period in paragraph (a)﻿(i) and (ii); and
+  - (i) the shortest period in paragraph (a)(i) and (ii); and
 
   - (ii) any period of restriction provided by the arrangement, if that period finishes on or after the date on which the employee has no further repayment obligations for a loan made to them under the scheme.
 

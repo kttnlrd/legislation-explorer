@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Exiting owner: excluded payment**
 
-**(3)** The disposal payment described in subsection (2)﻿(a) is excluded income of the exiting owner.
+**(3)** The disposal payment described in subsection (2)(a) is excluded income of the exiting owner.
 
 **Exiting owner: no deduction**
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Entering owner: no deduction**
 
-**(5)** An entering owner is denied a deduction for the disposal payment described in subsection (2)﻿(a).
+**(5)** An entering owner is denied a deduction for the disposal payment described in subsection (2)(a).
 
 **Entering owner: stepping in**
 

@@ -1,0 +1,34 @@
+{
+  "generated": "2026-09-26T12:50:22+00:00",
+  "producer": "scripts/fix_nz_amendment_parts.py",
+  "mode": "apply",
+  "tree": {
+    "parts_before": 19,
+    "parts_after": 15,
+    "dropped_part_ids": [
+      "1",
+      "2",
+      "3",
+      "3B"
+    ],
+    "dropped_sections": 445,
+    "surviving_leaves": 2850,
+    "sample": [
+      "part-1/3.md",
+      "part-1/4.md",
+      "part-1/5.md"
+    ],
+    "written": "data/nz-it-2007/tree.json"
+  },
+  "bom": {
+    "files_scanned": 2850,
+    "files_with_bom": 710,
+    "occurrences": 1939,
+    "sample": [
+      "data/nz-it-2007/sections/part-B/division-BC/BC-7.md",
+      "data/nz-it-2007/sections/part-B/division-BH/BH-1.md",
+      "data/nz-it-2007/sections/part-C/division-CB/CB-11.md"
+    ],
+    "written": 710
+  }
+}

@@ -48,15 +48,15 @@ compilation_date: 2026-06-06
 
   - (ii) at the end of the accounting period; and
 
-- (d) the requirements of subsection (1)﻿(a), (c), and (d) are met.
+- (d) the requirements of subsection (1)(a), (c), and (d) are met.
 
 **Threshold ratio**
 
-**(2)** A CFC is a non-attributing active CFC under section EX 21B(2)﻿(a) for an accounting period and a person if the amount calculated under subsection (3) using the formula in subsection (4)—
+**(2)** A CFC is a non-attributing active CFC under section EX 21B(2)(a) for an accounting period and a person if the amount calculated under subsection (3) using the formula in subsection (4)—
 
 - (a) is less than 0.05; and
 
-- (b) is not zero under subsection (3)﻿(f).
+- (b) is not zero under subsection (3)(f).
 
 **Application of formula**
 
@@ -104,11 +104,11 @@ compilation_date: 2026-06-06
 
 - (a) if the interest holder chooses that this paragraph apply, income derived from the supply of personal services—
 
-  - (i) included in an attributable CFC amount under section EX 20B(3)﻿(h); and
+  - (i) included in an attributable CFC amount under section EX 20B(3)(h); and
 
   - (ii) not included in an attributable CFC amount under another paragraph of section EX 20B(3) and (4):
 
-- (b) if the interest holder chooses that this paragraph apply, the cost of revenue account property producing an amount (the included amount) included in the attributable CFC amount under section EX 20B(3)﻿(k) to the extent, not exceeding the included amount, to which—
+- (b) if the interest holder chooses that this paragraph apply, the cost of revenue account property producing an amount (the included amount) included in the attributable CFC amount under section EX 20B(3)(k) to the extent, not exceeding the included amount, to which—
 
   - (i) the cost is treated as a deduction of the CFC in the accounting period; and
 
@@ -126,9 +126,9 @@ compilation_date: 2026-06-06
 
 - (b) expenditure or loss that is included in the calculation of the attributable CFC amount under section EX 20B:
 
-- (c) income derived from a company that would meet the requirements of subsection (1)﻿(a) to (c) for a member of a test group with the CFC:
+- (c) income derived from a company that would meet the requirements of subsection (1)(a) to (c) for a member of a test group with the CFC:
 
-- (cb) income that is derived from a fixed establishment by a member of the test group and is not an attributable CFC amount, if the member is included in the test group under subsection (1)﻿(a)﻿(ii):
+- (cb) income that is derived from a fixed establishment by a member of the test group and is not an attributable CFC amount, if the member is included in the test group under subsection (1)(a)(ii):
 
 - (d) income from a supply that meets the requirements of section GB 15B (Supplies affecting default test for non-attributing active CFC).
 

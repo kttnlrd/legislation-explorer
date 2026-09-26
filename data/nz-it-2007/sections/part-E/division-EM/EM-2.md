@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Combining people and investor interests**
 
-**(2)** For the purposes of applying subsection (1)﻿(d)﻿(i) and (ii), if a person is associated with another person, they are treated as 1 person who holds their combined investor interests, if their combined investor interests total 5% or more of the total investor interests for the fund or trust. Subsection (3) overrides this subsection.
+**(2)** For the purposes of applying subsection (1)(d)(i) and (ii), if a person is associated with another person, they are treated as 1 person who holds their combined investor interests, if their combined investor interests total 5% or more of the total investor interests for the fund or trust. Subsection (3) overrides this subsection.
 
 **Exception to combining people and investor interests**
 

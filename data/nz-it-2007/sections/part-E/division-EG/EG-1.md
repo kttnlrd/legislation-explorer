@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Election to allocate**
 
-**(2)** If the person has not already included the foreign source income or foreign expenditure in their return of income for the previous tax year, they may choose to allocate the foreign source income or the foreign expenditure to the income year referred to in subsection (1)﻿(c).
+**(2)** If the person has not already included the foreign source income or foreign expenditure in their return of income for the previous tax year, they may choose to allocate the foreign source income or the foreign expenditure to the income year referred to in subsection (1)(c).
 
 **How election made**
 
-**(3)** The person makes the election by including the foreign source income or foreign expenditure in their return of income for the income year referred to in subsection (1)﻿(c).
+**(3)** The person makes the election by including the foreign source income or foreign expenditure in their return of income for the income year referred to in subsection (1)(c).
 
 **What election applies to**
 
@@ -50,11 +50,11 @@ compilation_date: 2026-06-06
 
 **Timing of income**
 
-**(5)** The foreign source income and foreign expenditure to which the election applies is allocated to the income year referred to in subsection (1)﻿(c).
+**(5)** The foreign source income and foreign expenditure to which the election applies is allocated to the income year referred to in subsection (1)(c).
 
 **Election treated as continuing**
 
-**(6)** An election made by a person under subsection (2) applies for the income year referred to in subsection (1)﻿(c) and all later income years, unless—
+**(6)** An election made by a person under subsection (2) applies for the income year referred to in subsection (1)(c) and all later income years, unless—
 
 - (a) the person seeks the Commissioner's agreement to revoke the election, and the Commissioner notifies them that they may revoke the election; or
 
@@ -62,11 +62,11 @@ compilation_date: 2026-06-06
 
 **Net income of more than $100,000**
 
-**(7)** If subsection (6)﻿(b) applies,—
+**(7)** If subsection (6)(b) applies,—
 
-- (a) foreign source income and foreign expenditure is allocated to the income year referred to in subsection (1)﻿(c) only if it was derived or incurred in that year; and
+- (a) foreign source income and foreign expenditure is allocated to the income year referred to in subsection (1)(c) only if it was derived or incurred in that year; and
 
-- (b) foreign source income and foreign expenditure to which the election would have applied if subsection (6)﻿(b) had not existed is allocated to the previous income year; and
+- (b) foreign source income and foreign expenditure to which the election would have applied if subsection (6)(b) had not existed is allocated to the previous income year; and
 
 - (c) if necessary, the previous tax year's return is amended.
 
@@ -88,7 +88,7 @@ compilation_date: 2026-06-06
 
 - (b) if it allocates foreign source income derived or foreign expenditure incurred while the person is resident in New Zealand to a period after the person has ceased to be resident in New Zealand,—
 
-  - (i) the foreign source income is assessable income in the income year in which the foreign source income is allocated under this section, despite section BD 1(5)﻿(c) (Income, exempt income, excluded income, non-residents' foreign-sourced income, and assessable income); and
+  - (i) the foreign source income is assessable income in the income year in which the foreign source income is allocated under this section, despite section BD 1(5)(c) (Income, exempt income, excluded income, non-residents' foreign-sourced income, and assessable income); and
 
   - (ii) the foreign expenditure is allowed as a deduction in the income year to which the foreign expenditure is allocated under this section.
 

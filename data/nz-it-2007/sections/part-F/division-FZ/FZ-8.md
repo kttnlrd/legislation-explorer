@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 **(2)** An excess debt entity meets the requirements of this subsection if, using the method of calculating debt percentages as amended by the provisions referred to in subsection (1),—
 
-- (a) the excess debt entity is a company described in section FE 2(1)﻿(cb) (When this subpart applies) or is controlled by a group of persons that act in concert and are each described in section FE 2(a) to (db); and
+- (a) the excess debt entity is a company described in section FE 2(1)(cb) (When this subpart applies) or is controlled by a group of persons that act in concert and are each described in section FE 2(a) to (db); and
 
 - (b) the debt percentage of the excess debt entity's New Zealand group is greater than 60% on the date given by subsection (5) (the transition date); and
 

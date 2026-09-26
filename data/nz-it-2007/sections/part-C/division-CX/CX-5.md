@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(4)** Subsection (3) does not apply to interest, dividends, or an allowance under subsection (2)﻿(b).
+**(4)** Subsection (3) does not apply to interest, dividends, or an allowance under subsection (2)(b).
 
 *Defined in this Act: dividend, employee, employer, employment, exempt income, fringe benefit, interest, pay*
 

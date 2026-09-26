@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Definition of item in formula**
 
-**(5)** In the formula in subsection (4), current purchase price has the same meaning as in subsection (3)﻿(b).
+**(5)** In the formula in subsection (4), current purchase price has the same meaning as in subsection (3)(b).
 
 **Calculation of amount**
 
@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **(7)** In the formula in subsection (6),—
 
-- (a) current purchase price has the same meaning as in subsection (3)﻿(b):
+- (a) current purchase price has the same meaning as in subsection (3)(b):
 
 - (b) security discharge amount is—
 

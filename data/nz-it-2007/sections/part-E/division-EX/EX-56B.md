@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **Disposal proceeds**
 
-**(6)** For the purposes of subsections (5)﻿(a) and (11)﻿(a), the disposal proceeds is,—
+**(6)** For the purposes of subsections (5)(a) and (11)(a), the disposal proceeds is,—
 
 - (a) if the person has disposed of the interest during the income year, the amount received by the person from disposing of the interest, unless section GC 4 (Disposals and acquisitions of FIF attributing interests) applies; or
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Foreign accruals**
 
-**(7)** For the purpose of subsection (5)﻿(c), the foreign accruals for an interest for a period the person held the interest as a non-resident or a New Zealand resident who is treated as a non-resident under a double tax agreement or is a transitional resident is,—
+**(7)** For the purpose of subsection (5)(c), the foreign accruals for an interest for a period the person held the interest as a non-resident or a New Zealand resident who is treated as a non-resident under a double tax agreement or is a transitional resident is,—
 
 - (a) if the period is the period in which the person acquired the interest before first becoming a New Zealand resident who is not treated as a non-resident under a double tax agreement and is not a transitional resident (a RAM resident), the market value of the interest on the date (the first residence date) the person first becomes a RAM resident less the cost of the interest; or
 
@@ -128,7 +128,7 @@ compilation_date: 2026-06-06
 
 **(18)** For the purposes of subsections (2) and (3) and a person who is an extended RAM taxpayer, if, in the absence of this subsection, the person would have an amount of FIF income or loss under subsection (2) or (3) from deriving a dividend from, or disposing of, the interest,—
 
-- (a) the person is only treated as having derived a dividend from, or disposed of, the interest if the laws of the country or territory outside New Zealand in which the person is liable to tax in accordance with section EX 46B(10)﻿(a)﻿(iii) treats the person as having derived a dividend from, or disposed of, the interest; and
+- (a) the person is only treated as having derived a dividend from, or disposed of, the interest if the laws of the country or territory outside New Zealand in which the person is liable to tax in accordance with section EX 46B(10)(a)(iii) treats the person as having derived a dividend from, or disposed of, the interest; and
 
 - (b) the laws of that other country or territory are applied to determine whether the person has derived a dividend from, or disposed of, the interest.
 

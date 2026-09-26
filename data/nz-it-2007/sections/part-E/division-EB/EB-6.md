@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Valuation at cost**
 
-**(1)** A person may determine the value of their closing stock at cost. If the person chooses this method, they must include and allocate costs under generally accepted accounting practice or as described in subsection (1B)﻿(b).
+**(1)** A person may determine the value of their closing stock at cost. If the person chooses this method, they must include and allocate costs under generally accepted accounting practice or as described in subsection (1B)(b).
 
 **Valuation at cost: agricultural produce**
 

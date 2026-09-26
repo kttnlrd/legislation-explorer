@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (b) the person as trustee—
 
-  - (i) meets the requirements of section HC 25(2)﻿(a) (Foreign-sourced amounts: non-resident trustees) for the derivation of assessable income from a foreign-sourced amount; and
+  - (i) meets the requirements of section HC 25(2)(a) (Foreign-sourced amounts: non-resident trustees) for the derivation of assessable income from a foreign-sourced amount; and
 
   - (ii) meets the requirements of neither of the exceptions, to section HC 25(2), in section HC 25(3) and (4).
 

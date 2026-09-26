@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)** This section applies when a mineral miner—
 
-- (a) incurs expenditure described in section DU 6(1)﻿(a) on or in relation to their mining operations or associated mining operations in a mining permit area; and
+- (a) incurs expenditure described in section DU 6(1)(a) on or in relation to their mining operations or associated mining operations in a mining permit area; and
 
 - (b) starts to use the permit area to derive income; and
 

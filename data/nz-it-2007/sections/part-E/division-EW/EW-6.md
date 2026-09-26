@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Binding rulings**
 
-**(4)** The Commissioner may make a binding ruling under section 91CC(1)﻿(a) of the Tax Administration Act 1994 on how a taxation law applies, or would apply, to a person and an arrangement on whether an amount is solely attributable to an excepted financial arrangement.
+**(4)** The Commissioner may make a binding ruling under section 91CC(1)(a) of the Tax Administration Act 1994 on how a taxation law applies, or would apply, to a person and an arrangement on whether an amount is solely attributable to an excepted financial arrangement.
 
 *Defined in this Act: amount, binding ruling, excepted financial arrangement, financial arrangement, financial arrangements rules, income*
 

@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) the member superannuation fund chooses to deal with the surplus expenditure under this section, rather than deducting it itself; and
 
-- (c) the member superannuation fund has funds invested in the master superannuation fund at the time referred to in section DV 2(1)﻿(b) and while its election under section DV 2(3) continues and while it deals with the surplus expenditure under this section.
+- (c) the member superannuation fund has funds invested in the master superannuation fund at the time referred to in section DV 2(1)(b) and while its election under section DV 2(3) continues and while it deals with the surplus expenditure under this section.
 
 **What this section does not apply to**
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Deduction allowed to master superannuation fund**
 
-**(5)** Expenditure treated under subsection (3)﻿(c)﻿(i) as incurred by the master superannuation fund in deriving income is allowed as a deduction in the income year in which it is so treated. The amount of the deduction is limited by subsection (6).
+**(5)** Expenditure treated under subsection (3)(c)(i) as incurred by the master superannuation fund in deriving income is allowed as a deduction in the income year in which it is so treated. The amount of the deduction is limited by subsection (6).
 
 **Amount of deduction**
 

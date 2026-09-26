@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)** This section applies for a person for the purposes of section LY 5(2)﻿(a) if the person has an amount of expenditure or loss (contracted research and development expenditure) for a research and development contractor to perform research and development activities for them.
+**(1)** This section applies for a person for the purposes of section LY 5(2)(a) if the person has an amount of expenditure or loss (contracted research and development expenditure) for a research and development contractor to perform research and development activities for them.
 
 **Calculation of eligible research and development expenditure: contracted research and development expenditure**
 
-**(2)** For the purposes of section LY 5(2)﻿(a), eligible research and development expenditure includes an amount of contracted research and development expenditure, described in subsection (1), to the extent of the amount calculated using the formula— contract amount − ineligible expenditure.
+**(2)** For the purposes of section LY 5(2)(a), eligible research and development expenditure includes an amount of contracted research and development expenditure, described in subsection (1), to the extent of the amount calculated using the formula— contract amount − ineligible expenditure.
 
 **Definition of items in formula**
 

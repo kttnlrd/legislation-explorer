@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)** For the purposes of the calculation of a minimum family tax credit, employment in the definition of full-time earner, means the activity of a person that gives rise, or will give rise, to an entitlement to a PAYE income payment other than—
 
-- (a) a payment of any of the kinds referred to in section RD 5(3) and (6)﻿(b), (bb), (bc), (bd), and (c) (Salary or wages):
+- (a) a payment of any of the kinds referred to in section RD 5(3) and (6)(b), (bb), (bc), (bd), and (c) (Salary or wages):
 
 - (b) a schedular payment that is a contract payment for a contract activity or service of a non-resident contractor:
 

@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 - (c) is not required by section 19 of the former Financial Reporting Act to file its accounts with the Registrar of Companies; and
 
-- (d) is not a large company under section 19A(1)﻿(b) of the former Financial Reporting Act; and
+- (d) is not a large company under section 19A(1)(b) of the former Financial Reporting Act; and
 
 - (e) does not have accounts that are prepared and audited under generally accepted accounting practice with IFRS; and
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 - (c) is not required by section 19 of the former Financial Reporting Act to file its accounts with the Registrar of Companies; and
 
-- (d) is not a large company under section 19A(1)﻿(b) of the former Financial Reporting Act; and
+- (d) is not a large company under section 19A(1)(b) of the former Financial Reporting Act; and
 
 - (e) does not have accounts that are prepared and audited under generally accepted accounting practice with IFRS; and
 

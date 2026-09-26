@@ -48,15 +48,15 @@ compilation_date: 2026-06-06
 
 **Control over activities**
 
-**(4)** For the purposes of subsection (2)﻿(c), for an income year, a person is treated as having some control over the activities, and as being able to direct or divert amounts from the activities if, in the tax year, they are described in section CW 42(5)﻿(a) and (b) and (6) (Charities: business income).
+**(4)** For the purposes of subsection (2)(c), for an income year, a person is treated as having some control over the activities, and as being able to direct or divert amounts from the activities if, in the tax year, they are described in section CW 42(5)(a) and (b) and (6) (Charities: business income).
 
 **No control**
 
-**(5)** For the purposes of subsection (2)﻿(c), a person described in section CW 42(7)﻿(a) and (b) is not treated as having some control merely because of the factors in section CW 42(7)﻿(a) and (b).
+**(5)** For the purposes of subsection (2)(c), a person described in section CW 42(7)(a) and (b) is not treated as having some control merely because of the factors in section CW 42(7)(a) and (b).
 
 **Benefit or advantage**
 
-**(6)** For the purposes of subsection (2)﻿(c), a benefit or advantage to a person includes a benefit or advantage included under section CW 42(8).
+**(6)** For the purposes of subsection (2)(c), a benefit or advantage to a person includes a benefit or advantage included under section CW 42(8).
 
 *Defined in this Act: amount, charitable purpose, community housing entity, exempt income, income, income year, tax charity*
 

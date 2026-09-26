@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Notifying Commissioner**
 
-**(1)** In sections IP 4(2)﻿(d) and IP 5(2)﻿(d), company A must notify the Commissioner by its extended return date that it intends to treat a tax loss or loss balance in the way described in the relevant section.
+**(1)** In sections IP 4(2)(d) and IP 5(2)(d), company A must notify the Commissioner by its extended return date that it intends to treat a tax loss or loss balance in the way described in the relevant section.
 
 **Meaning of extended return date**
 

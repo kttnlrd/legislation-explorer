@@ -28,11 +28,11 @@ compilation_date: 2026-06-06
 
 **Partly representative logbook**
 
-**(3)** If subsection (2)﻿(a) applies, the Commissioner may determine a date on which the application of the first logbook ended, and the further logbook applies to a new logbook term that starts on the day after that date.
+**(3)** If subsection (2)(a) applies, the Commissioner may determine a date on which the application of the first logbook ended, and the further logbook applies to a new logbook term that starts on the day after that date.
 
 **Non-representative logbook**
 
-**(4)** If subsection (2)﻿(b) applies, the Commissioner may direct that the further logbook applies for the logbook term to which the first logbook applied.
+**(4)** If subsection (2)(b) applies, the Commissioner may direct that the further logbook applies for the logbook term to which the first logbook applied.
 
 *Defined in this Act: business use, Commissioner, income year, logbook term, motor vehicle*
 

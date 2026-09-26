@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Table references**
 
-**(3)** The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 11 (overpayment of income tax). The imputation debit in subsection (2)﻿(a) is referred to in table O2: imputation debits, row 14 (debit for loss of shareholder continuity).
+**(3)** The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 11 (overpayment of income tax). The imputation debit in subsection (2)(a) is referred to in table O2: imputation debits, row 14 (debit for loss of shareholder continuity).
 
 **Debit date**
 

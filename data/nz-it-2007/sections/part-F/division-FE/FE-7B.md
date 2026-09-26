@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)** This section applies for a project to an excess debt entity that—
 
-- (a) is a person meeting the requirements of section FE 2(1)﻿(b), (c), (e), or (f); and
+- (a) is a person meeting the requirements of section FE 2(1)(b), (c), (e), or (f); and
 
 - (b) has an amount of public project debt for the project; and
 

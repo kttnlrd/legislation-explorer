@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Net losses**
 
-**(2)** The net loss referred to in section LT 1(1)﻿(c) for the petroleum miner is the net loss the petroleum miner would have if section DT 1A(4) (Ring-fenced allocations) did not apply.
+**(2)** The net loss referred to in section LT 1(1)(c) for the petroleum miner is the net loss the petroleum miner would have if section DT 1A(4) (Ring-fenced allocations) did not apply.
 
 **Maximum amounts**
 

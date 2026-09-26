@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
   - (i) fixed-rate foreign equity; and
 
-  - (ii) fixed-rate share, except for the purposes of subsection (1)﻿(c).
+  - (ii) fixed-rate share, except for the purposes of subsection (1)(c).
 
 **Meaning of debt security**
 

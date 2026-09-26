@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 - (a) the amount of the difference for method 1; and
 
-- (b) the shortfall referred to in subsection (4)﻿(d) for method 2.
+- (b) the shortfall referred to in subsection (4)(d) for method 2.
 
 **Certain causes of shortfalls**
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **(7)** For the purposes of this section,—
 
-- (a) the date of notional liquidation is the date chosen by the trust or fund falling in the period referred to in subsection (1)﻿(a):
+- (a) the date of notional liquidation is the date chosen by the trust or fund falling in the period referred to in subsection (1)(a):
 
 - (b) a calculation under this section must be undertaken in a manner consistent with the preparation of financial statements and unit pricing calculations, based on an orderly realisation of assets in the ordinary course of business and demonstrable market valuations.
 

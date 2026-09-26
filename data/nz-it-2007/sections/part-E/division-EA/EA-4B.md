@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
   - (i) the date on which the company that issued or transferred the shares under the employee share scheme referred to in subsection (1) becomes a listed company; and
 
-  - (ii) the date the employee share scheme beneficiary sells or transfers the shares to a person who is not associated with a beneficiary described in section CE 7(a)﻿(i) or (ii) (Meaning of employee share scheme); and
+  - (ii) the date the employee share scheme beneficiary sells or transfers the shares to a person who is not associated with a beneficiary described in section CE 7(a)(i) or (ii) (Meaning of employee share scheme); and
 
   - (iii) the date the shares are cancelled, including by the company ceasing to exist:
 

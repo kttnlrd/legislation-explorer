@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)** The income referred to in subsection (1)﻿(a) is—
+**(2)** The income referred to in subsection (1)(a) is—
 
 - (a) a PAYE income payment that is—
 
@@ -44,9 +44,9 @@ compilation_date: 2026-06-06
 
 - (a) a payment referred to in paragraphs (a) to (c) of the definition of accident compensation earnings-related payment:
 
-- (b) a PAYE income payment referred to in section RD 5(6)﻿(a) (Salary or wages), other than a parental leave payment or preterm baby payment referred to in section CF 1 (Benefits, pensions, compensation, and government grants):
+- (b) a PAYE income payment referred to in section RD 5(6)(a) (Salary or wages), other than a parental leave payment or preterm baby payment referred to in section CF 1 (Benefits, pensions, compensation, and government grants):
 
-- (c) a PAYE income payment referred to in section RD 5(6)﻿(bb), (bc), or (bd):
+- (c) a PAYE income payment referred to in section RD 5(6)(bb), (bc), or (bd):
 
 - (d) a schedular payment that is a contract payment for a contract activity or service of a non-resident contractor:
 

@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Loss balances carried forward**
 
-**(2)** If the person has a loss balance carried forward under section IA 3(4) to the tax year, the amount is included in their tax loss for the tax year to the extent to which it is not subtracted under section IA 4(1)﻿(a) from their net income for the tax year.
+**(2)** If the person has a loss balance carried forward under section IA 3(4) to the tax year, the amount is included in their tax loss for the tax year to the extent to which it is not subtracted under section IA 4(1)(a) from their net income for the tax year.
 
 **Net losses**
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 - (a) a member fund that incurs excess expenditure:
 
-  - (i) the amount that is included in the tax loss under section DV 5(4)﻿(b) (Investment funds: transfer of expenditure to master funds); and
+  - (i) the amount that is included in the tax loss under section DV 5(4)(b) (Investment funds: transfer of expenditure to master funds); and
 
   - (ii) the amount that the fund chooses under section DV 7(2) (Carry forward of expenditure) to treat as an amount added to the tax loss under this section:
 
@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 - (f) a person who has an unused foreign investment fund (FIF) net loss for the tax year: the amount referred to in section IQ 3(3) (Ring-fencing cap on FIF net losses) for the tax year:
 
-- (g) a person with an unused specified activity net loss: the amount of the unused specified activity net loss to the extent to which the amount has not been subtracted under section IA 4(1)﻿(a) from net income for a tax year:
+- (g) a person with an unused specified activity net loss: the amount of the unused specified activity net loss to the extent to which the amount has not been subtracted under section IA 4(1)(a) from net income for a tax year:
 
 - (h) a person who has a mismatch amount under section FH 8 (Expenditure or loss through hybrid entity or foreign deducting branch producing double deduction without double income) that is not set off under section FH 12 (Offset of mismatch amounts against surplus assessable income), the amount given by section FH 12(8) for the tax year.
 

@@ -16,17 +16,17 @@ compilation_date: 2026-06-06
 
 **(2)** The amount of the item apportioned funding income for the CFC is the sum of—
 
-- (a) an amount calculated using the formula in section EX 20B(4B)﻿(b) (Net attributable CFC income or loss) with—
+- (a) an amount calculated using the formula in section EX 20B(4B)(b) (Net attributable CFC income or loss) with—
 
   - (i) a value for the item funding income that is the amount of funding income relating to the old funding arrangements of the CFC; and
 
   - (ii) a value for the item asset fraction that is the amount of the item cost fraction calculated under section EX 20D(10):
 
-- (b) an amount calculated using the formula in section EX 20B(4B)﻿(b) with a value for the item funding income that is the amount of funding income relating to financial arrangements of the CFC that are not old funding arrangements.
+- (b) an amount calculated using the formula in section EX 20B(4B)(b) with a value for the item funding income that is the amount of funding income relating to financial arrangements of the CFC that are not old funding arrangements.
 
 **Relationship with section EX 20B**
 
-**(3)** This section overrides section EX 20B(4B)﻿(b).
+**(3)** This section overrides section EX 20B(4B)(b).
 
 *Defined in this Act: CFC, financial arrangement*
 

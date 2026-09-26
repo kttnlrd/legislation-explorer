@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(1)** An adjustment taken into account under section 20(3)﻿(e) of the Goods and Services Tax Act 1985 relating to the application of goods and services is income of a person.
+**(1)** An adjustment taken into account under section 20(3)(e) of the Goods and Services Tax Act 1985 relating to the application of goods and services is income of a person.
 
 **Exclusion**
 

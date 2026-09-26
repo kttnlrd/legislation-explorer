@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Amount of credit**
 
-**(1)** A person described in section LJ 1(2)﻿(a) has a tax credit for a tax year for an amount of foreign income tax paid on a segment of foreign-sourced income, determined as if the segment were the net income of the person for the tax year. The amount of the New Zealand tax payable is calculated under section LJ 5.
+**(1)** A person described in section LJ 1(2)(a) has a tax credit for a tax year for an amount of foreign income tax paid on a segment of foreign-sourced income, determined as if the segment were the net income of the person for the tax year. The amount of the New Zealand tax payable is calculated under section LJ 5.
 
 **Limitation on amount of credit**
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **When person both resident in New Zealand and another country**
 
-**(4)** A person described in section LJ 1(2)﻿(a) who has, because they are a citizen or resident of, or are domiciled in, a foreign country, paid foreign income tax on their assessable income, has a credit under subsection (1). However, the amount of the credit is limited to the amount of foreign income tax that would have been paid in the foreign country if the person were treated as not a citizen or resident of, or domiciled in, that foreign country.
+**(4)** A person described in section LJ 1(2)(a) who has, because they are a citizen or resident of, or are domiciled in, a foreign country, paid foreign income tax on their assessable income, has a credit under subsection (1). However, the amount of the credit is limited to the amount of foreign income tax that would have been paid in the foreign country if the person were treated as not a citizen or resident of, or domiciled in, that foreign country.
 
 **Multi-rate PIEs and their investors**
 
@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Tax credit: attributed income from personal services**
 
-**(9)** Despite section LJ 1(2)﻿(a), the working person has a tax credit under this subpart for foreign income tax paid on the attributed amount by the associated entity or withheld in relation to the attributed amount. The calculation of the maximum amount of the tax credit is made under section LJ 5(2), modified so that the item segment in the formula is the attributed amount for the income year.
+**(9)** Despite section LJ 1(2)(a), the working person has a tax credit under this subpart for foreign income tax paid on the attributed amount by the associated entity or withheld in relation to the attributed amount. The calculation of the maximum amount of the tax credit is made under section LJ 5(2), modified so that the item segment in the formula is the attributed amount for the income year.
 
 **No tax credit for associated entity**
 

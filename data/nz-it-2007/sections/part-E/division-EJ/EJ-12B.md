@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Reserve depletion method expense allocation rule**
 
-**(3)** For the purposes of section DT 5(2)﻿(b) (Petroleum development expenditure), the deduction allocated to an income year for the petroleum development expenditure that relates to a petroleum mining development in the relevant permit area is the amount calculated using the following formula, if the amount is positive: (reserve expenditure − previous expenditure)× reserve depletion for the year ÷ probable reserves.
+**(3)** For the purposes of section DT 5(2)(b) (Petroleum development expenditure), the deduction allocated to an income year for the petroleum development expenditure that relates to a petroleum mining development in the relevant permit area is the amount calculated using the following formula, if the amount is positive: (reserve expenditure − previous expenditure)× reserve depletion for the year ÷ probable reserves.
 
 **Definition of items in formula**
 

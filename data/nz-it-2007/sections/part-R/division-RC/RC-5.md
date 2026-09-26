@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Non-working days**
 
-**(3B)**  For the purposes of subsection (3)﻿(c), if the relevant instalment date falls on a day that is not a working day, a return for the preceding tax year provided on the first working day after that instalment date is deemed to have been provided on the instalment date.
+**(3B)**  For the purposes of subsection (3)(c), if the relevant instalment date falls on a day that is not a working day, a return for the preceding tax year provided on the first working day after that instalment date is deemed to have been provided on the instalment date.
 
 **Relationships and modification of standard method**
 
@@ -84,7 +84,7 @@ compilation_date: 2026-06-06
 
 **Commissioner's determination**
 
-**(7)** If the Commissioner determines a person's provisional tax liability under section 119 of the Tax Administration Act 1994, the amount or liability is that last determined by the Commissioner and notified to the person at least 30 days before the instalment date. The 30-day requirement does not apply in a case to which section 119(1)﻿(d) of that Act applies (which relates to an estimate of residual income tax that is not fair and reasonable).
+**(7)** If the Commissioner determines a person's provisional tax liability under section 119 of the Tax Administration Act 1994, the amount or liability is that last determined by the Commissioner and notified to the person at least 30 days before the instalment date. The 30-day requirement does not apply in a case to which section 119(1)(d) of that Act applies (which relates to an estimate of residual income tax that is not fair and reasonable).
 
 **Life insurance business**
 

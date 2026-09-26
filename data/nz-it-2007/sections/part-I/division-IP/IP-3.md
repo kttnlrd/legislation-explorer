@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **Limit on tax loss components carried forward to year A**
 
-**(3)** The total tax loss components carried forward under subsection (2) must be no more than the amount calculated under subsection (2)﻿(b) and (c), although the amount may be increased if section IP 5 applies.
+**(3)** The total tax loss components carried forward under subsection (2) must be no more than the amount calculated under subsection (2)(b) and (c), although the amount may be increased if section IP 5 applies.
 
 **Tax loss components of year of breach**
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **(5)** The amount of the tax loss component carried forward under subsection (4) must be the least of—
 
-- (a) the part-year net loss calculated under subsection (4)﻿(b):
+- (a) the part-year net loss calculated under subsection (4)(b):
 
 - (b) if the company has net income for year A, zero:
 

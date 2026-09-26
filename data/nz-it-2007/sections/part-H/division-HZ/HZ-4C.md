@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 **(2)** For the purposes of applying sections HB 11 and HB 12 (which relate to look-through company deduction rules) to a person with an effective look-through interest for the look-through company for the transitional income year and later years, all of the persons who hold owner's interests must choose 1 of the 2 following methods for calculating their basis under section HB 11(3):
 
-- (a) for calculating amounts under section HB 11(5)﻿(a) for shares that were held at the end of the income year (the last year) before the transitional income year, they may choose to use the market value or the accounting book value of those shares as at the end of the last year. Calculations under section HB 11(7)﻿(b) and (8)﻿(b) are changed to account for the valuation under this paragraph; or
+- (a) for calculating amounts under section HB 11(5)(a) for shares that were held at the end of the income year (the last year) before the transitional income year, they may choose to use the market value or the accounting book value of those shares as at the end of the last year. Calculations under section HB 11(7)(b) and (8)(b) are changed to account for the valuation under this paragraph; or
 
 - (b) they may choose to apply section HB 11(3) as if the qualifying company had always been a look-through company and all relevant rules relating to look-through companies had always existed, applying those rules with any necessary modifications.
 

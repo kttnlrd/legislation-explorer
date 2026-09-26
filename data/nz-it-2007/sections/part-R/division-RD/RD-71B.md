@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **When person exempt**
 
-**(3)** Subsection (2)﻿(b) does not apply if the employee is exempt from paying the amount of tax.
+**(3)** Subsection (2)(b) does not apply if the employee is exempt from paying the amount of tax.
 
 *Defined in this Act: amount of tax, Commissioner, cross-border employee, employer's superannuation cash contribution, foreign superannuation scheme, New Zealand, pay*
 

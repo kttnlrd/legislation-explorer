@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) a mineral miner incurs an amount of mining exploration expenditure in relation to their mining operations or associated mining operations; and
 
-- (b) the mineral miner is allowed a deduction for the expenditure for an income year under section DU 1(1)﻿(b) (Mining expenditure: prospecting and exploration expenditure); and
+- (b) the mineral miner is allowed a deduction for the expenditure for an income year under section DU 1(1)(b) (Mining expenditure: prospecting and exploration expenditure); and
 
 - (c) the income year is later than the 2013–14 income year; and
 
@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Income**
 
-**(2)** The mineral miner is treated as deriving income to the extent of the amount of expenditure that resulted in, produced, or generated the asset. However, the amount must not be more than the amount of the deduction referred to in subsection (1)﻿(b).
+**(2)** The mineral miner is treated as deriving income to the extent of the amount of expenditure that resulted in, produced, or generated the asset. However, the amount must not be more than the amount of the deduction referred to in subsection (1)(b).
 
 **Timing**
 

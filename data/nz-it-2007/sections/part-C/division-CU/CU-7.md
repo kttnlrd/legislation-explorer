@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Meaning of initial treatment**
 
-**(3)** For the purposes of subsection (2)﻿(b)﻿(ii), initial treatment—
+**(3)** For the purposes of subsection (2)(b)(ii), initial treatment—
 
 - (a) means—
 

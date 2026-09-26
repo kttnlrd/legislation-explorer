@@ -52,7 +52,7 @@ compilation_date: 2026-06-06
 
 **What are first year adjustments?**
 
-**(6)** An adjustment is made for the first year in which a lender derives non-resident financial arrangement income. The lender is treated as having derived an additional amount that is sufficient to reverse the deferral described in subsection (4)﻿(c), see section RF 12F.
+**(6)** An adjustment is made for the first year in which a lender derives non-resident financial arrangement income. The lender is treated as having derived an additional amount that is sufficient to reverse the deferral described in subsection (4)(c), see section RF 12F.
 
 **How is the income taxed?**
 

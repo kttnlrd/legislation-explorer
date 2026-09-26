@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 A foreign superannuation withdrawal is exempt income of a person if the person—
 
-- (a) meets the requirements of section CF 3(4)﻿(a) (Withdrawals from foreign superannuation scheme); and
+- (a) meets the requirements of section CF 3(4)(a) (Withdrawals from foreign superannuation scheme); and
 
 - (b) derives the foreign superannuation withdrawal in the exemption period referred to in section CF 3(6) for the person.
 

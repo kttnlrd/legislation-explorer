@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 - (c) Determination G27: Swaps:
 
-- (d) a determination made by the Commissioner under section 90AC(1)﻿(bb) of the Tax Administration Act 1994 or a binding ruling made under section 91CC(1)﻿(b) of that Act:
+- (d) a determination made by the Commissioner under section 90AC(1)(bb) of the Tax Administration Act 1994 or a binding ruling made under section 91CC(1)(b) of that Act:
 
 - (e) a method other than those set out in paragraphs (aa) to (d) if the alternative—
 
@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 **Succeeding determinations**
 
-**(4)** For the purposes of this section, the determinations set out in subsection (2)﻿(a) to (c) include a determination that succeeds the determination.
+**(4)** For the purposes of this section, the determinations set out in subsection (2)(a) to (c) include a determination that succeeds the determination.
 
 *Defined in this Act: amount, binding ruling, Commissioner, company, derivative instrument, financial arrangement, financial arrangements rules, group of companies, IFRS, income year, New Zealand, notify, pay, return of income*
 

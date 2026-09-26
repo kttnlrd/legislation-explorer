@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Calculation of remuneration for purposes of section**
 
-**(3B)**  For the purposes of subsection (3)﻿(a), the calculation of the amount of the item remuneration excludes the value of accommodation described in subsection (1) that is provided to the person.
+**(3B)**  For the purposes of subsection (3)(a), the calculation of the amount of the item remuneration excludes the value of accommodation described in subsection (1) that is provided to the person.
 
 **Adjustments**
 
-**(4)** An adjustment referred to in subsection (3)﻿(b) is as follows:
+**(4)** An adjustment referred to in subsection (3)(b) is as follows:
 
 - (a) if the person to whom the accommodation is provided uses part of the accommodation wholly or mainly for work purposes related to their duties as a minister, the amount is apportioned between that business use and private use:
 

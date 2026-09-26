@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 - (a) is entered into on or after 20 May 1999 and before 20 June 2007; and
 
-- (b) is an arrangement, or part of an arrangement that, on 20 June 2007, meets the requirements of paragraph (c)﻿(i) to (iii) of the definition of finance lease; and
+- (b) is an arrangement, or part of an arrangement that, on 20 June 2007, meets the requirements of paragraph (c)(i) to (iii) of the definition of finance lease; and
 
 - (c) has a term of the lease ending after the end of the income year in which 20 June 2007 falls (the adjustment year); and
 

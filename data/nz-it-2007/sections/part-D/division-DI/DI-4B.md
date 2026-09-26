@@ -18,7 +18,7 @@ For the purposes of this subpart,—
 
 - (c) all mining development expenditure incurred by a person is treated as giving rise to an asset acquired and owned by the person:
 
-- (d) an alteration, extension, or repair of an asset of the type in any of section DI 4(a)﻿(i) to (vii) by a person is treated as an asset the person acquires and owns that is separate from the asset it alters, extends, or repairs.
+- (d) an alteration, extension, or repair of an asset of the type in any of section DI 4(a)(i) to (vii) by a person is treated as an asset the person acquires and owns that is separate from the asset it alters, extends, or repairs.
 
 *Defined in this Act: deduction, mining development expenditure, petroleum development expenditure*
 

@@ -30,15 +30,15 @@ compilation_date: 2026-06-06
 
 **(2)** For the purposes of determining a net amount under section HM 35(2) for an attribution period, a multi-rate PIE may take account of an amount of future income or future expenditure or loss that is—
 
-- (a) for future income, an amount that, when derived, would be assessable income under section HM 35(3)﻿(a):
+- (a) for future income, an amount that, when derived, would be assessable income under section HM 35(3)(a):
 
 - (b) for future expenditure or loss, other than expenditure described in paragraph (c),—
 
   - (i) an expense likely to be incurred by the PIE in the tax year in which the attribution period falls, or within 93 days after the end of the tax year; and
 
-  - (ii) an amount that, when incurred, would be a deduction under section HM 35(3)﻿(b).
+  - (ii) an amount that, when incurred, would be a deduction under section HM 35(3)(b).
 
-- (c) for future expenditure incurred in acquiring an identical share under a returning share transfer, the amount that, when incurred, would be a deduction under section HM 35(3)﻿(b).
+- (c) for future expenditure incurred in acquiring an identical share under a returning share transfer, the amount that, when incurred, would be a deduction under section HM 35(3)(b).
 
 **Reasonable estimation**
 
@@ -50,7 +50,7 @@ compilation_date: 2026-06-06
 
 **Credit impairment provisions**
 
-**(4)** A multi-rate PIE may take account of a credit impairment provision under this section but only if the provision is counted as a credit impairment provision under IFRS 9. However, the time limit set out in subsection (2)﻿(b)﻿(i) does not apply in relation to a credit impairment provision.
+**(4)** A multi-rate PIE may take account of a credit impairment provision under this section but only if the provision is counted as a credit impairment provision under IFRS 9. However, the time limit set out in subsection (2)(b)(i) does not apply in relation to a credit impairment provision.
 
 *Defined in this Act: amount, attribution period, deduction, identical share, IFRS 9, income, investor interest, multi-rate PIE, returning share transfer, tax year*
 

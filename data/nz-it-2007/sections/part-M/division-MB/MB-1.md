@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **(2)** For the purposes of subsection (1), an amount derived by the person in the income year is not treated as exempt income if it is—
 
-- (a) an amount referred to in section CW 28(2)﻿(a) or CW 32 (which relate to overseas pensions and maintenance payments):
+- (a) an amount referred to in section CW 28(2)(a) or CW 32 (which relate to overseas pensions and maintenance payments):
 
 - (b) an amount of salary or wages that is exempt from income tax under an Act, or under a regulation or Order in Council made under an Act, that is listed in schedule 38 (Acts exempting income from tax: income included in family scheme income).
 

@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Exception for some group members and financial arrangements**
 
-**(1B)**  A person who is a member of a group of companies and has notified an election under subsection (1)﻿(d) is not required under this section to use the modified fair value method for a financial arrangement if—
+**(1B)**  A person who is a member of a group of companies and has notified an election under subsection (1)(d) is not required under this section to use the modified fair value method for a financial arrangement if—
 
 - (a) the person does not have a business of a substantially similar nature to a business of another company in the group; and
 
@@ -68,7 +68,7 @@ compilation_date: 2026-06-06
 
 - (a) the person or the consolidated group allocates an amount to equity, equity reserves, or other comprehensive income under IFRSs for the financial arrangement; and
 
-- (b) a member of the consolidated group, under subsection (2)﻿(b), does not allocate to the income year an amount for a financial arrangement.
+- (b) a member of the consolidated group, under subsection (2)(b), does not allocate to the income year an amount for a financial arrangement.
 
 *Defined in this Act: amount, business, Commissioner, company, derivative instrument, fair value method, financial arrangement, foreign ASAP, group of companies, IFRS, notify, return of income, wholly-owned group*
 

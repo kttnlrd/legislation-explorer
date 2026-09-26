@@ -10,7 +10,7 @@ compilation_date: 2026-06-06
 ---
 # CT 2  Damage to assets
 
-The consideration that a petroleum miner derives for damage to an asset of the kind described in section CT 7(1)﻿(b) or (c) is income of the petroleum miner.
+The consideration that a petroleum miner derives for damage to an asset of the kind described in section CT 7(1)(b) or (c) is income of the petroleum miner.
 
 *Defined in this Act: consideration, income, petroleum miner*
 

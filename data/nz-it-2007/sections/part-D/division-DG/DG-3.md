@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
   - (iii) an aircraft; and
 
-- (b) for an item referred to in paragraph (a)﻿(ii) and (iii), has—
+- (b) for an item referred to in paragraph (a)(ii) and (iii), has—
 
   - (i) a cost to the person of $50,000 or more; or
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Meaning of market value**
 
-**(5)** For the purposes of this subpart, other than subsection (2)﻿(b)﻿(ii), market value means the price at which the asset is provided for use at a particular time or for a particular season—
+**(5)** For the purposes of this subpart, other than subsection (2)(b)(ii), market value means the price at which the asset is provided for use at a particular time or for a particular season—
 
 - (a) in the open market; and
 

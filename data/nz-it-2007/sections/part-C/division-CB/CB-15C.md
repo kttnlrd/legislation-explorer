@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Exclusion from application of some land provisions: kinds of associated persons**
 
-**(1)** Sections CB 9(2), CB 10(2), and CB 11(1)﻿(b)﻿(ii) do not apply to a person (person A) despite the activities of an associated person (person B) if—
+**(1)** Sections CB 9(2), CB 10(2), and CB 11(1)(b)(ii) do not apply to a person (person A) despite the activities of an associated person (person B) if—
 
 - (a) person A is a local authority or—
 
   - (i) a council-controlled organisation that is linked by ownership or control to the local authority:
 
-  - (ii) an entity referred to in section 6(4)﻿(a) to (ca) of the Local Government Act 2002, that is linked by ownership or control to the local authority:
+  - (ii) an entity referred to in section 6(4)(a) to (ca) of the Local Government Act 2002, that is linked by ownership or control to the local authority:
 
   - (iii) an entity that is associated with the local authority other than under section YB 14 (Tripartite relationship); and
 
 - (b) person B is—
 
-  - (i) the local authority or an organisation or entity of a kind referred to in paragraph (a)﻿(i) to (iii):
+  - (i) the local authority or an organisation or entity of a kind referred to in paragraph (a)(i) to (iii):
 
   - (ii) a person that is not associated with person A other than under section YB 14.
 

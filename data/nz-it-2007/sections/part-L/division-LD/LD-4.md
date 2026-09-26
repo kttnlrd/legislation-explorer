@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **(7)** For the purposes of this section, and sections LD 8(1) and 124ZG of the Tax Administration Act 1994, pay, for a person,—
 
-- (a) means an amount referred to in section RD 5(1)﻿(a) or (b)﻿(i) (Salary or wages); and
+- (a) means an amount referred to in section RD 5(1)(a) or (b)(i) (Salary or wages); and
 
 - (b) includes any similar amount earned by an employee in the normal course of their employment.
 

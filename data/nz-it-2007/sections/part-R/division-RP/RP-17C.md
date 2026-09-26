@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Extension of time for tax pooling**
 
-**(1)** This section extends the time within which a person must make a request under section RP 17B(4)﻿(a) and (b).
+**(1)** This section extends the time within which a person must make a request under section RP 17B(4)(a) and (b).
 
 **Criteria for extension of time**
 

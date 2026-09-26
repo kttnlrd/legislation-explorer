@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Amount of deduction**
 
-**(2)** The person is allowed a deduction in an income year for the expenditure described in subsection (1)﻿(a) but only to the extent of an amount equal to the greater of zero and the amount calculated using the formula— expenditure − (consideration − lesser amount).
+**(2)** The person is allowed a deduction in an income year for the expenditure described in subsection (1)(a) but only to the extent of an amount equal to the greater of zero and the amount calculated using the formula— expenditure − (consideration − lesser amount).
 
 **Exclusion**
 
-**(3)** If consideration for the property is derived in an income year, the person's deductions in earlier income years for the expenditure described in subsection (1)﻿(a) are reduced so that the total of those deductions is equal to the greater of zero and the amount calculated using the formula— previous expenditure − consideration.
+**(3)** If consideration for the property is derived in an income year, the person's deductions in earlier income years for the expenditure described in subsection (1)(a) are reduced so that the total of those deductions is equal to the greater of zero and the amount calculated using the formula— previous expenditure − consideration.
 
 **Definition of items in formulas**
 

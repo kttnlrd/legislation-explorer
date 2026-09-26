@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Irrevocable obligation**
 
-**(2)** An employer who has made an irrevocable election described in subsections (1)﻿(a) and (3) must comply with subsection (4)﻿(a) to (c) for—
+**(2)** An employer who has made an irrevocable election described in subsections (1)(a) and (3) must comply with subsection (4)(a) to (c) for—
 
 - (a) the relevant benefit and employee under the scheme:
 
@@ -28,17 +28,17 @@ compilation_date: 2026-06-06
 
 **Irrevocable obligation: form**
 
-**(3)** For the purposes of subsection (1)﻿(a), an employer has irrevocably chosen to withhold and pay tax for a benefit for an employee, if it is a term of the offer of the benefit, or of the scheme under which the benefit is provided, that the employer must withhold and pay tax under this section.
+**(3)** For the purposes of subsection (1)(a), an employer has irrevocably chosen to withhold and pay tax for a benefit for an employee, if it is a term of the offer of the benefit, or of the scheme under which the benefit is provided, that the employer must withhold and pay tax under this section.
 
 **Withholding and paying**
 
-**(4)** For the purposes of subsection (1)﻿(b), an employer chooses to withhold and pay tax for some benefits for some employees by—
+**(4)** For the purposes of subsection (1)(b), an employer chooses to withhold and pay tax for some benefits for some employees by—
 
 - (a) calculating the amounts of tax that must be withheld for the relevant benefits and employees, and paying the amounts to the Commissioner as described in section RD 4(1); and
 
 - (b) including the amounts in the employer's employment income information under subpart 3C of the Tax Administration Act 1994, treating the relevant ESS deferral date as the relevant payday; and
 
-- (c) making the disclosure referred to in paragraph (b) within the time required under section RD 6(3)﻿(a).
+- (c) making the disclosure referred to in paragraph (b) within the time required under section RD 6(3)(a).
 
 *Defined in this Act: amount, amount of tax, Commissioner, employee, employee share scheme, employment income information, ESS deferral date, pay, payday, tax*
 

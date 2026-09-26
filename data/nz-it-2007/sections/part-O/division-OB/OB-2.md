@@ -20,13 +20,13 @@ compilation_date: 2026-06-06
 
 - (a) the company—
 
-  - (i) is a company referred to in section OB 1(2)﻿(a)﻿(iii) or (iv), and (b) to (f); or
+  - (i) is a company referred to in section OB 1(2)(a)(iii) or (iv), and (b) to (f); or
 
   - (ib) is treated as not being resident in Australia under a double tax agreement between New Zealand and Australia; or
 
   - (ii) is treated as resident in a country other than Australia under an agreement between Australia and the other country that would be a double tax agreement if negotiated between New Zealand and that other country; or
 
-- (b) an earlier election has been revoked by the Commissioner under subsection (7)﻿(b), and the company has not shown the Commissioner that it has taken adequate steps to prevent the grounds of revocation occurring again.
+- (b) an earlier election has been revoked by the Commissioner under subsection (7)(b), and the company has not shown the Commissioner that it has taken adequate steps to prevent the grounds of revocation occurring again.
 
 **When electing company becomes Australian ICA company**
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 **(7)** A company ends its status as an Australian ICA company if—
 
-- (a) the company ceases to be resident in Australia or meets a requirement of subsection (2)﻿(a) or (b); or
+- (a) the company ceases to be resident in Australia or meets a requirement of subsection (2)(a) or (b); or
 
 - (b) for a company that has made an election under subsection (1),—
 

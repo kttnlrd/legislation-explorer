@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 - (a) is more than the amount determined for the first specified lease under subsection (4), the amount determined is increased by a further amount that is equal to the part, if any, of the excess paid by the lessor to the lessee:
 
-- (b) is less than the amount determined for the first specified lease under subsection (4)﻿(a), and the lessee is required to make a further payment to the lessor equal to the difference between the guaranteed residual value for the lease value, and the value of the consideration, the amount determined is reduced by the amount of the further payment.
+- (b) is less than the amount determined for the first specified lease under subsection (4)(a), and the lessee is required to make a further payment to the lessor equal to the difference between the guaranteed residual value for the lease value, and the value of the consideration, the amount determined is reduced by the amount of the further payment.
 
 **Consideration more than amount determined under subsection (4)**
 

@@ -34,11 +34,11 @@ compilation_date: 2026-06-06
 
 **Timing of income: company**
 
-**(4)** An amount of income derived by the company from a deemed disposal under subsection (2) is allocated to the income year of the company in which the earliest of the events described in subsection (1)﻿(a) to (c) occurs.
+**(4)** An amount of income derived by the company from a deemed disposal under subsection (2) is allocated to the income year of the company in which the earliest of the events described in subsection (1)(a) to (c) occurs.
 
 **Timing of income: shareholders**
 
-**(5)** A dividend that a shareholder of the company at the time referred to in subsection (3) is treated as being paid under that subsection is allocated to the income year of the shareholder in which the earliest of the events described in subsection (1)﻿(a) to (c) occurs.
+**(5)** A dividend that a shareholder of the company at the time referred to in subsection (3) is treated as being paid under that subsection is allocated to the income year of the shareholder in which the earliest of the events described in subsection (1)(a) to (c) occurs.
 
 **Relationship with section CD 1**
 

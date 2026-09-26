@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Agreed spreading methods for life financial reinsurance**
 
-**(5)** A life insurer who, in an income year, is a party to a life financial reinsurance contract (the reinsurance contract) and to a deed of settlement under section 6A of the Tax Administration Act 1994 with the Commissioner that meets the requirements of subsection (6), must use the agreed spreading method referred to in subsection (6)﻿(b) for the reinsurance contract and the income year.
+**(5)** A life insurer who, in an income year, is a party to a life financial reinsurance contract (the reinsurance contract) and to a deed of settlement under section 6A of the Tax Administration Act 1994 with the Commissioner that meets the requirements of subsection (6), must use the agreed spreading method referred to in subsection (6)(b) for the reinsurance contract and the income year.
 
 **Deed of settlement requirements**
 

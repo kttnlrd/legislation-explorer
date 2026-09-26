@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Relationship with section IC 8**
 
-**(4)** Despite subsection (2)﻿(ab), section IC 8 overrides this section in limiting the amount that may be used when the net income derived in the common span is more than the net income of company B for the income year.
+**(4)** Despite subsection (2)(ab), section IC 8 overrides this section in limiting the amount that may be used when the net income derived in the common span is more than the net income of company B for the income year.
 
 *Defined in this Act: amount, Commissioner, common span, company, corresponding income year, income year, net income, notify, tax loss, tax loss component*
 

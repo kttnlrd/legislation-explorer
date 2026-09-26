@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Liability of conveyancers: reasonable reliance**
 
-**(7)** A paying agent is not liable for a penalty under Part 9 of the Tax Administration Act 1994 for a failure described in subsection (6)﻿(b) if, for that failure,—
+**(7)** A paying agent is not liable for a penalty under Part 9 of the Tax Administration Act 1994 for a failure described in subsection (6)(b) if, for that failure,—
 
 - (a) the paying agent has relied on a form and accompanying documents given to them in accordance with section 54C of the Tax Administration Act 1994; and
 

@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Part-year tax calculations: effect**
 
-**(3)** The part-year calculations may give rise to income and deductions for the income year and they do create part-year tax return obligations, except that the requirement for returns under section 57B(7)﻿(a) of the Tax Administration Act 1994 and for notice in relation to investors or proxies under section 31C(4) of that Act can be met by sending returns or notices on a full-year or part-year basis. The 2 part-year calculations create 2 income tax liabilities for 2 part-years.
+**(3)** The part-year calculations may give rise to income and deductions for the income year and they do create part-year tax return obligations, except that the requirement for returns under section 57B(7)(a) of the Tax Administration Act 1994 and for notice in relation to investors or proxies under section 31C(4) of that Act can be met by sending returns or notices on a full-year or part-year basis. The 2 part-year calculations create 2 income tax liabilities for 2 part-years.
 
 **Foreign tax credits: special rule**
 

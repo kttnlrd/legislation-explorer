@@ -18,9 +18,9 @@ compilation_date: 2026-06-06
 
 - (b) the amount given by the formula in subsection (2).
 
-**Formula for subsection (1)﻿(b)**
+**Formula for subsection (1)(b)**
 
-**(2)** The formula for the purposes of subsection (1)﻿(b) is: CV increase × tax rate.
+**(2)** The formula for the purposes of subsection (1)(b) is: CV increase × tax rate.
 
 **Definition of items in formula in subsection (2)**
 
@@ -30,9 +30,9 @@ compilation_date: 2026-06-06
 
 - (b) tax rate is the basic rate set out in schedule 1, part D, clause 3 or 4 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 
-**Formula for subsection (3)﻿(a)**
+**Formula for subsection (3)(a)**
 
-**(4)** The formula for the purposes of subsection (3)﻿(a) is: CV current coupon payment − CV previous coupon payment.
+**(4)** The formula for the purposes of subsection (3)(a) is: CV current coupon payment − CV previous coupon payment.
 
 **Definition of items in formula in subsection (4)**
 

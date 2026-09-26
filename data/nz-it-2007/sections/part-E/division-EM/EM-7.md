@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (a) FDR hedges amount is the total amount of foreign currency that is hedged by a person's fair dividend rate hedge portions:
 
-- (b) eligible currency assets is the total market value of a person's assets described in section EM 1(1)﻿(a) and (b).
+- (b) eligible currency assets is the total market value of a person's assets described in section EM 1(1)(a) and (b).
 
 **Second formula**
 

@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Three-yearly review**
 
-**(4)** A determination under subsection (3)﻿(c) and (d) must be reviewed every 3 years. Either the Commissioner or the Chief of the Defence Force may instigate the review.
+**(4)** A determination under subsection (3)(c) and (d) must be reviewed every 3 years. Either the Commissioner or the Chief of the Defence Force may instigate the review.
 
 *Defined in this Act: accommodation, amount, Commissioner, pay*
 

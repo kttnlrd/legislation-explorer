@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Using the formula to calculate income and expenditure**
 
-**(1)** A person uses the formula in subsection (2) for each valuation period described in subsection (3)﻿(b) that this subpart applies to them. A positive amount from the formula is a person's income for their fair dividend rate hedge portions. A negative amount from the formula is a person's expenditure for their fair dividend rate hedge portions.
+**(1)** A person uses the formula in subsection (2) for each valuation period described in subsection (3)(b) that this subpart applies to them. A positive amount from the formula is a person's income for their fair dividend rate hedge portions. A negative amount from the formula is a person's expenditure for their fair dividend rate hedge portions.
 
 **Formula**
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (b) valuation period is the number of days in whichever of the following periods is relevant:
 
-  - (i) the period described in section EM 1(1)﻿(a)﻿(ii):
+  - (i) the period described in section EM 1(1)(a)(ii):
 
   - (ii) the unit valuation period described in section EX 53 (Fair dividend rate periodic method):
 

@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Benefit**
 
-**(1)** A person who is an employee share scheme beneficiary described in section CE 7(a)﻿(i) or (ii) receives a benefit for the purposes of section CE 1(1)﻿(d) in relation to shares or related rights under the employee share scheme equal to the positive amount calculated on the share scheme taxing date using the formula— share value − consideration paid + consideration received − previous income.
+**(1)** A person who is an employee share scheme beneficiary described in section CE 7(a)(i) or (ii) receives a benefit for the purposes of section CE 1(1)(d) in relation to shares or related rights under the employee share scheme equal to the positive amount calculated on the share scheme taxing date using the formula— share value − consideration paid + consideration received − previous income.
 
 **Definition of items in formula**
 
@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (c) consideration received is the amount of consideration paid or payable to an employee share scheme beneficiary in relation to a transfer or cancellation of the shares or related rights under the employee share scheme, not including relevant shares or related rights under a replacement employee share scheme:
 
-- (d) previous income is the total amount of income under section CE 1(1)﻿(d) that the employee share scheme beneficiary has in relation to the shares or related rights before the date that is 6 months after the date of Royal assent for the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018.
+- (d) previous income is the total amount of income under section CE 1(1)(d) that the employee share scheme beneficiary has in relation to the shares or related rights before the date that is 6 months after the date of Royal assent for the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018.
 
 **Negative amount: deduction**
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Deferral of income recognition**
 
-**(8)** Despite section CE 1(1)﻿(d), the employee share scheme beneficiary is treated as deriving employment income in relation to the benefit on the ESS deferral date.
+**(8)** Despite section CE 1(1)(d), the employee share scheme beneficiary is treated as deriving employment income in relation to the benefit on the ESS deferral date.
 
 **Meaning of ESS deferral date**
 

@@ -20,15 +20,15 @@ compilation_date: 2026-06-06
 
 **Disposal for consideration**
 
-**(2)** If subsection (1)﻿(a) applies, an amount equal to the deduction described in subsection (1) is income of the person for the income year, unless subsection (3) applies.
+**(2)** If subsection (1)(a) applies, an amount equal to the deduction described in subsection (1) is income of the person for the income year, unless subsection (3) applies.
 
 **Special case: disposal for consideration less than deduction**
 
-**(3)** If subsection (1)﻿(a) applies and the consideration is less than the deduction described in subsection (1), then, despite subsection (2), an amount equal to the consideration is income of the person for the income year.
+**(3)** If subsection (1)(a) applies and the consideration is less than the deduction described in subsection (1), then, despite subsection (2), an amount equal to the consideration is income of the person for the income year.
 
 **Rerecognition**
 
-**(4)** If subsection (1)﻿(b) applies, an amount equal to the deduction described in subsection (1) is income of the person for the income year.
+**(4)** If subsection (1)(b) applies, an amount equal to the deduction described in subsection (1) is income of the person for the income year.
 
 **Relationship with subpart EE**
 

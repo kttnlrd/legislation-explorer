@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Period**
 
-**(1)** The period referred to in section IB 3(2)﻿(b), for an ownership continuity breach and a tax loss component of a company, is the period beginning immediately before the ownership continuity breach occurs and ending on,—
+**(1)** The period referred to in section IB 3(2)(b), for an ownership continuity breach and a tax loss component of a company, is the period beginning immediately before the ownership continuity breach occurs and ending on,—
 
 - (a) for a company for which the amount calculated using the formula in subsection (2) is 0.50 or greater, the last day of the income year that corresponds to the tax year in which the company uses the tax loss component; or
 

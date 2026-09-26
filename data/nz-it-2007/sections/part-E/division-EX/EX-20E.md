@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **What this section does**
 
-**(1)** This section determines the relative debt-asset ratio of a CFC for the purposes of section EX 20D(2)﻿(b) by determining an amount (the group debt-asset ratio) for the CFC's group and comparing that amount with the debt-asset ratio of the CFC determined under section EX 20D(4).
+**(1)** This section determines the relative debt-asset ratio of a CFC for the purposes of section EX 20D(2)(b) by determining an amount (the group debt-asset ratio) for the CFC's group and comparing that amount with the debt-asset ratio of the CFC determined under section EX 20D(4).
 
 **Members of CFC's group and calculations for group**
 
@@ -24,9 +24,9 @@ compilation_date: 2026-06-06
 
   - (ii) if the interest holder is a company, the members of the worldwide group that the interest holder would have under sections FE 31B, FE 31C, and FE 32 (which relate to the determination of groups) if the interest holder were an excess debt outbound company:
 
-  - (iii) if the interest holder is a trustee, the members of the trustee's worldwide group under section FE 3(1)﻿(b) (Interest apportionment for individuals):
+  - (iii) if the interest holder is a trustee, the members of the trustee's worldwide group under section FE 3(1)(b) (Interest apportionment for individuals):
 
-  - (iv) if the interest holder is a natural person, the person's worldwide group referred to in section FE 5(1C)﻿(a) to (c) (Thresholds for application of interest apportionment rules):
+  - (iv) if the interest holder is a natural person, the person's worldwide group referred to in section FE 5(1C)(a) to (c) (Thresholds for application of interest apportionment rules):
 
 - (b) the debts and assets of the CFC's group are determined under sections FE 8 to FE 11 and FE 18 (Measurement of debts and assets of worldwide group) as if the interest holder, if a company, were an excess debt outbound company.
 

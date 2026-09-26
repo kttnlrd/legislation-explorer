@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exception**
 
-**(2)** Despite subsection (1)﻿(a), a person may change a method for IFRS if—
+**(2)** Despite subsection (1)(a), a person may change a method for IFRS if—
 
 - (a) the new method is available to them to use; and
 

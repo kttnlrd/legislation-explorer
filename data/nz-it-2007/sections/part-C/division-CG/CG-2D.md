@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Income of profit company**
 
-**(2)** An amount equal to the amount of the unpaid liability referred to in subsection (1)﻿(f) is income of company D.
+**(2)** An amount equal to the amount of the unpaid liability referred to in subsection (1)(f) is income of company D.
 
 **Timing of income**
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **When subsection (5) applies**
 
-**(4)** Subsection (5) applies for the purposes of subsection (1)﻿(e)﻿(ii) when—
+**(4)** Subsection (5) applies for the purposes of subsection (1)(e)(ii) when—
 
 - (a) a transaction results in an amount being received by a creditor of company C within a period of 2 years before either company C or company D, or both, leaves the group; and
 

@@ -24,11 +24,11 @@ compilation_date: 2026-06-06
 
 **Base value reduced by cost of overhaul**
 
-**(2)** The item base value referred to in subsection (1)﻿(c) for the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by the included amount referred to in that paragraph.
+**(2)** The item base value referred to in subsection (1)(c) for the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by the included amount referred to in that paragraph.
 
 **Adjusted tax value reduced by depreciated cost of overhaul**
 
-**(3)** The adjusted tax value of the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by the proportion of the adjusted tax value that corresponds to the depreciated cost to the person of the aircraft engine overhaul referred to in subsection (1)﻿(c).
+**(3)** The adjusted tax value of the aircraft engine or aircraft is reduced at the beginning of the 2017–18 income year by the proportion of the adjusted tax value that corresponds to the depreciated cost to the person of the aircraft engine overhaul referred to in subsection (1)(c).
 
 **Total deductions increased by reduction in base value**
 

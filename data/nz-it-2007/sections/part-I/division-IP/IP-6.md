@@ -12,19 +12,19 @@ compilation_date: 2026-06-06
 
 **Financial statements required from company: section IP 3**
 
-**(1)** For the purposes of this subpart, a company must provide the Commissioner with adequate financial statements under section IP 3(2)﻿(c) and (4)﻿(b) relating to the continuity period.
+**(1)** For the purposes of this subpart, a company must provide the Commissioner with adequate financial statements under section IP 3(2)(c) and (4)(b) relating to the continuity period.
 
 **Financial statements required from company: section IP 3B**
 
-**(1B)**  For the purposes of this subpart, a company must provide the Commissioner with adequate financial statements under section IP 3B(2)﻿(c) relating to the continuity period.
+**(1B)**  For the purposes of this subpart, a company must provide the Commissioner with adequate financial statements under section IP 3B(2)(c) relating to the continuity period.
 
 **Financial statements required from company A: section IP 4**
 
-**(2)** For the purposes of this subpart, company A must provide the Commissioner with adequate financial statements under section IP 4(2)﻿(c) relating to the common span, calculating the amount of the tax loss component, determined on a fair and reasonable basis of attribution.
+**(2)** For the purposes of this subpart, company A must provide the Commissioner with adequate financial statements under section IP 4(2)(c) relating to the common span, calculating the amount of the tax loss component, determined on a fair and reasonable basis of attribution.
 
 **Financial statements required from company B: sections IP 4 and IP 5**
 
-**(3)** For the purposes of this subpart, company B must provide the Commissioner with adequate financial statements under sections IP 4(2)﻿(c) and IP 5(2)﻿(c) relating to the common span, calculating the amount of the net income in the common span, determined on a fair and reasonable basis of attribution.
+**(3)** For the purposes of this subpart, company B must provide the Commissioner with adequate financial statements under sections IP 4(2)(c) and IP 5(2)(c) relating to the common span, calculating the amount of the net income in the common span, determined on a fair and reasonable basis of attribution.
 
 **Different balance dates**
 

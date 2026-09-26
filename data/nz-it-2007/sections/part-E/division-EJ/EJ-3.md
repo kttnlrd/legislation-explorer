@@ -52,9 +52,9 @@ compilation_date: 2026-06-06
 
   - (ii) paragraph (b), by notifying the Commissioner of the allocation within the time within which the person is required to file a return of income for the income year in which the person ceases to carry on the business.
 
-**Extension of time: elections under subsection (4)﻿(b)**
+**Extension of time: elections under subsection (4)(b)**
 
-**(5B)**  The Commissioner may extend the time limit imposed under subsection (5)﻿(b)﻿(ii) in any case or class of cases.
+**(5B)**  The Commissioner may extend the time limit imposed under subsection (5)(b)(ii) in any case or class of cases.
 
 **Personal representative**
 

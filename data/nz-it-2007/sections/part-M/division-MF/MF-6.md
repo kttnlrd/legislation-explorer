@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Treatment when tax credits paid by chief executive to certain persons**
 
-**(4)** The Commissioner may, in relation to a person referred to in subsection (1)﻿(b)﻿(ii), choose to treat the amount of the tax credit paid to the person for the tax year as equal to the person's entitlement for the tax year.
+**(4)** The Commissioner may, in relation to a person referred to in subsection (1)(b)(ii), choose to treat the amount of the tax credit paid to the person for the tax year as equal to the person's entitlement for the tax year.
 
 *Defined in this Act: amount, apply, Commissioner, family scheme, income tax liability, notice of entitlement, pay, tax, tax credit, tax year*
 

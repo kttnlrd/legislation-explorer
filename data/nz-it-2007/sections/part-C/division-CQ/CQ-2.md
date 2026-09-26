@@ -48,7 +48,7 @@ compilation_date: 2026-06-06
 
 **Special rule: attributed CFC amount from personal services**
 
-**(2B)**  If a person and a non-attributing active CFC or non-attributing Australian CFC meet the requirements of subsection (1)﻿(a) to (e) and the CFC derives income from personal services that is an attributable CFC amount under section EX 20B(3)﻿(h) (Attributable CFC amount), the person has attributed CFC income from the CFC equal to the product of—
+**(2B)**  If a person and a non-attributing active CFC or non-attributing Australian CFC meet the requirements of subsection (1)(a) to (e) and the CFC derives income from personal services that is an attributable CFC amount under section EX 20B(3)(h) (Attributable CFC amount), the person has attributed CFC income from the CFC equal to the product of—
 
 - (a) the person's income interest in the CFC:
 

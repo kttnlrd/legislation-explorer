@@ -22,9 +22,9 @@ compilation_date: 2026-06-06
 
 **(2)** The person's family scheme income for the income year includes an amount equal to the total for the person and the income year of amounts, each of which is—
 
-- (a) the amount by which the employment income of the person would be greater in the absence of a benefit referred to in subsection (1)﻿(a):
+- (a) the amount by which the employment income of the person would be greater in the absence of a benefit referred to in subsection (1)(a):
 
-- (b) the value, including fringe benefit tax, of a benefit provided to the person under a short-term charge facility referred to in subsection (1)﻿(b), if the total value of such benefits, not including fringe benefit tax, provided in the income year is more than the lesser for the income year of—
+- (b) the value, including fringe benefit tax, of a benefit provided to the person under a short-term charge facility referred to in subsection (1)(b), if the total value of such benefits, not including fringe benefit tax, provided in the income year is more than the lesser for the income year of—
 
   - (i) 5% of the employee's salary or wages:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Calculating fringe benefit tax on benefit**
 
-**(3)** In calculating under subsection (2)﻿(b) the amount of fringe benefit tax on a benefit, the person may use—
+**(3)** In calculating under subsection (2)(b) the amount of fringe benefit tax on a benefit, the person may use—
 
 - (a) the rate of fringe benefit tax used by the person's employer in calculating the fringe benefit tax payable on the benefit:
 

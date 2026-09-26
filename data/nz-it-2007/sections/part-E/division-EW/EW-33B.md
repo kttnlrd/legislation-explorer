@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
   - (ii) services, the sale or purchase of which, as relevant for the person, gives rise to assessable income or deductions under this Act outside of the financial arrangements rules; and
 
-- (b) the person notifies the Commissioner that they have made an irrevocable election to apply this section to all financial arrangements for property and services described in paragraph (a)﻿(i) and (ii), at the time of—
+- (b) the person notifies the Commissioner that they have made an irrevocable election to apply this section to all financial arrangements for property and services described in paragraph (a)(i) and (ii), at the time of—
 
   - (i) filing a return of income for the income year in which they enter into the financial arrangement; or
 

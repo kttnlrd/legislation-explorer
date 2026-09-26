@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (a) a transfer under section EK 15 (Transfer on application) that is treated under section EK 15(3) as being a payment by the person:
 
-- (b) a transfer under section EK 16(3)﻿(b) (Transfer on death, bankruptcy, or liquidation):
+- (b) a transfer under section EK 16(3)(b) (Transfer on death, bankruptcy, or liquidation):
 
 - (c) a transfer under section EK 19 (Environmental restoration account of amalgamating company).
 

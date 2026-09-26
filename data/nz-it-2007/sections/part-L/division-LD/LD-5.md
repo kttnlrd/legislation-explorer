@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Employer's responsibility**
 
-**(1)** The employer of a person who makes a payroll donation in a pay period must calculate the amount of the person's tax credit for the pay period under section LD 4, and include the amount in the particulars described in section LD 4(1)﻿(a).
+**(1)** The employer of a person who makes a payroll donation in a pay period must calculate the amount of the person's tax credit for the pay period under section LD 4, and include the amount in the particulars described in section LD 4(1)(a).
 
 **Credit extinguished**
 

@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **(4)** The holder may apply for a refund if—
 
-- (a) they apply before the next 31 March after the date on which the amount was withheld, with supporting information to show that the threshold referred to in section CQ 5(1)﻿(d) (When FIF income arises) has been exceeded for their corresponding income year; and
+- (a) they apply before the next 31 March after the date on which the amount was withheld, with supporting information to show that the threshold referred to in section CQ 5(1)(d) (When FIF income arises) has been exceeded for their corresponding income year; and
 
 - (b) the person making the distribution has not—
 

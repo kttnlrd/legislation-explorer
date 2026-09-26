@@ -74,7 +74,7 @@ compilation_date: 2026-06-06
 
 - (b) an amount—
 
-  - (i) of an association rebate that is excluded from being a dividend by section CB 34(5)﻿(a) (Amounts derived by members from mutual associations); or
+  - (i) of an association rebate that is excluded from being a dividend by section CB 34(5)(a) (Amounts derived by members from mutual associations); or
 
   - (ii) that is payable to a person by a company and is treated as being a dividend by sections GB 23 to GB 25 (which relate to excessive remuneration):
 
@@ -92,7 +92,7 @@ compilation_date: 2026-06-06
 
 - (gb) an amount treated as a dividend under section CB 32C (Dividend income for first year of look-through company):
 
-- (h) a dividend that is excluded income under section CX 50B (Contributions to retirement savings schemes) or would be excluded income under that section in the absence of subsection (2)﻿(a) and (b):
+- (h) a dividend that is excluded income under section CX 50B (Contributions to retirement savings schemes) or would be excluded income under that section in the absence of subsection (2)(a) and (b):
 
 - (i) a dividend other than a non-cash dividend that—
 

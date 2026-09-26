@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
   - (i) to which section ED 1B applies; and
 
-  - (ii) that have not been assigned a cost under section ED 1B(3)﻿(a).
+  - (ii) that have not been assigned a cost under section ED 1B(3)(a).
 
 **Exceptions: types of emissions units pooled with other types**
 

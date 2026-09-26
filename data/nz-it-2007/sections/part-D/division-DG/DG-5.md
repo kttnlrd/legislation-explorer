@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **(2)** For the purposes of this subpart,—
 
-- (a) if the person is not a company, an amount of interest expenditure incurred in relation to an asset is included in the item expenditure in section DG 9(3)﻿(a):
+- (a) if the person is not a company, an amount of interest expenditure incurred in relation to an asset is included in the item expenditure in section DG 9(3)(a):
 
 - (b) if the person is a company other than a qualifying company, an amount of interest expenditure incurred in relation to an asset is apportioned under section DG 11:
 

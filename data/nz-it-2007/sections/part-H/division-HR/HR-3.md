@@ -70,7 +70,7 @@ compilation_date: 2026-06-06
 
 - (b) in, and for the purposes of, the carrying on of a forestry business on land in New Zealand, to the extent to which the investments and funds are invested in the land that the fund owned or otherwise held on 22 June 1983 for the purposes of the forestry business.
 
-**(6A)**  In subsection (6)﻿(a), authorised investment means any of the following:
+**(6A)**  In subsection (6)(a), authorised investment means any of the following:
 
 - (a) any investment authorised by the instrument (if any) creating the trust:
 

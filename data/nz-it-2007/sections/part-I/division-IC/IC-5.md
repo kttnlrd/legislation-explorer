@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) company A meets the requirements of section IC 7; and
 
-- (c) company A has the required continuity of ownership or business activities under section IC 2(1) and, if it applies, section IC 10(2)﻿(a); and
+- (c) company A has the required continuity of ownership or business activities under section IC 2(1) and, if it applies, section IC 10(2)(a); and
 
 - (d) the amount falls within the limits set by section IC 8(1) and (2); and
 
@@ -36,15 +36,15 @@ compilation_date: 2026-06-06
 
 **Amounts used in tax year**
 
-**(3)** Company B must subtract the amount of the tax loss referred to in subsection (2)﻿(a) or the payment referred to in subsection (2)﻿(b), as applicable, from its net income for the tax year in relation to which company A makes the amount available or receives the payment.
+**(3)** Company B must subtract the amount of the tax loss referred to in subsection (2)(a) or the payment referred to in subsection (2)(b), as applicable, from its net income for the tax year in relation to which company A makes the amount available or receives the payment.
 
 **When decisions made**
 
-**(4)** If company A chooses to make the amount available to company B under subsection (2)﻿(a), the decision is irrevocable.
+**(4)** If company A chooses to make the amount available to company B under subsection (2)(a), the decision is irrevocable.
 
 **Nature of payment**
 
-**(5)** To the extent to which an amount of tax loss is subtracted from net income, a payment from company B to company A under subsection (2)﻿(b) is not a dividend.
+**(5)** To the extent to which an amount of tax loss is subtracted from net income, a payment from company B to company A under subsection (2)(b) is not a dividend.
 
 **Part-year tax losses**
 
@@ -54,15 +54,15 @@ compilation_date: 2026-06-06
 
 **(7)** Section IZ 7 (Grouping tax losses for tax years before 1981–82 and between 1981–82 and 1991–92) modifies the requirements of—
 
-- (a) subsection (1)﻿(a) for a tax loss component that arises in tax years between 1981–82 and 1991–92; and
+- (a) subsection (1)(a) for a tax loss component that arises in tax years between 1981–82 and 1991–92; and
 
-- (b) subsection (1)﻿(b) for a tax loss component that arises in tax years before the 1991–92 tax year; and
+- (b) subsection (1)(b) for a tax loss component that arises in tax years before the 1991–92 tax year; and
 
-- (c) subsection (1)﻿(a) for a tax loss component that arises in tax years before the 1981–82 tax year.
+- (c) subsection (1)(a) for a tax loss component that arises in tax years before the 1981–82 tax year.
 
 **Commonality periods starting before 15 March 2017 for tax years after 1990–91**
 
-**(8)** Section IZ 7B (Grouping tax losses for commonality periods starting before 15 March 2017 for tax years after 1990–91) modifies the requirements of subsection (1)﻿(b) for a commonality period starting before 15 March 2017 for a tax loss component that arises after the 1990–91 tax year.
+**(8)** Section IZ 7B (Grouping tax losses for commonality periods starting before 15 March 2017 for tax years after 1990–91) modifies the requirements of subsection (1)(b) for a commonality period starting before 15 March 2017 for a tax loss component that arises after the 1990–91 tax year.
 
 *Defined in this Act: amount, Commissioner, commonality period, company, dividend, net income, notify, pay, tax loss, tax loss component, tax year*
 

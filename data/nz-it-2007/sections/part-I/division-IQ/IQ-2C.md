@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 - (b) the person is not able to use the attributable FIF income method in the current year for the person's interest in the FIF; and
 
-- (c) the person would be able to use the attributable FIF income method in the current year for the person's interest in the FIF if the interest met the requirements of section EX 46(3)﻿(a)﻿(ii) (Limits on choice of calculation methods); and
+- (c) the person would be able to use the attributable FIF income method in the current year for the person's interest in the FIF if the interest met the requirements of section EX 46(3)(a)(ii) (Limits on choice of calculation methods); and
 
 - (d) the person does not have an income interest of 10% or more in a CFC in the jurisdiction in the current year; and
 

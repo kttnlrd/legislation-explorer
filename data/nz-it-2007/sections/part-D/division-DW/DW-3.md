@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Non-resident shipper's expenditure on depreciation**
 
-**(3)** The non-resident person referred to in subsection (2)﻿(b) has no amount of depreciation loss in relation to that income.
+**(3)** The non-resident person referred to in subsection (2)(b) has no amount of depreciation loss in relation to that income.
 
 **Link with subpart DA**
 

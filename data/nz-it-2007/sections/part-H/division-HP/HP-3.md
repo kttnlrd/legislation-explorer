@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Commentary or guidance prevails**
 
-**(4)** For the purposes of subsection (3)﻿(b), if there is a conflict between the global anti-base erosion model rules and commentary or guidance described in that paragraph, the commentary or guidance prevails.
+**(4)** For the purposes of subsection (3)(b), if there is a conflict between the global anti-base erosion model rules and commentary or guidance described in that paragraph, the commentary or guidance prevails.
 
 **Relationship between provisions**
 

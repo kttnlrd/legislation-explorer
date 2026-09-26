@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **(2)** Despite subsection (1), a valuation method other than the herd scheme is available to a person in an income year after the 2011–12 income year, if—
 
-- (a) the person gives a notice of election as described in subsection (1)﻿(a); and
+- (a) the person gives a notice of election as described in subsection (1)(a); and
 
 - (b) the person gives, on or after 18 August 2011, a later notice of election to use another valuation method for the relevant type of specified livestock (the livestock); and
 

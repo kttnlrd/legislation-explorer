@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) relating to a return of income provided to the Commissioner before the date on which the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (the amending Act) receives the Royal assent; and
 
-- (c) that the person would not have but for the replacement by the amending Act of section EX 20B(3)﻿(f) (Attributable CFC amount) coming into force on 1 July 2009.
+- (c) that the person would not have but for the replacement by the amending Act of section EX 20B(3)(f) (Attributable CFC amount) coming into force on 1 July 2009.
 
 **No liability for interest for period**
 

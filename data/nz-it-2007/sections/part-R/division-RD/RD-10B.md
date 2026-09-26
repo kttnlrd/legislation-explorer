@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)** This section applies to determine the amount of tax for a schedular payment for the purposes of section RD 10(3)﻿(a).
+**(1)** This section applies to determine the amount of tax for a schedular payment for the purposes of section RD 10(3)(a).
 
 **Basic rates**
 

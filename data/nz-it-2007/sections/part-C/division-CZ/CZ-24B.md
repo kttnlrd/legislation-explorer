@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **(2)** Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could estimate, are not fringe benefits to the extent to which their total value as fringe benefits for the period would be less than or equal to the amount by which $5,000 exceeds the income that is—
 
-- (a) exempt under section CZ 23B(2)﻿(b); and
+- (a) exempt under section CZ 23B(2)(b); and
 
 - (b) derived by the employee from the employer in the same period.
 

@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **(3)** The period for a person—
 
-- (a) begins on the first day of the residence required by subsection (2)﻿(b); and
+- (a) begins on the first day of the residence required by subsection (2)(b); and
 
 - (b) ends on the earliest of—
 

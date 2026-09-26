@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(8)** Subsection (7)﻿(a) does not apply to an asset that—
+**(8)** Subsection (7)(a) does not apply to an asset that—
 
 - (a) the airport operator has—
 

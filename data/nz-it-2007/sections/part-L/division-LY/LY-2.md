@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
   - (iii) has a material purpose of resolving scientific or technological uncertainty; but
 
-- (b) does not include an activity, if knowledge required to resolve the uncertainty, described in paragraph (a)﻿(iii), is—
+- (b) does not include an activity, if knowledge required to resolve the uncertainty, described in paragraph (a)(iii), is—
 
   - (i) publicly available:
 

@@ -4,15 +4,15 @@ part_title: Part F Recharacterisation of certain transactions
 division: FE
 division_title: Subpart FE—Interest apportionment on thin capitalisation
 section: FE-31C
-section_title: CFCs in worldwide group for natural persons or trustees described in section FE 2(1)﻿(g)
+section_title: CFCs in worldwide group for natural persons or trustees described in section FE 2(1)(g)
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-# FE 31C  CFCs in worldwide group for natural persons or trustees described in section FE 2(1)﻿(g)
+# FE 31C  CFCs in worldwide group for natural persons or trustees described in section FE 2(1)(g)
 
 **When this section applies**
 
-**(1)** This section applies when a natural person or trustee described in section FE 2(1)﻿(g) has—
+**(1)** This section applies when a natural person or trustee described in section FE 2(1)(g) has—
 
 - (a) a 50% or more ownership interest in an excess debt outbound company that is a member of a worldwide group (worldwide group A); and
 

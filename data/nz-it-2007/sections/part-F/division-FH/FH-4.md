@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 - (a) income from the payment would be derived if the classification of the payment or payment instrument were varied, for a payment meeting the requirements of subsection (2):
 
-- (b) the deduction or tax relief referred to in subsection (1)﻿(c) is allowed, for a payment meeting the requirements of subsection (3).
+- (b) the deduction or tax relief referred to in subsection (1)(c) is allowed, for a payment meeting the requirements of subsection (3).
 
 **Timing of recognised income**
 

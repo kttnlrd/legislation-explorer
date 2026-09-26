@@ -54,7 +54,7 @@ compilation_date: 2026-06-06
 
 **Exception: carry forward**
 
-**(3)** Despite subsection (1), sections LY 1(3)﻿(b) and LY 8 may apply to carry forward a person's research and development tax credit.
+**(3)** Despite subsection (1), sections LY 1(3)(b) and LY 8 may apply to carry forward a person's research and development tax credit.
 
 **Special rule: levy body researcher**
 
@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
 **Relationship with subject matter**
 
-**(5)** Section LZ 13 (Part-year override of section LY 3(2)﻿(b)) overrides subsection (2)﻿(c) for the 2020–21 income year.
+**(5)** Section LZ 13 (Part-year override of section LY 3(2)(b)) overrides subsection (2)(c) for the 2020–21 income year.
 
 *Defined in this Act: associated, business, core research and development activity, exempt income, fixed establishment, group of companies, levy body researcher, look-through company, New Zealand, owner's interests, partner, partnership, research and development contractor, return of income*
 

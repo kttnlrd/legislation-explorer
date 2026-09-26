@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)** This section applies for the first income year in which the borrower is party to a financial arrangement described in section RF 2C(1)﻿(b).
+**(1)** This section applies for the first income year in which the borrower is party to a financial arrangement described in section RF 2C(1)(b).
 
 **Elections related to de minimis**
 
@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **(4)** The election must be made by notifying the Commissioner by the earlier of—
 
-- (a) the first day on which interest described in section RF 2(1)﻿(a)﻿(iv) is paid:
+- (a) the first day on which interest described in section RF 2(1)(a)(iv) is paid:
 
 - (b) the last day of the income year in which the arrangement becomes a related-party debt.
 

@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Payment to Commissioner**
 
-**(4)** If the restricted refund amount is greater than the amount referred to in subsection (3)﻿(a)﻿(ii), the ICA company must pay to the Commissioner an amount equal to the excess and the Commissioner must hold the amount with the balance of the restricted refund amount as if the excess were a refund to which the company were entitled under section RM 2 (Refunds for overpaid tax).
+**(4)** If the restricted refund amount is greater than the amount referred to in subsection (3)(a)(ii), the ICA company must pay to the Commissioner an amount equal to the excess and the Commissioner must hold the amount with the balance of the restricted refund amount as if the excess were a refund to which the company were entitled under section RM 2 (Refunds for overpaid tax).
 
 **Use of restricted refund amount: former group wholly-owned**
 
@@ -82,9 +82,9 @@ compilation_date: 2026-06-06
 
 **(7)** The restricted refund amount for the ICA company and a group is reduced by the amount of—
 
-- (a) a refund permitted under subsection (5)﻿(a) or (5B)﻿(a) relating to the restricted refund amount:
+- (a) a refund permitted under subsection (5)(a) or (5B)(a) relating to the restricted refund amount:
 
-- (b) a satisfaction of a tax liability permitted by subsection (5)﻿(b) or (5B)﻿(b) relating to the restricted refund amount:
+- (b) a satisfaction of a tax liability permitted by subsection (5)(b) or (5B)(b) relating to the restricted refund amount:
 
 - (c) a payment of imputation additional tax under subsection (8) relating to the restricted refund amount:
 

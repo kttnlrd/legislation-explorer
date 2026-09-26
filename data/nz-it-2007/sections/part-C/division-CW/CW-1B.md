@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Exempt income**
 
-**(2)** An amount under section CB 24(1)﻿(b) (Disposal of timber or right to take timber) for the extinguishing of the old right, or for the granting of the new rights, is exempt income of the relevant person. The amount is not income under that section.
+**(2)** An amount under section CB 24(1)(b) (Disposal of timber or right to take timber) for the extinguishing of the old right, or for the granting of the new rights, is exempt income of the relevant person. The amount is not income under that section.
 
 **Exception**
 

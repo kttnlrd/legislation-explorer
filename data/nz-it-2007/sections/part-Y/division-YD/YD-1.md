@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Treatment of non-resident visitors**
 
-**(13)** Despite subsection (3), if a person is a non-resident visitor, they are treated as a non-resident for the period they are a non-resident visitor unless section YD 1B(3)﻿(a) applies.
+**(13)** Despite subsection (3), if a person is a non-resident visitor, they are treated as a non-resident for the period they are a non-resident visitor unless section YD 1B(3)(a) applies.
 
 **Treatment on ending non-resident visitor status**
 

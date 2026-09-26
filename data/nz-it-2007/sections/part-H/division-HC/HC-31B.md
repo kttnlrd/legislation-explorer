@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
   - (i) section HC 14 for the transfer of value to be a distribution made by a trustee:
 
-  - (ii) section HC 27(2)﻿(b) for the creditor to be a settlor of a trust.
+  - (ii) section HC 27(2)(b) for the creditor to be a settlor of a trust.
 
 **When this section does not apply**
 

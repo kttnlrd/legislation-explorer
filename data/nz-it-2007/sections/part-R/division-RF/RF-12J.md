@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **When amounts of tax not withheld**
 
-**(3)** For the purposes of subsection (2)﻿(b), if the borrower does not withhold the full amount required to be withheld under sections RA 6 (Withholding and payment obligations for passive income) and RF 3, the direct lender must withhold NRWT on interest paid to them.
+**(3)** For the purposes of subsection (2)(b), if the borrower does not withhold the full amount required to be withheld under sections RA 6 (Withholding and payment obligations for passive income) and RF 3, the direct lender must withhold NRWT on interest paid to them.
 
 **No liability for direct lender**
 

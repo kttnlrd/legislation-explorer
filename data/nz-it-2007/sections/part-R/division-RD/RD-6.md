@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)** This section applies when an employee receives—
 
-- (a) a benefit treated as income under section CE 1(1)﻿(bb) (Amounts derived in connection with employment); or
+- (a) a benefit treated as income under section CE 1(1)(bb) (Amounts derived in connection with employment); or
 
 - (b) another benefit in kind that is included in their salary or wages; or
 
@@ -28,13 +28,13 @@ compilation_date: 2026-06-06
 
   - (iv) an annuity; or
 
-- (d) a benefit under section CE 1(1)﻿(d) (Amounts derived in connection with employment) in relation to which the employer has made an election under section RD 7B; or
+- (d) a benefit under section CE 1(1)(d) (Amounts derived in connection with employment) in relation to which the employer has made an election under section RD 7B; or
 
 - (e) a payment made to them as a person on a shadow payroll.
 
 **Value or amount included in salary or wages**
 
-**(2)** For the purposes of subsection (1)﻿(a) to (c), the value of the benefit or amount of the payment is treated as—
+**(2)** For the purposes of subsection (1)(a) to (c), the value of the benefit or amount of the payment is treated as—
 
 - (a) accruing from day to day; and
 
@@ -44,15 +44,15 @@ compilation_date: 2026-06-06
 
 **(3)** If the employee receives the benefit otherwise than in cash, the value is treated as paid—
 
-- (a) for a benefit referred to in subsection (1)﻿(d), on the ESS deferral date on which the employee is treated as deriving the benefit under section CE 2(8) (Benefits under employee share schemes); or
+- (a) for a benefit referred to in subsection (1)(d), on the ESS deferral date on which the employee is treated as deriving the benefit under section CE 2(8) (Benefits under employee share schemes); or
 
-- (b) for a benefit referred to in subsection (1)﻿(a) to (c) that constitutes the only salary or wages of the employee, on the last day of the pay period:
+- (b) for a benefit referred to in subsection (1)(a) to (c) that constitutes the only salary or wages of the employee, on the last day of the pay period:
 
 - (c) for a benefit that paragraphs (a) and (b) do not apply to, when the last amount of salary or wages for the pay period is paid.
 
 **Employees on shadow payrolls**
 
-**(4)** For the purposes of the PAYE rules, a payment referred to in subsection (1)﻿(e) is treated as paid to the employee—
+**(4)** For the purposes of the PAYE rules, a payment referred to in subsection (1)(e) is treated as paid to the employee—
 
 - (a) on the day that the amount is paid by the non-resident employer, that is the payday for the purposes of sections 23E to 23H and 23J(2) of the Tax Administration Act 1994:
 

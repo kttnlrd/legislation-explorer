@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) made as part of the settlement of a claim under the Treaty of Waitangi; and
 
-- (c) disposed of to a trustee of a trust that is a Maori authority or is eligible to be a Maori authority under section HF 2(3)﻿(e)﻿(i) (Who is eligible to be a Maori authority?).
+- (c) disposed of to a trustee of a trust that is a Maori authority or is eligible to be a Maori authority under section HF 2(3)(e)(i) (Who is eligible to be a Maori authority?).
 
 **Transfer by transferor**
 

@@ -14,7 +14,7 @@ Expenditure that a person incurs in acquiring a petroleum mining asset is treate
 
 - (a) petroleum is produced in commercial quantities on a continuing basis under a petroleum permit that is the one being acquired; or
 
-- (b) petroleum is produced in commercial quantities on a continuing basis under a petroleum permit that applies to the permit area in which an asset of the kind described in section CT 7(1)﻿(b) or (c) (Meaning of petroleum mining asset) is to be used; or
+- (b) petroleum is produced in commercial quantities on a continuing basis under a petroleum permit that applies to the permit area in which an asset of the kind described in section CT 7(1)(b) or (c) (Meaning of petroleum mining asset) is to be used; or
 
 - (c) an application for a petroleum mining permit for the permit area has been made by a person entitled under section 32(3) of the Crown Minerals Act 1991.
 

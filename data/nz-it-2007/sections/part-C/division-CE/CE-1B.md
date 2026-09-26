@@ -38,7 +38,7 @@ compilation_date: 2026-06-06
 
 **Adjustments: allowances and amounts paid**
 
-**(5)** Subsection (4)﻿(b) and (c) may apply to adjust the value of an accommodation allowance or an amount paid for or towards the provision of accommodation under subsections (2) and (3).
+**(5)** Subsection (4)(b) and (c) may apply to adjust the value of an accommodation allowance or an amount paid for or towards the provision of accommodation under subsections (2) and (3).
 
 **Exceptions**
 

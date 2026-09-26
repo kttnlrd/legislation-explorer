@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Exception for some group members and financial arrangements**
 
-**(1B)**  A person who is a member of a group of companies and has notified an election under subsection (1)﻿(d) is not required under this section to use the expected value method for a financial arrangement if—
+**(1B)**  A person who is a member of a group of companies and has notified an election under subsection (1)(d) is not required under this section to use the expected value method for a financial arrangement if—
 
 - (a) the person does not have a business of a substantially similar nature to a business of another company in the group; and
 

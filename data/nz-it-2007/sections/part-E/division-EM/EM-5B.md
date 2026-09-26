@@ -42,7 +42,7 @@ compilation_date: 2026-06-06
 
 **(7)** In the formula in subsection (6), all items are expressed in New Zealand currency, and—
 
-- (a) eligible assets is the total market value of assets described in section EM 1(1)﻿(a) and (b) that the person owns directly, and, if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by the relevant multi-rate PIE and described in section EM 1(1)﻿(a) and (b):
+- (a) eligible assets is the total market value of assets described in section EM 1(1)(a) and (b) that the person owns directly, and, if the person chooses and is a qualifying hedge fund, their interests in assets that are owned by the relevant multi-rate PIE and described in section EM 1(1)(a) and (b):
 
 - (b) portfolio hedges amount is the total amount of foreign currency that is hedged by a person's hedges.
 

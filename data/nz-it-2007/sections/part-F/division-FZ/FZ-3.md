@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Calculation for income year**
 
-**(3)** The interest derived by a lessor is, for an income year, treated as an amount equal to the sum of the amounts calculated under subsection (2)﻿(a) as calculated for the initial period, if any, and each instalment period that ends in the income year.
+**(3)** The interest derived by a lessor is, for an income year, treated as an amount equal to the sum of the amounts calculated under subsection (2)(a) as calculated for the initial period, if any, and each instalment period that ends in the income year.
 
 **Some definitions**
 

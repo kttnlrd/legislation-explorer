@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **When person exempt**
 
-**(3)** Subsection (2)﻿(a) does not apply if the employee is exempt from paying the amount of the liability.
+**(3)** Subsection (2)(a) does not apply if the employee is exempt from paying the amount of the liability.
 
 *Defined in this Act: amount, Commissioner, cross-border employee, fringe benefit, New Zealand, pay*
 

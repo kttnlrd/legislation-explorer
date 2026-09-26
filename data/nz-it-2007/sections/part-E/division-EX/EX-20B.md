@@ -108,7 +108,7 @@ compilation_date: 2026-06-06
 
 **Definition of items in formula**
 
-**(4C)**  The items in the formula in subsection (4B)﻿(b) are defined in subsections (4D) to (4F).
+**(4C)**  The items in the formula in subsection (4B)(b) are defined in subsections (4D) to (4F).
 
 **Funding income**
 
@@ -132,7 +132,7 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount: royalties**
 
-**(5)** A royalty derived by a CFC is included in an attributable CFC amount under subsection (3)﻿(d) if none of the following are satisfied:
+**(5)** A royalty derived by a CFC is included in an attributable CFC amount under subsection (3)(d) if none of the following are satisfied:
 
 - (a) the CFC is regularly engaged in creating, developing, or adding value to property that produces royalties and the royalty is—
 
@@ -154,7 +154,7 @@ compilation_date: 2026-06-06
 
 - (c) the royalty is—
 
-  - (i) paid by a person who would be an associated non-attributing active CFC in the absence of this paragraph and subsections (7)﻿(c) and (12)﻿(a); and
+  - (i) paid by a person who would be an associated non-attributing active CFC in the absence of this paragraph and subsections (7)(c) and (12)(a); and
 
   - (ii) from property that is not linked to New Zealand under subsection (13):
 
@@ -168,7 +168,7 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount: rent**
 
-**(6)** Rent derived by a CFC is included in an attributable CFC amount under subsection (3)﻿(e) if the rent is not of a type referred to in subsection (7) and is from—
+**(6)** Rent derived by a CFC is included in an attributable CFC amount under subsection (3)(e) if the rent is not of a type referred to in subsection (7) and is from—
 
 - (a) a lease or sublease of land:
 
@@ -180,13 +180,13 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount: exclusions from rent**
 
-**(7)** Rent derived by a CFC from a source referred to in subsection (6) is not included in an attributable CFC amount under subsection (3)﻿(e) if the rent is—
+**(7)** Rent derived by a CFC from a source referred to in subsection (6) is not included in an attributable CFC amount under subsection (3)(e) if the rent is—
 
 - (a) from land in a country or territory with which the CFC has a taxed CFC connection:
 
 - (b) from property other than land, to the extent to which the rent relates to the use of the property in a country or territory referred to in paragraph (a):
 
-- (c) paid by a person who would be an associated non-attributing active CFC in the absence of this paragraph and subsections (5)﻿(c) and (12)﻿(a):
+- (c) paid by a person who would be an associated non-attributing active CFC in the absence of this paragraph and subsections (5)(c) and (12)(a):
 
 - (d) a payment under a hire purchase agreement:
 
@@ -202,7 +202,7 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount: income from life insurance contract**
 
-**(8)** Income from a life insurance policy is included in an attributable CFC amount under subsection (3)﻿(g) if the income is not included in a calculation of FIF income or loss and is—
+**(8)** Income from a life insurance policy is included in an attributable CFC amount under subsection (3)(g) if the income is not included in a calculation of FIF income or loss and is—
 
 - (a) a distribution, if the life insurance policy is not intended to compensate the CFC for financial losses arising from the death or extended incapacity of a specified employee or member involved in the CFC's business:
 
@@ -212,7 +212,7 @@ compilation_date: 2026-06-06
 
 **Attributable CFC amount: income from personal services**
 
-**(9)** Income derived by a CFC from the supply of personal services is included in an attributable CFC amount under subsection (3)﻿(h) if the personal services are performed by another person (the working person) and—
+**(9)** Income derived by a CFC from the supply of personal services is included in an attributable CFC amount under subsection (3)(h) if the personal services are performed by another person (the working person) and—
 
 - (a) the working person is a New Zealand resident; and
 
@@ -228,7 +228,7 @@ compilation_date: 2026-06-06
 
 **Exclusions from attributable CFC amount: shares**
 
-**(10)** Income derived by a CFC from the disposal of a share that is revenue account property is not included in an attributable CFC amount under subsection (3)﻿(i) if the CFC's FIF income or loss from the share in the period ending with the disposal is calculated using—
+**(10)** Income derived by a CFC from the disposal of a share that is revenue account property is not included in an attributable CFC amount under subsection (3)(i) if the CFC's FIF income or loss from the share in the period ending with the disposal is calculated using—
 
 - (a) the comparative value method:
 
@@ -240,7 +240,7 @@ compilation_date: 2026-06-06
 
 **Exclusions from attributable CFC amount: telecommunications services in New Zealand**
 
-**(11)** Income of a CFC from a telecommunications service physically performed in New Zealand is not included in an attributable CFC amount under subsection (3)﻿(n) if—
+**(11)** Income of a CFC from a telecommunications service physically performed in New Zealand is not included in an attributable CFC amount under subsection (3)(n) if—
 
 - (a) the service is the transmission, emission, or reception of information between New Zealand and a country or territory with which the CFC has a taxed CFC connection; and
 
@@ -264,9 +264,9 @@ compilation_date: 2026-06-06
 
 **Exclusions from attributable CFC amount: income from financial arrangements other than derivative instruments**
 
-**(12)** Income of a CFC from a financial arrangement or excepted financial arrangement that is referred to in subsection (4)﻿(a)﻿(i) is not included in an attributable CFC amount under subsection (4)﻿(a) if the financial arrangement or agreement is—
+**(12)** Income of a CFC from a financial arrangement or excepted financial arrangement that is referred to in subsection (4)(a)(i) is not included in an attributable CFC amount under subsection (4)(a) if the financial arrangement or agreement is—
 
-- (a) an agreement by the CFC to lend money to a person who would be an associated non-attributing active CFC in the absence of this paragraph and subsections (5)﻿(c) and (7)﻿(c):
+- (a) an agreement by the CFC to lend money to a person who would be an associated non-attributing active CFC in the absence of this paragraph and subsections (5)(c) and (7)(c):
 
 - (b) an agreement for the sale or purchase of property or services or a hire purchase agreement—
 

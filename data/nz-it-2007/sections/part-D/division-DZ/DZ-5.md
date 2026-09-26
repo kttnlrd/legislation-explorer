@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
 **(4)** The deductions to which subsection (3) applies are deductions for expenditure incurred before, on, or after 16 December 1991 that—
 
-- (a) are not deductions of a kind referred to in subsection (5)﻿(a) to (c); and
+- (a) are not deductions of a kind referred to in subsection (5)(a) to (c); and
 
 - (b) are attributable to—
 

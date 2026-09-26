@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)** An excess debt entity must apportion its interest expenditure for an income year under section FE 6 if,—
 
-- (a) the excess debt entity is none of an excess debt outbound company, an excess debt entity with a worldwide group given by section FE 31D, and a trustee who is described in section FE 2(1)﻿(g), and—
+- (a) the excess debt entity is none of an excess debt outbound company, an excess debt entity with a worldwide group given by section FE 31D, and a trustee who is described in section FE 2(1)(g), and—
 
   - (i) the debt percentage of its New Zealand group for the income year is more than 60%; and
 
@@ -26,7 +26,7 @@ compilation_date: 2026-06-06
 
   - (ii) the debt percentage of its New Zealand group for the income year is more than 100% of the debt percentage of the worldwide group; or
 
-- (b) the excess debt entity is an excess debt outbound company, or is a trustee who is described in section FE 2(1)﻿(g), and—
+- (b) the excess debt entity is an excess debt outbound company, or is a trustee who is described in section FE 2(1)(g), and—
 
   - (i) the debt percentage of its New Zealand group for the income year is more than 75%; and
 
@@ -34,7 +34,7 @@ compilation_date: 2026-06-06
 
 **Exceptions for excess debt outbound companies**
 
-**(1B)**  Despite subsection (1), an excess debt outbound company and a natural person or trustee who is described in section FE 2(1)﻿(g) do not have to apportion interest expenditure for an income year under section FE 6 if, for the income year,—
+**(1B)**  Despite subsection (1), an excess debt outbound company and a natural person or trustee who is described in section FE 2(1)(g) do not have to apportion interest expenditure for an income year under section FE 6 if, for the income year,—
 
 - (a) a ratio of 90% or greater is obtained by dividing the amount for its New Zealand group of the total group assets measured under section FE 16 and reduced by the total group non-debt liabilities, measured under section FE 16B, by the amount for its worldwide group of the total group assets measured under section FE 18 and reduced by the total group non-debt liabilities, measured under section FE 18:
 
@@ -66,7 +66,7 @@ compilation_date: 2026-06-06
 
 - (b) attributed, for the worldwide group, is zero and, for the New Zealand group, is the income—
 
-  - (i) under generally accepted accounting practice from an interest in a FIF or CFC described in section FE 2(1)﻿(e) to (g); and
+  - (i) under generally accepted accounting practice from an interest in a FIF or CFC described in section FE 2(1)(e) to (g); and
 
   - (ii) included in the calculation of the item net profit or loss and not included in the calculation of the item net interest:
 
@@ -78,7 +78,7 @@ compilation_date: 2026-06-06
 
 **Natural persons' worldwide group total assets**
 
-**(1C)**  For the purposes of subsection (1B)﻿(a), the total group assets and total group non-debt liabilities of a natural person's worldwide group under section FE 18 are measured on the basis that the natural person is an excess debt entity that has a worldwide group made up of—
+**(1C)**  For the purposes of subsection (1B)(a), the total group assets and total group non-debt liabilities of a natural person's worldwide group under section FE 18 are measured on the basis that the natural person is an excess debt entity that has a worldwide group made up of—
 
 - (a) the natural person; and
 
@@ -122,9 +122,9 @@ compilation_date: 2026-06-06
 
 **(3)** A natural person must apportion their interest expenditure for an income year under section FE 6 if,—
 
-- (a) they are not described in section FE 2(1)﻿(g), and the debt percentage of their New Zealand group for the income year is more than 60%; or
+- (a) they are not described in section FE 2(1)(g), and the debt percentage of their New Zealand group for the income year is more than 60%; or
 
-- (b) they are described in section FE 2(1)﻿(g), and the debt percentage of their New Zealand group for the income year is more than 75%.
+- (b) they are described in section FE 2(1)(g), and the debt percentage of their New Zealand group for the income year is more than 75%.
 
 **Debt percentages**
 

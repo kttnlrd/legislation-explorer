@@ -46,7 +46,7 @@ compilation_date: 2026-06-06
 
 **Entry into force**
 
-**(3)** An agreement to which subsection (1)﻿(a) and (b) apply comes into force as declared by the Governor-General by Order in Council and on the date determined under the agreement.
+**(3)** An agreement to which subsection (1)(a) and (b) apply comes into force as declared by the Governor-General by Order in Council and on the date determined under the agreement.
 
 **Secondary legislation**
 
@@ -60,7 +60,7 @@ compilation_date: 2026-06-06
 
 - (b) any other tax imposed by this Act:
 
-- (c) the exchange of information that relates to a tax, as defined in paragraph (a)﻿(i) to (v) of the definition of tax in section 3(1) of the Tax Administration Act 1994.
+- (c) the exchange of information that relates to a tax, as defined in paragraph (a)(i) to (v) of the definition of tax in section 3(1) of the Tax Administration Act 1994.
 
 **Provisions**
 

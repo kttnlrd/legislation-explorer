@@ -20,7 +20,7 @@ compilation_date: 2026-06-06
 
 **Calculation modified: for 5% uplift**
 
-**(2)** In the calculation of the amount of an instalment, in section RC 10(3)﻿(a), subparagraph (i) is modified so that—
+**(2)** In the calculation of the amount of an instalment, in section RC 10(3)(a), subparagraph (i) is modified so that—
 
 - (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year, instead of using a 5% uplift, a 5% reduction is used, if the person is a new personal tax rate person:
 
@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Calculation modified: for 10% uplift**
 
-**(3)** In the calculation of the amount of an instalment, in section RC 10(3)﻿(a), subparagraph (ii) is modified so that—
+**(3)** In the calculation of the amount of an instalment, in section RC 10(3)(a), subparagraph (ii) is modified so that—
 
 - (a) for instalments payable on or after 1 October 2010 for the 2010–11 income year, instead of using a 10% uplift, a 5% reduction is used, if the person is a new personal tax rate person:
 

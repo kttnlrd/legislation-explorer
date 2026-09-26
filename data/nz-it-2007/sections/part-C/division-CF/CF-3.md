@@ -18,9 +18,9 @@ compilation_date: 2026-06-06
 
   - (i) when the person is a non-resident or is treated under a double tax agreement as being resident in a foreign country or territory:
 
-  - (ii) in a transaction referred to in subsection (21)﻿(b) or (d) from a person who acquired the interest in the scheme when being a non-resident or when treated under a double tax agreement as being resident in a foreign country or territory:
+  - (ii) in a transaction referred to in subsection (21)(b) or (d) from a person who acquired the interest in the scheme when being a non-resident or when treated under a double tax agreement as being resident in a foreign country or territory:
 
-- (b) is a FIF superannuation interest (a low-value FIF superannuation interest) from which the person does not have FIF income or loss because the person, although not acting as a trustee, does not meet the requirements of sections CQ 5(1)﻿(d) and DN 6(1)﻿(d) (which relate to when FIF income and FIF loss arise).
+- (b) is a FIF superannuation interest (a low-value FIF superannuation interest) from which the person does not have FIF income or loss because the person, although not acting as a trustee, does not meet the requirements of sections CQ 5(1)(d) and DN 6(1)(d) (which relate to when FIF income and FIF loss arise).
 
 **Income**
 
@@ -36,7 +36,7 @@ compilation_date: 2026-06-06
 
 **Exception**
 
-**(3)** A foreign superannuation withdrawal is not income of the person under subsection (2)﻿(d) if—
+**(3)** A foreign superannuation withdrawal is not income of the person under subsection (2)(d) if—
 
 - (a) the benefit is an interest of the person in the scheme that is withdrawn on the death of the person or under a relationship agreement arising from an event (the relationship cessation) that occurs when,—
 
@@ -126,7 +126,7 @@ compilation_date: 2026-06-06
 
   - (iv) the person has not used the schedule method for the interest in the scheme; and
 
-  - (v) for a person who acquires the interest in the scheme of a spouse, civil union partner, or de facto partner by a transfer referred to in subsection (21)﻿(d), the other person did not use the schedule method for the interest in the scheme; and
+  - (v) for a person who acquires the interest in the scheme of a spouse, civil union partner, or de facto partner by a transfer referred to in subsection (21)(d), the other person did not use the schedule method for the interest in the scheme; and
 
   - (vi) the person chooses to use the formula method for the interest in the scheme.
 

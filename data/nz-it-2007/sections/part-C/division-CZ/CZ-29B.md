@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Modified definition of project of limited duration**
 
-**(3)** Despite paragraph (c)﻿(iii) of the definition of project of limited duration and section CW 16C(2)﻿(d) (Time periods for certain accommodation expenditure), for the purposes of this section, the 3-year limit is ignored and is replaced by 5 years, if the employee starts work at the distant workplace in the period commencing on the date of the first relevant North Island flooding event, being 8 January 2023, 26 January 2023, or 12 February 2023, as the case may be, and ending 5 years after that date.
+**(3)** Despite paragraph (c)(iii) of the definition of project of limited duration and section CW 16C(2)(d) (Time periods for certain accommodation expenditure), for the purposes of this section, the 3-year limit is ignored and is replaced by 5 years, if the employee starts work at the distant workplace in the period commencing on the date of the first relevant North Island flooding event, being 8 January 2023, 26 January 2023, or 12 February 2023, as the case may be, and ending 5 years after that date.
 
 **How time limit determined**
 
@@ -56,7 +56,7 @@ compilation_date: 2026-06-06
 
 **Secondary legislation**
 
-**(7)** An Order in Council under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements). There is no secondary legislation made under this section currently on this website Legislation Act 2019 requirements for secondary legislation made under this section Publication PCO must publish it on the legislation website and notify it in the Gazette LA19 s 69(1)﻿(c) Presentation The Minister must present it to the House of Representatives LA19 s 114 Disallowance It may be disallowed by the House of Representatives LA19 ss 115, 116 This note is not part of the Act.
+**(7)** An Order in Council under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements). There is no secondary legislation made under this section currently on this website Legislation Act 2019 requirements for secondary legislation made under this section Publication PCO must publish it on the legislation website and notify it in the Gazette LA19 s 69(1)(c) Presentation The Minister must present it to the House of Representatives LA19 s 114 Disallowance It may be disallowed by the House of Representatives LA19 ss 115, 116 This note is not part of the Act.
 
 *Defined in this Act: accommodation, distant workplace, employee, employer, exempt income, land, North Island flooding events, period of continuous work, project of limited duration*
 

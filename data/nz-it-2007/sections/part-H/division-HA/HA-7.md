@@ -22,7 +22,7 @@ compilation_date: 2026-06-06
 
 **Dividends derived by trustees**
 
-**(2)** For the purposes of subsection (1)﻿(b), all dividends that the trustee of a trust derives from a qualifying company in an income year must be beneficiary income of 1 or more persons who are not trustees or companies other than qualifying companies. However, this subsection does not apply to non-cash dividends other than taxable bonus issues.
+**(2)** For the purposes of subsection (1)(b), all dividends that the trustee of a trust derives from a qualifying company in an income year must be beneficiary income of 1 or more persons who are not trustees or companies other than qualifying companies. However, this subsection does not apply to non-cash dividends other than taxable bonus issues.
 
 **Special shareholding rules**
 

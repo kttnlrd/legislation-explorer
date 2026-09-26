@@ -20,19 +20,19 @@ compilation_date: 2026-06-06
 
 **Monthly payments**
 
-**(2)** For the purposes of subsection (1)﻿(a), an employer must pay the amount of tax withheld by the 20th day of the month following the month in which the PAYE income payment is made if they are—
+**(2)** For the purposes of subsection (1)(a), an employer must pay the amount of tax withheld by the 20th day of the month following the month in which the PAYE income payment is made if they are—
 
 - (a) an employer who—
 
   - (i) is not a new employer; and
 
-  - (ii) has, for the preceding tax year, gross amounts of tax of less than $500,000 withheld under section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes):
+  - (ii) has, for the preceding tax year, gross amounts of tax of less than $500,000 withheld under section RA 5(1)(a) and (c) (Tax obligations for employment-related taxes):
 
-- (b) a new employer who has, for the current tax year, gross amounts of tax withheld under section RA 5(1)﻿(a) and (c) that total less than $500,000.
+- (b) a new employer who has, for the current tax year, gross amounts of tax withheld under section RA 5(1)(a) and (c) that total less than $500,000.
 
 **Twice-monthly payments**
 
-**(3)** An employer to whom subsection (1)﻿(b) applies must pay the amount of tax withheld to the Commissioner by the dates referred to in section RA 15(2) (Payment dates for interim and other tax payments).
+**(3)** An employer to whom subsection (1)(b) applies must pay the amount of tax withheld to the Commissioner by the dates referred to in section RA 15(2) (Payment dates for interim and other tax payments).
 
 **Liability when amount not withheld**
 
@@ -40,7 +40,7 @@ compilation_date: 2026-06-06
 
 **Amounts aggregated for threshold purposes**
 
-**(5)** For the purposes of determining whether a threshold referred to in subsection (2)﻿(a)﻿(ii) and (b) is reached, if the employer ends their business and starts a new business, or operates 2 or more businesses at the same time, all amounts of tax withheld must be aggregated.
+**(5)** For the purposes of determining whether a threshold referred to in subsection (2)(a)(ii) and (b) is reached, if the employer ends their business and starts a new business, or operates 2 or more businesses at the same time, all amounts of tax withheld must be aggregated.
 
 **Persons treated as single employers**
 

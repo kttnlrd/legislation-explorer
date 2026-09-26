@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Exclusion**
 
-**(3)** This section does not apply to the extent to which the person has accepted a liability, as described in section DC 10(1)﻿(c), to pay an amount of employment income.
+**(3)** This section does not apply to the extent to which the person has accepted a liability, as described in section DC 10(1)(c), to pay an amount of employment income.
 
 **Timing of deduction**
 

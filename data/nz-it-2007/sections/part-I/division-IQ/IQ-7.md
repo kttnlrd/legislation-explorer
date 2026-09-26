@@ -18,7 +18,7 @@ compilation_date: 2026-06-06
 
 - (b) the company was not part of the consolidated group in the earlier tax year in which the net loss arose; and
 
-- (c) the company and 1 or more of the companies in the consolidated group do not meet the requirements for common ownership of section IC 5(1)﻿(a) (Company B using company A's tax loss) for the loss period.
+- (c) the company and 1 or more of the companies in the consolidated group do not meet the requirements for common ownership of section IC 5(1)(a) (Company B using company A's tax loss) for the loss period.
 
 **Limit on amount**
 

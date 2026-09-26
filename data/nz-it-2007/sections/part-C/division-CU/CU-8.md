@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 **Secondary legislation**
 
-**(3)** A notice under subsection (1)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+**(3)** A notice under subsection (1)(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 *Defined in this Act: listed industrial mineral, mineral, Minister, New Zealand*
 

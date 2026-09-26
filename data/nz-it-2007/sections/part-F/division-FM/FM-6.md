@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 - (a) the imputation rules:
 
-- (c) sections FM 8(3)﻿(c), GB 38, and OP 3 to OP 50 (which relate to dividends and consolidated groups):
+- (c) sections FM 8(3)(c), GB 38, and OP 3 to OP 50 (which relate to dividends and consolidated groups):
 
 - (e) section 74 of the Tax Administration Act 1994.
 

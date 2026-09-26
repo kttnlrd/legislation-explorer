@@ -24,7 +24,7 @@ compilation_date: 2026-06-06
 
 **Order for tax loss component from unused specified activity net loss**
 
-**(4)** For the purposes of subsection (1), the tax loss component under section IA 2(4)﻿(g) arose when the specified activity net loss, that is referred to in the definition of unused specified activity net loss and that makes up the tax loss component, arose.
+**(4)** For the purposes of subsection (1), the tax loss component under section IA 2(4)(g) arose when the specified activity net loss, that is referred to in the definition of unused specified activity net loss and that makes up the tax loss component, arose.
 
 *Defined in this Act: amalgamated company, amalgamation, amount, Commissioner, company, consolidated group, notify, ring-fenced tax loss, tax loss, tax loss component, tax year, unused specified activity net loss*
 

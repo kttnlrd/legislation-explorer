@@ -14,7 +14,7 @@ compilation_date: 2026-06-06
 
 **(1)** This subpart applies when—
 
-- (a) a person derives a foreign superannuation withdrawal that is income in the form of a benefit under section CF 3(2)﻿(b) (Withdrawals from foreign superannuation scheme) from an interest in a foreign superannuation scheme that is withdrawn and reinvested as an interest in a superannuation scheme in New Zealand; and
+- (a) a person derives a foreign superannuation withdrawal that is income in the form of a benefit under section CF 3(2)(b) (Withdrawals from foreign superannuation scheme) from an interest in a foreign superannuation scheme that is withdrawn and reinvested as an interest in a superannuation scheme in New Zealand; and
 
 - (b) the superannuation scheme in New Zealand is a transfer scheme; and
 

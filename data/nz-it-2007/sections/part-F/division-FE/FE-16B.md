@@ -52,17 +52,17 @@ compilation_date: 2026-06-06
 
 **(3)** If a shareholder is a company,—
 
-- (a) for the purposes of subsection (1)﻿(b) and (c), the shareholder's equity group is treated as the shareholder for all the shares held by members of the equity group; and
+- (a) for the purposes of subsection (1)(b) and (c), the shareholder's equity group is treated as the shareholder for all the shares held by members of the equity group; and
 
-- (b) for the purposes of subsection (1)﻿(b), the shareholder's equity group is treated as the provider of all the funds that are provided by members of the equity group.
+- (b) for the purposes of subsection (1)(b), the shareholder's equity group is treated as the provider of all the funds that are provided by members of the equity group.
 
 **Trustee treated as single shareholder and provider of funds**
 
 **(4)** If a shareholder is a trustee of a trust,—
 
-- (a) for the purposes of subsection (1)﻿(b) and (c), the trustee is treated as the shareholder for all the shares held by a settlor of the trust and relatives of the settlor, if the settlor and relatives have made at least 90% of the settlements made on the trust; and
+- (a) for the purposes of subsection (1)(b) and (c), the trustee is treated as the shareholder for all the shares held by a settlor of the trust and relatives of the settlor, if the settlor and relatives have made at least 90% of the settlements made on the trust; and
 
-- (b) for the purposes of subsection (1)﻿(b), the trustee is treated as the provider of all the funds that are provided by a settlor of the trust and relatives of the settlor, if the settlor and relatives have made at least 90% of the settlements made on the trust.
+- (b) for the purposes of subsection (1)(b), the trustee is treated as the provider of all the funds that are provided by a settlor of the trust and relatives of the settlor, if the settlor and relatives have made at least 90% of the settlements made on the trust.
 
 **Meaning of equity group**
 

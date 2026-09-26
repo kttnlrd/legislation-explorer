@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **(3)** The Commissioner must calculate the amount of the instalment using—
 
-- (a) a value for family scheme income as directed by section MF 3(2)﻿(c); and
+- (a) a value for family scheme income as directed by section MF 3(2)(c); and
 
 - (b) the amounts of family tax credit, in-work tax credit, child tax credit, parental tax credit, family credit abatement, minimum family tax credit, Best Start tax credit, and Best Start credit abatement set out in sections MD 3, MD 4, MD 11, MD 12, MD 13, ME 1, MG 2, and MG 3.
 

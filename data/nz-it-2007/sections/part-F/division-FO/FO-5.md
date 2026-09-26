@@ -16,7 +16,7 @@ compilation_date: 2026-06-06
 
 **Treatment of liabilities on liquidation**
 
-**(2)** Despite subsection (1), when an amalgamating company to which section CG 2C applies has liabilities that are required to be assumed under section FO 4(2)﻿(b), section CG 2C applies—
+**(2)** Despite subsection (1), when an amalgamating company to which section CG 2C applies has liabilities that are required to be assumed under section FO 4(2)(b), section CG 2C applies—
 
 - (a) to the amalgamated company as if it were company A; and
 

@@ -62,7 +62,7 @@ compilation_date: 2026-06-06
 
   - (iii) the funding is provided through an indirect associated funding arrangement described in subsection (3C):
 
-  - (iv) the lender is a member of a non-resident owning body, or of a group of non-residents who act in concert and are each described in section FE 2(1)﻿(a) to (db) (When this subpart applies), and the members of the non-resident owning body or of the group have a total ownership interest, determined under sections FE 38 to FE 41, of 50% or more in the borrower; and
+  - (iv) the lender is a member of a non-resident owning body, or of a group of non-residents who act in concert and are each described in section FE 2(1)(a) to (db) (When this subpart applies), and the members of the non-resident owning body or of the group have a total ownership interest, determined under sections FE 38 to FE 41, of 50% or more in the borrower; and
 
 - (b) expenditure arises for the borrower for which the borrower is allowed a deduction.
 
@@ -78,7 +78,7 @@ compilation_date: 2026-06-06
 
 - (b) the indirect lender is associated with the borrower, or a person or group of persons has a total ownership interest, determined under sections FE 38 to FE 41, of 50% or more in each of the indirect lender and borrower; and
 
-- (c) the direct lender is not associated with the borrower and is not described in subsection (3B)﻿(a)﻿(iv).
+- (c) the direct lender is not associated with the borrower and is not described in subsection (3B)(a)(iv).
 
 **Application of sections to cross-border related borrowing**
 

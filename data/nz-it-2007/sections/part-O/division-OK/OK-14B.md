@@ -14,9 +14,9 @@ compilation_date: 2026-06-06
 
 **(1)** A Maori authority has a Maori authority debit for—
 
-- (a) the amount of a transfer under section LA 6(2)﻿(d) (Remaining refundable credits: PAYE, RWT, and certain other items) to the extent to which the transfer does not lead to a refund of income tax:
+- (a) the amount of a transfer under section LA 6(2)(d) (Remaining refundable credits: PAYE, RWT, and certain other items) to the extent to which the transfer does not lead to a refund of income tax:
 
-- (b) the amount of a refund to the authority under section LA 6(2)﻿(e).
+- (b) the amount of a refund to the authority under section LA 6(2)(e).
 
 **Table reference**
 
@@ -26,9 +26,9 @@ compilation_date: 2026-06-06
 
 **(4)** The debit date is—
 
-- (a) for a debit referred to in subsection (1)﻿(a), the day the amount is transferred:
+- (a) for a debit referred to in subsection (1)(a), the day the amount is transferred:
 
-- (b) for a debit referred to in subsection (1)﻿(b), the day the amount is refunded.
+- (b) for a debit referred to in subsection (1)(b), the day the amount is refunded.
 
 *Defined in this Act: amount, Inland Revenue Acts, Maori authority, Maori authority debit, pay*
 

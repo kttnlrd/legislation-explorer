@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **Last date for payment**
 
-**(1)** A payment under section IC 5(2)﻿(b) must be made no later than the extended return date, or by a later date if the Commissioner allows.
+**(1)** A payment under section IC 5(2)(b) must be made no later than the extended return date, or by a later date if the Commissioner allows.
 
 **Date and method for notifying Commissioner**
 

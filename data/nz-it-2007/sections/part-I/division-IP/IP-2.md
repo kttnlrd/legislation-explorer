@@ -12,11 +12,11 @@ compilation_date: 2026-06-06
 
 **Common span**
 
-**(1)** In this subpart, the corresponding parts of company A's income year and company B's income year when the requirements for commonality of ownership under section IC 5(1)﻿(a) (Company B using company A's tax loss) are met is called the common span.
+**(1)** In this subpart, the corresponding parts of company A's income year and company B's income year when the requirements for commonality of ownership under section IC 5(1)(a) (Company B using company A's tax loss) are met is called the common span.
 
 **Common span when balance dates differ**
 
-**(2)** If the income years of company A and company B do not end on the same date, the common span is that part of company B's income year or income years in which the requirements for commonality are met. Section IC 10(2)﻿(b) (When companies have different balance dates) may apply to extend the period.
+**(2)** If the income years of company A and company B do not end on the same date, the common span is that part of company B's income year or income years in which the requirements for commonality are met. Section IC 10(2)(b) (When companies have different balance dates) may apply to extend the period.
 
 **Calculating group companies' tax losses**
 

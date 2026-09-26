@@ -32,7 +32,7 @@ compilation_date: 2026-06-06
 
 **Ruling about new law**
 
-**(2)** The binding ruling continues to exist despite the intended change referred to in subsection (1)﻿(c)﻿(ii) from the commencement of this Act to the date on which the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 receives the Royal assent.
+**(2)** The binding ruling continues to exist despite the intended change referred to in subsection (1)(c)(ii) from the commencement of this Act to the date on which the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 receives the Royal assent.
 
 **No confirmation rulings**
 

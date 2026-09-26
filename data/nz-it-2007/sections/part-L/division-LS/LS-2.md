@@ -24,9 +24,9 @@ compilation_date: 2026-06-06
 
 - (c) the income is not excluded income of the investor because—
 
-  - (i) the test in section CX 56(1)﻿(b) (Attributed income of certain investors in multi-rate PIEs) is not met; or
+  - (i) the test in section CX 56(1)(b) (Attributed income of certain investors in multi-rate PIEs) is not met; or
 
-  - (ii) section CX 56(2)﻿(b), (c), or (d) applies.
+  - (ii) section CX 56(2)(b), (c), or (d) applies.
 
 **Amount of credit**
 

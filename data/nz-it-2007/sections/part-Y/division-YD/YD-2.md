@@ -28,7 +28,7 @@ compilation_date: 2026-06-06
 
 **Treatment of non-resident visitors**
 
-**(1C)**  For the purposes of subsection (1)﻿(b), (c), and (d) and section YD 3(4)﻿(b), (c), and (d), and for a foreign company, the activities in New Zealand of a non-resident visitor are disregarded.
+**(1C)**  For the purposes of subsection (1)(b), (c), and (d) and section YD 3(4)(b), (c), and (d), and for a foreign company, the activities in New Zealand of a non-resident visitor are disregarded.
 
 **International tax rules**
 

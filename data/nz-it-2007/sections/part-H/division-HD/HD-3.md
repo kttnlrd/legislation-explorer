@@ -30,7 +30,7 @@ compilation_date: 2026-06-06
 
 - (a) is not subject to subsection (2) for income derived under section CR 3B (Lloyd's of London: income from life insurance premiums); and
 
-- (b) must meet the obligations described in section HR 13(3)﻿(a) and (b) (Lloyd's of London: life insurance) but only to the extent described in section HD 17B(3).
+- (b) must meet the obligations described in section HR 13(3)(a) and (b) (Lloyd's of London: life insurance) but only to the extent described in section HD 17B(3).
 
 **Joint and several liability**
 

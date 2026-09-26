@@ -28,7 +28,7 @@ The imputation rules means the following:
 
 - (h) sections RM 13 to RM 17, RM 32, and RZ 6 (which relate to limits on refunds):
 
-- (i) section YA 2(7)﻿(b) (Meaning of income tax varied):
+- (i) section YA 2(7)(b) (Meaning of income tax varied):
 
 - (j) sections 29, 64, 67, 69, 70, 78D, 97, 101, 139B, 140B, 140D(1) and (2), and 180 of the Tax Administration Act 1994.
 

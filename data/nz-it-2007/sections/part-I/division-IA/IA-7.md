@@ -22,9 +22,9 @@ compilation_date: 2026-06-06
 
 **(4)** The general rules do not apply to excess expenditure of an investment fund under sections DV 5 and DV 7 (which relate to investment funds) except for—
 
-- (a) the amount under section DV 5(4)﻿(a) that the fund must treat as a tax loss component under section IA 2(4)﻿(a)﻿(i); and
+- (a) the amount under section DV 5(4)(a) that the fund must treat as a tax loss component under section IA 2(4)(a)(i); and
 
-- (b) the amount under section DV 7(2) that the fund chooses to treat as a tax loss component under section IA 2(4)﻿(a)﻿(ii).
+- (b) the amount under section DV 7(2) that the fund chooses to treat as a tax loss component under section IA 2(4)(a)(ii).
 
 **Attributed CFC net losses**
 

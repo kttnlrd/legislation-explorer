@@ -44,7 +44,7 @@ compilation_date: 2026-06-06
 
 **Relationship with sections HB 1 and HG 2**
 
-**(6)** For the purposes of determining association under subsection (1)﻿(a) and a disposal between a person who has an effective look-through interest for a look-through company and the look-through company or a person and a partnership, sections HB 1 (Look-through companies are transparent) and HG 2 (Partnerships are transparent) are ignored and association is determined under section YB 12 or YB 13.
+**(6)** For the purposes of determining association under subsection (1)(a) and a disposal between a person who has an effective look-through interest for a look-through company and the look-through company or a person and a partnership, sections HB 1 (Look-through companies are transparent) and HG 2 (Partnerships are transparent) are ignored and association is determined under section YB 12 or YB 13.
 
 **When this section does not apply**
 

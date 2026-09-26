@@ -12,7 +12,7 @@ compilation_date: 2026-06-06
 
 **When this section applies**
 
-**(1)** This section applies in the circumstances described in section FC 1(1)﻿(b) when tax-base property is transferred on a person's death if—
+**(1)** This section applies in the circumstances described in section FC 1(1)(b) when tax-base property is transferred on a person's death if—
 
 - (a) each beneficiary of the deceased person is described in subsection (2); and
 
