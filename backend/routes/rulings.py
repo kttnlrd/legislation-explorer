@@ -71,13 +71,36 @@ TYPE_DISPLAY: dict[str, str] = {
     "TR": "TR – Tax Ruling",
 }
 
+def _norm_title(s: str) -> str:
+    """Lowercase and drop every non-alphanumeric character — for comparisons."""
+    return re.sub(r'[^a-z0-9]+', '', (s or '').lower())
+
+
+def _is_citation_only(desc: str, base: str, citation: str) -> bool:
+    """True when the description IS the citation (raw stem or display form).
+
+    CDN-0204: two rulings carry the ATOID stem as their description
+    ('AID_2001_497'); those must not render as 'ATOID 2001/497 — AID_2001_497'.
+    """
+    d = _norm_title(desc)
+    return not d or d in {_norm_title(base), _norm_title(citation)}
+
+
 def _tree_title(r: dict) -> str:
-    """Short title for tree sidebar — citation + truncated description."""
+    """Short title for tree sidebar — citation + truncated description.
+
+    CDN-0204 regression: this compared `full_title != title`, so the 32 rulings
+    whose recovered `full_title` equals `title` (e.g. GSTR 2000/17, 'Goods and
+    services tax: tax invoices') rendered as a bare citation — the tree went from
+    332 to 364/365 bare titles when 3b715b745 landed. The comparison is against
+    the citation/stem instead: append the description whenever it actually says
+    something the citation does not.
+    """
     base = r.get("citation_display", r["citation"])
-    full = r.get('full_title', '')
-    if full and full != r.get("title", "") and 'Legal database' not in full:
+    desc = (r.get('full_title') or r.get('title') or '').strip()
+    if desc and 'Legal database' not in desc and not _is_citation_only(desc, base, r.get("citation", "")):
         # Truncate to 120 chars for tree display
-        short = full[:120].rsplit(' ', 1)[0] if len(full) > 120 else full
+        short = desc[:120].rsplit(' ', 1)[0] if len(desc) > 120 else desc
         base = f"{base} — {short}"
     if r.get('withdrawn'):
         base += "  [WITHDRAWN]"
