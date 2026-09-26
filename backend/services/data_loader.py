@@ -725,6 +725,154 @@ def validate_ruling_meta(stem: str, meta: dict | None) -> None:
         raise ValueError(f"Ruling meta/filename mismatch for {stem}: " + "; ".join(problems))
 
 
+# ── Ruling title extraction (CDN-0204) ───────────────────────────────────────
+# ATO PDF text wraps long ruling titles over 2-4 lines. Lines matching the
+# patterns below are page furniture, not title text.
+_RULING_TITLE_SKIP_RE = re.compile(
+    r'^(Keywords|Date of decision|SUBJECT|PURPOSE|Paragraph|FOI status|Issue|Decision|'
+    r'Facts|CAUTION|Download|Email|Print|Back to browse|Contents|Please|PDF|'
+    r'This ATO ID|This document|ATO Interpretative Decision|File Number|={3,})',
+    re.IGNORECASE,
+)
+_RULING_TITLE_STOP_RE = re.compile(
+    r'^(This cover sheet|There is a Compendium|Generated on|Status:|Page \d+ of|'
+    r'Taxation Ruling|Taxation Determination|Relying on this|Table of Contents|'
+    r'©|Australian Taxation Office|For the purposes|ISSN:)',
+    re.IGNORECASE,
+)
+_RULING_CITE_LINE_RE = re.compile(
+    r'^([A-Z]+ \d{2,4}/\d+|ATO ID \d{4}/\d+|PS LA \d{4}/\d+|\w{2,4} \d{4}/\d+)'
+)
+# Status markers that ride on a withdrawal/erratum citation line and are not
+# title text, e.g. 'GSTR 2000/20W - Withdrawal'.
+_RULING_TAIL_STATUS_RE = re.compile(
+    r'^(Withdrawal|Withdrawn|Notice of Withdrawal|Erratum|Addendum|Corrigendum|'
+    r'Draft|Final|Notice)s?\.?$',
+    re.IGNORECASE,
+)
+
+
+def _title_norm(s: str) -> str:
+    """Lowercase + strip all punctuation/whitespace runs — for title comparison."""
+    return re.sub(r'[^a-z0-9]+', ' ', (s or '').lower()).strip()
+
+
+def _is_title_truncation(cand: str, authoritative: str) -> bool:
+    """True when `cand` is provably an incomplete *prefix* of `authoritative`.
+
+    CDN-0204: wrapped ATO titles drop their tail, so an incomplete extraction is
+    a normalised prefix of the full title (e.g. '...subsection 38-190(1) of').
+    A substring that is not a prefix (e.g. the full title minus a publisher
+    prefix) is NOT treated as a truncation, so the extractor is not overridden
+    by a differently-worded authoritative title.
+    """
+    c, a = _title_norm(cand), _title_norm(authoritative)
+    if not c or not a:
+        return False
+    return c != a and a.startswith(c)
+
+
+def _strip_leading_citation(title: str | None) -> str | None:
+    """Drop a leading citation prefix baked into a clean title.
+
+    Some meta/summary titles embed the citation, e.g.
+    'LCR 2026/1 - Payday Super: ...' → 'Payday Super: ...',
+    'TD 94/82 - Income tax: ...' → 'Income tax: ...'.
+    """
+    if not title:
+        return title
+    t = re.sub(r"^[A-Z]{2,6} \d{2,4}/D?\d+\s*[—\-–]?\s*", "", title).strip()
+    return t or title
+
+
+_CHROME_IN_TITLE_RE = re.compile(
+    r'\s(?:This cover sheet|There is a Compendium|Generated on|Status:|'
+    r'Taxation Ruling|Taxation Determination|Relying on this|Table of Contents)\b',
+    re.IGNORECASE,
+)
+
+
+def _trim_title_at_chrome(s: str) -> str:
+    """Cut a title where it ran into ATO cover-sheet chrome mid-line.
+
+    e.g. "...under an eligible policy? This cover sheet is provided for
+    information only. ..." → "...under an eligible policy?".
+    """
+    m = _CHROME_IN_TITLE_RE.search(s or "")
+    return (s[:m.start()].rstrip() if m else s).strip()
+
+
+def _plausible_authoritative(title: str | None, stem: str) -> str | None:
+    """Reject 'clean' titles that are really just the citation or too short.
+
+    Some meta sidecars carry the citation as their title (e.g. 'PCG 2021/1');
+    those must not override a real content-derived title.
+    """
+    if not title:
+        return None
+    if len(title.strip()) < 8:
+        return None
+    n = re.sub(r'[^a-z0-9]', '', title.lower())
+    s = re.sub(r'[^a-z0-9]', '', (stem or '').lower())
+    if n == s:
+        return None
+    return title
+
+
+def _best_authoritative(meta_title: str | None, summary_title: str | None) -> str | None:
+    """Pick the more complete of the two clean titles (meta sidecar, summary).
+
+    meta.json titles are occasionally truncated mid-title (e.g. some GSTR
+    rulings end '... subsection 38-190(1) of') while summaries/<stem>.json
+    carries the full text; when one is a normalised prefix/substring of the
+    other, prefer the longer one. Unrelated titles prefer the validated meta.
+    """
+    if not meta_title:
+        return summary_title
+    if not summary_title:
+        return meta_title
+    nm, ns = _title_norm(meta_title), _title_norm(summary_title)
+    if nm and nm in ns:
+        return summary_title
+    if ns and ns in nm:
+        return meta_title
+    return meta_title
+
+
+def _wrapped_title(lines: list[str], cite_idx: int, tail: str | None) -> str:
+    """Extract a ruling's descriptive title from the lines after its citation.
+
+    ATO PDF text wraps a long title across lines only when the title *starts*
+    on the citation line (e.g. 'TR 2023/2 - Income tax: application of
+    paragraph' / '8-1(2)(a) of the ...'). In that case the citation-line tail is
+    joined with the following wrapped lines until a blank line, cover-sheet
+    chrome, the next citation line or boilerplate. A bare citation line (e.g.
+    'GSTR 2000/1W') carries the title on a single following line, so only that
+    line is taken — joining further would run into body text.
+    """
+    if not tail:
+        for j in range(cite_idx + 1, min(cite_idx + 8, len(lines))):
+            nxt = lines[j].strip()
+            if not nxt:
+                continue
+            # Skip single-word category headers (e.g. 'Withdrawal', 'Excise').
+            if (re.match(r'^[A-Z][a-z]+$', nxt) or _RULING_TITLE_STOP_RE.match(nxt)
+                    or _RULING_TITLE_SKIP_RE.match(nxt) or _RULING_CITE_LINE_RE.match(nxt)):
+                continue
+            return _trim_title_at_chrome(nxt)
+        return ''
+    parts = [tail.strip()]
+    for j in range(cite_idx + 1, min(cite_idx + 8, len(lines))):
+        nxt = lines[j].strip()
+        if not nxt:
+            break
+        if (_RULING_TITLE_STOP_RE.match(nxt) or _RULING_TITLE_SKIP_RE.match(nxt)
+                or _RULING_CITE_LINE_RE.match(nxt)):
+            break
+        parts.append(nxt)
+    return _trim_title_at_chrome(' '.join(parts).strip())
+
+
 @functools.lru_cache(maxsize=None)
 def load_rulings() -> list[dict]:
     rulings = []
@@ -738,6 +886,7 @@ def load_rulings() -> list[dict]:
             title = f.stem
             year = 0
             ruling_type = "LCG"
+            meta_title = None
             m = re.match(r'^([A-Za-z]+)_(\d{2,4})_(\d+)', f.stem)
             if not m:
                 # Draft citations: TD_2026_D1 → type TD, year 2026
@@ -763,6 +912,9 @@ def load_rulings() -> list[dict]:
                 meta = json.loads(meta_path.read_text(encoding="utf-8"))
                 validate_ruling_meta(f.stem, meta)
                 title = meta.get("title", title)
+                meta_title = _plausible_authoritative(
+                    _strip_leading_citation(meta.get("title") or None), f.stem
+                )
                 ruling_type = meta.get("ruling_type") or meta.get("type") or ruling_type
                 if meta.get("year"):
                     year = int(meta["year"])
@@ -774,7 +926,12 @@ def load_rulings() -> list[dict]:
             # Extract descriptive title from content (line after the ruling citation)
             full_title = title
             # CDN-0123: prefer clean title from summaries/<stem>.json when available
-            summary_title = _summary_title(f.stem)
+            summary_title = _plausible_authoritative(
+                _strip_leading_citation(_summary_title(f.stem)), f.stem
+            )
+            # CDN-0204: authoritative clean titles — the more complete of the
+            # sidecar meta and summaries/<stem>.json titles.
+            authoritative_title = _best_authoritative(meta_title, summary_title)
             # Strip ATO ID header lines before extracting title
             content_for_title = content
             if ruling_type == "PS LA" or ruling_type == "ATOID":
@@ -803,30 +960,27 @@ def load_rulings() -> list[dict]:
                     # extract the title directly from the citation line
                     title_from_citation = None
                     if ' - ' in ln:
-                        title_from_citation = ln.split(' - ', 1)[1].strip()
-                    for j in range(i + 1, min(i + 10, len(lines))):
-                        next_ln = lines[j].strip()
-                        if not next_ln:
-                            continue
-                        # Skip known header/boilerplate lines
-                        if re.match(r'^(Keywords|Date of decision|SUBJECT|PURPOSE|Paragraph|FOI status|Issue|Decision|Facts|CAUTION|Download|Email|Print|Back to browse|Contents)', next_ln, re.IGNORECASE):
-                            continue
-                        # Skip single-word category headers (e.g. "Excise", "Income Tax")
-                        if re.match(r'^[A-Z][a-z]+( [A-Z][a-z]+)?$', next_ln.strip()):
-                            # Check if the next line is indented (actual title) - if so, skip this category header
-                            if j + 1 < len(lines) and lines[j + 1].startswith(' ') and lines[j + 1].strip():
-                                continue
-                        if next_ln and not next_ln.startswith("Please") and not next_ln.startswith("PDF") and not next_ln.startswith("This ATO ID") and not next_ln.startswith("This document") and not re.match(_citation_re, next_ln) and not re.match(_citation_2yr_re, next_ln) and not re.match(r'^={3,}', next_ln):
-                            full_title = next_ln
-                            break
-                    # If no title found on the next line, use the citation line's title (after " - ")
-                    if full_title == title and title_from_citation:
-                        full_title = title_from_citation
-                    # CDN-0123: a single-line file means the "next line" never exists and
-                    # title_from_citation can be a body fragment (first " - " deep in text).
-                    # Fall back to the clean summary title when the extracted one looks wrong.
-                    if (full_title == title or len(full_title) > 200) and summary_title:
-                        full_title = summary_title
+                        # A huge 'tail' means the whole document is one line and
+                        # this is body text, not a title fragment.
+                        _tail = ln.split(' - ', 1)[1].strip()
+                        if len(_tail) <= 200 and not _RULING_TAIL_STATUS_RE.match(_tail):
+                            title_from_citation = _tail
+                    cand = _wrapped_title(lines, i, title_from_citation)
+                    # CDN-0123 (kept): a single-line file means there is no next line and
+                    # title_from_citation can be a body fragment. CDN-0204: wrapped ATO
+                    # titles make the old single-line candidate a mid-title fragment.
+                    # Use the authoritative meta/summary title whenever the candidate is
+                    # provably a truncation of it (or a runaway body fragment); otherwise
+                    # keep the content-derived candidate (meta/summary titles can be bad).
+                    if not cand:
+                        full_title = authoritative_title or title
+                    elif authoritative_title and (
+                        len(cand) > 200
+                        or _is_title_truncation(cand, authoritative_title)  # cand is truncated
+                    ):
+                        full_title = authoritative_title
+                    else:
+                        full_title = cand
                     break
             withdrawn = _check_withdrawn(content)
             rulings.append({
