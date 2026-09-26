@@ -128,6 +128,77 @@ class GuardTest(unittest.TestCase):
                 print("      " + p.stdout.strip().replace("\n", "\n      "))
                 self.assertEqual(want, p.returncode)
 
+    def test_7_untracked_section_file_refuses_a_code_only_commit(self):
+        """X1: a staged .py plus a bad-shape UNTRACKED section file must be refused.
+
+        Before the fix the hook exited 0 unless a section file was STAGED, so
+        corpus_change_guard's untracked scan (:194) never ran on a code-only commit and the bad
+        file could sit in data/ until some unrelated corpus commit. The test drives git itself
+        (the hook installed in a throwaway repo), so it asserts the refusal, not a copy of the
+        shell test.
+        """
+        import shutil, subprocess, tempfile
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            (root / "scripts").mkdir()
+            for name in ("pre_commit_corpus_guard.sh", "corpus_change_guard.py",
+                         "scan_corpus_error_classes.py"):
+                shutil.copyfile(SCRIPTS / name, root / "scripts" / name)
+            bad = root / "data" / "itaa-1997" / "sections" / "82-150.md"
+            bad.parent.mkdir(parents=True)
+            bad.write_text(f(PROSE, "**(2)** Work out the amount of the invalidity segment by "
+                                    "applying the\n\n"
+                                    "| termination payment | Employment | Days to |\n"
+                                    "| --- | --- | --- |\n where: days to retirement is the number "
+                                    "of days.\n"), encoding="utf-8")
+            code = root / "touched.py"
+            code.write_text("x = 1\n", encoding="utf-8")
+
+            def git(*args):
+                return subprocess.run(["git", *args], cwd=root, capture_output=True, text=True)
+
+            ident = ("-c", "user.email=t@example.invalid", "-c", "user.name=test")
+            git("init", "-q")
+            git("add", "scripts", "touched.py")
+            git(*ident, "commit", "-q", "-m", "base")
+            hook = root / ".git" / "hooks" / "pre-commit"
+            shutil.copyfile(root / "scripts" / "pre_commit_corpus_guard.sh", hook)
+            hook.chmod(0o755)
+            code.write_text("x = 2\n", encoding="utf-8")
+            git("add", "touched.py")
+
+            r = git(*ident, "commit", "-m", "code only, with a bad untracked section file")
+            out = (r.stdout or "") + (r.stderr or "")
+            print(f"\n  commit exit {r.returncode} (want non-zero)\n      "
+                  + out.strip().replace("\n", "\n      "))
+            self.assertNotEqual(0, r.returncode,
+                                "the commit was allowed with a bad untracked section file")
+            self.assertTrue("BLOCKED" in out or "corpus_change_guard" in out, out)
+
+            # control: once the file is gone the same staged commit goes through
+            bad.unlink()
+            r2 = git(*ident, "commit", "-m", "code only")
+            print(f"  control commit exit {r2.returncode} (want 0)")
+            self.assertEqual(0, r2.returncode, (r2.stdout or "") + (r2.stderr or ""))
+
+    def test_8_hook_fast_path_leaves_unrelated_commits_alone(self):
+        """No staged and no untracked section file -> exit 0, and no python started."""
+        import shutil, subprocess, tempfile
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            (root / "scripts").mkdir()
+            shutil.copyfile(SCRIPTS / "pre_commit_corpus_guard.sh",
+                            root / "scripts" / "pre_commit_corpus_guard.sh")
+            (root / "touched.py").write_text("x = 1\n", encoding="utf-8")
+            git = lambda *a: subprocess.run(["git", *a], cwd=root, capture_output=True, text=True)
+            git("init", "-q")
+            git("add", "-A")
+            p = subprocess.run(["/bin/sh", str(root / "scripts" / "pre_commit_corpus_guard.sh")],
+                               cwd=root, capture_output=True, text=True)
+            print(f"\n  hook exit {p.returncode} (want 0), output {p.stdout.strip()!r}")
+            self.assertEqual(0, p.returncode)
+            self.assertEqual("", p.stdout.strip())
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
