@@ -1,0 +1,401 @@
+{
+ "act": "master-tax-examples",
+ "registered": 310,
+ "files_on_disk": 333,
+ "orphans": 23,
+ "twins": [
+  {
+   "orphan": "1-290-personal-services-income-unrelated-clients-test-personal-services-busine.md",
+   "orphan_id": "1-290-personal-services-income-unrelated-clients-test-personal-services-busine",
+   "twin": "1-290-personal-services-income-unrelated-clients-test-personal-services-business.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 9205,
+    "twin": 9205,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "1-290-personal-services-income-unrelated-clients-test-personal-services-business"
+  },
+  {
+   "orphan": "1-320-derivation-agreement-for-right-to-use-proprietary-software-and-related-s.md",
+   "orphan_id": "1-320-derivation-agreement-for-right-to-use-proprietary-software-and-related-s",
+   "twin": "1-320-derivation-agreement-for-right-to-use-proprietary-software-and-related-ser.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 3933,
+    "twin": 3933,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "1-320-derivation-agreement-for-right-to-use-proprietary-software-and-related-ser"
+  },
+  {
+   "orphan": "1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediatel.md",
+   "orphan_id": "1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediatel",
+   "twin": "1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediately-.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 7853,
+    "twin": 7853,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediately-"
+  },
+  {
+   "orphan": "1-520-non-commercial-losses-commissioners-discretion-regarding-flood-bushfire-.md",
+   "orphan_id": "1-520-non-commercial-losses-commissioners-discretion-regarding-flood-bushfire-",
+   "twin": "1-520-non-commercial-losses-commissioners-discretion-regarding-flood-bushfire-or.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 5708,
+    "twin": 5708,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "1-520-non-commercial-losses-commissioners-discretion-regarding-flood-bushfire-or"
+  },
+  {
+   "orphan": "10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-company-.md",
+   "orphan_id": "10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-company-",
+   "twin": "10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-company-ta.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 5258,
+    "twin": 5258,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-company-ta"
+  },
+  {
+   "orphan": "10-250-division-7a-interposition-of-a-holding-company-to-access-company-profit.md",
+   "orphan_id": "10-250-division-7a-interposition-of-a-holding-company-to-access-company-profit",
+   "twin": "10-250-division-7a-interposition-of-a-holding-company-to-access-company-profits-.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 5943,
+    "twin": 5943,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "10-250-division-7a-interposition-of-a-holding-company-to-access-company-profits-"
+  },
+  {
+   "orphan": "10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subject-to-d.md",
+   "orphan_id": "10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subject-to-d",
+   "twin": "10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subject-to-div.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 7041,
+    "twin": 7041,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subject-to-div"
+  },
+  {
+   "orphan": "10-280-carry-forward-losses-continuity-of-ownership-and-business-continuity-te.md",
+   "orphan_id": "10-280-carry-forward-losses-continuity-of-ownership-and-business-continuity-te",
+   "twin": "10-280-carry-forward-losses-continuity-of-ownership-and-business-continuity-test.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 7742,
+    "twin": 7742,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "10-280-carry-forward-losses-continuity-of-ownership-and-business-continuity-test"
+  },
+  {
+   "orphan": "11-080-reporting-withholding-and-payment-obligations-relating-to-employee-shar.md",
+   "orphan_id": "11-080-reporting-withholding-and-payment-obligations-relating-to-employee-shar",
+   "twin": "11-080-reporting-withholding-and-payment-obligations-relating-to-employee-share-.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 4953,
+    "twin": 4953,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "11-080-reporting-withholding-and-payment-obligations-relating-to-employee-share-"
+  },
+  {
+   "orphan": "11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-ther.md",
+   "orphan_id": "11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-ther",
+   "twin": "11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-there-.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 4977,
+    "twin": 4977,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-there-"
+  },
+  {
+   "orphan": "12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-motor-ve.md",
+   "orphan_id": "12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-motor-ve",
+   "twin": "12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-motor-vehi.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 4822,
+    "twin": 4822,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-motor-vehi"
+  },
+  {
+   "orphan": "2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4-year-ru.md",
+   "orphan_id": "2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4-year-ru",
+   "twin": "2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4-year-rule.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 5368,
+    "twin": 5368,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4-year-rule"
+  },
+  {
+   "orphan": "2-315-changing-a-business-structure-small-business-restructure-roll-over-and-c.md",
+   "orphan_id": "2-315-changing-a-business-structure-small-business-restructure-roll-over-and-c",
+   "twin": "2-315-changing-a-business-structure-small-business-restructure-roll-over-and-cgt.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 8899,
+    "twin": 8899,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "2-315-changing-a-business-structure-small-business-restructure-roll-over-and-cgt"
+  },
+  {
+   "orphan": "3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-use-of-ca.md",
+   "orphan_id": "3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-use-of-ca",
+   "twin": "3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-use-of-cars.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 4649,
+    "twin": 4649,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-use-of-cars"
+  },
+  {
+   "orphan": "4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-rental-pro.md",
+   "orphan_id": "4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-rental-pro",
+   "twin": "4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-rental-prope.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 4914,
+    "twin": 4914,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-rental-prope"
+  },
+  {
+   "orphan": "4-180-interest-expenses-after-income-producing-activity-ceases-and-loan-refina.md",
+   "orphan_id": "4-180-interest-expenses-after-income-producing-activity-ceases-and-loan-refina",
+   "twin": "4-180-interest-expenses-after-income-producing-activity-ceases-and-loan-refinanc.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 6728,
+    "twin": 6728,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "4-180-interest-expenses-after-income-producing-activity-ceases-and-loan-refinanc"
+  },
+  {
+   "orphan": "4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an.md",
+   "orphan_id": "4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an",
+   "twin": "4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an-e.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 5883,
+    "twin": 5883,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an-e"
+  },
+  {
+   "orphan": "5-100-trading-stock-taken-for-personal-consumption-stock-written-off-due-to-ob.md",
+   "orphan_id": "5-100-trading-stock-taken-for-personal-consumption-stock-written-off-due-to-ob",
+   "twin": "5-100-trading-stock-taken-for-personal-consumption-stock-written-off-due-to-obso.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 5352,
+    "twin": 5352,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "5-100-trading-stock-taken-for-personal-consumption-stock-written-off-due-to-obso"
+  },
+  {
+   "orphan": "6-180-balancing-adjustments-disposal-of-business-and-non-business-assets-capit.md",
+   "orphan_id": "6-180-balancing-adjustments-disposal-of-business-and-non-business-assets-capit",
+   "twin": "6-180-balancing-adjustments-disposal-of-business-and-non-business-assets-capital.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 10696,
+    "twin": 10696,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "6-180-balancing-adjustments-disposal-of-business-and-non-business-assets-capital"
+  },
+  {
+   "orphan": "6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-.md",
+   "orphan_id": "6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-",
+   "twin": "6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-al.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 7420,
+    "twin": 7420,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-al"
+  },
+  {
+   "orphan": "7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-c.md",
+   "orphan_id": "7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-c",
+   "twin": "7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-con.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 4714,
+    "twin": 4714,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-con"
+  },
+  {
+   "orphan": "7-279-employee-v-contractor-extended-definition-of-employee-for-superannuation.md",
+   "orphan_id": "7-279-employee-v-contractor-extended-definition-of-employee-for-superannuation",
+   "twin": "7-279-employee-v-contractor-extended-definition-of-employee-for-superannuation-g.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 7253,
+    "twin": 7253,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "7-279-employee-v-contractor-extended-definition-of-employee-for-superannuation-g"
+  },
+  {
+   "orphan": "9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements.md",
+   "orphan_id": "9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements",
+   "twin": "9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements-t.md",
+   "body_equal": true,
+   "frontmatter_equal": true,
+   "lengths": {
+    "orphan": 4633,
+    "twin": 4633,
+    "orphan_name": 78,
+    "twin_name": 80
+   },
+   "twin_id": "9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements-t"
+  }
+ ],
+ "source_references": [
+  "scripts/test_c27_unregistered_section.py: names '1-290-personal-services-income-unrelated-clients-test-personal-services-busine'",
+  "scripts/test_c27_unregistered_section.py: names '1-290-personal-services-income-unrelated-clients-test-personal-services-busine.md'",
+  "scripts/legacy/results/audit_results.json: names '1-290-personal-services-income-unrelated-clients-test-personal-services-busine'",
+  "scripts/legacy/results/audit_results.json: names '1-320-derivation-agreement-for-right-to-use-proprietary-software-and-related-s'",
+  "scripts/legacy/results/audit_results.json: names '1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediatel'",
+  "scripts/legacy/results/audit_results.json: names '1-520-non-commercial-losses-commissioners-discretion-regarding-flood-bushfire-'",
+  "scripts/legacy/results/audit_results.json: names '10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-company-'",
+  "scripts/legacy/results/audit_results.json: names '10-250-division-7a-interposition-of-a-holding-company-to-access-company-profit'",
+  "scripts/legacy/results/audit_results.json: names '10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subject-to-d'",
+  "scripts/legacy/results/audit_results.json: names '10-280-carry-forward-losses-continuity-of-ownership-and-business-continuity-te'",
+  "scripts/legacy/results/audit_results.json: names '11-080-reporting-withholding-and-payment-obligations-relating-to-employee-shar'",
+  "scripts/legacy/results/audit_results.json: names '11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-ther'",
+  "scripts/legacy/results/audit_results.json: names '12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-motor-ve'",
+  "scripts/legacy/results/audit_results.json: names '2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4-year-ru'",
+  "scripts/legacy/results/audit_results.json: names '2-315-changing-a-business-structure-small-business-restructure-roll-over-and-c'",
+  "scripts/legacy/results/audit_results.json: names '3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-use-of-ca'",
+  "scripts/legacy/results/audit_results.json: names '4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-rental-pro'",
+  "scripts/legacy/results/audit_results.json: names '4-180-interest-expenses-after-income-producing-activity-ceases-and-loan-refina'",
+  "scripts/legacy/results/audit_results.json: names '4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an'",
+  "scripts/legacy/results/audit_results.json: names '5-100-trading-stock-taken-for-personal-consumption-stock-written-off-due-to-ob'",
+  "scripts/legacy/results/audit_results.json: names '6-180-balancing-adjustments-disposal-of-business-and-non-business-assets-capit'",
+  "scripts/legacy/results/audit_results.json: names '6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-'",
+  "scripts/legacy/results/audit_results.json: names '7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-c'",
+  "scripts/legacy/results/audit_results.json: names '7-279-employee-v-contractor-extended-definition-of-employee-for-superannuation'",
+  "scripts/legacy/results/audit_results.json: names '9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements'"
+ ],
+ "store_references": {
+  "graph.db": {
+   "exact": [],
+   "prefix_only": 89
+  },
+  "embeddings.db": {
+   "exact": [],
+   "prefix_only": 0
+  },
+  "search_index.db": {
+   "exact": [],
+   "prefix_only": 23
+  }
+ },
+ "source_references_fixtures": [
+  "scripts/test_c27_unregistered_section.py: names '1-290-personal-services-income-unrelated-clients-test-personal-services-busine'",
+  "scripts/test_c27_unregistered_section.py: names '1-290-personal-services-income-unrelated-clients-test-personal-services-busine.md'"
+ ],
+ "source_references_legacy": [
+  "scripts/legacy/results/audit_results.json: names '1-290-personal-services-income-unrelated-clients-test-personal-services-busine'",
+  "scripts/legacy/results/audit_results.json: names '1-320-derivation-agreement-for-right-to-use-proprietary-software-and-related-s'",
+  "scripts/legacy/results/audit_results.json: names '1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediatel'",
+  "scripts/legacy/results/audit_results.json: names '1-520-non-commercial-losses-commissioners-discretion-regarding-flood-bushfire-'",
+  "scripts/legacy/results/audit_results.json: names '10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-company-'",
+  "scripts/legacy/results/audit_results.json: names '10-250-division-7a-interposition-of-a-holding-company-to-access-company-profit'",
+  "scripts/legacy/results/audit_results.json: names '10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subject-to-d'",
+  "scripts/legacy/results/audit_results.json: names '10-280-carry-forward-losses-continuity-of-ownership-and-business-continuity-te'",
+  "scripts/legacy/results/audit_results.json: names '11-080-reporting-withholding-and-payment-obligations-relating-to-employee-shar'",
+  "scripts/legacy/results/audit_results.json: names '11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-ther'",
+  "scripts/legacy/results/audit_results.json: names '12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-motor-ve'",
+  "scripts/legacy/results/audit_results.json: names '2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4-year-ru'",
+  "scripts/legacy/results/audit_results.json: names '2-315-changing-a-business-structure-small-business-restructure-roll-over-and-c'",
+  "scripts/legacy/results/audit_results.json: names '3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-use-of-ca'",
+  "scripts/legacy/results/audit_results.json: names '4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-rental-pro'",
+  "scripts/legacy/results/audit_results.json: names '4-180-interest-expenses-after-income-producing-activity-ceases-and-loan-refina'",
+  "scripts/legacy/results/audit_results.json: names '4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an'",
+  "scripts/legacy/results/audit_results.json: names '5-100-trading-stock-taken-for-personal-consumption-stock-written-off-due-to-ob'",
+  "scripts/legacy/results/audit_results.json: names '6-180-balancing-adjustments-disposal-of-business-and-non-business-assets-capit'",
+  "scripts/legacy/results/audit_results.json: names '6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-'",
+  "scripts/legacy/results/audit_results.json: names '7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-c'",
+  "scripts/legacy/results/audit_results.json: names '7-279-employee-v-contractor-extended-definition-of-employee-for-superannuation'",
+  "scripts/legacy/results/audit_results.json: names '9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements'"
+ ],
+ "source_references_other": []
+}

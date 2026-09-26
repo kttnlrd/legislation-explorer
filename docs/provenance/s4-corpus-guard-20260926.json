@@ -1,0 +1,163 @@
+[
+  {
+    "path": "data/master-tax-examples/sections/1-290-personal-services-income-unrelated-clients-test-personal-services-busine.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 1565 prose token(s) no longer present: 1, 1-290, 10-486, 108, 139, 160"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/1-320-derivation-agreement-for-right-to-use-proprietary-software-and-related-s.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 664 prose token(s) no longer present: 000, 1, 1-320, 114, 12, 1965"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-immediatel.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 1265 prose token(s) no longer present: 000, 1, 1-410, 2021, 2022, 2024"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/1-520-non-commercial-losses-commissioners-discretion-regarding-flood-bushfire-.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 922 prose token(s) no longer present: 000, 1-520, 100, 120, 2, 20"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-company-.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 923 prose token(s) no longer present: 1, 10, 10-000, 16E, 19, 1986"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/10-250-division-7a-interposition-of-a-holding-company-to-access-company-profit.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 980 prose token(s) no longer present: 000, 1, 10, 10-250, 109C, 109N"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subject-to-d.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 1236 prose token(s) no longer present: 000, 1, 10-255, 100, 109D, 109E"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/10-280-carry-forward-losses-continuity-of-ownership-and-business-continuity-te.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 1339 prose token(s) no longer present: 0, 000, 1, 10-280, 100, 165-12"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/11-080-reporting-withholding-and-payment-obligations-relating-to-employee-shar.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 830 prose token(s) no longer present: 000, 1, 11-080, 14, 14-155, 14-165"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-where-ther.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 837 prose token(s) no longer present: 1, 11-360, 2021, 2025, 355, 355-25"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-motor-ve.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 802 prose token(s) no longer present: 1, 12-340, 15, 2, 2005, 2023"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4-year-ru.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 876 prose token(s) no longer present: 118-110, 118-130, 118-150, 147, 2, 2-065"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/2-315-changing-a-business-structure-small-business-restructure-roll-over-and-c.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 1474 prose token(s) no longer present: 000, 1, 100, 120, 152-1, 175"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-use-of-ca.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 838 prose token(s) no longer present: 000, 1, 14, 2, 200, 2018"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-rental-pro.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 809 prose token(s) no longer present: 1, 2, 2019, 2023, 2025, 26"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/4-180-interest-expenses-after-income-producing-activity-ceases-and-loan-refina.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 1113 prose token(s) no longer present: 1, 2, 2002, 2004, 2023, 2024"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/4-500-deductions-for-electricity-costs-when-charging-an-electric-vehicle-at-an.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 986 prose token(s) no longer present: 000, 1, 12, 2, 20, 2022"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/5-100-trading-stock-taken-for-personal-consumption-stock-written-off-due-to-ob.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 953 prose token(s) no longer present: 000, 1, 10, 12, 16, 2"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/6-180-balancing-adjustments-disposal-of-business-and-non-business-assets-capit.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 1849 prose token(s) no longer present: 000, 027, 068, 1, 10, 100"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/6-400-composite-items-identifying-the-relevant-depreciating-asset-for-capital-.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 1245 prose token(s) no longer present: 000, 1, 10, 11, 14, 15"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/7-278-total-superannuation-balance-and-the-bring-forward-of-non-concessional-c.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 769 prose token(s) no longer present: 000, 1, 110, 120, 2, 2016"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/7-279-employee-v-contractor-extended-definition-of-employee-for-superannuation.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 1245 prose token(s) no longer present: 07, 1, 10, 10-720, 118, 12"
+    ]
+  },
+  {
+    "path": "data/master-tax-examples/sections/9-260-circulation-issues-dividends-and-distributions-reimbursements-agreements.md",
+    "status": "WARN",
+    "reasons": [
+      "[WARN] G-B 765 prose token(s) no longer present: 1, 10, 100, 100A, 170, 1990"
+    ]
+  }
+]
