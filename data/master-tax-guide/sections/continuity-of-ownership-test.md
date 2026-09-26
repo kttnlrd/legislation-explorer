@@ -15,13 +15,13 @@ paragraph: "¶3-105"
 
   continuity test) (¶3-120).
 
-The continuity of ownership test (COT) requires that shares carrying more than 50% of all voting, dividend and capital rights be beneﬁcially owned by the same persons at all times during the ownership test period.
+The continuity of ownership test (COT) requires that shares carrying more than 50% of all voting, dividend and capital rights be beneficially owned by the same persons at all times during the ownership test period.
 
-The ownership test period is the period from the start of the loss year to the end of the income year in which the loss is to be deducted (s 165-12(1)). The timing of a change of beneﬁcial ownership for COT purposes may not be the same as the timing of a disposal of shares for CGT purposes (ID 2006/35).
+The ownership test period is the period from the start of the loss year to the end of the income year in which the loss is to be deducted (s 165-12(1)). The timing of a change of beneficial ownership for COT purposes may not be the same as the timing of a disposal of shares for CGT purposes (ID 2006/35).
 
-There are 2 tests for determining whether a company has maintained the same owners. The "primary test" is applied unless the relevant provision requires the "alternative test" to be applied (ITAA97 ss 165-12; 165-37; 165-123). The alternative test applies where one or more other companies beneﬁcially owned shares, or interests in shares, in the company at any time during the ownership test period.
+There are 2 tests for determining whether a company has maintained the same owners. The "primary test" is applied unless the relevant provision requires the "alternative test" to be applied (ITAA97 ss 165-12; 165-37; 165-123). The alternative test applies where one or more other companies beneficially owned shares, or interests in shares, in the company at any time during the ownership test period.
 
-Primary test The primary test is satisﬁed at a particular time if there are persons who at that time beneﬁcially own, between them, shares that carry:
+Primary test The primary test is satisfied at a particular time if there are persons who at that time beneficially own, between them, shares that carry:
 
 - the right to exercise more than 50% of the voting power in the company, disregarding dual listed
 
@@ -35,31 +35,31 @@ Primary test The primary test is satisﬁed at a particular time if there are pe
 
   165-160(1)).
 
-Alternative test The alternative test is satisﬁed at a particular time if a person or persons (none of them companies — nor trustees in the case of (1) below) collectively: (1) are able to control more than 50% of the voting power in the company, disregarding dual listed company voting shares (ss 165-150(2); 165-209) (2) have the right to receive for their own beneﬁt more than 50% of any dividends that the company might pay (s 165-155(2)), and (3) have the right to receive for their own beneﬁt more than 50% of any distribution of capital of the company (s 165-160(2)).
+Alternative test The alternative test is satisfied at a particular time if a person or persons (none of them companies — nor trustees in the case of (1) below) collectively: (1) are able to control more than 50% of the voting power in the company, disregarding dual listed company voting shares (ss 165-150(2); 165-209) (2) have the right to receive for their own benefit more than 50% of any dividends that the company might pay (s 165-155(2)), and (3) have the right to receive for their own benefit more than 50% of any distribution of capital of the company (s 165-160(2)).
 
-The test is also satisﬁed where it is reasonable to assume that the above conditions are fulﬁlled. The conditions may be fulﬁlled either directly or through one or more interposed entities.
+The test is also satisfied where it is reasonable to assume that the above conditions are fulfilled. The conditions may be fulfilled either directly or through one or more interposed entities.
 
 Under this test, indirect equity interests in the company are treated as carrying the relevant proportion of the voting power (or dividend or capital distribution rights) carried by the shares held directly or indirectly by the interposed entity in the company at all times during the ownership test period.
 
 Example Ben holds shares in an interposed company carrying 30% of the voting power in the interposed company. The interposed company holds shares carrying 60% of the voting power in a loss company. Ben is treated as having an indirect equity interest carrying 18% (ie 30% × 60%) of the voting power in the loss company.
 
-General rules When applying the primary or the alternative test, a person's share in a company may be counted only if the person owns the same interests in the same shares throughout the relevant period (ITAA97 s 165-165). This applies to losses claimed in an income year ending on or after 21 September 1999. Previously a person did not have to beneﬁcially own exactly the same shares for the tests to be satisﬁed. Splits or consolidations of shares or units are not taken as a failure to own the same shares.
+General rules When applying the primary or the alternative test, a person's share in a company may be counted only if the person owns the same interests in the same shares throughout the relevant period (ITAA97 s 165-165). This applies to losses claimed in an income year ending on or after 21 September 1999. Previously a person did not have to beneficially own exactly the same shares for the tests to be satisfied. Splits or consolidations of shares or units are not taken as a failure to own the same shares.
 
 The COT will not be failed merely because an external administrator or provisional liquidator is appointed to the tested company or a company interposed between it and an ultimate owner (ITAA97 s 165-208). This overcomes the High Court decision in Linter Textiles 2005 ATC 4255; [2005] HCA 20, where the court held that the appointment of a liquidator to the taxpayer company changed control of its voting power.
 
-A public company is taken to have satisﬁed the test if it is reasonable to assume that the test is satisﬁed (s 165-165(7)).
+A public company is taken to have satisfied the test if it is reasonable to assume that the test is satisfied (s 165-165(7)).
 
-Certain government bodies, statutory bodies, non-proﬁt companies and charitable bodies are treated as if they were persons other than companies for the purposes of the COT (ITAA97 s 165-202(1)). This treatment also applies (from and including the 2011–12 income year) to a complying superannuation fund, a superannuation fund that is established in a foreign country and is regulated under a foreign law, a complying approved deposit fund, a special company or a managed investment scheme.
+Certain government bodies, statutory bodies, non-profit companies and charitable bodies are treated as if they were persons other than companies for the purposes of the COT (ITAA97 s 165-202(1)). This treatment also applies (from and including the 2011–12 income year) to a complying superannuation fund, a superannuation fund that is established in a foreign country and is regulated under a foreign law, a complying approved deposit fund, a special company or a managed investment scheme.
 
-Shares that are beneﬁcially owned through a charitable trust are taken to be beneﬁcially owned by a person other than a company or trustee (ITAA97 s 165-202(2): generally applicable to losses for years commencing on or after 1 July 2002).
+Shares that are beneficially owned through a charitable trust are taken to be beneficially owned by a person other than a company or trustee (ITAA97 s 165-202(2): generally applicable to losses for years commencing on or after 1 July 2002).
 
-If a beneﬁcial owner of shares dies, that beneﬁcial ownership is deemed to survive as long as the shares are held by the trustee of the estate or by a beneﬁciary of the deceased's estate (ITAA97 s 165-205).
+If a beneficial owner of shares dies, that beneficial ownership is deemed to survive as long as the shares are held by the trustee of the estate or by a beneficiary of the deceased's estate (ITAA97 s 165-205).
 
-Non-proﬁt companies, mutual aﬃliate companies and mutual insurance companies only need to establish continuity of voting power to satisfy the COT, ie they will be taken to satisfy the dividend and capital conditions (ITAA97 ss 165-12(7A); 165-37(4A); 165-115C(4A); 165-115L(5); 165-123(7A): generally applicable to losses for years commencing on or after 1 July 2002).
+Non-profit companies, mutual affiliate companies and mutual insurance companies only need to establish continuity of voting power to satisfy the COT, ie they will be taken to satisfy the dividend and capital conditions (ITAA97 ss 165-12(7A); 165-37(4A); 165-115C(4A); 165-115L(5); 165-123(7A): generally applicable to losses for years commencing on or after 1 July 2002).
 
-Part of a prior year loss may be allowed where the COT is satisﬁed in relation to the relevant part of the loss year under the current year loss rules (¶3-065) (ITAA97 s 165-20; ID 2003/720; ID 2004/949).
+Part of a prior year loss may be allowed where the COT is satisfied in relation to the relevant part of the loss year under the current year loss rules (¶3-065) (ITAA97 s 165-20; ID 2003/720; ID 2004/949).
 
-Incomplete periods The COT can be satisﬁed when the tested company exists for only part of the loss year or part of the income year (ITAA97 s 165-255).
+Incomplete periods The COT can be satisfied when the tested company exists for only part of the loss year or part of the income year (ITAA97 s 165-255).
 
 Share ownership saving provisions Where the ownership test is failed solely because of the "same interests in the same shares" requirement, the failure will be disregarded if the loss company can demonstrate that less than 50% of the relevant loss or bad debt has resulted in an increased loss or reduced gain on the disposal of any direct and indirect equity interests in the company during the relevant test period (ITAA97 ss 165-12(7); 165-37(4); 165-115C(4); 165-123(7)).
 
@@ -67,11 +67,11 @@ Share ownership saving provisions Where the ownership test is failed solely beca
 165-160(1)), s 165-150(2), s 165-155(2)), s 165-160(2)), ITAA97 s 165-165), ITAA97 s 165-208), s
 165-165(7)), ITAA97 s 165-202(1)), ITAA97 s 165-202(2), ITAA97 s 165-205), s 165-12(7, ITAA97 s 165-20, ITAA97 s 165-255), s 165-12(7)*
 
-voting power The COT has been modiﬁed for companies whose shares have unequal rights to dividends, capital distributions or voting power.
+voting power The COT has been modified for companies whose shares have unequal rights to dividends, capital distributions or voting power.
 
-Under these modiﬁcations, if an entity is unable to work out whether a company satisﬁes a condition of the COT in respect of dividend or capital distributions, an entity may choose to reconsider the condition in up to 3 ways:
+Under these modifications, if an entity is unable to work out whether a company satisfies a condition of the COT in respect of dividend or capital distributions, an entity may choose to reconsider the condition in up to 3 ways:
 
-- the ﬁrst way is to disregard debt interests (ITAA97 s 167-15)
+- the first way is to disregard debt interests (ITAA97 s 167-15)
 
 - the second way is to disregard debt interests and certain secondary classes of shares (ITAA97 s
 
@@ -79,11 +79,11 @@ Under these modiﬁcations, if an entity is unable to work out whether a company
 
 - the third way is to disregard debt interests and certain secondary classes of shares, and treat
 
-  each of the remaining shares as having a speciﬁed percentage of the rights to receive dividends
+  each of the remaining shares as having a specified percentage of the rights to receive dividends
 
   and capital distributions (ITAA97 s 167-25).
 
-If a company has shares that have diﬀerent voting rights or do not carry all of the voting rights in the company, then the continuity of ownership test may be applied by testing voting power solely by reference to the maximum number of votes that could be cast in a poll on:
+If a company has shares that have different voting rights or do not carry all of the voting rights in the company, then the continuity of ownership test may be applied by testing voting power solely by reference to the maximum number of votes that could be cast in a poll on:
 
 - the election of the company's directors, or
 
@@ -120,23 +120,23 @@ Change in control of voting power The deductibility of past losses is further re
 
 - that person began to control, or became able to control, that voting power for the purpose (even
 
-  if this is only one of a number of purposes) of getting some taxation advantage or beneﬁt, either for
+  if this is only one of a number of purposes) of getting some taxation advantage or benefit, either for
 
   that person or for someone else.
 
-Where these conditions are met, the company cannot claim the tax loss unless it satisﬁes the business continuity test (¶3-120) (ITAA97 s 165-15). In this context, the company must carry on the same or a similar business throughout the income year as it did immediately before the time when the person began, or became able, to control the relevant voting power (the "test time"). The rules in s 165-15 apply equally to a listed public company (ID 2005/8).
+Where these conditions are met, the company cannot claim the tax loss unless it satisfies the business continuity test (¶3-120) (ITAA97 s 165-15). In this context, the company must carry on the same or a similar business throughout the income year as it did immediately before the time when the person began, or became able, to control the relevant voting power (the "test time"). The rules in s 165-15 apply equally to a listed public company (ID 2005/8).
 
-Anti-avoidance provisions The eﬀectiveness of the COTs is protected by a number of anti-avoidance provisions. These basically prevent share ownership being manipulated by arrangements aimed at reducing tax liability.
+Anti-avoidance provisions The effectiveness of the COTs is protected by a number of anti-avoidance provisions. These basically prevent share ownership being manipulated by arrangements aimed at reducing tax liability.
 
-- The Commissioner can disregard a person's beneﬁcial ownership of shares if:
+- The Commissioner can disregard a person's beneficial ownership of shares if:
 
-– an arrangement was entered into at some time that in any way turned on: (i) the beneﬁcial interest in the shares or the value of that interest; (ii) a right carried by, or relating to, those shares; or (iii) the exercise of such a right, and – at least one purpose of the arrangement is to eliminate or reduce a tax liability of an entity (ITAA97 s 165-180).
+– an arrangement was entered into at some time that in any way turned on: (i) the beneficial interest in the shares or the value of that interest; (ii) a right carried by, or relating to, those shares; or (iii) the exercise of such a right, and – at least one purpose of the arrangement is to eliminate or reduce a tax liability of an entity (ITAA97 s 165-180).
 
-The predecessor to s 165-180 (ITAA36 former s 80B(5)) was applied in K Porter 77 ATC 4472, which involved an arrangement under which the original owners of shares agreed to retain the shares until their carry forward losses were deducted and then dispose of the shares to the new owners. In such a case, the Commissioner is empowered to treat the original owner as not continuing to beneﬁcially own the shares.
+The predecessor to s 165-180 (ITAA36 former s 80B(5)) was applied in K Porter 77 ATC 4472, which involved an arrangement under which the original owners of shares agreed to retain the shares until their carry forward losses were deducted and then dispose of the shares to the new owners. In such a case, the Commissioner is empowered to treat the original owner as not continuing to beneficially own the shares.
 
 - Shares are taken not to have carried particular rights during a part of the ownership test period
 
-  if the Commissioner is satisﬁed that the shares stopped (or may stop) carrying those rights after
+  if the Commissioner is satisfied that the shares stopped (or may stop) carrying those rights after
 
   the ownership test period, either because of the company's constitution (as in force at some time
 
@@ -146,7 +146,7 @@ The predecessor to s 165-180 (ITAA36 former s 80B(5)) was applied in K Porter 77
 
 - Shares are taken to have carried particular rights at all times during a part of the ownership test
 
-  period if the Commissioner is satisﬁed that the shares started (or may start) to carry those rights
+  period if the Commissioner is satisfied that the shares started (or may start) to carry those rights
 
   after the ownership test period because of the company's constitution (as in force at some time
 
@@ -160,11 +160,11 @@ In addition to the above safeguards, ITAA97 Subdiv 175-A sets out 2 cases where 
 
   loss, and the Commissioner does not consider that the extent to which the continuing shareholders
 
-  will beneﬁt from the injection is fair and reasonable having regard to their respective rights
+  will benefit from the injection is fair and reasonable having regard to their respective rights
 
   and interests in the company (but if the Commissioner considers that the extent the continuing
 
-  shareholders will beneﬁt is fair and reasonable the Commissioner cannot disallow any part of
+  shareholders will benefit is fair and reasonable the Commissioner cannot disallow any part of
 
   the deduction for the loss) (ITAA97 s 175-10; ID 2010/49). A family trust can be a "continuing
 
@@ -176,14 +176,14 @@ In addition to the above safeguards, ITAA97 Subdiv 175-A sets out 2 cases where 
 
   reasonable" test to an insolvent company (ITAA97 s 175-100)
 
-- a person other than the company obtains a tax beneﬁt in connection with a scheme that would not
+- a person other than the company obtains a tax benefit in connection with a scheme that would not
 
   have been entered into or carried out if the loss had not been available.
 
 *Refs: ITAA97 s 165-15), s 165-15, ITAA97 s 165-180), s 165-180, ITAA97 s 165-185), ITAA97 s 165-190), s 165-12, s 165-13, ITAA97 s
 175-5(2)), ITAA97 s 175-10, s 175-10, ITAA97 s 175-100)*
 
-companies and companies owned by trusts The COT is modiﬁed for "widely held" companies and "eligible Division 166 companies" (¶3-130). Modiﬁed COT rules also apply where certain trusts own shares in a company (¶3-110).
+companies and companies owned by trusts The COT is modified for "widely held" companies and "eligible Division 166 companies" (¶3-130). Modified COT rules also apply where certain trusts own shares in a company (¶3-110).
 
 ## A company cannot deduct a tax loss (ITAA97 s 165-10) unless either:
 

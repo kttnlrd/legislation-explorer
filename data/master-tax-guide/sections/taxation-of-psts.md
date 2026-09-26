@@ -17,7 +17,7 @@ The taxable income of a PST is split into a non-arm's length component and a low
 
 The low tax component is taxed at 15% and the non-arm's length component is taxed at 45% (ITRA s 27A(b)).
 
-Capital gains The modiﬁcations to the CGT rules for complying superannuation funds and entitlement to the CGT discount similarly apply to PSTs (¶13-130).
+Capital gains The modifications to the CGT rules for complying superannuation funds and entitlement to the CGT discount similarly apply to PSTs (¶13-130).
 
 Investments by superannuation funds and ADFs A complying superannuation fund or complying ADF, with the agreement of a PST, may transfer its liability on contributions (except no-TFN contributions: ¶13-120) to the PST (¶13-125).
 

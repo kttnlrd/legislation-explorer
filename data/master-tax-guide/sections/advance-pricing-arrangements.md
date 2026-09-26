@@ -15,7 +15,7 @@ A unilateral APA is concluded between the taxpayer and the ATO. A bilateral APA 
 
 The APA process is set out in PS LA 2015/4, covering what happens from the commencement of discussions between the ATO and the applicant before lodgment of a formal application, to making the application and developing and concluding the APA, to monitoring compliance with the concluded agreement.
 
-Collateral issues must be identiﬁed, addressed and resolved concurrently with the development of the APA and before it is concluded. Collateral issues are other tax or administrative issues relevant to and potentially aﬀecting the outcome of the APA. Examples include the application of the CFC rules, carry-forward losses, Pt IVA or speciﬁc anti-avoidance provisions.
+Collateral issues must be identified, addressed and resolved concurrently with the development of the APA and before it is concluded. Collateral issues are other tax or administrative issues relevant to and potentially affecting the outcome of the APA. Examples include the application of the CFC rules, carry-forward losses, Pt IVA or specific anti-avoidance provisions.
 
 An APA will contain the agreement of the parties on at least the following matters:
 
@@ -31,9 +31,9 @@ An APA will contain the agreement of the parties on at least the following matte
 
 - critical assumptions which if breached must be disclosed to the ATO
 
-- deﬁnitions of key terms
+- definitions of key terms
 
-- the accounting standards on which the taxpayer's ﬁnancial statements are based, and
+- the accounting standards on which the taxpayer's financial statements are based, and
 
 - procedures for making a compensating adjustment, if necessary.
 
@@ -45,6 +45,6 @@ An APA will contain the agreement of the parties on at least the following matte
 
 - the interaction between APAs and ATO audits and reviews, and
 
-- the roles of ATO oﬃcers handling APA matters.
+- the roles of ATO officers handling APA matters.
 
 ## Other matters covered by PS LA 2015/4 include:

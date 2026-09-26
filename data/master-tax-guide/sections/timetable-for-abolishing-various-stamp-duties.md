@@ -27,19 +27,19 @@ Timetable for abolishing stamp duties VIC             QLD               SA      
 
 1 July 2008       • (remaining)     Conveyances
 
-2009–10                           50% of            • 100% of                         100% of Lease 100% of Non-realty        Rental Duty                       Duty            Non-realty Conveyances       and (remaining)                                   Conveyances*** — 1 Jan 2010      Mortgage Duty (now deferred     • 50% of indeﬁnitely*)     Non-realty
+2009–10                           50% of            • 100% of                         100% of Lease 100% of Non-realty        Rental Duty                       Duty            Non-realty Conveyances       and (remaining)                                   Conveyances*** — 1 Jan 2010      Mortgage Duty (now deferred     • 50% of indefinitely*)     Non-realty
 
 & Marketable
 
 2010–11                           100% of           100% of                           100% of Non-realty        Non-realty                        Marketable
 
-— 1 Jan 2011      & Marketable (now deferred     Securities Duty** indeﬁnitely*) Taxes             • Mortgage Duty Rental Duty       • Lease Duty      • Lease Duty    Mortgage Duty Mortgage Duty abolished/        • Lease Duty    (partial)         • Mortgage Duty and other minor (never had)       (abolished before never had         and other minor                   (partial)         duties****                      2000) duties                            • Cheque Duty     • Rental Duty
+— 1 Jan 2011      & Marketable (now deferred     Securities Duty** indefinitely*) Taxes             • Mortgage Duty Rental Duty       • Lease Duty      • Lease Duty    Mortgage Duty Mortgage Duty abolished/        • Lease Duty    (partial)         • Mortgage Duty and other minor (never had)       (abolished before never had         and other minor                   (partial)         duties****                      2000) duties                            • Cheque Duty     • Rental Duty
 
 - Marketable                                        • Marketable
 
 - Non-realty
 
-(never had) * Duty on non-realty conveyances in Queensland was originally proposed to be abolished by 1 Jan 2011. It has now been deferred indeﬁnitely as part of Qld's Mid Year Fiscal and Economic Review released on 13 January 2012. ** Duty on non-realty conveyances and non-quoted marketable securities in South Australia was originally proposed to be abolished between 2009–10 and 2010–11 but this was deferred on several occasions. It was ﬁnally abolished from 18 June 2015 as part of SA's 2015–16 Budget. *** Duty on non-realty conveyances in the Northern Territory was originally proposed to be abolished in 2009–10 but was abolished eﬀective 9 May 2023. **** Minor duties includes all stamp duties speciﬁed for review in the IGA but not explicitly identiﬁed in the table.
+(never had) * Duty on non-realty conveyances in Queensland was originally proposed to be abolished by 1 Jan 2011. It has now been deferred indefinitely as part of Qld's Mid Year Fiscal and Economic Review released on 13 January 2012. ** Duty on non-realty conveyances and non-quoted marketable securities in South Australia was originally proposed to be abolished between 2009–10 and 2010–11 but this was deferred on several occasions. It was finally abolished from 18 June 2015 as part of SA's 2015–16 Budget. *** Duty on non-realty conveyances in the Northern Territory was originally proposed to be abolished in 2009–10 but was abolished effective 9 May 2023. **** Minor duties includes all stamp duties specified for review in the IGA but not explicitly identified in the table.
 
 Western Australia and New South Wales Western Australia and New South Wales were not signatories to the above timetable. However, both states subsequently agreed to abolish a number of stamp duties.
 
@@ -51,9 +51,9 @@ Western Australia
 
 - abolish duty on "non-real" business assets such as goodwill, intellectual property and statutory
 
-  licences, from 1 July 2010 (since deferred indeﬁnitely).
+  licences, from 1 July 2010 (since deferred indefinitely).
 
-The proposed abolition of duty on non-real business assets was deferred indeﬁnitely by measures in the Duties Legislation Amendment Act 2013 (WA).
+The proposed abolition of duty on non-real business assets was deferred indefinitely by measures in the Duties Legislation Amendment Act 2013 (WA).
 
 New South Wales
 

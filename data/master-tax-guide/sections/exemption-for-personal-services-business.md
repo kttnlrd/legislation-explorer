@@ -13,9 +13,9 @@ There are various tests for determining whether a PSB is being conducted (ITAA97
 
 *Refs: ITAA97 s 87-15)*
 
-- the "results" test is satisﬁed (¶30-665)
+- the "results" test is satisfied (¶30-665)
 
-- less than 80% of the PSI is from one source and any of 3 additional tests are satisﬁed (¶30-670),
+- less than 80% of the PSI is from one source and any of 3 additional tests are satisfied (¶30-670),
 
   or
 
@@ -23,6 +23,6 @@ There are various tests for determining whether a PSB is being conducted (ITAA97
 
   Detailed guidelines on each of these tests are in TR 2022/3.
 
-Personal services business flow chart This ATO ﬂow chart shows how to ascertain whether PSI is income from conducting a PSB.
+Personal services business flow chart This ATO flow chart shows how to ascertain whether PSI is income from conducting a PSB.
 
 ## PSB if:

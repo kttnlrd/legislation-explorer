@@ -9,23 +9,23 @@ paragraph: "¶27-120"
 
 A taxpayer is only liable to pay PAYG instalments if the Commissioner has, by written notice, given the taxpayer an instalment rate (TAA s 45-15). An instalment rate will not be given to a taxpayer whose assessable income has always consisted wholly of withholding payments (¶26-120), other than non- quotation withholding payments (eg payments of investment income where a TFN or an ABN is not quoted).
 
-A taxpayer ﬁrst starting in business will not be given an instalment rate until after the ﬁrst income tax return for the business is assessed. To avoid the bunching of payments in the second year of business, a new business can make voluntary payments of PAYG instalments before an instalment rate is issued.
+A taxpayer first starting in business will not be given an instalment rate until after the first income tax return for the business is assessed. To avoid the bunching of payments in the second year of business, a new business can make voluntary payments of PAYG instalments before an instalment rate is issued.
 
-The fact that the Commissioner is under no obligation to give an instalment rate to a taxpayer eﬀectively authorises the Commissioner to exempt certain taxpayers from the PAYG instalments system.
+The fact that the Commissioner is under no obligation to give an instalment rate to a taxpayer effectively authorises the Commissioner to exempt certain taxpayers from the PAYG instalments system.
 
-A taxpayer who has been given an instalment rate by the Commissioner is liable to pay the ﬁrst instalment:
+A taxpayer who has been given an instalment rate by the Commissioner is liable to pay the first instalment:
 
-- for the instalment month in which the Commissioner ﬁrst gives the instalment rate if, at the end of
+- for the instalment month in which the Commissioner first gives the instalment rate if, at the end of
 
   that month, the taxpayer is a monthly payer
 
-- for the instalment quarter in which the Commissioner ﬁrst gives the taxpayer an instalment rate
+- for the instalment quarter in which the Commissioner first gives the taxpayer an instalment rate
 
-  (even if it is not the ﬁrst instalment quarter for the year), or
+  (even if it is not the first instalment quarter for the year), or
 
-- for the income year in which the Commissioner ﬁrst gives the instalment rate if, at the end of the
+- for the income year in which the Commissioner first gives the instalment rate if, at the end of the
 
-  instalment quarter in which the Commissioner ﬁrst gives the instalment rate, the taxpayer becomes
+  instalment quarter in which the Commissioner first gives the instalment rate, the taxpayer becomes
 
   an annual payer (TAA s 45-50).
 
@@ -35,7 +35,7 @@ Unpaid amounts of PAYG instalments are collected under TAA sch 1 Pt 4-15 (¶25-5
 
 While partnerships are not liable to pay PAYG instalments, they are required to notify their partners of the amount of instalment income derived during an instalment period to enable the partners to correctly determine any amount payable. There are special rules for trustees (¶27-500) and consolidated groups (¶27-550).
 
-Exemptions from the PAYG instalment system Individuals in receipt of the seniors and pensioners tax oﬀset (SAPTO: ¶15-310) are exempted from paying PAYG instalments if they qualiﬁed for a full or partial SAPTO in the latest income year for which an assessment has been issued.
+Exemptions from the PAYG instalment system Individuals in receipt of the seniors and pensioners tax offset (SAPTO: ¶15-310) are exempted from paying PAYG instalments if they qualified for a full or partial SAPTO in the latest income year for which an assessment has been issued.
 
 Individuals and trusts with a balance on their last assessment of less than $1,000 are exempt from the PAYG instalment system. Further, individuals and trusts are exempt from the PAYG instalment system if the business and investment income shown in the most recent income tax return is less than $4,000 for residents ($1 for non-residents), or the notional tax is less than $500. These taxpayers will only need to pay tax on annual assessment.
 
@@ -67,4 +67,4 @@ A taxpayer that fails to notify the Commissioner of the instalment income by the
 
 *Refs: s 286-75)*
 
-## Notiﬁcation is not required in relation to:
+## Notification is not required in relation to:

@@ -9,13 +9,13 @@ paragraph: "¶26-150"
 
 Employees An entity that pays salary, wages, commission, bonuses or allowances to an individual as an employee must withhold an amount from the payment (TAA sch 1 s 12-35). The individual may be an employee of the payer or of another entity. "Employee" in the PAYG system has its ordinary meaning (TR 2023/4). Whether a person is an employee of another is a question of fact to be determined by examining the terms and circumstances of the contract between them, having regard to the key indicators expressed in the relevant case law. Withholding may be required, not only from payments of salary or wages made to an employee as such, but also where there is a constructive payment of salary or wages to an employee.
 
-An employer will be required to withhold an amount from a contribution to the trustee of an employee remuneration trust (ERT) when the contribution constitutes a payment of salary, etc, that is not exempt income or non-assessable non-exempt income (TR 2018/7). A trustee of an ERT that makes a payment to an employee (or deals with an amount on the employee's behalf or as the employee directs) of salary, etc, that is not exempt income or non-assessable non-exempt income must also withhold an amount. Where an employee has entered into an employee beneﬁts trust arrangement in which bonus units are issued to the employee that are considered to be salary or wages, the trustee must withhold an amount from the payment (TR 2010/6).
+An employer will be required to withhold an amount from a contribution to the trustee of an employee remuneration trust (ERT) when the contribution constitutes a payment of salary, etc, that is not exempt income or non-assessable non-exempt income (TR 2018/7). A trustee of an ERT that makes a payment to an employee (or deals with an amount on the employee's behalf or as the employee directs) of salary, etc, that is not exempt income or non-assessable non-exempt income must also withhold an amount. Where an employee has entered into an employee benefits trust arrangement in which bonus units are issued to the employee that are considered to be salary or wages, the trustee must withhold an amount from the payment (TR 2010/6).
 
 Resident employers that have employees working in a foreign country may have withholding obligations.
 
 Foreign earnings that do not meet any of the exemption conditions (¶10-860) are assessable income and subject to PAYG withholding.
 
-A non-resident employer can be subject to PAYG withholding in respect of Australian resident employees working overseas (TD 2011/1). A non-resident employer who pays an Australian resident for work performed overseas is subject to withholding obligations if the non-resident employer has a suﬃcient connection with Australia, ie if the non-resident carries on an enterprise or income-producing activities in Australia and has a physical presence in Australia.
+A non-resident employer can be subject to PAYG withholding in respect of Australian resident employees working overseas (TD 2011/1). A non-resident employer who pays an Australian resident for work performed overseas is subject to withholding obligations if the non-resident employer has a sufficient connection with Australia, ie if the non-resident carries on an enterprise or income-producing activities in Australia and has a physical presence in Australia.
 
 Employees at common law For a payment to be made to an employee, there must be a contract of service (formerly referred to as a "master/servant" relationship) between the payer and the payee. This exists where one person contracts to perform work for another and is substantially subject to the control and direction of that person in the manner in which the work is done. This is the basis of the employer/employee relationship at common law, as distinct from a principal/independent contractor relationship involving a contract for services.
 
@@ -45,9 +45,9 @@ Employees at common law For a payment to be made to an employee, there must be a
 
 However, consultants who sold a company's cosmetic products at private houses under a party plan system were not employees (Mary Kay Cosmetics 82 ATC 4444; [1982] VicRp 87).
 
-The distribution of proﬁts of a business to employees on the basis of their worth to the company were "wages" for payroll tax purposes even though they were paid pursuant to directions in the will of the founder of the business (George Adams Estate Trustees 80 ATC 4424).
+The distribution of profits of a business to employees on the basis of their worth to the company were "wages" for payroll tax purposes even though they were paid pursuant to directions in the will of the founder of the business (George Adams Estate Trustees 80 ATC 4424).
 
-An employer may seek to change the status of an employee to that of an independent contractor by including a clause to that eﬀect in the contract of engagement. However, that clause will have no eﬀect if it does not reﬂect the true nature of the relationship under the contract as a whole. If the terms of the relationship (such as leave entitlements and other employee beneﬁts) are not changed, it is likely that the worker's status would remain that of an employee (TR 2023/4).
+An employer may seek to change the status of an employee to that of an independent contractor by including a clause to that effect in the contract of engagement. However, that clause will have no effect if it does not reflect the true nature of the relationship under the contract as a whole. If the terms of the relationship (such as leave entitlements and other employee benefits) are not changed, it is likely that the worker's status would remain that of an employee (TR 2023/4).
 
 The requirement to withhold an amount under s 12-35 extends to the payment of a creditor dividend to a former employee of an employer company that is being wound up (Applied Design 2002 ATC 4193; [2002] FCA 205). This is because the dividend represents wages owing to the former employee. See also TR 2003/15.
 
@@ -65,7 +65,7 @@ Recent developments Following the High Court's decision in Construction, Forestr
 
 *Refs: s 12-35*
 
-- the term "employee" is not deﬁned and so takes on its ordinary meaning, and is a question of fact,
+- the term "employee" is not defined and so takes on its ordinary meaning, and is a question of fact,
 
   and
 
@@ -83,13 +83,13 @@ The ruling cites Hollis v Vabu as an example of this situation.
 
 The ATO issued Practical Compliance Guideline PCG 2023/2 to assist taxpayers in assessing whether individuals are employees or independent contractors. PCG 2023/2 states that the ATO will allocate its compliance resources based on "risk zones".
 
-No withholding required from employees in certain circumstances Withholding is not required from a payment to an employee where the payment is exempt income of the payee, or to the extent that the payment is a living-away-from-home allowance or expense payment beneﬁt (¶26-120). Unless the Commissioner has given written approval not to withhold amounts, all other allowances should be added to normal earnings when calculating the amount to be withheld.
+No withholding required from employees in certain circumstances Withholding is not required from a payment to an employee where the payment is exempt income of the payee, or to the extent that the payment is a living-away-from-home allowance or expense payment benefit (¶26-120). Unless the Commissioner has given written approval not to withhold amounts, all other allowances should be added to normal earnings when calculating the amount to be withheld.
 
 Company directors An incorporated company that pays remuneration to an individual as a director or as a person who performs the duties of a director must withhold an amount from the payment (TAA sch 1 s 12-40).
 
 An unincorporated company that pays remuneration to a member of its committee of management must withhold an amount from the payment. This extends to a person who, although not on the committee, performs the duties of such a member.
 
-Officeholders An entity that pays salary, wages, commission, bonuses or allowances to an individual who is in the service of the Commonwealth, a state or a territory must withhold an amount (TAA sch 1 s 12-45). This includes payments to Members of Parliament, the Defence Force, the police force and certain local governing bodies. TR 2002/21 provides guidance in determining whether a person holds an appointment, oﬃce or position under the Constitution or an Australian law and whether a person is otherwise in the service of the Commonwealth, a state or a territory. PAYG amounts do not have to be withheld from payments to members of a local governing body unless it has unanimously resolved that the remuneration of members be subject to withholding.
+Officeholders An entity that pays salary, wages, commission, bonuses or allowances to an individual who is in the service of the Commonwealth, a state or a territory must withhold an amount (TAA sch 1 s 12-45). This includes payments to Members of Parliament, the Defence Force, the police force and certain local governing bodies. TR 2002/21 provides guidance in determining whether a person holds an appointment, office or position under the Constitution or an Australian law and whether a person is otherwise in the service of the Commonwealth, a state or a territory. PAYG amounts do not have to be withheld from payments to members of a local governing body unless it has unanimously resolved that the remuneration of members be subject to withholding.
 
 Religious practitioners A withholding event (TAA sch 1 s 12-47) covers payments received by religious practitioners for activities done in the pursuit of a vocation as a religious practitioner and as a member of a religious institution. All entities who make payments to religious practitioners in the course or furtherance of an enterprise are required to withhold. This includes an entity carrying on an enterprise as a wedding planner, which is required to withhold tax from payments made to religious practitioners for conducting marriage services (see further the ATO's document "Religious practitioners").
 
@@ -111,33 +111,33 @@ A voluntary agreement must be a written agreement between the payer and payee th
 
 - the signatures of both the payer and payee.
 
-A voluntary agreement can cover a speciﬁc task or apply to successive arrangements between the payer and payee. Either party can end a voluntary agreement at any time by notifying the other in writing.
+A voluntary agreement can cover a specific task or apply to successive arrangements between the payer and payee. Either party can end a voluntary agreement at any time by notifying the other in writing.
 
 Labour hire arrangements An entity that carries on a business that is wholly or partially concerned with arranging for persons to perform work or services directly for clients is liable to withhold an amount from payments it makes to an individual in the course of the enterprise (TAA sch 1 s 12-60(1); T T Lam and HT Ngo [2016] AATA 552).
 
-This also applies if the entity's activities include a business of that kind that is not merely incidental to its main activities. The client of the labour hire ﬁrm has no PAYG obligations in respect of payments made to the individual.
+This also applies if the entity's activities include a business of that kind that is not merely incidental to its main activities. The client of the labour hire firm has no PAYG obligations in respect of payments made to the individual.
 
 For withholding to apply, the payment must be made under an arrangement, the performance of which (in whole or in part) involves the performance of work or services by the individual directly for a client of the entity, or directly for a client of another entity.
 
-Example 1 Staﬀprovider Ltd keeps a database of skilled persons who are willing to provide their services to third parties. Staﬀprovider arranges with Corporate Pty Ltd to provide to it the services of a computer programmer in return for payment. Staﬀprovider arranges with Jane for her to undertake computer programming for Corporate. Staﬀprovider must withhold amounts from payments it makes to Jane under the arrangement with her.
+Example 1 Staffprovider Ltd keeps a database of skilled persons who are willing to provide their services to third parties. Staffprovider arranges with Corporate Pty Ltd to provide to it the services of a computer programmer in return for payment. Staffprovider arranges with Jane for her to undertake computer programming for Corporate. Staffprovider must withhold amounts from payments it makes to Jane under the arrangement with her.
 
-Eﬀectively, this means that an entity is only required to withhold if it is carrying on a labour hire business. It is not necessary that the labour hire activities be the sole business, or even the main business, of the payer.
+Effectively, this means that an entity is only required to withhold if it is carrying on a labour hire business. It is not necessary that the labour hire activities be the sole business, or even the main business, of the payer.
 
-However, a merely incidental business is not suﬃcient to require withholding.
+However, a merely incidental business is not sufficient to require withholding.
 
-Example 2 Ian is a solicitor who regularly briefs barristers to represent his clients. Brieﬁng barristers is merely incidental to Ian's main activities as a solicitor, so he does not have to withhold amounts from payments he makes to barristers.
+Example 2 Ian is a solicitor who regularly briefs barristers to represent his clients. Briefing barristers is merely incidental to Ian's main activities as a solicitor, so he does not have to withhold amounts from payments he makes to barristers.
 
-PAYG withholding is required where a chain of labour hire ﬁrms is involved, but not where payments are made by a contractor to a sub-contractor (because work is not being done "directly" for the client of the payer).
+PAYG withholding is required where a chain of labour hire firms is involved, but not where payments are made by a contractor to a sub-contractor (because work is not being done "directly" for the client of the payer).
 
-PAYG withholding only applies if the payment is made to an individual. This individual must not be an employee of either the client or the labour hire ﬁrm. However, there is no scope for quoting an ABN to avoid withholding and the priority rules state that the labour hire provisions are to be applied in priority to the ABN provisions. As a result, an individual carrying on business could consider incorporating so as to fall outside labour hire withholding (although operating through an entity raises the possibility that PAYG withholding will still apply because of the alienated personal services income provisions: ¶26-280).
+PAYG withholding only applies if the payment is made to an individual. This individual must not be an employee of either the client or the labour hire firm. However, there is no scope for quoting an ABN to avoid withholding and the priority rules state that the labour hire provisions are to be applied in priority to the ABN provisions. As a result, an individual carrying on business could consider incorporating so as to fall outside labour hire withholding (although operating through an entity raises the possibility that PAYG withholding will still apply because of the alienated personal services income provisions: ¶26-280).
 
-Work of a prescribed kind An entity that carries on an enterprise and which makes a payment to an individual in the course of the enterprise must withhold an amount if the payment is for work or services of a kind prescribed by the regulations (s 12-60(2)). This provides ﬂexibility to extend the categories of payments for work or services that can be subject to withholding.
+Work of a prescribed kind An entity that carries on an enterprise and which makes a payment to an individual in the course of the enterprise must withhold an amount if the payment is for work or services of a kind prescribed by the regulations (s 12-60(2)). This provides flexibility to extend the categories of payments for work or services that can be subject to withholding.
 
 *Refs: s 12-40), s 12-45), s 12-47), s 12-50), s 12-55), s 12-60(1), s 12-60(2))*
 
 - payments for tutorial services provided to improve the education of indigenous people and that
 
-  are ﬁnancially supported by the Commonwealth
+  are financially supported by the Commonwealth
 
 - payments for translation and interpretation services provided for the Translating and Interpreting
 
@@ -205,7 +205,7 @@ $350 weekly, $700 fortnightly or $1,517 monthly (Legislative Instrument F2022L01
 
 (Legislative Instrument F2016L01580), and
 
-- remuneration to a company director, committee member or oﬃce holder where the recipient is
+- remuneration to a company director, committee member or office holder where the recipient is
 
   required to remit those payments to another entity (Legislative Instrument F2016L00222).
 
@@ -215,7 +215,7 @@ $350 weekly, $700 fortnightly or $1,517 monthly (Legislative Instrument F2022L01
 
 ## The following payments have been prescribed (TAR s 27):
 
-## Service conducted by the Department of Home Aﬀairs
+## Service conducted by the Department of Home Affairs
 
 ## The payments subject to the variation include amounts paid as:
 

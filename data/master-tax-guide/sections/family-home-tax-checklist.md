@@ -19,17 +19,17 @@ See also the checklists for Rental Properties (¶44-107) and Death of a Taxpayer
 
 (¶11-060, ¶11-730).
 
-- Interest on a loan used to ﬁnance the purchase of a home would generally not be deductible
+- Interest on a loan used to finance the purchase of a home would generally not be deductible
 
   except to the extent that the home also serves as a place of business (¶16-740).
 
 - Duty on the conveyance is payable by the purchaser, though in some cases reduced rates or
 
-  other concessions may apply, eg for ﬁrst home buyers (¶37-020).
+  other concessions may apply, eg for first home buyers (¶37-020).
 
 - Special land-rich entity rules may apply to prevent exploitation (¶37-030).
 
-- When purchasing the home, the vendor may be required to provide a clearance certiﬁcate to
+- When purchasing the home, the vendor may be required to provide a clearance certificate to
 
   ensure that no foreign resident CGT withholding applies (¶26-269).
 
@@ -51,7 +51,7 @@ See also the checklists for Rental Properties (¶44-107) and Death of a Taxpayer
 
   though there are some exceptions (¶16-220, ¶16-230).
 
-- Where the home is simply used as a "home oﬃce" to do some work, as distinct from being a place
+- Where the home is simply used as a "home office" to do some work, as distinct from being a place
 
   of business, appropriate deductions may be claimed for expenses such as running costs (¶16-480).
 
@@ -67,7 +67,7 @@ See also the checklists for Rental Properties (¶44-107) and Death of a Taxpayer
 
 (www.humanservices.gov.au/individuals/centrelink).
 
-- The sale of a home is exempt from CGT where it qualiﬁes as the taxpayer's main residence, or
+- The sale of a home is exempt from CGT where it qualifies as the taxpayer's main residence, or
 
   where the taxpayer acquired it before 20 September 1985 (¶11-000, ¶11-730).
 
@@ -77,7 +77,7 @@ See also the checklists for Rental Properties (¶44-107) and Death of a Taxpayer
 
 (¶11-730, ¶11-770).
 
-- From 1 July 2021, a CGT event will not happen on a family home where a valid granny ﬂat
+- From 1 July 2021, a CGT event will not happen on a family home where a valid granny flat
 
   arrangement has been entered into (¶11-915).
 

@@ -13,17 +13,17 @@ Where a group of corporate tax entities is a consolidated group, the group is tr
 
 - pays consolidated income tax instalments, after being given an instalment rate worked out by the
 
-Commissioner from its ﬁrst consolidated assessment. Before that time, the members of the newly consolidated group continue to pay their own PAYG instalments. The head company is entitled to franking credits for PAYG payments made by subsidiary members in relation to post-consolidation periods
+Commissioner from its first consolidated assessment. Before that time, the members of the newly consolidated group continue to pay their own PAYG instalments. The head company is entitled to franking credits for PAYG payments made by subsidiary members in relation to post-consolidation periods
 
 - maintains a single franking account (¶8-300)
 
-- pools losses (¶8-100), franking credits (¶8-300) and foreign income tax oﬀsets (¶8-600)
+- pools losses (¶8-100), franking credits (¶8-300) and foreign income tax offsets (¶8-600)
 
-- eﬀectively maintains a common tax accounting period for all its member entities.
+- effectively maintains a common tax accounting period for all its member entities.
 
 Intra-group transactions (such as dividends, loans and transfer of assets) between members of a consolidated group are ignored for income tax purposes. Assets can therefore be transferred between members without tax consequences. A member company can be liquidated without triggering a deemed dividend or a capital gain or loss.
 
-The actions and transactions of a subsidiary member with someone outside the consolidated group are treated as undertaken by the head company for income tax purposes (TD 2004/36; TD 2004/76). Thus, all the assessable income and deductions of the group are attributable to the head company (after eliminating intra-group transactions). An oﬀshore branch of a subsidiary member is also treated as if it were a branch of the head company (ID 2009/161). The head company is treated as the responsible taxpayer for most purposes.
+The actions and transactions of a subsidiary member with someone outside the consolidated group are treated as undertaken by the head company for income tax purposes (TD 2004/36; TD 2004/76). Thus, all the assessable income and deductions of the group are attributable to the head company (after eliminating intra-group transactions). An offshore branch of a subsidiary member is also treated as if it were a branch of the head company (ID 2009/161). The head company is treated as the responsible taxpayer for most purposes.
 
 The head company is taken to acquire any CGT assets that a member entity acquires while a member of the group, and to hold any CGT assets for so long as they are held by a member entity. Any CGT events (¶11-240) happening in relation to CGT assets held by an entity while it is a member of the consolidated group are taken to happen in relation to the asset while being held by the head company (TD 2004/82; TD 2004/40).
 
@@ -37,9 +37,9 @@ The thin capitalisation rules (¶8-600, ¶22-700) treat a consolidated group as 
 
 - While consolidation may initially involve considerable compliance costs in modifying accounting systems and procedures,
 
-  valuing assets and analysing the eﬀects on losses, after consolidation there should be some cost beneﬁts and additional
+  valuing assets and analysing the effects on losses, after consolidation there should be some cost benefits and additional
 
-  ﬂexibility as intra-group transactions generally have no income tax implications.
+  flexibility as intra-group transactions generally have no income tax implications.
 
 - Consolidation removes the potential for duplication of gains and losses (within a subsidiary and on disposal of interests in
 
@@ -47,6 +47,6 @@ The thin capitalisation rules (¶8-600, ¶22-700) treat a consolidated group as 
 
 - A consolidated group is treated as a single entity under the thin capitalisation rules and may be able to better utilise foreign
 
-  income tax oﬀsets or pre-commencement excess foreign income tax (¶21-670, ¶21-760).
+  income tax offsets or pre-commencement excess foreign income tax (¶21-670, ¶21-760).
 
 ## Planning points: single entity rule

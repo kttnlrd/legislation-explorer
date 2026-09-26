@@ -7,11 +7,11 @@ paragraph: "¶28-010"
 ---
 # Lodging an objection ¶28-010
 
-Where a taxpayer has taxable income, there is tax payable (¶25-100) and a notice of assessment has been served (¶25-110), a right of objection will accrue against the assessment. There is no right of objection where the taxpayer has no taxable income or there is taxable income but no tax is payable, unless the taxpayer is seeking an increase in the taxpayer's liability or the total of the taxpayer's tax oﬀset refunds (ITAA36 s 175A).
+Where a taxpayer has taxable income, there is tax payable (¶25-100) and a notice of assessment has been served (¶25-110), a right of objection will accrue against the assessment. There is no right of objection where the taxpayer has no taxable income or there is taxable income but no tax is payable, unless the taxpayer is seeking an increase in the taxpayer's liability or the total of the taxpayer's tax offset refunds (ITAA36 s 175A).
 
-It is not suﬃcient for a taxpayer to foreshadow the mere possibility of an increase in liability (Case 1/2018 2018 ATC ¶1-093; [2018] AATA 14).
+It is not sufficient for a taxpayer to foreshadow the mere possibility of an increase in liability (Case 1/2018 2018 ATC ¶1-093; [2018] AATA 14).
 
-Where a taxpayer is dissatisﬁed with an assessment (or any other taxation decision) or a deemed assessment (¶25-100), the taxpayer may, and should, object against it. To be valid and eﬀective, an objection must:
+Where a taxpayer is dissatisfied with an assessment (or any other taxation decision) or a deemed assessment (¶25-100), the taxpayer may, and should, object against it. To be valid and effective, an objection must:
 
 - be in the form approved by the Commissioner (standard forms for professionals and non-
 
@@ -35,9 +35,9 @@ Where an assessment of penalty is included in the notice of assessment of ordina
 
 A taxpayer may lodge more than one objection against an assessment within the allowable time limit. After an objection has been made to an element of an assessment, further objections to that element can be made until the Commissioner makes an objection decision. Further, the taxpayer can continue to object against other elements of the assessment within the allowable time limit (TR 2011/5).
 
-A taxpayer may also lodge a single notice of objection against multiple assessments where common questions of law and fact are involved (McDermott 2003 ATC 4410; [2003] FCA 139). However, a taxpayer's right to object against an amended assessment or determination is limited to matters connected with the particular item(s) that has been amended and with which the taxpayer is dissatisﬁed (TAA s 14ZV; Case 21/94 94 ATC 222; [1994] AATA 133).
+A taxpayer may also lodge a single notice of objection against multiple assessments where common questions of law and fact are involved (McDermott 2003 ATC 4410; [2003] FCA 139). However, a taxpayer's right to object against an amended assessment or determination is limited to matters connected with the particular item(s) that has been amended and with which the taxpayer is dissatisfied (TAA s 14ZV; Case 21/94 94 ATC 222; [1994] AATA 133).
 
-Another restriction on a taxpayer's right to object against an assessment is where the assessment reﬂects the application of a private ruling against which the taxpayer had previously objected. In such a case, the objection against the assessment cannot include grounds that were, or could have been, grounds for objection against the private ruling (TAA s 14ZVA) (¶24-560).
+Another restriction on a taxpayer's right to object against an assessment is where the assessment reflects the application of a private ruling against which the taxpayer had previously objected. In such a case, the objection against the assessment cannot include grounds that were, or could have been, grounds for objection against the private ruling (TAA s 14ZVA) (¶24-560).
 
 Where a taxpayer enters into a deed of settlement with the Commissioner (¶25-210) concerning tax in dispute, the deed will usually provide for the waiver of objection rights and these clauses are binding (Jonshagen 2016 ATC ¶20-596; [2016] FCA 1545, EE&C Pty Ltd as Trustee for the Tarcisio Cremasco Family Trust [2018] AATA 4093).
 

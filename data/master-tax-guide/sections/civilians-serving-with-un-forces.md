@@ -25,6 +25,6 @@ A taxpayer's period of UN service overseas includes periods of service in a zone
 
 Periods of overseas service cannot qualify for both the UN forces rebate and the tax exemption for foreign source earnings under ITAA36 s 23AG (¶10-860).
 
-A taxpayer who also qualiﬁes for a zone rebate is only entitled to the rebate that provides the greater amount (s 23AB(9) to (9B)). Together with other oﬀsets to which the taxpayer may be entitled, this rebate is non- refundable (¶15-010).
+A taxpayer who also qualifies for a zone rebate is only entitled to the rebate that provides the greater amount (s 23AB(9) to (9B)). Together with other offsets to which the taxpayer may be entitled, this rebate is non- refundable (¶15-010).
 
 *Refs: s 961-10)*

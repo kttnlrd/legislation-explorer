@@ -33,7 +33,7 @@ gains Subdivision 14-B of TAA sch 1 contains the TFN withholding arrangements th
 
   under ITAA36 s 159GQ (¶23-320)
 
-- the investment is an interest-bearing account or interest-bearing deposit with a ﬁnancial
+- the investment is an interest-bearing account or interest-bearing deposit with a financial
 
   institution, or a non-transferable loan to a government body or to a body corporate
 
@@ -53,11 +53,11 @@ In addition, an entity must withhold an amount when an investor becomes presentl
 
 Withholding from closely held trusts The TFN withholding arrangements extend to closely held trusts, including family trusts (ss 12-175 to 12-185).
 
-The withholding rules apply if the trustee of a resident trust estate that is a closely held trust (within the meaning of ITAA36 s 102UC: ¶6-275) makes a distribution to a beneﬁciary during the income year and some or all of the distribution is from the ordinary or statutory income of the trust. The beneﬁciary must be an Australian resident, not an exempt entity and not under a legal disability (eg minors).
+The withholding rules apply if the trustee of a resident trust estate that is a closely held trust (within the meaning of ITAA36 s 102UC: ¶6-275) makes a distribution to a beneficiary during the income year and some or all of the distribution is from the ordinary or statutory income of the trust. The beneficiary must be an Australian resident, not an exempt entity and not under a legal disability (eg minors).
 
 The trustee must withhold an amount from the distribution if the following conditions are met:
 
-- the beneﬁciary did not quote a tax ﬁle number to the trustee before the distribution time
+- the beneficiary did not quote a tax file number to the trustee before the distribution time
 
 - the trustee is not liable to pay tax under ITAA36 s 98 in connection with the distribution
 
@@ -67,7 +67,7 @@ The trustee must withhold an amount from the distribution if the following condi
 
 - family trust distribution tax (¶6-268) is not payable in connection with the distribution.
 
-Similar rules apply if the beneﬁciary becomes presently entitled to a share of the net income of the trust.
+Similar rules apply if the beneficiary becomes presently entitled to a share of the net income of the trust.
 
 The ATO has provided a guide to the withholding rules at TFN withholding for closely held trusts.
 
@@ -83,7 +83,7 @@ The TFN withholding rate to be used for working out how much of a distribution o
 
 - law practice trusts (ie a trust created and maintained in connection with the provision of legal
 
-  services by a duly qualiﬁed legal practitioner or the deposit of money to a solicitor and regulated by
+  services by a duly qualified legal practitioner or the deposit of money to a solicitor and regulated by
 
   a state or territory law (TAR s 29)).
 

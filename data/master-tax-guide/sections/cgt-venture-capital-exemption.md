@@ -43,9 +43,9 @@ Exemption for profits on venture capital investments The exemption is available 
 
   of the requirements is that more than 75% of the activities of the company, trust or group, having
 
-  regard to certain attributes, must not relate to speciﬁed activities. Ineligible activities consist of
+  regard to certain attributes, must not relate to specified activities. Ineligible activities consist of
 
-  property development or land ownership; certain ﬁnance activities; insurance; construction or
+  property development or land ownership; certain finance activities; insurance; construction or
 
   acquisition of infrastructure facilities; or making investments designed to generate interest, rents,
 
@@ -57,9 +57,9 @@ Eligibility for the exemption also applies to investments in the holding company
 
 An eligible venture capital investment cannot be made into an entity whose asset value, together with that of any connected entity, exceeds $50 million (in the case of an ESVCLP) or $250 million (in any other case) immediately before the investment is made. However, an investment in an entity that is acquired from a group whose asset value is greater than the relevant amount will qualify for the concession if, after the investment is made, the entity will not be connected to the group (s 118-440).
 
-ESVCLPs are not required to divest a company when its value exceeds $250 million (¶20-700). However, if an ESVCLP does not dispose of an investment in an entity within 6 months after the end of an income year in which the investee's market value exceeds $250 million, then the ESVCLP will only be entitled to a partial CGT exemption equal to the amount of the exempt capital gain that would have arisen had the investment been sold at the end of 6 months after the income year in which the $250 million threshold was ﬁrst exceeded (s 118-408).
+ESVCLPs are not required to divest a company when its value exceeds $250 million (¶20-700). However, if an ESVCLP does not dispose of an investment in an entity within 6 months after the end of an income year in which the investee's market value exceeds $250 million, then the ESVCLP will only be entitled to a partial CGT exemption equal to the amount of the exempt capital gain that would have arisen had the investment been sold at the end of 6 months after the income year in which the $250 million threshold was first exceeded (s 118-408).
 
-Exemption for foreign resident pension funds A foreign resident tax-exempt pension fund that invests in venture capital in an Australian company or ﬁxed trust (a resident investment vehicle) can disregard a capital gain or capital loss it makes from a CGT event that happens to the shares or trust interests if: (i) the entity is registered under the Pooled Development Funds Act 1992; and (ii) the entity owned the shares or interests for at least 12 months (Subdiv 118-G: ss 118-500 to 118-525).
+Exemption for foreign resident pension funds A foreign resident tax-exempt pension fund that invests in venture capital in an Australian company or fixed trust (a resident investment vehicle) can disregard a capital gain or capital loss it makes from a CGT event that happens to the shares or trust interests if: (i) the entity is registered under the Pooled Development Funds Act 1992; and (ii) the entity owned the shares or interests for at least 12 months (Subdiv 118-G: ss 118-500 to 118-525).
 
 A capital gain or loss is disregarded if it is made from a CGT event happening to "venture capital equity" that was acquired by a "venture capital entity" and that, at the time of the CGT event, was owned by that entity and had been owned by that entity for at least 12 months (s 118-505).
 
@@ -68,7 +68,7 @@ A capital gain or loss is disregarded if it is made from a CGT event happening t
 
 - it is a foreign resident
 
-- it is a foreign superannuation fund (as deﬁned in s 118-520)
+- it is a foreign superannuation fund (as defined in s 118-520)
 
 - it is not a prescribed dual resident (¶21-040)
 
@@ -76,7 +76,7 @@ A capital gain or loss is disregarded if it is made from a CGT event happening t
 
   some other foreign country prescribed by the regulations, and
 
-- its income is exempt, or eﬀectively exempt, from taxation in its country of residence (s
+- its income is exempt, or effectively exempt, from taxation in its country of residence (s
 
   118-515(1)).
 

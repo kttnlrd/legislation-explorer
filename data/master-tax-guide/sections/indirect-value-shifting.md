@@ -9,15 +9,15 @@ paragraph: "¶12-840"
 
 An indirect value shift arises where there is a net shift of value from one related entity to another, eg transferring assets or providing services for less than or more than market value. It involves a reduction in the value of equity or loan interests in one entity (the losing entity) and a corresponding increase in the value of interests in another entity (the gaining entity).
 
-Indirect value shifting rules deal with the consequential eﬀects on the values of interests that are held directly or indirectly by the entities involved (Div 727). The rules prevent a loss or gain from arising because of the value shift when the interests are realised.
+Indirect value shifting rules deal with the consequential effects on the values of interests that are held directly or indirectly by the entities involved (Div 727). The rules prevent a loss or gain from arising because of the value shift when the interests are realised.
 
-- apply to companies and trusts where control or common ownership tests are satisﬁed (the
+- apply to companies and trusts where control or common ownership tests are satisfied (the
 
   common ownership test applies only to closely held entities)
 
 - cover equity and loan interests on capital account, trading stock or revenue account
 
-- apply to the full range of value shifting by way of provision of economic beneﬁts, not only to asset
+- apply to the full range of value shifting by way of provision of economic benefits, not only to asset
 
   transfers and creations, and debt forgiveness
 
@@ -41,15 +41,15 @@ Indirect value shifting rules deal with the consequential eﬀects on the values
 
 Application of rules
 
-- economic beneﬁts are provided by one entity to another in connection with a scheme (as deﬁned
+- economic benefits are provided by one entity to another in connection with a scheme (as defined
 
   in s 995-1(1))
 
 - the entities are not dealing at arm's length
 
-- the market value of the economic beneﬁts provided by the losing entity to the gaining entity
+- the market value of the economic benefits provided by the losing entity to the gaining entity
 
-  exceeds the market value of the beneﬁts provided by the gaining entity in connection with the
+  exceeds the market value of the benefits provided by the gaining entity in connection with the
 
   scheme
 
@@ -69,13 +69,13 @@ Exclusions
 
 *Refs: s 995-1(1))*
 
-- arm's length dealings and economic beneﬁts provided at market value are excluded
+- arm's length dealings and economic benefits provided at market value are excluded
 
 - the interests of small business entities (¶7-050), and entities that meet the maximum net asset
 
   value test (¶7-130), are excluded
 
-- only entities that satisfy one of the following tests are aﬀected:
+- only entities that satisfy one of the following tests are affected:
 
 – an ultimate controller test — ie one entity must control the other or both must be controlled by the same entity, or – a common ownership nexus test — ie both the losing and gaining entities must be closely held and there must be at least 80% common ownership between the entities
 
@@ -83,7 +83,7 @@ Exclusions
 
   – value shifts of $50,000 or less (s 727-215)
 
-– property transferred for at least the greater of its cost or cost base, provided no aﬀected owner acquired its interest in the losing entity after the property was acquired by it (s 727-220). This exclusion does not apply when land is transferred at cost and the cost is more than the market value of the land (ID 2003/891) – services provided for at least their direct cost or for no more than a commercially realistic price, provided the service component of the beneﬁts is at least 95% on a market value basis (ss 727-230 to 727-245) – distributions to members and beneﬁciaries that have consequences under other provisions (s 727-250) – most cases where value is shifted to a wholly-owned subsidiary of the losing entity (s 727-260).
+– property transferred for at least the greater of its cost or cost base, provided no affected owner acquired its interest in the losing entity after the property was acquired by it (s 727-220). This exclusion does not apply when land is transferred at cost and the cost is more than the market value of the land (ID 2003/891) – services provided for at least their direct cost or for no more than a commercially realistic price, provided the service component of the benefits is at least 95% on a market value basis (ss 727-230 to 727-245) – distributions to members and beneficiaries that have consequences under other provisions (s 727-250) – most cases where value is shifted to a wholly-owned subsidiary of the losing entity (s 727-260).
 
 *Refs: s 727-215), s
 727-220), s 727-230, s 727-250), s

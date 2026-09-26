@@ -7,7 +7,7 @@ paragraph: "¶1-150"
 ---
 # Rating Acts ¶1-150
 
-The Rating Acts impose the actual tax on taxable income as determined under ITAA36 or ITAA97. The rates are declared and imposed under a number of diﬀerent Acts. The most important Acts are:
+The Rating Acts impose the actual tax on taxable income as determined under ITAA36 or ITAA97. The rates are declared and imposed under a number of different Acts. The most important Acts are:
 
 - the Income Tax Rates Act 1986 and the Income Tax Act 1986, which together declare and
 

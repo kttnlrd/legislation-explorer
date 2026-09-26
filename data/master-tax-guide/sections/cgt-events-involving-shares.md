@@ -37,17 +37,17 @@ Cost base and reduced cost base adjustments The cost base and reduced cost base 
 
 *Refs: s 152-125*
 
-instruments worthless CGT event G3 happens if a taxpayer owns shares in, or ﬁnancial instruments issued or created by, a company and the company's liquidator or administrator declares in writing that he/she believes:
+instruments worthless CGT event G3 happens if a taxpayer owns shares in, or financial instruments issued or created by, a company and the company's liquidator or administrator declares in writing that he/she believes:
 
 - for shares — there to be no likelihood of shareholders (or shareholders of a particular class of
 
   shares) receiving further distributions
 
-- for ﬁnancial instruments — the instruments (or a particular class of instruments), have no or only a
+- for financial instruments — the instruments (or a particular class of instruments), have no or only a
 
   negligible value (s 104-145).
 
-This mechanism allows taxpayers to accelerate the crystallisation of a capital loss without the need to dispose of the shares or ﬁnancial instruments by a "wash sale" (¶11-250). There cannot be a capital gain from CGT event G3.
+This mechanism allows taxpayers to accelerate the crystallisation of a capital loss without the need to dispose of the shares or financial instruments by a "wash sale" (¶11-250). There cannot be a capital gain from CGT event G3.
 
 Liquidators and administrators may notify the shareholders or creditors of the declaration in any way they choose (TD 92/101).
 
@@ -55,15 +55,15 @@ A declaration in relation to shares can state that distributions are not expecte
 
 Timing of CGT event G3 The time of CGT event G3 is when the liquidator makes the declaration.
 
-Capital losses A taxpayer can choose to make a capital loss equal to the reduced cost base of the taxpayer's shares or ﬁnancial instrument at the time of the declaration. A capital gain cannot be made from CGT event G3.
+Capital losses A taxpayer can choose to make a capital loss equal to the reduced cost base of the taxpayer's shares or financial instrument at the time of the declaration. A capital gain cannot be made from CGT event G3.
 
-If the taxpayer chooses to make a capital loss from CGT event G3, the cost base and reduced cost base of the relevant shares or ﬁnancial instruments are reduced to nil just after the liquidator makes the declaration.
+If the taxpayer chooses to make a capital loss from CGT event G3, the cost base and reduced cost base of the relevant shares or financial instruments are reduced to nil just after the liquidator makes the declaration.
 
-These continue to be relevant for working out if the taxpayer makes a capital gain or loss from any later CGT event that happens in relation to the shares or ﬁnancial instruments.
+These continue to be relevant for working out if the taxpayer makes a capital gain or loss from any later CGT event that happens in relation to the shares or financial instruments.
 
 Example In 2000, Jennie purchased shares in Tooth & Co Ltd. On 24 June 2024 the liquidators of the company made a declaration that they had reasonable grounds to believe that there was no likelihood that the shareholders would receive any distribution on a winding up. Jennie opted to make a capital loss equal to the reduced cost base of her shares as at 24 June 2024. This reduced the cost base and reduced cost base of her shares to nil.
 
-A taxpayer cannot choose to make a capital loss from shares or ﬁnancial instruments acquired before 20 September 1985 or where such assets were revenue assets at time the declaration was made.
+A taxpayer cannot choose to make a capital loss from shares or financial instruments acquired before 20 September 1985 or where such assets were revenue assets at time the declaration was made.
 
 *Refs: s 104-145)*
 

@@ -15,7 +15,7 @@ paragraph: "¶17-090"
 
   is revenue expenditure and immediately deductible (TD 93/126).
 
-- where an oﬀset has been available in respect of expenditure on an R&D asset, the expenditure is
+- where an offset has been available in respect of expenditure on an R&D asset, the expenditure is
 
   not also allowable under the capital allowance provisions (ITAA97 s 355-715; ¶17-420).
 
@@ -33,7 +33,7 @@ Once the cost of a depreciating asset has been established under the rules at ¶
 
   the discount (¶17-210)
 
-- the cost of a copyright in a ﬁlm is reduced by the amount of the producer oﬀset available under
+- the cost of a copyright in a film is reduced by the amount of the producer offset available under
 
   the rules discussed at ¶20-340 (ITAA97 s 40-45)
 
@@ -55,13 +55,13 @@ Once the cost of a depreciating asset has been established under the rules at ¶
 
 Scheme (ITAA97 s 40-235).
 
-The foreign currency denominated cost of a depreciating asset is converted at the exchange rate applicable when the taxpayer began to hold the asset or when satisfying the liability to pay for it, whichever occurs ﬁrst (¶23-070). See also the foreign exchange gains and losses rules (¶23-075).
+The foreign currency denominated cost of a depreciating asset is converted at the exchange rate applicable when the taxpayer began to hold the asset or when satisfying the liability to pay for it, whichever occurs first (¶23-070). See also the foreign exchange gains and losses rules (¶23-075).
 
-The TOFA rules (¶23-020) may aﬀect the calculation of the cost of a depreciating asset where a ﬁnancial arrangement is used as consideration for acquiring the asset.
+The TOFA rules (¶23-020) may affect the calculation of the cost of a depreciating asset where a financial arrangement is used as consideration for acquiring the asset.
 
-GST and depreciating assets The cost of a depreciating asset (and, in a year after the ﬁrst year of use, the opening adjustable value) is reduced by any input tax credits relating to the acquisition of the asset or to second element costs of the asset, and by certain decreasing adjustments relating to the asset. If the decreasing adjustment is due to a change in planned use, it is included in assessable income (ITAA97 Subdiv 27-B). If the cost is taken to be market value, that is also a GST-exclusive value.
+GST and depreciating assets The cost of a depreciating asset (and, in a year after the first year of use, the opening adjustable value) is reduced by any input tax credits relating to the acquisition of the asset or to second element costs of the asset, and by certain decreasing adjustments relating to the asset. If the decreasing adjustment is due to a change in planned use, it is included in assessable income (ITAA97 Subdiv 27-B). If the cost is taken to be market value, that is also a GST-exclusive value.
 
-The cost of the asset (and, in a year later than the ﬁrst year of use, the opening adjustable value) may be increased by certain increasing adjustments relating directly or indirectly to the asset. If the increasing adjustment is due to a change in planned use, it is deducted. For detailed explanation of increasing and decreasing adjustments, see the Australian Master GST Guide.
+The cost of the asset (and, in a year later than the first year of use, the opening adjustable value) may be increased by certain increasing adjustments relating directly or indirectly to the asset. If the increasing adjustment is due to a change in planned use, it is deducted. For detailed explanation of increasing and decreasing adjustments, see the Australian Master GST Guide.
 
 Example George, who is registered for GST, buys a ladder for $550 that will be used 80% of the time in his plumbing business. The remaining 20% usage is for non-taxable purposes. The cost of the asset is taken to be the purchase price reduced by $40, ie $510 (calculated as $550 − [(1/11 × $550) × 80%]). If the decline in value is $110 over 2 years, the opening adjustable value at the start of Year 3 is $400.
 

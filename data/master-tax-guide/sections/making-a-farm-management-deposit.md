@@ -11,7 +11,7 @@ The owner of an FMD deposited during a particular income year can claim a deduct
 
 - have more than $100,000 in non-primary production income (excluding net capital gains and
 
-  certain superannuation amounts: ITAA97 s 995-1 deﬁnition of "taxable non-primary production
+  certain superannuation amounts: ITAA97 s 995-1 definition of "taxable non-primary production
 
   income"). The threshold was $65,000 for income years commencing before 1 July 2014
 
@@ -27,10 +27,10 @@ If a taxpayer makes a deposit during a period, the amount of the deposit reduces
 
 The instalment income cannot be reduced below zero.
 
-FMDs can be made only with ADIs or with ﬁnancial institutions that have a Commonwealth, state or territory guarantee. Providers oﬀering FMDs must make a declaration to depositors that they are either an ADI or have a relevant government guarantee. FMDs cannot become unclaimed moneys under the Banking Act.
+FMDs can be made only with ADIs or with financial institutions that have a Commonwealth, state or territory guarantee. Providers offering FMDs must make a declaration to depositors that they are either an ADI or have a relevant government guarantee. FMDs cannot become unclaimed moneys under the Banking Act.
 
 However, the status of amounts held as an FMD that had already become unclaimed moneys before that date does not change.
 
-Amounts held in an FMD can be used to oﬀset a loan or other debt oﬀset a loan or other debt relating to the FMD owner's primary production business from 1 July 2016. Under such an arrangement, the amount of interest charged on the loan or other debt may be less than what it would otherwise be and there may be no entitlement or a reduced entitlement to earn interest on the FMD. To the extent that an FMD loan oﬀset arrangement results in a lower amount of interest being charged on a loan or other debt used other than for the purposes of a primary production business of the FMD owner or a partnership in which they are a partner, an administrative penalty is payable.
+Amounts held in an FMD can be used to offset a loan or other debt offset a loan or other debt relating to the FMD owner's primary production business from 1 July 2016. Under such an arrangement, the amount of interest charged on the loan or other debt may be less than what it would otherwise be and there may be no entitlement or a reduced entitlement to earn interest on the FMD. To the extent that an FMD loan offset arrangement results in a lower amount of interest being charged on a loan or other debt used other than for the purposes of a primary production business of the FMD owner or a partnership in which they are a partner, an administrative penalty is payable.
 
 *Refs: ITAA97 s 995-1*

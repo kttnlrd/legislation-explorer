@@ -17,7 +17,7 @@ paragraph: "¶44-150"
 
   deductible for outdoor workers (¶16-180).
 
-- A speciﬁc tax deduction is allowable for the cost of COVID-19 tests that are work-related
+- A specific tax deduction is allowable for the cost of COVID-19 tests that are work-related
 
   (¶16-490).
 
@@ -31,7 +31,7 @@ paragraph: "¶44-150"
 
   shown (¶16-520).
 
-- Providing beneﬁts to employees by paying or reimbursing their expenses may expose the
+- Providing benefits to employees by paying or reimbursing their expenses may expose the
 
   employer to FBT. However, there are a number of medical and health-related FBT exemptions
 
@@ -59,11 +59,11 @@ paragraph: "¶44-150"
 
   lost earnings (¶10-210, ¶16-560).
 
-- Ordinary health insurance contributions would normally not be deductible, but a tax oﬀset may be
+- Ordinary health insurance contributions would normally not be deductible, but a tax offset may be
 
   available in some situations (¶15-330).
 
-- Various social security and related beneﬁts may be payable where a person is sick or disabled
+- Various social security and related benefits may be payable where a person is sick or disabled
 
   (¶10-195).
 
@@ -71,19 +71,19 @@ paragraph: "¶44-150"
 
   compensation and military injury payments (¶10-200 – ¶10-204, ¶10-780, ¶11-650).
 
-- In certain cases, people can get early access to their superannuation beneﬁts on medical grounds
+- In certain cases, people can get early access to their superannuation benefits on medical grounds
 
   (¶13-025).
 
 - Certain carers or care recipients qualify as "dependants" who may be eligible to receive
 
-  superannuation death beneﬁts (¶14-270).
+  superannuation death benefits (¶14-270).
 
-- Where a superannuation lump sum payment includes a disability beneﬁt, a portion of the payment
+- Where a superannuation lump sum payment includes a disability benefit, a portion of the payment
 
   may be tax-free (¶14-130, ¶14-220).
 
-- Where a lump sum employment termination payment includes a disability beneﬁt, a portion of the
+- Where a lump sum employment termination payment includes a disability benefit, a portion of the
 
   payment may be tax-free (¶14-640).
 
@@ -91,7 +91,7 @@ paragraph: "¶44-150"
 
   (¶13-860).
 
-- A person entitled to a disability pension from a superannuation fund may qualify for a tax oﬀset
+- A person entitled to a disability pension from a superannuation fund may qualify for a tax offset
 
   (¶14-220).
 
@@ -101,7 +101,7 @@ paragraph: "¶44-150"
 
 - Exemptions from the penal "minors' tax" apply where the minor is disabled (¶2-170).
 
-- Periods of sick leave do not aﬀect a person's continuity of foreign employment for the purpose of
+- Periods of sick leave do not affect a person's continuity of foreign employment for the purpose of
 
   determining eligibility for the limited exemption on the foreign earnings (¶10-860).
 
@@ -129,7 +129,7 @@ paragraph: "¶44-150"
 
   cause serious hardship (¶25-450).
 
-- A taxpayer may be able to claim a dependant (invalid and carer) tax oﬀset in certain
+- A taxpayer may be able to claim a dependant (invalid and carer) tax offset in certain
 
   circumstances (¶15-100).
 
@@ -139,7 +139,7 @@ paragraph: "¶44-150"
 
 - Where the only source of income of a presently entitled but mentally incapacitated trust
 
-  beneﬁciary is a distribution from that trust, the beneﬁciary is not required to lodge a tax return
+  beneficiary is a distribution from that trust, the beneficiary is not required to lodge a tax return
 
 (¶6-120).
 

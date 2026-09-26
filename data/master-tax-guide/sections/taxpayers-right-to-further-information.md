@@ -7,11 +7,11 @@ paragraph: "¶28-060"
 ---
 # Taxpayer's right to further information ¶28-060
 
-The income tax legislation does not speciﬁcally require the Commissioner to provide information to a taxpayer. In preparing an objection, however, it would be helpful if the taxpayer had all relevant information, as an adjustment sheet (if issued) usually contains only brief details. Of course, if an assessment is amended after an audit of the taxpayer's aﬀairs, it is likely that the issues will have been fully canvassed during the audit. It is also likely that, in determining whether the grounds of objection have been stated "fully and in detail" (¶28-040), the court or ART would take into account the information available to the taxpayer when drafting the objection.
+The income tax legislation does not specifically require the Commissioner to provide information to a taxpayer. In preparing an objection, however, it would be helpful if the taxpayer had all relevant information, as an adjustment sheet (if issued) usually contains only brief details. Of course, if an assessment is amended after an audit of the taxpayer's affairs, it is likely that the issues will have been fully canvassed during the audit. It is also likely that, in determining whether the grounds of objection have been stated "fully and in detail" (¶28-040), the court or ART would take into account the information available to the taxpayer when drafting the objection.
 
-If further information is needed, a taxpayer may have to use the Freedom of Information Act 1982 (Cth) (FOI Act). A taxpayer will not be charged for accessing their personal information. Requests must be in writing using, if possible, a "Request under the Freedom of Information Act 1982" form available on the ATO website. The FOI Act can prove quite fruitful. For example, a taxpayer successfully applied for access to ATO internal working documents, including reports by advising oﬃcers, inter-oﬃce memoranda and an objection report, which related to a purely routine assessment (Murtagh 84 ATC 4516; [1984] AATA 249).
+If further information is needed, a taxpayer may have to use the Freedom of Information Act 1982 (Cth) (FOI Act). A taxpayer will not be charged for accessing their personal information. Requests must be in writing using, if possible, a "Request under the Freedom of Information Act 1982" form available on the ATO website. The FOI Act can prove quite fruitful. For example, a taxpayer successfully applied for access to ATO internal working documents, including reports by advising officers, inter-office memoranda and an objection report, which related to a purely routine assessment (Murtagh 84 ATC 4516; [1984] AATA 249).
 
-Another applicant was granted access to a ﬁnal report by a consultant to the ATO on proposals to simplify the personal income tax system as the document was of overwhelming public interest (McKinnon [2001] AATA 871). In another case, taxpayers were granted access to ﬁle notes disclosing the views of ATO oﬃcers on the application of the anti-avoidance provisions (Walker 95 ATC 2001).
+Another applicant was granted access to a final report by a consultant to the ATO on proposals to simplify the personal income tax system as the document was of overwhelming public interest (McKinnon [2001] AATA 871). In another case, taxpayers were granted access to file notes disclosing the views of ATO officers on the application of the anti-avoidance provisions (Walker 95 ATC 2001).
 
 However, access to documents may be denied on various grounds of exemption, including:
 
@@ -29,7 +29,7 @@ Thoroughbred Horse Stud 86 ATC 2030; [1986] AATA 97)
 
   [1997] AATA 713)
 
-- where documents contain material obtained in conﬁdence (s 45), or
+- where documents contain material obtained in confidence (s 45), or
 
 - where documents disclose trade secrets or commercially valuable information (s 47).
 

@@ -15,7 +15,7 @@ An entity that lets out a rental property on a regular and continuous basis is c
 
 An entity must apply to be registered on the Australian Business Register to get an ABN. The application must be in the approved form and may be mailed to the Registrar or lodged via the Business Entry Point (www.business.gov.au) (ABNA s 9). An entity may also apply for the Registrar to register details about a nominated representative (who is an individual) for the purpose of facilitating electronic dealings with government entities (ABNA s 9A). Various application forms relevant for ABNs can be found at www.ato.gov.au. All online registrations for an ABN must be lodged via the Australian Business Register (ABR) at abr.gov.au.
 
-The Registrar must register an entity or representative if satisﬁed that the entity is entitled to have an ABN and that its identity has been established (ABNA ss 10; 10A). The Registrar then sends a written notice informing the entity of its registration, its ABN, the date from which registration is eﬀective and the entity's details on the register. The date of registration may be any date, including a date before the application was made (ABNA s 11).
+The Registrar must register an entity or representative if satisfied that the entity is entitled to have an ABN and that its identity has been established (ABNA ss 10; 10A). The Registrar then sends a written notice informing the entity of its registration, its ABN, the date from which registration is effective and the entity's details on the register. The date of registration may be any date, including a date before the application was made (ABNA s 11).
 
 The Registrar must give written notice to an entity of a refusal to register, including reasons for the refusal.
 

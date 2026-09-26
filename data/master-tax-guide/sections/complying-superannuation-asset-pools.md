@@ -50,7 +50,7 @@ superannuation asset pool A life insurance company must transfer assets from or 
 
   assets or complying superannuation life insurance policies other than certain policies that provide
 
-  death or disability beneﬁts
+  death or disability benefits
 
 - to discharge any liabilities under its complying superannuation life insurance policies or pay any
 

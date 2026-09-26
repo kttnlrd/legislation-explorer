@@ -31,7 +31,7 @@ Neither the issue or transfer of shares of the ultimate holding company itself n
 
 Once CGT event J1 happens, any roll-overs of the asset before the break-up time are no longer relevant.
 
-CGT event J1 then only has to be considered in relation to a subsequent roll-over or series of roll-overs, and in relation to the company which is the ultimate holding company when the ﬁrst such subsequent roll-over occurs.
+CGT event J1 then only has to be considered in relation to a subsequent roll-over or series of roll-overs, and in relation to the company which is the ultimate holding company when the first such subsequent roll-over occurs.
 
 Timing of CGT event J1 The time of CGT event J1 is the break-up time. This is when the recipient company stops being a wholly- owned subsidiary of the group's ultimate holding company.
 
@@ -41,7 +41,7 @@ A capital gain or loss from CGT event J1 is disregarded if the roll-over asset i
 
 CGT event J1 does not happen to a demerged entity or a member of a demerger group if CGT event A1 or C2 happens to a demerging entity under a demerger (¶12-328).
 
-Acquisition rules Once CGT event J1 has happened to an asset, it is taken to have been acquired by the recipient company at the break-up time. In addition, for purposes of later CGT events, the ﬁrst element of the recipient company's cost base and reduced cost base is its market value at the break-up time.
+Acquisition rules Once CGT event J1 has happened to an asset, it is taken to have been acquired by the recipient company at the break-up time. In addition, for purposes of later CGT events, the first element of the recipient company's cost base and reduced cost base is its market value at the break-up time.
 
 Sub-group break-up exception CGT event J1 does not happen if a sub-group break-up occurs so that the asset remains within the same sub-group even if it is no longer a wholly-owned subsidiary of the ultimate holding company (s 104-180).
 
@@ -49,23 +49,23 @@ Consolidated group break-up CGT event J1 does not happen if the recipient compan
 
 *Refs: s 104-180), s 104-182)*
 
-asset or improved asset after a roll-over under Subdiv 152-E CGT event J2 happens if a taxpayer has chosen the CGT small business roll-over (¶7-195), the taxpayer acquires a replacement asset meeting certain conditions and a speciﬁed change happens after the end of the replacement asset period (s 104-185). The conditions the replacement asset must meet are: (1) the replacement asset is acquired or improved in the replacement asset period (see below) (2) the replacement asset is active at the end of that period (3) if the replacement asset is a share in a company or an interest in a trust, at the end of the replacement asset period: – the taxpayer, or an entity connected with the taxpayer, is a CGT concession stakeholder (¶7-155) in the company or trust, or – CGT concession stakeholders in the company or trust have a small business participation percentage (¶7-155) in the taxpayer of at least 90%.
+asset or improved asset after a roll-over under Subdiv 152-E CGT event J2 happens if a taxpayer has chosen the CGT small business roll-over (¶7-195), the taxpayer acquires a replacement asset meeting certain conditions and a specified change happens after the end of the replacement asset period (s 104-185). The conditions the replacement asset must meet are: (1) the replacement asset is acquired or improved in the replacement asset period (see below) (2) the replacement asset is active at the end of that period (3) if the replacement asset is a share in a company or an interest in a trust, at the end of the replacement asset period: – the taxpayer, or an entity connected with the taxpayer, is a CGT concession stakeholder (¶7-155) in the company or trust, or – CGT concession stakeholders in the company or trust have a small business participation percentage (¶7-155) in the taxpayer of at least 90%.
 
-Note that if these conditions are not satisﬁed, CGT event J5 will occur at the end of the replacement asset period (see below).
+Note that if these conditions are not satisfied, CGT event J5 will occur at the end of the replacement asset period (see below).
 
 *Refs: s 104-185)*
 
-(a) the replacement asset: (i) stops being the taxpayer's active asset (eg a disposal of the asset) (ii) becomes trading stock, or (iii) starts being used solely to produce exempt income or non-assessable non-exempt income, or (b) if the replacement asset is a share in a company or an interest in a trust: (i) CGT event G3 or I1 happens, or (ii) the relevant condition in (3) above ceases to be satisﬁed.
+(a) the replacement asset: (i) stops being the taxpayer's active asset (eg a disposal of the asset) (ii) becomes trading stock, or (iii) starts being used solely to produce exempt income or non-assessable non-exempt income, or (b) if the replacement asset is a share in a company or an interest in a trust: (i) CGT event G3 or I1 happens, or (ii) the relevant condition in (3) above ceases to be satisfied.
 
 There can be one or more replacement assets. If there is only one replacement asset, or if a change happens to all of the replacement assets, the capital gain is the amount that was originally rolled over.
 
-If there is more than one replacement asset and a change happens to less than all of the replacement assets, the capital gain is the diﬀerence between the amount that was originally rolled over and the relevant expenditure on the remaining replacement assets that satisﬁed relevant conditions.
+If there is more than one replacement asset and a change happens to less than all of the replacement assets, the capital gain is the difference between the amount that was originally rolled over and the relevant expenditure on the remaining replacement assets that satisfied relevant conditions.
 
 The capital gain may be reduced where CGT events J5, J6 or both have previously happened in relation to the roll-over.
 
 The small business retirement exemption and the CGT small business roll-over may potentially apply to reduce the capital gain from CGT event J2 (s 152-10(4)). However, none of the CGT discount, the small business 15-year exemption or the small business 50% reduction can apply to the capital gain from CGT event J2 (ss 115-25; 152-10(4)).
 
-Replacement asset period The replacement asset period is generally the period starting one year before, and ending 2 years after, the last CGT event in the income year for which a taxpayer obtained roll-over relief (s 104-185). However, the replacement asset period may be modiﬁed in certain circumstances or extended by the Commissioner (s 104-190).
+Replacement asset period The replacement asset period is generally the period starting one year before, and ending 2 years after, the last CGT event in the income year for which a taxpayer obtained roll-over relief (s 104-185). However, the replacement asset period may be modified in certain circumstances or extended by the Commissioner (s 104-190).
 
 *Refs: s 152-10(4)), s 115-25, s 104-185), s
 104-190)*
@@ -76,23 +76,23 @@ over under Subdiv 124-N
 
   trust restructuring period
 
-- the trust fails to cease to exist within a certain timeframe (generally 6 months after the ﬁrst asset
+- the trust fails to cease to exist within a certain timeframe (generally 6 months after the first asset
 
   transfer), and
 
 - the company owns the asset when the failure happens.
 
-  As a result, the eﬀect of the roll-over is reversed.
+  As a result, the effect of the roll-over is reversed.
 
-- a Subdiv 124-N roll-over is chosen by a beneﬁciary of the trust in respect of an interest in the trust
+- a Subdiv 124-N roll-over is chosen by a beneficiary of the trust in respect of an interest in the trust
 
   that was exchanged for a share under a trust restructure
 
 - the trust fails to cease to exist within the required time, and
 
-- the beneﬁciary still owns the share in the company.
+- the beneficiary still owns the share in the company.
 
-  The eﬀect of the roll-over will also be reversed for the beneﬁciary.
+  The effect of the roll-over will also be reversed for the beneficiary.
 
 and to incur fourth element expenditure after a roll-over under Subdiv 152-E CGT event J5 happens where a taxpayer has chosen the small business roll-over (¶7-195) and by the end of the replacement asset period the taxpayer has not acquired a replacement asset and has not incurred expenditure to improve the asset ("replacement asset"), or the replacement asset does not satisfy certain conditions (s 104-197). The conditions are:
 
@@ -112,13 +112,13 @@ asset or amount of fourth element expenditure, or both, not sufficient to cover 
 
 *Refs: s 104-198)*
 
-- costs that would be included in the ﬁrst element of the asset's cost base
+- costs that would be included in the first element of the asset's cost base
 
 - incidental costs of acquisition of the asset, and
 
 - costs that would be included in the fourth element of the asset's cost base (¶11-550).
 
-The capital gain is the diﬀerence between the amount of the capital gain that was rolled over and the amount of expenditure incurred.
+The capital gain is the difference between the amount of the capital gain that was rolled over and the amount of expenditure incurred.
 
 The small business retirement exemption may potentially apply to reduce the capital gain from CGT event J6 (s 152-10(4)). In such a case the taxpayer will not be required to satisfy the basic conditions in Subdiv 152-A in order to apply the exemption (s 152-305(4)). However, none of the other CGT small business concessions, nor the CGT discount, can apply to reduce the capital gain (ss 115-25; 152-10(4)).
 
@@ -132,7 +132,7 @@ The small business retirement exemption may potentially apply to reduce the capi
 
 ## CGT event J2 — Change in relation to replacement
 
-## The speciﬁed changes that will result in CGT event J2 happening are:
+## The specified changes that will result in CGT event J2 happening are:
 
 ## CGT event J4 — Trust fails to cease to exist after roll-
 

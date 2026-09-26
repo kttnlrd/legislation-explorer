@@ -41,7 +41,7 @@ In calculating market values for the above purposes, taxpayers will need to bala
 
   and can introduce substantial tax risks. The costs and risks may be mitigated by concentrating valuation resources on the
 
-  most signiﬁcant and sensitive asset areas.
+  most significant and sensitive asset areas.
 
 - Costs incurred in obtaining market valuations required under the consolidation regime are deductible under ITAA97 s 25-5
 
@@ -51,11 +51,11 @@ In calculating market values for the above purposes, taxpayers will need to bala
 
 The ATO has released general guidelines on Market valuation for tax purposes (¶17-050). Selected issues covered in the guidelines are discussed below.
 
-The tax cost setting process involves allocating the ACA to underlying assets on the basis of proportionate market value. The values should be allocated on a reasonable basis, which includes the residual value method to allocate any remaining value to goodwill. The guidelines detail the allocation process and provide 5 valuation short cut options (on ATO webpage Consolidation valuation shortcuts) that may be used to value certain assets: Valuation                                                Type of asset                                            Valuation option short cut 1                Depreciating assets (not including intangible assets) that have                    Adjustable value (which can be not been depreciated on an accelerated basis whose individual                      revised to ignore any balancing adjustable values are 1% or less of the joining subsidiary's                       adjustment amount that had the allocable cost amount (ACA)                                                        eﬀect of reducing the adjustable value) can be used as market value 2             Depreciating assets (not including intangible assets) that have                    Adjustable value, revised to ignore been depreciated on an accelerated basis whose individual                          the eﬀect of accelerated depreciation adjustable values are 1% or less of the joining subsidiary's                       (and which can be revised to ignore allocable cost amount (ACA)                                                        any balancing adjustment amount that had the eﬀect of reducing the adjustable value), can be used as market value 3             Trading stock (other than live stock and growing crops) that is                      Terminating value at the joining time not a retained cost base asset                                                       may be used as market value except in certain circumstances 4             Employee share scheme shares                                                         Existing market valuation updated if appropriate 5             Unlisted shares                                                                      Existing market valuation updated if appropriate However, the following constraints apply to the use of the valuation short cut options.
+The tax cost setting process involves allocating the ACA to underlying assets on the basis of proportionate market value. The values should be allocated on a reasonable basis, which includes the residual value method to allocate any remaining value to goodwill. The guidelines detail the allocation process and provide 5 valuation short cut options (on ATO webpage Consolidation valuation shortcuts) that may be used to value certain assets: Valuation                                                Type of asset                                            Valuation option short cut 1                Depreciating assets (not including intangible assets) that have                    Adjustable value (which can be not been depreciated on an accelerated basis whose individual                      revised to ignore any balancing adjustable values are 1% or less of the joining subsidiary's                       adjustment amount that had the allocable cost amount (ACA)                                                        effect of reducing the adjustable value) can be used as market value 2             Depreciating assets (not including intangible assets) that have                    Adjustable value, revised to ignore been depreciated on an accelerated basis whose individual                          the effect of accelerated depreciation adjustable values are 1% or less of the joining subsidiary's                       (and which can be revised to ignore allocable cost amount (ACA)                                                        any balancing adjustment amount that had the effect of reducing the adjustable value), can be used as market value 3             Trading stock (other than live stock and growing crops) that is                      Terminating value at the joining time not a retained cost base asset                                                       may be used as market value except in certain circumstances 4             Employee share scheme shares                                                         Existing market valuation updated if appropriate 5             Unlisted shares                                                                      Existing market valuation updated if appropriate However, the following constraints apply to the use of the valuation short cut options.
 
 - The taxpayer must have adequate supporting documentation that demonstrates that the asset
 
-  satisﬁes the eligibility requirements of the particular short cut.
+  satisfies the eligibility requirements of the particular short cut.
 
 - With one exception, the decision to use a particular short cut must apply to all of an entity's assets
 
@@ -65,11 +65,11 @@ The tax cost setting process involves allocating the ACA to underlying assets on
 
   the assets (including those eligible for the short cut) that make up a single large functioning unit of
 
-  integrated plant, such as integrated plant within an oil reﬁnery, an oil rig facility, a communications
+  integrated plant, such as integrated plant within an oil refinery, an oil rig facility, a communications
 
   cable and integrated plant within a factory production line.
 
-- Short cuts other than short cut 3 (trading stock) are not available where there is a speciﬁc
+- Short cuts other than short cut 3 (trading stock) are not available where there is a specific
 
   intention at the joining time that the joining entity, all or part of the underlying business of the joining
 
@@ -83,11 +83,11 @@ The tax cost setting process involves allocating the ACA to underlying assets on
 
   in determining the market value of the entity's goodwill (given that goodwill is determined as the
 
-  excess of the market value of the entity over the market value of its net identiﬁable assets).
+  excess of the market value of the entity over the market value of its net identifiable assets).
 
 - If a previous valuation is being relied upon, the current valuation should explain how the earlier
 
-  valuation is relevant; conﬁrm if previous information and assumptions used are still relevant and
+  valuation is relevant; confirm if previous information and assumptions used are still relevant and
 
   declare how any adjustments and changes have been made to comply with statutory requirements.
 
@@ -97,4 +97,4 @@ Records supporting market valuations must be kept for at least the statutory 5-y
 
 ## Planning points: market valuation
 
-## Consolidation: franking accounts and franking deﬁcit tax
+## Consolidation: franking accounts and franking deficit tax

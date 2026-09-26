@@ -9,11 +9,11 @@ paragraph: "¶34-150"
 
 A registered entity must lodge a GST return for each tax period (Div 31). Where the entity has monthly tax periods, the return must normally be lodged by the 21st day of the month following the end of the tax period (s 31-10). For example, the monthly return for June is due by 21 July. For quarterly taxpayers, returns must normally be lodged by 28 April (for the March quarter), 28 July (for the June quarter), 28 October (for the September quarter) and 28 February (for the December quarter). Extensions typically apply where returns are lodged through tax agents.
 
-Quarterly taxpayers also have the option of lodging simpliﬁed quarterly remittance forms and an annual information statement. If the quarterly taxpayer is a "small business entity" (¶7-050) or an entity that carries on an enterprise that does not constitute a business and its GST turnover does not exceed $2 million, it may instead elect to lodge on the basis of an annual tax period, with GST instalments being paid quarterly and an annual reconciliation statement being made in the annual return. This return is due by the date for lodging the income tax return, or by the following 28 February if no tax return is required to be lodged.
+Quarterly taxpayers also have the option of lodging simplified quarterly remittance forms and an annual information statement. If the quarterly taxpayer is a "small business entity" (¶7-050) or an entity that carries on an enterprise that does not constitute a business and its GST turnover does not exceed $2 million, it may instead elect to lodge on the basis of an annual tax period, with GST instalments being paid quarterly and an annual reconciliation statement being made in the annual return. This return is due by the date for lodging the income tax return, or by the following 28 February if no tax return is required to be lodged.
 
 From 1 July 2017, small businesses with a turnover of less than $10 million have reduced reporting requirements for their annual BAS (Simpler BAS).
 
-Small businesses and non-proﬁt bodies that are voluntarily registered for GST have the option of reporting and paying their GST on an annual basis (Div 151).
+Small businesses and non-profit bodies that are voluntarily registered for GST have the option of reporting and paying their GST on an annual basis (Div 151).
 
 If the entity's GST turnover is $20 million or more, it must normally lodge electronically. The GST return is incorporated into a Business Activity Statement (BAS) (¶24-200).
 

@@ -35,7 +35,7 @@ If an amount that is paid early is refunded before the day it becomes due and pa
 
 See ¶28-170 for the rates at which early payment interest is payable, and payment of interest on overpayment of tax.
 
-A taxpayer can ask the ATO for payment of the interest or can claim the interest as a credit in the return for the income year in which the entitlement to the interest arises. The Commissioner can oﬀset interest on early payments against income tax and other tax liabilities (TAA Pt IIB Div 3).
+A taxpayer can ask the ATO for payment of the interest or can claim the interest as a credit in the return for the income year in which the entitlement to the interest arises. The Commissioner can offset interest on early payments against income tax and other tax liabilities (TAA Pt IIB Div 3).
 
 Early payment interest is assessable in the year in which it is received or applied against another tax liability (¶10-470). If the interest is claimed as a credit in one year, it should be included as income in the return for the following year.
 

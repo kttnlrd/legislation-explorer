@@ -13,7 +13,7 @@ Australian earnings of certain other non-residents or visitors to Australia are 
 
   expert advice or as a member of a Royal Commission
 
-- conference delegates: income of a foreign-resident representative of an educational, scientiﬁc,
+- conference delegates: income of a foreign-resident representative of an educational, scientific,
 
   religious or philanthropic association who is visiting Australia for the purpose of attending an
 
@@ -37,9 +37,9 @@ Australian earnings of certain other non-residents or visitors to Australia are 
 
   residents pursuing a course of study or training in Australia (ITAA97 s 842-105).
 
-A separate exemption applies to income of US-related persons in connection with speciﬁed projects of the US government in Australia, ie the North West Cape naval communication station, Joint Defence Space Research Facility, Sparta Project and the Joint Defence Space Communications Station (ITAA36 s 23AA).
+A separate exemption applies to income of US-related persons in connection with specified projects of the US government in Australia, ie the North West Cape naval communication station, Joint Defence Space Research Facility, Sparta Project and the Joint Defence Space Communications Station (ITAA36 s 23AA).
 
-New Zealand sports teams and COVID-19 New Zealand maintains its primary taxing right over members of its sporting teams and support staﬀ in respect of Australian income tax liabilities that arise from exceeding the 183-day test in the Australia–New Zealand double taxation agreement as a result of being located in Australia for sports competitions because of COVID-19. The measure takes eﬀect from the start of the 2020–21 income year. insurers and shipowners
+New Zealand sports teams and COVID-19 New Zealand maintains its primary taxing right over members of its sporting teams and support staff in respect of Australian income tax liabilities that arise from exceeding the 183-day test in the Australia–New Zealand double taxation agreement as a result of being located in Australia for sports competitions because of COVID-19. The measure takes effect from the start of the 2020–21 income year. insurers and shipowners
 
 *Refs: ITAA97 s 842-105)*
 

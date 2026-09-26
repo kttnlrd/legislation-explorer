@@ -19,11 +19,11 @@ Consequences of roll-over
 
 - a capital gain made from the original interest is disregarded, and
 
-- the ﬁrst element of the cost base of the replacement interest is the cost base of the original
+- the first element of the cost base of the replacement interest is the cost base of the original
 
   interest that was exchanged for it (s 124-985).
 
-If a member exchanges a pre-CGT membership interest for a replacement interest, the ﬁrst element of the cost base of the replacement interest is zero (s 124-995).
+If a member exchanges a pre-CGT membership interest for a replacement interest, the first element of the cost base of the replacement interest is zero (s 124-995).
 
 *Refs: s 124-985), s 124-995)*
 

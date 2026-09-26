@@ -7,9 +7,9 @@ paragraph: "¶24-060"
 ---
 # When to lodge returns ¶24-060
 
-The ﬁnal date for lodging income tax returns is speciﬁed by the Commissioner via Legislative Instrument (¶24-010). The due date for lodgment of returns for individuals, partnerships and trusts is generally 31 October. Where, however, the taxpayer is permitted to adopt a substituted accounting period, the return will not be due until 4 months after the close of the substituted accounting period. An income tax return is not treated as duly lodged until received.
+The final date for lodging income tax returns is specified by the Commissioner via Legislative Instrument (¶24-010). The due date for lodgment of returns for individuals, partnerships and trusts is generally 31 October. Where, however, the taxpayer is permitted to adopt a substituted accounting period, the return will not be due until 4 months after the close of the substituted accounting period. An income tax return is not treated as duly lodged until received.
 
-Under the tax agent lodgment program, there are special extension of time arrangements for individual, partnership and trust returns lodged through tax agents. For the applicable lodgment dates and the various qualiﬁcations thereto, see the Lodgment Program on the ATO website at www.ato.gov.au.
+Under the tax agent lodgment program, there are special extension of time arrangements for individual, partnership and trust returns lodged through tax agents. For the applicable lodgment dates and the various qualifications thereto, see the Lodgment Program on the ATO website at www.ato.gov.au.
 
 Lodgment of returns by full self-assessment taxpayers (ie companies, superannuation funds, ADFs and
 

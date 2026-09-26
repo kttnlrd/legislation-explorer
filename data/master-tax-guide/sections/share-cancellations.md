@@ -9,7 +9,7 @@ paragraph: "¶3-160"
 
 Substantial tax advantages could arise if a holding company cancelled, for less than market value, shares in itself that were held by a subsidiary company. Special rules cover this situation by providing that:
 
-- the tax eﬀects of the transaction for the subsidiary are determined as if the consideration received
+- the tax effects of the transaction for the subsidiary are determined as if the consideration received
 
   was equal to the market value of the shares, and
 
@@ -17,4 +17,4 @@ Substantial tax advantages could arise if a holding company cancelled, for less 
 
   to be determined as if the subsidiary had received market value for the cancelled shares.
 
-A corresponding provision ensures that entities interposed between the holding company and the subsidiary obtain no undue beneﬁt (ITAA36 Pt III Div 16J).
+A corresponding provision ensures that entities interposed between the holding company and the subsidiary obtain no undue benefit (ITAA36 Pt III Div 16J).

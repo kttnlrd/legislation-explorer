@@ -19,7 +19,7 @@ Threshold
 
 3                                                                       28,846 weekly Western Australia                                                                             83,333 monthly Tasmania                                                                                      24,038 weekly ACT                                                                                         166,666.66 monthly
 
-4                                                                   28,767 weekly (1) Revenue NSW advises that employers must register if during any one month their total Australian wages are above the relevant monthly threshold. (2) Victoria registration threshold will increase to $19,230 weekly from 1 July 2025. (3) Revenue SA recommends that employers register when taxable wages consistently exceed the relevant monthly threshold. (4) The NT Territory Revenue Oﬃce advises that employers must register if total Australian wages exceed the monthly exemption level.
+4                                                                   28,767 weekly (1) Revenue NSW advises that employers must register if during any one month their total Australian wages are above the relevant monthly threshold. (2) Victoria registration threshold will increase to $19,230 weekly from 1 July 2025. (3) Revenue SA recommends that employers register when taxable wages consistently exceed the relevant monthly threshold. (4) The NT Territory Revenue Office advises that employers must register if total Australian wages exceed the monthly exemption level.
 
 ## State
 

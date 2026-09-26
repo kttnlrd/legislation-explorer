@@ -9,7 +9,7 @@ paragraph: "¶26-280"
 
 A personal services entity (¶30-630) must pay an amount to the Commissioner if it: (a) receives an alienated personal services payment; and (b) receives that payment during a PAYG payment period for which it is a personal services payment remitter (TAA sch 1 s 13-5(1)).
 
-An "alienated personal services payment" is a payment of personal services income that is received by a personal services entity and assessed to an individual under the rules in ITAA97 Div 86 (¶30-600). "Personal services income" is income that is gained mainly as a reward for the personal eﬀorts or skills of an individual.
+An "alienated personal services payment" is a payment of personal services income that is received by a personal services entity and assessed to an individual under the rules in ITAA97 Div 86 (¶30-600). "Personal services income" is income that is gained mainly as a reward for the personal efforts or skills of an individual.
 
 A "personal services entity" is a company, partnership or trust whose income includes the personal services income of one or more individuals.
 
@@ -25,7 +25,7 @@ The personal services entity will be a personal services payment remitter for th
 
   1 s 13-15).
 
-In the case of a personal services entity that commences during a PAYG payment period or that begins to receive personal services income for the ﬁrst time during a PAYG payment period, the decision as to whether it is a personal services payment remitter is based on a reasonable expectation of the entity's circumstances for the income year in which that period occurs. If it is reasonable to expect that the entity will receive personal services income during that year but not in the course of conducting a personal services business, it will be a personal services payment remitter.
+In the case of a personal services entity that commences during a PAYG payment period or that begins to receive personal services income for the first time during a PAYG payment period, the decision as to whether it is a personal services payment remitter is based on a reasonable expectation of the entity's circumstances for the income year in which that period occurs. If it is reasonable to expect that the entity will receive personal services income during that year but not in the course of conducting a personal services business, it will be a personal services payment remitter.
 
 An entity is not a personal services payment remitter for a PAYG payment period if a personal services business determination (¶30-680) applies during that period or an earlier period in the same income year.
 

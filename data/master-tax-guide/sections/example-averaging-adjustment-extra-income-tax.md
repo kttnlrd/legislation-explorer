@@ -23,13 +23,13 @@ $22,000 × 3.34% = $735 The tax payable on the basic taxable income at basic rat
 
 As the tax payable at the comparison rate is more than the tax payable at basic rates, Clive is liable for extra tax equal to the averaging adjustment.
 
-averaging component gross averaging amount × basic taxable income The gross averaging amount is the diﬀerence between the tax payable at the comparison rate ($735) and the tax payable at basic rates ($608), ie $127. $20,000 averaging adjustment =               $127       ×                                 = $115 $22,000 Clive is liable to pay extra tax equivalent to the averaging adjustment, ie $115.
+averaging component gross averaging amount × basic taxable income The gross averaging amount is the difference between the tax payable at the comparison rate ($735) and the tax payable at basic rates ($608), ie $127. $20,000 averaging adjustment =               $127       ×                                 = $115 $22,000 Clive is liable to pay extra tax equivalent to the averaging adjustment, ie $115.
 
 Step 6: Calculate tax payable including the extra tax derived at Step 5.
 
 The tax payable on Clive's taxable income of $22,000 is $608.
 
-The extra tax of $115 will increase Clive's total tax liability to $723. This does not take into account any rebates, oﬀsets or credits to which he may be entitled. Clive may be liable for the Medicare levy (¶2-330).
+The extra tax of $115 will increase Clive's total tax liability to $723. This does not take into account any rebates, offsets or credits to which he may be entitled. Clive may be liable for the Medicare levy (¶2-330).
 
 ## The comparison rate of tax is calculated as follows:
 

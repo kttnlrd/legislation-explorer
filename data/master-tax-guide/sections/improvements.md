@@ -23,7 +23,7 @@ Construction start date                                                         
 
 16.9.87 onwards                                                                                                                  2.5 (2) 18.7.85 – 15.9.87                                                                                                                4
 
-27.2.92 onwards                                                                                                                  2.5 (4) (1)An industrial building constructed before 27 February 1992 qualiﬁes for a capital works deduction under the rates given for non-industrial non-residential buildings. (2)Where the construction relates to certain pre-16.9.87 contracts, the rate is 4%. (3)This includes expenditure on R&D buildings where construction started on or after 21 November 1987. (4)This includes environment protection earthworks expenditure incurred after 18 August 1992.
+27.2.92 onwards                                                                                                                  2.5 (4) (1)An industrial building constructed before 27 February 1992 qualifies for a capital works deduction under the rates given for non-industrial non-residential buildings. (2)Where the construction relates to certain pre-16.9.87 contracts, the rate is 4%. (3)This includes expenditure on R&D buildings where construction started on or after 21 November 1987. (4)This includes environment protection earthworks expenditure incurred after 18 August 1992.
 
 ## Industrial
 

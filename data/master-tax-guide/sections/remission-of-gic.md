@@ -19,7 +19,7 @@ The Commissioner has discretion to remit GIC in whole or in part. However, if GI
 
   by an act or omission of the person liable to pay the GIC, that person has taken reasonable action
 
-  to mitigate those circumstances or their eﬀect and it would be fair and reasonable to remit the GIC
+  to mitigate those circumstances or their effect and it would be fair and reasonable to remit the GIC
 
   or any part of it, or
 
@@ -31,9 +31,9 @@ In considering whether to exercise the discretion to remit, the Commissioner mus
 
 Where a taxpayer pays late payment penalty and the penalty tax or the GIC is later remitted, the Commissioner is required to pay interest (¶28-170).
 
-Remission could arise automatically in speciﬁed circumstances — see ¶29-400.
+Remission could arise automatically in specified circumstances — see ¶29-400.
 
-ATO guidelines PS LA 2011/12 contains guidelines on remission of GIC imposed for late payment or underestimation of liability. Generally the taxpayer bears the onus of proving remission is warranted. Relevant considerations include factors beyond the debtor's control; acts or omissions of the debtor; actions to relieve the circumstances aﬀecting the liability to pay; and whether it is fair and reasonable to remit.
+ATO guidelines PS LA 2011/12 contains guidelines on remission of GIC imposed for late payment or underestimation of liability. Generally the taxpayer bears the onus of proving remission is warranted. Relevant considerations include factors beyond the debtor's control; acts or omissions of the debtor; actions to relieve the circumstances affecting the liability to pay; and whether it is fair and reasonable to remit.
 
 PS LA 2006/8 contains guidelines on remission of interest charges on shortfall amounts that arise where a tax liability is amended or revised. It deals with the remission of interest charges that accrue before the tax liability is amended or revised. The amount remitted depends on the circumstances and the extent to which factors beyond the taxpayer's control were responsible for the size and duration of the shortfall.
 

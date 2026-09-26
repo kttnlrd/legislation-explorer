@@ -7,9 +7,9 @@ paragraph: "¶4-300"
 ---
 # Distributions in formal liquidations ¶4-300
 
-Amounts distributed to shareholders by a liquidator in the course of winding up a company, to the extent that they represent income derived by the company (whether before or during liquidation) other than income that has been properly applied to replace a loss of paid-up share capital, are deemed for tax purposes to be dividends paid by the company out of proﬁts derived by it (ITAA36 s 47(1)).
+Amounts distributed to shareholders by a liquidator in the course of winding up a company, to the extent that they represent income derived by the company (whether before or during liquidation) other than income that has been properly applied to replace a loss of paid-up share capital, are deemed for tax purposes to be dividends paid by the company out of profits derived by it (ITAA36 s 47(1)).
 
-The term "income" covers amounts that are of an income nature, even if exempt. The meaning of the term "income" has been artiﬁcially extended (by s 47(1A)) for these purposes to include:
+The term "income" covers amounts that are of an income nature, even if exempt. The meaning of the term "income" has been artificially extended (by s 47(1A)) for these purposes to include:
 
 - any amount, other than a net capital gain, that is assessable income of the company
 
@@ -23,9 +23,9 @@ Thus, X Pty Ltd has incurred a net capital loss of $6,200 for CGT purposes.
 
 For the purposes of s 47(1A)(b) (ie the second bullet point above) the position is: Asset                                                                            Deemed income ($) 1                                                                                 Nil 2                                                                                5,000 3                                                                                1,000 4                                                                                2,000 Instead of a loss, X Pty Ltd is taken to have derived "income" of $8,000 for the purposes of s 47(1) (of course, the s 47(1) deemed dividend cannot exceed the amount of distributable funds: TD 2000/5).
 
-By deeming distributions to be dividends paid by the company out of its proﬁts, they are assessable in the shareholders' hands under ITAA36 s 44 (¶4-100) as though they had been received as dividends while the company was a going concern.
+By deeming distributions to be dividends paid by the company out of its profits, they are assessable in the shareholders' hands under ITAA36 s 44 (¶4-100) as though they had been received as dividends while the company was a going concern.
 
-It is important to remember that in a ﬁnal liquidation CGT event C2 (¶11-270) would apply in relation to the shares so that a capital gain or capital loss may arise to a shareholder on shares acquired on or after 20 September 1985. Where a capital gain accrues, the provisions of ITAA97 s 118-20 are designed to prevent double taxation (¶11-690; TD 2001/27).
+It is important to remember that in a final liquidation CGT event C2 (¶11-270) would apply in relation to the shares so that a capital gain or capital loss may arise to a shareholder on shares acquired on or after 20 September 1985. Where a capital gain accrues, the provisions of ITAA97 s 118-20 are designed to prevent double taxation (¶11-690; TD 2001/27).
 
 In the case of an interim distribution by the liquidator, CGT event G1 (¶11-310) may apply to the extent that the distribution is not a deemed dividend and the company does not cease to exist within 18 months of the distribution being paid (TD 2001/27).
 

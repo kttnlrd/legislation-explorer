@@ -21,11 +21,11 @@ The ruling contains an administrative concession where a court order made before
 
 - a payment or loan to another company (other than a company in the capacity of trustee) (s 109K).
 
-In 3-D Scaﬀolding, the Full Federal Court held that payments allegedly made to a representative of a ﬁctitious company for scaﬀolding hire were in reality made to 3-D's shareholder. The payments were not deductible to 3-D and were assessable to the shareholder as deemed dividends under Div 7A
+In 3-D Scaffolding, the Full Federal Court held that payments allegedly made to a representative of a fictitious company for scaffolding hire were in reality made to 3-D's shareholder. The payments were not deductible to 3-D and were assessable to the shareholder as deemed dividends under Div 7A
 
 - a payment or loan that is otherwise included in the entity's assessable income or that is
 
-  speciﬁcally excluded from assessable income (s 109L)
+  specifically excluded from assessable income (s 109L)
 
 - a loan made in the ordinary course of business on ordinary commercial terms (s 109M). A failure
 

@@ -7,13 +7,13 @@ paragraph: "¶21-250"
 ---
 # Payment of deemed dividends by CFCs ¶21-250
 
-Certain "distribution payments" that represent the distribution of the proﬁts of a CFC otherwise than by a dividend are treated as dividends under ITAA36 s 47A.
+Certain "distribution payments" that represent the distribution of the profits of a CFC otherwise than by a dividend are treated as dividends under ITAA36 s 47A.
 
-Where, at the time a CFC makes a distribution payment, the CFC has accumulated proﬁts and is a resident of an unlisted country, the payment will be deemed to be a dividend paid by the CFC out of its proﬁts to the extent that it does not exceed accumulated proﬁts and would not otherwise be treated as a dividend.
+Where, at the time a CFC makes a distribution payment, the CFC has accumulated profits and is a resident of an unlisted country, the payment will be deemed to be a dividend paid by the CFC out of its profits to the extent that it does not exceed accumulated profits and would not otherwise be treated as a dividend.
 
-Broadly, a distribution payment will be taken to have been made where the CFC transfers, or arranges for another entity to transfer, a "distribution beneﬁt" to an associated entity. Given its anti-avoidance role against such "disguised distributions", and the many methods that could be employed to transfer proﬁts in non- dividend form, s 47A is drafted to catch distribution beneﬁts eﬀectively transferred by the waiver of debts, the granting of a non-arm's length loan, transfers of property or services for no or inadequate consideration, the payment of a call on an allotment of shares and a variety of other arrangements involving the associated entity and the transfer of beneﬁts involving third parties. TR 2002/2 explains the meaning of "arm's length" for the purposes of s 47A. Broadly, it looks at the nature of the dealing rather than the relationship between the parties.
+Broadly, a distribution payment will be taken to have been made where the CFC transfers, or arranges for another entity to transfer, a "distribution benefit" to an associated entity. Given its anti-avoidance role against such "disguised distributions", and the many methods that could be employed to transfer profits in non- dividend form, s 47A is drafted to catch distribution benefits effectively transferred by the waiver of debts, the granting of a non-arm's length loan, transfers of property or services for no or inadequate consideration, the payment of a call on an allotment of shares and a variety of other arrangements involving the associated entity and the transfer of benefits involving third parties. TR 2002/2 explains the meaning of "arm's length" for the purposes of s 47A. Broadly, it looks at the nature of the dealing rather than the relationship between the parties.
 
-The operation of s 47A may pose particular diﬃculties for a CFC resident in an unlisted country that seeks to limit its tainted income to 5% in order to satisfy the active income test (¶21-180), by transferring out of the company those assets that give rise to tainted income.
+The operation of s 47A may pose particular difficulties for a CFC resident in an unlisted country that seeks to limit its tainted income to 5% in order to satisfy the active income test (¶21-180), by transferring out of the company those assets that give rise to tainted income.
 
 Special valuation rules govern the calculation of the amount of the deemed dividend.
 

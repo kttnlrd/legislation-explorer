@@ -15,7 +15,7 @@ The following are the special rates of tax applicable under ITAA36 Pt III Div 6A
 
 - Where the eligible taxable income exceeds $416 but does not exceed $1,307, the tax on the eligible taxable
 
-  income is the greater of: (i) 66% of the excess over $416; and (ii) the diﬀerence between tax on the whole of
+  income is the greater of: (i) 66% of the excess over $416; and (ii) the difference between tax on the whole of
 
   the taxable income and tax on the taxable income other than the eligible taxable income.
 
@@ -27,11 +27,11 @@ The following are the special rates of tax applicable under ITAA36 Pt III Div 6A
 
 - Where the eligible taxable income does not exceed $416, the tax payable on that income is the greater of:
 
-(i) 30% of the eligible taxable income; and (ii) the diﬀerence between tax on the total taxable income and tax on the taxable income other than the eligible taxable income, using in both cases the rates applicable to prescribed non-residents (¶42-015).
+(i) 30% of the eligible taxable income; and (ii) the difference between tax on the total taxable income and tax on the taxable income other than the eligible taxable income, using in both cases the rates applicable to prescribed non-residents (¶42-015).
 
 - Where the eligible taxable income exceeds $416 but does not exceed $713, the tax payable on that income
 
-  is the greater of: (i) $124.80 plus 66% of the excess over $416; and (ii) the diﬀerence between tax on the
+  is the greater of: (i) $124.80 plus 66% of the excess over $416; and (ii) the difference between tax on the
 
   total taxable income and tax on the taxable income other than the eligible taxable income, using in both
 

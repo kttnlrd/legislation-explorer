@@ -25,13 +25,13 @@ Example Anita, who is covered by an industrial award, resigned after completing 
 
 A payment that is received in consequence of the termination of a person's employment is an "unused annual leave payment" if it is a payment, bonus or additional payment for annual leave that the person has not used (s 83-10(3)). An unused annual leave payment cannot include a transfer of property (s 80-15).
 
-A taxpayer is assessed on the amount actually received in a particular year even if the amount, or part of the amount, related to a payment in substitution of wages that would normally have been payable in the next ﬁnancial year (Hannavy 2001 ATC 2162_A; [2001] AATA 370).
+A taxpayer is assessed on the amount actually received in a particular year even if the amount, or part of the amount, related to a payment in substitution of wages that would normally have been payable in the next financial year (Hannavy 2001 ATC 2162_A; [2001] AATA 370).
 
-The AAT has aﬃrmed the Commissioner's decision that a lump sum received by a taxpayer in respect of accrued annual leave and long service leave entitlements were properly assessable under ss 83-10 and 83-80. The applicant resigned from employment and received a lump sum payment for accrued annual leave and long service leave. During his employment, the applicant had entered into a salary sacriﬁce arrangement (SSA) to forgo part of his salary (but not leave entitlements) for superannuation contributions. Subsequent to receiving the lump sum payment, the taxpayer sought a ruling from the Commissioner as to whether part of the accrued leave payment could be treated for taxation purposes as if it had been paid into his superannuation fund under the SSA. The Tribunal concluded that the taxpayer had in fact received payment for the unused leave entitlements and that ss 83-10 and 83-80 applied at that time (Heinrich 2011 ATC ¶10-169; [2011] AATA 16).
+The AAT has affirmed the Commissioner's decision that a lump sum received by a taxpayer in respect of accrued annual leave and long service leave entitlements were properly assessable under ss 83-10 and 83-80. The applicant resigned from employment and received a lump sum payment for accrued annual leave and long service leave. During his employment, the applicant had entered into a salary sacrifice arrangement (SSA) to forgo part of his salary (but not leave entitlements) for superannuation contributions. Subsequent to receiving the lump sum payment, the taxpayer sought a ruling from the Commissioner as to whether part of the accrued leave payment could be treated for taxation purposes as if it had been paid into his superannuation fund under the SSA. The Tribunal concluded that the taxpayer had in fact received payment for the unused leave entitlements and that ss 83-10 and 83-80 applied at that time (Heinrich 2011 ATC ¶10-169; [2011] AATA 16).
 
 Taxation of unused annual leave payments A lump sum payment for unused annual leave is included in a taxpayer's assessable income for the year that it is received and taxed at marginal rates (ITAA97 s 83-10(2)).
 
-A tax oﬀset applies so that the rate of tax applicable to the amount of the unused annual leave payment is limited to 30% to the extent that:
+A tax offset applies so that the rate of tax applicable to the amount of the unused annual leave payment is limited to 30% to the extent that:
 
 - the payment was made in respect of employment before 18 August 1993, or
 
@@ -39,13 +39,13 @@ A tax oﬀset applies so that the rate of tax applicable to the amount of the un
 
   redundancy payment (¶14-700), an early retirement scheme payment (¶14-710) or an invalidity
 
-  segment of an employment termination payment or superannuation beneﬁt (¶14-640) (ITAA97 s
+  segment of an employment termination payment or superannuation benefit (¶14-640) (ITAA97 s
 
 83-15).
 
 Medicare levy and, if applicable, levy surcharge is payable on the amount of unused annual leave payment included in assessable income.
 
-Payments for unused annual leave made on the death of an employee to the deceased's beneﬁciaries or the trustee of the deceased's estate are exempt from tax (ITAA36 s 101A(2)).
+Payments for unused annual leave made on the death of an employee to the deceased's beneficiaries or the trustee of the deceased's estate are exempt from tax (ITAA36 s 101A(2)).
 
 The PAYG obligations for a payer of accrued leave payments are discussed in ¶26-180.
 

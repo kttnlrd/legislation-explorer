@@ -7,7 +7,7 @@ paragraph: "¶8-920"
 ---
 # Consolidation and CGT ¶8-920
 
-A special category of CGT events deal with speciﬁc events and transactions in relation to consolidated groups. These CGT events (CGT events L1 to L8) are listed at ¶12-360 and are referred to as appropriate within this chapter.
+A special category of CGT events deal with specific events and transactions in relation to consolidated groups. These CGT events (CGT events L1 to L8) are listed at ¶12-360 and are referred to as appropriate within this chapter.
 
 A number of other CGT issues have arisen in relation to consolidated groups, eg:
 
@@ -29,11 +29,11 @@ A number of other CGT issues have arisen in relation to consolidated groups, eg:
 
   group are not prohibited from the deduction provided under s 40-880(2) by s 40-880(5)(f). Section
 
-40-880(5)(f) prohibits the deduction under s 40-880(2) to the extent that the expenditure would be included in the calculation of a capital gain or loss of a CGT event under the CGT rules. Such incidental costs would not be included in the cost base of the head company or the reduced cost base of the shares. Thus they would not be included in the calculation of the capital gain or loss under the CGT rules, especially as they also do not ﬁt the description of costs in any other CGT event (TD 2010/1; TD 2011/9). Conversely, incidental costs incurred when the subsidiary is not part of the consolidated group can be included in the cost base or reduced cost base of the shares as the shares are a recognised asset held by the head company at the time (ie not an intra-group asset) (TD 2011/8 and TD 2011/10).
+40-880(5)(f) prohibits the deduction under s 40-880(2) to the extent that the expenditure would be included in the calculation of a capital gain or loss of a CGT event under the CGT rules. Such incidental costs would not be included in the cost base of the head company or the reduced cost base of the shares. Thus they would not be included in the calculation of the capital gain or loss under the CGT rules, especially as they also do not fit the description of costs in any other CGT event (TD 2010/1; TD 2011/9). Conversely, incidental costs incurred when the subsidiary is not part of the consolidated group can be included in the cost base or reduced cost base of the shares as the shares are a recognised asset held by the head company at the time (ie not an intra-group asset) (TD 2011/8 and TD 2011/10).
 
 - Where a debt is created within a consolidated group and later transferred to a non-group entity,
 
-  no CGT event happens, as it eﬀectively represents the borrowing of money or obtaining of credit
+  no CGT event happens, as it effectively represents the borrowing of money or obtaining of credit
 
   from the third party (TD 2004/33). However, the ATO may scrutinise arrangements that it considers
 
@@ -51,7 +51,7 @@ A number of other CGT issues have arisen in relation to consolidated groups, eg:
 
   ceases to be, a member of a consolidated group, the "CGT contract rules" (¶11-250, ¶11-440) are
 
-  modiﬁed such that the CGT event happens at the time of the settlement and not when the contract
+  modified such that the CGT event happens at the time of the settlement and not when the contract
 
   was entered into (ITAA97 s 716-860). The CGT contract rules continue to operate normally for the
 
@@ -71,7 +71,7 @@ A number of other CGT issues have arisen in relation to consolidated groups, eg:
 
   consolidated group can apply the small business replacement asset roll-over (¶7-195) under
 
-ITAA97 Subdiv 152-E if it acquires a replacement asset after joining the consolidated group. The single entity rule (¶8-010) does not apply because the decision to apply the roll-over aﬀects the pre- joining tax liability of the entity (TD 2004/79).
+ITAA97 Subdiv 152-E if it acquires a replacement asset after joining the consolidated group. The single entity rule (¶8-010) does not apply because the decision to apply the roll-over affects the pre- joining tax liability of the entity (TD 2004/79).
 
 - The small business 15-year exemption (¶7-165) can apply to a payment made by the head
 

@@ -13,7 +13,7 @@ Any taxable income of the minor that is not eligible taxable income is taxed at 
 
 For 2024–25, the rules for calculating the tax on eligible taxable income where the minor is a resident are as follows (Income Tax Rates Act 1986 (ITRA), s 13; sch 11). (1) If the eligible taxable income is $416 or less, the special rules do not apply. The whole of the taxable income is simply taxed in the normal way.
 
-Example 1 Genevieve, a minor, has a taxable income of $11,000 for 2024–25 of which $400 is eligible taxable income. As the eligible taxable income does not exceed $416, the whole of the taxable income is taxed at ordinary resident rates in the normal way. Applying 2024–25 rates (¶42-000), the tax payable by Genevieve is therefore nil. (She is not liable for the Medicare levy as her taxable income does not exceed the threshold.) (2) If the eligible taxable income exceeds $416 but is less than $1,308, the tax on the eligible taxable income is the greater of: (a) 66% of the excess over $416, and (b) the diﬀerence between tax on the whole of the taxable income and tax on so much of the taxable income that does not qualify as eligible taxable income.
+Example 1 Genevieve, a minor, has a taxable income of $11,000 for 2024–25 of which $400 is eligible taxable income. As the eligible taxable income does not exceed $416, the whole of the taxable income is taxed at ordinary resident rates in the normal way. Applying 2024–25 rates (¶42-000), the tax payable by Genevieve is therefore nil. (She is not liable for the Medicare levy as her taxable income does not exceed the threshold.) (2) If the eligible taxable income exceeds $416 but is less than $1,308, the tax on the eligible taxable income is the greater of: (a) 66% of the excess over $416, and (b) the difference between tax on the whole of the taxable income and tax on so much of the taxable income that does not qualify as eligible taxable income.
 
 Example 2 Nathan, a minor, has a taxable income of $20,000 for 2024–25 of which $1,200 is eligible taxable income. The tax payable on the $1,200 is the greater of: (a)     66% × ($1,200 − $416) = $517.44, and (b)     tax on $20,000 (ie $342) less tax on ($20,000 − $1,200) (ie $114) = $228.
 
@@ -25,7 +25,7 @@ Example 4 Brad's income for 2024–25 consists of eligible taxable income of $15
 
 - If the eligible taxable income does not exceed $416, the tax payable on that income is the greater
 
-  of: (a) 30% of the eligible taxable income; and (b) the diﬀerence between tax on the total taxable
+  of: (a) 30% of the eligible taxable income; and (b) the difference between tax on the total taxable
 
   income and tax on the taxable income other than the eligible taxable income, using in both cases
 
@@ -33,7 +33,7 @@ Example 4 Brad's income for 2024–25 consists of eligible taxable income of $15
 
 - If the eligible taxable income exceeds $416 but does not exceed $713, the tax payable on that
 
-  income is the greater of: (a) $124.80 plus 66% of the excess over $416; and (b) the diﬀerence
+  income is the greater of: (a) $124.80 plus 66% of the excess over $416; and (b) the difference
 
   between tax on the total taxable income and tax on the taxable income other than the eligible
 

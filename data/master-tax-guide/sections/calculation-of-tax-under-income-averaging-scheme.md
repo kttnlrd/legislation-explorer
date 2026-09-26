@@ -9,7 +9,7 @@ paragraph: "¶2-144"
 
 The steps involved in calculating the tax payable under the income averaging scheme are as follows.
 
-Step 1: Divide the taxpayer's total assessable income into assessable professional income and other assessable income. "Assessable professional income" is income derived from activities related to the taxpayer's status as a special professional (ITAA97 s 405-20). It speciﬁcally includes prizes received in connection with a taxpayer's activities as a special professional and income from endorsing products, advertising, interviews and commentating. Speciﬁcally excluded are ETPs, unused annual leave or unused long service leave payments and any net capital gain (ITAA97 s 405-30).
+Step 1: Divide the taxpayer's total assessable income into assessable professional income and other assessable income. "Assessable professional income" is income derived from activities related to the taxpayer's status as a special professional (ITAA97 s 405-20). It specifically includes prizes received in connection with a taxpayer's activities as a special professional and income from endorsing products, advertising, interviews and commentating. Specifically excluded are ETPs, unused annual leave or unused long service leave payments and any net capital gain (ITAA97 s 405-30).
 
 Step 2: Divide the taxpayer's total taxable income into taxable professional income and other taxable income. "Taxable professional income" is the taxpayer's assessable professional income minus any deductions attributable to that income (ITAA97 s 405-45).
 
@@ -21,7 +21,7 @@ Step 3: Work out the taxpayer's average taxable professional income.
 
 Ordinarily, "average taxable professional income" in an income year will be one-quarter of the sum of the taxable professional incomes for the preceding 4 years (ITAA97 s 405-50). However, there is a special rule for calculating average taxable professional income to assist taxpayers in the early stages of their careers.
 
-This rule applies where the preceding 4-year period includes "professional year 1", ie the ﬁrst income year in which the taxpayer was a resident for all or part of the year and had a taxable professional income of more than $2,500. In such a case, average taxable professional income is calculated as:
+This rule applies where the preceding 4-year period includes "professional year 1", ie the first income year in which the taxpayer was a resident for all or part of the year and had a taxable professional income of more than $2,500. In such a case, average taxable professional income is calculated as:
 
 - in professional year 1 — nil
 
@@ -41,7 +41,7 @@ A taxpayer has only one "professional year 1". For a returning former resident t
 
 - in professional year 1 — the taxable professional income for that year (this means that there is no
 
-  above-average special professional income and therefore no averaging eﬀect in that year)
+  above-average special professional income and therefore no averaging effect in that year)
 
 - in professional year 2 — the taxable professional income for professional year 1
 
@@ -57,9 +57,9 @@ Step 4: Divide the taxpayer's total taxable income into above-average special pr
 
 Step 5: Calculate the tax payable on the normal taxable income using ordinary individual rates (¶42-000).
 
-Step 6: Calculate the tax payable on the normal taxable income plus one-ﬁfth of the sum of the above-average special professional income using ordinary individual rates.
+Step 6: Calculate the tax payable on the normal taxable income plus one-fifth of the sum of the above-average special professional income using ordinary individual rates.
 
-Step 7: Take the diﬀerence between the amount calculated in step 6 and the amount calculated in step 5 and multiply the diﬀerence by 5. This gives the amount of tax payable on the above-average special professional income.
+Step 7: Take the difference between the amount calculated in step 6 and the amount calculated in step 5 and multiply the difference by 5. This gives the amount of tax payable on the above-average special professional income.
 
 Step 8: Add the tax payable on the above-average special professional income (Step 7) to the tax payable on the normal taxable income (step 5) to give the total tax payable.
 

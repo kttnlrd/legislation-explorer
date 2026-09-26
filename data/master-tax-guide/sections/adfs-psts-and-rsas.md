@@ -7,7 +7,7 @@ paragraph: "¶13-070"
 ---
 # ADFs, PSTs and RSAs ¶13-070
 
-Approved deposit funds (ADFs), pooled superannuation trusts (PSTs), and providers of retirement savings accounts (RSAs) that are not life insurance companies, are taxed under the rules set out in ITAA97 Div 295 (¶13-120). To qualify, these entities must come within the deﬁnition of those terms in SISA (for ADFs and PSTs) and in the Retirement Savings Accounts Act 1997 (RSAA) (for RSA providers) and comply with the prudential requirements under SISA or RSAA.
+Approved deposit funds (ADFs), pooled superannuation trusts (PSTs), and providers of retirement savings accounts (RSAs) that are not life insurance companies, are taxed under the rules set out in ITAA97 Div 295 (¶13-120). To qualify, these entities must come within the definition of those terms in SISA (for ADFs and PSTs) and in the Retirement Savings Accounts Act 1997 (RSAA) (for RSA providers) and comply with the prudential requirements under SISA or RSAA.
 
 The nature and taxation of ADFs, PSTs and RSAs are discussed at ¶13-400, ¶13-430, ¶13-470 respectively.
 

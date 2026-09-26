@@ -11,15 +11,15 @@ The following is a checklist of some of the income tax planning strategies outli
 
 As a general planning consideration, you should also be aware of upcoming tax changes. These are summarised in the Checklist of tax changes at ¶2.
 
-- Be aware that the low and middle income tax oﬀset has been repealed with eﬀect from 1
+- Be aware that the low and middle income tax offset has been repealed with effect from 1
 
-July 2022, with only the low income tax oﬀset (LITO) available from the 2022–23 income year (¶15-300). The LITO for the 2024–25 income year is $700 (¶15-300).
+July 2022, with only the low income tax offset (LITO) available from the 2022–23 income year (¶15-300). The LITO for the 2024–25 income year is $700 (¶15-300).
 
-- Be aware of the annual income levels at which certain dependant tax oﬀsets cut out (¶15-025).
+- Be aware of the annual income levels at which certain dependant tax offsets cut out (¶15-025).
 
 - Consider making deductible gifts before year's end, particularly if you expect that your average
 
-  tax rate (and therefore the value of your deduction) will fall in the next year. However, the eﬀects
+  tax rate (and therefore the value of your deduction) will fall in the next year. However, the effects
 
   on liquidity, and the possible loss of interest income on the accelerated payment, must be kept in
 
@@ -29,9 +29,9 @@ July 2022, with only the low income tax oﬀset (LITO) available from the 2022�
 
 (¶16-942).
 
-- Where spouses are on diﬀerent marginal rates, consider ensuring that all deductible gifts are
+- Where spouses are on different marginal rates, consider ensuring that all deductible gifts are
 
-  made by the spouse in the higher tax bracket to maximise the beneﬁt of the deduction (¶16-942).
+  made by the spouse in the higher tax bracket to maximise the benefit of the deduction (¶16-942).
 
 - Consider if the working holiday maker tax rates and related obligations apply to wages paid
 
@@ -41,9 +41,9 @@ July 2022, with only the low income tax oﬀset (LITO) available from the 2022�
 
   time occupation at 30 June. A minor who is intending to take up a post in July may therefore be
 
-  better oﬀ if they are able to take it up in June (¶2-170).
+  better off if they are able to take it up in June (¶2-170).
 
-- A taxpayer who is considering retiring near year end may ﬁnd it worthwhile to defer discretionary
+- A taxpayer who is considering retiring near year end may find it worthwhile to defer discretionary
 
   income until after 30 June. In that subsequent year, their income will normally be smaller and the
 
@@ -79,7 +79,7 @@ July 2022, with only the low income tax oﬀset (LITO) available from the 2022�
 
 - Individuals may withdraw voluntary contributions made under the First Home Super Saver
 
-Scheme (up to certain limits) together with associated earnings for the purposes of purchasing their ﬁrst home (¶13-790).
+Scheme (up to certain limits) together with associated earnings for the purposes of purchasing their first home (¶13-790).
 
 - Individuals aged 55 years or older on 1 January 2023 can make downsizer contributions of up to
 
@@ -93,7 +93,7 @@ $300,000 into their superannuation using the proceeds from the sale of their mai
 
   from 1 July 2022 (¶13-925).
 
-- Subject to cash ﬂow considerations and anti-avoidance rules, consider deferring income to the
+- Subject to cash flow considerations and anti-avoidance rules, consider deferring income to the
 
   following year, particularly if: (1) income for that year is likely to be lower; or (2) tax rates for that
 
@@ -107,7 +107,7 @@ $300,000 into their superannuation using the proceeds from the sale of their mai
 
   provision of the relevant services. Service contracts should be reviewed accordingly (¶9-090).
 
-- Interest income credited on the maturity of a ﬁxed term deposit in June may be fully assessable
+- Interest income credited on the maturity of a fixed term deposit in June may be fully assessable
 
   in the current year but may not be assessable until the following year if the term deposit matures in
 
@@ -127,7 +127,7 @@ July (¶9-080, ¶10-470).
 
 - The special averaging rules for authors, inventors, performing artists, production associates and
 
-  sportspersons can provide relief in years in which their professional income ﬂuctuates above their
+  sportspersons can provide relief in years in which their professional income fluctuates above their
 
   average income (¶2-140).
 
@@ -145,9 +145,9 @@ July (¶9-080, ¶10-470).
 
   as a capital gain accrues on disposal, simply deferring the derivation of the sale proceeds to a later
 
-  year may not be eﬀective (¶31-270).
+  year may not be effective (¶31-270).
 
-- Where appropriate, consider realising capital losses by year's end so that they may be oﬀset
+- Where appropriate, consider realising capital losses by year's end so that they may be offset
 
   against realised capital gains of that year (¶11-030).
 
@@ -155,17 +155,17 @@ July (¶9-080, ¶10-470).
 
   current year capital losses (or unused capital losses from previous years) (¶11-030).
 
-- Where it is intended to stream a capital gain to a particular beneﬁciary, take care to ensure that
+- Where it is intended to stream a capital gain to a particular beneficiary, take care to ensure that
 
-  "speciﬁc entitlement" requirements are satisﬁed (¶11-060).
+  "specific entitlement" requirements are satisfied (¶11-060).
 
-- A targeted CGT exemption exists for granny ﬂat arrangements where there is a formal written
+- A targeted CGT exemption exists for granny flat arrangements where there is a formal written
 
   agreement in place (¶11-915).
 
 - Be aware of the availability of the immediate deduction for small business assets (the "instant
 
-  asset write-oﬀ") (¶7-250).
+  asset write-off") (¶7-250).
 
 - In general, deductions are not allowed where there is merely an accounting provision or reserve
 
@@ -179,9 +179,9 @@ July (¶9-080, ¶10-470).
 
 - Be aware of the need to keep a diary over a representative period to support the apportionment of
 
-  computer or home oﬃce expenses (¶16-480).
+  computer or home office expenses (¶16-480).
 
-- Consider claiming working from home expenses using the ﬁxed rate of 67 cents an hour for
+- Consider claiming working from home expenses using the fixed rate of 67 cents an hour for
 
   claiming work-related additional running expenses incurred as a result of working from home (PCG
 
@@ -195,31 +195,31 @@ July (¶9-080, ¶10-470).
 
 - Small business entities may be able to take advantage of special prepayment rules (¶16-045).
 
-- Subject to cash ﬂow considerations and prepayment rules, consider making deductible purchases
+- Subject to cash flow considerations and prepayment rules, consider making deductible purchases
 
   by year's end to accelerate deductions. This applies particularly if tax rates for the following year —
 
-  and therefore the tax beneﬁt of the deduction — are expected to be lower than in the current year
+  and therefore the tax benefit of the deduction — are expected to be lower than in the current year
 
 (¶16-040).
 
 - Consider year-end tax shelter investments with caution (¶31-045).
 
-- For PAYG individuals, signiﬁcant deductions in the current year may justify lower PAYG
+- For PAYG individuals, significant deductions in the current year may justify lower PAYG
 
   withholding rates in the following year (¶26-500).
 
 - For taxpayers on higher incomes, consider the use of negatively-geared investments to generate
 
-  excess deductions that can be oﬀset against current year income (¶16-740).
+  excess deductions that can be offset against current year income (¶16-740).
 
-- To be deductible, a bad debt may need to be actually written oﬀ by year's end (¶16-582).
+- To be deductible, a bad debt may need to be actually written off by year's end (¶16-582).
 
-- To claim a current year deduction for directors' fees, the company should have deﬁnitively
+- To claim a current year deduction for directors' fees, the company should have definitively
 
   committed itself to the payment, eg by passing a properly authorised resolution (¶16-040).
 
-- To claim a current year deduction for annual or long service leave, it is not suﬃcient for the
+- To claim a current year deduction for annual or long service leave, it is not sufficient for the
 
   employer merely to have made a provision in its accounts to cover the employees' entitlements
 
@@ -229,7 +229,7 @@ July (¶9-080, ¶10-470).
 
   deduction provisions), be aware that these deductions cannot produce a tax loss. If this would be
 
-  the eﬀect of paying the full amount of the allowance during the current year, consideration may
+  the effect of paying the full amount of the allowance during the current year, consideration may
 
   need to be given to deferring the payment (or the appropriate part of it) to the next year (¶16-540).
 
@@ -255,7 +255,7 @@ July (¶9-080, ¶10-470).
 
 - Subject to transitional rules, if the foreign tax paid exceeds the amount claimable as a foreign
 
-  tax oﬀset, the tax beneﬁt of the excess is lost. It cannot be considered in determining the oﬀset in
+  tax offset, the tax benefit of the excess is lost. It cannot be considered in determining the offset in
 
   subsequent income years, nor can it be transferred (¶21-760).
 
@@ -263,11 +263,11 @@ July (¶9-080, ¶10-470).
 
   (¶6-266).
 
-- Consider whether a loss claim may be aﬀected by the non-commercial loss rules (¶16-020).
+- Consider whether a loss claim may be affected by the non-commercial loss rules (¶16-020).
 
 - Where a company is seeking to carry forward a prior year loss, pay attention to the requirements
 
-  for the continuity of ownership test to be satisﬁed up to the end of the claim year (¶3-105).
+  for the continuity of ownership test to be satisfied up to the end of the claim year (¶3-105).
 
 - By accelerating income and deferring deductible expenditure, it may be possible to increase the
 
@@ -279,9 +279,9 @@ July (¶9-080, ¶10-470).
 
   partnership asset (¶17-780).
 
-- If seeking to vary the eﬀective life of a depreciating asset, the choice should be made for the year
+- If seeking to vary the effective life of a depreciating asset, the choice should be made for the year
 
-  in which the asset is ﬁrst used or installed ready for use (¶17-270).
+  in which the asset is first used or installed ready for use (¶17-270).
 
 - Consider whether a change of stock valuation method is appropriate (¶9-180).
 
@@ -299,7 +299,7 @@ July (¶9-080, ¶10-470).
 
 - Where there is a change of interests in trading stock, consider the special valuation options
 
-  available where the continuity test is satisﬁed (¶31-270).
+  available where the continuity test is satisfied (¶31-270).
 
 - Business deductions for trading stock will generally not be available until the stock is actually on
 
@@ -307,7 +307,7 @@ July (¶9-080, ¶10-470).
 
 - If expecting a refund, lodge early and expedite assessment by lodging electronically (¶24-010).
 
-- In determining liability for franking deﬁcit tax, an income tax refund received within 3 months after
+- In determining liability for franking deficit tax, an income tax refund received within 3 months after
 
   the end of the income year is treated as having been received immediately before the end of that
 
@@ -315,11 +315,11 @@ July (¶9-080, ¶10-470).
 
 - Where land is involved in the sale of a business, the timing of the settlement before or after year's
 
-  end may aﬀect land tax liabilities (¶31-610).
+  end may affect land tax liabilities (¶31-610).
 
-- Consolidating on the ﬁrst day of the tax year is not essential, but each member of the
+- Consolidating on the first day of the tax year is not essential, but each member of the
 
-  consolidating group will need to ﬁle a return if it consolidates part-way through the year (¶8-000).
+  consolidating group will need to file a return if it consolidates part-way through the year (¶8-000).
 
 - Check compliance with the thin capitalisation measures (¶22-700).
 
@@ -333,7 +333,7 @@ July (¶9-080, ¶10-470).
 
 - Consider the application of the trust streaming measures (¶6-077).
 
-- Exercise caution in examining the tax and commercial bona ﬁdes of year-end investments in
+- Exercise caution in examining the tax and commercial bona fides of year-end investments in
 
   promoted schemes.
 

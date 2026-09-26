@@ -39,7 +39,7 @@ paragraph: "¶44-155"
 
   special attention should be paid to: (1) the rule requiring that the vendor be a natural person; (2) the
 
-  rules governing the situation where spouses have diﬀerent residences at the same time; and (3) the
+  rules governing the situation where spouses have different residences at the same time; and (3) the
 
   rules applying where one party leaves the former residence to live elsewhere (¶11-730, ¶11-740,
 
@@ -55,7 +55,7 @@ paragraph: "¶44-155"
 
   ownership test for the purpose of the small business CGT exemption (¶7-165).
 
-- The CGT provisions do not apply if the original beneﬁcial owner of a life policy disposes of it.
+- The CGT provisions do not apply if the original beneficial owner of a life policy disposes of it.
 
 Similarly, a transferee who receives it as part of a settlement, and who provides no consideration, will be exempt from CGT on a subsequent disposal (¶11-880).
 
@@ -67,7 +67,7 @@ Similarly, a transferee who receives it as part of a settlement, and who provide
 
   deemed dividend. Failing that, if the spouse is an employee of the company, the forgiveness could
 
-  potentially be treated as a debt waiver fringe beneﬁt under the FBT rules (¶4-200, ¶35-310).
+  potentially be treated as a debt waiver fringe benefit under the FBT rules (¶4-200, ¶35-310).
 
 - Depreciation balancing adjustments may be rolled over in certain circumstances (¶17-710).
 
@@ -87,7 +87,7 @@ Similarly, a transferee who receives it as part of a settlement, and who provide
 
   taxpayer's consent (¶11-270).
 
-- Where there is a change in the ownership of shares in a private company, this may aﬀect the
+- Where there is a change in the ownership of shares in a private company, this may affect the
 
   ability of the company to recoup prior year tax losses under the "continuity of ownership" test.
 
@@ -111,7 +111,7 @@ It may also result in the value of the shares being treated as an assessable div
 
 - The Commissioner may elect not to impose tax at punitive rates on trusts consisting of property
 
-  received in certain family breakdown situations, even though there is no beneﬁciary presently
+  received in certain family breakdown situations, even though there is no beneficiary presently
 
   entitled (¶6-230).
 
@@ -123,11 +123,11 @@ It may also result in the value of the shares being treated as an assessable div
 
   disposal for CGT purposes (¶11-550, ¶16-840).
 
-- Non-capital expenses relating to the management of a taxpayer's tax aﬀairs or compliance with
+- Non-capital expenses relating to the management of a taxpayer's tax affairs or compliance with
 
   tax obligations may be tax deductible (¶16-850).
 
-- Admissions made in aﬃdavits as to a taxpayer's assets and income given in Family Court
+- Admissions made in affidavits as to a taxpayer's assets and income given in Family Court
 
   proceedings may be open to inspection by the ATO. They may therefore be used as the basis for
 
@@ -135,9 +135,9 @@ It may also result in the value of the shares being treated as an assessable div
 
   assessment (¶25-220).
 
-- Marriage breakdown may alter a spouse's treatment as an aﬃliate in determining whether the
+- Marriage breakdown may alter a spouse's treatment as an affiliate in determining whether the
 
-  small business concessions turnover or asset tests have been satisﬁed (¶7-050).
+  small business concessions turnover or asset tests have been satisfied (¶7-050).
 
 - A person required to attend and give evidence to the Commissioner cannot refuse to answer
 

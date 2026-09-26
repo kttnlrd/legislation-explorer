@@ -27,7 +27,7 @@ contributions The legislative framework for payment and administration of PPL su
 
   Commissioner under Ch 3A.
 
-The Commissioner of Taxation has the general administration of Ch 3A, ie Ch 3A is "taxation law" within the meaning of ITAA97 and TAA. One consequence of this is that people who acquire information under Ch 3 are subject to the conﬁdentiality regime in TAA sch 1 Div 355.
+The Commissioner of Taxation has the general administration of Ch 3A, ie Ch 3A is "taxation law" within the meaning of ITAA97 and TAA. One consequence of this is that people who acquire information under Ch 3 are subject to the confidentiality regime in TAA sch 1 Div 355.
 
 - A person is eligible for a PPL superannuation contribution for an income year if the person
 
@@ -61,7 +61,7 @@ The Commissioner of Taxation has the general administration of Ch 3A, ie Ch 3A i
 
 - If the Commissioner pays a PPL superannuation contribution for a person for an income year, the
 
-Commissioner must give written notice, containing the information speciﬁed in PPLA 2010, to the person or the legal personal representative of a deceased person.
+Commissioner must give written notice, containing the information specified in PPLA 2010, to the person or the legal personal representative of a deceased person.
 
 The person will also be given details of the contribution: (a) by the superannuation provider under the Corporations Regulations 2001 if the contribution is paid into a complying superannuation fund or an RSA account; and (b) by the Commissioner under the Small Superannuation Accounts Act 1995 if the contribution is paid into an account in the SHASA.
 
@@ -89,7 +89,7 @@ The person will also be given details of the contribution: (a) by the superannua
 
   relating to returned PPL superannuation contributions or underpaid amounts.
 
-- A person aﬀected by a decision (the original decision) made by the Commissioner under PPLA
+- A person affected by a decision (the original decision) made by the Commissioner under PPLA
 
 2010 Pts 1, 2 or 3 (including a decision not to make a determination under s 115D or 115F (see above) or s 115K (about underpayments) of that Act) may apply to the Commissioner for review of the decision.
 
@@ -103,13 +103,13 @@ Components of a PPL superannuation contribution
 
   of the PPL superannuation contribution.
 
-The applicable SG rate is the rate as at 1 July of the income year that the PLP is paid. For example, the PPL superannuation contribution amount for a person for the ﬁnancial year 2025–26 will be the total amount of PLP paid for the person in that ﬁnancial year multiplied by 12% (the SG charge percentage on 1 July 2025).
+The applicable SG rate is the rate as at 1 July of the income year that the PLP is paid. For example, the PPL superannuation contribution amount for a person for the financial year 2025–26 will be the total amount of PLP paid for the person in that financial year multiplied by 12% (the SG charge percentage on 1 July 2025).
 
 and payments A PPL superannuation contribution is treated as a concessional contribution when it is received by a person's superannuation fund, in line with the treatment of employer SG contributions. This means that the contribution is subject to 15% concessional contributions tax in the fund and counts towards a person's concessional contributions cap in the year it is received by the fund.
 
-A PPL superannuation contribution payment to the legal personal representative of a deceased person is a superannuation beneﬁt (ITAA97 s 307-5: ¶14-100). The superannuation beneﬁt will consist entirely of a taxable component, ie the tax free component is nil (ITAA97 s 307-133: ¶14-130).
+A PPL superannuation contribution payment to the legal personal representative of a deceased person is a superannuation benefit (ITAA97 s 307-5: ¶14-100). The superannuation benefit will consist entirely of a taxable component, ie the tax free component is nil (ITAA97 s 307-133: ¶14-130).
 
-In TAA s 8AAB(4) (index of laws dealing with liability to pay the GIC), table item 27A reﬂects that GIC is payable under s 115Q of PPLA 2010, and in TAA sch 1 s 250-10(2) (index of tax-related liabilities under other Acts), table items 39C to 39F reﬂect the tax-related liabilities arising under Ch 3A.
+In TAA s 8AAB(4) (index of laws dealing with liability to pay the GIC), table item 27A reflects that GIC is payable under s 115Q of PPLA 2010, and in TAA sch 1 s 250-10(2) (index of tax-related liabilities under other Acts), table items 39C to 39F reflect the tax-related liabilities arising under Ch 3A.
 
 Part 12B of the Small Superannuation Accounts Act 1995 (¶39-650) empowers the Commissioner to deposit a PPL superannuation contribution payable for an individual into the individual's account in the SHASA, and provides for administration of these deposits and their eventual withdrawal.
 

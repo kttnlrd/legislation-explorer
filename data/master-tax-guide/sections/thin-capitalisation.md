@@ -7,9 +7,9 @@ paragraph: "¶22-700"
 ---
 # Thin capitalisation ¶22-700
 
-The thin capitalisation rules in ITAA97 Div 820 are intended to prevent multinational enterprises shifting proﬁts out of Australia by funding their Australian operations with excessive levels of debt and relatively little equity in order to reduce their Australian taxable income. The rules do this by limiting deductions for interest expense and borrowing costs ("debt deductions": s 820-46) where speciﬁed debt limits are exceeded.
+The thin capitalisation rules in ITAA97 Div 820 are intended to prevent multinational enterprises shifting profits out of Australia by funding their Australian operations with excessive levels of debt and relatively little equity in order to reduce their Australian taxable income. The rules do this by limiting deductions for interest expense and borrowing costs ("debt deductions": s 820-46) where specified debt limits are exceeded.
 
-Division 820 has evolved considerably since its original insertion in 2001. Notably, the amendments in Act No 23 of 2024 apply only to entities that are not Australian plantation forestry entities. Most of the amendments in that Act apply in relation to income years commencing on or after 1 July 2023, while the debt deduction creation rules in the new Subdiv 820-EAA (¶22-710) apply in relation to income years commencing on or after 1 July 2024. This commentary focuses on the current law applying to entities that are not Australian plantation forestry entities. The old law (ie before the amendments in Act No 23 of 2024) that continues to apply to Australian plantation forestry entities is discussed in Australian Master Tax Guide (74th edition) at ¶22-700ﬀ.
+Division 820 has evolved considerably since its original insertion in 2001. Notably, the amendments in Act No 23 of 2024 apply only to entities that are not Australian plantation forestry entities. Most of the amendments in that Act apply in relation to income years commencing on or after 1 July 2023, while the debt deduction creation rules in the new Subdiv 820-EAA (¶22-710) apply in relation to income years commencing on or after 1 July 2024. This commentary focuses on the current law applying to entities that are not Australian plantation forestry entities. The old law (ie before the amendments in Act No 23 of 2024) that continues to apply to Australian plantation forestry entities is discussed in Australian Master Tax Guide (74th edition) at ¶22-700ff.
 
 Entities subject to Div 820 Division 820 applies only to taxpayers and their associates whose total annual debt deductions exceed $2 million (s 820-35). However, it does not apply to:
 
@@ -31,7 +31,7 @@ Further, assets and "non-debt liabilities" that are wholly or principally privat
 
 Companies, partnerships and trusts subject to the thin capitalisation rules must complete an International Dealings Schedule (IDS) as part of their self-assessment obligations (¶22-630).
 
-Diﬀerent rules apply, depending on whether the entity is an inward investing (ie controlled by non-residents) or outward investing (ie has oﬀshore investments) and whether it is an authorised deposit-taking institution (ADI) (such as banks), a non-ADI ﬁnancial entity or a general class investor (ie an entity that is neither an ADI nor a ﬁnancial entity). Non-ADI ﬁnancial entities may elect to be treated as ADIs. Where an entity is both an inward and outward investing entity (such as a foreign controlled Australian resident that controls a foreign entity), then any applicable outward investing entity rules apply.
+Different rules apply, depending on whether the entity is an inward investing (ie controlled by non-residents) or outward investing (ie has offshore investments) and whether it is an authorised deposit-taking institution (ADI) (such as banks), a non-ADI financial entity or a general class investor (ie an entity that is neither an ADI nor a financial entity). Non-ADI financial entities may elect to be treated as ADIs. Where an entity is both an inward and outward investing entity (such as a foreign controlled Australian resident that controls a foreign entity), then any applicable outward investing entity rules apply.
 
 ADIs: Subdivs 820-D and 820-E Subdivisions 820-D and 820-E contain the rules for "outward investing ADIs" (s 820-300) and "inward investing ADIs" (s 820-395) respectively. Debt deductions of an ADI will be reduced where the equity capital used to fund the Australian operations is less than the minimum equity requirement.
 
@@ -59,9 +59,9 @@ Outward investing ADIs (ie Australian ADI entities with foreign investments) hav
 
 Australian investments with a minimum capital ratio equal to 100% of the Tier 1 capital ratio of its worldwide group.
 
-Inward and outward investing financial entities (non- ADI): Subdivs 820-B and 820-C Subdivisions 820-B and 820-C contain the rules for "outward investing ﬁnancial entities (non-ADI)" (ss 820-85, 820-583, 820-609 and 820-610) and "inward investing ﬁnancial entities (non-ADI)" (ss 820-185 and 820-583) respectively.
+Inward and outward investing financial entities (non- ADI): Subdivs 820-B and 820-C Subdivisions 820-B and 820-C contain the rules for "outward investing financial entities (non-ADI)" (ss 820-85, 820-583, 820-609 and 820-610) and "inward investing financial entities (non-ADI)" (ss 820-185 and 820-583) respectively.
 
-If an entity is an inward investing ﬁnancial entity (non-ADI) but not an outward investing ﬁnancial entity (non-
+If an entity is an inward investing financial entity (non-ADI) but not an outward investing financial entity (non-
 
 *Refs: s 820-39), s 820-32), s 820-300), s 820-395), s
 820-85, s 820-185*
@@ -76,21 +76,21 @@ If an entity is an inward investing ﬁnancial entity (non-ADI) but not an outwa
 
 820-190(3)) exceeds its "maximum allowable debt" (s 820-190), then all or a part of each debt deduction of the entity for the income year is disallowed (s 820-185(1A)). The maximum allowable debt is the greater of the "safe harbour debt amount" (s 820-200 or 820-210) or, if applicable, the "worldwide gearing debt amount" (ss 820-217 to 820-219). The actual amount of the deduction disallowed is calculated under s 820-220.
 
-The third party debt test disallows debt deductions to the extent they exceed the entity's debt deductions attributable to third party debt and which satisfy conditions speciﬁed in Subdiv 820-EAB.
+The third party debt test disallows debt deductions to the extent they exceed the entity's debt deductions attributable to third party debt and which satisfy conditions specified in Subdiv 820-EAB.
 
-Under the safe harbour debt test, the amount of debt used to ﬁnance the Australian investments will be treated as being excessive when it is greater than that permitted by the safe harbour gearing limit of 1.5:1.
+Under the safe harbour debt test, the amount of debt used to finance the Australian investments will be treated as being excessive when it is greater than that permitted by the safe harbour gearing limit of 1.5:1.
 
-This ratio only applies to their non-lending business. An on-lending rule operates to remove from the calculations any debt that is on-lent to third parties or used for similar ﬁnancing activities. The application of this on-lending rule is limited by an additional safe harbour gearing ratio of 15:1 which applies to the entity's total business. There are also special rules that result in higher allowable gearing ratios for entities that have assets which are allowed to be fully debt funded.
+This ratio only applies to their non-lending business. An on-lending rule operates to remove from the calculations any debt that is on-lent to third parties or used for similar financing activities. The application of this on-lending rule is limited by an additional safe harbour gearing ratio of 15:1 which applies to the entity's total business. There are also special rules that result in higher allowable gearing ratios for entities that have assets which are allowed to be fully debt funded.
 
-The worldwide gearing debt test does not apply to an inward investor if its statement worldwide equity or assets (as deﬁned) is nil or negative, or if audited consolidated ﬁnancial statements do not exist. The calculation of the worldwide gearing test amount depends on the type of entity (ss 820-217 to 820-219; Subdiv 820-JA).
+The worldwide gearing debt test does not apply to an inward investor if its statement worldwide equity or assets (as defined) is nil or negative, or if audited consolidated financial statements do not exist. The calculation of the worldwide gearing test amount depends on the type of entity (ss 820-217 to 820-219; Subdiv 820-JA).
 
-If an entity is an outward investing ﬁnancial entity (non-ADI) for all of the income year and:
+If an entity is an outward investing financial entity (non-ADI) for all of the income year and:
 
 - has chosen to apply the third party debt test, all or part of its debt deductions for the income
 
   year (to the extent that they are not attributable to its overseas permanent establishments) are
 
-  disallowed (s 820-85(1A) and (2C)). As for inward investing ﬁnancial entities (non-ADI), the amount
+  disallowed (s 820-85(1A) and (2C)). As for inward investing financial entities (non-ADI), the amount
 
   of debt deductions disallowed is the amount by which debt deductions exceed the entity's third
 
@@ -100,23 +100,23 @@ If an entity is an outward investing ﬁnancial entity (non-ADI) for all of the 
 
 820-85(3)) exceeds its "maximum allowable debt" (s 820-90), then all or a part of each debt deduction of the entity for the income year (to the extent that they are not attributable to its overseas permanent establishments) is disallowed (s 820-85(1A)). The maximum allowable debt is the greater of the "safe harbour debt amount" (s 820-100) and, if applicable, the "worldwide gearing debt amount" (s 820-110 or 820-111). The actual amount of the deduction disallowed is calculated under s 820-115.
 
-The safe harbour limit is fundamentally the same as that described for inward investing ﬁnancial entities (non-ADI). They take account, however, of the amount and form of investment in the Australian non-ADI's controlled foreign investments.
+The safe harbour limit is fundamentally the same as that described for inward investing financial entities (non-ADI). They take account, however, of the amount and form of investment in the Australian non-ADI's controlled foreign investments.
 
 The worldwide gearing debt test for outward investors allows an Australian entity with foreign investments to fund its Australian investments with gearing of up to 100% of the gearing of the worldwide group that it controls. However, this test is not available if the Australian entity is itself controlled by foreign entities.
 
-General class investors: Subdiv 820-AA A "general class investor" (s 820-46) can apply the ﬁxed ratio test, the group ratio test or the third party debt test (Subdiv 820-AA).
+General class investors: Subdiv 820-AA A "general class investor" (s 820-46) can apply the fixed ratio test, the group ratio test or the third party debt test (Subdiv 820-AA).
 
-The ﬁxed ratio test applies by default. Under this test, the amount of debt deductions disallowed is the amount by which "net debt deductions" (s 820-50) exceed the entity's "ﬁxed ratio earnings limit" (s 820-51), ie 30% of "tax EBITDA". Tax EBITDA (or tax earnings before interest, taxes, depreciation, and amortisation) means, broadly, the entity's taxable income or tax loss adding back deductions for interest, decline in value, and capital works (s 820-52). However, a special deduction in respect of amounts previously disallowed may be available (s 820-56). Further, entities may transfer excess tax EBITDA amounts to other eligible entities (s 820-60).
+The fixed ratio test applies by default. Under this test, the amount of debt deductions disallowed is the amount by which "net debt deductions" (s 820-50) exceed the entity's "fixed ratio earnings limit" (s 820-51), ie 30% of "tax EBITDA". Tax EBITDA (or tax earnings before interest, taxes, depreciation, and amortisation) means, broadly, the entity's taxable income or tax loss adding back deductions for interest, decline in value, and capital works (s 820-52). However, a special deduction in respect of amounts previously disallowed may be available (s 820-56). Further, entities may transfer excess tax EBITDA amounts to other eligible entities (s 820-60).
 
 If an entity chooses the group ratio test, the amount of debt deductions disallowed is the amount by which net debt deductions exceed the "group ratio earnings limit" (s 820-51), ie the entity's "group ratio" multiplied by its tax EBITDA. An entity's group ratio means, broadly, the ratio of its group's net third party interest expense to its group's EBITDA for an income year (s 820-53).
 
-If the third party debt test is chosen, the observations on the test set out in the context of non-ADI ﬁnancial entities above apply.
+If the third party debt test is chosen, the observations on the test set out in the context of non-ADI financial entities above apply.
 
 Amendments to Div 820 have been enacted to ensure that associate entities of general class investors are correctly categorised for thin capitalisation purposes. Depending on the case, the amendments ensure that such entities are correctly categorised as either:
 
 - a general class investor
 
-- an outward investing ﬁnancial entity (non-ADI), or
+- an outward investing financial entity (non-ADI), or
 
 - an outward investing entity (ADI) (ss 820-85(2BA) and 820-300(2)(c)(ii)).
 

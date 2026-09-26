@@ -26,7 +26,7 @@ slug: "18-receivership"
     [18.75] Joint appointments ....................................................................................................... 690
     [18.80] Manner of appointment .............................................................................................. 691
     [18.85] Demand deeds – how much time should be given .............................................. 692
-    [18.90] Qualiﬁcations for appointment as receiver ............................................................. 693
+    [18.90] Qualifications for appointment as receiver ............................................................. 693
     [18.95] Formalities of an appointment .................................................................................. 693
     [18.100] Validity of appointment ............................................................................................ 694
     [18.105] Remedying an invalid appointment ....................................................................... 695
@@ -68,7 +68,7 @@ slug: "18-receivership"
     [18.275] Assets with no market value ................................................................................... 716
     [18.280] Rights of third parties ............................................................................................... 716
 [18.285] General duties of receivers: ss 180 – 184 .................................................... 717
-[18.290] Speciﬁc statutory duties of receivers: Reporting and notiﬁcations ....... 717
+[18.290] Specific statutory duties of receivers: Reporting and notifications ....... 717
     [18.295] Receiving reports from officers ................................................................................ 718
 [18.315] The obligation to deal with the assets – collection, possession and
          control ............................................................................................................... 719
@@ -178,13 +178,13 @@ English Courts of Chancery to provide for the enforcement of a judgment by
 equitable execution,1 or to protect property pending resolution of a dispute, or to
 deal with the dissolution of partnerships. The Supreme Courts in the various
 jurisdictions in Australia had the inherent power to appoint receivers and this
-power has now been codiﬁed.2 The power also resides, under statute, in the
+power has now been codified.2 The power also resides, under statute, in the
 superior courts, the High Court, the Federal Court and the Family Court, and the
 Federal Circuit Court.3 Other legislation, for example with respect to real property,4
 allows receivers to be appointed in certain cases. The Corporations Act also
 provides for the appointment of a receiver for an ASIC investigation, or a criminal
 or civil action.5
-It should be noted that privately appointed receivers do not have the beneﬁt of
+It should be noted that privately appointed receivers do not have the benefit of
 acting in foreign countries that is given to other insolvency administrators under
 the Cross-Border Insolvency Act 2008 (Cth): see s 8. This is because private
 receiverships and controllerships relate only to a debt owed to the appointer, and as
@@ -193,12 +193,12 @@ Model Law.6
 The introduction of the Personal Property Securities Act 2009 (Cth) on 30 January
 2012 also introduced several important changes to the Corporations Act.7 One of
 the most important changes was to expand the concept of a secured creditor to
-include secured parties under the PPSA. A new deﬁnition of secured creditor was
-inserted in s 51E of the Act, which is deﬁned as a creditor whose debt is secured by
-a security interest. Security interest is in turn deﬁned in s 51A as either a PPSA
+include secured parties under the PPSA. A new definition of secured creditor was
+inserted in s 51E of the Act, which is defined as a creditor whose debt is secured by
+a security interest. Security interest is in turn defined in s 51A as either a PPSA
 security interest or a charge, lien or pledge. A charge for the purposes of the
-Corporations Act is deﬁned in s 9 to mean a charge created any way and includes a
-mortgage. While PPSA secured parties are classiﬁed as secured parties for the
+Corporations Act is defined in s 9 to mean a charge created any way and includes a
+mortgage. While PPSA secured parties are classified as secured parties for the
 purposes of the Corporations Act, they must still be creditors to be secured parties8
 in order to then be secured creditors. Furthermore, merely being a PPSA secured
 party will not of itself confer the power to appoint a receiver to enforce the party's
@@ -229,7 +229,7 @@ security interest – this power will usually derive from the security agreement
 should be noted, however, that Pt 5.2 of the Act covers both receivers and other
 controllers of property of a corporation.
 Receivers are not "external administrators" for the purposes of the IPSC and IPRC
-(see the deﬁnition of external administrator in IPSC, s 5-20). This means that
+(see the definition of external administrator in IPSC, s 5-20). This means that
 provisions in Pt 3 of the IPSC and IPRC that apply to external administrators don't
 apply to receivers (such as court orders under IPSC, Div 90 and remuneration rules
 under IPSC, Div 60). However, receivership is a form of external administration
@@ -250,16 +250,16 @@ sale of that receiver. Part 5.2 also deals with mortgagees and their agents who 
 into possession of the secured property owned by a company or who assume
 control of the property.
 Part 5.2 actually covers persons who are referred to as "controllers". This term is
-deﬁned in s 9 and means:10
+defined in s 9 and means:10
    (a) a receiver, or receiver and manager, of that property; or
    (b) anyone else who (whether or not as an agent for the corporation) is in possession, or
        has control,11 of that property for the purpose of enforcing a security interest.
-The deﬁnition includes two or more persons appointed as controllers: see s 434F.
+The definition includes two or more persons appointed as controllers: see s 434F.
 This text will generally use the commonly accepted word "receiver". In 2016-2017
 there were 39 companies placed into receivership, 213 companies placed into the
 hands of receivers and managers and 262 companies placed into the hands of
 controllers (not otherwise being receivers). This represents an almost 30% decrease
-from the previous ﬁnancial year and a 60% decrese from three years ago
+from the previous financial year and a 60% decrese from three years ago
 (2013-2014).12
 TYPES OF RECEIVERS
 [18.15]   A receiver is appointed in respect of a corporation to take control of
@@ -278,7 +278,7 @@ the corporation or be circumscribed to one or a number of items of property.
 
 Receivers – privately appointed or court-appointed
 [18.20] Receivers are usually appointed by a secured creditor when the assets of
-a company are under threat because of the company's insolvency or ﬁnancial
+a company are under threat because of the company's insolvency or financial
 instability. The terms of the security instrument (such as a general security
 agreement or a debenture trust deed) will set out various events of default that
 allow (but do not require) the secured creditor to take action. Common events of
@@ -286,8 +286,8 @@ default are outlined below.
 It is common for security documents to allow the secured creditor to require the
 debtor company to appoint an investigating accountant (sometimes referred to as
 an IA) to undertake an independent business review (often referred to as an IBR) of
-the company's ﬁnancial position. If the investigating accountant's report
-demonstrates that the debtor company's ﬁnancial position is positive it may be
+the company's financial position. If the investigating accountant's report
+demonstrates that the debtor company's financial position is positive it may be
 possible to undertake a workout to restructure the debtor's affairs to ensure
 continuing compliance with the terms of the loan (although these may be amended
 as part of the restructuring process).13 A receiver is usually appointed where a
@@ -305,7 +305,7 @@ not have, the administrator has a duty to act for all creditors whereas a privat
 appointed receiver has a paramount duty to the appointing secured creditor.14
 It is common for both receivers and administrators to be appointed to a company,
 often at around the same time. One purpose of this is that the secured creditor
-through the receiver may provide ﬁnancial support for the conduct of the voluntary
+through the receiver may provide financial support for the conduct of the voluntary
 administration. It is not uncommon that a company entering administration has
 few unsecured assets, from which the administrator may continue to operate the
 company and be remunerated. A major purpose of such an arrangement is that it
@@ -323,7 +323,7 @@ the business, typically pending a sale of the secured assets.
 The receiver is appointed in those cases to preserve the assets for the creditor. Such
 private appointments by a secured creditor are under an instrument of appointment
 pursuant to a loan contract between the company and the creditor, often referred to
-as a "debenture". A debenture is a term commonly referred to and is deﬁned, in s 9
+as a "debenture". A debenture is a term commonly referred to and is defined, in s 9
 as, broadly, an undertaking to repay money lent, which may (but need not) involve
 a security interest over the relevant property of the borrower: see [18.45].
 Private appointments can also be made pursuant to statutory powers, such as
@@ -333,9 +333,9 @@ Another option for secured creditors is to take possession of the collateral
 themselves (as "mortgagee in possession") or through an agent ("agent for the
 mortgagee in possession").15 Such action will constitute the mortgage (or their
 agent, who is not a receiver) as a "controller" for the purposes of Pt 5.2 of the
-Corporations Act, which imposes certain reporting obligations and speciﬁc duties
+Corporations Act, which imposes certain reporting obligations and specific duties
 and liabilities. However, taking possession either as mortgagee in possession or
-through an agent carries signiﬁcant liability risks for the secured creditor. A receiver
+through an agent carries significant liability risks for the secured creditor. A receiver
 is generally the agent of the borrower, and hence liabilities the receiver incurs will
 generally be liabilities of the borrower, subject to any statutory liability imposed
 personally on the receiver under ss 419, 419A. In contrast, a mortgagee in
@@ -343,7 +343,7 @@ possession (or through an agent) will incur these liabilities personally.
 Such liabilities might not be covered by related guarantees which may crystallise
 on taking possession of the property, although an indemnity given by a surety may
 also be obtained either as part of, or as collateral to, the guarantee.
-For major ﬁnancial institutions there is also a reputational risk involved in taking
+For major financial institutions there is also a reputational risk involved in taking
 possession personally rather than appointing an independent receiver (albeit one
 whose paramount duty is to protect the collateral). It is of course possible for a
 mortgagee in possession to give up lawful possession and then appoint a receiver,
@@ -382,14 +382,14 @@ demand. These commonly include:
 • cross default clauses which may be triggered when the debtor defaults on other
   loans;
 • a sale of secured collateral other than in the ordinary course of business;
-• the ﬁling of an application for a winding up order against the company;
+• the filing of an application for a winding up order against the company;
 • the convening of a meeting to consider a resolution for the voluntary winding up
   of the company;
 • the issue of execution process against the assets subject to the security interest;
 • any attempt by the company to create a further security interest to rank prior to
   or equally with the security interest;
 • a failure by the company to carry out any of the covenants contained in the
-  debenture, including complying with ﬁnancial ratios (such as the debt service
+  debenture, including complying with financial ratios (such as the debt service
   cover ratio).
 The circumstances which may cause the moneys to become payable and which are
 listed in the deed, will demonstrate the concern of the lender to protect and enforce
@@ -401,13 +401,13 @@ the Ch 4 PPSA rules (PPSA, s 116(2)), although a number of the rules in that cha
 may be excluded by agreement in commercial contracts: PPSA, s 115.
 Once appointed, a receiver will administer the property subject to the security
 interest and if empowered to do so will manage the company. The receivership will
-continue until the purpose of the receivership is fulﬁlled. This often occurs when
+continue until the purpose of the receivership is fulfilled. This often occurs when
 the assets subject to the security interest have been realised and the lender who
 holds security has been paid out. Sometimes the receivership will have involved
 management of the company's business and the receivership will end when the
 receiver has helped to restore the business of the company to good health. This is
-beneﬁcial to the appointor of the receiver as it will enable the appointor to
-maximise its beneﬁts from its secured position.
+beneficial to the appointor of the receiver as it will enable the appointor to
+maximise its benefits from its secured position.
 
 Receivers and receivers and managers
 [18.25]   A person may be appointed as a receiver or receiver and manager. This
@@ -417,7 +417,7 @@ Rly Co; Ex parte Cambria Rly Co (1880) 14 Ch D 645, 653. Strictly as a matter of
 
 history a receiver simply received the income of the secured property over which
 he or she was appointed and paid certain outgoings. Over time the function of the
-receiver broadened. Debenture deeds speciﬁcally empowered receivers to get in the
+receiver broadened. Debenture deeds specifically empowered receivers to get in the
 assets which were secured, realise them and then distribute the proceeds in
 conformity with the debenture and the law.
 A receiver and manager, on the other hand, was entitled to carry on the company's
@@ -443,7 +443,7 @@ Advantages in appointing a receiver
 [18.30] The major advantages for a lender who privately appoints a receiver is
 that the administration can be initiated speedily with insubstantial cost and,
 provided the receiver's deed of appointment is well drafted, the receiver may have
-ﬂexibility in carrying out the administration. The speed of the appointment is
+flexibility in carrying out the administration. The speed of the appointment is
 crucial because it might be imperative for the lender to put in an independent
 person to safeguard the assets which are subject to the security. Of course, the
 ability to appoint a receiver quickly will depend on the terms of the instrument and
@@ -466,16 +466,16 @@ realise the assets subject to the security without the assumption of responsibil
 its liabilities. This freedom has, over the years, been circumscribed by the
 Corporations Act but the form of administration remains attractive in most of the
 circumstances which confront a secured creditor.
-A general beneﬁt, which may also be advantageous to the lender, is that if the
+A general benefit, which may also be advantageous to the lender, is that if the
 company is not hopelessly insolvent there is the possibility that the company can,
-in due course, be restored to ﬁnancial health. This is beneﬁcial for the company and
-its members but it is also beneﬁcial for both the company's normal trade creditors
+in due course, be restored to financial health. This is beneficial for the company and
+its members but it is also beneficial for both the company's normal trade creditors
 who can continue to supply the company with goods and services, and the general
 body of unsecured creditors who are more likely to be paid what they are owed,
 even if only in due course. In that respect, much will depend on the skills of the
 receiver, and the willingness of the secured creditor to allow some latitude in how
 the indebtedness is handled, and in some cases their willingness to provide further
-ﬁnancing to maximise returns on managing (and usually selling) the business. For
+financing to maximise returns on managing (and usually selling) the business. For
 example, a receiver appointed over a partially constructed building project may
 need further funding to complete the project and realise the full value of the
 security. Similarly, a receiver appointed over a business or residential property in
@@ -484,7 +484,7 @@ will either need to consent to allow further secured funding to be obtained or
 provide the funding itself. In some cases this may require creative fundraising
 options, such as appointing a voluntary administrator to propose a deed of
 company arrangement that will involve a debt for equity swap and a further
-ﬁnancing facility with existing and/or new lenders.
+financing facility with existing and/or new lenders.
 If the receiver can negotiate the sale of some or all of the business as a going
 concern this may protect the position of the secured creditor (as it is the duty of the
 receiver to do) but it may also help to preserve jobs and commercial relationships
@@ -560,17 +560,17 @@ borrowing company. A debenture at common law was merely a written
    Distinctions Remain Relevant" (2013) 21 Insolv LJ 5.
 [18.50]                                                                     18 Receivership    689
 
-acknowledgment of a debt, whether secured or not. However, the deﬁnition in s 9
-is more speciﬁc It is this meaning of debenture that is relevant in discussing the law
-of receivership; however, that broader deﬁnition of the term must be kept in mind.
-Indeed the Corporations Act deﬁnition of a debenture is not conﬁned to a security.
-Section 9 deﬁnes a "debenture" as a:
+acknowledgment of a debt, whether secured or not. However, the definition in s 9
+is more specific It is this meaning of debenture that is relevant in discussing the law
+of receivership; however, that broader definition of the term must be kept in mind.
+Indeed the Corporations Act definition of a debenture is not confined to a security.
+Section 9 defines a "debenture" as a:
    "chose in action that includes an undertaking by the body to repay as a debt money
    deposited with or lent to the body. The chose in action may (but need not) include a
    security interest over property of the body to secure repayment of the money."
-The deﬁnition goes on to say that the word debenture does not include certain
+The definition goes on to say that the word debenture does not include certain
 moneys lent in the ordinary course of business, an undertaking to pay under a
-cheque or bill of exchange, and other deﬁned transactions.
+cheque or bill of exchange, and other defined transactions.
 
 The security interest
 [18.50] Naturally, it is important for a lender to have a security interest over
@@ -579,24 +579,24 @@ money loaned. Without some form of security the lender would have only a bare
 contractual right against the company for the repayment of the debt and in the
 event of the company's insolvency it would rank only as an unsecured creditor.
 Prior to the introduction of the PPSA on 30 January 2012 security interests were
-characterised as charges. Charges are deﬁned broadly in s 9 of the Corporations Act
+characterised as charges. Charges are defined broadly in s 9 of the Corporations Act
 and include a mortgage. Charges under the Corporations Act are referred to as legal
 charges, and are broader than the traditional concept of a charge in equity.20
-A company may grant a charge which is ﬁxed, ﬂoating or a combination of the two.
-Following the introduction of the PPSA the distinction between ﬁxed and ﬂoating
+A company may grant a charge which is fixed, floating or a combination of the two.
+Following the introduction of the PPSA the distinction between fixed and floating
 charges for most types of personal property became irrelevant. This is because most
 charges will be covered by the priority rules in Pt 2.6 of the PPSA, and these rules
 (unlike the former rules in the now repealed Ch 2K of the Corporations Act) make no
 distinction between the two forms of security. A priority contest between two
 security interests is not determined according to which of the security interests is
-ﬁxed or ﬂoating, but rather by the PPSA priority rules. The PPSA adopts a
+fixed or floating, but rather by the PPSA priority rules. The PPSA adopts a
 substantive approach to security interests which does not depend on the form of
 the transaction, but rather on whether the interest in personal property provided by
 the transaction secures the payment or performance of an obligation: PPSA, s 12.
-Part 9.5 of the PPSA provides that references to ﬁxed charges are to be read as
-references to security interests in non-circulating assets, while references to ﬂoating
+Part 9.5 of the PPSA provides that references to fixed charges are to be read as
+references to security interests in non-circulating assets, while references to floating
 charges are to be read as references to security interests in circulating assets.
-The PPSA equivalent of a ﬁxed and ﬂoating charge is the general security
+The PPSA equivalent of a fixed and floating charge is the general security
 agreement over "all present and after-acquired property" (known as an ALLPAP).
 However, Pt 9.5 of the PPSA does not apply to security agreements that were
 enforceable prior to 30 January 2012 (the PPSA commencement date): PPSA, s 318.
@@ -608,7 +608,7 @@ transitional security interests even if the security interest only attached to p
 690      Keay's Insolvency: Personal and Corporate Law and Practice                               [18.70]
 
 property after the commencement date. For example, a debenture held by a bank
-on 1 January 2012 which provided for a ﬁxed and ﬂoating charge over a debtor
+on 1 January 2012 which provided for a fixed and floating charge over a debtor
 company's assets would be a transitional security interest. The transitional period
 of the PPSA ended on 31 January 2014.
 It should be noted that the distinction between security interests in circulating and
@@ -616,11 +616,11 @@ non-circulating assets has no effect on the operation of the PPSA itself. The
 distinction is, however, relevant for the operation of priority rules dealing with
 employee entitlements in corporate insolvency (including both receivership and
 liquidation, under s 433 of the Corporations Act), discussed at [18.370].
-It is likely that the terms ﬁxed and ﬂoating charges will continue to be used for
+It is likely that the terms fixed and floating charges will continue to be used for
 some time both for reasons of commercial familiarity and also because the PPSA
 has a number of exceptions set out in PPSA, s 8. Indeed, the concept of a security
 interest under s 51A includes both a PPSA security interest and a charge (and a
-pledge or lien). It is useful therefore to review brieﬂy the law of ﬁxed and ﬂoating
+pledge or lien). It is useful therefore to review briefly the law of fixed and floating
 charges.21
 
 Appointment under the debenture
@@ -649,7 +649,7 @@ receivers and managers, controllers and managing controllers respectively.22
 
 21 For a detailed examination of the former law of company charges, see Gough, Company Charges, (2nd
    ed, Butterworths, 1996).
-22 The deﬁnitions of "controller", "managing controller", and "receiver" in s 9 also recognise that there
+22 The definitions of "controller", "managing controller", and "receiver" in s 9 also recognise that there
    may be more than one appointee.
 [18.80]                                                                  18 Receivership     691
 
@@ -666,7 +666,7 @@ a receiver: Pan Foods Company Importers & Distributors Pty Ltd v ANZ Banking Gro
 Ltd [2000] HCA 20; (2000) 74 ALJR 791. Defaults are usually followed by the giving
 of a notice of demand (see [18.85]).
 How a receiver comes to be appointed will depend on the terms of the debenture
-deed.23 There is no speciﬁc or statutory form for the appointment; the rule is to
+deed.23 There is no specific or statutory form for the appointment; the rule is to
 adhere strictly to the deed as it is the source of the power of the appointment.
 While not always obligatory it is desirable for a demand for payment to be made
 before the appointment takes place.
@@ -680,7 +680,7 @@ No appointment is effective until the document of appointment is delivered to th
 receiver by the appointor or the appointor's authorised agent: NZI Securities
 Australia Ltd v Poignand [1994] FCA 1219; (1994) 51 FCR 584 (where the board of the
 secured creditor invalidly used the company's seal to appoint a receiver and later
-ratiﬁed the prior appointment – the receiver was appointed when he signed the
+ratified the prior appointment – the receiver was appointed when he signed the
 appointment instrument). The appointment commences when the receiver assents
 to the appointment. This assent need not necessarily be express. It has been held
 that if it can be deduced from the circumstances that the delivery of the document
@@ -716,7 +716,7 @@ which has resulted in time periods of an hour or less being held as reasonable: 
 of Baroda Ltd v Panessar [1987] Ch 335; Cripps (Pharmaceuticals) Ltd v Wickenden
 [1973] 1 WLR 944. In Bond v Hong Kong Bank of Australia Ltd (1991) 25 NSWLR 286,
 where the payment demand was in the millions of dollars, and would have taken
-time to arrange, ﬁve days was held to be reasonable.
+time to arrange, five days was held to be reasonable.
 If the debtor has made it clear it cannot pay, the time given may not be relevant at
 all. That was the outcome in Bunbury Foods Pty Ltd v National Bank of Australasia Ltd
 (1984) 153 CLR 491. While the High Court suggested that 3 days' notice was not
@@ -735,13 +735,13 @@ generally made.
 24 See further O'Donovan, Company Receivers and Administrators (Thomson Reuters, Westlaw AU) Ch 6.
 [18.95]                                                                           18 Receivership       693
 
-Qualiﬁcations for appointment as receiver
+Qualifications for appointment as receiver
 [18.90]    In effect, no one can be a receiver25 unless he or she is a registered
 liquidator: Corporations Act, s 418(1)(d).26 It is possible for a person to be a
 registered liquidator who is only registered to accept receivership appointments:
 see IPRC, s 20-1(2)(d), (4); ASIC RG 258. The process of applying for registration as
 a liquidator is explained in Chapter 10.
-Certain persons are disqualiﬁed by s 418(1) from acting as receivers. They are:
+Certain persons are disqualified by s 418(1) from acting as receivers. They are:
 • a secured party in relation to property of the debtor company;27
 • an auditor28 or a director, secretary, senior manager29 or employee30 of the debtor
   company;
@@ -754,7 +754,7 @@ Certain persons are disqualiﬁed by s 418(1) from acting as receivers. They are
   related body corporate, unless ASIC gives an exemption.
 
 Formalities of an appointment
-[18.95] The appointor must ﬁle notice of the appointment of the receiver with
+[18.95] The appointor must file notice of the appointment of the receiver with
 ASIC within seven days (Corporations Act, s 427(1)) and the appointee must do so
 within 14 days: s 427(2). The appointee must also serve notice of the appointment
 on the company as soon as practicable: s 429(2)(a).
@@ -768,7 +768,7 @@ the notice of appointment: s 429(2)(b).
    if the substance of the appointment under the debenture is that of a receiver: Yarrawonga Earthmoving
    & Garden Supplies Pty Ltd v Clem Court Pty Ltd [2014] VSC 439 (receiver removed as not a registered
    liquidator).
-26 The qualiﬁcations are set out in IPRC, s 20-1.
+26 The qualifications are set out in IPRC, s 20-1.
 27 This includes PPSA retention of title property: see Corporations Act, ss 418(1)(a), 51F. See further Bull,
    "Receivership and the Personal Property Securities Act 2009 (Cth): Why Distinctions Remain
    Relevant" (2013) 21 Insolv LJ 5.
@@ -794,7 +794,7 @@ of their appointment with ASIC within seven days: s 427(1A). Then, within seven
 days of entering into possession or taking control, that person must lodge notice
 with ASIC of that fact, unless the appointor does so: s 427(1B); ASIC Form 504.
 Validity of appointment
-[18.100] To ensure that their position is secure, a receiver must be satisﬁed that
+[18.100] To ensure that their position is secure, a receiver must be satisfied that
 the appointment is valid. It is common for a secured creditor to undertake a
 security review (usually in consultation with its lawyers) in order to ensure that the
 appointment of a receiver is permissible, but there may be insufficient time for this
@@ -807,7 +807,7 @@ An appointment can be rendered invalid as a result of a number of factors.32 Onl
 the most common invalidating factors are mentioned here and many of these
 matters have been discussed in Chapter 14, in the context of invalidation of security
 interests and voidable transactions in a liquidation.
-Initially, a receiver should be satisﬁed that an event has occurred which permits the
+Initially, a receiver should be satisfied that an event has occurred which permits the
 appointment of a receiver. The receiver should also ensure that all those
 pre-conditions of an appointment have been adhered to. The failure to adhere to
 these will usually invalidate the appointment.
@@ -835,7 +835,7 @@ An appointment may be invalid or ineffective in the following situations:
 • the security interest is invalid against a liquidator because when it was created it
   gave the debenture holder an unfair preference under s 588FA which the court
   has set aside under s 588FF;
-• the appointee is disqualiﬁed from being appointed.
+• the appointee is disqualified from being appointed.
 Nevertheless, it is to be noted that the appointment of a liquidator does not of itself
 invalidate the appointment of a receiver.
 As we have explained, if the appointment of a receiver is invalid, both the receiver
@@ -843,8 +843,8 @@ and the appointor (through an indemnity that they may have given to the receiver
 or where the receiver was acting as the agent of the appointor) may be held liable
 to the company in trespass. This is regardless of the fact that the receiver acted in
 good faith. In that circumstance, the company is entitled to regard the receiver as its
-agent and the receiver must account for any proﬁts received: Re Simms [1934] Ch 1.
-But if the company does beneﬁt from the acts of the receiver, the receiver has the
+agent and the receiver must account for any profits received: Re Simms [1934] Ch 1.
+But if the company does benefit from the acts of the receiver, the receiver has the
 right to claim remuneration.33
 
 Remedying an invalid appointment
@@ -874,15 +874,15 @@ liability arising out of an invalid appointment in certain circumstances: s 419(
 696      Keay's Insolvency: Personal and Corporate Law and Practice                        [18.115]
 
 Verifying the appointment – s 418A
-[18.115]    While it is up to the receiver to be satisﬁed that their position as receiver
+[18.115]    While it is up to the receiver to be satisfied that their position as receiver
 is secure,35 a receiver may not always be able to verify every aspect of the
 appointment. Section 418A of the Corporations Act permits an application to the
 court to determine whether an appointment was valid. An application must specify
 a particular ground of doubt with respect to the validity of the appointment: see,
 for example, Jenner v Selmoore Pty Ltd (1997) 74 FCR 526. However, the court is not
-limited to only considering the validity in light of the ground speciﬁed in the
+limited to only considering the validity in light of the ground specified in the
 application. The court may make a declaration concerning the validity on the
-ground speciﬁed or some other ground.
+ground specified or some other ground.
 Unsecured creditors and the company itself, including through its liquidator, may
 also apply under s 418A.
 A person who is not validly appointed as a receiver is not to be regarded as
@@ -898,12 +898,12 @@ explained at [18.05] originated in the Courts of Chancery in the 15th century. A
 this jurisdiction is open to lenders, it is necessary to devote some space to this type
 of appointment. As stated earlier, court-appointed receivers are not common when
 compared with the number of private appointments and in a book devoted to the
-whole ﬁeld of insolvency, court appointments do not warrant substantial
+whole field of insolvency, court appointments do not warrant substantial
 consideration.
 
 Jurisdiction
 [18.125] The jurisdiction of the courts to appoint a receiver is derived from two
-sources. First, all of the courts are empowered by speciﬁc court legislation to make
+sources. First, all of the courts are empowered by specific court legislation to make
 an appointment.36 Each piece of legislation empowers the respective court to
 appoint a receiver "in all cases in which it appears to the court to be just or
 convenient that such order be made".
@@ -931,7 +931,7 @@ by the respondent to the application; being an act or omission that may constitu
 breach of the Corporations Act. Secondly, that it is "necessary or desirable" to make
 the order for the purpose of protecting an "aggrieved person" to whom the
 "relevant person" may become liable in debt damages or for compensation or
-otherwise. If these are satisﬁed, the court has a discretion which is to be exercised
+otherwise. If these are satisfied, the court has a discretion which is to be exercised
 according to the evidence. The fact that the aggrieved person could also take action
 against the relevant person does not mean that an asset protection order under
 s 1323 should not be made: ASIC v Sigalla [2009] NSWSC 1205; (2009) 74 ACSR 710.
@@ -942,7 +942,7 @@ a lesser remedy is not appropriate: Beach Petroleum NL v Johnson (1992) 9 ACSR 4
 Corporations Act: ASIC v Oceanic Asset Management Pty Ltd, in the matter of Oceanic
 Asset Management Pty Ltd [2015] FCA 966; (2015) 108 ACSR 367.
 The public interest role of ASIC may warrant an order in circumstances where it
-might be denied to a private litigant. In that respect it is signiﬁcant that ASIC is
+might be denied to a private litigant. In that respect it is significant that ASIC is
 exempted from the requirement to give an undertaking as to damages: ASIC v
 Burnard [2007] NSWSC 1217; (2007) 25 ACLC 1505.
 Nevertheless, in proceedings by ASIC under s 1323, ASIC may suffer a costs order
@@ -966,16 +966,16 @@ embroiled in the internal affairs of companies unless they cannot avoid it as a
    435.
 698     Keay's Insolvency: Personal and Corporate Law and Practice                           [18.140]
 
-matter of equity. Appointments will only be made where the court is satisﬁed that it
+matter of equity. Appointments will only be made where the court is satisfied that it
 is necessary to safeguard the interests of all persons who may be interested in the
 assets placed under receivership.39
-A judicially appointed receiver may be justiﬁed where there are concerns about the
+A judicially appointed receiver may be justified where there are concerns about the
 management of the company and an independent person is needed to manage and
 investigate the conduct of prior management: Woods v Harrison, Re Telco Service
 Holdings Pty Ltd (in liq) [2017] FCA 732.
 The person who seeks the appointment will usually be someone who holds a
 debenture that is invalid, or gives no right to appoint a receiver privately, or in
-which the power to appoint is ﬂawed; or it may be an unsecured creditor, as was
+which the power to appoint is flawed; or it may be an unsecured creditor, as was
 the case in National Australia Bank Ltd v Bond Brewing Holdings Ltd [1991] 1 VR 386.
 In that case, the Appeal Division of the Supreme Court of Victoria heard an appeal
 from orders made appointing receivers to the Bond Brewing group, part of the
@@ -992,7 +992,7 @@ an appointment to have a proprietary interest in the property concerned. But the
 applicant must show some legal or equitable right to be protected or enforced by
 the appointment and that no other remedy, such as a Mareva injunction,40 is
 available. The court should not appoint a receiver as a means of establishing a
-regime for the administration of a ﬁnancially troubled company where the
+regime for the administration of a financially troubled company where the
 company resists the appointment. The court said that ex parte orders were only to
 be made in extreme circumstances, and that an undertaking as to damages, not
 sought or offered before the trial judge, should be required.
@@ -1041,7 +1041,7 @@ for security to be provided given the broad scope of liability that may be incur
 by the receiver.44 Security is intended to ensure that the receiver accounts for what
 he or she receives and makes payment for, pursuant to the direction of the court. In
 urgent situations an interim receiver may be appointed where security is to be
-realised within a speciﬁed period. The court may also order that the receiver's
+realised within a specified period. The court may also order that the receiver's
 appointment is effective but that the receiver is not to receive any property until
 security has been provided.
 The appointee must give notice of their appointment to ASIC within 14 days of the
@@ -1063,14 +1063,14 @@ need the power to manage. Some authorities suggest that the court would not give
 powers of management except where there is a need to sell: Re Newdigate Colliery
 Ltd [1912] 1 Ch 468, 472. All receivers, including those appointed by the court, have
 powers under s 420 of the Corporations Act, although the court's order appointing
-the receiver may conﬁne the extent of the appointee's powers in terms of the
+the receiver may confine the extent of the appointee's powers in terms of the
 purpose of the appointment: ASIC v Australian Investors Forum Pty Ltd (2003) 44
 ACSR 503; Kijurina and Albarran in their capacity as liquidators of ET Family Pty Ltd (in
 liq) v Taouk; in the matter of ET Family Pty Ltd (in liq) [2014] FCA 542.
 
 ROLE AND POSITION OF A PRIVATELY APPOINTED RECEIVER
 [18.155] A privately appointed receiver is appointed to take possession, get in,
-or recover, property for the beneﬁt of the persons who are ultimately entitled to it.
+or recover, property for the benefit of the persons who are ultimately entitled to it.
 This will usually be whoever made the appointment. Receivers are normally
 appointed pursuant to the terms of a debenture so that the debenture can be
 enforced and a secured creditor's interest can be safeguarded.
@@ -1122,15 +1122,15 @@ appointment,50 unless the receiver acts contrary to the terms of the appointment
 The agency of the receiver is, admittedly, an unusual one: Visbord v FCT (1943) 68
 CLR 354, 382. The receiver is appointed by the debenture holder and carries out his
 or her duties with the agreement of the appointor and primarily for the appointor's
-beneﬁt. As we have just noted, the company cannot dismiss the receiver. The
-privately appointed receiver is not in a general ﬁduciary relationship with the
+benefit. As we have just noted, the company cannot dismiss the receiver. The
+privately appointed receiver is not in a general fiduciary relationship with the
 company in receivership (although statutory duties as an officer will apply): State
 Bank of NSW Ltd v Chia [2000] NSWSC 552; (2000) 50 NSWLR 587 at [869]-[870]. In
 a sense the receiver is responsible to two parties, with their primary responsibility
 being to the debenture holder. The agency is a limited one and is:
    "designed to protect the mortgagee from liability for the acts and the defaults of the
    receiver and to facilitate dealings between the receiver and third parties rather than to
-   deﬁne the rights and duties of the receiver (as agent) to the company (as principal)": Re
+   define the rights and duties of the receiver (as agent) to the company (as principal)": Re
    Geneva Finance Ltd (1992) 7 WAR 496, (1992) 10 ACLC 668, 677.
 The receiver must be careful to ensure that he or she discharges the duties owed
 both to the appointor and to the company. The receiver is an officer of the company
@@ -1150,7 +1150,7 @@ unless with the approval of the court or the liquidator: Corporations Act, s 420
 49 Bank of Western Australia Ltd v Abdul [2012] VSC 222 at [41].
 50 Gaskell v Gosling [1896] 1 QB 669.
 51 See Dixon and Duncan, "Reconsidering the Agency of a Privately Appointed Receiver and Manager
-   in Three Speciﬁc Circumstances" (2013) 21 Insolv LJ 263. The three instances are in relation to the
+   in Three Specific Circumstances" (2013) 21 Insolv LJ 263. The three instances are in relation to the
    rights of the ATO to recover tax under its garnishee powers, to the mortgagee's consent to leases,
    and to the company's liability for capital gains tax. As to the latter, see Commissioner of Taxation v
    Australian Building Systems Pty Ltd (in liq) [2015] HCA 48; (2015) 257 CLR 544.
@@ -1172,13 +1172,13 @@ in St George Bank Ltd v JB (Northbridge) Pty Ltd [2009] NSWSC 1347; (2009) 262 A
 Section 420C – power to carry on business after liquidation
 [18.170] Under the general law, if a receiver continued to trade after the advent
 of liquidation the receiver would be exposed to personal liability because, as earlier
-explained, their agency has ended and the receiver could not be indemniﬁed from
+explained, their agency has ended and the receiver could not be indemnified from
 the company's assets. The receiver's appointor may be willing to indemnify the
 receiver, but if not, the receiver decides that it is prudent to halt trading. This could,
 according to the Harmer Report at [221]:
   "reduce or eliminate the opportunity of eventually disposing of the company's business
   as a going concern and its property may have to be disposed of in a fragmented fashion
-  and at signiﬁcantly lower prices."
+  and at significantly lower prices."
 Such a result may not only prejudice the security holder, it may also adversely
 affect the general body of creditors.
 Section 420C of the Corporations Act adopts the recommendation of the Harmer
@@ -1195,7 +1195,7 @@ those debts for which receivers are personally liable pursuant to s 419(1). In R
 Pty Ltd (1999) 17 ACLC 16, where approval was given to the receiver to carry on the
 company's business, the court said that an element of the process pursuant to
 s 420C is to consider the position of the unsecured creditors, but the aim of the
-provision is not solely to beneﬁt those creditors.
+provision is not solely to benefit those creditors.
 While s 420C tries to ensure that a business of a company which should continue
 will not be terminated prematurely, the section may cause liquidators, in some
 cases, difficulties in those cases where it is not clear whether a business is worth
@@ -1206,7 +1206,7 @@ thereby forcing the receiver to obtain the approval of the court.
 If a liquidation is in progress when a receiver is appointed, the liquidator is
 responsible for paying preferential debts (for example, employees' wages). A
 liquidator who has insufficient funds can use assets subject to a security interest
-over circulating assets (ie the PPSA version of a ﬂoating charge) to pay those
+over circulating assets (ie the PPSA version of a floating charge) to pay those
 employee priorities referred to in s 433: see s 561.52 This does not take anything
 away from the responsibility of the receiver to pay preferential debts: Lumsden v
 Long (1998) 16 ACLC 1743.
@@ -1237,7 +1237,7 @@ Receivers are not bound by this rule by reason of PPSA, s 116(1).
 
 Other powers of a liquidator over a receiver
 [18.185] The liquidator has the opportunity to supervise the performance of the
-receiver's duties. Further, the liquidator may apply to the court for it to ﬁx the
+receiver's duties. Further, the liquidator may apply to the court for it to fix the
 remuneration of a receiver: s 425, for example where the liquidator wishes to
 challenge the amount charged.55
 
@@ -1254,12 +1254,12 @@ It should be noted that the process for seeking approval of "remuneration
 determinations" under IPSC, Div 60 does not apply to receivers because they are
 not "external administrators" under the IPSC: ss 5-15, 5-20.
 The liquidator can demand a report as to the affairs (RATA) of the company or
-other speciﬁed information from officers or former officers: s 475. A receiver and
+other specified information from officers or former officers: s 475. A receiver and
 manager could be subject to a demand for such a report as an officer of the
 company.
 A receiver can be examined under s 596A at the request of the liquidator
 concerning the examinable affairs of the company.56 The provision is broad and in
-any event, "examinable affairs", deﬁned in s 9, would include the receiver's
+any event, "examinable affairs", defined in s 9, would include the receiver's
 knowledge of the management and administration of the company.
 
 Receivership and voluntary administration
@@ -1279,13 +1279,13 @@ administrator are subject to the functions and powers of the secured creditor or
 receiver: s 442D(1).
 If a receiver was appointed before the commencement of the Pt 5.3A administration
 then the receivership may continue, but on application from the administrator, the
-court may order the secured creditor or the receiver not to perform speciﬁed
-functions or exercise speciﬁed powers: s 441D(2). A court would only make such an
-order if it is satisﬁed that the secured creditor's interests are protected: s 441D(3).
+court may order the secured creditor or the receiver not to perform specified
+functions or exercise specified powers: s 441D(2). A court would only make such an
+order if it is satisfied that the secured creditor's interests are protected: s 441D(3).
 An administrator is not permitted to dispose of property that is subject to a security
 interest except where such disposal is in the ordinary course of the company's
 business, the written consent of the secured creditor is obtained or the court gives
-leave: s 442C(1), (2). The court may only give leave if satisﬁed that arrangements
+leave: s 442C(1), (2). The court may only give leave if satisfied that arrangements
 have been made to protect adequately the creditor's interests: s 442C(3). The role of
 secured creditors in administration is discussed more fully in Chapter 19 from
 [19.110] to [19.126].
@@ -1338,7 +1338,7 @@ Graziers' Direct Meat Supply Ltd v Smart [1977] VR 386, 391. The receiver is the
 of the court and acts as a principal, so that if the receiver is empowered to manage
 the company and is able to make contracts the receiver makes them as principal
 and is personally liable for them: Batrouney v Forster [2015] VSC 541 at [41]-[42].
-However, the receiver has the right to be indemniﬁed out of the company's assets
+However, the receiver has the right to be indemnified out of the company's assets
 
 57 See further Fraser v ASIC [2007] FCAFC 85; (2007) 159 FCR 424; Boz One Pty Ltd v McLellan [2015]
    VSCA 68; (2015) 105 ACSR 325.
@@ -1384,7 +1384,7 @@ exercise of the express powers. The subsection states:
    Australia and elsewhere, all things necessary or convenient to be done for or in
    connection with, or as incidental to, the attainment of the objectives for which the receiver
    was appointed."
-In addition, s 420(2) confers a wide range of speciﬁc extra powers. These are subject
+In addition, s 420(2) confers a wide range of specific extra powers. These are subject
 to any restrictions imposed by the debenture and they must be exercised for the
 purpose of attaining the objectives for which the receiver was appointed. For
 
@@ -1409,7 +1409,7 @@ FCA 866 at [142] it was explained that:
    associated with the control of the property that is the subject of the appointment. That
    includes the ability, subject to the terms of the security agreement pursuant to which he or
    she is appointed, to exercise rights in relation to the property as if the receiver is the
-   absolute beneﬁcial legal owner to the exclusion of all others."
+   absolute beneficial legal owner to the exclusion of all others."
 
 Express powers
 [18.220] The express powers in the debenture, together with the powers in s 420
@@ -1430,7 +1430,7 @@ addition to the powers that are conferred pursuant to the debenture instrument.
 One important power which a receiver has is found in s 430 of the Corporations Act.
 That section permits a receiver to give notice to any one or more of certain persons
 that a report is required, which is to contain such information relating to the
-company's affairs as is speciﬁed in the receiver's notice. The persons who can be
+company's affairs as is specified in the receiver's notice. The persons who can be
 required to comply are:
 • present or former officers of the company;
 • those involved in the formation of the company, where the company has been
@@ -1472,7 +1472,7 @@ Finance Ltd (1992) 7 WAR 496; (1992) 10 ACLC 668); or whether a particular
 transaction is not unlawful solely because the counter-party to the transaction is a
 company associated with the entity which appointed the receivers and managers:
 White v Huxtable [2006] FCA 559; (2006) 24 ACLC 639. The courts may give
-directions that the receiver is justiﬁed in taking a particular course of action,
+directions that the receiver is justified in taking a particular course of action,
 particularly where there is some doubt about the legality of the proposed conduct.
 If the court's directions are followed by the receiver they may provide some
 measure of comfort in an application for relief under s 1318 if the receiver is sued in
@@ -1515,10 +1515,10 @@ receivership: Flexible Manufacturing Systems v Fernandez [2003] FCA 1491; (2004)
 ACLC 47.
 However, other claims may take priority over the receiver's claim for remuneration.
 These claims will be considered later.
-The court has the power to ﬁx the remuneration of a receiver on the application of
+The court has the power to fix the remuneration of a receiver on the application of
 the company's liquidator, the company's administrator, the administrator under a
 deed of company arrangement or ASIC: s 425(5).63 It is probably unlikely that a
-court would interfere and ﬁx remuneration where the debenture speciﬁed it, except
+court would interfere and fix remuneration where the debenture specified it, except
 in extenuating circumstances, as the debenture represents the contract made
 between the parties and it should be upheld. In exercising its powers, the court
 must have regard to whether the remuneration of the receiver is reasonable, taking
@@ -1536,9 +1536,9 @@ gross neglect, dishonesty or breach of duty.65
 Duties
 General
 [18.245] The receiver's primary function is to take possession of the assets,
-subject to the debenture, and to manage and realise them in order to beneﬁt the
+subject to the debenture, and to manage and realise them in order to benefit the
 appointor. The duties of a receiver are, generally:
-   "by realisation or proﬁtable management of the assets of the debtor company to produce
+   "by realisation or profitable management of the assets of the debtor company to produce
    cash and to apply it in and towards payment of the preferential creditors, meeting his
    own expenses and remuneration, paying off any security ranking ahead of the debenture
    and repaying the amount owing under the debenture. Thereafter he must account to the
@@ -1547,8 +1547,8 @@ In doing this, the receiver is subject to a range of duties. These stem from the
 debenture, the document of appointment, the Corporations Act and the general
 law. Some of a receiver's duties only apply in limited situations while others
 pervade the receivership.
-While a receiver must comply with some ﬁduciary obligations, a receiver cannot be
-classiﬁed as a ﬁduciary: Expo International Pty Ltd v Chant [1979] 2 NSWLR 820;
+While a receiver must comply with some fiduciary obligations, a receiver cannot be
+classified as a fiduciary: Expo International Pty Ltd v Chant [1979] 2 NSWLR 820;
 State Bank of NSW Ltd v Chia [2000] NSWSC 552; (2000) 50 NSWLR 587.
 It is not possible to deal with all of the duties which may be included in a
 debenture; rather, this section will consider the general law and statutory duties
@@ -1556,24 +1556,24 @@ imposed upon receivers. However, it can be said that the receiver owes duties to
 those who are interested in the equity of redemption relating to company assets:
 Downsview Nominees Ltd v First City Corporation Ltd [1993] AC 295, 311.
 Under the general law
-[18.250] The fundamental duty of receivers is to exercise their powers bona ﬁde
+[18.250] The fundamental duty of receivers is to exercise their powers bona fide
 to serve the purposes for which they were appointed: Downsview Nominees Ltd v
 First City Corporation Ltd [1993] AC 295. Duties are owed to the debenture holder
 under the appointment contract; the main responsibility is to realise the assets of
-the company subject of the security interest for the beneﬁt of the debenture holder:
+the company subject of the security interest for the benefit of the debenture holder:
 Expo International Pty Ltd v Chant [1979] 2 NSWLR 820. Receivers are bound to
 comply strictly with the terms of their appointment and must not act beyond their
 powers: Expo International Pty Ltd v Chant. They also owe duties to the debtor
-company, namely not to unduly sacriﬁce the mortgagor's equity (if any) in the
+company, namely not to unduly sacrifice the mortgagor's equity (if any) in the
 secured collateral and to account for the surplus (if any) after a sale of that
 collateral: Expo International Pty Ltd v Chant. As the court summarised in Wise
 Energy Group Co Ltd v Rocke [2014] WASC 505 at [123]:
    "…the position is that while the primary duty of a receiver is to realise the security
-   provided by the mortgagor, an exercise of the receiver's powers which wilfully sacriﬁces
+   provided by the mortgagor, an exercise of the receiver's powers which wilfully sacrifices
    the interests of the mortgagor or subsequent creditors, will be viewed as an exercise of
    those powers in bad faith. Examples include where a receiver fails to pursue bids in
    excess of what is necessary to satisfy the debt of the mortgagor, or where the receiver's
-   powers have been exercised in such a deﬁcient fashion as to impugn the sincerity of his or
+   powers have been exercised in such a deficient fashion as to impugn the sincerity of his or
    her desire to obtain the proper price for the assets of the mortgagor."
 
 66 Blanchard, The Law of Company Receiverships in Australia and New Zealand (Butterworths, 1982) at
@@ -1589,15 +1589,15 @@ Extent of the receiver's duty
 [18.255] There have been differences between the law of England and Australia
 in relation to the extent of a receiver's duty, that is, whether a receiver owes any
 duty to the company (and others, such as guarantors of the company's debt and
-unsecured creditors) over and above a duty to act bona ﬁde. This issue has arisen
+unsecured creditors) over and above a duty to act bona fide. This issue has arisen
 mostly in relation to the receiver's use of the power of sale. Given the receiver's
 paramount duty to the appointing secured creditor, in the absence of legal and
-equitable duties, there is a danger that the receiver may needlessly sacriﬁce any
+equitable duties, there is a danger that the receiver may needlessly sacrifice any
 surplus equity value held by the borrower in the secured assets by simply trying to
 recover the value of the security. In regulating the use of the power of sale of a
 receiver under the general law, the courts have traditionally applied the analogy of
 the mortgagee exercising the same power. Hence, in the leading case of Expo
-International Pty Ltd v Chant [1979] 2 NSWLR 820 Needham J identiﬁed three major
+International Pty Ltd v Chant [1979] 2 NSWLR 820 Needham J identified three major
 duties that a receiver owes. It was said that the duties of a receiver in selling
 property are similar to the duties of a mortgagee exercising a power of sale.
 • To exercise his or her powers in good faith. This involves the receiver acting
@@ -1607,16 +1607,16 @@ property are similar to the duties of a mortgagee exercising a power of sale.
   the receiver acts outside these powers then the receiver may be liable.
 • To account to the debtor company for any surplus after discharging the chargee's
   security. This duty requires the receiver to deliver to the company any surplus as
-  soon as the interests of the debenture holder have been satisﬁed.
+  soon as the interests of the debenture holder have been satisfied.
 These duties fall well short of the duty to take reasonable care that applies in the
 law of negligence. In fact, the view expressed by the Australian courts had been
-that negligent acts performed bona ﬁde will not impose personal liability on a
+that negligent acts performed bona fide will not impose personal liability on a
 receiver.67 Following the early High Court decision in Pendlebury v Colonial Mutual
 Life Assurance Society (1912) 13 CLR 676 the court in Expo International [1979] 2
 NSWLR 820, held that a receiver owes no such duty and that as a consequence a
 receiver owed no duty of care in selling the secured collateral. A receiver who acted
-bona ﬁde and took precautions to obtain a proper price was not liable if the price
-was below market value. Even where the receiver failed to act bona ﬁde in
+bona fide and took precautions to obtain a proper price was not liable if the price
+was below market value. Even where the receiver failed to act bona fide in
 exercising the power of sale the remedies available may fall well short of
 compensatory damages available in negligence. In equity, the remedies could
 include an order setting aside the sale (for example where the receiver sold to a
@@ -1645,7 +1645,7 @@ It has been said (Florgale Uniforms Pty Ltd v NAB [2004] VSC 65; (2004) 11 VR 54
    the property of a corporation. Section 420A introduced a statutory duty imposed upon
    controllers (including both receivers and mortgagees in possession) which echoes the
    Cuckmere test.
-   Section 420A is neither a codiﬁcation of pre-existing law nor designed to displace it. The
+   Section 420A is neither a codification of pre-existing law nor designed to displace it. The
    requirements of good faith as construed in Pendlebury and like authority co-exist with
    both the general of duty in ss 180 – 184 of the Corporations Act 2001 and the more rigorous
    statutory duty imposed by s 420A in relation to the power of sale."
@@ -1692,7 +1692,7 @@ Pty Ltd v Elliott & Tuthill (Mortgages) Pty Ltd [2002] NSWSC 16.
 Market value
 [18.265] The Harmer Report had recommended that receivers should be
 required to take reasonable care to sell property for the best price reasonably
-obtainable (at [234]), but the legislature saw ﬁt to insert the concept of "market
+obtainable (at [234]), but the legislature saw fit to insert the concept of "market
 value" in s 420A; the "Explanatory Memorandum to the Corporate Law Reform Bill
 1992 (Cth)" did not explain why this term was included. The Harmer Report had
 refrained from recommending any reference to "market value" because "obtaining
@@ -1722,7 +1722,7 @@ valuation unnecessary: Boz One Pty Ltd v McLellan [2015] VSCA 68; (2015) 105 ACS
 72 See also Re Australasian Barrister Chambers Pty Ltd (in liq) [2017] NSWSC 597.
 714    Keay's Insolvency: Personal and Corporate Law and Practice                    [18.265]
 
-The obligation under s 420A(1)(a) is not qualiﬁed by reference to the costs
+The obligation under s 420A(1)(a) is not qualified by reference to the costs
 associated with, or risks involved in, obtaining "not less than market value". In
 contrast, s 420A(1)(b) imposes an obligation to sell for "the best price that is
 reasonably obtainable, having regard to the circumstances existing when the
@@ -1733,7 +1733,7 @@ which appears to permit such matters to be taken into account: Florgale Uniforms
 Pty Ltd v NAB [2004] VSC 65; (2004) 11 VR 54. In any event, it is necessary for the
 court to determine whether the property has a market value in order to determine
 which limb of s 420A(1) to apply. In Fortson Pty Ltd v Commonwealth Bank of
-Australia [2008] SASC 49; (2008) 100 SASR 162 at [29] the court deﬁned market
+Australia [2008] SASC 49; (2008) 100 SASR 162 at [29] the court defined market
 value as follows:
   "Market Value is the estimated amount for which an asset should be exchanged on the
   date of valuation between a willing buyer and a willing seller in an arm's-length
@@ -1742,7 +1742,7 @@ value as follows:
 Market value was also considered in Boz One Pty Ltd v McLellan [2015] VSCA 68;
 (2015) 105 ACSR 325 at [165]:
   "The sale price of a property may be the best evidence of the market value of the property
-  if the court is satisﬁed that the mortgagee has taken proper steps in advertising and
+  if the court is satisfied that the mortgagee has taken proper steps in advertising and
   selling the property. If the process of advertising, marketing and sale of the property is
   shown to be unsatisfactory or inadequate, valuation evidence may be important to
   establish whether the price realised was an undervalue."
@@ -1752,7 +1752,7 @@ considered circumstances where a strata unit was valued, and then sold privately
 for more than the valuation, without the property being put on the open market.
 The Judge queried whether the above statement from Fortson required an open
 market sale, and stated (at [50]):
-  "It seems to me that there are signiﬁcant difficulties with any proposition that a sale,
+  "It seems to me that there are significant difficulties with any proposition that a sale,
   made at or above an apparently reliable valuation although without advertising and by
   private treaty, necessarily contravenes s 420A of the Corporations Act… If a receiver
   obtains a reliable valuation of the property … and then receives a plainly above market
@@ -1763,19 +1763,19 @@ market sale, and stated (at [50]):
   property, since a higher sale price may or may not have been obtained by incurring
   additional marketing and sale expenses and the additional delay of a sale process.
   However, s 420A of the Corporations Act does not impose an obligation to obtain the
-  maximum possible sale price for a property with a deﬁnite or determinable value, but
+  maximum possible sale price for a property with a definite or determinable value, but
   only to take reasonable steps to sell the property for not less than its market value."
 That case concerned an application to conduct a court inquiry into the conduct of a
 court appointed receiver under s 423. While Black J held that it was at least
 arguable (based on Fortson) that a failure to conduct a market sale of the property
-could breach s 420A, on the facts he was not satisﬁed that in that case any loss was
+could breach s 420A, on the facts he was not satisfied that in that case any loss was
 established.
 [18.270]                                                                 18 Receivership   715
 
-The court noted that while comparable sales after the speciﬁc sale may be useful, it
+The court noted that while comparable sales after the specific sale may be useful, it
 is important to note that market conditions change over time which may make
 subsequent sales of little or no use: at [166]. The court also held that it is not
-necessary for the court to determine what the market value was in order to ﬁnd a
+necessary for the court to determine what the market value was in order to find a
 breach of s 420A(1)(a), if the process does not demonstrate that the receivers took
 all reasonable care to obtain market value: at [167]. Indeed, a sale that reaches
 market value may still result from an unreasonable process that will breach
@@ -1792,7 +1792,7 @@ trigger liability merely because a hypothetical market valuation was not achieve
 through sale. Rather, s 420A imposes an obligation to take reasonable care in either
 trying to obtain the market value or, for property without a market value, the best
 price obtainable. What is expected of a receiver is a process of evaluating and
-balancing the competing costs and beneﬁts and the associated risks of various
+balancing the competing costs and benefits and the associated risks of various
 methods of sale. This does not call for, in every case, formal comparative analysis
 or documented calculations. The actual process of sale may need to be considered
 and whether, in that process, all reasonable care had been taken.73
@@ -1807,7 +1807,7 @@ Whether reasonable care has been exercised may need to be assessed in light of t
 fact that the appointor will typically be a lender rather than a developer or
 entrepreneur. What is reasonable from the point of view of a developer experienced
 in selling property may not be reasonable in assessing the conduct under s 420A of
-a selling ﬁnancier that has come into possession of the property to sell as
+a selling financier that has come into possession of the property to sell as
 mortgagee, and where experience in property sales is not within its core expertise.
 Nevertheless, any mortgagee should consider engaging agents experienced in the
 type of property being sold and in methods of sale: Investec Bank (Australia) Ltd v
@@ -1826,7 +1826,7 @@ FLR 359 sold valuable and rare breeding stock in a general market where they wer
 valued on a slaughter (per kilo) basis.
 Ultimately, each case will depend on its own facts and market circumstances.
 Section 420A is concerned with assessing what a reasonable process is, based on
-speciﬁc circumstances. It does not prescribe a speciﬁc set of steps that must
+specific circumstances. It does not prescribe a specific set of steps that must
 invariably be taken: see Boz One Pty Ltd at [371]. This is demonstrated by Boz One
 Pty Ltd where receivers sold shares in a private company and assigned a debt owed
 to another related company in a private sale without conducting a public sale
@@ -1841,7 +1841,7 @@ secured loan: Expo International Pty Ltd v Chant [1979] 2 NSWLR 820.
 Assets with no market value
 [18.275] Section 420A recognises that assets may not have a market value. That
 was the case in Florgale Uniforms, where the assets comprised industry and sporting
-apparel, and corporate uniforms. The court found it did not have a deﬁnite value
+apparel, and corporate uniforms. The court found it did not have a definite value
 "clearly and obviously established as a market price" or a sufficiently certain
 "determinable value" by reference to closely comparable sales or market
 experience.74 The stock was specialised and had a narrow or "niche" market.
@@ -1866,7 +1866,7 @@ said at [388]:
    250.
 [18.290]                                                                18 Receivership    717
 
-   and collateral mortgagors) to equitable remedies in respect of a faulty or deﬁcient exercise
+   and collateral mortgagors) to equitable remedies in respect of a faulty or deficient exercise
    of the power of sale are enhanced and strengthened, by reference to the higher duty
    established by s 420A."
 
@@ -1896,18 +1896,18 @@ may be criminally liable if they fall within s 184. Criminal liability only atta
 there is an element of dishonesty and either intention or recklessness in obtaining a
 gain or causing the company a detriment.
 
-Speciﬁc statutory duties of receivers: Reporting and notiﬁcations
-[18.290] There are a number of speciﬁc statutory duties imposed upon receivers
-and receivers and managers that relate to notiﬁcation requirements and ongoing
+Specific statutory duties of receivers: Reporting and notifications
+[18.290] There are a number of specific statutory duties imposed upon receivers
+and receivers and managers that relate to notification requirements and ongoing
 reporting obligations. These include the obligation to lodge a notice of appointment
 with ASIC, and to lodge annual returns and accounts with ASIC and when the
 receivership ends: ss 422A, 422B.
 There are particular obligations for example to ensure all company documents
 include a reference to the fact that the company is in receivership (s 428); to obtain
-reports from the directors (s 429(2)(b)); to attend to tax notiﬁcations and obligations
+reports from the directors (s 429(2)(b)); to attend to tax notifications and obligations
 (Taxation Administration Act 1953 (Cth), Sch 1, s 260-75), and to become registered as
 the representative of the company for purposes of the A New Tax System (Goods and
-Services Tax) Act 1999 (Cth), Div 58. There are more signiﬁcant obligations to report
+Services Tax) Act 1999 (Cth), Div 58. There are more significant obligations to report
 to ASIC concerning any commission of offences by a company's personnel
 (Corporations Act, s 422): see [18.305].
 
@@ -1933,7 +1933,7 @@ and lodging such reports.
 
 Section 430 reports
 [18.300] In addition, a receiver may serve a notice requiring one or more of the
-classes of persons mentioned in s 430 to provide a report which speciﬁcally
+classes of persons mentioned in s 430 to provide a report which specifically
 addresses the information relating to the affairs of the company which is sought by
 the receiver in the notice.
 The classes of persons referred to in s 430 are listed as present or former company
@@ -1963,7 +1963,7 @@ This section is equivalent to s 533 in relation to liquidators.
 
 The s 421A report
 [18.310] In the past, the law has not required receivers to disclose any
-information to shareholders and creditors concerning the ﬁnancial affairs of a
+information to shareholders and creditors concerning the financial affairs of a
 company to which a receiver is appointed and its future prospects. The Harmer
 Report observed that one of the major complaints of unsecured creditors and
 shareholders is that they receive little information about progress of the
@@ -1975,7 +1975,7 @@ major elements of the section are:
 • the report must be lodged within two months of the date of the appointment
   (referred to as "the control day").
 This obligation is only imposed on a receiver who has a general management role.
-The section applies to a "managing controller" and this term is deﬁned in s 9 as:
+The section applies to a "managing controller" and this term is defined in s 9 as:
    (a) a receiver and manager of the [corporation's] property; or
    (b) any other controller of that [corporation's] property who has functions or powers in
        connection with managing a corporation.
@@ -1986,7 +1986,7 @@ prejudice either the corporation's interests or the achievement of the receiver'
 objectives: s 421A(4). However, the receiver must indicate, in such a case, that
 information has been omitted and the information not disclosed must be
 summarised: s 421A(5).
-There is no obligation imposed on the receiver to ﬁle any other reports during the
+There is no obligation imposed on the receiver to file any other reports during the
 course of the receivership though it is often during that time that dissatisfaction
 sets in and creditors and shareholders want further information.
 
@@ -2033,7 +2033,7 @@ If officers fail to comply with s 590(1) they commit an offence.
 
 Dealing with the assets – retention of title and the PPSA
 [18.325]     The assets to which a receiver is entitled, on behalf of the debenture
-holder, are limited to those in respect of which the company is the beneﬁcial owner
+holder, are limited to those in respect of which the company is the beneficial owner
 when the enforcement of the security interest occurred. Naturally, any assets to
 which the company does not have title are not available to the receiver. It should be
 noted that traditionally retention of title (ROT) arrangements and leasing and
@@ -2042,8 +2042,8 @@ companies as devices to protect the owners of the goods rather than using an
 outright sale on credit terms. However, the introduction of the PPSA on 30 January
 2012 has changed the legal relationship between suppliers and their customers by
 expanding the concept of security to include many arrangements that had
-previously not been classiﬁed as secured transactions. ROT supply arrangements,
-ﬁnance leases, commercial consignments, certain trust arrangements and certain
+previously not been classified as secured transactions. ROT supply arrangements,
+finance leases, commercial consignments, certain trust arrangements and certain
 transfers of book debts are treated by the PPSA as "security interests", which makes
 the suppliers of goods under these arrangements secured parties (and secured
 creditors if they are owed money under the arrangements).
@@ -2052,7 +2052,7 @@ creditors if they are owed money under the arrangements).
    v White [2005] NSWCA 173.
 [18.325]                                                                  18 Receivership     721
 
-Classiﬁcation as a security interest under the PPSA does not mean that the
+Classification as a security interest under the PPSA does not mean that the
 company in receivership is deemed to have title, or that the rights and powers that
 the receiver has over the secured collateral will necessarily be different to the
 position prior to the PPSA. A receiver appointed under a properly perfected "all
@@ -2067,9 +2067,9 @@ property: Re Arcabi Pty Ltd; Ex parte Theobald [2014] WASC 310; (2014) 288 FLR 2
 Re Wine National Pty Ltd [2014] NSWSC 1516. See however, Re White; Mossgreen Pty
 Ltd (Admins Apptd) v Robertson [2018] FCAFC 63, where an equitable lien in favour
 of voluntary administrators over an auction house business was not found to be
-justiﬁed.
+justified.
 Treating suppliers of goods as secured creditors because they have a ROT
-arrangement or a ﬁnance lease does change the dynamics of the receivership. There
+arrangement or a finance lease does change the dynamics of the receivership. There
 is a risk to suppliers of goods that are operating under a security arrangement that
 they will not recognise this and fail to properly perfect their security interest under
 the PPSA. This will have the result that they will lose priority to perfected secured
@@ -2082,7 +2082,7 @@ than a general all assets security interest: PPSA s 62.77
 There is also a risk for the supplier that the debtor company will enter liquidation
 or voluntary administration, which may result in their unperfected security interest
 in the supplied goods "vesting" in the debtor company as grantor of the security
-interest: PPSA, s 267. This occurred in the ﬁrst major decision on the Australian
+interest: PPSA, s 267. This occurred in the first major decision on the Australian
 PPSA, Re Maiden Civil (P&E) Pty Ltd; Albarran and Pleash v Queensland Excavation
 Services Pty Ltd [2013] NSWSC 852. In that case the lessor of large commercial
 excavation equipment that was supplied to Maiden Civil under an informal hire
@@ -2091,16 +2091,16 @@ perfect its security interest at the time that Maiden Civil went into voluntary
 administration. Under s 267 of the PPSA, the lessor's rights as owner of the
 equipment vested in Maiden because the lessor's security interest was unperfected
 when Maiden entered voluntary administration. Ownership was not relevant
-because the PPSA treated the ﬁnance leasing arrangement as a security interest that
+because the PPSA treated the finance leasing arrangement as a security interest that
 needed to be perfected. The receivers appointed over Maiden Civil took priority
-over the equipment for the perfected ﬁnance company which had ﬁnanced their
+over the equipment for the perfected finance company which had financed their
 lease.
 
 77 It should be noted that proceeds paid into an ADI account, that is itself covered by the ADI's
    perfected security interest, will have a higher priority than the PMSI holder: PPSA, ss 57, 75.
 722      Keay's Insolvency: Personal and Corporate Law and Practice                                  [18.330]
 
-Another signiﬁcant ﬁnding was that the receiver had power over the items of
+Another significant finding was that the receiver had power over the items of
 equipment because they were included in the schedule to the debenture deed as
 forming part of the collateral of the loan.
 In summary, suppliers of goods and other tangibles (such as motor vehicles) must
@@ -2120,7 +2120,7 @@ administration. However, the court held that there was no PPSA security interest
 and THC was simply the owner of the goods. The administrators were held liable
 for damages for breach of duties under both the Corporations Act and under the law
 of bailment.
-Hence, before selling, a receiver should be satisﬁed either that there is no retention
+Hence, before selling, a receiver should be satisfied either that there is no retention
 of title (ROT) claim or, if there is, that it is not effective or otherwise unperfected
 under the PPSA, in which case the appointor's perfected interest will take
 priority.79
@@ -2136,10 +2136,10 @@ All moneys clause
 [18.335] A varied form of retention of title clause is one which seeks to reserve
 title in all of the goods supplied pursuant to a particular delivery until all
 outstanding invoiced amounts owed by the buyer to the supplier on any account
-have been satisﬁed (an "all moneys" clause). This strategy has been sanctioned by
+have been satisfied (an "all moneys" clause). This strategy has been sanctioned by
 courts in both Australia and England. A supplier who has supplied goods under a
 contract containing a general retention of title (ROT) clause may wish to argue that
-if the goods are sold by the buyer company to a bona ﬁde purchaser for value
+if the goods are sold by the buyer company to a bona fide purchaser for value
 without notice then that supplier can "trace" the proceeds of sale and be paid in
 
 78 See also White v Spiers Earthworks Pty Ltd [2014] WASC 139; (2014) 99 ACSR 214; Re OneSteel
@@ -2163,7 +2163,7 @@ appointed pursuant to a charge over nearly all of the debtor company's assets bu
 secured creditor, other than the receiver's appointor, may have held a prior security
 in relation to part of the property. This prevented the receiver from disposing of all
 of the company's business as a going concern, at the most favourable price, and
-could have hampered or even thwarted the most proﬁtable realisation of the
+could have hampered or even thwarted the most profitable realisation of the
 company's property for all interested parties. As a consequence, the Harmer Report
 recommended that a receiver should, where there is a prior security, have the right
 to sell the property provided that the secured creditor's interests are adequately
@@ -2171,7 +2171,7 @@ protected: Harmer Report, at [210]-[214].
 This recommendation has now been implemented in the Corporations Act, s 420B. In
 order to sell the property the receiver is required to apply to the court for an order
 permitting the sale. The court is only entitled to make the order for sale if it is
-satisﬁed that (s 420B(2)):
+satisfied that (s 420B(2)):
 • apart from the existence of the prior security interest, the receiver would have
   the power to sell;
 • the receiver has taken all reasonable steps to obtain the prior secured party's
@@ -2188,7 +2188,7 @@ itself. If they were sold separately a lower return would be produced than if th
 were sold together.
 The court can control the sale and protect the prior secured party by attaching
 conditions to the sale of the property by the receiver, for example that all or part of
-the sale proceeds be available for the prior secured creditor. The beneﬁt of the
+the sale proceeds be available for the prior secured creditor. The benefit of the
 section appears to be that rigid adherence to the normal rules and right of priorities
 will not be allowed to impede what the receiver considers is the most effective
 realisation of the company's assets.
@@ -2202,21 +2202,21 @@ carrying on of business. If a receiver is not given the power in the debenture,
 reliance may be placed on s 420(2)(h), which enables a receiver to carry on the
 company's business for the purpose of attaining the objectives for which the
 appointment was made.
-The power to carry on business must therefore be used only to fulﬁll the purposes
+The power to carry on business must therefore be used only to fulfill the purposes
 for which the receiver was appointed. When appointed, the receiver may be
 confronted with what is often a difficult decision. It is probably only where the
 business shows great prospects on the one hand, or is in a very poor state on the
 other, that the decision is easy. A receiver may carry on business for a number of
-reasons,80 including: to assess proﬁtability and the available options; for the
-completion of a beneﬁcial contract; to keep the business going with the hope of
+reasons,80 including: to assess profitability and the available options; for the
+completion of a beneficial contract; to keep the business going with the hope of
 securing a buyer for the business as a whole (it being generally far better to sell a
 business as a whole rather than in parts); or, to provide for the repayment of the
-appointor from proﬁts, the sale of unnecessary assets or through a reﬁnancing
+appointor from profits, the sale of unnecessary assets or through a refinancing
 arrangement.
 As noted previously, in carrying on the business, while a receiver owes duties to
 the company, the receiver's primary duty is to the appointor, and the receiver is
 under no obligation to carry on the company's business at the appointor's expense,
-even in the case of a high proﬁle Australian company.81
+even in the case of a high profile Australian company.81
 The continuation of the business can entail obligations being assumed by the
 receiver. The receiver is liable for all debts incurred during the course of the
 receivership, under s 419 Corporations Act: see [18.440]. This ensures that any
@@ -2296,11 +2296,11 @@ according to the priority rules of the PPSA, which are found in Pt 2.6 of that A
 However, the PPSA does not generally apply to security interests that arise under
 statute, hence the Commissioner's right to the funds once a notice has been served
 under s 260-5 is a security interest that is excluded from the operation of the PPSA.
-This is conﬁrmed by the Personal Property Securities Regulations 2011 (Cth), reg 1.4
-which speciﬁcally excludes s 260-5 notices from the PPSA. There is therefore no
+This is confirmed by the Personal Property Securities Regulations 2011 (Cth), reg 1.4
+which specifically excludes s 260-5 notices from the PPSA. There is therefore no
 need for the Commissioner to register his interest in money proceeds.
 This results in the competition between a security interest and an ATO garnishee
-notice being determined according to which is the ﬁrst in time to arise. As a PPSA
+notice being determined according to which is the first in time to arise. As a PPSA
 security agreement can include "proceeds" (PPSA, s 31), a security interest will
 arise automatically when those proceeds are generated by the conduct of the debtor
 company, that is, when it sells goods: PPSA, s 32. The priority time of the security
@@ -2336,22 +2336,22 @@ This is to be done before the receiver can pay the debenture holder. In Re CMI
 
 Industrial Pty Ltd; Byrnes v CMI Ltd [2015] QSC 96; (2015) 105 ACSR 635 at [45], the
 court explained the rationale of s 433, that it is:
-   "… a remedial provision that favours the speciﬁed priority creditors giving them a
+   "… a remedial provision that favours the specified priority creditors giving them a
    statutory entitlement to be paid from assets that would have otherwise not been available,
-   because those assets would have become the subject of a ﬁxed charge, when the ﬂoating
+   because those assets would have become the subject of a fixed charge, when the floating
    charge crystallised on the appointment of the receivers."
-A "circulating security interest" is deﬁned in s 51C as meaning a security interest
+A "circulating security interest" is defined in s 51C as meaning a security interest
 that is either a PPSA security interest that has attached to circulating assets (and the
-grantor has title to the assets) or a ﬂoating charge: see generally Commonwealth v
+grantor has title to the assets) or a floating charge: see generally Commonwealth v
 Byrnes [2018] VSCA 41; (2018) 124 ACSR 246. An asset is only circulating while it
 circulates in the ordinary course of business: Langdon, Re Forge Group Ltd (rec and
 man apptd) (in liq) [2017] FCA 170; (2017) 118 ACSR 434. As noted above, the PPSA
 does not cover all forms of personal property and some security arrangements are
-excluded by PPSA, s 8, so the ﬂoating charge will continue to be used for certain
+excluded by PPSA, s 8, so the floating charge will continue to be used for certain
 arrangements: Langdon, Re Forge Group Ltd (rec and man apptd) (in liq) at [40]. That
 said, the concept of circulating assets substantially overlaps with the class of
-property that has traditionally been covered by a ﬂoating charge. Circulating assets
-are deﬁned in PPSA, s 340. An asset is not a circulating asset if the secured party
+property that has traditionally been covered by a floating charge. Circulating assets
+are defined in PPSA, s 340. An asset is not a circulating asset if the secured party
 has control over it, unless the secured party has given permission for the grantor to
 deal with the property: Commonwealth v Byrnes [2018] VSCA 41; (2018) 124 ACSR
 246 (known as the Amerind appeal). In that case it was held that "cash at bank;
@@ -2364,11 +2364,11 @@ Section 433 operates over assets covered by the circulating security interest at
 date of the commencement of the receivership: Re CMI Industrial Pty Ltd; Byrnes v
 CMI Ltd [2015] QSC 96; (2015) 105 ACSR 635; Langdon, Re Forge Group Ltd (rec and
 man apptd) (in liq) [2017] FCA 170; (2017) 118 ACSR 434. This means that if the
-receiver trades the business on and thereby generates trading proﬁts, these proﬁts
+receiver trades the business on and thereby generates trading profits, these profits
 are not covered by s 433 and can be paid in full to the secured creditor: at [47]. In
 Langdon, a tax refund that arose because of the closing down of a business and paid
 after the receiver was appointed was held not to be covered by s 433. A tax refund
-that was identiﬁable before the appointment of receivers was covered by s 433 in
+that was identifiable before the appointment of receivers was covered by s 433 in
 Commonwealth v Byrnes [2018] VSCA 41; (2018) 124 ACSR 246.
 Where the company in receivership has (or is) acting as a trustee, its right of
 indemnity (if available) is not the property of the company for the purposes of
@@ -2389,7 +2389,7 @@ The effect of s 433 continues if the company remains in receivership and enters
 liquidation: Divitkos, Re ExDVD.
 
 Insurance in respect of liabilities to third parties
-[18.375] Section 433(3)(a) speciﬁes that the ﬁrst debt to be paid in priority to any
+[18.375] Section 433(3)(a) specifies that the first debt to be paid in priority to any
 claim for principal and interest under the debenture is to be any amount that in a
 winding up is payable to unsecured debts pursuant to s 562. That section is an
 exception to the pari passu principle in that amounts received by the company or
@@ -2438,7 +2438,7 @@ Employee's wages including superannuation
 priority exists under s 433(3)(c) of the Corporations Act for the wages, superannuation
 contributions and the superannuation guarantee charge payable to employees up to
 the date of the appointment of the receiver. There is a limit of $2,000 in respect of
-the days, for a person deﬁned as an "excluded employee", that are classiﬁed as
+the days, for a person defined as an "excluded employee", that are classified as
 "non-priority days": ss 556(1)(e), 556(2), 433(3)(c).
 Excluded employees
 [18.395] The expression "excluded employees" in s 556 of the Corporations Act
@@ -2446,20 +2446,20 @@ includes employees who have been directors at any time during the 12 months
 preceding the appointment, employees who are directors after the appointment,
 employees who are spouses of directors and former directors and relatives of
 directors and former directors.
-The term "non-priority days" is deﬁned in s 556(2) to mean days on which an
+The term "non-priority days" is defined in s 556(2) to mean days on which an
 excluded employee was a director of the company, a spouse or other relative of a
-director. The result of this deﬁnition, together with the limits imposed by
+director. The result of this definition, together with the limits imposed by
 s 556(1A) – (1C), is that if a person is an excluded employee at the time of the
 distribution, but is owed wages for the period of time before they became, say a
 director, they can claim the full amount of their unpaid wages: McGrath v Sturesteps
 [2011] NSWCA 315.
 Employees' leave entitlements
-[18.400] The next priority is speciﬁed in s 556(1)(g) and made applicable to
+[18.400] The next priority is specified in s 556(1)(g) and made applicable to
 receiverships by s 433(3)(c). It provides that employees are to receive all amounts
 due in respect of leave of absence up to the date of the appointment of the receiver.
 The amount payable is not limited, except in the case of "excluded employees" who
 are entitled to be paid only up to $1,500 in relation to "non-priority days":
-s 556(1B). "Leave of absence" is deﬁned in s 9 to include "long service leave,
+s 556(1B). "Leave of absence" is defined in s 9 to include "long service leave,
 extended leave, recreation leave, annual leave, sick leave or any other form of leave
 of absence from employment". The leave of absence must be a right pursuant to an
 industrial instrument such as a contract of employment or award: s 9.
@@ -2469,14 +2469,14 @@ claim a retrenchment payment an employee must have the right pursuant to either
 an award or legislation. "Excluded employees" are not entitled to any amount
 which is attributable to "non-priority days": s 556(1C).
 Advances to pay employee entitlements
-[18.410] The ﬁnal priority in s 433(3)(c) is that given by s 560. It provides that
+[18.410] The final priority in s 433(3)(c) is that given by s 560. It provides that
 persons who advanced funds to the debtor company to enable it to pay wages,
 leave or retrenchment pay are to have priority in respect of the amounts advanced
 730      Keay's Insolvency: Personal and Corporate Law and Practice                             [18.415]
 
-to the same extent as the employees. For example, a bank or other ﬁnancier might
+to the same extent as the employees. For example, a bank or other financier might
 agree to pay staff wages during the period of the carrying on of a business in
-receivership. The effect of this section is to give that ﬁnancier to obtain a priority by
+receivership. The effect of this section is to give that financier to obtain a priority by
 standing in the priority position of the employees. This section is also relied upon
 by the Commonwealth in respect of moneys paid to employees for their unpaid
 entitlements under the Fair Entitlements Guarantee Act 2012 (Cth) (ss 29, 31).90
@@ -2489,7 +2489,7 @@ case even if there is a subsequent winding up of the company.
 
 CHALLENGING THE RECEIVER
 [18.420] In the course of the administration of a receivership a person may be
-dissatisﬁed with the receiver's actions or omissions and take court action under the
+dissatisfied with the receiver's actions or omissions and take court action under the
 Corporations Act.
 There are two avenues.
 
@@ -2503,12 +2503,12 @@ challenged under this section, "managerial" or discretionary decisions; a refusa
 the receiver to act in a way that is required; and acting in a way that the receiver
 should not act.
 A person bringing a s 599 appeal must demonstrate that the receiver's decision is
-informed by some error of law or signiﬁcant factual error or is otherwise so
+informed by some error of law or significant factual error or is otherwise so
 unreasonable that it should not be allowed to stand: ASIC v Forestview Nominees Pty
 Ltd [2006] FCA 1530; (2006) 24 ACLC 1567. In that case, directors unsuccessfully
 challenged the decision of receivers not to release company funds to allow them to
 challenge ASIC's claim to wind up the company. There was limited cash available
-to the company and there were signiﬁcant liabilities to the mortgagee and potential
+to the company and there were significant liabilities to the mortgagee and potential
 liabilities to other creditors. Needless to say the courts have found that the former
 s 1321 (now s 599) cannot be used by the court to order a receiver to do something
 that is prohibited by statute or not authorised under the debenture: Fraser v ASIC
@@ -2524,7 +2524,7 @@ or to ASIC about the conduct of a receiver in performing their duties, and eithe
 body may inquire into the receiver's activities: s 423(1)(a) – (b).91 This section deals
 with issues of concern about the misconduct of the receiver; it is not to be used to
 review a commercial decision of the receiver with which the applicant is
-dissatisﬁed; s 599 should be used: ASIC v Forestview Nominees Pty Ltd [2006] FCA
+dissatisfied; s 599 should be used: ASIC v Forestview Nominees Pty Ltd [2006] FCA
 1530; (2006) 24 ACLC 1567.
 Also, ASIC, of its own initiative, may report to the court any matter that in its
 opinion is a "misfeasance, neglect or omission" by a receiver and the court may
@@ -2532,14 +2532,14 @@ make orders that any loss to the company be paid: s 423(2).
 
 ADMINISTRATION OF A RECEIVERSHIP – COURT-APPOINTED
 RECEIVERS
-[18.425] Court-appointed receivers are considered only brieﬂy because they are
+[18.425] Court-appointed receivers are considered only briefly because they are
 not common and much of what has already been discussed applies to these
 receivers.
 When the court appoints a receiver the court itself in effect assumes control of the
-assets over which the receiver is appointed. Those assets will be speciﬁed in the
+assets over which the receiver is appointed. Those assets will be specified in the
 court's order. Sometimes the receiver will be appointed merely to preserve the
 assets and hence to act as a caretaker, and in such a situation will be appointed to
-speciﬁed items. In other cases the court may appoint the receiver over all of the
+specified items. In other cases the court may appoint the receiver over all of the
 property of the company.
 It is rare for a court to give a receiver an unrestricted power to manage the affairs of
 the company. The court may give the receiver the power to manage the company as
@@ -2550,7 +2550,7 @@ Direct Meat Supply Ltd [1978] VR 633. It appears that leave will only be granted
 where the sale is necessary to preserve some legal right.
 When a receiver realises assets, he or she must act in the interests of all parties. Like
 a privately appointed receiver, while the receiver must ensure that a sale is effected
-at the earliest possible time, the interests of the company must not be sacriﬁced
+at the earliest possible time, the interests of the company must not be sacrificed
 merely to obtain an expeditious sale. Once the receiver has realised assets, the
 realised funds must be paid strictly pursuant to the directions of the court.
 It is not clear if the appointment of a receiver by the court serves to terminate
@@ -2670,7 +2670,7 @@ accrue under a contract of employment that was entered prior to the receiver's
 appointment: Sipad Holding ddpo v Popovic (1995) 19 ACSR 108; McEvoy v Incat
 Tasmania Pty Ltd [2003] FCA 810; (2003) 130 FCR 503.96
 Section 419 also operates only where the debt is one arising from a transaction of a
-kind speciﬁed in the subsection; for other transactions the common law rule apply:
+kind specified in the subsection; for other transactions the common law rule apply:
 AGL Victoria Pty Ltd v Lockwood [2003] VSC 453; (2003) 10 VR 596.
 At general law, a court-appointed receiver contracts with third parties as principal
 and incurs personal liability, subject to their right of indemnity out of the company
@@ -2719,7 +2719,7 @@ the receiver is deemed not to have adopted the lease even though the company
 remains in occupation or retained possession of the property after the advent of
 receivership.97
 The Harmer Report was of the view that this was inequitable as the receiver could
-continue to obtain the beneﬁt of the occupation of the premises without attracting
+continue to obtain the benefit of the occupation of the premises without attracting
 any liability; the lessor's only right was against the company in the capacity of an
 unsecured creditor. While a lessor might initiate eviction proceedings, a substantial
 amount of time could elapse before an order was obtained: Harmer Report, at [218].
@@ -2742,7 +2742,7 @@ to give notice under s 419A(3) to the lessor.
 
 Section 433
 [18.465] Section 433 of the Corporations Act has been explained in detail [18.370],
-the section imposing an obligation on a receiver to pay certain employee beneﬁts if
+the section imposing an obligation on a receiver to pay certain employee benefits if
 
 97 See however, Wellard, "Debts 'Incurred' by Receivers, Administrators and Liquidators: The Case for
    a Harmonised Construction of ss 419, 443A and 556(1)(a) of the Corporations Act" (2013) 21
@@ -2755,7 +2755,7 @@ the receiver is acting under a circulating security interest.99 If the receiver 
 adhere to this priority regime then he or she is personally liable to the
 employees.100 This is the case even if there is a subsequent winding up of the
 company and a liquidator is appointed.101 If the receiver is required to pay the
-moneys owed to the employees, the receiver is entitled to be indemniﬁed from
+moneys owed to the employees, the receiver is entitled to be indemnified from
 company property.
 
 Relief from liability
@@ -2801,7 +2801,7 @@ from the court. Section 419(3) of the Corporations Act permits a court in any ci
 [18.495]                                                                          18 Receivership      737
 
 proceedings brought against a receiver, who has been invalidly appointed, to grant
-relief if it is satisﬁed that the receiver believed on reasonable grounds that he or she
+relief if it is satisfied that the receiver believed on reasonable grounds that he or she
 had been properly appointed. The court may in fact hold the appointor liable
 instead of the receiver. This section could be used by a receiver to obtain relief from
 liability, for example, for trespass.
@@ -2825,7 +2825,7 @@ receivers applies with respect to court-appointed receivers.
 Powers
 [18.490] The nature of the powers endowed on a receiver is determined by the
 order of the court which makes the appointment. Such powers are expanded or
-deﬁned in the Corporations Act, as with a privately appointed receiver. The powers
+defined in the Corporations Act, as with a privately appointed receiver. The powers
 referred to in s 420 will be available to a court-appointed receiver, unless excluded
 or varied by the court order.
 The powers granted to a receiver by a court will be determined by the
@@ -2863,7 +2863,7 @@ determining remuneration: Templeton v ASIC [2015] FCAFC 137; Sanderson v Sakr
 [2017] NSWCA 38; (2017) 118 ACSR 333. The application of the principles for
 determining court appointed receivership post-Sakr was summarised in Re Banksia
 Securities Ltd (in liq) (rec and man apptd) [2017] NSWSC 540. One of the more
-signiﬁcant points to come from Sakr, and applied in Banksia, is a conﬁrmation that
+significant points to come from Sakr, and applied in Banksia, is a confirmation that
 fees are not to be denied or reduced simply because the work conducted by the
 receiver did not lead to an increase in funds available for distribution.
 It is normal for remuneration to be sought and ordered at the time of the
@@ -2895,20 +2895,20 @@ matter to make the application.
 Duties
 [18.500] It is not the fundamental function of a court-appointed receiver, unlike
 a receiver appointed by a debenture holder, to see that the debenture holder is
-repaid. As an officer of the court, the appointment is for the beneﬁt of all those
+repaid. As an officer of the court, the appointment is for the benefit of all those
 interested in the relevant assets: Cape v Redarb Pty Ltd [1992] FCA 31; (1992) 107 FLR
 362; Viola v Anglo-American Cold Storage Co [1912] 2 Ch 305, 311.
-The duties of a court-appointed receiver will ﬂow from the order of the court, the
-Corporations Act and the fact that it is an appointment of a ﬁduciary nature: see
-Batrouney v Forster [2015] VSC 541. The receiver is deﬁned as an "officer" under s 9
+The duties of a court-appointed receiver will flow from the order of the court, the
+Corporations Act and the fact that it is an appointment of a fiduciary nature: see
+Batrouney v Forster [2015] VSC 541. The receiver is defined as an "officer" under s 9
 of the Corporations Act, and therefore the receiver owes the duties of an officer.
 Some of these duties are:
 • to comply with the terms of the order of the court;
 • to collect the property subject to the appointment;
 • to account for any receipts;
 • to exercise reasonable care and skill to preserve the assets of the company;
-• not to abuse his or her ﬁduciary obligations; and
-• to obtain the maximum beneﬁt from the property of the company for all
+• not to abuse his or her fiduciary obligations; and
+• to obtain the maximum benefit from the property of the company for all
   interested parties.
 
 Directions
@@ -2976,11 +2976,11 @@ While the powers of officers are limited by an receiver's appointment, the direc
 do have authority in two situations: see generally Oswal v Burrup Fertilizers Pty Ltd
 (rec and man apptd) [2013] FCAFC 9; (2013) 295 ALR 708.
 First, they have a continuing obligation to carry out their statutory directed duties,
-such as the ﬁling of accounts and returns. Thus, the directors and the secretary are
+such as the filing of accounts and returns. Thus, the directors and the secretary are
 required to submit a report as to affairs (a RATA) within 10 days of being served
 with notice of appointment: s 429(2)(b). A receiver can require an officer to report on
 any aspect of the affairs of the company: s 430. As well, directors continue to owe
-duties to their company in a receivership but their ﬁduciary duties are not so
+duties to their company in a receivership but their fiduciary duties are not so
 [18.535]                                                                  18 Receivership     741
 
 strictly applied when a company ceases to trade: Rosetex Co Pty Ltd v Licata (1994)
@@ -2994,7 +2994,7 @@ Re Geneva Finance Ltd.
 The second area where directors can retain some residual authority is over assets of
 the company, if any, falling outside the charge under which the receiver is
 appointed.
-One signiﬁcant asset can be a litigation action available to the company against a
+One significant asset can be a litigation action available to the company against a
 third party. On appointment, the power to initiate or continue legal proceedings on
 behalf of the company is transferred to the receiver in so far as the proceedings
 concern charged property, or if the debenture itself charges all property of the
@@ -3003,7 +3003,7 @@ mean that the directors lose their residual power to themselves institute
 proceedings, as long as in ding this they would not prejudicially impacts upon the
 debenture holder's interests by threatening or imperilling the assets subject to the
 charge.110
-There need not be a conﬂict between what the directors regard as being in the best
+There need not be a conflict between what the directors regard as being in the best
 interests of the company and what the receiver regards as being in the best interests
 of the secured creditor. In such a case, the relationship between the directors and
 the receiver is to be determined between themselves and, in the event of a dispute,
@@ -3050,7 +3050,7 @@ A debenture holder with a security interest which takes priority to the one unde
 which the receiver has been appointed can appoint a receiver over the assets in
 order to enforce his or her security. Those secured creditors with interests subject to
 the security interests under which the appointment is made must wait until the
-debenture holder is satisﬁed, unless they can attack the validity of the security
+debenture holder is satisfied, unless they can attack the validity of the security
 interest or the appointment.
 
 Effects on pre-existing contracts
@@ -3069,7 +3069,7 @@ s 434J into the Corporations Act. That provision provides that a right can't be
 enforced against a corporation for:
 (a) the reason of the appointment or existence of a managing controller of the
      whole or substantially the whole of the corporation's property; or
-(b) the corporation's ﬁnancial circumstances (where a managing controller is
+(b) the corporation's financial circumstances (where a managing controller is
      appointed over the whole or substantially the whole of the corporation's
      property); or
 (c) a prescribed reason; or
@@ -3087,7 +3087,7 @@ terminate or vary the contract based on the appointment of a managing controller
 or any other of the reasons above in (a)-(d) (based on s 434J(1)), it will not be
 re-engaged once the managing controllership ends.
 The court is given the power to order that rights are only enforceable with leave
-and with any conditions the court may see ﬁt to impose, if the rights are
+and with any conditions the court may see fit to impose, if the rights are
 enforceable because of a reason in s 434J(1): s 434L. Orders can be made even if the
 rights are likely to be exercised or are threatened to be exercised: s 434L(2). Interim
 orders can also be given (and an undertaking as to damages must not be required
@@ -3102,7 +3102,7 @@ to be provided by a party whose rights are stayed under s 434J: s 434J(8).
 These provisions also apply to self-executing clauses which can start to apply
 automatically: s 434LA.
 It has been announced that these changes will commence by 1 July 2018.
-Signiﬁcantly, the new law will not apply to pre-existing contracts, only to new
+Significantly, the new law will not apply to pre-existing contracts, only to new
 contracts entered into on or after that date. This means that for some time, external
 administrators and receivers will need to review the company's contracts to
 determine their commencement. For example, many supply agreements are
@@ -3113,7 +3113,7 @@ contracts used by companies not coming within the ipso facto protections because
 they are pursuant to a pre-commencement contract.
 If there is a ipso facto clause in the contract, and unless the contract which the
 debtor company had is repudiated by the receiver, it remains on foot. It may be
-beneﬁcial for the receivership that a contract be performed and if this is the case,
+beneficial for the receivership that a contract be performed and if this is the case,
 and the receiver does not demonstrate that they accept personal liability or
 
 111 If the managing controller is replaced then the replacement is treated as having commenced when
@@ -3130,7 +3130,7 @@ If the company in receivership continues to perform a pre-existing contract, any
 right of set-off between the parties is retained, even if some debts were incurred
 before, and some after, the receivership: Parsons v Sovereign Bank of Canada [1913]
 AC 160.
-In some cases where receivers are appointed, the company's ﬁnancial prospects are
+In some cases where receivers are appointed, the company's financial prospects are
 poor and the receiver may make a commercial judgment that the continued
 performance of the existing contract is of no advantage to the company and may
 decide to repudiate the contract. The receiver's judgment will be based on whether
@@ -3147,7 +3147,7 @@ third party, under which, for example, that party may have a lien over the
 company's goods. In that regard, the receiver is in no better position than the
 company itself and if that prior equity is ignored to the detriment of the third party,
 the court may award damages against the receiver, or grant the third party an
-injunction or an order for speciﬁc performance: Re Diesels & Components Pty Ltd
+injunction or an order for specific performance: Re Diesels & Components Pty Ltd
 [1985] 2 Qd R 456.
 
 Effects on employees
@@ -3181,7 +3181,7 @@ personally for that employee's wages. Liability under s 419 only accrues if the
 receiver adopts the contract of employment, or, of course, if the receiver hires fresh
 employees. This was discussed earlier.
 It should be noted that employees whose employment is terminated consequent
-upon a receivership, are not eligible for ﬁnancial assistance under the Fair
+upon a receivership, are not eligible for financial assistance under the Fair
 Entitlements Guarantee Act 2012 (FEG) until and unless the company enters
 liquidation: s 5 "insolvency event". See also ASIC's INFO 55: Receivership: A guide
 for employees (1 September 2017).
@@ -3230,7 +3230,7 @@ The appointment of a receiver does not automatically terminate contracts of
 employment; indeed, the retention of employees by the company for the business
 will be necessary, subject to the receiver's decision as to their retention.118
 The stay against ipso facto clauses can also apply to court appointed receivers,
-provided they are classiﬁed as managing controllers: see s 434J.
+provided they are classified as managing controllers: see s 434J.
 
 TERMINATION OF THE RECEIVERSHIP – PRIVATELY APPOINTED
 RECEIVERS
@@ -3264,14 +3264,14 @@ certain instances.
 It was arguable under the general law whether a court could remove a receiver for
 misconduct on the application of the debtor company itself.119 In any event, on the
 recommendation of the Harmer Report [227], s 434A gives a discretion to the court
-to remove a receiver if it is satisﬁed that the receiver has been guilty of "misconduct
+to remove a receiver if it is satisfied that the receiver has been guilty of "misconduct
 in connection with performing or exercising any of [his or her] functions and
 powers".
 Beyond that, the company may dispute what is claims is the receiver's unnecessary
 continuation of the receivership: Goldana Investments Pty Ltd (recs & mgrs apptd) v
 National Mutual Life Nominees [2011] NSWSC 1134.
 A company could also rely on s 599 to mount an application to have the decisions
-of a receiver reversed or modiﬁed but this might not be adequate in certain
+of a receiver reversed or modified but this might not be adequate in certain
 circumstances.
 A receiver is a registered liquidator, and so the disciplinary rules and procedures in
 IPSC, Div 40 also apply though these remedies are limited to ASIC and provide no
@@ -3296,7 +3296,7 @@ liquidator should be permitted to apply to the court for an order that a receive
 cease to act as a receiver or retain control of all or part of the company's property:
 at [229]-[230].
 Section 434B implements the Harmer recommendation. The court is given, by
-s 434B(2), a discretion to make the order, but it can only do so if satisﬁed that the
+s 434B(2), a discretion to make the order, but it can only do so if satisfied that the
 objectives of the receivership have been achieved, so far as is reasonably
 practicable. Section 434B(3) lays down four elements to which the court must have
 regard in determining whether to make the order: the company's interests; the
@@ -3357,7 +3357,7 @@ appointment. Similarly, they may be removed where they are unable to function
 effectively because one of the parties is obstructive or uncooperative.121
 
 Misconduct
-[18.630] A court may discharge a receiver for allowing a conﬂict of interest to
+[18.630] A court may discharge a receiver for allowing a conflict of interest to
 arise, where the receiver has been guilty of mismanagement or dishonesty, or the
 receiver has impeded the course of justice. There appears to be no reason why a
 corporation cannot rely on s 434A to apply for removal of a court receiver. The

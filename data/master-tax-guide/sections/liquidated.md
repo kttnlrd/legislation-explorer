@@ -15,15 +15,15 @@ A capital gain on shares made by a holding company as a result of the liquidatio
 
 - the disposals were either part of an interim liquidator's distribution occurring within 18 months of
 
-  the subsidiary's dissolution or part of the liquidator's ﬁnal distribution in the course of the liquidation
+  the subsidiary's dissolution or part of the liquidator's final distribution in the course of the liquidation
 
-- the holding company beneﬁcially owned all the shares in the subsidiary from when the roll-over
+- the holding company beneficially owned all the shares in the subsidiary from when the roll-over
 
   asset was disposed of to the holding company until the cancellation of the shares
 
 - the market value of the roll-over asset or assets comprised at least part of the capital proceeds
 
-  for the cancellation of the shares in the subsidiary that were beneﬁcially owned by the holding
+  for the cancellation of the shares in the subsidiary that were beneficially owned by the holding
 
   company, and
 
@@ -45,7 +45,7 @@ Step 5. Multiply the overall capital gain from step 2 by the fraction from step 
 
 Step 6. Reduce the overall capital gain from step 1 by the amount from step 5. The result is the capital gain the holding company makes from the cancellation of its shares in the subsidiary.
 
-Example Wilco owns all the shares in Banco. The shares have a cost base of $100 and a market value of $1,000. Banco owns one asset with a cost base of $100 and a market value of $1,000. An inter-company roll-over is made and, on ﬁnal distribution by the liquidator, the asset is distributed in specie to Wilco and the shares are cancelled. The capital proceeds are $1,000 (ie the market value of the transferred asset). The overall actual gain on the cancellation of the shares ($900) is reduced by the notional gain on the transferred asset ($900). The end result is that there is no capital gain.
+Example Wilco owns all the shares in Banco. The shares have a cost base of $100 and a market value of $1,000. Banco owns one asset with a cost base of $100 and a market value of $1,000. An inter-company roll-over is made and, on final distribution by the liquidator, the asset is distributed in specie to Wilco and the shares are cancelled. The capital proceeds are $1,000 (ie the market value of the transferred asset). The overall actual gain on the cancellation of the shares ($900) is reduced by the notional gain on the transferred asset ($900). The end result is that there is no capital gain.
 
 CGT roll-over for merger of complying superannuation funds An optional roll-over is available for capital losses and net capital losses that arise on the merger of superannuation entities. For details on the CGT roll-over relief see ¶13-130.
 
@@ -57,6 +57,6 @@ Consequences of roll-over If a roll-over happens, a capital gain or loss made by
 
 If a roll-over asset is a pre-CGT asset of the transferor fund, it is also a pre-CGT asset of the transferee fund.
 
-If a roll-over asset is a post-CGT asset of the transferor fund, the transferee fund is taken to have acquired the asset at the time of the CGT event. In addition, the ﬁrst element of the asset's cost base (and reduced cost base) to the transferee fund is the same as it was in the hands of the transferor fund.
+If a roll-over asset is a post-CGT asset of the transferor fund, the transferee fund is taken to have acquired the asset at the time of the CGT event. In addition, the first element of the asset's cost base (and reduced cost base) to the transferee fund is the same as it was in the hands of the transferor fund.
 
 *Refs: s 126-85), s 126-135)*

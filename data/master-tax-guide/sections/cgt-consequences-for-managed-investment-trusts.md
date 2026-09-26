@@ -9,7 +9,7 @@ paragraph: "¶12-660"
 
 Managed Investment Trusts (MITs) are allowed to make an irrevocable election to treat gains and losses on eligible investments on capital account for taxation purposes. The election makes the CGT provisions the primary code for taxing gains and losses on the disposal of eligible investments by MITs that make the election, subject to integrity rules.
 
-CGT treatment applies to gains and losses made by a MIT where all the following conditions are satisﬁed:
+CGT treatment applies to gains and losses made by a MIT where all the following conditions are satisfied:
 
 - the entity is an eligible MIT
 
@@ -21,17 +21,17 @@ CGT treatment applies to gains and losses made by a MIT where all the following 
 
   the primary code for eligible assets (Subdiv 275-B).
 
-This enables investors in MITs to obtain the beneﬁt of any CGT tax concessions on distributions of capital gains. Where an eligible entity does not make the election it will forever be subject to revenue treatment on such gains and losses.
+This enables investors in MITs to obtain the benefit of any CGT tax concessions on distributions of capital gains. Where an eligible entity does not make the election it will forever be subject to revenue treatment on such gains and losses.
 
-It was proposed that managed investment trusts (MITs) and attribution MITs (AMITs) would be prevented from applying the 50% discount at the trust level but will still be able to distribute such income as a capital gain that can be discounted in the hands of the beneﬁciary, with eﬀect from the income year starting on or after 3 months after the date of assent of the enabling legislation (2018–19 Budget Paper No 2, p 44).
+It was proposed that managed investment trusts (MITs) and attribution MITs (AMITs) would be prevented from applying the 50% discount at the trust level but will still be able to distribute such income as a capital gain that can be discounted in the hands of the beneficiary, with effect from the income year starting on or after 3 months after the date of assent of the enabling legislation (2018–19 Budget Paper No 2, p 44).
 
 However, the current government has not announced whether this change will proceed.
 
-An eligible asset is a share or non-share equity interest in a company, a unit in a unit trust, land or a right or option to acquire or dispose of any of the preceding assets, but excludes an asset that is a Div 230 ﬁnancial arrangement or a debt interest (s 275-105).
+An eligible asset is a share or non-share equity interest in a company, a unit in a unit trust, land or a right or option to acquire or dispose of any of the preceding assets, but excludes an asset that is a Div 230 financial arrangement or a debt interest (s 275-105).
 
 Eligible MIT A trust is an eligible MIT for an income year, where it is a MIT. A trading trust cannot be an MIT (ss 275-100; 275-110). A unit trust is a MIT in relation to an income year where:
 
-- at the time of the ﬁrst fund payment in relation to the income year, the trustee of the trust was an
+- at the time of the first fund payment in relation to the income year, the trustee of the trust was an
 
 Australian resident or the central management and control of the trust was in Australia
 
@@ -47,24 +47,24 @@ Australian resident or the central management and control of the trust was in Au
 
 - the trust has MIS status under s 9 of the Corporations Act 2001
 
-- the trust is either a wholesale managed investment trust which satisﬁes the licensing
+- the trust is either a wholesale managed investment trust which satisfies the licensing
 
   requirements or is a registered MIS pursuant to s 601EB of the Corporation Act 2001
 
-- the trust satisﬁes the relevant widely-held requirements
+- the trust satisfies the relevant widely-held requirements
 
-- the trust satisﬁes the relevant closely-held restrictions
+- the trust satisfies the relevant closely-held restrictions
 
-- the trust satisﬁes the relevant licensing requirements (s 275-10).
+- the trust satisfies the relevant licensing requirements (s 275-10).
 
 A trust is treated as satisfying the widely-held and closely-held requirements for an income year if it was created in the period starting 12 months before the start of the income year and ending at the end of the income year or if a trust ceases to exist during an income year but was a MIT in the previous income year (s 275-10(6)).
 
 *Refs: s 275-10), s
 275-10(6))*
 
-(a) a trust that is an Australian resident trust and every member of the trust is a MIT (or treated as a MIT) in relation to the income year (s 275-45) (b) a trust that is not a MIT because a fund payment was not made in relation to the income year but had a fund payment been made on both the ﬁrst day and the last day of the income year it would have been a MIT (s 275-50) (c) the trust would be a MIT but for a circumstance that is temporary and arose outside the control of the trustee and it is fair and reasonable to treat the trust as a MIT (s 275-55).
+(a) a trust that is an Australian resident trust and every member of the trust is a MIT (or treated as a MIT) in relation to the income year (s 275-45) (b) a trust that is not a MIT because a fund payment was not made in relation to the income year but had a fund payment been made on both the first day and the last day of the income year it would have been a MIT (s 275-50) (c) the trust would be a MIT but for a circumstance that is temporary and arose outside the control of the trustee and it is fair and reasonable to treat the trust as a MIT (s 275-55).
 
-Election The election is irrevocable and must be made in the approved form by the relevant time. In general, the election needs to be made on or before the time it is required to lodge its income tax return for the income year in which it became a MIT and will have eﬀect from the time it came into existence.
+Election The election is irrevocable and must be made in the approved form by the relevant time. In general, the election needs to be made on or before the time it is required to lodge its income tax return for the income year in which it became a MIT and will have effect from the time it came into existence.
 
 Where the election is made, the CGT provisions are the primary code for taxing eligible assets (s 275-100).
 
@@ -84,4 +84,4 @@ For these purposes, a carried interest refers to a CGT asset that was acquired b
 
 ## Australia) throughout the income year are carried out in Australia
 
-## The extended deﬁnition of a MIT broadly includes each of the following:
+## The extended definition of a MIT broadly includes each of the following:

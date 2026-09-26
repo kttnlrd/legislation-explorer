@@ -7,7 +7,7 @@ paragraph: "¶38-060"
 ---
 # Tasmania land tax ¶38-060
 
-Provisions governing the imposition and calculation of land tax in Tasmania are contained in the Land Tax Act 2000 ("the principal Act"). Applicable rates applying to diﬀerent categories of land are provided in the Land Tax Rating Act 2000. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 1997.
+Provisions governing the imposition and calculation of land tax in Tasmania are contained in the Land Tax Act 2000 ("the principal Act"). Applicable rates applying to different categories of land are provided in the Land Tax Rating Act 2000. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general offences, are covered by the Taxation Administration Act 1997.
 
 Land tax for 2024–25 is levied on the aggregate assessed value of land owned on 1 July 2024. An owner is the registered titleholder of a freehold estate in fee simple or the holder of a life estate. Joint owners of the same land are assessed together in a joint assessment.
 
@@ -15,13 +15,13 @@ Related companies are assessed as a single company and are jointly and severally
 
 Exemptions and rebates There are 3 categories of land in Tasmania: principal residence land, primary production land and general land. Land used as an owner's main place of residence and land used for primary production are exempt. The land value of land used partly for an exempt purpose and partly for a non-exempt purpose is apportioned, and land tax is charged on the proportion of the land used for the non-exempt purpose.
 
-Where an owner dies, a property which was used as a principal residence by that owner may continue to be exempt as a principal residence in the ﬁnancial year following death.
+Where an owner dies, a property which was used as a principal residence by that owner may continue to be exempt as a principal residence in the financial year following death.
 
 General land General land, including rental properties, holiday homes, vacant land and commercial land, is usually taxable. General land owned by a charitable institution, or used by owners for religious purposes, as a specialist medical establishment, to operate a retirement village, in furtherance of a conservation covenant, or for Aboriginal cultural activities, is exempt.
 
-Owners can claim a rebate of land tax paid in respect of vacant land on which they have built a dwelling which they occupy as their principal residence during the ﬁnancial year. A rebate may also be available where a new principal place of residence (PPR) is purchased on or after 1 April and a contract for sale of the other property is executed on or before 30 September. In this circumstance, the owner will own 2 residences on 1 July and be entitled to receive a rebate of tax paid on the property which is not their PPR.
+Owners can claim a rebate of land tax paid in respect of vacant land on which they have built a dwelling which they occupy as their principal residence during the financial year. A rebate may also be available where a new principal place of residence (PPR) is purchased on or after 1 April and a contract for sale of the other property is executed on or before 30 September. In this circumstance, the owner will own 2 residences on 1 July and be entitled to receive a rebate of tax paid on the property which is not their PPR.
 
-Affordable rental housing A land tax exemption applies for newly built housing built on general land where a dwelling is made available for a residential tenancy of at least 12 months. The exemption applies for the 3 ﬁnancial years immediately following the issue of an occupancy certiﬁcate where the certiﬁcate is issued between 8 February 2018 and 30 June 2026.
+Affordable rental housing A land tax exemption applies for newly built housing built on general land where a dwelling is made available for a residential tenancy of at least 12 months. The exemption applies for the 3 financial years immediately following the issue of an occupancy certificate where the certificate is issued between 8 February 2018 and 30 June 2026.
 
 A one-year land tax exemption is available for general land which is made available for a residential tenancy after being used or advertised for use as short stay accommodation in the 3-month period prior to the commencement of the residential tenancy. The lease must be for a term of at least 12 months commencing between 15 March 2018 and 30 June 2026.
 
@@ -33,7 +33,7 @@ No surcharge-free threshold applies. The surcharge does not apply to commercial 
 
 Objections and appeals A taxpayer can lodge a written objection to an assessment within 60 days from date of service of the notice of assessment or later if allowed by the Commissioner. Appeals can be lodged up to 60 days from the date of the objection decision or anytime after 90 days from lodgment of the objection if no objection decision has been made.
 
-Rates and thresholds The following table shows the land tax rates and thresholds applicable from 1 July 2024. Note that land owned by sporting clubs or non-proﬁt bodies and used for sport, athletics or racing is taxed at a special rate of tax under s 38 of the principal Act. The rate is 0.004% of assessed land value over $25,000, or any greater proportion the Commissioner determines.
+Rates and thresholds The following table shows the land tax rates and thresholds applicable from 1 July 2024. Note that land owned by sporting clubs or non-profit bodies and used for sport, athletics or racing is taxed at a special rate of tax under s 38 of the principal Act. The rate is 0.004% of assessed land value over $25,000, or any greater proportion the Commissioner determines.
 
 Aggregated assessed value                                                        Rate of tax ($)                                                                      ($)
 

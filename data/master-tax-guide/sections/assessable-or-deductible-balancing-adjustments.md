@@ -27,7 +27,7 @@ When is a balancing adjustment required A balancing adjustment either increases 
 
   s 40-285(5))
 
-- a taxpayer makes a choice in relation to certain mining rights or information ﬁrst used for
+- a taxpayer makes a choice in relation to certain mining rights or information first used for
 
   exploration or prospecting purposes that were not immediately deductible (¶17-350; s 40-295(1A)).
 
@@ -41,7 +41,7 @@ This applies if they started to hold the asset after 7.30 pm EST on 14 May 2013.
 
 See also ID 2002/997 (call and put options), ID 2003/110 to ID 2003/112 (theft of depreciating asset), ID 2003/218 to ID 2003/221 (amalgamation of 2 incorporated associations), ID 2003/756 (car leases), ID 2004/261 (demolition and dismantlement), ID 2005/197 (termination of novated car lease), ID 2006/168 (grant of a licence to exploit patent) and ID 2008/92 (uncompleted work).
 
-Where the tax-preferred leasing provisions have applied to an asset and an event happens that would constitute a balancing adjustment event under the above rules, the event is treated as a balancing adjustment event and a balancing adjustment is made under Subdiv 40-D, based on the adjustable value of the asset (s 250-290; ¶23-210). Sections 40-290 (¶17-660) and 40-292 (see below), dealing with reductions to the balancing adjustment amount to reﬂect non-taxable use of the asset, as well as s 40-291 dealing with reductions to the balancing adjustment to reﬂect use as a second-hand asset in a residential rental property, do not apply.
+Where the tax-preferred leasing provisions have applied to an asset and an event happens that would constitute a balancing adjustment event under the above rules, the event is treated as a balancing adjustment event and a balancing adjustment is made under Subdiv 40-D, based on the adjustable value of the asset (s 250-290; ¶23-210). Sections 40-290 (¶17-660) and 40-292 (see below), dealing with reductions to the balancing adjustment amount to reflect non-taxable use of the asset, as well as s 40-291 dealing with reductions to the balancing adjustment to reflect use as a second-hand asset in a residential rental property, do not apply.
 
 *Refs: ITAA97
 s 40-285(5)), s 40-295(1, s
@@ -80,7 +80,7 @@ The taxpayer is treated as having stopped holding the original assets and starte
 
 - primary producers' assets (¶18-050)
 
-- a "government payment to industry" (GPI) that is calculated having regard to some eﬀect on a
+- a "government payment to industry" (GPI) that is calculated having regard to some effect on a
 
   depreciating asset but the asset continues to be held for current or future use (TR 2006/3).
 
@@ -96,15 +96,15 @@ The balancing adjustment rules of the uniform capital allowance system apply to 
 
 For the CGT consequences of disposing a depreciating asset, see ¶17-670.
 
-R&D depreciating assets If a depreciating asset has been used for R&D as well as other taxable purposes, with the result that a notional deduction has been available under the R&D provisions (¶17-420) and an actual deduction under ITAA97 Div 40, the balancing adjustment amount is the diﬀerence between the termination value and the adjustable value of the asset. In calculating the balancing adjustment amount, the R&D use is treated as use for a taxable purpose. In addition, an adjustment is made to reﬂect the extent of R&D use of the asset over its life (ITAA97 s 40-292: ¶17-420).
+R&D depreciating assets If a depreciating asset has been used for R&D as well as other taxable purposes, with the result that a notional deduction has been available under the R&D provisions (¶17-420) and an actual deduction under ITAA97 Div 40, the balancing adjustment amount is the difference between the termination value and the adjustable value of the asset. In calculating the balancing adjustment amount, the R&D use is treated as use for a taxable purpose. In addition, an adjustment is made to reflect the extent of R&D use of the asset over its life (ITAA97 s 40-292: ¶17-420).
 
-Deductible balancing adjustment If the "termination value" (¶17-640) of a depreciating asset (usually its selling price on disposal) is less than its adjustable value just before the balancing adjustment event occurred (¶17-485), the diﬀerence is deductible in the year of the event (ITAA97 s 40-285(2)), subject to the application of roll-over relief.
+Deductible balancing adjustment If the "termination value" (¶17-640) of a depreciating asset (usually its selling price on disposal) is less than its adjustable value just before the balancing adjustment event occurred (¶17-485), the difference is deductible in the year of the event (ITAA97 s 40-285(2)), subject to the application of roll-over relief.
 
 Example 1 A depreciating asset purchased on 1 July Year 1 for $3,000 was scrapped on 31 March Year 4 when its residual scrap value at market price was $600. Its decline in value was calculated using the prime cost method over 5 years.
 
 Cost ....................................                                                                                                $3,000 Less: full decline in value for Year 1, Year 2, Year 3 and 9 months for Year 4 ....................................                       2,250 Adjustable value at 31 March Year 4 ....................................                                                                    750 Less: scrap value ....................................                                                                                      600 Balancing deduction ....................................                                                                                  $150 Thus, in Year 4, the taxpayer can claim a total deduction of $600, ie 9 months decline in value ($450) and a balancing deduction ($150).
 
-Assessable balancing adjustment If the termination value of a depreciating asset is more than its adjustable value just before the balancing adjustment event occurred (¶17-485), the excess is assessable in the year of the event (s 40-285(1)) unless balancing adjustment roll-over relief (¶17-710, ¶17-720) is used to defer or oﬀset the adjustment.
+Assessable balancing adjustment If the termination value of a depreciating asset is more than its adjustable value just before the balancing adjustment event occurred (¶17-485), the excess is assessable in the year of the event (s 40-285(1)) unless balancing adjustment roll-over relief (¶17-710, ¶17-720) is used to defer or offset the adjustment.
 
 Example 2 A post-10 May 2006 depreciating asset purchased on 1 July Year 1 for $5,000 was sold for $2,600 on 31 October Year 4. Its decline in value was calculated under the diminishing value method over 5 years.
 

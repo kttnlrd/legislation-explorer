@@ -7,7 +7,7 @@ paragraph: "¶3-550"
 ---
 # Strata title bodies corporate taxed as companies ¶3-550
 
-Strata title bodies corporate are constituted under legislation which, on registration of a strata title scheme, operates to create a special form of legal ownership, referred to in various states as strata title, unit title, group title or cluster title. For tax purposes, they are treated as public companies (TR 2015/3) (¶3-015). They do not qualify as non-proﬁt companies even if they include non-proﬁt clause in their by-laws.
+Strata title bodies corporate are constituted under legislation which, on registration of a strata title scheme, operates to create a special form of legal ownership, referred to in various states as strata title, unit title, group title or cluster title. For tax purposes, they are treated as public companies (TR 2015/3) (¶3-015). They do not qualify as non-profit companies even if they include non-profit clause in their by-laws.
 
 In determining the taxable income, mutual income (¶3-810) is excluded. No deductions are allowed for expenses relating to mutual income.
 

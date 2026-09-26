@@ -38,7 +38,7 @@ Introduction to Liquidation and
 [10.135] Liquidators ....................................................................................................... 398
 [10.140] The process of registration of liquidators .................................................. 398
     [10.145] Application to become a liquidator ........................................................................ 398
-    [10.150] Qualiﬁcations and experience etc ........................................................................... 398
+    [10.150] Qualifications and experience etc ........................................................................... 398
     [10.155] The committee ............................................................................................................ 399
     [10.160] On-going obligations ................................................................................................. 399
     [10.165] Other requests ............................................................................................................. 400
@@ -63,7 +63,7 @@ Introduction to Liquidation and
     [10.245] Duties of care and skill ............................................................................................. 410
     [10.250] Duty to exercise discretion ....................................................................................... 411
     [10.255] Statutory duties .......................................................................................................... 411
-    [10.260] Speciﬁc duties ............................................................................................................. 411
+    [10.260] Specific duties ............................................................................................................. 411
 [10.305] Powers of the liquidator ................................................................................ 415
     [10.310] Compulsory windings up ......................................................................................... 415
 [10.350] Voluntary liquidators ..................................................................................... 421
@@ -73,7 +73,7 @@ Introduction to Liquidation and
     [10.365] Suspending or cancelling registration .................................................................... 422
     [10.370] Show-cause notice ...................................................................................................... 423
     [10.375] The discipline committee .......................................................................................... 423
-    [10.380] Exchange of conﬁdential conduct information between ASIC and the industry
+    [10.380] Exchange of confidential conduct information between ASIC and the industry
              bodies ........................................................................................................................... 424
     [10.385] Register of Liquidators .............................................................................................. 424
 [10.390] Resignation and replacement of a liquidator ............................................ 425
@@ -99,7 +99,7 @@ An overview of this chapter
 The chapter provides an overview of the structure and context in which the
 winding up or liquidation of companies operate. The regulator, the liquidator and
 the creditors are explained, as well as the detail of how liquidators become
-registered and are regulated, and their signiﬁcant powers and duties. The need for
+registered and are regulated, and their significant powers and duties. The need for
 their independence is particularly emphasised. This overview is necessary in order
 to then understand the following chapters, which progress through the proceedings
 leading to a winding up, and the law and procedure in administering a winding up
@@ -139,7 +139,7 @@ company for deregistration.
 Liquidation is a legislative creation regulated by the Corporations Act. The parts of
 that Act which provide for liquidation originate from bankruptcy laws with the
 necessary adaptations to allow for the corporate form.
-As we explained in Chapter 1, the ﬁrst statute that regulated the winding up of
+As we explained in Chapter 1, the first statute that regulated the winding up of
 companies was the Winding Up Act 1844 (UK) (7 & 8 Vict c111) in England. The
 provisions of the Corporations Act that deal with liquidation can be traced to this
 English legislation.
@@ -152,7 +152,7 @@ insolvency given that the company in external administration is established and
 governed by its provisions.
 Schedule 2 of the Corporations Act – IPSC, supported by the Insolvency Practice
 Rules (Corporations) (IPRC, or Rules), focus solely on external administration.
-Other signiﬁcant legislation relevant to external administration is the ASIC Act, the
+Other significant legislation relevant to external administration is the ASIC Act, the
 Personal Property Securities Act 2009 (Cth) (PPSA) and the Cross-Border Insolvency Act
 2008 (Cth).
 Section 1364 of the Corporations Act permits the making of regulations. The
@@ -203,7 +203,7 @@ A member's meeting will usually require 21 days prior notice (s 249H), although 
 is 28 days for a public listed company (s 249HA). However, short notice for
 non-listed companies may be obtained if members with 95% of the votes that may
 be cast at the meeting agree beforehand (s 249H(2)). Inadequate notice may be
-rectiﬁed by applying for an order under s 1322. As we explain, that shortened
+rectified by applying for an order under s 1322. As we explain, that shortened
 period of notice is often used when members meet to put the company into an
 insolvent creditors voluntary liquidation: see [10.55].
 A solvent winding up can also occur in hostile circumstances where there is a
@@ -239,24 +239,24 @@ Registrar or the special administrator may apply for an order that the corporati
 be wound up: s 526.15. A winding up order terminates the special administration:
 s 505.1. The winding up is then carried out under the provisions of Ch 5 of the
 Corporations Act: s 526.35.
-Given their economic signiﬁcance, and their prudential style of regulation, banks
+Given their economic significance, and their prudential style of regulation, banks
 and insurers have their own insolvency provisions. Life insurance companies are
 regulated by the Life Insurance Act 1995 (Cth) which contains provisions for both
 winding up and judicial management in the event of insolvency; a comparable
 regime exists under the Insurance Act 1973 (Cth).3 Similarly, banks (and other
 authorised deposit-taking institutions (ADIs)) are separately regulated under the
 Banking Act 1959 (Cth) by the Australian Prudential Regulation Authority (APRA).
-Given the economic signiﬁcance of banks, APRA has strong powers to direct and
+Given the economic significance of banks, APRA has strong powers to direct and
 "pre-position" a bank in any restructuring of its operations, to appoint a statutory
 manager and ultimately to apply to the Federal Court for its winding up. Particular
 powers are given to the liquidator, including in relation to payments to depositors
-under the ﬁnancial claims scheme. The winding up is then largely administered in
+under the financial claims scheme. The winding up is then largely administered in
 accordance with the Corporations Act: Banking Act 1959 (Cth), s 14F.4 The Financial
 Sector Legislation Amendment (Crisis Resolution Powers and Other Measures) Act
 2018 (Cth) has increased and harmonised APRA's powers across banks, insurers
 and life insurers, in relation to APRA directions powers and its authority to apply
 to the court for the external administration of these regulated entities. The national
-economic signiﬁcance of banks and insurers also means that they are excluded from
+economic significance of banks and insurers also means that they are excluded from
 the operation of the Cross-Border Insolvency Act 2008 (Cth), so that foreign
 liquidators are unable to seek orders against them, and local policy holders and
 depositors have particular ring-fencing protection.
@@ -269,7 +269,7 @@ depositors have particular ring-fencing protection.
   Management in the Banking Sector, (Edward Elgar Publishing, 2015) Ch 20.
 [10.30]                                    10 Introduction to Liquidation and Its Administration   385
 
-There are also State-based insolvency regimes, largely in the not-for-proﬁt sector,
+There are also State-based insolvency regimes, largely in the not-for-profit sector,
 such as co-operatives and associations: see for example, the Associations Incorporation
 Act 2009 (NSW); the Cooperatives Act 1997 (Qld). There is being introduced a
 national co-operatives law to replace the separate co-operatives legislation of the
@@ -323,14 +323,14 @@ partly a product of Australia's lack of a government liquidator which might
 otherwise perform this role. Apart from other problems this causes, employees
 cannot claim their unpaid entitlements under the Fair Entitlements Guarantee Act
 2012 (Cth) (the FEG Act) until their employer company is in liquidation. There is
-also the public beneﬁt of having a liquidator who can pursue investigations and
+also the public benefit of having a liquidator who can pursue investigations and
 possibly take action for voidable transactions and insolvent trading, or phoenix
 company misconduct. The lack of funds available in these types of companies
 result in such action being uncommon, at least without government funding.
 ASIC has a panel of liquidators to take these appointments at a set fee rate. ASIC's
 RG 242 otherwise explains how it exercises this power. However, the restrictions
 and delay in ASIC's processes under RG 242 have been the subject of adverse
-comment and the potential for this regime to deal with any signiﬁcant number of
+comment and the potential for this regime to deal with any significant number of
 abandoned companies has not yet been realised.10
 
 Purposes of liquidation
@@ -351,7 +351,7 @@ up. This consistent with personal insolvency save that the investigations and
 recoveries can be the more substantial and complex.
 The limited liability company itself has been a major vehicle for economic progress,
 allowing the management of risk and the collective efforts of individuals to be
-harnessed to a joint and more signiﬁcant economic force. Given the risk involved,
+harnessed to a joint and more significant economic force. Given the risk involved,
 the failure of companies is inevitable and the need for their orderly disposition is
 necessary. Given the privilege of limited liability, there needs to be some
 investigation of their failure in order to determine if their corporate form has been
@@ -378,7 +378,7 @@ purpose. An insolvency regime supports lending and entrepreneurial business
 conduct.
 As in bankruptcy, there are also strong rule of law purposes involved, whereby the
 otherwise unrestrained actions of creditors and others might cause social and
-business friction, and be counterproductive to a more ﬁnancial constructive
+business friction, and be counterproductive to a more financial constructive
 outcome. The sense of justice provided to creditors, that their losses are not ignored
 by the law, is also important.
 
@@ -469,10 +469,10 @@ Nevertheless, they exist and the separate regimes must be explained.
 
 Why liquidation?
 [10.50] Where a company is wound up because of insolvency, the process is
-initiated because the company has no realistic chance of resolving its ﬁnancial
+initiated because the company has no realistic chance of resolving its financial
 malaise. In most cases, voluntary administration under Pt 5.3A or a scheme of
 arrangement under Pt 5.1 is unworkable (or in respect of the latter, too expensive)
-because of the severity of the company's ﬁnancial difficulties. In such cases, the
+because of the severity of the company's financial difficulties. In such cases, the
 general unsecured creditors will acknowledge that they will not receive the full
 amount of their debts but know that the company will be wound up equitably by
 an independent person – the liquidator. The creditors should have some comfort in
@@ -485,10 +485,10 @@ Liquidation is therefore an essential aspect of corporate insolvency law. It has
 and continues to be the most common form of insolvency administration, even if at
 times in the past the number of Pt 5.3A voluntary administrations have exceeded
 the number of liquidations.
-In the 2016-2017 ﬁnancial year there were 2,432 companies placed into a
+In the 2016-2017 financial year there were 2,432 companies placed into a
 court-ordered winding up compared with 3,803 companies placed into a creditors'
 voluntary liquidation. In contrast, if we look at the statistics from 10 years ago in
-the 2006-2007 ﬁnancial year we see similar court winding up numbers (2,291) but
+the 2006-2007 financial year we see similar court winding up numbers (2,291) but
 we see much fewer creditors' voluntary liquidations (1,509).14
 Creditors' voluntary liquidations are the most common form of corporate
 insolvency appointment and are comparable to the high proportion of debtors'
@@ -516,7 +516,7 @@ follows or precedes receivership or voluntary administration the median duration
 The liquidation process involves, at a minimum, some extensive work by a
 liquidator and is therefore expensive, and in many cases the returns to creditors
 will be minimal or nil, with practitioners themselves often unpaid for their work
-done. The Productivity Commission Report recommended that a new simpliﬁed
+done. The Productivity Commission Report recommended that a new simplified
 small liquidation regime be introduced into the Corporations Act, available for
 companies with liabilities under a certain amount and with a more limited role for
 a liquidator than under a full liquidation. Creditors would have the capacity to
@@ -536,7 +536,7 @@ The three week notice required for a meeting of members (see s 249H) can be
 shortened (s 249H(2)) to allow the directors to proceed to a creditors voluntary
 liquidation in order to avoid personal liability for a director penalty notice served
 on them by the Tax Commissioner.16 The directors who receive the notice generally
-have 21 days to either pay the amount speciﬁed or appoint a liquidator or
+have 21 days to either pay the amount specified or appoint a liquidator or
 voluntary administrator. Since a change in the law in 2007 simplifying the process
 of appointing a voluntary liquidator, such an appointment has been the preferred
 method of responding to a director penalty notice rather than a voluntary
@@ -559,7 +559,7 @@ process. The members themselves are, essentially, excluded from being involved i
 the supervision of the winding up.
 
 Restrictions on voluntary winding up: ss 490, 440A
-[10.60] If an application has already been ﬁled with the court for the winding up
+[10.60] If an application has already been filed with the court for the winding up
 of the company on the basis that it is insolvent (see [10.55]), the company cannot
 resolve to wind up voluntarily unless the leave of the court is obtained.
 This provision is mirrored in bankruptcy law and is similarly designed to stop a
@@ -567,10 +567,10 @@ company from frustrating the actions of creditors to wind up the company
 compulsorily, either by design or ignorance of the fact that a court application has
 been made.18
 While the directors should be aware of such proceedings through the service on
-them of the application to wind up, there will be a period of time between the ﬁling
+them of the application to wind up, there will be a period of time between the filing
 of the application and its service when it is conceivable that the company will not
 be aware of the application. As a consequence, it is wise for the company to search
-at ASIC to ascertain whether an application has been ﬁled before its directors
+at ASIC to ascertain whether an application has been filed before its directors
 initiate a voluntary winding up.19
 
 Compulsory winding up: Pts 5.4 – 5.4B
@@ -585,7 +585,7 @@ Section 461
 [10.70] Applications under s 461 are made on grounds other than insolvency –
 the internal affairs of the company are being conducted oppressively, or an ASIC
 investigation has concluded it should be wound up, or the company is in effect
-defunct. A signiﬁcant and often used ground under s 461 is that it is "just and
+defunct. A significant and often used ground under s 461 is that it is "just and
 equitable"" that the company be wound up.
 Section 461 applications are usually initiated by a creditor or ASIC, as permitted by
 s 462. Other persons permitted to apply, by that section, are the company itself, the
@@ -616,7 +616,7 @@ company and a formal court hearing. It is comparable to the petitioning for a
 sequestration order in bankruptcy.
 If a court decides to order the winding up of a company, it will appoint a liquidator
 to conduct the winding up. The liquidator will have, at the request of the creditor,
-ﬁled a consent to act in the event that the winding up order is made.
+filed a consent to act in the event that the winding up order is made.
 Establishing insolvency is often difficult for a liquidator to prove, more so for a
 creditor who has no access to the debtor company's records. Therefore, s 459C
 provides that in any one of six situations a company will be presumed to be
@@ -650,7 +650,7 @@ The percentage of companies entering external administration relative to new
 incorporations generally remains below 4%.
 Most external administrations are of small to medium businesses. Figures produced
 by the Productivity Commission20 in 2015 showed that in 2013-2014, companies
-employing fewer than ﬁve staff (including non-employing companies) accounted
+employing fewer than five staff (including non-employing companies) accounted
 for 92% of company exits, and companies employing fewer than 20 staff accounted
 for 98%. As well, failures represent only a small fraction of all companies registered.
 ASIC reports indicate that, in 2013-2014, 81% of the 9459 initial external
@@ -685,7 +685,7 @@ actual date of bankruptcy.
 394     Keay's Insolvency: Personal and Corporate Law and Practice                          [10.95]
 
 However, it is important to note that although corporate insolvency law has a
-"relation-back day" (deﬁned in s 91), it is quite different in concept from the same
+"relation-back day" (defined in s 91), it is quite different in concept from the same
 term in bankruptcy. The provisions are contained in Pt 5.6, Div 1A of the
 Corporations Act.21
 
@@ -693,10 +693,10 @@ Compulsory winding up
 [10.95] Thus, in compulsory winding up, if a winding up order is made by the
 court and there was no prior insolvency administration, the day on which the order
 is made is the "commencement of the winding up": Corporations Act, s 513A(e).
-Importantly, the day on which the application to wind up was ﬁled with the court
+Importantly, the day on which the application to wind up was filed with the court
 is known as the "relation-back day": s 91. The importance of that day is that it is the
 point in time which is used to measure the periods prior to winding up within
-which transactions must have been entered into if they are to be classiﬁed as subject
+which transactions must have been entered into if they are to be classified as subject
 to challenge by the liquidator.
 As an example, a preference paid by a company may be recovered from a creditor
 if it was a transaction entered into during the six months ending on the
@@ -713,7 +713,7 @@ depending on the circumstances, for example, if the company was previously in
 provisional liquidation or voluntary administration or under a deed of company
 arrangement. The relation-back day in those cases is "the day on which the
 winding up is taken because of Div 1A of Pt 5.6 to have begun"; otherwise, it is the
-date the application for winding up was ﬁled: s 91. Reference needs to be made to
+date the application for winding up was filed: s 91. Reference needs to be made to
 the "section 513C day", which, in relation to the administration of a company is the
 day the administration began, or, if there was a prior liquidation, the day when the
 winding up is taken to have begun.
@@ -752,7 +752,7 @@ The Corporations Act has separate Parts dealing with winding up in insolvency
 The different modes of winding up are considered in greater detail in later chapters.
 
 ADMINISTRATION OF LIQUIDATIONS
-[10.115]     There are a number of parties with signiﬁcant powers and roles in the
+[10.115]     There are a number of parties with significant powers and roles in the
 administration of the liquidation of companies. These parties include ASIC, and its
 role in registering and regulating liquidators, and the courts and legal practitioners.
 Liquidators and their powers and responsibilities are dealt with in detail.
@@ -769,9 +769,9 @@ Affairs Commissions of each State. The ASC became ASIC as a result of the passag
 of the Company Law Review Act 1998 (Cth). ASIC's powers, while based upon those
 previously exercised by the NCSC, are wider and more substantive.
 
-22 The prior gap in the law identiﬁed in Chief Commissioner of State Revenue v Rafferty's Resort
+22 The prior gap in the law identified in Chief Commissioner of State Revenue v Rafferty's Resort
    Management Pty Ltd (in liq) [2008] NSWSC 452 where a voluntary administration is commenced after
-   an application for winding up has been ﬁled; and where a winding up occurs after the termination
+   an application for winding up has been filed; and where a winding up occurs after the termination
    of a DOCA, has been remedied by the ILRA. These issues are explained at [19.395] and [20.270].
 396    Keay's Insolvency: Personal and Corporate Law and Practice               [10.120]
 
@@ -784,7 +784,7 @@ other chapters. ASIC administers the Corporations Act and has power to intervene
 under s 1330, in any proceedings under the Act. It has the power to apply to the
 court to wind up an insolvent company, and in fact, as we have seen, order that a
 company be wound up; and it can also sue a director for insolvent trading. It also
-has a signiﬁcant role in maintaining records of companies, including as to their
+has a significant role in maintaining records of companies, including as to their
 administration in insolvency.
 ASIC also has investigative powers under the ASIC Act. Some of its particular
 powers and roles in relation to winding up are:
@@ -804,10 +804,10 @@ powers and roles in relation to winding up are:
 • to accept written undertakings from a person to comply with the law and to pay
   compensation: ASIC Act, s 93AA; and
 • to deregister companies: ss 601AB, 601AC.
-ASIC has the power to give a liquidator a notice seeking speciﬁed information and
+ASIC has the power to give a liquidator a notice seeking specified information and
 books in order to assist ASIC in its regulatory role: ASIC Act, s 30B. The notice may
-require production of any external administration ﬁles of the liquidator and also
-the liquidator's policies and procedures in relation to how those ﬁles are handled.
+require production of any external administration files of the liquidator and also
+the liquidator's policies and procedures in relation to how those files are handled.
 Section 13 of the ASIC Act sets out when ASIC's investigative powers under Pt 3
 are triggered. Those circumstances include investigation of a suspected
 contravention of the corporations legislation, including in relation to the
@@ -821,7 +821,7 @@ comprise a variety of other elements. Liquidators may resolve a misconduct claim
 [10.130]                                    10 Introduction to Liquidation and Its Administration   397
 
 by giving undertakings to undergo training, or to improve their compliance
-systems, or pay compensation or have their ﬁles peer reviewed for a period: see RG
+systems, or pay compensation or have their files peer reviewed for a period: see RG
 100 – Enforceable Undertakings.
 There is no comparable power available to the Inspector-General in Bankruptcy.
 In the regulation of liquidators, ASIC is required to work co-operatively with the
@@ -842,7 +842,7 @@ information on the status of companies registered under the Corporations Act. Fr
 an insolvency viewpoint, that shows whether a company is the subject of a winding
 up application, or is already in external administration. This database comprises
 information and records that liquidators and others are obliged by the Act to
-"lodge" (as deﬁned in Corporations Act, s 9). Hence, an application for winding up
+"lodge" (as defined in Corporations Act, s 9). Hence, an application for winding up
 and a winding up order (s 470(1)) must be lodged with ASIC; as must reports from
 liquidators concerning the company being wound up and its affairs: ss 476, 533.
 ASIC is also responsible for the approval of prescribed forms (Corporations Act,
@@ -867,7 +867,7 @@ if it is considered to be incorrect.24
 398     Keay's Insolvency: Personal and Corporate Law and Practice                  [10.135]
 
 Liquidators
-[10.135] Liquidators are necessarily central to any winding up. Their signiﬁcant
+[10.135] Liquidators are necessarily central to any winding up. Their significant
 powers and responsibilities will be explained shortly.
 Unlike personal insolvency, all liquidators (600-700 in Australia) are private
 individuals; there is no government liquidator, for instance, as there is in the form
@@ -882,10 +882,10 @@ bankruptcy trustees into corporate insolvency law. An outline of the process in
 corporate insolvency is given but readers are referred to more detail about the
 process in Chapter 2.
 Application to become a liquidator
-[10.145] Any person with the required experience and qualiﬁcations can apply
+[10.145] Any person with the required experience and qualifications can apply
 to ASIC to be registered as a liquidator and thereby be authorised under the law to
 administer corporate external administrations.Liquidation is the dominant focus of
-the insolvency profession and, in fact, many of the larger insolvency ﬁrms have no
+the insolvency profession and, in fact, many of the larger insolvency firms have no
 focus on bankruptcy at all.
 As with trustees in bankruptcy, liquidators are usually professional accountants,
 and as such they are bound by the Code of Ethics for Professional Accountants,25
@@ -893,13 +893,13 @@ and, depending on their professional body membership, by the ARITA Code or
 APES 330 – Insolvency Services.
 On a person applying for registration, a committee is convened comprising an
 ASIC representative, a nominee of the Minister and a registered liquidator of at
-least ﬁveyears' experience chosen by ARITA (IPSC, s 20-10). The committee
+least fiveyears' experience chosen by ARITA (IPSC, s 20-10). The committee
 interviews the applicant and decides whether they should be registered: IPSC,
 s 20-20.
 In some cases, the applicant can be required to sit an exam.
 See ASIC's Liquidator Registration Checklist.
-Qualiﬁcations and experience etc
-[10.150] IPRC, s 20-1 sets out the qualiﬁcations, experience, knowledge and
+Qualifications and experience etc
+[10.150] IPRC, s 20-1 sets out the qualifications, experience, knowledge and
 abilities that a person must have. Practically, applicants are accountants of
 considerable experience in liquidation and insolvency practice. They must be able
 to demonstrate the completion of set academic requirements in accounting and
@@ -923,13 +923,13 @@ having been a bankrupt, disqualify a person from being a liquidator: IPSC,
 s 20-20(4).
 The committee may decide that registration should be made subject to certain
 conditions, for example that the liquidator only take appointments jointly for the
-ﬁrst year: IIPSC, s 20-20(6). The liquidator can then or later request a variation or
+first year: IIPSC, s 20-20(6). The liquidator can then or later request a variation or
 removal of any conditions: IPSC, ss 20-40 to 20-65.
 The new liquidator must undertake at least 40 hours of continuing professional
 education (CPE) each year : IPSC, s 20-35; IPRC, s 20-5.
 The committee must give its reasons for decision to the applicant and to ASIC,
 including details of any conditions imposed: IPSC, s 20-25.
-ASIC must then register the applicant, subject to being satisﬁed that prior insurance
+ASIC must then register the applicant, subject to being satisfied that prior insurance
 is in place, and the application fee has been paid. That is, there is no separate
 discretion of ASIC to reject a committee's decision. The liquidator's name and
 details are entered on the Register of Liquidators. The registration lasts for three
@@ -938,17 +938,17 @@ years and must then be renewed.
 The committee
 [10.155] The committee processes are set out in IPRC, Div 50. A committee must
 accord natural justice but is not strictly bound by rules of evidence. The persons on
-the committee must not have any conﬂict of interest nor material personal interest
-in the applicant or their ﬁrm.
+the committee must not have any conflict of interest nor material personal interest
+in the applicant or their firm.
 
 On-going obligations
 [10.160] Liquidators must lodge an annual liquidator return (Form 908) by the
 end of each "liquidator return year", being the 12-month anniversary of the date of
-their initial registration. Among other things, the liquidator must conﬁrm they have
+their initial registration. Among other things, the liquidator must confirm they have
 maintained adequate insurance: IPSC, s 30-1.
 A liquidator must notify ASIC if certain events occur, such as their bankruptcy or
-their conviction of a serious offence: IPSC, s 35-1. See RL30 Notice of signiﬁcant events
-involving a liquidator. Other events must be notiﬁed, including, if information in a
+their conviction of a serious offence: IPSC, s 35-1. See RL30 Notice of significant events
+involving a liquidator. Other events must be notified, including, if information in a
 return is found to be incorrect (RL31 Notice of inaccuracy in a return), or they cease to
 practise, or change their address: IPSC, s 35-5.
 400     Keay's Insolvency: Personal and Corporate Law and Practice                          [10.165]
@@ -973,7 +973,7 @@ functions of a registered liquidator under the Act. The Register also records
 "disciplinary action" (IPRC, s 5-5) against liquidators.26
 
 Insurance
-[10.180] There are particular professional indemnity and ﬁdelity insurance
+[10.180] There are particular professional indemnity and fidelity insurance
 requirements imposed on liquidators: IPSC, Div 25, s 25-1.
 
 Objects
@@ -1012,7 +1012,7 @@ subject to excluded ASIC decisions listed in s 1317C.
 The Federal Circuit Court has no jurisdiction in corporate insolvency: Alfaro v
 Crown Commercial Cleaning Pty Ltd [2012] FMCA 478.
 Under s 10 of the Cross-Border Insolvency Act 2008, the Federal Court and the State
-and Territory Supreme Courts are the courts speciﬁed in Art 4 of the Model Law as
+and Territory Supreme Courts are the courts specified in Art 4 of the Model Law as
 courts competent to perform the functions referred to in the Model Law relating to
 recognition of foreign proceedings and co-operation with foreign courts.
 We earlier examined the role of these courts in the making of winding up orders
@@ -1029,7 +1029,7 @@ For example, courts may:
 • order the stay or termination of a winding up during its term (s 482);
 • appoint a liquidator to review an external administration of an appointed
   liquidator (IPSC, s 90-23(6));
-• give leave to a person disqualiﬁed as a liquidator to so act (s 532(2));
+• give leave to a person disqualified as a liquidator to so act (s 532(2));
 • change, in effect, the priority structure laid down for the repayment of creditors
   by liquidators (s 564);
 • give leave to assign a right to sue under IPSC, s 100-5; and
@@ -1111,7 +1111,7 @@ employee of the company, or a mortgagee of the company, or is the company
 auditor: s 532(5)
 Apart from the restrictions of s 532, liquidators must not seek appointment if they
 are not independent or reasonably seen as not being independent. Independence of
-liquidators is a signiﬁcant issue and can apply at the time the liquidator seeks to be
+liquidators is a significant issue and can apply at the time the liquidator seeks to be
 appointed, or after, when their appointment may be challenged: see [10.445]. In that
 respect, 532 does not provide an exhaustive list of the persons who should not be
 appointed as a liquidator in particular circumstances: Re Pinklillies Pty Ltd;
@@ -1126,8 +1126,8 @@ provides that the Model Law is taken to refer to a registered liquidator as bein
 generally able to take an appointment where relevant.
 
 Classifying the liquidator
-[10.205]     The office of liquidator does not ﬁt any precise legal category or
-classiﬁcation, being a hybrid composite with elements of ﬁduciary, liquidator,
+[10.205]     The office of liquidator does not fit any precise legal category or
+classification, being a hybrid composite with elements of fiduciary, liquidator,
 agent, officer of the corporation and officer of the court. Liquidators differ from the
 normal agent, however, in that they themselves control the actions of their
 principal, ie the company. Those duties as agent of the company are subject to the
@@ -1147,12 +1147,12 @@ that purpose.
 They nevertheless remain, like trustees, subject to the control and direction of the
 court: see IPSC, Div 90. They must discharge their duties fairly and in accordance
 with the law and their own professional judgment, which the courts will respect.
-These duties can include the conduct of signiﬁcant investigations, legal proceedings
+These duties can include the conduct of significant investigations, legal proceedings
 and examinations.
 For these reasons, the courts seek to ensure that the powers given to a liquidator
 are used impartially and for a proper purpose; the corollary being that the court
 will not permit a liquidator to be sued by a creditor or have an inquiry made under
-the law unless it is satisﬁed that the concern is based on a prima facie case: Re
+the law unless it is satisfied that the concern is based on a prima facie case: Re
 Siromath Pty Ltd (No 3) (1991) 9 ACLC 1,587, or if the litigation is vexatious Re Magic
 Aust Pty Ltd (1992) 10 ACLC 929; Re Biposo (1995) 13 ACLC 1,271.29 The courts also
 act to protect the integrity of the winding up process to ensure there is no wrongful
@@ -1171,14 +1171,14 @@ does not act at their direction, but in their interests, and their control of th
 is limited. This unique position confers strong powers on the liquidator over the
 creditors and other stakeholders involved in the liquidation. Those powers and
 obligations to the disparate interested parties impose on the liquidator a high
-standard of ﬁduciary responsibility and independence of action.
+standard of fiduciary responsibility and independence of action.
 The position of the liquidator vis-à-vis creditors and other parties was emphasised
 by the court in ASIC v Edge [2007] VSC 170; (2007) 211 FLR 137. The court described
 the "conferral of wide and extensive powers" on the liquidator under s 477 of the
 Corporations Act and in relation to the right to obtain information and be assisted by
 the company's officers. The court continued at [44]:
      "The extensive powers vested exclusively in the liquidator entail a corresponding
-     vulnerability in the creditors, members and the public. The liquidator is a ﬁduciary on
+     vulnerability in the creditors, members and the public. The liquidator is a fiduciary on
      whom high standards of honesty, impartiality and probity are imposed both by the Act
      and the general law."
 
@@ -1198,7 +1198,7 @@ judgment: ASIC v Edge at [637]. Nevertheless, they should know when to seek
 professional advice.
 
 Independence
-[10.210] It follows from the ﬁduciary and other responsibilities of liquidators
+[10.210] It follows from the fiduciary and other responsibilities of liquidators
 that they must be independent and impartial in the way they conduct
 administrations, and they also must be seen to be independent, that is, they must
 not have any perceived lack of impartiality or independence.33 This is also the case
@@ -1208,7 +1208,7 @@ Given the wide range of competing interests in an insolvency, and the fact that 
 liquidator is determining and distributing moneys to competing claimants, a
 liquidator has to carefully assess his or her independence and perceived
 independence on taking an appointment and throughout the administration. An
-appearance of conﬂict can be as important as the reality of one, even when there is
+appearance of conflict can be as important as the reality of one, even when there is
 no question of the liquidator's good faith: Re Club Superstores Australia Pty Ltd
 (1993) 10 ACSR 730; ASIC v Franklin [2014] FCAFC 85; (2014) 223 FCR 204. In such
 cases, a liquidator may decide to seek directions from the court to justify their
@@ -1225,7 +1225,7 @@ liquidators are in business and must actively cultivate professional relationshi
 In that case it was held that the referral relationship between the liquidators and a
 private equity adviser could give rise to a perception of bias where the adviser was
 involved in selecting the liquidators, had previously worked with the liquidators'
-ﬁrm and it would be expected that future work would be given to their ﬁrm. The
+firm and it would be expected that future work would be given to their firm. The
 private equity adviser had been involved in a number of asset sale transactions
 with the companies in liquidation and the liquidators would be required to
 
@@ -1251,10 +1251,10 @@ which the court is asked to review an issue of independence, the views of credit
 are important. In Walley, in the matter of Poles & Underground Pty Ltd (Administrators
 Appointed) [2017] FCA 486, the court took note of the fact that no creditor raised any
 issue about the liquidators' independence.
-The courts will replace a conﬂicted liquidator even where this will increase the
+The courts will replace a conflicted liquidator even where this will increase the
 costs of the liquidation in having a new person take over; at the same time, the cost
 of replacement can be a factor against replacement depending on the extent of the
-conﬂict.
+conflict.
 Many of the issues to do with independence arise out of relationships that the
 liquidator has had with the company or its directors or creditors prior to the
 appointment. However, it is not every prior association that will lead to a lack of
@@ -1277,13 +1277,13 @@ been "slightly eroded" in other respects, such as by:
 34 See ARITA Code (3rd ed), at [6.6].
 35 See also ASIC v Edge [2007] VSC 170; (2007) 211 FLR 137.
 36 See the "Explanatory Memorandum to the Corporations Amendment (Insolvency) Bill 2007 (Cth)"
-   which says that disclosure of a relationship to creditors "will in no way 'cure' any conﬂict of interest
-   or conﬂict of duties that may arise out of that relationship, even if creditors approve the
+   which says that disclosure of a relationship to creditors "will in no way 'cure' any conflict of interest
+   or conflict of duties that may arise out of that relationship, even if creditors approve the
    appointment after the declaration is made". However the Memorandum also refers to "relationships
-   where a conﬂict might be perceived to exist in the absence of full disclosure": at [4.73]-[4.75].
+   where a conflict might be perceived to exist in the absence of full disclosure": at [4.73]-[4.75].
 [10.215]                                   10 Introduction to Liquidation and Its Administration   407
 
-   (b) the practice to permit a voluntary liquidator to be appointed who has given ﬁnancial
+   (b) the practice to permit a voluntary liquidator to be appointed who has given financial
        advice to the directors: National Australia Bank Ltd v Market Holdings Pty Ltd [2001]
        NSWSC 253; (2001) 19 ACLC 710, 733; Bovis Lend Lease v Wily [2003] NSWSC 467;
        (2003) 45 ACSR 612.
@@ -1298,7 +1298,7 @@ ASIC [2012] FCA 368, the court would not appoint a liquidator to a company that
 was to have its registration reinstated because he had advised one of the directors
 on a possible insolvent trading claim against the director.
 In Re Korda, Ten Network Holdings Ltd (Administrators Apptd) (Recs and Mgrs Apptd)
-[2017] FCA 914, where the conduct of pre-appointment business reviews by a ﬁrm
+[2017] FCA 914, where the conduct of pre-appointment business reviews by a firm
 whose partners then became administrators was not held to compromise
 independence where the pre-appointment engagement was narrow in its scope and
 did not involve advice to the company or the directors. The court appointed a
@@ -1306,7 +1306,7 @@ registered liquidator to act as a special investigator to report to creditors on
 potential for pre-appointment work by the administrators to be set aside as a
 voidable transaction.39
 A liquidator's role as investigating accountant will often prevent their later
-appointment, despite the beneﬁt of the knowledge of the company gained from
+appointment, despite the benefit of the knowledge of the company gained from
 that process (Wood v Targett [1997] FCA 232; (1997) 23 ACSR 291); and in particular
 where there is a possible claim arising out of the adequacy of the investigating
 report.
@@ -1318,8 +1318,8 @@ relationship to creditors in the declaration of indemnities required under the
 Corporations Act: see, for example, s 436DA.
 
 Liquidators and their lawyers
-[10.215] Liquidators, and their lawyers, have to have regard to joint conﬂicts, for
-example where a liquidator uses the law ﬁrm that also advises a major creditor or
+[10.215] Liquidators, and their lawyers, have to have regard to joint conflicts, for
+example where a liquidator uses the law firm that also advises a major creditor or
 the petitioning creditor, or the creditor funding the liquidator's proceedings. Of
 
 37 See Ziziphus Pty Ltd v Pluton Resources Ltd (rec & man apptd) (in liq) [2017] WASCA 193, discussed at
@@ -1330,28 +1330,28 @@ the petitioning creditor, or the creditor funding the liquidator's proceedings. 
    (2017) 28 JBFLP 343.
 408      Keay's Insolvency: Personal and Corporate Law and Practice                [10.220]
 
-itself this raises no issue and, in fact, may be beneﬁcial if the law ﬁrm brings its
+itself this raises no issue and, in fact, may be beneficial if the law firm brings its
 knowledge of the company through its work done for the creditor. There will be an
 issue if the debt of the creditor is likely to be contested by the liquidator: Re Kala
-Capital Pty Ltd [2012] NSWSC 1073 at [29]; Accord Paciﬁc Holdings Pty Ltd v Gleeson
+Capital Pty Ltd [2012] NSWSC 1073 at [29]; Accord Pacific Holdings Pty Ltd v Gleeson
 [2011] NSWSC 1021 at [30]. Separately, lawyers have their own obligations to
 ensure their independence.40
 
 Group companies
 [10.220] An appointment of one liquidator to a group of companies in external
 administration can be a sensible arrangement, even though there is the potential for
-conﬂicts of interests between the companies to arise. The courts take a practical and
+conflicts of interests between the companies to arise. The courts take a practical and
 commercial approach to the question with a view to advancing the efficiency of the
 liquidation of the group and taking advantage of costs efficiencies: ASIC v Westpoint
 [2006] FCA 135; (2006) 56 ACSR 646; Re Chilia Properties Pty Ltd (1997) 73 FCR 171.
 However, the courts will expect that the appointee be "alive to the possibility" that
-conﬂicts may arise in which event it is expected that the appointee will approach
+conflicts may arise in which event it is expected that the appointee will approach
 the court for directions: Willow Court Retirement Village Pty Ltd v ASIC [2007]
 NSWSC 76.
 
 Special purpose liquidators
 [10.225] If an issue of independence arises, the court may decide to appoint a
-"special purpose liquidator" to address a particular issue in which the conﬂict
+"special purpose liquidator" to address a particular issue in which the conflict
 arises, for example where there are disputed transactions between companies in the
 insolvent group: Re McGrath [2006] NSWSC 385.41
 The need for such special purpose appointments can arise in the liquidation of one
@@ -1364,7 +1364,7 @@ office; hence the expense and loss of expertise involved in the resignation of t
 liquidator in a partially completed administration is avoided: Onefone Australia Pty
 Ltd v One.Tel Ltd [2003] NSWSC 1228; (2003) 48 ACSR 562. Special purpose
 liquidators were appointed in GDK Projects Pty Ltd v Umberto Pty Ltd (in liq) [2018]
-FCA 541 because a signiﬁcant creditor was only willing to fund their nominated
+FCA 541 because a significant creditor was only willing to fund their nominated
 person as liquidator to conduct certain investigations. This is a common feature of
 such appointments. The orders were made under IPSC, s 90-15.
 
@@ -1378,7 +1378,7 @@ creditors should nevertheless be informed. These are to be disclosed through
 41 See further Re Spedley Securities Ltd (1991) 4 ACSR 555.
 [10.240]                                   10 Introduction to Liquidation and Its Administration   409
 
-"declarations of relevant relationships" as deﬁned in s 60 of the Corporations Act.
+"declarations of relevant relationships" as defined in s 60 of the Corporations Act.
 This was to address some community concerns about practitioner independence.
 The declarations allow creditors to make a more informed decision about whether
 to retain or replace the administrator. While a lack of independence may not arise
@@ -1391,30 +1391,30 @@ The circumstances of the Network Ten appointment43 led to some close analysis of
 the declarations made by the administrators.
 
 Duties of the liquidator
-[10.235] We have seen that the liquidator owes ﬁduciary duties to the company,
+[10.235] We have seen that the liquidator owes fiduciary duties to the company,
 its creditors and members. Besides these duties, liquidators owe other, more
-speciﬁc, duties. The duties of a liquidator are contained in the Corporations Act and
+specific, duties. The duties of a liquidator are contained in the Corporations Act and
 in the case law. Generally, these duties are common for liquidators in both
-compulsory and voluntary windings up. Some of the more speciﬁc duties in the
+compulsory and voluntary windings up. Some of the more specific duties in the
 Corporations Act differ, depending on the type of liquidation involved.
 
 Fiduciary duties
-[10.240] The fact that the liquidator is a ﬁduciary has a number of implications.
+[10.240] The fact that the liquidator is a fiduciary has a number of implications.
 The liquidator must comply with certain obligations.44
 • To act honestly: This includes the obligation to exercise the powers conferred
-  bona ﬁde and for the purposes for which such powers were conferred.45 This
+  bona fide and for the purposes for which such powers were conferred.45 This
   equitable obligation is supplemented by s 181 of the Corporations Act which
   imposes the obligation of acting in good faith in the best interests of the
   corporation and for a proper purpose on officers, which includes liquidators.
-• To avoid a conﬂict of interest: A ﬁduciary is not to permit their personal interests
-  to conﬂict with the interests of those to whom a duty is owed. This obligation
-  applies in a number of ways. First, a liquidator cannot proﬁt from their position,
+• To avoid a conflict of interest: A fiduciary is not to permit their personal interests
+  to conflict with the interests of those to whom a duty is owed. This obligation
+  applies in a number of ways. First, a liquidator cannot profit from their position,
   either directly or indirectly, except by way of remuneration for work done: IPSC,
   s 60-20; Commissioner for Corporate Affairs v Harvey [1980] VR 669. This is
   supplemented by s 182 of the Corporations Act in that an officer is not to make
   improper use of their position to gain an advantage. Secondly, a liquidator is not
   at liberty to make contracts with the company. A liquidator who becomes aware
-  of a potential conﬂict should apply to the court for leave to resign: Commissioner
+  of a potential conflict should apply to the court for leave to resign: Commissioner
   for Corporate Affairs v Harvey.
 
 42 "Explanatory Memorandum to the Corporations Amendment (Insolvency) Bill 2007 (Cth)", [4.72].
@@ -1428,14 +1428,14 @@ The liquidator must comply with certain obligations.44
 • To act impartially: A liquidator must not favour anyone and must not act as the
   agent of any group: Bovis Lend Lease v Wily [2003] NSWSC 467; (2003) 45 ACSR
   612.
-However, the liquidator does not owe ﬁduciary duties to individual creditors, who
+However, the liquidator does not owe fiduciary duties to individual creditors, who
 cannot, for example, sue the liquidator for compensation arising from breach of
-those duties. The liquidator's ﬁduciary obligation as an officer of the company is
+those duties. The liquidator's fiduciary obligation as an officer of the company is
 owed to the company itself, to act properly and with due care and diligence, and
 the company (or another party through a derivative action) may seek to enforce
 that duty: see Macks v Viscariello [2017] SASCFC 172. Nor is every task of a
-liquidator subject to their ﬁduciary duties. In Macks, it was held that compliance
-with statutory reporting obligations did not give rise to ﬁduciary duties because
+liquidator subject to their fiduciary duties. In Macks, it was held that compliance
+with statutory reporting obligations did not give rise to fiduciary duties because
 those duties are proscriptive and not prescriptive in Australia (following Breen v
 Williams [1996] HCA 57; (1996) 186 CLR 71).
 
@@ -1450,7 +1450,7 @@ exercise the degree of skill and diligence required.
 A liquidator is duty-bound to complete the administration of the affairs of the
 company within a reasonable time and without protracting the liquidation where
 there is no reason to do so. Liquidators may be in breach of duty if they do not seek
-the advice of professionals in areas in which they are not qualiﬁed, for example, a
+the advice of professionals in areas in which they are not qualified, for example, a
 solicitor in respect of a legal issue or a valuer regarding the value of property. In
 City & Suburban v Smith [1998] FCA 822, (1998) 28 ACSR 328 the liquidator had
 incorrectly determined a complex legal issue of whether the company was the
@@ -1473,7 +1473,7 @@ the company's sole director to query the reason for substantial funds being
 [10.260]                                    10 Introduction to Liquidation and Its Administration   411
 
 withdrawn shortly before the commencement of the liquidation was breach of the
-duty of care. It was not sufficient for the liquidator to merely rely on ﬁnancial
+duty of care. It was not sufficient for the liquidator to merely rely on financial
 records.
 Liquidators can owe a duty of care to third parties, such as guarantors of the
 company's debt: Perpetual Nominees Ltd v McGoldrick [2017] VSC 78; (2017) 120
@@ -1490,12 +1490,12 @@ delegate the exercise of their professional judgment and discretion.47
 
 Statutory duties
 [10.255] As already indicated, a liquidator as an officer of the company for the
-purposes of ss 180 – 183 of the Corporations Act, owes certain speciﬁc statutory
+purposes of ss 180 – 183 of the Corporations Act, owes certain specific statutory
 duties supplementing the duties just discussed. Sections 180 – 182 have already
 been mentioned. Section 183 requires the liquidator not to make improper use of
 inside information to gain an advantage.
 
-Speciﬁc duties
+Specific duties
 Duty to ascertain and take possession of and, if necessary, recover assets
 [10.260] In many ways the duty to ascertain and take possession of and, if
 necessary, recover assets is the liquidator's principal duty. Section 478(1) of the
@@ -1528,14 +1528,14 @@ time in order to protect its goodwill and to enable it to be sold as a going con
 for a better price than simply selling its assets. Power for this purpose exists under
 s 477(1)(a).
 After obtaining possession of assets, the liquidator has the duty to deal with them
-as far as is necessary for the beneﬁcial winding up of the company. The powers of
+as far as is necessary for the beneficial winding up of the company. The powers of
 the liquidator to realise assets is considered at [15.230]. Naturally, realisation is a
 necessary precursor to a distribution of any dividends to the creditors.
 Duty to lodge notice of appointment and to register for GST
 [10.270] Within 14 days of being appointed, the liquidator must lodge notice of
 their appointment with ASIC (Corporations Act, s 537; Form 505) and with the
 Commissioner of Taxation: Taxation Administration Act 1953 (Cth), Sch 1, s 260-45.
-State legislation has similar notiﬁcation obligations in respect of the relevant
+State legislation has similar notification obligations in respect of the relevant
 revenue commissioner: see, for example, s 99 of each of the Payroll Tax Act 2007
 (NSW) and Payroll Tax Act 2007 (Vic).
 In addition, a liquidator is obliged to become registered within 21 days as the
@@ -1548,7 +1548,7 @@ The liquidator may also be obliged to complete tax returns for the company,
 including pre-appointment returns: see http://www.ato.gov.au.
 Duty to keep records and accounts
 [10.275] The liquidator must promptly pay all company money into a single
-administration account for each administration within ﬁve business days of receipt
+administration account for each administration within five business days of receipt
 (IPSC, s 65-10) and ensure the other funds handling requirements in IPSC, Div 65
 are met. A single account may be opened for a pooled group. Court directions can
 be sought about the payment, deposit or custody of moneys: IPSC, s 65-45.
@@ -1559,7 +1559,7 @@ inspection at the liquidator's office: IPSC, s 70-10. The creditors or contribut
 may wish to inspect these books as a way of enabling them to monitor the progress
 of the winding up, although this would be unusual. Creditors will generally be
 informed by reports and at meetings.
-Section 70-35 of the IPSC speciﬁes the duties of the liquidator in maintaining the
+Section 70-35 of the IPSC specifies the duties of the liquidator in maintaining the
 books of the company kept before winding up, and, ultimately, when those records
 may be destroyed: see [17.65].
 [10.280]                                    10 Introduction to Liquidation and Its Administration   413
@@ -1579,7 +1579,7 @@ to the liquidator within 10 business days of the winding up order being made:
 s 475(4); ASIC Form 507.
 If the company will not pay unsecured creditors more than 50 cents in the dollar, or
 a company officer may have breached the law, s 533 requires a liquidator (in any
-type of winding up) to ﬁle a report with ASIC. ASIC will then investigate and
+type of winding up) to file a report with ASIC. ASIC will then investigate and
 pursue those offences, in its discretion. This is similar to the offence reporting to
 AFSA required of trustees in bankruptcy under s 19(1)(i) of the Bankruptcy Act.
 Subject to funds being available, and the commercial decisions of the liquidator, the
@@ -1590,7 +1590,7 @@ recovered. Secondly, to ascertain whether, in the public interest, breaches of t
 may have been committed. Investigations to a level necessary to be able to report to
 ASIC under s 533 are required, whatever the level of funding available.
 The investigations will vary depending on the company's history and operations.
-The liquidator will examine books, accounts and ﬁnancial records, interview
+The liquidator will examine books, accounts and financial records, interview
 company officers and employees, and conduct searches of public records and titles.
 The liquidator is often in an invidious position, coming to a company knowing
 little or nothing about it; its books and accounts have often been poorly maintained
@@ -1602,7 +1602,7 @@ are officers or former officers of the company. This examination is discussed mo
 fully at [15.125] – [15.200].
 The investigative and reporting role of the liquidator can be expansive, depending
 on the nature of the company's business and its impact, and it can engender
-signiﬁcant political and media interest, apart from the interest of creditors.48 Major
+significant political and media interest, apart from the interest of creditors.48 Major
 
 48 Although, in relation to the One.Tel collapse, the court considered that it was not the liquidator's
    function to ensure that the particular winding up was accurately reported by the media, at least in so
@@ -1617,7 +1617,7 @@ The court in ASIC v Midland Hwy Pty Ltd [2015] FCA 1360, said that major corpora
 losses required full investigation and, if appropriate, the institution of recovery
 proceedings. These were "appropriately done by a liquidator, rather than ASIC". A
 liquidator has the necessary role and focus to carry out the investigations. If
-necessary, ASIC may ﬁnance that task but "it is not ASIC's role or obligation to
+necessary, ASIC may finance that task but "it is not ASIC's role or obligation to
 undertake the detailed investigation required and even if it were, a liquidator is
 best placed to do this".
 
@@ -1654,7 +1654,7 @@ administration and is therefore expected by the community to undertake some
 level of investigation and provide advice as to why the company failed and who
 
 49 Even though s 545 does not appear to apply to a liquidator's time costs, as distinct from expenses
-   payable to third parties, it is arguable that the principle it reﬂects should "inform an understanding
+   payable to third parties, it is arguable that the principle it reflects should "inform an understanding
    of the liquidator's role": Re ACN 151 726 224 Pty Ltd (in liq) [2016] NSWSC 1801 at [57].
 [10.310]                                     10 Introduction to Liquidation and Its Administration    415
 
@@ -1708,15 +1708,15 @@ the Bankruptcy Act.
 Restriction on right to compromise a debt: s 477(2A)
 [10.315] There are limitations on some powers referred to in s 477(1). A
 liquidator is not entitled to compromise a debt owed to the company where the
-debt owed is greater than $100,000 (reg 5.4.02) without ﬁrst obtaining the consent of
+debt owed is greater than $100,000 (reg 5.4.02) without first obtaining the consent of
 the creditors, committee of inspection or the court: s 477(2A).53 This imposes some
 oversight on the liquidator so that the company does not forgo large sums which
 might otherwise be available for creditors: State Bank of NSW v Turner Corp Ltd
 (1994) 14 ACSR 480, 483. However, the courts accept that the liquidator is usually in
 the best position to determine whether a compromise is in the best interests of
 creditors.54 There is no similar restriction imposed on a trustee in bankruptcy.
-If there is a conﬂict between the liquidator and some of the creditors as to the
-beneﬁt of a compromise, the creditors must establish "some lack of good faith, error
+If there is a conflict between the liquidator and some of the creditors as to the
+benefit of a compromise, the creditors must establish "some lack of good faith, error
 in law or principle or some real or substantial ground" for doubting the liquidator's
 proposal and there is an onus on the creditors to show this. If the compromise
 involves the settlement of existing litigation, the court would expect evidence in the
@@ -1724,7 +1724,7 @@ form of advice of counsel dealing with the litigation, its issues and possible
 outcomes and considering the proposal in the light of these matters.55
 Leave is only required in respect of the compromise of a "debt". This does not
 include a preference payment (Re Luxtrend Pty Ltd [1997] 2 Qd R 86), a claim for
-breach of ﬁduciary duty and misleading and deceptive conduct (Farrow Finance Co
+breach of fiduciary duty and misleading and deceptive conduct (Farrow Finance Co
 Ltd v ANZ Executors and Trustees Co Ltd [1998] 1 VR 50), a claim for damages for
 breach of contract (Cvitanovic v Marsdens Law Group [2012] NSWSC 205) or a breach
 of trust under the principles of Barnes v Addy (Re Tietyens Investments Pty Ltd [1999]
@@ -1767,11 +1767,11 @@ include:
 • the role of the court is to grant or refuse approval. It is not to develop an
    alternative proposal.
 • while the power of the liquidator to do "things as are necessary" has a broad
-   meaning, the court must be satisﬁed that there is a good and solid reason for
+   meaning, the court must be satisfied that there is a good and solid reason for
    concluding that the winding up would be enhanced by the funding agreement,
    compared with the ordinary deployment of surplus funds. The enhancement
    must be demonstrated by some informed and independent assessment of the
-   separate and selﬁsh interests of the funding company.
+   separate and selfish interests of the funding company.
 • the court will not generally review a liquidator's commercial judgment or second
    guess its decision.
 • the court will scrutinise a liquidator's decision closely where there appears to be
@@ -1783,7 +1783,7 @@ indemnity will be provided; the extent to which the liquidator has considered ot
 funding options; the interests of creditors and the extent to which the liquidator has
 consulted them; the liquidator's general prospects of success in the litigation; any
 possible oppression in bringing the proceedings; the nature and complexity of the
-cause of action; any particular premium or beneﬁt promised including whether it is
+cause of action; any particular premium or benefit promised including whether it is
 proportionate to the risk undertaken by the funder; whether the liquidator is
 subject to any control over the conduct of the litigation, other than the usual
 obligation to keep the funder informed, and whether there is a mechanism for
@@ -1813,10 +1813,10 @@ company in trust as they are not "property of the company". The liquidator may,
 however, sell the rights that the company has against the assets, that is, an equitable
 charge over the assets to cover the trustee's right of indemnity. The equitable
 charge can support a court application to appoint a receiver with a power of sale:
-Re Stansﬁeld DIY Wealth Pty Ltd [2014] NSWSC 1484; (2014) 103 ACSR 401; Re
+Re Stansfield DIY Wealth Pty Ltd [2014] NSWSC 1484; (2014) 103 ACSR 401; Re
 Mecfab Holdings Pty Ltd [2015] NSWSC 46.
 The terms of the funding agreement are usually disclosed to the court although
-conﬁdentiality orders are often made: Goyal, in the matter of Tiaro Coal Limited (In
+confidentiality orders are often made: Goyal, in the matter of Tiaro Coal Limited (In
 Liq) [2017] FCA 1252.
 Section 477(2B) also applies to an entry into a deed of settlement by the liquidator
 that may extend over the three month period. Approval under both subsections
@@ -1827,7 +1827,7 @@ Ltd v Vince [2000] VSC 324; (2000) 35 ACSR 167; Stewart, in the matter of Newtro
 Pty Ltd [2007] FCA 1375), usually in circumstances of oversight in approval being
 obtained. Liquidators should properly seek prior approval.
 The court cannot extend time under s 477(2B) but it can excuse any late application
-under s 1322(4)(a), after ﬁrst approving the agreement by reference to the criteria in
+under s 1322(4)(a), after first approving the agreement by reference to the criteria in
 s 477(2B): Re Read [2007] FCA 1985; (2007) 164 FCR 237.
 
 Costs and litigation
@@ -1881,10 +1881,10 @@ Corporations Act: Re Dallhold Investments Pty Ltd (1994) 53 FCR 339; Cummeragung
 Pty Ltd v ATSIC [2004] FCA 1098; (2004) 139 FCR 73.
 Nevertheless, s 477(2)(m) of the Act is a broad catch-all provision, giving a
 liquidator power to do "anything expedient with reference to, or conducive to, the
-beneﬁcial pursuit towards completion of the winding up of affairs and distribution
+beneficial pursuit towards completion of the winding up of affairs and distribution
 of property" Re McGrath; HIH Insurance Ltd [2010] NSWSC 404; (2010) 78 ACSR 405;
 Re Bairnsdale Food Products Ltd (1948) VLR 264. The word is not synonymous with
-"essential" or "indispensable" and is therefore not conﬁned to matters without
+"essential" or "indispensable" and is therefore not confined to matters without
 which winding-up and distribution cannot occur. But the existence of the power
 must be distinguished from the propriety of its exercise, meaning that the outcome
 or consequences of the action proposed must also be considered. The power was
@@ -1903,8 +1903,8 @@ Approval has been given for companies of a corporate group to enter into an
 agreement, supported by s 477(2)(m), each of the companies entering into and
 performing the proposed agreement: Woodings, in the matter of the Bell Group Limited
 [2016] FCA 369; and for a liquidator's exercise of the power of sale of property
-initially purchased under the company's right of ﬁrst refusal as lessee. That
-purchase was justiﬁed as an incident of the subsequent sale with reliance on former
+initially purchased under the company's right of first refusal as lessee. That
+purchase was justified as an incident of the subsequent sale with reliance on former
 provision equivalent of s 477(2)(m): Re Bairnsdale Food Products Ltd.
 While it is a broad power, not all of the powers formerly exercisable by particular
 officers of a company are transferred to the liquidator but in a loose way this is
@@ -1912,18 +1912,18 @@ sufficiently descriptive of what in reality occurs: Butterell v Docker Smith Pty
 (1999) 41 NSWLR 129.
 
 Other powers
-[10.340] Liquidators, as well as trustees, have signiﬁcant powers to search for
+[10.340] Liquidators, as well as trustees, have significant powers to search for
 and seize company books: s 530B; apply to the court for a search warrant: s 530C
 and to conduct public examinations. These powers are discussed in detail in
 Chapter 15.
 There are certain powers which reside in the court which, through r 7.10 of the
 Courts' Corporations Rules, are in effect delegated to the liquidator: Corporations Act,
 s 488(1). These include the holding and conducting of meetings of creditors,
-adjusting of the rights of contributories, and ﬁxing of the time within which debts
+adjusting of the rights of contributories, and fixing of the time within which debts
 and claims must be proved. However, a liquidator may only distribute a surplus to
 members with the court's special leave and on affidavit evidence being provided by
 the liquidator: s 488(2); Courts' Corporations Rules, r 7.9, Court Form 15. The
-requirement that "special leave" be obtained simply means that a speciﬁc
+requirement that "special leave" be obtained simply means that a specific
 application for leave must be made primarily to ensure that there is in fact a
 surplus to be distributed: Visnic v Sywak [2012] NSWSC 1284. The liquidator may at
 the same time seek approval of their remuneration: Re GPJ Investments Pty Ltd
@@ -1943,9 +1943,9 @@ This equates with the position in bankruptcy, under IPSB, Div 90.
 
 Directions
 [10.345] A liquidator may apply under IPSC, Div 90 to the court for directions
-and the court may "make such orders as it thinks ﬁt": IPSC, s 90-15(1). The prior
+and the court may "make such orders as it thinks fit": IPSC, s 90-15(1). The prior
 law envisaged that a particular matter would be of a concrete character and the
-liquidator should place before the court a statement of facts that identiﬁes that
+liquidator should place before the court a statement of facts that identifies that
 matter in a particular factual context. The court would therefore not consider
 hypothetical or general questions: HIH v Building Insurers' Guarantee Corporation
 [2004] NSWSC 910; (2004) 51 ACSR 21. The discretion under IPSC, s 90-15 might
@@ -1971,11 +1971,11 @@ Southern Cross Airlines Holdings Ltd [2000] 1 Qd R 84.
 Voluntary liquidators
 [10.350] A voluntary liquidator is authorised to exercise all of the powers
 conferred by the Corporations Act on a court liquidator (s 506(1)(b)). Section 477(2A)
-and (2B) speciﬁcally apply to the liquidator just as they apply to a court liquidator:
+and (2B) specifically apply to the liquidator just as they apply to a court liquidator:
 s 506(1A). The voluntary liquidator has the power, given to a court liquidator under
 s 478, to take custody of company property and to settle a list of contributories.
 Section 506(1)(c) – (e) grants the voluntary liquidator additional powers, including
-to ﬁx the time within which debts and claims must be proved.
+to fix the time within which debts and claims must be proved.
 It should be noted again that this distinction in powers between court appointed
 and voluntary liquidators does not exist in bankruptcy. The ILRA made only some
 inroads into removing what is an unnecessary separation.
@@ -2035,7 +2035,7 @@ At this point is should be noted that "penalty privilege" has been abrogated in
 respect of liquidators, although, as we explained, not for bankruptcy trustees.64 A
 liquidator cannot refuse or fail to respond to a disciplinary process before the court
 on the basis that this may lead to a penalty in the nature of a suspension or
-disqualiﬁcation: see s 1349(3)(la).
+disqualification: see s 1349(3)(la).
 
 Show-cause notice
 [10.370] Under IPSC, s 40-40, ASIC may request a written explanation from a
@@ -2043,7 +2043,7 @@ liquidator as to why they should continue to be registered if ASIC believes that
 liquidator no longer has the relevant ability; has been convicted of an offence of
 fraud or dishonesty; or has failed to properly discharge her or his duties.65 That
 process is usually activated following some complaint about the liquidator's
-conduct or competence, or following a review of the liquidator's ﬁles by ASIC. This
+conduct or competence, or following a review of the liquidator's files by ASIC. This
 is referred to as a "show-cause" notice.
 If there is no reasonable explanation from the liquidator, a discipline committee
 must be convened under IPSC, s 40-45 to which ASIC can refer the liquidator's
@@ -2055,7 +2055,7 @@ The discipline committee
 [10.375] As in bankruptcy, the committee sits informally but must abide by
 principles of natural justice.66 Although it is not bound by the rules of evidence it
 must have regard to them. The members of the committee must be independent of
-the liquidator and his or her ﬁrm and been seen to be so. It is important that the
+the liquidator and his or her firm and been seen to be so. It is important that the
 person on the committee from ASIC not have been involved in investigating the
 liquidator's conduct. The liquidator chosen by ARITA must also meet independence
 standards and be a person with the knowledge and experience necessary to carry
@@ -2079,9 +2079,9 @@ committee considers relevant.
 
 The committee then must make a decision as to what penalty to apply. It has the
 option to cancel the registration, or allow the registration to continue subject to
-speciﬁed conditions: IPSC, s 40-55. Any such decision is reviewable to the AAT.
+specified conditions: IPSC, s 40-55. Any such decision is reviewable to the AAT.
 
-Exchange of conﬁdential conduct information between ASIC and the
+Exchange of confidential conduct information between ASIC and the
 "industry bodies"
 [10.380] An "industry body" can give ASIC a written notice of possible grounds
 for disciplinary action against a liquidator: IPSC, s 40-100. This process is the same
@@ -2095,23 +2095,23 @@ action against the liquidator using its powers.
 The industry body, and any person referring information or using it, is protected
 from any liability if they act in good faith and if their suspicion of the liquidator's
 misconduct is based on reasonable grounds: IPSC, s 40-105.68
-ASIC also has authority to give out conﬁdential information about a liquidator's
+ASIC also has authority to give out confidential information about a liquidator's
 conduct in three circumstances under the ASIC Act:
 • to ARITA and the other industry bodies, each being a "prescribed professional
   disciplinary body", to enable or assist them to perform one of their functions:
   ASIC Act, s 127(4)(d)(i); ASIC Regulations, reg 8AA(1);
-• to give conﬁdential information to a "prescribed body", being ARITA, reg 8AA(2),
+• to give confidential information to a "prescribed body", being ARITA, reg 8AA(2),
   in relation to it performing a disciplinary function in relation to one of its
   members;69 and
-• to give conﬁdential information to a disciplinary committee convened under
+• to give confidential information to a disciplinary committee convened under
   IPSC, s 40-40.
 
 Register of Liquidators
 [10.385] Some disciplinary processes and outcomes are to be recorded on the
 Register of Trustees: IPSC, s 15-1(5). These include particulars of any disciplinary
-action (deﬁned in s 5-5) but exclude the giving of a show-cause notice by ASIC
+action (defined in s 5-5) but exclude the giving of a show-cause notice by ASIC
 under s 40-40: s 15-1(2)(f). Nevertheless, while certain relevant documents are
-protected from public access under s 1274, a notice of signiﬁcant events being one
+protected from public access under s 1274, a notice of significant events being one
 (IPSC, s 35-1), other documents lodged with ASIC under Div 40 may be open to
 inspection under that section.
 
@@ -2122,17 +2122,17 @@ inspection under that section.
 
 Resignation and replacement of a liquidator
 [10.390] A court appointed liquidator may resign from a particular
-administration: s 473. The vacancy can then be ﬁlled by either ASIC or the court; in
+administration: s 473. The vacancy can then be filled by either ASIC or the court; in
 the case of an ASIC appointment, the liquidator is taken to have been appointed by
 the court: s 473A.
-In the case of a resignation of a voluntary liquidator, the vacancy can also be ﬁlled
+In the case of a resignation of a voluntary liquidator, the vacancy can also be filled
 by the creditors, as well as by ASIC or by the court: s 499(3).
 Although suspension or cancellation of registration will often be as a result of
 adverse action by ASIC, a liquidator may request ASIC to suspend or cancel their
 registration: IPSC, s 40-25(1)(f); s 40-30(1)(f). This may be because of retirement or
 due to taking long leave from the role.
 As explained earlier, if a liquidator's registration is suspended or cancelled, ASIC
-must ﬁll the consequent vacancy: IPSC, s 40-111.
+must fill the consequent vacancy: IPSC, s 40-111.
 Also, the Courts' Corporations Rules note that the court may appoint a new
 liquidator on its own initiative, during any proceedings, or on application made
 under IPSC, s 90-20; see IPSC, s 90-15(2).
@@ -2140,16 +2140,16 @@ under IPSC, s 90-20; see IPSC, s 90-15(2).
 Creditors' rights to replace a liquidator: s 90-35
 [10.395] Liquidators, both voluntary and court appointed, may also be replaced
 at any time by resolution of the creditors: IPSC, s 90-35. Reasons can include
-creditor dissatisfaction with the liquidator, or convenience (a conﬂict of interest
+creditor dissatisfaction with the liquidator, or convenience (a conflict of interest
 may have arisen).
-At least ﬁve business days' notice of the meeting must be given to the creditors.
+At least five business days' notice of the meeting must be given to the creditors.
 The law allows the former liquidator who has been removed to apply to the court
 to be reappointed. If they do so, they must record all their costs incurred in relation
 to the application in a way that separates those costs from their costs incurred in
 relation to other matters.
-The court may order that the former liquidator be reappointed if it is satisﬁed that
+The court may order that the former liquidator be reappointed if it is satisfied that
 the removal was an improper use of the powers of one or more creditors.
-The court may make such other orders in relation to the application as it thinks ﬁt,
+The court may make such other orders in relation to the application as it thinks fit,
 including orders in relation to the costs of the application and the remuneration of
 the former liquidator.
 The law imposes no obligation on a replaced former liquidator to apply for
@@ -2181,7 +2181,7 @@ Such applications are normally made to the court that made the winding up order
 although this is not strictly necessary.
 The court's orders in relation to a registered liquidator: s 45-1
 [10.405] IPSC, s 45-1 allows the court, "on its own initiative during proceedings
-before the court", to make any orders it thinks ﬁt in relation to a liquidator. It may
+before the court", to make any orders it thinks fit in relation to a liquidator. It may
 also act on application made by the liquidator, or ASIC.
 A circumstance where the court might act on its own initiative would be where, in
 the course of a proceeding, evidence of issues about the liquidator's conduct not
@@ -2199,7 +2199,7 @@ In exercising its powers, the court may take into account:
     of an action or failure to act by the liquidator; and
 (e) the seriousness of the consequences of any action or failure to act by the
     liquidator, including the effect of that action or failure to act on public
-    conﬁdence in registered liquidators as a group.
+    confidence in registered liquidators as a group.
 Invariably, the court would direct the matter to be referred to ASIC for
 consideration. ASIC can itself also apply for orders under s 45-1, and so can the
 liquidator.
@@ -2246,7 +2246,7 @@ faithfully performed their duties, whether their action or failure to act was in
 compliance with the law, or an order of the court, and whether any person has
 suffered, or is likely to suffer, loss or damage because of this.
 As with IPSC, s 45-1, the court may take into account the seriousness of the
-consequences of the liquidator's conduct and the effect it has "on public conﬁdence
+consequences of the liquidator's conduct and the effect it has "on public confidence
 in registered liquidators as a group": s 90-15(4)(e).
 428     Keay's Insolvency: Personal and Corporate Law and Practice                          [10.430]
 
@@ -2282,7 +2282,7 @@ $5 million to be paid to certain creditors.
 Challenges to liquidator's decisions
 [10.440] A fundamental aspect of any insolvency regime is to allow creditors
 and others to challenge the decisions of a liquidator.
-Section 90-15 allows an application to be made by any person with a ﬁnancial
+Section 90-15 allows an application to be made by any person with a financial
 interest in the administration, a creditor authorised by the committee of inspection,
 ASIC, or an officer of the company. The court may also make an order on its own
 initiative. This in effect replaces the appeal rights under former s 1321 and the case
@@ -2310,11 +2310,11 @@ about the conduct or the remuneration of the particular liquidator subject to th
 review. That report then allows consideration of what action, if any, needs to be
 taken.
 The court may appoint a reviewing liquidator under IPSC, s 90-23(6) on an
-application made by ASIC or by a person with a ﬁnancial interest in the external
+application made by ASIC or by a person with a financial interest in the external
 administration: IPSC, s 90-23(7), (8).74
 ASIC also has the power to appoint a reviewing liquidator itself (IPSC, s 90-23(1))
 either on its own initiative on an application by an officer of the company or by a
-person with the necessary ﬁnancial interest.
+person with the necessary financial interest.
 The court order appointing a reviewing liquidator must set out the matters in
 relation to the external administration of the company which the liquidator is
 appointed to review and how the costs of carrying on the review will be
@@ -2323,7 +2323,7 @@ remuneration payable to a liquidator under IPSC, s 60-5(2): see s 90-23(10).
 The creditors can also appoint a reviewing liquidator, by a resolution passed at a
 meeting of creditors (IPSC, s 90-24(2)) but this is limited to the remuneration of the
 liquidator and the expenses incurred: s 90-24(1); and a remuneration determination
-(under IPSC, Div 60) must ﬁrst have been made: s 90-24(7).
+(under IPSC, Div 60) must first have been made: s 90-24(7).
 Individual creditors may also appoint a reviewing liquidator under s 90-24(4) if the
 liquidator agrees to the appointment (s 90-24(5)).
 The same arrangements apply for a review of remuneration and expenses in a
@@ -2356,13 +2356,13 @@ remuneration: IPSB, see [2.210].
 Removal of liquidators
 [10.445] An order for removal of a liquidator based on misconduct would only
 be made on clear and unequivocal evidence. The courts have removed a liquidator
-whose independence or position as a ﬁduciary was compromised,76 or who had
-acted improperly and was unﬁt for office,77 or if it was in the best interests of the
+whose independence or position as a fiduciary was compromised,76 or who had
+acted improperly and was unfit for office,77 or if it was in the best interests of the
 liquidation, subject to issues of fairness to the liquidator.
 A lack of independence can be a reason for removal of a liquidator and sometimes,
 a sanction.
 Issues of the liquidator's independence may not have been reasonably foreseen at
-the time the appointment was taken. If the conﬂict is signiﬁcant, the liquidator may
+the time the appointment was taken. If the conflict is significant, the liquidator may
 seek to resign, or seek directions from the court. In clear cases, the court may have
 no option but to remove the liquidator although the appointment of a special
 purpose liquidator is, as we have discussed, another option: see . If a liquidator
@@ -2381,7 +2381,7 @@ supervised the administration, and then appointed themselves liquidators, the
 court removed them, one reason being that further investigations needed to be
 carried out and it was inappropriate for the administrators to investigate
 themselves: Malhotra v Tiwari [2007] VSCA 101; (2007) 25 ACLC 917. If the creditors
-have lost conﬁdence in the liquidator that may be grounds for removal: Singtel
+have lost confidence in the liquidator that may be grounds for removal: Singtel
 
 75 For reviewing liquidators appointed by ASIC, the report is not to be provided to the committee of
    inspection without ASIC approval; and for court appointed reviewing liquidators, the court may
@@ -2415,7 +2415,7 @@ to trustees stated in the bankruptcy case of Adsett v Berlouis (1992) 37 FCR 201
 which was discussed in the bankruptcy context: see [2.275]. This entitlement to
 remuneration is express in IPSC, s 60-5 in that a liquidator can claim remuneration
 for "necessary work properly performed" in the administration.80
-A liquidator has a ﬁduciary responsibility to creditors in the conduct of the
+A liquidator has a fiduciary responsibility to creditors in the conduct of the
 administration and the way in which that necessary work is performed.
 A liquidator's remuneration is necessarily given a high priority in the order of
 distribution of the company's assets under , s 556(1) of the Act. Assuming that there
@@ -2470,7 +2470,7 @@ that the order of appointment was invalid because of a lack of jurisdiction.84
 
 Current issues in liquidator's remuneration
 [10.455] As in bankruptcy, remuneration should generally be proportionate to
-the size of, or the beneﬁt accruing to, the liquidation. That general principle cannot
+the size of, or the benefit accruing to, the liquidation. That general principle cannot
 always be achieved because every company will bring its own individual mix of
 issues. It must be noted that the reasonable cost of the liquidation does not neatly
 correlate to the size of the company or the value of its assets. A company with
@@ -2486,7 +2486,7 @@ correlate to the size of the company or the value of its assets. A company with
 [10.455]                                10 Introduction to Liquidation and Its Administration   433
 
 relatively low assets can give rise to complex practical and legal issues that may be
-costly to ﬁnalise. Similarly, a company with a large and valuable asset base may be
+costly to finalise. Similarly, a company with a large and valuable asset base may be
 relatively straightforward to wind up.
 Even where the work undertaken is complex, claiming remuneration and expenses
 that exhaust all or most of the fund for creditors may be inconsistent with the
@@ -2520,12 +2520,12 @@ proportionality and reasonableness as follows (at [30]-[31]):
    "the question of proportionality is an anterior question to consider in order to determine
    whether time was reasonably spent. If the relevant work plan underpinning the actual
    time spent and the allocation of personnel at the requisite level of seniority was
-   disproportionate to the nature, importance and complexity of the task and the beneﬁt to
+   disproportionate to the nature, importance and complexity of the task and the benefit to
    be achieved from the task, then it might be said that the time spent on the task was not
    time reasonably spent… Generally, an amalgam of the factors in s 425(8)(d), (e), (g) and (h)
    [equivalent to s 473(8)(d)-(h)] have as their unifying theme the concept of proportionality."
    [emphasis in original]
-The NSW Court of Appeal that the court's exercise of powers to ﬁx remuneration
+The NSW Court of Appeal that the court's exercise of powers to fix remuneration
 involves "applying a legal norm of reasonableness": Sakr Nominees at [49], [55].
 Evidence as to the percentage that remuneration constitutes of the realisations may
 nonetheless provide a useful measure of testing the reasonableness of the
@@ -2546,10 +2546,10 @@ creditors of their money. These include investigations and reporting offences to
 ASIC, attending to statutory recording and lodging of accounts, and pursuing
 compliance by company officers with the legal obligations. Thus "not all necessary
 work results in a return to creditors, but that does not mean that remuneration for
-it is not reasonable or justiﬁed even at the price of a more limited return to
+it is not reasonable or justified even at the price of a more limited return to
 creditors": Warner, Re GTL Tradeup Pty Ltd [2015] FCA 323; (2015) 104 ACSR 633 at
 [71]. Remuneration for time spent in investigating suspect transactions may well be
-necessary, even if in the end there is insufficient evidence to proceed. Beneﬁts to
+necessary, even if in the end there is insufficient evidence to proceed. Benefits to
 creditors are, therefore, not only to be measured in commercial terms, but include
 having the affairs of an insolvent company properly investigated and administered
 – Pegulan Floor Coverings Pty Ltd v Carter [1997] SASC 6299; (1997) 24 ACSR 651,
@@ -2566,7 +2566,7 @@ typically charge fees based on time-billing has been the subject of criticism in
 cases. The decision of Re Carton Ltd (1923) 39 TLR 194; [1923] ALL ER Rep 622 is
 frequently cited for its criticism of time billing as a method of calculating
 liquidator's remuneration. In that case, the court stated:
-  "The court as a general rule only ﬁxes remuneration on a time basis if there is no other
+  "The court as a general rule only fixes remuneration on a time basis if there is no other
   method which would operate to give the liquidator a fair remuneration. Experience has
   shown that the time occupied by a liquidator and his clerks affords a most unreliable test
   by which to measure the remuneration. Even the best accountant may spend hours over
@@ -2576,7 +2576,7 @@ liquidator's remuneration. In that case, the court stated:
   the conclusion that the proper method to adopt, whenever it is practicable, is to assess the
   remuneration according to the results attained."
 This has been applied in a number of cases where proportionality has been a
-signiﬁcant consideration: see, for example, Re AAA Financial Intelligence Ltd (No 2)
+significant consideration: see, for example, Re AAA Financial Intelligence Ltd (No 2)
 [2014] NSWSC 1270; Re Independent Contractor Services (Aust) Pty Ltd [2016] NSWSC
 106. However, it should be noted that the decision in Re Carton was (as described
 by the court) one involving facts that were "somewhat out of the ordinary". The
@@ -2619,7 +2619,7 @@ in priority to the rights of the secured creditor to the property: Re Universal
 Distributing Co Ltd (1933) 48 CLR 171; Stewart v Atco Controls Pty Ltd [2014] HCA 15;
 (2014) 252 CLR 307. A liquidator entitled to such a claim has an equitable lien over
 the funds. The claim is in the nature of "salvage"; it ensures that those who have
-the beneﬁt of the liquidator's administration bear the burden: Shirlaw v Taylor (1991)
+the benefit of the liquidator's administration bear the burden: Shirlaw v Taylor (1991)
 31 FCR 222, 230-231.87
 
 85 See also Burns Philp Investment Pty Ltd v Dickens (No 2) (1993) 31 NSWLR 280 at 285.
@@ -2649,7 +2649,7 @@ many company liquidations, there are insufficient funds available for remunerati
 to be drawn, in full or at all.89
 
 Bases of remuneration
-[10.465] There is no ﬁxed scale of remuneration. The law now states that an
+[10.465] There is no fixed scale of remuneration. The law now states that an
 external administrator of a company is entitled to receive remuneration for
 necessary work properly performed according to a "remuneration determination":
 IPSC, s 60-10. Remuneration determinations may be made by resolution of the
@@ -2664,7 +2664,7 @@ requires disclosure of the hourly rates of the liquidator and their staff.
 Legal practitioners
 [10.470] As in bankruptcy, lawyers have no formal role under the Corporations
 Act in that legal capacity, although liquidators themselves may well be legally
-qualiﬁed.
+qualified.
 Most lawyers are licensed and regulated as Australian legal practitioners
 ("lawyers") under the Legal Profession Uniform Law (NSW) and the Legal Profession
 Uniform Law (Victoria), operative in those States. They act for liquidators, creditors
@@ -2697,7 +2697,7 @@ The court can order the lawyer pays costs because of a failure to comply with th
 obligations: see Yeo (as liquidator), in the matter of Lyco Innovations Pty Ltd (in liq) v
 Onesteel Trading Pty Ltd [2013] FCA 568.
 Lawyers also have ethical responsibilities under the Legal Profession Uniform Laws
-in relation to conﬂicts of interest, for example, in acting for both a creditor and the
+in relation to conflicts of interest, for example, in acting for both a creditor and the
 liquidator. Other ethical obligations may extend to not advising debtor clients on
 ways to defeat creditors or ignore their duties as directors.90 Government lawyers
 acting for the Official Trustee or government creditors have model litigant

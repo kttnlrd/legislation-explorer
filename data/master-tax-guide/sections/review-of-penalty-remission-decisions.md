@@ -13,6 +13,6 @@ However, certain "ineligible income remission decisions" relating to the former 
 
 In all cases, an appeal may be made to the Federal Court against a remission decision, but the court is restricted to examining whether the Commissioner has acted in accordance with correct legal principles.
 
-Accordingly, where possible, it may be advisable to ﬁrst go to the ART rather than the court (¶28-080).
+Accordingly, where possible, it may be advisable to first go to the ART rather than the court (¶28-080).
 
-An objection against an assessment should include a ground to the eﬀect that the conditions for imposing a penalty do not exist and that any penalty imposed is excessive (¶28-050).
+An objection against an assessment should include a ground to the effect that the conditions for imposing a penalty do not exist and that any penalty imposed is excessive (¶28-050).

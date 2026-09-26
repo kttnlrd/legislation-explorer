@@ -20,8 +20,8 @@ STAYING OR TERMINATING THE WINDING UP
 
 Stay or termination by the court of a compulsory liquidation
 [17.10]    The court has the power, under s 482 of the Corporations Act, to stay the
-winding up (either indeﬁnitely or for a limited time) or to terminate the winding
-up. There is no real difference between an indeﬁnite stay and a termination and in
+winding up (either indefinitely or for a limited time) or to terminate the winding
+up. There is no real difference between an indefinite stay and a termination and in
 practice termination orders are usually made; we use that term unless otherwise
 stated.
 Stays for a limited period are not generally given, for example, pending the
@@ -37,7 +37,7 @@ The effect of an order under s 482 is to reverse the process of winding up and
 permit the company to resume its business as if no winding up had occurred:
 Krextile Holdings Pty Ltd v Widdows [1974] VR 689. This includes, naturally, the
 resumption of control of the company by the directors: s 482(3).
-There are no criteria speciﬁed in the legislation by which to assess applications for
+There are no criteria specified in the legislation by which to assess applications for
 termination but the decisions of the courts have provided a range of factors that
 will be taken into account.2
 Thus in El-Fahkri, in the matter of Elfah Pty Ltd [2002] FCA 1469, Finkelstein J said
@@ -70,7 +70,7 @@ company had been ordered to be wound up due to the inattention of the directors
 who had not responded to the winding up proceedings.
 The power to make an order under s 482(1) is discretionary and the onus is on the
 applicant to make out a positive case for termination: Re Calgary & Edmonton Land
-Co Ltd [1975] 1 WLR 355, 358-359.5 The court does not have to ﬁnd special reasons
+Co Ltd [1975] 1 WLR 355, 358-359.5 The court does not have to find special reasons
 for a stay or termination. But there must be some valid reason why it is appropriate
 to make the order rather than let the liquidation take its normal course. If there has
 been non-compliance by directors with their statutory duties in giving information
@@ -117,15 +117,15 @@ company may become insolvent and hence to deny a s 482 application: Re Lorie
 Najjar and Sons Pty Ltd [2013] NSWSC 798 at [70]. In an application to terminate a
 winding up where the presumption of insolvency operates but the company is
 claimed to be solvent, the party bearing the onus of proof must lead the "fullest
-and best" evidence of its ﬁnancial position: Commonwealth Bank of Australia v
+and best" evidence of its financial position: Commonwealth Bank of Australia v
 Begonia [1993] VicSC 516; (1993) 11 ACLC 1075; Gematech Pty Ltd v Bardi Investments
 Pty Ltd [2008] NSWSC 196. Mere assertions by a company's controller as to its
 solvency and the state of its assets and liabilities are of no real value to the court –
-"proper veriﬁcation of assets and liabilities is critical to rebut the presumption of
+"proper verification of assets and liabilities is critical to rebut the presumption of
 insolvency": Expile Pty Ltd v Jabb's Excavations Pty Ltd (2003) 45 ACSR 711, 718; Re
 Lorie Najjar and Sons Pty Ltd [2013] NSWSC 798. Applications which rely only on
 evidence deposed by a single director-shareholder should be supported and
-conﬁrmed by evidence from an external accountant: DCT v Sydney Concrete Steel
+confirmed by evidence from an external accountant: DCT v Sydney Concrete Steel
 Fixing Pty Ltd (1999) 17 ACLC 972; Re 311 Hume Highway Liverpool Fund Pty Ltd
 [2013] NSWSC 465.
 As to the company's future creditors, an important consideration arises if the
@@ -187,7 +187,7 @@ see whether the deed proposal proceeds: Sutherland v Rahme Enterprises Pty Ltd
 When considering an application to terminate the winding up of a company subject
 to a deed, the court has regard to factors such as any misconduct by the company's
 officers, the commercial decision of creditors accepting the deed, and the company's
-solvency.9 This reﬂects the general position of the courts in relation to not
+solvency.9 This reflects the general position of the courts in relation to not
 permitting insolvent companies to return to commercial life.
 The court may order termination of a winding up upon an undertaking being given
 by an associated or external party to take some action in the short term, for
@@ -197,7 +197,7 @@ by an associated or external party to take some action in the short term, for
 8 Mercy & Sons Pty Ltd v Wanari Pty Ltd (2000) 35 ACSR 70. In that case, a termination application
   following the execution of a deed of company arrangement was unsuccessful.
 9 See, for example, Re Modena Imports Pty Ltd [2010] NSWSC 739 where the directors engaged in
-  transactions designed to misappropriate assets for the beneﬁt of a third party, who took proxies from
+  transactions designed to misappropriate assets for the benefit of a third party, who took proxies from
   creditors to vote in favour of the deed of company arrangement.
 662     Keay's Insolvency: Personal and Corporate Law and Practice                           [17.30]
 
@@ -222,11 +222,11 @@ whether it is a members'10 or a creditors' winding up.11 This may necessitate an
 application by the liquidator under IPSC, s 90-15(which replaced the former
 s 511(1)(b)) for the exercise by the court of its powers in compulsory winding up. In
 the case of a voluntary liquidation arising out of a Pt 5.3A administration, under
-s 446A of the Act, s 446A(6) – (7) speciﬁcally makes s 482 applicable, including on
+s 446A of the Act, s 446A(6) – (7) specifically makes s 482 applicable, including on
 the application of the company.
 
 DEREGISTRATION
-[17.35] The ﬁnal step in a winding up is usually deregistration of the company.
+[17.35] The final step in a winding up is usually deregistration of the company.
 The procedure varies according to whether the company has been wound up
 compulsorily or voluntarily.12
 
@@ -235,14 +235,14 @@ Compulsory winding up
 Court ordered deregistration
 [17.40] Winding up is complete when the liquidator has realised all the property
 of the company or as much as can, in the liquidator's opinion, be realised without
-needlessly protracting the liquidation, has distributed a ﬁnal dividend to the
-creditors, adjusted the mutual rights of the contributories, and has made a ﬁnal
+needlessly protracting the liquidation, has distributed a final dividend to the
+creditors, adjusted the mutual rights of the contributories, and has made a final
 return (now referred to as the "End of Administration Return" under IPSC, s 70-6),
 if any, to the contributories: Corporations Act, s 480(a). In such a case, it is open to
 the liquidator to apply for an order of release from liability in respect of the
 administration of the winding up (s 481(3)) and for an order that ASIC deregister
 
-10 McKern v Paciﬁc Edge Corp Pty Ltd [2004] NSWSC 1150; (2004) 51 ACSR 602.
+10 McKern v Pacific Edge Corp Pty Ltd [2004] NSWSC 1150; (2004) 51 ACSR 602.
 11 See McPherson's Law of Company Liquidation (Thomson Reuters, Legal Online), at 16.250 – "Judicial
    stay of voluntary winding up".
 12 See generally, Tarrant, Deregistration and Reinstatement of Companies and Schemes (LexisNexis
@@ -307,19 +307,19 @@ See further Arnold World Trading Pty Ltd v ACN 133 427 335 Pty Ltd [2010] NSWSC
 The company must be deregistered by ASIC on the expiration of three months after
 the lodging of the return: ss 509(1), 601AC(1)(c). After the return is lodged with
 ASIC under s 509, the company is no longer "being wound up", rather it has been
-"fully wound up": International Greetings UK Ltd v Stansﬁeld [2010] NSWSC 1357; 79
-NSWLR 464 (interpreting the former s 509 which also required a ﬁnal creditors'
+"fully wound up": International Greetings UK Ltd v Stansfield [2010] NSWSC 1357; 79
+NSWLR 464 (interpreting the former s 509 which also required a final creditors'
 meeting to be held).
 Under s 509(2), the court may order that ASIC deregister the company on a
-speciﬁed day. That day must be ﬁxed with certainty and an order can only be made
-within the speciﬁed period of three months. Once that period of three months has
+specified day. That day must be fixed with certainty and an order can only be made
+within the specified period of three months. Once that period of three months has
 expired, deregistration must be effected on the day which has, by then, been made
 certain: Re Rosaub Pty Ltd [2005] NSWSC 689; (2005) 192 FLR 395; Re ACN 002 408
 040 Pty Ltd [2013] NSWSC 470; (2013) 94 ACSR 485.
 
 Effects and consequences of deregistration
 [17.55] Deregistration has far-reaching consequences. Its principal effect, from
-which all other consequences ﬂow, is to destroy the corporate existence of the
+which all other consequences flow, is to destroy the corporate existence of the
 company (Corporations Act, s 601AD(1)), though, as the note to s 601AD makes
 plain, company officers may still be liable for anything done prior to the
 deregistration of their company. On deregistration the company's status on ASIC's
@@ -356,11 +356,11 @@ deregistration, the statutory vesting of property is defeasible where there is a
 relevant exercise of powers under the trust deed or an application under trusts
 legislation: Thorne Developments Pty Ltd v Thorne [2017] 1 Qd R 156; [2016] QCA 63.
 In addition, if the property was subject to liabilities imposed by any law, the
-property remains so subject and it cannot have the beneﬁt of any exemption that it
+property remains so subject and it cannot have the benefit of any exemption that it
 might otherwise have from being vested in ASIC. ASIC has all the powers of an
 owner over the property that is vested in it (s 601AD(4)), including sale: s 601AE.20
 In this regard ASIC is able to act on behalf of the company or its liquidator if it is
-satisﬁed that the company or liquidator would have been bound to do the act if the
+satisfied that the company or liquidator would have been bound to do the act if the
 company still existed: s 601AF. For example, if land is subject to a caveat lodged by
 a company that is now deregistered, and no caveatable interest remains, ASIC may
 withdraw the caveat on behalf of the deregistered company.
@@ -369,12 +369,12 @@ apply to the court for the appointment of a new trustee: see further Re Cooper S
 Property Trust [2016] VSC 756.
 In relation to property which is vested in it, ASIC is required by s 601AE to keep
 records of any such property, of its dealings with that property, of accounts of all
-moneys arising from those dealings and ﬁnancial records of any such dealings.
+moneys arising from those dealings and financial records of any such dealings.
 
 Destruction of records
-[17.65] A ﬁnal consequence of the deregistration of a company following its
+[17.65] A final consequence of the deregistration of a company following its
 winding up is that its books may be destroyed by the liquidator:. Normally, the
-company's books must be retained for a period of ﬁve years after the deregistration
+company's books must be retained for a period of five years after the deregistration
 prior to their destruction by the liquidator (IPSC, s 70-35), but they may be
 destroyed within that period if the liquidator has a reasonable excuse (IPSC,
 s 70-35(2)) or where the members direct (in a members' voluntary winding up) or
@@ -398,7 +398,7 @@ the Corporations Act for reinstatement of the company. The primary function of t
 provision is to provide a means of reviving the company for the purpose of
 completing the winding up of its affairs by getting in outstanding assets, and
 distributing among the members any surplus remaining after dissolution of the
-company. While a corporation is deﬁned in s 9 as one that is "registered under [the]
+company. While a corporation is defined in s 9 as one that is "registered under [the]
 Act", this is only unless the contrary intention appears. That contrary intention
 appears from s 601AH itself, which empowers the court to make an order
 reinstating "the registration of a company" as well as making other references to a
@@ -410,14 +410,14 @@ The process
 ASIC reinstatement: s 601AH(1)
 [17.75] Depending on the circumstances a company may, following
 deregistration, be reinstated by ASIC or by order of the court. The former is able to
-reinstate a company if it is satisﬁed that the company should not have been
+reinstate a company if it is satisfied that the company should not have been
 deregistered: s 601AH(1).21
 
 Court reinstatement: s 601AH(2)
 [17.80] The court may order reinstatement under s 601AH(2) if an application is
 made to it by either a "person aggrieved by the deregistration" or by a former
-liquidator of the company and if the court is satisﬁed that it is "just that the
-company's registration be reinstated". There is no time limit set for the ﬁling of an
+liquidator of the company and if the court is satisfied that it is "just that the
+company's registration be reinstated". There is no time limit set for the filing of an
 application for reinstatement. Circumstances can arise that the need for
 reinstatement may not arise until some long time later. For a discussion of the
 reinstatement of companies registered under company law statutes before the
@@ -429,7 +429,7 @@ Person aggrieved
 company having been deregistered. The words "person aggrieved" are interpreted
 widely;22 they include persons with a genuine grievance because deregistration had
 prejudicially affected their interests23 such that they had a real and direct interest in
-the deregistration decision with which they are dissatisﬁed.24 It is not enough to
+the deregistration decision with which they are dissatisfied.24 It is not enough to
 establish that a person is a shareholder or a director but even if they were the one
 
 21 See ASIC's RG 83, Reinstatement of companies, March 2006.
@@ -445,8 +445,8 @@ may be held to be a person aggrieved if the deregistration adversely affects the
 rights, or the value of their rights: Arnold World Trading Pty Ltd v ACN 133 427 335
 Pty Ltd [2010] NSWSC 1369; (2010) 80 ACSR 670 at [43] (in this case the company
 had been fully wound up with all property determined and the member's shares
-were of no value). A beneﬁciary of a trust, where the trustee company has been
-deregistered, can be a person aggrieved even where the beneﬁciary could appoint
+were of no value). A beneficiary of a trust, where the trustee company has been
+deregistered, can be a person aggrieved even where the beneficiary could appoint
 another trustee: Elsworthy v ASIC [2016] VSC 14.
 Reinstatement for the purpose of enabling the company to be subjected to legal
 processes that it would otherwise escape is an established aspect of the jurisdiction
@@ -472,9 +472,9 @@ to allow proceedings to be brought against the directors of the company for
 personal liability under tax legislation: DCT v Action Workwear Pty Ltd (1996) 33
 ATR 61. However, an application for reinstatement to allow an inquiry into and
 review of the liquidator's fees and disbursements was not granted when the
-particular creditor could not show that any beneﬁt would ﬂow from such a review:
+particular creditor could not show that any benefit would flow from such a review:
 GIS Electrical Pty Ltd v Melsom (2002) 21 ACLR 26.
-A person aggrieved may be a creditor, or one who has a bona ﬁde claim as a
+A person aggrieved may be a creditor, or one who has a bona fide claim as a
 creditor. In Donmastry Pty Ltd v Albarran [2004] NSWSC 632; (2004) 49 ACSR 745,
 the applicant was a plaintiff in an action being brought against a company prior to
 its deregistration. A person aggrieved includes the liquidator. In ACCC v ASIC, in
@@ -513,7 +513,7 @@ aggrieved: Re JJ Weeks Construction Pty Ltd (1982) 1 ACLC 425; Re Llenruk Pty Lt
 [2013] NSWSC 1430.
 
 Just
-[17.90] The court "may" make the order if "satisﬁed that it is just that the
+[17.90] The court "may" make the order if "satisfied that it is just that the
 company's registration be reinstated": s 601AH(2)(b). The court is not constrained
 by any particular criterion in deciding whether it is just to reinstate but there are a
 number of matters which are taken into account, including the circumstances in
@@ -573,7 +573,7 @@ for reinstatement.34
 Reinstating in order to wind up
 [17.100] Courts will reinstate a deregistered company where insolvency exists if
 the aim is to wind up the company (Payne v Wizard Industries Pty Ltd (1997) 24
-ACSR 277); it is preferable that before it is wound up it is ﬁrst reinstated, as the
+ACSR 277); it is preferable that before it is wound up it is first reinstated, as the
 assets of the deregistered company have to be removed from ASIC and placed in
 the hands of a liquidator: Scott v Janniki Pty Ltd (1994) 14 ACSR 334, 335. However,
 
@@ -593,7 +593,7 @@ reinstatement of an insolvent company may otherwise be appropriate in special
 circumstances: Re Great Eastern Cleaning Services Pty Ltd (1978) 3 ACLR 886, 887.
 Courts are willing, in the appropriate circumstances, such as where the company is
 insolvent, to order reinstatement and winding up in the same order.35 The usual
-advertising and notiﬁcation processes may be dispensed with.36 In Yeo v ASIC, in
+advertising and notification processes may be dispensed with.36 In Yeo v ASIC, in
 the matter of Ji Woo International Education Centre Pty Ltd (dereg'd) [2017] FCA 1480,
 referred to earlier, the court ordered that the company be wound up on the just and
 equitable ground under s 461(1)(k) of the Corporations Act.
@@ -614,7 +614,7 @@ order it deems appropriate: s 601AH(3). This does not include the power to make
 orders determining substantive legal issues that were in dispute when the company
 was deregistered: Randall v City of Canada Bay Council (No 4) [2015] NSWSC 1759 at
 [200].
-In a case where a plaintiff failed to conﬁrm the corporate existence of the defendant
+In a case where a plaintiff failed to confirm the corporate existence of the defendant
 before commencing proceedings, a validation order was made under s 601AH(3);
 although the court considered that s 601AH(5) may have cured the problem
 without court intervention: Eyles v Curved Plywood [2004] NSWSC 257. In CGU
@@ -661,9 +661,9 @@ empower directors whose terms have expired.39 An examination summons can
 issue against directors of a company even though the summonses are in respect of
 a period when the company was deregistered: Foxman v Credex [2007] NSWSC 1422;
 26 ACLC 167.
-In any event, the court needs to be satisﬁed that the company to be reinstated has
+In any event, the court needs to be satisfied that the company to be reinstated has
 the necessary officers and registered office. A court can order reinstatement
-conditional upon the company holding a meeting to fulﬁl the necessary statutory
+conditional upon the company holding a meeting to fulfil the necessary statutory
 requirements: URS Australia Pty Ltd v ASIC [2007] FCA 1939; (2007) 25 ACLC 1648.
 The question arises whether reinstatement of the registration of a company that
 was in liquidation at the time of deregistration causes the liquidator to go back into
@@ -717,7 +717,7 @@ or where claims from creditors may emerge.
 ASIC initiated deregistration of any company: s 601AB(1)
 [17.120] Besides deregistration of insolvent companies under s 601AB(2) (see
 [17.45]), ASIC has a process which is "an administrative measure in the nature of a
-cleansing of the register to remove apparently superﬂuous entries", where
+cleansing of the register to remove apparently superfluous entries", where
 insolvency is not a relevant factor.40 Under this process, ASIC may deregister where
 (s 601AB(1)):
 
@@ -742,12 +742,12 @@ publication of the notice: s 601AB(3A). Notice of deregistration must be given t
 company's directors and the company's liquidator, if there is one: s 601AB(5).
 
 CONCLUSION
-[17.125] Deregistration, being the ﬁnal step in the winding up of a company, is
+[17.125] Deregistration, being the final step in the winding up of a company, is
 of course an appropriate point on which to conclude this part of the book. We will
 now leave liquidation itself as the formal and original process of dealing with an
 insolvent company, and examine arrangements that do not involve formal winding
 up. These are Corporations Act, Pt 5.3A administrations and deeds of company
-arrangement. As well, although not necessarily conﬁned to situations of insolvency,
+arrangement. As well, although not necessarily confined to situations of insolvency,
 receiverships, based in contract, and under Pt 5.2 and other legislation, will be
 examined as being means by which secured creditors will seek to protect their
 interests in the event of their borrower's insolvency.
@@ -773,8 +773,8 @@ Chapter21:RestructuringandWorkouts..............................................
 This Part considers the alternatives to liquidation: receivership, voluntary administration and deeds of
 company arrangement, and schemes of arrangement. Unlike alternatives to bankruptcy, these forms of
 corporate insolvency can and often do overlap with liquidation. Their purpose is, however, distinct from
-liquidation. Receivership is aimed at the protection of the company's assets, either for the beneﬁt of the
-secured creditor who appointed the receiver, or in a court-ordered receivership for the beneﬁt of the
+liquidation. Receivership is aimed at the protection of the company's assets, either for the benefit of the
+secured creditor who appointed the receiver, or in a court-ordered receivership for the benefit of the
 creditors generally. The voluntary administration regime is aimed at providing the insolvent company with
 an opportunity to either restructure its affairs (using a deed of company arrangement) or to order its affairs
 for a more efficient liquidation which produces better outcomes for creditors.
@@ -782,11 +782,11 @@ for a more efficient liquidation which produces better outcomes for creditors.
 Non-liquidation arrangements are also associated with workouts and restructuring. Often a formal
 insolvency appointment may be impractical given the adverse effect of formal insolvency on goodwill and
 existing contracts, which leads key stakeholders (typically the major lenders and the debtor company) to
-seek to implement a restructuring proposal to turn the business around. This may be done on a conﬁdential
+seek to implement a restructuring proposal to turn the business around. This may be done on a confidential
 basis without the need for any formal appointment to be made, which is known as an informal "workout".
 On the other hand, formal appointments can assist to implement a turnaround strategy by binding
 dissenting creditors to the bargain and addressing problematic debts (such as tax liabilities) and
-uncommercial contracts (such as unproﬁtable leases). Thus, a company may move from an informal
+uncommercial contracts (such as unprofitable leases). Thus, a company may move from an informal
 workout to a formal appointment, usually voluntary administration followed by a deed of company
 arrangement and possibly with a receiver appointed to protect the major secured lender. The parties may
 alternatively use a scheme of arrangement as an alternative to a deed of company arrangement. Schemes

@@ -19,7 +19,7 @@ As a result, income derived or expenditure incurred during the post-exemption pe
 
   payments and employee leave entitlements to the extent that they relate to the period when
 
-  the entity was exempt. A deduction is, however, allowed for a surplus in a deﬁned beneﬁt
+  the entity was exempt. A deduction is, however, allowed for a surplus in a defined benefit
 
   superannuation scheme at the time of transition. Further, the amount of bad debt deductions
 
@@ -29,7 +29,7 @@ As a result, income derived or expenditure incurred during the post-exemption pe
 
   taxable
 
-- ensure that expenditure that provides an enduring beneﬁt (eg the cost of a depreciable asset and
+- ensure that expenditure that provides an enduring benefit (eg the cost of a depreciable asset and
 
   mining deductible capital expenditure) is notionally written down during the exemption period
 
@@ -37,6 +37,6 @@ As a result, income derived or expenditure incurred during the post-exemption pe
 
   becomes subject to tax, and cancel the franking surplus when a taxable subsidiary ceases to be
 
-  eﬀectively wholly-owned by a tax-exempt entity (ITAA97 s 208-145).
+  effectively wholly-owned by a tax-exempt entity (ITAA97 s 208-145).
 
 *Refs: s 57-1, ITAA97 s 208-145)*

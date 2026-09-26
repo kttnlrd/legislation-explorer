@@ -7,7 +7,7 @@ paragraph: "¶44-106"
 ---
 # Online business tax checklist ¶44-106
 
-- The timing of a contract made online may aﬀect issues such as when income is derived (¶9-050)
+- The timing of a contract made online may affect issues such as when income is derived (¶9-050)
 
   or deductions incurred (¶16-040), the date of acquisition and disposal of assets for CGT purposes
 
@@ -15,7 +15,7 @@ paragraph: "¶44-106"
 
 - The place where an online contract is made is generally the place where the last act necessary
 
-  for conclusion of the contract is performed. This may aﬀect the source of the income (¶21-070).
+  for conclusion of the contract is performed. This may affect the source of the income (¶21-070).
 
 - The ATO considers that a non-resident does not have a permanent establishment in Australia
 
@@ -23,7 +23,7 @@ paragraph: "¶44-106"
 
   resident internet service provider (¶22-150).
 
-- Expenditure on computer maintenance, testing, code reviews, minor alterations and modiﬁcations,
+- Expenditure on computer maintenance, testing, code reviews, minor alterations and modifications,
 
   and remedying defects, may be deductible (¶16-725).
 
@@ -83,13 +83,13 @@ GST issues For a more comprehensive GST checklist see the Australian Master GST 
 
 - As online business transactions often cross national borders, questions may arise about whether
 
-  there is a suﬃcient connection with Australia to authorise the application of GST (¶34-105).
+  there is a sufficient connection with Australia to authorise the application of GST (¶34-105).
 
 - GST generally applies to imported goods with a customs value of no more than $1,000 (¶34-250).
 
 - The "reverse charge" rules may apply where there are acquisitions from overseas, for example
 
-  where computer services are accessed from overseas by an Australian ﬁnancial institution
+  where computer services are accessed from overseas by an Australian financial institution
 
 (¶34-250).
 

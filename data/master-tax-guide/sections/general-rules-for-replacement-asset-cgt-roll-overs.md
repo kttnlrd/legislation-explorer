@@ -9,11 +9,11 @@ paragraph: "¶12-160"
 
 Where ownership of one asset ends If a taxpayer chooses for a replacement-asset roll-over to happen in relation to an asset, any capital gain or loss the taxpayer makes from the original asset is disregarded (s 124-10). However, a car, motor cycle or similar vehicle cannot be a replacement asset.
 
-Post-CGT assets If the original asset is a post-CGT asset, the ﬁrst element of each replacement asset's cost base (or reduced cost base) is: the original asset's cost base (or reduced cost base) number of replacement assets For this purpose, the cost base and reduced cost base of the original asset are worked out when the taxpayer's ownership of it ends.
+Post-CGT assets If the original asset is a post-CGT asset, the first element of each replacement asset's cost base (or reduced cost base) is: the original asset's cost base (or reduced cost base) number of replacement assets For this purpose, the cost base and reduced cost base of the original asset are worked out when the taxpayer's ownership of it ends.
 
-Example 1 Eric's commercial ﬁshing licence expires and a new one is obtained. The cost base of the expired licence is $4,000. This becomes the ﬁrst element of the cost base for the replacement licence.
+Example 1 Eric's commercial fishing licence expires and a new one is obtained. The cost base of the expired licence is $4,000. This becomes the first element of the cost base for the replacement licence.
 
-In some cases, if a taxpayer also pays an amount to acquire the replacement asset, that amount also forms part of the ﬁrst element.
+In some cases, if a taxpayer also pays an amount to acquire the replacement asset, that amount also forms part of the first element.
 
 Pre-CGT assets If the original asset is a pre-CGT asset, the replacement asset is also taken to be a pre-CGT asset.
 
@@ -21,7 +21,7 @@ Where ownership of 2 or more assets ends If a taxpayer chooses for a replacement
 
 However, a car, motor cycle or similar vehicle cannot be a replacement asset.
 
-Post-CGT assets If each original asset is a post-CGT asset, the ﬁrst element of each replacement asset's cost base (or reduced cost base) is: the total of the cost bases (or reduced cost bases) of all the original assets number of replacement assets For this purpose, the cost base and reduced cost base of the original asset are worked out when the taxpayer's ownership of it ended.
+Post-CGT assets If each original asset is a post-CGT asset, the first element of each replacement asset's cost base (or reduced cost base) is: the total of the cost bases (or reduced cost bases) of all the original assets number of replacement assets For this purpose, the cost base and reduced cost base of the original asset are worked out when the taxpayer's ownership of it ended.
 
 Pre-CGT assets If each original asset is a pre-CGT asset, each replacement asset is also taken to be a pre-CGT asset.
 
@@ -31,7 +31,7 @@ Example 2 Geraldine owns 100 shares in a company. The company cancels these shar
 
 *Refs: s 124-10), s 124-15)*
 
-total of cost bases (or reduced cost bases) of all the post-CGT original assets number of post-CGT replacement assets Example 3 Continuing Example 2, if the total of the cost bases of Geraldine's 52 post-CGT shares is $300, the ﬁrst element of the cost base of each of her 6 post-CGT replacement shares is $50 (ie $300/6).
+total of cost bases (or reduced cost bases) of all the post-CGT original assets number of post-CGT replacement assets Example 3 Continuing Example 2, if the total of the cost bases of Geraldine's 52 post-CGT shares is $300, the first element of the cost base of each of her 6 post-CGT replacement shares is $50 (ie $300/6).
 
 Share and interest sale facilities Subject to certain conditions, a foreign taxpayer's ability to apply the following replacement roll-overs is preserved where a share sale facility is used under a restructure:
 
@@ -51,6 +51,6 @@ This is achieved by treating the foreign interest holder as owning the roll-over
 
 *Refs: s 124-20)*
 
-## The ﬁrst element of the cost base of the post-CGT assets is:
+## The first element of the cost base of the post-CGT assets is:
 
 ## CGT roll-over for asset compulsorily acquired, lost or

@@ -23,13 +23,13 @@ In addition to items discussed elsewhere in this chapter, the following are gene
 
 - most income of copyright collecting societies (¶3-450, ¶10-510)
 
-- exempt fringe beneﬁts (ITAA36 s 23L(1A)) and non-cash business beneﬁts less than $300
+- exempt fringe benefits (ITAA36 s 23L(1A)) and non-cash business benefits less than $300
 
-  (¶10-030). Most fringe beneﬁts are non-assessable non-exempt income (¶10-895)
+  (¶10-030). Most fringe benefits are non-assessable non-exempt income (¶10-895)
 
 - reversionary bonuses on a life insurance policy in limited circumstances (¶10-240)
 
-- income from a trust estate where the trustee is an oﬀshore banking unit and the beneﬁciaries
+- income from a trust estate where the trustee is an offshore banking unit and the beneficiaries
 
   are foreign residents (¶21-090).
 

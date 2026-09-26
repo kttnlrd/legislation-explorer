@@ -35,7 +35,7 @@ The policy design details of Payday Super and related changes are summarised bel
 
   triggered where there is non-payment detected by the ATO, which could occur by voluntary
 
-  disclosure of an employer, an employee notiﬁcation or the ATO's proactive compliance (see further
+  disclosure of an employer, an employee notification or the ATO's proactive compliance (see further
 
   below). Additional interest and penalties apply if the assessed SG charge is not paid by the due
 
@@ -51,7 +51,7 @@ The policy design details of Payday Super and related changes are summarised bel
 
   to comply with the choice of fund rules.
 
-- The approach to correcting late contributions will be simpliﬁed under Payday Super. Employers
+- The approach to correcting late contributions will be simplified under Payday Super. Employers
 
   will no longer need to make an election or choose which period for which each late contribution
 
@@ -69,7 +69,7 @@ Updated SG charge framework
 
   charge (GIC) rate on a compounding basis. Interest accrues from the day after the due date.
 
-- Administrative uplift — An additional charge will be levied to reﬂect the cost of enforcement,
+- Administrative uplift — An additional charge will be levied to reflect the cost of enforcement,
 
   calculated as an uplift of the SG shortfall component of up to 60%. This will be reduced when
 
@@ -123,9 +123,9 @@ ATO compliance approach The ATO will have increased visibility of SG contributio
 
 Employers bear the onus of ensuring compliance with Payday Super. The ATO will streamline services for employers' voluntary disclosure of non-compliance.
 
-To facilitate this compliance, employers will be required to report in STP both the OTE and the total superannuation liability for an employee, ensuring the SG can be correctly identiﬁed.
+To facilitate this compliance, employers will be required to report in STP both the OTE and the total superannuation liability for an employee, ensuring the SG can be correctly identified.
 
-This will also mean that employees who previously had to wait up to 4 months to determine whether they had been paid their SG entitlements can check their superannuation account as their wages are paid to determine if their employer is meeting their SG obligations. Employees can therefore take action before large amounts of unpaid SG accrue, including by raising it directly with their employer, submitting an employee notiﬁcation form to the ATO, or raising it with the Fair Work Ombudsman.
+This will also mean that employees who previously had to wait up to 4 months to determine whether they had been paid their SG entitlements can check their superannuation account as their wages are paid to determine if their employer is meeting their SG obligations. Employees can therefore take action before large amounts of unpaid SG accrue, including by raising it directly with their employer, submitting an employee notification form to the ATO, or raising it with the Fair Work Ombudsman.
 
 More information on the design of Payday Super is available from Treasury's Securing Australians' Superannuation package and fact sheet (Treasurer and Asst Treasurer's joint press release, 18 September 2024).
 

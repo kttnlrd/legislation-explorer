@@ -17,6 +17,6 @@ If a foreign superannuation fund becomes an Australian superannuation fund (¶13
 
   current members of the fund (ITAA97 s 295-330).
 
-Where a foreign superannuation fund that has changed to a resident superannuation fund includes an amount in assessable income under s 295-320 item 3 and the fund paid foreign income tax on that amount (before the start of the income year), the fund is not entitled to the foreign income tax oﬀset for the foreign tax paid (¶21-700).
+Where a foreign superannuation fund that has changed to a resident superannuation fund includes an amount in assessable income under s 295-320 item 3 and the fund paid foreign income tax on that amount (before the start of the income year), the fund is not entitled to the foreign income tax offset for the foreign tax paid (¶21-700).
 
 *Refs: ITAA97 s 295-320, ITAA97 s 295-330), s 295-320*

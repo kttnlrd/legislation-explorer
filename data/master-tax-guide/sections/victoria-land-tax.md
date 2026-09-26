@@ -9,31 +9,31 @@ paragraph: "¶38-020"
 
 The principal Act governing the imposition and assessment of liability to land tax in Victoria, including rates, is the Land Tax Act 2005 ("the principal Act"). The principal Act also imposes a vacant residential land tax.
 
-Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, fall within the ambit of the Taxation Administration Act 1997.
+Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general offences, fall within the ambit of the Taxation Administration Act 1997.
 
-Liability Land tax is charged on the taxable value of non-exempt land located in Victoria and held by an owner at midnight on the taxing date. For the 2025 land tax year, the taxing date is 31 December 2024. An "owner" includes a holder of freehold title, a life tenant, a lessee of Crown land, a person having legal right to receive rents and proﬁts, a trustee, certain nominated beneﬁciaries, the manager of a time-share scheme, and the holders of certain beneﬁcial interests. A partner in a partnership is taken to have a beneﬁcial interest in partnership property.
+Liability Land tax is charged on the taxable value of non-exempt land located in Victoria and held by an owner at midnight on the taxing date. For the 2025 land tax year, the taxing date is 31 December 2024. An "owner" includes a holder of freehold title, a life tenant, a lessee of Crown land, a person having legal right to receive rents and profits, a trustee, certain nominated beneficiaries, the manager of a time-share scheme, and the holders of certain beneficial interests. A partner in a partnership is taken to have a beneficial interest in partnership property.
 
 For individuals and some other taxpayers, progressive rates apply to taxable values above a tax-free threshold.
 
 Joint owners may be subject to 2 assessments in order to ensure that the tax-free thresholds and applicable rates apply fully and only once across their aggregate taxable landholdings. Joint owners are assessed for the taxable value of jointly owned land in a primary assessment, while each of the joint owners is singularly assessed in a secondary assessment on the taxable value of their separately owned landholdings along with their proportionate share of the taxable value of the jointly owned land. A secondary taxpayer is entitled to a deduction to prevent double taxation on the land interest included in both assessments.
 
-Companies The Commissioner can group related companies and treat them as a single company for assessment. The grouping mechanism is designed to prevent avoidance of land tax by using company structures to split ownership of land. It ensures that the aggregate taxable value of group land holdings is assessed using the progressive scale of tax and with the beneﬁt of only one tax-free threshold.
+Companies The Commissioner can group related companies and treat them as a single company for assessment. The grouping mechanism is designed to prevent avoidance of land tax by using company structures to split ownership of land. It ensures that the aggregate taxable value of group land holdings is assessed using the progressive scale of tax and with the benefit of only one tax-free threshold.
 
 Broadly, companies are "related" where one company (directly or in combination with its shareholders) holds a controlling interest in another, or where a person or persons hold a controlling interest in both. The Commissioner's approach to the grouping of related companies is given in Revenue Ruling LTA-008.
 
-Trusts Trustees, including trustees of deceased estates, are obliged to advise Victoria State Revenue Oﬃce (SRO) of land interests held in trust. Any land acquisition or change in trust land must also be notiﬁed within one month of the change.
+Trusts Trustees, including trustees of deceased estates, are obliged to advise Victoria State Revenue Office (SRO) of land interests held in trust. Any land acquisition or change in trust land must also be notified within one month of the change.
 
 Trustees of trusts which hold non-exempt land are separately assessed on the aggregate value of land held in each trust. Generally, progressive surcharge rates apply, and tax is charged from a much lower tax-free threshold than that applying to other taxpayers.
 
 The surcharge rate does not apply to implied or constructive trusts, charitable trusts, concessional trusts (in favour of a person under guardianship or a person with a disability), superannuation trusts (including SMSFs), and public or wholesale unit trust schemes.
 
-Fixed trusts Trustees of ﬁxed and unit trusts may be taxed at general rates where the Commissioner is advised of certain beneﬁcial interests or unitholdings in trust land. Notiﬁed beneﬁciaries are separately assessed at general rates on their proportionate interest in the trust land aggregated with any other land they own. A deduction applies to prevent double taxation on the land interest included in both assessments.
+Fixed trusts Trustees of fixed and unit trusts may be taxed at general rates where the Commissioner is advised of certain beneficial interests or unitholdings in trust land. Notified beneficiaries are separately assessed at general rates on their proportionate interest in the trust land aggregated with any other land they own. A deduction applies to prevent double taxation on the land interest included in both assessments.
 
 Discretionary trusts Trustees of discretionary trusts, including most family trusts, are generally taxed at trust surcharge rates.
 
 Nonetheless, trustees of discretionary trusts may be taxed at general rates where:
 
-- the land was acquired on or before 31 December 2005 and a nominated beneﬁciary was speciﬁed
+- the land was acquired on or before 31 December 2005 and a nominated beneficiary was specified
 
   by 30 June 2006, or
 
@@ -43,15 +43,15 @@ Nonetheless, trustees of discretionary trusts may be taxed at general rates wher
 
   can approve a further period.
 
-PPR beneficiaries A trustee can also nominate a "PPR beneﬁciary"; that is, a beneﬁciary who uses and occupies trust land as a principal place of residence. In the case of a ﬁxed trust, the land is exempt in the assessment of the trustee to the extent of the PPR beneﬁciary's interest in the land. Trustees of discretionary and unit trusts who nominate a PPR beneﬁciary receive a separate assessment for that land charged at general rates.
+PPR beneficiaries A trustee can also nominate a "PPR beneficiary"; that is, a beneficiary who uses and occupies trust land as a principal place of residence. In the case of a fixed trust, the land is exempt in the assessment of the trustee to the extent of the PPR beneficiary's interest in the land. Trustees of discretionary and unit trusts who nominate a PPR beneficiary receive a separate assessment for that land charged at general rates.
 
-There is no secondary assessment of PPR beneﬁciaries.
+There is no secondary assessment of PPR beneficiaries.
 
 Exemptions Generally, land used and occupied as an owner's PPR is exempt. Practically speaking, the PPR is the place that is used and occupied as an owner's home. Exemption applies to only one residence out of all residences owned and occupied by the person anywhere in the world. While use and occupation of the land as a residence is central to the exemption, land may still be exempt where:
 
 - the owner is absent from the residence for up to 6 years and has not claimed a PPR exemption
 
-  elsewhere. This period can be extended where the owner dies, or the land becomes unﬁt for
+  elsewhere. This period can be extended where the owner dies, or the land becomes unfit for
 
   occupation
 
@@ -75,27 +75,27 @@ Primary production Land outside greater Melbourne which is used primarily for pr
 
 Charities and non-profits Land owned and used by a charity solely for charitable purposes is exempt. Vacant land owned by a charity and intended for charitable use within 2 years may also be exempt. Land leased for public outdoor sporting, recreational or cultural purposes may be exempt if it is owned by a charitable institution. The Commissioner's view on this exemption is discussed in Revenue Ruling LTA-009.
 
-Land owned and used by a non-proﬁt organisation for sporting, recreational or cultural activities is exempt.
+Land owned and used by a non-profit organisation for sporting, recreational or cultural activities is exempt.
 
 From 1 January 2025 amendments to the principal Act by Act No 22 of 2024 exempt land used as social housing or emergency housing, and vacant land owned by a charity and declared to be held for future use as social housing or emergency housing.
 
-Miscellaneous exemptions Speciﬁc exemptions apply for land owned by local government, public statutory authorities or friendly societies; and for land used for residential and disability care, retirement villages, health centres, boarding houses, caravan parks, mines or for armed services personnel associations. For 2024 and later years exemptions apply to land used by an owner as the home of a family member who is eligible to be a beneﬁciary of a special disability trust, and land protected by a conservation covenant with Trust for Nature.
+Miscellaneous exemptions Specific exemptions apply for land owned by local government, public statutory authorities or friendly societies; and for land used for residential and disability care, retirement villages, health centres, boarding houses, caravan parks, mines or for armed services personnel associations. For 2024 and later years exemptions apply to land used by an owner as the home of a family member who is eligible to be a beneficiary of a special disability trust, and land protected by a conservation covenant with Trust for Nature.
 
-COVID Debt Repayment Plan Amendments to the principal Act by Act No 18 of 2023 include a temporary increase in land tax as part of a COVID Debt Repayment Plan (DRP). The land tax increase takes the form of ﬁxed surcharges and changes to thresholds and rates which apply over a 10-year period from 2024 to 2033.
+COVID Debt Repayment Plan Amendments to the principal Act by Act No 18 of 2023 include a temporary increase in land tax as part of a COVID Debt Repayment Plan (DRP). The land tax increase takes the form of fixed surcharges and changes to thresholds and rates which apply over a 10-year period from 2024 to 2033.
 
-- $500 ﬂat for taxable value between $50k and $100k
+- $500 flat for taxable value between $50k and $100k
 
-- $975 ﬂat for taxable value between $100k and $300k, and
+- $975 flat for taxable value between $100k and $300k, and
 
-- $975 ﬂat plus 0.1% increase in the rate of land tax for taxable value of $300k or more. For land
+- $975 flat plus 0.1% increase in the rate of land tax for taxable value of $300k or more. For land
 
-  subject to trust surcharge rates, the $975 ﬂat charge and increased rate will kick in over a $250k
+  subject to trust surcharge rates, the $975 flat charge and increased rate will kick in over a $250k
 
   threshold.
 
 See the tables below for a detailed list of the rates and applicable thresholds for 2024 and later years.
 
-Land otherwise assessed on single holding basis Certain taxable charitable, municipal or public land, and land used and occupied as the PPR of a nominated PPR beneﬁciary may be concessionally assessed on a single holding basis. This potentially exposes owners to multiple ﬁxed surcharge amounts in the separate assessments of their landholdings under the DRP. From 1 January 2024 the ﬁxed surcharges are applied only to the aggregate value of these landholdings.
+Land otherwise assessed on single holding basis Certain taxable charitable, municipal or public land, and land used and occupied as the PPR of a nominated PPR beneficiary may be concessionally assessed on a single holding basis. This potentially exposes owners to multiple fixed surcharge amounts in the separate assessments of their landholdings under the DRP. From 1 January 2024 the fixed surcharges are applied only to the aggregate value of these landholdings.
 
 Commercial and industrial property tax From 1 July 2024, stamp duty on land put to commercial or industrial use is abolished and replaced with a scheme for an annual property tax charged at 1% of the property's unimproved land value. Properties transition to the new system as they are sold, with the commercial and industrial property tax (CIPT) to be payable annually from 10 years after the sale transaction. So long as the land retains the qualifying use, exemptions from land transfer duty and landholder duty continue apply to subsequent eligible transactions in respect of the land.
 
@@ -105,13 +105,13 @@ Levy on short stay accommodation Bookings of short stay accommodation made on or
 
 A short stay is a period of less than 28 consecutive days. The levy will not apply to land which is also the PPR of the renter, or to commercial residential premises, boarding houses, retirement villages or student accommodation.
 
-The measure is aimed at encouraging the supply of long-term rentals and providing funds for social and aﬀordable housing. Owners liable to pay the levy must register with the SRO.
+The measure is aimed at encouraging the supply of long-term rentals and providing funds for social and affordable housing. Owners liable to pay the levy must register with the SRO.
 
 Absentee owner surcharge A surcharge is applied to the taxable value of land in Victoria owned by an absentee owner. From 2024 the surcharge is 4% of the taxable value of the land. Nil surcharge applies to taxable value of land up to $50k.
 
-An "absentee owner" is an absentee person who owns land in Victoria. An absentee person is a natural person, other than an Australian citizen or permanent resident, who is absent from Australia on the taxing date or for 6 months of the previous year. An Australian company in which an absentee person has a controlling interest, or a trustee of a trust in which at least one absentee person is a beneﬁciary or unit holder, is also an absentee owner. The absentee owner surcharge applies to trusts in addition to the trust surcharge rate.
+An "absentee owner" is an absentee person who owns land in Victoria. An absentee person is a natural person, other than an Australian citizen or permanent resident, who is absent from Australia on the taxing date or for 6 months of the previous year. An Australian company in which an absentee person has a controlling interest, or a trustee of a trust in which at least one absentee person is a beneficiary or unit holder, is also an absentee owner. The absentee owner surcharge applies to trusts in addition to the trust surcharge rate.
 
-Absentee owners are required to advise Victoria SRO of their absentee status by 15 January in the year after they ﬁrst became absentee owners.
+Absentee owners are required to advise Victoria SRO of their absentee status by 15 January in the year after they first became absentee owners.
 
 The Treasurer has power to disregard the interest of an absentee person and has issued guidelines on the exercise of this discretion.
 
@@ -119,13 +119,13 @@ Absentee owners engaged in eligible build-to-rent developments are exempt from t
 
 Vacancy tax A vacant residential land tax ("vacancy tax") applies to vacant residential properties, houses and apartments in Victoria. The tax targets land which is left vacant despite being capable of use or development. Broadly, a residential property is "vacant" if it was not the home of the owner, an occupier permitted by the owner, or a tenant, for a cumulative period of 6 months in the preceding calendar year. An exemption applies where the land is owned by an individual and used as a holiday home for at least 4 weeks in the year.
 
-Up until 2024 vacancy tax was charged at 1% of the capital improved value of the land and applied only to areas in and around Melbourne. From 2025 the 1% rate applies to the ﬁrst year of vacancy, but increases to 2% for the second, and 3% for the third and subsequent years of vacancy. In addition, amendments to the principal Act will, from 1 January 2025, expand the vacancy tax into the rest of Victoria. Vacancy tax will also apply, from 1 January 2026, to unimproved land in Melbourne that has remained unimproved for 5 years.
+Up until 2024 vacancy tax was charged at 1% of the capital improved value of the land and applied only to areas in and around Melbourne. From 2025 the 1% rate applies to the first year of vacancy, but increases to 2% for the second, and 3% for the third and subsequent years of vacancy. In addition, amendments to the principal Act will, from 1 January 2025, expand the vacancy tax into the rest of Victoria. Vacancy tax will also apply, from 1 January 2026, to unimproved land in Melbourne that has remained unimproved for 5 years.
 
 Generally, if a home is exempt from land tax it is also exempt from vacancy tax. A 2-year vacancy tax exemption may apply to new residential developments, or properties under construction or renovation.
 
 Build-to-rent developments An annual 50% land tax discount is available for land used for new build-to-rent (BTR) residential developments. Dwellings must be suitable for occupancy on or after 1 January 2021 and before 1 January 2032. Aimed at stimulating housing construction impacted by COVID-19, BTR developments must provide at least 50 self-contained dwellings and meet ownership and management criteria. Guidance on these requirements is available from Victoria SRO.
 
-The concession applies for up to 30 years, provided that the eligibility criteria continue to be met. If the criteria are breached in the ﬁrst 15 years a special BTR land tax is payable.
+The concession applies for up to 30 years, provided that the eligibility criteria continue to be met. If the criteria are breached in the first 15 years a special BTR land tax is payable.
 
 Eligible BTR developments also qualify for an exemption from absentee owner surcharge.
 

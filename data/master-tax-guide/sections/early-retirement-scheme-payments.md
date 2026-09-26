@@ -29,11 +29,11 @@ Conditions to be met
 
 83-180(2)).
 
-The conditions to be met to qualify as an "early retirement scheme" are set out in s 83-180(3) and (4). Even where the conditions are not satisﬁed, the Commissioner may treat a scheme as an early retirement scheme where special circumstances exist, eg where a scheme is implemented due to a delay in processing an application for its approval or is implemented without approval because the employer had not realised the tax implications (s 83-180(5)). Particular cases of approval of early retirement schemes are set out in ATO class rulings (CR 2023/22: Museums Victoria — early retirement scheme 2023; CR 2024/13: Parks Victoria — Early Retirement Scheme 2024).
+The conditions to be met to qualify as an "early retirement scheme" are set out in s 83-180(3) and (4). Even where the conditions are not satisfied, the Commissioner may treat a scheme as an early retirement scheme where special circumstances exist, eg where a scheme is implemented due to a delay in processing an application for its approval or is implemented without approval because the employer had not realised the tax implications (s 83-180(5)). Particular cases of approval of early retirement schemes are set out in ATO class rulings (CR 2023/22: Museums Victoria — early retirement scheme 2023; CR 2024/13: Parks Victoria — Early Retirement Scheme 2024).
 
 Taxation of early retirement scheme payments An early retirement scheme payment comprises a tax-free amount and an assessable amount (s 83-170).
 
-The tax-free amount is non-assessable non-exempt income. The amount in excess of the tax-free amount is assessable as an employment termination payment if it qualiﬁes as such a payment under s 82-130 (¶14-610).
+The tax-free amount is non-assessable non-exempt income. The amount in excess of the tax-free amount is assessable as an employment termination payment if it qualifies as such a payment under s 82-130 (¶14-610).
 
 The tax-free amount is worked out by the formula: Base amount + (service amount × years of service) where: base amount is $12,524 and service amount is $6,264 in 2024–25.
 

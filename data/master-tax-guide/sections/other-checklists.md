@@ -7,7 +7,7 @@ paragraph: "¶44-300"
 ---
 # Other checklists ¶44-300
 
-- Checklist of tax changes taking eﬀect in 2024–25 (¶2).
+- Checklist of tax changes taking effect in 2024–25 (¶2).
 
 - Checklist of taxable and non-taxable items (¶10-005).
 
@@ -15,7 +15,7 @@ paragraph: "¶44-300"
 
 - Checklist of CGT taxable and non-taxable events (¶11-005).
 
-- Tax oﬀset ﬁnding table (¶15-005).
+- Tax offset finding table (¶15-005).
 
 - Deductions checklist (¶16-005).
 

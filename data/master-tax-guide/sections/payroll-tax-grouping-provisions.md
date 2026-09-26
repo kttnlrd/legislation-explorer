@@ -15,15 +15,15 @@ However, each employer in the group remains primarily responsible for the paymen
 
   relationship)
 
-- where employees of one business perform duties solely or mainly for the beneﬁt of another
+- where employees of one business perform duties solely or mainly for the benefit of another
 
   business
 
 - where there is an agreement between 2 businesses relating to the performance of duties by
 
-  employees of one, for the beneﬁt of the other
+  employees of one, for the benefit of the other
 
-- where the same person (or persons) has a controlling interest in 2 or more businesses. Diﬀerent
+- where the same person (or persons) has a controlling interest in 2 or more businesses. Different
 
   rules apply to companies, trusts, partnerships or businesses owned by one person, and
 
@@ -31,8 +31,8 @@ However, each employer in the group remains primarily responsible for the paymen
 
   tracing provisions.
 
-The legislation in NSW provides (from 4 September 2023) that an entity (the successor) and a former entity, including a corporation that is in administration, being wound up or deregistered constitute a group if the successor, often referred to as a phoenix operator or corporation, and the entity are or were suﬃciently inﬂuenced by the same third party.
+The legislation in NSW provides (from 4 September 2023) that an entity (the successor) and a former entity, including a corporation that is in administration, being wound up or deregistered constitute a group if the successor, often referred to as a phoenix operator or corporation, and the entity are or were sufficiently influenced by the same third party.
 
 Determining whether a group exists largely hinges on the opinion of the Commissioner in each state, having regard to the circumstances of each particular case. Generally, the legislation provides that, other than in respect of companies related under the corporations law, the Commissioner has a discretion to exclude an employer from the operation of the grouping provisions. The discretion may be exercised where it can be demonstrated that the grouped businesses are substantially independent and unconnected, and that the relationship is not designed to reduce or avoid payroll tax. Each state has separate guidelines as to the circumstances in which a person may seek to gain exclusion from the respective grouping provisions.
 
-Generally, where employers are grouped, one group member claims the exemption threshold and the remaining members must pay a ﬂat rate of tax (¶36-040).
+Generally, where employers are grouped, one group member claims the exemption threshold and the remaining members must pay a flat rate of tax (¶36-040).

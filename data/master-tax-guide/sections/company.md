@@ -11,7 +11,7 @@ Consequences for taxpayer If a taxpayer chooses to take advantage of roll-over r
 
 The roll-over is a replacement-asset roll-over (s 112-115). The shares acquired pursuant to the roll-over are post-CGT assets.
 
-The ﬁrst element of the cost base and reduced cost base of each share in the company is:
+The first element of the cost base and reduced cost base of each share in the company is:
 
 - if the asset is created as a result of CGT event D1, the incidental costs incurred by the taxpayer in
 
@@ -35,7 +35,7 @@ Example 1 Greg grants a licence (CGT event D1) to Bostonco (a company wholly-own
 
 Consequences for company If a taxpayer chooses to take advantage of roll-over relief in relation to the creation of an asset in a wholly- owned company, there are CGT consequences for the company acquiring the asset (s 122-75). The roll-over is a same-asset roll-over (s 112-150).
 
-The ﬁrst element of the asset's cost base and reduced cost base in the hands of the company is the same as the cost base or reduced cost base of all the shares in the company issued to the taxpayer in relation to the created asset (see above), eg if the asset is created as a result of CGT event D2, the cost base of the option is the expenditure incurred by the taxpayer in granting the option.
+The first element of the asset's cost base and reduced cost base in the hands of the company is the same as the cost base or reduced cost base of all the shares in the company issued to the taxpayer in relation to the created asset (see above), eg if the asset is created as a result of CGT event D2, the cost base of the option is the expenditure incurred by the taxpayer in granting the option.
 
 Example 2 Continuing the above example, the cost base or reduced cost base of the licence in Bostonco's hands is $1,500.
 

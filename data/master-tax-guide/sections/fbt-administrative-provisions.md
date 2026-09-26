@@ -7,7 +7,7 @@ paragraph: "¶35-720"
 ---
 # FBT administrative provisions ¶35-720
 
-- In the absence of suﬃcient information to make a proper assessment, the Commissioner can
+- In the absence of sufficient information to make a proper assessment, the Commissioner can
 
   make a reasonable assessment (s 124).
 
@@ -17,19 +17,19 @@ paragraph: "¶35-720"
 
   and the income is not exempt, the assessment can be amended at any time (s 124A).
 
-- Authorised oﬃcers have wide powers to enter buildings, inspect documents and make copies, and
+- Authorised officers have wide powers to enter buildings, inspect documents and make copies, and
 
   are entitled to all reasonable assistance from the occupier (TAA sch 1 s 353-15).
 
 - The Commissioner can require any person to attend before the Commissioner or an authorised
 
-  oﬃcer, to answer questions and to produce documents in the person's custody or control (TAA sch
+  officer, to answer questions and to produce documents in the person's custody or control (TAA sch
 
 1 s 353-10).
 
 - Agents acting for employers, employers in the capacity of trustees, and trustees in respect of the
 
-  aﬀairs of employers, who provide or arrange fringe beneﬁts are required, as agent or trustee, to
+  affairs of employers, who provide or arrange fringe benefits are required, as agent or trustee, to
 
   lodge returns and pay FBT (s 129).
 

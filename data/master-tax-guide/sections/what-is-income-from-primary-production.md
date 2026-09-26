@@ -9,15 +9,15 @@ paragraph: "¶18-030"
 
 For a number of reasons it may be necessary to determine what constitutes income from primary production.
 
-This is relevant mainly for the purpose of the averaging provisions, which require a primary producer's "taxable primary production income" and "taxable non-primary production income" to be separately identiﬁed (¶18-210). Some common items of primary production income are:
+This is relevant mainly for the purpose of the averaging provisions, which require a primary producer's "taxable primary production income" and "taxable non-primary production income" to be separately identified (¶18-210). Some common items of primary production income are:
 
 - proceeds from the sale of produce
 
 - proceeds from the sale of skins and hides
 
-- proﬁts on the sale of live stock
+- profits on the sale of live stock
 
-- insurance payments for loss of proﬁts
+- insurance payments for loss of profits
 
 - assessable balancing adjustments from the disposal of depreciating assets
 
@@ -31,7 +31,7 @@ particular activities
 
 - Carbon abatement and biodiversity stewardship income. Proceeds from selling Australian
 
-  carbon credit units (ﬁrst held on or after 1 July 2022) and income derived from farm abatement
+  carbon credit units (first held on or after 1 July 2022) and income derived from farm abatement
 
   activities supporting such units are treated as primary production income. Holders of primary
 
@@ -45,7 +45,7 @@ particular activities
 
   passed from the grower to the merchant and a debt for an ascertainable sum has been created.
 
-Where cotton is placed in a pool, income is derived under the pool contract that provides for when a debt will become due and owing to the grower. A non-repayable advance distribution by the merchant to the grower is derived in the year in which the merchant declares or approves the distribution of a certain amount. In the case of ﬁxed price and guaranteed minimum price pools, income is derived by the grower at the time of classing, which is completed within 14 days of ginning. Distributions in excess of the minimum guaranteed price are assessable to the growers when declared by the merchant (TR 94/13).
+Where cotton is placed in a pool, income is derived under the pool contract that provides for when a debt will become due and owing to the grower. A non-repayable advance distribution by the merchant to the grower is derived in the year in which the merchant declares or approves the distribution of a certain amount. In the case of fixed price and guaranteed minimum price pools, income is derived by the grower at the time of classing, which is completed within 14 days of ginning. Distributions in excess of the minimum guaranteed price are assessable to the growers when declared by the merchant (TR 94/13).
 
 - Dairy. Dairy Regional Assistance Program grants are assessable (ID 2002/784). Dividends
 
@@ -53,9 +53,9 @@ Where cotton is placed in a pool, income is derived under the pool contract that
 
   primary production income (ID 2010/149).
 
-- Equine inﬂuenza hardship assistance. Equine Inﬂuenza Hardship Wage Supplement
+- Equine influenza hardship assistance. Equine Influenza Hardship Wage Supplement
 
-Payments, Commercial Horse Assistance Payments (CR 2008/59) and Equine Inﬂuenza Business Assistance Grants are taxable. Equine Inﬂuenza Hardship Grants are not taxable. Grants for non- government not-for-proﬁt equestrian organisations who have incurred expenses directly related to the outbreak are taxable unless the organisation is tax-exempt.
+Payments, Commercial Horse Assistance Payments (CR 2008/59) and Equine Influenza Business Assistance Grants are taxable. Equine Influenza Hardship Grants are not taxable. Grants for non- government not-for-profit equestrian organisations who have incurred expenses directly related to the outbreak are taxable unless the organisation is tax-exempt.
 
 - Fishing. For the taxation treatment of payments made under the Securing our Fishing Future
 
@@ -65,7 +65,7 @@ Package and similar entitlements, see CR 2007/47, CR 2007/49, CR 2007/64, CR 200
 
   include proceeds from the sale of felled or standing timber, the royalties from granting rights to
 
-  others to fell and remove timber, insurance recoveries and reaﬀorestation incentive grants or
+  others to fell and remove timber, insurance recoveries and reafforestation incentive grants or
 
   payments (TR 95/6). For the market value of matured trees ventured into a new business of forest
 
@@ -77,7 +77,7 @@ Package and similar entitlements, see CR 2007/47, CR 2007/49, CR 2007/64, CR 200
 
   payment to industry to commence or cease a business or for agreeing to give up or sell part of the
 
-  proﬁt-yielding structure is not assessable (TR 2006/3). For example, an exceptional circumstances
+  profit-yielding structure is not assessable (TR 2006/3). For example, an exceptional circumstances
 
   relief payment (ECRP) paid to a farmer under the Farm Household Support Act 1992 is not primary
 
@@ -87,7 +87,7 @@ Package and similar entitlements, see CR 2007/47, CR 2007/49, CR 2007/64, CR 200
 
   the taxpayer's farming business ceases (¶10-160). A payment to a farmer under the Namoi River
 
-Groundwater Structural Adjustment Program, described as "ﬁnancial assistance to help licence holders adjust to changes in groundwater access", was not liable to income tax (Carberry 2011 ATC ¶10-181; [2011] AATA 303). The Commissioner considers that a GSAP payment may be income if the recipient completes all of the steps in the program (ATO Decision Impact Statement on Carberry 2011 ATC ¶10-181; [2011] AATA 303).
+Groundwater Structural Adjustment Program, described as "financial assistance to help licence holders adjust to changes in groundwater access", was not liable to income tax (Carberry 2011 ATC ¶10-181; [2011] AATA 303). The Commissioner considers that a GSAP payment may be income if the recipient completes all of the steps in the program (ATO Decision Impact Statement on Carberry 2011 ATC ¶10-181; [2011] AATA 303).
 
 - Grazing/conservation payments. Stewardship and on-ground works payments received under
 
@@ -103,13 +103,13 @@ Catchment Management Authority's Enterprise Based Conservation Program (CR 2007/
 
   general rule, a sale of a futures contract by a primary producer for hedging purposes is an integral
 
-  part of the primary production business where the quantity of goods speciﬁed in the contract
+  part of the primary production business where the quantity of goods specified in the contract
 
   corresponds to the estimated production and where there is a subsequent sale of goods of the
 
   kind covered by the contract. Where, as in a normal hedging operation, the futures contract is
 
-  terminated by a subsequent buy-back contract, the resulting proﬁt or loss will be accepted as
+  terminated by a subsequent buy-back contract, the resulting profit or loss will be accepted as
 
   arising from the primary production business (IT 2228).
 
@@ -119,7 +119,7 @@ Catchment Management Authority's Enterprise Based Conservation Program (CR 2007/
 
 - Interest and dividends. Interest on a primary producer's term deposit account opened as a
 
-  condition of obtaining ﬁnance to purchase a new farming property was held to be assessable
+  condition of obtaining finance to purchase a new farming property was held to be assessable
 
   income from primary production and, therefore, income subject to averaging (Case X82 90 ATC
 
@@ -143,11 +143,11 @@ Catchment Management Authority's Enterprise Based Conservation Program (CR 2007/
 
   in the Landcare and water chapter of its guide for primary producers Primary producers essentials.
 
-CGT roll-over relief is available for taxpayers who replace an entitlement to water with one or more diﬀerent entitlements (¶12-445). For the taxation consequences of certain water entitlements, see CR 2008/28 (replacement of bore licence with aquifer access licence).
+CGT roll-over relief is available for taxpayers who replace an entitlement to water with one or more different entitlements (¶12-445). For the taxation consequences of certain water entitlements, see CR 2008/28 (replacement of bore licence with aquifer access licence).
 
 - Sustainable Rural Water Use and Infrastructure Program. The SRWUIP is a Commonwealth
 
-  program to provide funding for projects to increase eﬃcient water use in rural Australia. SRWUIP
+  program to provide funding for projects to increase efficient water use in rural Australia. SRWUIP
 
   payments are generally taxable in the year they are received, either as ordinary income or as a
 
@@ -195,11 +195,11 @@ CGT roll-over relief is available for taxpayers who replace an entitlement to wa
 
 TR 97/9. Woolgrowers returning income on the accruals basis derive income when all obligations necessary under a sale of wool contract have been performed to create an entitlement to the payment of an ascertainable sum. In an auction, income is derived when the property passes to the buyer at the fall of the hammer. At this time the wool ceases to be trading stock of the woolgrower.
 
-In sales by forward contracts, income is derived when the buyer, having taken delivery of the wool, receives the results of testing. In the case of sales of pooled wool, payments made in advance of the ﬁnal payment are usually income when the pool operator declares them. For the ﬁnal payment, income is derived when the grower becomes contractually entitled to it. producers Special capital expenditure deductions for primary producers Concessional tax treatment is given to capital expenditure relating to telephone lines (¶18-060), horticultural plants and new grapevines (¶18-070), water facilities (¶18-080), fodder storage assets (¶18-085), fencing assets (¶18-090), landcare operations (¶18-100) and timber depletion (¶18-120).
+In sales by forward contracts, income is derived when the buyer, having taken delivery of the wool, receives the results of testing. In the case of sales of pooled wool, payments made in advance of the final payment are usually income when the pool operator declares them. For the final payment, income is derived when the grower becomes contractually entitled to it. producers Special capital expenditure deductions for primary producers Concessional tax treatment is given to capital expenditure relating to telephone lines (¶18-060), horticultural plants and new grapevines (¶18-070), water facilities (¶18-080), fodder storage assets (¶18-085), fencing assets (¶18-090), landcare operations (¶18-100) and timber depletion (¶18-120).
 
 Generally, the amount of the deduction excludes the amount of any input tax credit to which the taxpayer may be entitled. Decreasing adjustments are included in assessable income and increasing adjustments are deductible (ITAA97 s 27-105).
 
-Where a commercial debt is forgiven, the debtor's deduction under the capital allowance provisions in ITAA97 Div 40 may be reduced under the rules outlined at ¶16-910. Special provisions apply if property is acquired under limited recourse ﬁnance and the debt is terminated before full repayment (¶23-260).
+Where a commercial debt is forgiven, the debtor's deduction under the capital allowance provisions in ITAA97 Div 40 may be reduced under the rules outlined at ¶16-910. Special provisions apply if property is acquired under limited recourse finance and the debt is terminated before full repayment (¶23-260).
 
 If an entity joins or leaves a consolidated group under the consolidation regime (¶8-000), any deduction under the primary production provisions (other than for the decline in value of depreciating assets) is allocated between the 2 entities (ITAA97 ss 716-25; 716-70: ¶8-580). Special rules apply for depreciating assets.
 

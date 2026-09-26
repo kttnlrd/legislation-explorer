@@ -15,7 +15,7 @@ Note that if the landlord also used some of the goods and services in other busi
 
 *Refs: s 9-5*
 
-- ﬁnancial supplies such as loans, dealings in money and issuing securities (¶34-190)
+- financial supplies such as loans, dealings in money and issuing securities (¶34-190)
 
 - supply of private residential premises for rent (¶34-230)
 

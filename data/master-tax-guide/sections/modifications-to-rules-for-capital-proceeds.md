@@ -5,13 +5,13 @@ section: "modifications-to-rules-for-capital-proceeds"
 title: "Modifications to rules for capital proceeds"
 paragraph: "¶11-510"
 ---
-# Modiﬁcations to rules for capital proceeds ¶11-510
+# Modifications to rules for capital proceeds ¶11-510
 
-There are 6 modiﬁcations to the general capital proceeds rules that may be relevant to a CGT event. A table in s 116-25 sets out the CGT event for which the general rules about capital proceeds are relevant, the modiﬁcations that can apply to that event and the special rules (if any) that apply to that event. CGT events not referred to in the table have capital gains and losses worked out without reference to capital proceeds.
+There are 6 modifications to the general capital proceeds rules that may be relevant to a CGT event. A table in s 116-25 sets out the CGT event for which the general rules about capital proceeds are relevant, the modifications that can apply to that event and the special rules (if any) that apply to that event. CGT events not referred to in the table have capital gains and losses worked out without reference to capital proceeds.
 
-First modification: market value substitution rule If a taxpayer does not receive any capital proceeds from a CGT event, the market value of the relevant CGT asset is taken to be the amount of the capital proceeds (s 116-30). This market value is worked out as at the time of the CGT event. However, this rule does not apply if the expiry of a CGT asset or the cancellation of a statutory licence happens under CGT event C2 (¶11-270) or if CGT event D1 (¶11-280) happens. Expiry is limited to expiration by eﬄuxion or lapse of time and does not include voluntary termination of an interest in an asset (TD 1999/76). The Commissioner accepts that shares in a "no goodwill" incorporated practice have a nil market value for the purpose of applying the market value substitution rule to an individual practitioner shareholder's admission to or exit from the practice for no consideration in speciﬁed circumstances (Administrative treatment: acquisitions and disposals of interests in "no goodwill" professional partnerships, trusts and incorporated practices).
+First modification: market value substitution rule If a taxpayer does not receive any capital proceeds from a CGT event, the market value of the relevant CGT asset is taken to be the amount of the capital proceeds (s 116-30). This market value is worked out as at the time of the CGT event. However, this rule does not apply if the expiry of a CGT asset or the cancellation of a statutory licence happens under CGT event C2 (¶11-270) or if CGT event D1 (¶11-280) happens. Expiry is limited to expiration by effluxion or lapse of time and does not include voluntary termination of an interest in an asset (TD 1999/76). The Commissioner accepts that shares in a "no goodwill" incorporated practice have a nil market value for the purpose of applying the market value substitution rule to an individual practitioner shareholder's admission to or exit from the practice for no consideration in specified circumstances (Administrative treatment: acquisitions and disposals of interests in "no goodwill" professional partnerships, trusts and incorporated practices).
 
-The capital proceeds from a CGT event are also replaced with the market value of the relevant CGT asset if some or all of those proceeds cannot be valued. This rule does not apply if it is merely diﬃcult, costly or inconvenient to obtain a valuation (TD 1999/84). Similarly, if the capital proceeds are more or less than the market value of the asset and: (i) the parties to the CGT event are not dealing with each other at arm's length, or (ii) the CGT event is CGT event C2, the capital proceeds are replaced with the market value of the CGT asset.
+The capital proceeds from a CGT event are also replaced with the market value of the relevant CGT asset if some or all of those proceeds cannot be valued. This rule does not apply if it is merely difficult, costly or inconvenient to obtain a valuation (TD 1999/84). Similarly, if the capital proceeds are more or less than the market value of the asset and: (i) the parties to the CGT event are not dealing with each other at arm's length, or (ii) the CGT event is CGT event C2, the capital proceeds are replaced with the market value of the CGT asset.
 
 The Federal Court held in Kilgour & Ors 2024 ATC ¶20-919; [2024] FCA 687 (appeal pending) that the market value substitution rule does not apply where unrelated parties deal with each other at arm's length.
 
@@ -41,7 +41,7 @@ The non-receipt rule does not apply where part or all of the capital proceeds fr
 
 If the capital proceeds are reduced by the unpaid amount and all or part of that amount is later received, the capital proceeds are increased by that amount.
 
-There is an entitlement to receive money or other property if a taxpayer is entitled to have the money or other property applied for the beneﬁt, or in accordance with the directions, of the taxpayer.
+There is an entitlement to receive money or other property if a taxpayer is entitled to have the money or other property applied for the benefit, or in accordance with the directions, of the taxpayer.
 
 If the capital proceeds are expressed in a foreign currency, the Australian equivalent at the time of the CGT event is taken into account.
 
@@ -51,7 +51,7 @@ A capital gain was reduced where the taxpayer subsequently reimbursed the purcha
 
 Fifth modification: assumption of liability rule The capital proceeds from a CGT event are increased if the entity acquiring the relevant CGT asset acquires it subject to a liability by way of security over the asset (s 116-55). In such a case, the capital proceeds are increased by the amount of the liability that the acquiring entity assumes.
 
-Sixth modification: misappropriation rule The sixth modiﬁcation provides that the capital proceeds from a CGT event are reduced if an employee or agent misappropriates all or part of those proceeds. If the taxpayer later receives an amount as recoupment of all or part of the misappropriated amount, the capital proceeds are increased by the amount received (s 116-60).
+Sixth modification: misappropriation rule The sixth modification provides that the capital proceeds from a CGT event are reduced if an employee or agent misappropriates all or part of those proceeds. If the taxpayer later receives an amount as recoupment of all or part of the misappropriated amount, the capital proceeds are increased by the amount received (s 116-60).
 
 *Refs: s 116-25, s 116-30), s 116-30(2, s 116-40), s 116-45), s 116-20(1)), s 116-50), s 116-55), s
 116-60)*

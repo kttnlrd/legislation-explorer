@@ -21,13 +21,13 @@ paragraph: "¶3-475"
 
   management partnership (VCMP): ¶5-040.
 
-For tax purposes, most limited partnerships are corporate limited partnerships; ie they are eﬀectively treated as companies that are separate taxable entities (ITAA36 s 94D; Resource Capital Fund IV LP 2019 ATC ¶20-691; [2019] FCAFC 51 (application for special leave to appeal to High Court refused)). However, a VCLP, an ESVCLP, an AFOF or a VCMP (¶5-040) cannot be a corporate limited partnership and such an entity that becomes a corporate limited partnership cannot carry back a tax loss to an income year in which it was one or other of these entities (ITAA97 s 195-72). Also, a limited partnership that is a foreign hybrid limited partnership (¶5-050) in relation to a year of income cannot be a corporate limited partnership in relation to that year (ITAA36 s 94D(5); ITAA97 s 830-10).
+For tax purposes, most limited partnerships are corporate limited partnerships; ie they are effectively treated as companies that are separate taxable entities (ITAA36 s 94D; Resource Capital Fund IV LP 2019 ATC ¶20-691; [2019] FCAFC 51 (application for special leave to appeal to High Court refused)). However, a VCLP, an ESVCLP, an AFOF or a VCMP (¶5-040) cannot be a corporate limited partnership and such an entity that becomes a corporate limited partnership cannot carry back a tax loss to an income year in which it was one or other of these entities (ITAA97 s 195-72). Also, a limited partnership that is a foreign hybrid limited partnership (¶5-050) in relation to a year of income cannot be a corporate limited partnership in relation to that year (ITAA36 s 94D(5); ITAA97 s 830-10).
 
-An association of persons who are not a partnership under the general law cannot be a corporate limited partnership; and a conclusive evidence certiﬁcate issued under state limited partnership legislation could not dictate otherwise (D Marks Partnership 2016 ATC ¶20-575; [2016] FCAFC 86; TD 2008/15; TA 2007/5).
+An association of persons who are not a partnership under the general law cannot be a corporate limited partnership; and a conclusive evidence certificate issued under state limited partnership legislation could not dictate otherwise (D Marks Partnership 2016 ATC ¶20-575; [2016] FCAFC 86; TD 2008/15; TA 2007/5).
 
-An unincorporated association of persons acting only in Australia who do not carry on business in common with a view to proﬁt also cannot be a corporate limited partnership (TD 2008/15).
+An unincorporated association of persons acting only in Australia who do not carry on business in common with a view to profit also cannot be a corporate limited partnership (TD 2008/15).
 
-Modification of the tax law Where a limited partnership is taxed as a company, the following modiﬁcations are made to the tax law:
+Modification of the tax law Where a limited partnership is taxed as a company, the following modifications are made to the tax law:
 
 - a reference to a company or body corporate in ITAA36 s 6 includes a reference to a limited
 
@@ -37,7 +37,7 @@ Modification of the tax law Where a limited partnership is taxed as a company, t
 
 - a dividend includes distributions by a limited partnership to the extent that the distributions are
 
-  not attributable to proﬁts or gains of an income year in which the partnership was not taxed as a
+  not attributable to profits or gains of an income year in which the partnership was not taxed as a
 
   company (ITAA36 s 94L)
 
@@ -53,7 +53,7 @@ Modification of the tax law Where a limited partnership is taxed as a company, t
 
 - a liquidator includes a partner who winds up a limited partnership (ITAA36 s 94R)
 
-- a change in the composition of a limited partnership does not aﬀect the continuity of the
+- a change in the composition of a limited partnership does not affect the continuity of the
 
   partnership for tax purposes (ITAA36 s 94S)
 
@@ -65,7 +65,7 @@ Modification of the tax law Where a limited partnership is taxed as a company, t
 
   but may be discharged by any one of them, ie: (a) partners are jointly and severally liable to pay
 
-  any amount payable by the partnership; and (b) any tax oﬀence committed by a limited partnership
+  any amount payable by the partnership; and (b) any tax offence committed by a limited partnership
 
   is taken to have been committed by each of the partners, although it is a defence if the partner did
 
@@ -73,9 +73,9 @@ Modification of the tax law Where a limited partnership is taxed as a company, t
 
 (ITAA36 s 94V).
 
-The fact that a corporate limited partnership is treated as not being a private company led to arrangements utilising corporate limited partnerships to seek to avoid the operation of the Div 7A private company payment, loan and debt forgiveness rules. To overcome these arrangements, it is now provided, with eﬀect from 1 July 2009, that a closely held corporate limited partnership (less than 50 members or where an entity has direct or indirect beneﬁcial interest in at least 75% of the income or capital of the partnership) is taken to be a private company for the purposes of Div 7A (ITAA36 s 109BB).
+The fact that a corporate limited partnership is treated as not being a private company led to arrangements utilising corporate limited partnerships to seek to avoid the operation of the Div 7A private company payment, loan and debt forgiveness rules. To overcome these arrangements, it is now provided, with effect from 1 July 2009, that a closely held corporate limited partnership (less than 50 members or where an entity has direct or indirect beneficial interest in at least 75% of the income or capital of the partnership) is taken to be a private company for the purposes of Div 7A (ITAA36 s 109BB).
 
-A Bermudan exempted limited partnership was a corporate limited partnership; it was not a foreign hybrid limited partnership, as Bermuda does not impose tax on income, proﬁts, dividends or wealth (ID 2006/149).
+A Bermudan exempted limited partnership was a corporate limited partnership; it was not a foreign hybrid limited partnership, as Bermuda does not impose tax on income, profits, dividends or wealth (ID 2006/149).
 
 CGT implications The ATO considers that there is no capital gain or loss at the time of conversion of a partnership to a limited partnership (ID 2010/210). The cost base of the assumed shares in the limited partnership would be the sum of the cost bases of each partner's interests in the individual assets of the partnership and in the partnership itself.
 

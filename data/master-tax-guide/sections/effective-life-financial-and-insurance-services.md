@@ -5,7 +5,7 @@ section: "effective-life-financial-and-insurance-services"
 title: "Effective life — financial and insurance services"
 paragraph: "¶43-060"
 ---
-# Eﬀective life — ﬁnancial and insurance services ¶43-060
+# Effective life — financial and insurance services ¶43-060
 
 (62100 to 64200)
 
@@ -23,6 +23,6 @@ screens – see Table B Advertising signs
 
 ## Automatic teller machines (ATMs) – see Table B Automatic teller
 
-## Ballistic and blast resistant screens and barriers (including ﬁxed and
+## Ballistic and blast resistant screens and barriers (including fixed and
 
 ## Variable message signs, such as electronic FX boards and digital LED

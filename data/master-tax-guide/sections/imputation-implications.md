@@ -11,7 +11,7 @@ The corporate tax rate was reduced from 30% to 28.5% for the 2015–16 income ye
 
 The position for the 2015–16 income year was that, although the maximum franking credit that could be allocated to a frankable distribution was usually set by the applicable company tax rate, in the case of companies that were small business entities, the franking credit cap remained at the standard corporate tax rate of 30%. However, the normal franking credit distribution provisions applied.
 
-It was oﬃcially explained that, given the rate reductions, it was not feasible to continue to operate the imputation system at the headline corporate tax rate of 30% for all corporate tax entities.
+It was officially explained that, given the rate reductions, it was not feasible to continue to operate the imputation system at the headline corporate tax rate of 30% for all corporate tax entities.
 
 Consequently, from the 2016–17 income year, the operation of the imputation system for corporate tax entities has been based on the company's corporate tax rate for a particular income year, worked out (broadly) having regard to the entity's position for the previous income year. This was necessary because corporate tax entities usually pay distributions to members for an income year during that income year.
 

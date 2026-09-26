@@ -17,9 +17,9 @@ Commissioner is calculating the instalment rate and which did not apply in the b
 
 - proposed changes in the law that, in the Commissioner's opinion, are likely to be enacted and
 
-  have the eﬀect of lowering the taxpayer's instalment rate.
+  have the effect of lowering the taxpayer's instalment rate.
 
-The calculation of a superannuation or RSA provider's notional tax is modiﬁed to ensure that no-TFN contributions income and the tax oﬀset for no-TFN contributions income are not taken into account. However the contributions are still assessable contributions that are taken into account when working out the provider's notional tax and base assessment instalment income.
+The calculation of a superannuation or RSA provider's notional tax is modified to ensure that no-TFN contributions income and the tax offset for no-TFN contributions income are not taken into account. However the contributions are still assessable contributions that are taken into account when working out the provider's notional tax and base assessment instalment income.
 
 Adjusted taxable income A taxpayer's "adjusted taxable income" for the base year is the taxpayer's total assessable income for the base year, reduced by (TAA s 45-330):
 
@@ -49,23 +49,23 @@ There is no legislative guidance as to what deductions reasonably relate to the 
 
 Adjusted tax Calculation of the adjusted tax on either the adjusted taxable income or the adjusted withholding income is a 4-step process (TAA s 45-340).
 
-Step 1: Calculate the income tax payable on the adjusted taxable income or the adjusted withholding income (as relevant). The following tax oﬀsets are disregarded:
+Step 1: Calculate the income tax payable on the adjusted taxable income or the adjusted withholding income (as relevant). The following tax offsets are disregarded:
 
-- private health insurance oﬀset (¶15-330)
+- private health insurance offset (¶15-330)
 
-- tax oﬀset arising from franking deﬁcit tax liabilities (¶4-780)
+- tax offset arising from franking deficit tax liabilities (¶4-780)
 
-- low income rebate/tax oﬀset (¶15-300)
+- low income rebate/tax offset (¶15-300)
 
-- oﬀset for superannuation contributions made on behalf of the taxpayer's spouse (¶13-770)
+- offset for superannuation contributions made on behalf of the taxpayer's spouse (¶13-770)
 
-- oﬀset for Medicare levy surcharge (lump sum payments in arrears) (¶15-350)
+- offset for Medicare levy surcharge (lump sum payments in arrears) (¶15-350)
 
-- the corporate loss carry back tax oﬀset (¶3-080)
+- the corporate loss carry back tax offset (¶3-080)
 
-- oﬀset for early stage investors in innovation companies (¶20-700), and
+- offset for early stage investors in innovation companies (¶20-700), and
 
-- the junior minerals exploration incentive tax oﬀset (¶19-010).
+- the junior minerals exploration incentive tax offset (¶19-010).
 
 Step 2: Calculate the Medicare levy payable on the adjusted taxable income or the adjusted withholding income (as the case may be), disregarding the Medicare levy surcharge.
 
@@ -85,7 +85,7 @@ Example 1: Corporate taxpayer Happy Toys Ltd derived the following assessable in
 
 Happy Toys Ltd's base assessment instalment income equals so much of its assessable income for the base year that is instalment income. This would be $155,000 (ie $120,000 + $10,000 + $25,000).
 
-Happy Toys Ltd's                   =                                       Happy Toys Ltd's notional tax                      ×100 instalment rate                             Happy Toys Ltd's base assessment instalment income $25,750 =                 × 100 $155,000 =16.61% (rounded to 2 decimal places) Example 2: Individual taxpayer Hilary derived the following assessable income during the year ended 30 June 2024 (the base year): Salary                                                                                                                                 $30,000 Net capital gain                                                                                                                       $12,000 Interest                                                                                                                                $8,000 Dividends (fully franked from a large public company)                                                                                   $2,000 Dividend gross-up amount ($2,000 × 30/70)                                                                                                $857 She incurred the following deductions during the base year: Work-related expenses                                                                                                                     $800 Interest and dividend deductions                                                                                                          $200 Hilary did not quote her TFN in relation to the interest income and, consequently, tax was withheld. Further, on her assessment for the year ended 30 June 2024, Hilary was allowed an oﬀset for a superannuation contribution she made on behalf of her spouse, Herbert. Hilary does not have a tertiary education assessment debt. Using the personal tax rates for the year ending 30 June 2025, Hilary's instalment rate is calculated as follows: Hilary's                    assessable                                                   allowable deductions     tax losses carried net capital gains adjusted taxable          =      income of     −                                           − (except tax losses) of − forward from base of base year income                       base year                                                        base year                  year =$52,857 − $12,000 − $1,000 − $0 =$39,857
+Happy Toys Ltd's                   =                                       Happy Toys Ltd's notional tax                      ×100 instalment rate                             Happy Toys Ltd's base assessment instalment income $25,750 =                 × 100 $155,000 =16.61% (rounded to 2 decimal places) Example 2: Individual taxpayer Hilary derived the following assessable income during the year ended 30 June 2024 (the base year): Salary                                                                                                                                 $30,000 Net capital gain                                                                                                                       $12,000 Interest                                                                                                                                $8,000 Dividends (fully franked from a large public company)                                                                                   $2,000 Dividend gross-up amount ($2,000 × 30/70)                                                                                                $857 She incurred the following deductions during the base year: Work-related expenses                                                                                                                     $800 Interest and dividend deductions                                                                                                          $200 Hilary did not quote her TFN in relation to the interest income and, consequently, tax was withheld. Further, on her assessment for the year ended 30 June 2024, Hilary was allowed an offset for a superannuation contribution she made on behalf of her spouse, Herbert. Hilary does not have a tertiary education assessment debt. Using the personal tax rates for the year ending 30 June 2025, Hilary's instalment rate is calculated as follows: Hilary's                    assessable                                                   allowable deductions     tax losses carried net capital gains adjusted taxable          =      income of     −                                           − (except tax losses) of − forward from base of base year income                       base year                                                        base year                  year =$52,857 − $12,000 − $1,000 − $0 =$39,857
 
 = $29,200 The interest subject to PAYG withholding due to the fact that Hilary did not quote her TFN does not count as adjusted withholding income.
 
@@ -107,13 +107,13 @@ Hilary's base assessment instalment income equals so much of her assessable inco
 
 Hilary's               =                                          Hilary's notional tax                                ×100 instalment rate                              Hilary's base assessment instalment income $1,061.26 =                     × 100 $10,000 =10.61% (rounded to 2 decimal places) Special rules provide a methodology for the Commissioner to work out one or more instalment rates for a trustee who has more than one PAYG instalment liability in respect of:
 
-- a beneﬁciary under a legal disability
+- a beneficiary under a legal disability
 
-- a beneﬁciary that has a vested and indefeasible interest in the trust income but cannot require the
+- a beneficiary that has a vested and indefeasible interest in the trust income but cannot require the
 
   trustee to pay that amount to them, and
 
-- income to which no beneﬁciary is entitled (¶27-500).
+- income to which no beneficiary is entitled (¶27-500).
 
 ## In working out a taxpayer's notional tax, the Commissioner may take account of:
 

@@ -7,7 +7,7 @@ paragraph: "¶26-269"
 ---
 # PAYG: foreign resident CGT withholding ¶26-269
 
-A 15% non-ﬁnal withholding tax obligation applies to the purchaser of certain Australian real property and related interests where the property is acquired from a foreign resident vendor on or after 1 January 2025 (12.5% for contracts entered into before this date).
+A 15% non-final withholding tax obligation applies to the purchaser of certain Australian real property and related interests where the property is acquired from a foreign resident vendor on or after 1 January 2025 (12.5% for contracts entered into before this date).
 
 - taxable Australian real property, ie TARP (¶12-725)
 
@@ -17,9 +17,9 @@ A 15% non-ﬁnal withholding tax obligation applies to the purchaser of certain 
 
   where options are involved.
 
-Financial beneﬁts obtained under CGT look-through earnout rights (¶11-675) are also subject to withholding.
+Financial benefits obtained under CGT look-through earnout rights (¶11-675) are also subject to withholding.
 
-The obligation arises where any vendor of the relevant property is a foreign resident. It consists of a requirement to withhold 15% of the ﬁrst element of the cost base of the asset (¶11-550), ignoring any ﬁnancial beneﬁts under earnout rights, and paying that amount to the Commissioner at the time of acquisition, ie at settlement. LCR 2016/6 explains how to work out the amount to be paid to the Commissioner under Subdiv 14-D.
+The obligation arises where any vendor of the relevant property is a foreign resident. It consists of a requirement to withhold 15% of the first element of the cost base of the asset (¶11-550), ignoring any financial benefits under earnout rights, and paying that amount to the Commissioner at the time of acquisition, ie at settlement. LCR 2016/6 explains how to work out the amount to be paid to the Commissioner under Subdiv 14-D.
 
 The administrative penalties in TAA sch 1 ss 16-30 and 16-35 (¶29-300) apply where there is a failure to withhold.
 
@@ -41,25 +41,25 @@ The administrative penalties in TAA sch 1 ss 16-30 and 16-35 (¶29-300) apply wh
 
 Australian real property and certain indirect Australian real property interests valued at less than $750,000.
 
-Where the asset is TARP or a company title interest, the vendor is assumed to be a foreign resident, unless the vendor obtains a clearance certiﬁcate from the Commissioner that he/she/it is a resident.
+Where the asset is TARP or a company title interest, the vendor is assumed to be a foreign resident, unless the vendor obtains a clearance certificate from the Commissioner that he/she/it is a resident.
 
-Clearance certiﬁcates should be provided by the vendor to the purchaser before settlement to ensure that no withholding is made.
+Clearance certificates should be provided by the vendor to the purchaser before settlement to ensure that no withholding is made.
 
-For an indirect Australian real property interest (other than a company title interest) and for an option or right to acquire TARP or an indirect Australian real property interest (other than a company title interest), the obligation to withhold arises if the purchaser knows or reasonably believes the vendor to be a foreign resident. For these interests, the vendor may make a declaration to the eﬀect that he/she/it is a resident and this should be provided to the purchaser before settlement. There are, however, penalties for making false or misleading declarations.
+For an indirect Australian real property interest (other than a company title interest) and for an option or right to acquire TARP or an indirect Australian real property interest (other than a company title interest), the obligation to withhold arises if the purchaser knows or reasonably believes the vendor to be a foreign resident. For these interests, the vendor may make a declaration to the effect that he/she/it is a resident and this should be provided to the purchaser before settlement. There are, however, penalties for making false or misleading declarations.
 
 For all relevant Australian property interests and related interests, the vendor or the purchaser may apply for a variation of the amount of the withholding obligation. Where the vendor applies for a variation, the Commissioner's notice of variation should be provided to the purchaser before settlement to ensure the reduced withholding rate applies. Reasons for seeking a variation include: the asset is a pre-CGT asset; a CGT roll-over or exemption is claimed; and the liability is less than 15% of the proceeds and any non- monetary consideration. The Commissioner's variation power is further explained in LCR 2016/5.
 
-Where there is a sale of Australian property by multiple vendors and one of them is an Australian resident and at least one is a foreign resident, Legislative Instrument F2016L01123 ensures that the PAYG amount is based on the proportion of the acquisition cost and the market value of the ﬁnancial beneﬁt attributable to foreign resident entities.
+Where there is a sale of Australian property by multiple vendors and one of them is an Australian resident and at least one is a foreign resident, Legislative Instrument F2016L01123 ensures that the PAYG amount is based on the proportion of the acquisition cost and the market value of the financial benefit attributable to foreign resident entities.
 
 ATO administrative arrangements
 
-- a clearance certiﬁcate application for Australian residents
+- a clearance certificate application for Australian residents
 
 - a variation application for foreign residents and other parties, and
 
-- purchaser payment notiﬁcation. This needs to be completed when withholding is required.
+- purchaser payment notification. This needs to be completed when withholding is required.
 
-In straightforward cases where the ATO has all the required information, it is expected that clearance certiﬁcates will be provided within days of being submitted. Where there are data irregularities or exceptions, the clearance certiﬁcates will be provided within 14–28 days. Higher risk and unusual cases may take longer.
+In straightforward cases where the ATO has all the required information, it is expected that clearance certificates will be provided within days of being submitted. Where there are data irregularities or exceptions, the clearance certificates will be provided within 14–28 days. Higher risk and unusual cases may take longer.
 
 Further information can be found on the ATO website at Instructions for withholding rate variation.
 
@@ -69,7 +69,7 @@ Withholding variations to nil The amount that would otherwise have had to be wit
 
 - a deceased's legal personal representative
 
-- beneﬁciaries of a deceased estate, or
+- beneficiaries of a deceased estate, or
 
 - surviving joint tenants that acquire a deceased joint tenant's interest in a relevant asset
 

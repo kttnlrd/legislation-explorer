@@ -23,7 +23,7 @@ $500 ×                          ×     10%        = $20.54 The AAT has held tha
 
 The nominal interest component was held to be correctly calculated in that case, based on the entire period from the beginning of the relevant quarter to the delayed date of lodgment of the SG statements by the taxpayer following the amended assessments.
 
-Administration component The employer's administration component for a quarter is a ﬂat amount of $20 for each employee in respect of whom the employer has an individual SG shortfall for the quarter (SGAA s 32).
+Administration component The employer's administration component for a quarter is a flat amount of $20 for each employee in respect of whom the employer has an individual SG shortfall for the quarter (SGAA s 32).
 
 Example An employer has individual SG shortfalls in respect of 5 employees in a quarter. The administration component for the quarter is $20 × 5 = $100.
 

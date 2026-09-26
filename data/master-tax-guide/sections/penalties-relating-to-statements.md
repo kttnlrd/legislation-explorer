@@ -31,7 +31,7 @@ False or misleading statement A false or misleading statement in respect of a ma
 
   law (other than excise laws) (s 284-75(1)), including statements made to an ATO employee in the
 
-  course of that person's duties or to a person other than a taxation oﬃcer about a tax-related matter,
+  course of that person's duties or to a person other than a taxation officer about a tax-related matter,
 
   eg a tax agent preparing an income tax return (s 284-25)
 
@@ -83,41 +83,41 @@ Failure to make a statement A penalty of 75% of the tax-related liability concer
 
 Relief for inadvertent errors The ATO may provide penalty relief during audits for inadvertent errors in tax returns and activity statements that are due to failure to take reasonable care or taking a position on income tax that is not reasonably arguable (¶29-160).
 
-Such relief is extended once every 3 years to eligible individuals, and eligible entities with a turnover of less than $10 million. Nor is this penalty relief available if in the past 3 years the taxpayer has: been penalised for reckless or intentional disregard of the law; evaded tax or committed fraud; been involved in the control or management of another entity, which has evaded tax; or incurred debts without the intention of being able to pay, such as phoenix activity. Eligible entities include small businesses, SMSFs, strata title bodies, not- for-proﬁt organisations and co-operatives. Ineligible entities include wealthy individuals and their businesses; associates of wealthy individuals that may be classed as a small business entity (SBE: ¶7-050) in their own right; entities that do not meet the SBE eligibility criteria; and public groups, signiﬁcant global entities and associates.
+Such relief is extended once every 3 years to eligible individuals, and eligible entities with a turnover of less than $10 million. Nor is this penalty relief available if in the past 3 years the taxpayer has: been penalised for reckless or intentional disregard of the law; evaded tax or committed fraud; been involved in the control or management of another entity, which has evaded tax; or incurred debts without the intention of being able to pay, such as phoenix activity. Eligible entities include small businesses, SMSFs, strata title bodies, not- for-profit organisations and co-operatives. Ineligible entities include wealthy individuals and their businesses; associates of wealthy individuals that may be classed as a small business entity (SBE: ¶7-050) in their own right; entities that do not meet the SBE eligibility criteria; and public groups, significant global entities and associates.
 
 Penalties relating to statements — base penalty amounts Penalties for false or misleading statements, or statements whose positions as to income tax law (or the PRRT law) are not reasonably arguable (TAA sch 1 s 284-90), are determined as follows:
 
-- where a statement does not result in a shortfall amount, a ﬁxed penalty applies, and
+- where a statement does not result in a shortfall amount, a fixed penalty applies, and
 
 - where there is a shortfall amount in excess of any relevant threshold, the penalty is calculated as
 
-  a ﬁxed percentage of the shortfall amount.
+  a fixed percentage of the shortfall amount.
 
 Where a taxpayer fails to make a statement under s 284-75(3), the penalty is 75% of the tax-related liability.
 
-The "base penalty amount" varies depending on the conduct of the taxpayer, discussed below and summarised in the table in ¶29-000 (see ¶29-180 in respect of scheme shortfall amounts (s 284-160)), with respect to the statement. For example, the base penalty is highest (75%) where there was a shortfall that was caused by intentional disregard of the tax law. The base penalty may be increased or decreased, depending on a range of factors such as whether and when the taxpayer made a voluntary disclosure, or hindered or obstructed the Commissioner in ﬁnding out about the statement (¶29-190). No penalty applies if reasonable care has been taken (s 284-75(5)). For signiﬁcant global entities penalties are doubled (s 284-90(1A)).
+The "base penalty amount" varies depending on the conduct of the taxpayer, discussed below and summarised in the table in ¶29-000 (see ¶29-180 in respect of scheme shortfall amounts (s 284-160)), with respect to the statement. For example, the base penalty is highest (75%) where there was a shortfall that was caused by intentional disregard of the tax law. The base penalty may be increased or decreased, depending on a range of factors such as whether and when the taxpayer made a voluntary disclosure, or hindered or obstructed the Commissioner in finding out about the statement (¶29-190). No penalty applies if reasonable care has been taken (s 284-75(5)). For significant global entities penalties are doubled (s 284-90(1A)).
 
-Where conduct that gives rise to an administrative penalty, eg deliberate evasion, also constitutes an oﬀence that renders the taxpayer liable to prosecution (¶29-700), penalties are withdrawn under s 8ZE when related criminal prosecution are commenced.
+Where conduct that gives rise to an administrative penalty, eg deliberate evasion, also constitutes an offence that renders the taxpayer liable to prosecution (¶29-700), penalties are withdrawn under s 8ZE when related criminal prosecution are commenced.
 
 Shortfall amount A shortfall amount arises where the tax liability is less, or the credit or payment entitlement is more, than it would have been if the statement had not been false or misleading, or treated an income tax law or the PRRT law as applying in a way that was not reasonably arguable.
 
-The "shortfall amount" is the diﬀerence between the amount of tax, credit or payment entitlement, calculated on the basis of the taxpayer's statement, and the amount of tax, etc, calculated according to law (s 284-80).
+The "shortfall amount" is the difference between the amount of tax, credit or payment entitlement, calculated on the basis of the taxpayer's statement, and the amount of tax, etc, calculated according to law (s 284-80).
 
-The shortfall is worked out by reference to a tax, etc, in the accounting period for the particular liability or credit. If no shortfall amount arises (¶29-000) a taxpayer may still be liable to a ﬁxed penalty.
+The shortfall is worked out by reference to a tax, etc, in the accounting period for the particular liability or credit. If no shortfall amount arises (¶29-000) a taxpayer may still be liable to a fixed penalty.
 
 Example Caroll's tax liability (ignoring Medicare levy) calculated in accordance with the law for an income year is $20,000. However, the tax payable on the basis of an incorrect deduction claim for $5,000 in her return is $17,750. Caroll's shortfall amount is $2,250 (ie $20,000 − $17,750).
 
 Intentional disregard of tax law To the extent that a shortfall amount arises from the intentional disregard of a taxation law (other than excise laws) by the taxpayer or its agent, the taxpayer is liable to a penalty of 75% of the amount of that shortfall (s 284-90(1), item 1). Where there is no shortfall amount, an administrative penalty of 60 penalty units applies (s 284-90(1), item 3A).
 
-Culpable behaviour falling within this category would include the exclusion of an amount from assessable income, knowing it to be assessable, or the claiming of a deduction, rebate, credit or oﬀset, knowing that it is not allowable. The Commissioner's view is that intentional disregard requires actual knowledge that a statement is false. Evidence of intention may be direct or inferred from all the surrounding circumstances, including the taxpayer's conduct — see MT 2008/1. Penalties were correctly imposed for intentional disregard where a director of a company (who was also a tax agent) lodged 14 BASs falsely claiming GST credits (Case 10/2005 2005 ATC 197; [2005] AATA 696). Penalties were also correctly imposed where a taxpayer intentionally failed to return income that he had received, and took steps to disguise such receipts as loans or advances (Case 11/2009 2009 ATC ¶1-015; [2009] AATA 726). Similarly, the imposition of a penalty where a tax agent had lodged returns with falsiﬁed information, regardless of whether the taxpayer was aware of the falsity, was upheld in Weyers & Anor 2006 ATC 4523; [2006] FCA 818, Case 5/2006 2006 ATC 137; [2006] AATA 424.
+Culpable behaviour falling within this category would include the exclusion of an amount from assessable income, knowing it to be assessable, or the claiming of a deduction, rebate, credit or offset, knowing that it is not allowable. The Commissioner's view is that intentional disregard requires actual knowledge that a statement is false. Evidence of intention may be direct or inferred from all the surrounding circumstances, including the taxpayer's conduct — see MT 2008/1. Penalties were correctly imposed for intentional disregard where a director of a company (who was also a tax agent) lodged 14 BASs falsely claiming GST credits (Case 10/2005 2005 ATC 197; [2005] AATA 696). Penalties were also correctly imposed where a taxpayer intentionally failed to return income that he had received, and took steps to disguise such receipts as loans or advances (Case 11/2009 2009 ATC ¶1-015; [2009] AATA 726). Similarly, the imposition of a penalty where a tax agent had lodged returns with falsified information, regardless of whether the taxpayer was aware of the falsity, was upheld in Weyers & Anor 2006 ATC 4523; [2006] FCA 818, Case 5/2006 2006 ATC 137; [2006] AATA 424.
 
 Recklessness To the extent that a shortfall amount arises from recklessness of the taxpayer or its agent with regard to the correct operation of a taxation law (other than excise laws), the taxpayer is liable to a penalty of 50% of the amount of that shortfall (s 284-90(1), item 2). Where there is no shortfall amount, an administrative penalty of 40 penalty units applies (s 284-90(1), item 3B).
 
-The Commissioner considers that recklessness involves conduct displaying a high degree of carelessness, going beyond mere carelessness or inadvertence. It includes conduct that shows disregard of, or indiﬀerence to, risks that are foreseeable by a reasonable person (MT 2008/1; Hart 2003 ATC 4665; [2003] FCAFC 105, BRK (Bris) 2001 ATC 4111; [2001] FCA 164).
+The Commissioner considers that recklessness involves conduct displaying a high degree of carelessness, going beyond mere carelessness or inadvertence. It includes conduct that shows disregard of, or indifference to, risks that are foreseeable by a reasonable person (MT 2008/1; Hart 2003 ATC 4665; [2003] FCAFC 105, BRK (Bris) 2001 ATC 4111; [2001] FCA 164).
 
 Lack of reasonable care To the extent that a shortfall amount arises from the failure of the taxpayer or its agent to take reasonable care to comply with a taxation law (other than excise laws), the taxpayer is liable to a penalty of 25% of the amount of that shortfall (s 284-90(1), item 3). Where there is no shortfall amount, an administrative penalty of 20 penalty units applies (s 284-90(1), item 3C). No penalty arises if the taxpayer or agent has taken reasonable care (s 284-75(5)). The safe harbour exemption for taxpayers in respect of conduct of tax agents or BAS agents under s 284-75(6) (¶29-140) applies.
 
-The reasonable care test requires a taxpayer to take the same care in fulﬁlling their tax obligations as could be expected of a reasonable ordinary person in their shoes. The following guidance is based on MT 2008/1:
+The reasonable care test requires a taxpayer to take the same care in fulfilling their tax obligations as could be expected of a reasonable ordinary person in their shoes. The following guidance is based on MT 2008/1:
 
 - The standard of care required of a taxpayer takes account of the taxpayer's personal
 
@@ -133,11 +133,11 @@ The reasonable care test requires a taxpayer to take the same care in fulﬁllin
 
   keeping system and other procedures to ensure that the income and expenditure of the business
 
-  are properly recorded and classiﬁed for tax purposes. What is reasonable will depend on factors
+  are properly recorded and classified for tax purposes. What is reasonable will depend on factors
 
   such as the nature and size of the business, regular internal audits, sample checking, adequate
 
-  staﬀ training, and preparation of instruction manuals.
+  staff training, and preparation of instruction manuals.
 
 - If a taxpayer is uncertain about the correct tax treatment of an item, the taxpayer should make
 
@@ -149,13 +149,13 @@ The reasonable care test requires a taxpayer to take the same care in fulﬁllin
 
   and whether the relevant law involves new measures are relevant. Failure to understand fully the
 
-  eﬀects of the law does not necessarily amount to failure to take reasonable care (Taneja).
+  effects of the law does not necessarily amount to failure to take reasonable care (Taneja).
 
 - Engaging a tax agent does not of itself excuse the taxpayer from the obligation to take reasonable
 
   care (Sparks [2000] AATA 28; (2000) 43 ATR 1324, Necovski 2009 ATC ¶10-084; [2009] AATA
 
-195, Sinclair 2010 ATC ¶10-163; [2010] AATA 902, Aurora Developments (No 2) 2011 ATC ¶20-280; [2011] FCA 1090). However, engaging a tax agent in some circumstances would suﬃce (see, eg Taneja 2009 ATC ¶10-112; [2009] AATA 773), and the safe harbour exemption (s 284-75(6); ¶29-140) noted above may apply. Where advice has been obtained from a number of sources, a taxpayer still has an obligation to exercise professional judgment and common sense when interpreting that advice (Outbound Logistics 2012 ATC ¶10-289; [2012] AATA 899).
+195, Sinclair 2010 ATC ¶10-163; [2010] AATA 902, Aurora Developments (No 2) 2011 ATC ¶20-280; [2011] FCA 1090). However, engaging a tax agent in some circumstances would suffice (see, eg Taneja 2009 ATC ¶10-112; [2009] AATA 773), and the safe harbour exemption (s 284-75(6); ¶29-140) noted above may apply. Where advice has been obtained from a number of sources, a taxpayer still has an obligation to exercise professional judgment and common sense when interpreting that advice (Outbound Logistics 2012 ATC ¶10-289; [2012] AATA 899).
 
 - Failure to obtain a private ruling does not invariably amount to failure to take reasonable care
 
@@ -173,7 +173,7 @@ The Commissioner's views outlined in MT 2008/2 in respect of a reasonably arguab
 
 - The test does not require the taxpayer's position to be the "better view"; the standard is "about
 
-  as likely as not". However, the taxpayer's position must be defensible and suﬃcient to support a
+  as likely as not". However, the taxpayer's position must be defensible and sufficient to support a
 
   reasonable expectation that the taxpayer could win in court.
 
@@ -213,15 +213,15 @@ Penalty relief as outlined in ¶29-140 may apply to inadvertent errors in tax re
 
 Where 2 or more penalties apply Where 2 or more penalties may apply, the taxpayer is liable to pay only the highest applicable penalty. For example, if a particular part of a shortfall is attributable to both recklessness and failure to take reasonable care, only the 50% penalty for recklessness applies (s 284-90(2)).
 
-Where there is a shortfall and various parts of it are attributable to diﬀerent categories of behaviour, penalties are determined by breaking the shortfall amount into its component parts. Factors such as overstatements and progressive tax rates are taken into account as illustrated in worked examples in TR 94/3.
+Where there is a shortfall and various parts of it are attributable to different categories of behaviour, penalties are determined by breaking the shortfall amount into its component parts. Factors such as overstatements and progressive tax rates are taken into account as illustrated in worked examples in TR 94/3.
 
 Partners and trustees All of the partners in a partnership can be held liable to penalties under Div 284 where one of the partners, or the partnership's agent, makes a statement about the partnership net income or loss, or the partnership participates in a scheme (s 284-35).
 
 Where the false or misleading nature of a statement is caused by intentional disregard, recklessness or lack of reasonable care, the normal penalties for such behaviour apply (s 284-90(1), item 6).
 
-For penalties other than those relating to partnership net income or loss, for example a PAYG withholding amount, TAA sch 1 s 444-30 makes each partner jointly and severally liable. Although a non-culpable partner may take action against the culpable partner, this does not aﬀect the non-culpable partner's liability to pay the penalty.
+For penalties other than those relating to partnership net income or loss, for example a PAYG withholding amount, TAA sch 1 s 444-30 makes each partner jointly and severally liable. Although a non-culpable partner may take action against the culpable partner, this does not affect the non-culpable partner's liability to pay the penalty.
 
-The trustee of a trust is liable to pay any penalty arising from statements made about the trust's net income or obligations, or any penalty arising from the trust's participation in a scheme. Where relevant, any shortfall amount or scheme shortfall amount of a beneﬁciary that relates to the trust's net income or obligations is treated as if it were the shortfall amount of the trustee (s 284-30). Where there are multiple trustees of a trust, the penalty applies to all trustees and they are jointly liable for the whole amount owed by the trust (Hutson 2009 ATC ¶10-099; [2009] AATA 574). The thresholds applicable to reasonably arguable positions are noted above.
+The trustee of a trust is liable to pay any penalty arising from statements made about the trust's net income or obligations, or any penalty arising from the trust's participation in a scheme. Where relevant, any shortfall amount or scheme shortfall amount of a beneficiary that relates to the trust's net income or obligations is treated as if it were the shortfall amount of the trustee (s 284-30). Where there are multiple trustees of a trust, the penalty applies to all trustees and they are jointly liable for the whole amount owed by the trust (Hutson 2009 ATC ¶10-099; [2009] AATA 574). The thresholds applicable to reasonably arguable positions are noted above.
 
 If SMSF corporate trustees are liable to a penalty under s 284-75(1) or (4), the directors (at the time the liability arises) are jointly and severally liable to the tax-related liability in respect of the penalty (s 284-95).
 

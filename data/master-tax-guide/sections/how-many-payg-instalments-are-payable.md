@@ -13,7 +13,7 @@ Certain quarterly taxpayers are eligible to pay only 2 quarterly instalments eac
 
 A taxpayer who is required to pay a quarterly instalment is required to continue to pay quarterly instalments unless the taxpayer becomes an annual or monthly PAYG instalment payer or the Commissioner withdraws the taxpayer's instalment rate.
 
-Annual instalments A taxpayer can choose to pay one annual PAYG instalment if, at the end of the ﬁrst instalment quarter in the income year that the taxpayer would otherwise be required to pay:
+Annual instalments A taxpayer can choose to pay one annual PAYG instalment if, at the end of the first instalment quarter in the income year that the taxpayer would otherwise be required to pay:
 
 - the taxpayer is not registered for GST and not required to be registered for GST (¶34-110) and is
 
@@ -25,7 +25,7 @@ Annual instalments A taxpayer can choose to pay one annual PAYG instalment if, a
 
   registered for GST or be voluntarily registered for GST and have chosen to remit annually, and
 
-- the most recent notional tax amount notiﬁed by the Commissioner to the taxpayer is less than
+- the most recent notional tax amount notified by the Commissioner to the taxpayer is less than
 
   $8,000, and
 
@@ -35,7 +35,7 @@ Annual instalments A taxpayer can choose to pay one annual PAYG instalment if, a
 
 A head company of a consolidated group is not eligible to pay annual instalments.
 
-The decision to pay annual PAYG instalments must be communicated to the Commissioner, in the approved form, on or before the due date for payment of the instalment for the ﬁrst instalment quarter which the taxpayer would otherwise be liable to pay. This will usually be the ﬁrst instalment quarter of the income year but may be a later quarter if the taxpayer had not previously been advised of an instalment rate by the Commissioner. Such a choice may be made via the ATO website.
+The decision to pay annual PAYG instalments must be communicated to the Commissioner, in the approved form, on or before the due date for payment of the instalment for the first instalment quarter which the taxpayer would otherwise be liable to pay. This will usually be the first instalment quarter of the income year but may be a later quarter if the taxpayer had not previously been advised of an instalment rate by the Commissioner. Such a choice may be made via the ATO website.
 
 *Refs: s 45-50), s 45-140)*
 
@@ -47,17 +47,17 @@ The decision to pay annual PAYG instalments must be communicated to the Commissi
 
 *Refs: s 45-145)*
 
-- the ﬁrst company is in a position to cast, or control the casting of, more than 50% of the maximum
+- the first company is in a position to cast, or control the casting of, more than 50% of the maximum
 
   number of votes that might be cast at a general meeting of the other company
 
-- the ﬁrst company has the power to appoint or remove the majority of the directors of the other
+- the first company has the power to appoint or remove the majority of the directors of the other
 
   company, or
 
 - the other company is, or a majority of its directors are, accustomed or under an obligation,
 
-  whether formal or informal, to act according to the directions, instructions or wishes of the ﬁrst
+  whether formal or informal, to act according to the directions, instructions or wishes of the first
 
   company.
 
@@ -77,11 +77,11 @@ Monthly instalments Large entities are liable to pay monthly PAYG instalments if
 
 Determining the threshold The threshold amount is the amount of "base assessment instalment income" that the entity has for a particular income year as provided by the Commissioner. Broadly, this is so much of the entity's assessable income for a year (the base year) as the Commissioner determines is instalment income (s 45-320(2): ¶27-260).
 
-Those entities that have ﬁnancial arrangements to which ITAA97 Div 230 applies ("TOFA entities") are required to use an "adjusted" base assessment instalment income calculation if the base assessment instalment income provided by the Commissioner does not exceed the threshold amount. This is because the base assessment instalment income calculated by the Commissioner uses net calculations for TOFA arrangements rather than gross ﬁgures; the adjusted base assessment instalment income includes the gross income of the entity's ﬁnancial arrangements. This adjusted amount will need to be determined by the entity and notiﬁed to the Commissioner. "MPR test day" The threshold amount is tested at a particular point in time, namely, the start of the entity's monthly payer requirement test day (the "MPR test day").
+Those entities that have financial arrangements to which ITAA97 Div 230 applies ("TOFA entities") are required to use an "adjusted" base assessment instalment income calculation if the base assessment instalment income provided by the Commissioner does not exceed the threshold amount. This is because the base assessment instalment income calculated by the Commissioner uses net calculations for TOFA arrangements rather than gross figures; the adjusted base assessment instalment income includes the gross income of the entity's financial arrangements. This adjusted amount will need to be determined by the entity and notified to the Commissioner. "MPR test day" The threshold amount is tested at a particular point in time, namely, the start of the entity's monthly payer requirement test day (the "MPR test day").
 
-If an entity is already paying PAYG instalments, the MPR test day is the ﬁrst day at the start of the third last month of the previous income year (s 45-138(4)(b)). This means that, for an income year ending 30 June, the MPR test day for the 2024–25 income year was 1 April 2024. An entity currently paying PAYG instalments that satisﬁes the monthly payer requirement on a MPR test day becomes a monthly payer from the commencement of its next income year (the last day of the starting instalment month).
+If an entity is already paying PAYG instalments, the MPR test day is the first day at the start of the third last month of the previous income year (s 45-138(4)(b)). This means that, for an income year ending 30 June, the MPR test day for the 2024–25 income year was 1 April 2024. An entity currently paying PAYG instalments that satisfies the monthly payer requirement on a MPR test day becomes a monthly payer from the commencement of its next income year (the last day of the starting instalment month).
 
-For entities ﬁrst entering the PAYG instalment system, the MPR test day is the last day of the month in which the Commissioner has given them the instalment rate. Such entities that satisfy the monthly payer requirement at the relevant time will become monthly payers from the last day of the month (the starting instalment month) after the month in which the Commissioner gives the entity their ﬁrst instalment rate. This is the ﬁrst month commencing immediately after the MPR test day.
+For entities first entering the PAYG instalment system, the MPR test day is the last day of the month in which the Commissioner has given them the instalment rate. Such entities that satisfy the monthly payer requirement at the relevant time will become monthly payers from the last day of the month (the starting instalment month) after the month in which the Commissioner gives the entity their first instalment rate. This is the first month commencing immediately after the MPR test day.
 
 An entity continues to be liable for monthly PAYG instalments until it no longer meets the monthly payer requirement and gives notice to the Commissioner that it will no longer pay monthly instalments. Where such notice has been given, the entity remains a monthly payer until the next income year.
 

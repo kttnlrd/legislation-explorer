@@ -7,11 +7,11 @@ paragraph: "¶3-830"
 ---
 # Taxable income from non-member receipts ¶3-830
 
-Where either the mutuality principle or s 59-35 (¶3-810) applies to receipts from members, it is generally very diﬃcult to isolate from a club's total receipts those that are attributable to non-members. In practice, the Commissioner adopts a formula as a rule of thumb to determine the percentage of total receipts attributable to non-members. Clubs do not have to use the formula; the ATO will accept alternative methods that produce a reasonable and accurate measurement of a club's income. If they use the formula, individual clubs should ensure that the variables used in the formula are applicable to their own circumstances. The formula (called the "Waratahs' formula" 79 ATC 4337) is: percentage of receipts                                                           (B × 75%) + C              100 =                                  × attributable to non-members                                                         (R × S × T) + A              1 where: A = total visitors for the year of income B = members' guests, ie visitors who are accompanied to the club by a member and signed in by that member. The formula assumes that 25% of members' guests do not contribute to the club's assessable income, ie they are non-paying guests or non-working spouses of members C=A−B R = average number of subscribed members for the year of income S = the percentage of members that attend the club on a daily basis T = the number of trading days for the year of income.
+Where either the mutuality principle or s 59-35 (¶3-810) applies to receipts from members, it is generally very difficult to isolate from a club's total receipts those that are attributable to non-members. In practice, the Commissioner adopts a formula as a rule of thumb to determine the percentage of total receipts attributable to non-members. Clubs do not have to use the formula; the ATO will accept alternative methods that produce a reasonable and accurate measurement of a club's income. If they use the formula, individual clubs should ensure that the variables used in the formula are applicable to their own circumstances. The formula (called the "Waratahs' formula" 79 ATC 4337) is: percentage of receipts                                                           (B × 75%) + C              100 =                                  × attributable to non-members                                                         (R × S × T) + A              1 where: A = total visitors for the year of income B = members' guests, ie visitors who are accompanied to the club by a member and signed in by that member. The formula assumes that 25% of members' guests do not contribute to the club's assessable income, ie they are non-paying guests or non-working spouses of members C=A−B R = average number of subscribed members for the year of income S = the percentage of members that attend the club on a daily basis T = the number of trading days for the year of income.
 
-Factor A (total visitors) can be determined by summation of the visitors' and temporary/honorary members' books. Where a club does not have permanent door staﬀ it should conduct surveys. Surveys should be conducted during periods that are likely to be representative of average trading (eg during autumn and spring months, but not during school holidays). Two one-week survey periods will be acceptable provided the surveys are performed diligently. The survey results can then be annualised to estimate total visitor attendances for the year of income. The percentage of members attending the club on a daily basis can also be determined by summation of members' daily attendance or, where there is no permanent door staﬀ, by survey (ATO: Mutuality and taxable income for not-for-proﬁts).
+Factor A (total visitors) can be determined by summation of the visitors' and temporary/honorary members' books. Where a club does not have permanent door staff it should conduct surveys. Surveys should be conducted during periods that are likely to be representative of average trading (eg during autumn and spring months, but not during school holidays). Two one-week survey periods will be acceptable provided the surveys are performed diligently. The survey results can then be annualised to estimate total visitor attendances for the year of income. The percentage of members attending the club on a daily basis can also be determined by summation of members' daily attendance or, where there is no permanent door staff, by survey (ATO: Mutuality and taxable income for not-for-profits).
 
-Example The X Servicemen's Club was open for 363 days (excluding Christmas Day and Good Friday) during the income year. Its ﬁnancial membership for the year was 500. Approximately 15% of the members attended the club each day. The visitors' book covering the year disclosed a total attendance of 8,000 of which 4,000 were members' guests. The percentage of total receipts (from members and non-members) attributable to non-members is: (75% of members' guests) + (total visitors − members' guests)                                                                          100 × (15%* of membership × number of days) + total visitors                                                                               1 (75% × 4,000) + (8,000 − 4,000)                                      100 =                                                                    × (15% × 500 × 363) + 8,000                                           1 7,000                            100 =                                    × 27,225 + 8,000                        1 = 19.9% (the "non-member percentage") * Percentage varies according to the individual circumstances of the club.
+Example The X Servicemen's Club was open for 363 days (excluding Christmas Day and Good Friday) during the income year. Its financial membership for the year was 500. Approximately 15% of the members attended the club each day. The visitors' book covering the year disclosed a total attendance of 8,000 of which 4,000 were members' guests. The percentage of total receipts (from members and non-members) attributable to non-members is: (75% of members' guests) + (total visitors − members' guests)                                                                          100 × (15%* of membership × number of days) + total visitors                                                                               1 (75% × 4,000) + (8,000 − 4,000)                                      100 =                                                                    × (15% × 500 × 363) + 8,000                                           1 7,000                            100 =                                    × 27,225 + 8,000                        1 = 19.9% (the "non-member percentage") * Percentage varies according to the individual circumstances of the club.
 
 Where either the mutuality principle or s 59-35 (¶3-810) applies to receipts from members, the assessable income of a licensed club comprises:
 
@@ -23,13 +23,13 @@ Where either the mutuality principle or s 59-35 (¶3-810) applies to receipts fr
 
 *Refs: s 59-35*
 
-- expenses relating speciﬁcally to non-members (eg non-members only promotions, visitor sign-in
+- expenses relating specifically to non-members (eg non-members only promotions, visitor sign-in
 
   books)
 
 - expenses relating to wholly assessable income (eg investment expenses)
 
-- non-apportionable deductions (eg contributions to staﬀ superannuation, donations and costs of
+- non-apportionable deductions (eg contributions to staff superannuation, donations and costs of
 
   preparing tax returns), and
 
@@ -39,9 +39,9 @@ Where either the mutuality principle or s 59-35 (¶3-810) applies to receipts fr
 
   a capital nature).
 
-Expenses relating speciﬁcally to members (eg members' badges, members' functions) are, of course, not allowable (TD 93/194).
+Expenses relating specifically to members (eg members' badges, members' functions) are, of course, not allowable (TD 93/194).
 
-Payments of annual rates and land taxes are speciﬁcally deductible to the extent that the premises are used in either or both of the following ways (ITAA97 s 25-75):
+Payments of annual rates and land taxes are specifically deductible to the extent that the premises are used in either or both of the following ways (ITAA97 s 25-75):
 
 - to produce mutual receipts, amounts to which s 59-35 (¶3-810) applies, or assessable income, or
 

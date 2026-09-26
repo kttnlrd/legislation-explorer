@@ -13,7 +13,7 @@ A lump sum payment to a taxpayer in lieu of unused annual leave (¶14-720) or un
 
 –accrual before 16.8.78                                                                                        5%                    Marginal –accrual 16.8.78 to 17.8.93                                                                                   100%                    30% –accrual on or after 18.8.93                                                                                  100%                   Marginal
 
-invalidity amount: –accrual before 16.8.78                                                                                        5%                    Marginal –accrual on or after 16.8.78                                                                                  100%                    30% The assessable portions are aggregated with other assessable income of the taxpayer, and the maximum rates are eﬀected by way of a tax oﬀset if the tax (as calculated in the usual manner) attributable to those portions exceeds the relevant maximum rates. Medicare levy is added to whichever rate is applicable.
+invalidity amount: –accrual before 16.8.78                                                                                        5%                    Marginal –accrual on or after 16.8.78                                                                                  100%                    30% The assessable portions are aggregated with other assessable income of the taxpayer, and the maximum rates are effected by way of a tax offset if the tax (as calculated in the usual manner) attributable to those portions exceeds the relevant maximum rates. Medicare levy is added to whichever rate is applicable.
 
 ## General termination of employment:
 

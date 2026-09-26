@@ -19,11 +19,11 @@ Expenditure incurred in establishing, developing, extending or rejuvenating a mi
 
   extraction is a revenue cost. The costs of diverting a highway to gain access to reserves under
 
-  and beyond the road were considered mining capital expenditure in Pine Creek Goldﬁelds 99
+  and beyond the road were considered mining capital expenditure in Pine Creek Goldfields 99
 
 ATC 4904; [1999] FCA 1267. The treatment of haulage roads in open pit mining depends on their location and the size of the pit (TR 95/36)
 
-- site preparation, buildings and improvements (such as workshops, storage facilities and oﬃces),
+- site preparation, buildings and improvements (such as workshops, storage facilities and offices),
 
   including expenditure on providing, or contributing to the cost of providing, services (on-site water,
 
@@ -67,7 +67,7 @@ Exclusions from mining capital expenditure
 
   used for transport wholly within the mining or quarrying site, such as on pipelines that form part of
 
-  the mining or petroleum operations (eg ﬂow lines from the wellhead to the separator)
+  the mining or petroleum operations (eg flow lines from the wellhead to the separator)
 
 - buildings, works, or other improvements constructed or acquired for use in the establishment, use
 
@@ -75,11 +75,11 @@ Exclusions from mining capital expenditure
 
   dredging)
 
-- an oﬃce building not located at, or adjacent to, the site of the mining or quarrying operations
+- an office building not located at, or adjacent to, the site of the mining or quarrying operations
 
 - housing and welfare facilities relating to quarrying operations (on the basis that quarries are
 
-  usually located near existing urban areas). For the diﬀerence between mining and quarrying
+  usually located near existing urban areas). For the difference between mining and quarrying
 
   operations, see ¶19-050.
 

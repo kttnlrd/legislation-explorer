@@ -7,13 +7,13 @@ paragraph: "¶31-620"
 ---
 # Tax planning for CGT ¶31-620
 
-- ascertaining which, if any, CGT event has occurred (as this aﬀects the calculation and timing of
+- ascertaining which, if any, CGT event has occurred (as this affects the calculation and timing of
 
   any assessable gain)
 
 - the potential for maintaining the status of pre-CGT assets
 
-- the possible loss of an asset's pre-CGT status where the underlying beneﬁcial interests change
+- the possible loss of an asset's pre-CGT status where the underlying beneficial interests change
 
 - the diminution of the value of pre-CGT assets
 
@@ -43,7 +43,7 @@ paragraph: "¶31-620"
 
   restructures (¶12-370) or the rollover for small business restructures (¶12-380).
 
-Care should be taken to ensure that an asset-rich individual preparing a will is aware of the likely CGT consequences of creating interests such as life estates where ﬁnal distribution of the assets is eﬀectively postponed (¶11-000).
+Care should be taken to ensure that an asset-rich individual preparing a will is aware of the likely CGT consequences of creating interests such as life estates where final distribution of the assets is effectively postponed (¶11-000).
 
 For other CGT planning aspects, see ¶31-125 and ¶31-130.
 

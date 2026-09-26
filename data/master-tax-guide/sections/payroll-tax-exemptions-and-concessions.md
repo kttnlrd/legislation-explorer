@@ -7,17 +7,17 @@ paragraph: "¶36-060"
 ---
 # Payroll tax exemptions and concessions ¶36-060
 
-Not all wages are subject to payroll tax. The legislation in each state prescribes speciﬁc wages that are not subject to the tax and these generally include wages paid or payable by:
+Not all wages are subject to payroll tax. The legislation in each state prescribes specific wages that are not subject to the tax and these generally include wages paid or payable by:
 
 - religious institutions
 
 - public benevolent institutions
 
-- non-proﬁt organisations having charitable, benevolent, philanthropic or patriotic purpose as their
+- non-profit organisations having charitable, benevolent, philanthropic or patriotic purpose as their
 
   sole or dominant purpose
 
-- public or non-proﬁt hospitals
+- public or non-profit hospitals
 
 - schools or colleges providing education at or below the secondary level of education
 
@@ -25,7 +25,7 @@ Not all wages are subject to payroll tax. The legislation in each state prescrib
 
 - charitable organisations.
 
-Clariﬁcation should be sought in each state as the exemption provisions are not necessarily the same in each state. The legislation may also provide for certain elements of wages to be exempt from payroll tax. Further, each state may have payroll tax concessions and other relief measures to apply to particular employers. Recently announced measures include the following:
+Clarification should be sought in each state as the exemption provisions are not necessarily the same in each state. The legislation may also provide for certain elements of wages to be exempt from payroll tax. Further, each state may have payroll tax concessions and other relief measures to apply to particular employers. Recently announced measures include the following:
 
 - In NSW, an employer is entitled to a payroll tax rebate for wages paid or payable on or after 4
 
@@ -37,13 +37,13 @@ September 2024 to a general practitioner (GP) at a medical centre if the majorit
 
   payroll tax purposes.
 
-- In Victoria, from 1 July 2024 the exemption for wages paid or payable by not-for-proﬁt non-
+- In Victoria, from 1 July 2024 the exemption for wages paid or payable by not-for-profit non-
 
   government schools will only apply to wages paid or payable by schools declared by the Minister
 
   of Education. Undeclared schools are also not eligible for exemption as religious institutions, non-
 
-  proﬁt organisations or for educational services, in relation to services provided to undeclared
+  profit organisations or for educational services, in relation to services provided to undeclared
 
   schools.
 
@@ -59,7 +59,7 @@ June 2024. A further 12-month payroll tax exemption for payments to contractor G
 
   pay payroll tax on payments to contracted GPs up to 30 June 2025 and for the previous 5 years
 
-(ie 2018 to 2025). From 1 December 2024, an administrative arrangement allows wages paid or payable by a medical practice to a GP to be exempt from payroll tax and the mental health levy (Public Ruling PTAQ014.1.1). For this purpose, a medical practice means a business, other than a hospital, at which services of the type ordinarily provided by a medical practitioner who is registered in the specialty of general practice are provided. Revenue Legislation Amendment Bill 2024 (Qld) has been introduced to give legislative eﬀect to the administrative arrangement.
+(ie 2018 to 2025). From 1 December 2024, an administrative arrangement allows wages paid or payable by a medical practice to a GP to be exempt from payroll tax and the mental health levy (Public Ruling PTAQ014.1.1). For this purpose, a medical practice means a business, other than a hospital, at which services of the type ordinarily provided by a medical practitioner who is registered in the specialty of general practice are provided. Revenue Legislation Amendment Bill 2024 (Qld) has been introduced to give legislative effect to the administrative arrangement.
 
 - In South Australia, the Treasurer has approved a temporary payroll tax amnesty in relation to
 
@@ -75,7 +75,7 @@ June 2024. A further 12-month payroll tax exemption for payments to contractor G
 
 - In the ACT, the territory government announced the waiver of payroll tax liabilities until 30 June
 
-2023 for medical practices that have not previously paid payroll tax on GP payments. Further, a 2- year payroll exemption on GP payments until 30 June 2025 is provided for health care businesses making payments to GPs that are bulk billing 65% of all patients, have registered for MyMedicare and register with the ACT Revenue Oﬃce by 29 February 2024.
+2023 for medical practices that have not previously paid payroll tax on GP payments. Further, a 2- year payroll exemption on GP payments until 30 June 2025 is provided for health care businesses making payments to GPs that are bulk billing 65% of all patients, have registered for MyMedicare and register with the ACT Revenue Office by 29 February 2024.
 
 - The Northern Territory government announced that payroll tax will be waived for liabilities incurred
 
@@ -97,4 +97,4 @@ June 2024. A further 12-month payroll tax exemption for payments to contractor G
 
 Bill 2024 (NT)).
 
-A table showing the assessable and exempt status of common types of payments and beneﬁts is set out in ¶36-140.
+A table showing the assessable and exempt status of common types of payments and benefits is set out in ¶36-140.

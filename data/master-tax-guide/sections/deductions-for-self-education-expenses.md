@@ -7,9 +7,9 @@ paragraph: "¶16-450"
 ---
 # Deductions for self-education expenses ¶16-450
 
-In general terms, self-education expenses are deductible under ITAA97 s 8-1 where the expenses have the necessary connection with the production of the taxpayer's assessable income. According to TR 2024/3 (which replaced TR 98/9 with eﬀect from 27 September 2023), self-education expenses are considered to be incurred in gaining or producing assessable income where: (1) the taxpayer's income-earning activities are based on the exercise of a skill or some speciﬁc knowledge and the self-education enables the taxpayer to maintain or improve that skill or knowledge (Principle 1), or (2) the self-education objectively leads to, or is likely to lead to, an increase in the taxpayer's income from their current income-earning activities in the future (Principle 2).
+In general terms, self-education expenses are deductible under ITAA97 s 8-1 where the expenses have the necessary connection with the production of the taxpayer's assessable income. According to TR 2024/3 (which replaced TR 98/9 with effect from 27 September 2023), self-education expenses are considered to be incurred in gaining or producing assessable income where: (1) the taxpayer's income-earning activities are based on the exercise of a skill or some specific knowledge and the self-education enables the taxpayer to maintain or improve that skill or knowledge (Principle 1), or (2) the self-education objectively leads to, or is likely to lead to, an increase in the taxpayer's income from their current income-earning activities in the future (Principle 2).
 
-However, self-education expenses are not incurred in gaining or producing assessable income if either of the following applies: (1) the self-education will enable the taxpayer to get employment, obtain new employment or open up a new income-earning activity (whether in business or in their current employment). This includes studies relating to a particular profession, occupation or ﬁeld of employment in which the taxpayer is not yet engaged. These expenses are incurred at a point too soon to be regarded as incurred in gaining or producing assessable income (Exclusion 1), or (2) the taxpayer is not undertaking income-earning activities to derive assessable income at the time they incurred the expenses. These expenses are not connected to any income-earning activity at the time they are incurred (Exclusion 2).
+However, self-education expenses are not incurred in gaining or producing assessable income if either of the following applies: (1) the self-education will enable the taxpayer to get employment, obtain new employment or open up a new income-earning activity (whether in business or in their current employment). This includes studies relating to a particular profession, occupation or field of employment in which the taxpayer is not yet engaged. These expenses are incurred at a point too soon to be regarded as incurred in gaining or producing assessable income (Exclusion 1), or (2) the taxpayer is not undertaking income-earning activities to derive assessable income at the time they incurred the expenses. These expenses are not connected to any income-earning activity at the time they are incurred (Exclusion 2).
 
 Several examples of the application of these principles and exclusions are provided in TR 2024/3.
 
@@ -39,7 +39,7 @@ The Commissioner takes the view in TR 2024/3 that, where the requirements for de
 
   institution and then on to his/her place of work and returns home by the same route, only the costs
 
-  of the ﬁrst leg of each journey are deductible
+  of the first leg of each journey are deductible
 
 - interest on moneys borrowed to pay for deductible self-education expenses (eg course fees or
 
@@ -51,7 +51,7 @@ The Commissioner takes the view in TR 2024/3 that, where the requirements for de
 
   expense and the earning of assessable income.
 
-Depreciation may be claimed on professional libraries and other items used in connection with self-education (such as computers, ﬁling cabinets and desks) (¶17-010). Interest on moneys borrowed to purchase such items is deductible under the general deduction provision (TR 2024/3).
+Depreciation may be claimed on professional libraries and other items used in connection with self-education (such as computers, filing cabinets and desks) (¶17-010). Interest on moneys borrowed to purchase such items is deductible under the general deduction provision (TR 2024/3).
 
 According to the Commissioner, the intention or purpose of a taxpayer in incurring the self-education expenses can be an element in determining deductibility. This could be relevant where, for example, a study tour had both a private purpose and a purpose of gaining or producing assessable income. See ¶16-290 for a discussion of an equivalent situation in the context of travel expenses.
 
@@ -59,14 +59,14 @@ The Commissioner is reviewing the deductibility of expenses incurred under arran
 
 Deductibility does not extend to the cost of meals purchased by a taxpayer while attending a course at an educational institution unless the taxpayer is required to sleep away from home (eg no deduction would be allowable for meals purchased by a taxpayer living in Sydney and attending an institution within the metropolitan area). No deduction is allowable for expenditure on accommodation and meals where a taxpayer has travelled to another location for self-education purposes but is considered to have established a new home there (eg to do a 2-year course) (TR 2024/3; Case 5/2009 2009 ATC ¶1-009; [2009] AATA 478). The costs of attending a graduation ceremony (including the cost of hiring an academic gown) are not deductible (Berrett 99 ATC 2127; [1999] AATA 172).
 
-Student contributions and debt repayments under the tertiary student ﬁnancial supplement scheme (¶2-380, ¶2-385) are not deductible by the student or any other person who makes the payments on behalf of the student, unless incurred in providing a fringe beneﬁt (ITAA97 s 26-20; TR 2024/3; ID 2002/463). Debt repayments related to trade support loans, student start up loans, or ABSTUDY student start-up loans, are also denied deductibility. Interest paid on moneys borrowed for the purpose of making such payments may be deductible under the general deduction provisions where the education costs would themselves be deductible. Course fees relating to current income-earning activities are deductible even if the taxpayer has obtained a loan for the course fees under the HELP programme (see TR 2024/3). Also see ¶2-380 for details of the current student assistance scheme.
+Student contributions and debt repayments under the tertiary student financial supplement scheme (¶2-380, ¶2-385) are not deductible by the student or any other person who makes the payments on behalf of the student, unless incurred in providing a fringe benefit (ITAA97 s 26-20; TR 2024/3; ID 2002/463). Debt repayments related to trade support loans, student start up loans, or ABSTUDY student start-up loans, are also denied deductibility. Interest paid on moneys borrowed for the purpose of making such payments may be deductible under the general deduction provisions where the education costs would themselves be deductible. Course fees relating to current income-earning activities are deductible even if the taxpayer has obtained a loan for the course fees under the HELP programme (see TR 2024/3). Also see ¶2-380 for details of the current student assistance scheme.
 
 Payments made to reduce a liability to the overseas debtors repayment levy are not deductible (ITAA97 s 26-20). This levy allows HELP and trade support loan debts to be recovered from debtors residing overseas.
 
 *Refs: ITAA97 s 8-1, ITAA97 s 26-20, ITAA97 s
 26-20)*
 
-payments No deduction is available for expenses (and depreciation of assets) incurred in gaining or producing rebatable government assistance payments (eg Austudy, ABSTUDY and Youth allowance), thus overcoming the eﬀect of the decision in Anstis 2010 ATC ¶20-221; [2010] HCA 40 in which self-education expenses were allowed against Youth allowance income (ITAA97 s 26-19).
+payments No deduction is available for expenses (and depreciation of assets) incurred in gaining or producing rebatable government assistance payments (eg Austudy, ABSTUDY and Youth allowance), thus overcoming the effect of the decision in Anstis 2010 ATC ¶20-221; [2010] HCA 40 in which self-education expenses were allowed against Youth allowance income (ITAA97 s 26-19).
 
 *Refs: ITAA97 s 26-19)*
 

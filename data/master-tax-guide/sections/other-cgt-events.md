@@ -18,7 +18,7 @@ A capital gain will arise if the unit's market value just before it started to b
 
 debt
 
-(i) the taxpayer makes a net capital loss for an income year that cannot be oﬀset against capital gains because the taxpayer became bankrupt or was released from debts under a bankruptcy law (ii) the taxpayer later makes a payment in respect of a debt that was taken into account in working out that net capital loss, and (iii) the denied part of the net capital loss would otherwise have been able to be oﬀset against capital gains in the payment year (s 104-210).
+(i) the taxpayer makes a net capital loss for an income year that cannot be offset against capital gains because the taxpayer became bankrupt or was released from debts under a bankruptcy law (ii) the taxpayer later makes a payment in respect of a debt that was taken into account in working out that net capital loss, and (iii) the denied part of the net capital loss would otherwise have been able to be offset against capital gains in the payment year (s 104-210).
 
 The payment can include giving property. However, the payment does not include any non-assessable recoupment of the payment.
 
@@ -30,7 +30,7 @@ The time of CGT event K2 is when the payment is made.
 
 A capital gain cannot be made from CGT event K2.
 
-CGT event K3 — Asset passing to tax-advantaged entity CGT event K3 happens if a taxpayer dies and a CGT asset passes to a beneﬁciary that is an exempt entity, is the trustee of a complying superannuation fund, a complying ADF or a PST or is not an Australian resident (s 104-215). However, if the asset passes to a beneﬁciary that is not a resident, CGT event K3 happens only if the taxpayer was a resident and the asset (in the hands of the beneﬁciary) is not taxable Australian property (¶12-725).
+CGT event K3 — Asset passing to tax-advantaged entity CGT event K3 happens if a taxpayer dies and a CGT asset passes to a beneficiary that is an exempt entity, is the trustee of a complying superannuation fund, a complying ADF or a PST or is not an Australian resident (s 104-215). However, if the asset passes to a beneficiary that is not a resident, CGT event K3 happens only if the taxpayer was a resident and the asset (in the hands of the beneficiary) is not taxable Australian property (¶12-725).
 
 The time of CGT event K3 is just before the taxpayer dies. If an asset is acquired by a tax-advantaged entity as a result of CGT event K3, it is acquired at the time of that CGT event.
 
@@ -64,7 +64,7 @@ CGT event K6 — Pre-CGT shares or trust interest CGT event K6 is designed to st
 
 (ii) one of CGT events A1, C2, E1, E2, E3, E5, E6, E7, E8, J1 and K3 must happen in relation to the shares or trust interest, and (iii) there must not be a roll-over for the other (non-K6) CGT event (s 104-230).
 
-However, CGT event K6 only happens if just before the other (non-K6) CGT event happened, the market value of post-CGT property (other than trading stock) of the company or trust or the market value of interests the company or trust owned through interposed companies or trusts in post-CGT property (other than trading stock) is at least 75% of the net value of the company or trust. The 2 amounts cannot be added together to determine if the 75% test is satisﬁed.
+However, CGT event K6 only happens if just before the other (non-K6) CGT event happened, the market value of post-CGT property (other than trading stock) of the company or trust or the market value of interests the company or trust owned through interposed companies or trusts in post-CGT property (other than trading stock) is at least 75% of the net value of the company or trust. The 2 amounts cannot be added together to determine if the 75% test is satisfied.
 
 For details on the ATO's view on how to calculate the capital gain when CGT event K6 happens, see TR 2004/18 and its draft update in Draft TR 2004/18DC. It is expressed thereunder that only one capital gain can arise under CGT event K6.
 
@@ -86,7 +86,7 @@ Timing of CGT event K6 The time of CGT event K6 is when the other (non-K6) CGT e
 
 Capital gains A taxpayer makes a capital gain from CGT event K6 equal to that part of the capital proceeds from the shares or trust interest that is reasonably attributable to the amount by which the market value of the relevant post-CGT property is more than the sum of the cost bases of that property. Indexation can be applied in working out the cost base of property provided it was acquired at or before 11.45 am on 21 September 1999 (TR 2004/18). A capital loss cannot be made from CGT event K6.
 
-The capital proceeds may be aﬀected by the market value substitution rule (s 116-25; ¶11-510). The Commissioner has provided a formula and examples of calculating a capital gain from CGT event K6 in TR 2004/18 and its draft update (Draft TR 2004/18DC).
+The capital proceeds may be affected by the market value substitution rule (s 116-25; ¶11-510). The Commissioner has provided a formula and examples of calculating a capital gain from CGT event K6 in TR 2004/18 and its draft update (Draft TR 2004/18DC).
 
 The CGT discount and small business CGT relief can apply to capital gains made from CGT event K6 (TR 2004/18).
 
@@ -106,11 +106,11 @@ CGT event K7 also happens where a balancing adjustment event occurs for a deprec
 
 To ensure consistency of treatment between the capital allowance rules and the CGT rules, a capital gain or loss under CGT event K7 is calculated on the basis of the asset's cost and termination value, instead of on the usual CGT basis of cost base and capital proceeds. The gain or loss is also treated as arising at the same time as any balancing adjustment.
 
-If the use was 100% taxable, CGT event K7 does not apply, but there will be a balancing adjustment under the capital allowances system (¶17-670). If the use is 100% non-taxable, there will be a capital gain/loss under CGT event K7 based on the diﬀerence between the asset's termination value and its cost (s 104-240); in such a case, there will be no balancing adjustment. If there is a mixed use (eg partly taxable and partly non-taxable), there may be both a balancing adjustment and a capital gain/loss. That capital gain/loss will be based on the diﬀerence between the termination value and the cost, apportioned to reﬂect the taxable component of the decline in value (s 104-240). Special rules apply to depreciating assets that have been allocated to a low-value pool (s 104-245).
+If the use was 100% taxable, CGT event K7 does not apply, but there will be a balancing adjustment under the capital allowances system (¶17-670). If the use is 100% non-taxable, there will be a capital gain/loss under CGT event K7 based on the difference between the asset's termination value and its cost (s 104-240); in such a case, there will be no balancing adjustment. If there is a mixed use (eg partly taxable and partly non-taxable), there may be both a balancing adjustment and a capital gain/loss. That capital gain/loss will be based on the difference between the termination value and the cost, apportioned to reflect the taxable component of the decline in value (s 104-240). Special rules apply to depreciating assets that have been allocated to a low-value pool (s 104-245).
 
 If CGT event K7 happens to a depreciating asset (or a pooled asset), the termination value of the asset is reduced by any amount misappropriated by an employee or agent and increased by any amount received as a recoupment of an amount so misappropriated. An assessment can be amended within 4 years, starting immediately after a taxpayer discovers a misappropriation or receives an amount as recoupment.
 
-CGT event K7 is disregarded if the asset was acquired before 20 September 1985 or the taxpayer could deduct an amount under the simpliﬁed depreciation rules for small business in Div 328 for the income year in which the balancing adjustment occurred (s 104-235(4)). If the private use of the asset is such that it falls within the personal use asset rules, capital gains are exempt if the asset was acquired for $10,000 or less and capital losses are disregarded (¶11-400).
+CGT event K7 is disregarded if the asset was acquired before 20 September 1985 or the taxpayer could deduct an amount under the simplified depreciation rules for small business in Div 328 for the income year in which the balancing adjustment occurred (s 104-235(4)). If the private use of the asset is such that it falls within the personal use asset rules, capital gains are exempt if the asset was acquired for $10,000 or less and capital losses are disregarded (¶11-400).
 
 A capital gain made as a result of CGT event K7 can be a discount capital gain but is not eligible for the CGT small business concessions (¶7-120).
 
@@ -128,7 +128,7 @@ CGT event K9 — Carried interests CGT event K9 happens where an entitlement to 
 
 - a limited partner in a venture capital management partnership (s 104-255).
 
-In broad terms, a carried interest is the partner's entitlement to a distribution from the partnership to the extent that the distribution is contingent upon the attainment of proﬁts for the partners. The amount of any capital gain when CGT event K9 happens is the amount of the capital proceeds (¶11-500). The taxpayer cannot make a capital loss.
+In broad terms, a carried interest is the partner's entitlement to a distribution from the partnership to the extent that the distribution is contingent upon the attainment of profits for the partners. The amount of any capital gain when CGT event K9 happens is the amount of the capital proceeds (¶11-500). The taxpayer cannot make a capital loss.
 
 The time of CGT event K9 is when the entitlement to receive the payment arises. Anti-overlap provisions provide that the payment of a carried interest is not treated as income (¶11-700).
 
@@ -172,7 +172,7 @@ The time of the event is just before the end of the income year (s 104-270).
 
 ## CGT event K5 happens if:
 
-## More speciﬁcally, for CGT event K6 to happen:
+## More specifically, for CGT event K6 to happen:
 
 ## September 1985
 

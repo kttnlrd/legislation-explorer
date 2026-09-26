@@ -37,7 +37,7 @@ An employee is entitled, under the general deduction provision of ITAA97 s 8-1, 
 
   but see Jones 2014 ATC ¶10-381; [2014] AATA 821), and shearers for shearers' slings (Gaydon
 
-98 ATC 2328; [1998] AATA 875). The cost of maintaining a watch may be deductible to taxpayers such as nurses for a nurse's fob watch (TR 95/15), physical education teachers for a dedicated stopwatch (TR 95/14), and police oﬃcers in the diving squad for a scuba diving watch (TR 95/13).
+98 ATC 2328; [1998] AATA 875). The cost of maintaining a watch may be deductible to taxpayers such as nurses for a nurse's fob watch (TR 95/15), physical education teachers for a dedicated stopwatch (TR 95/14), and police officers in the diving squad for a scuba diving watch (TR 95/13).
 
 Personal paging units may be deductible to employees on call, such as nurses and doctors.
 
@@ -55,7 +55,7 @@ See also ¶16-180.
 
 - Technical and trade books, journals — These are allowable where reasonably necessary to
 
-  discharge the duties of employment eﬃciently and suﬃciently (eg in the case of an architect,
+  discharge the duties of employment efficiently and sufficiently (eg in the case of an architect,
 
   engineer, real estate agent, etc). As to the deductibility of trade, business and professional
 
@@ -71,7 +71,7 @@ See also ¶16-180.
 
   employment income may be deductible (s 26-22; ¶16-950).
 
-- Travel expenses, self-education expenses, home oﬃce expenses (¶16-220, ¶16-310, ¶16-450,
+- Travel expenses, self-education expenses, home office expenses (¶16-220, ¶16-310, ¶16-450,
 
   ¶16-480).
 

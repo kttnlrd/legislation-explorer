@@ -5,11 +5,11 @@ section: "exceptions-and-modifications-to-general-cgt-rules"
 title: "Exceptions and modifications to general CGT rules"
 paragraph: "¶11-050"
 ---
-# Exceptions and modiﬁcations to general CGT rules ¶11-050
+# Exceptions and modifications to general CGT rules ¶11-050
 
 In some circumstances, the general rules for calculating net capital gains and losses are varied (s 102-30).
 
-- Companies can only oﬀset a net capital loss against a capital gain if they pass either the
+- Companies can only offset a net capital loss against a capital gain if they pass either the
 
   continuity of ownership test or the same business test in relation to the capital loss year, the capital
 
@@ -23,19 +23,19 @@ In some circumstances, the general rules for calculating net capital gains and l
 
   disallow their net capital losses or current year capital losses if: (a) a capital gain or loss is injected
 
-  into the company; (b) a tax beneﬁt is obtained from available net capital losses or current year
+  into the company; (b) a tax benefit is obtained from available net capital losses or current year
 
-  capital losses; or (c) a tax beneﬁt is obtained because of available capital gains (¶11-120).
+  capital losses; or (c) a tax benefit is obtained because of available capital gains (¶11-120).
 
 - Net capital losses may be reduced if a taxpayer's commercial debts are forgiven (¶16-910).
 
-- Capital losses from collectables can only be oﬀset against capital gains from collectables
+- Capital losses from collectables can only be offset against capital gains from collectables
 
   (¶11-390).
 
 - Capital losses from personal use assets are disregarded (¶11-400).
 
-- Beneﬁciaries of a trust whose net income from the trust includes a net capital gain are treated as
+- Beneficiaries of a trust whose net income from the trust includes a net capital gain are treated as
 
   making additional capital gains (¶11-060).
 

@@ -19,7 +19,7 @@ slug: "06-administration-of-the-bankruptcy"
 [6.45] Giving notice of the bankruptcy ...................................................................... 226
 [6.50] RELATIONS WITH CREDITORS ..................................................................................... 226
 [6.50] Giving information etc to creditors and others ............................................. 226
-[6.55] Initial notiﬁcation and declaration required: IPRB, s 70-30 ........................ 226
+[6.55] Initial notification and declaration required: IPRB, s 70-30 ........................ 226
 [6.60] A report within three months ........................................................................... 227
 [6.65] Requests by creditors for information etc ...................................................... 227
     [6.70] Relevance and breach of duty ..................................................................................... 228
@@ -141,7 +141,7 @@ slug: "06-administration-of-the-bankruptcy"
 INTRODUCTION
 [6.05] This chapter deals with the major issues and matters which a trustee may
 need to consider in the course of administering the bankruptcy. These include
-ﬁnding out the reasons for the bankruptcy; locating and securing assets and funds;
+finding out the reasons for the bankruptcy; locating and securing assets and funds;
 communicating with creditors; dealing with and selling assets, including any
 business operations of the bankrupt; collecting income contributions from the
 bankrupt; and ultimately assessing and paying out creditors' claims. Every
@@ -149,7 +149,7 @@ bankruptcy will be different and in particular the extent of assets will vary an
 many of the matters raised in this section will not be relevant to all bankrupt
 estates.
 In administering a bankruptcy, a trustee must keep in mind two of the purposes of
-bankruptcy law which were identiﬁed earlier: ﬁrst, bankruptcy allows for an
+bankruptcy law which were identified earlier: first, bankruptcy allows for an
 investigation of the conduct of the bankrupt with a view to reporting to the
 creditors or the regulator; and secondly, it provides for a fair and equitable
 distribution of the estate of the bankrupt after the orderly collection and realisation
@@ -189,15 +189,15 @@ Relevant dates
 explained in Chapter 2, these dates will determine the period of relation back and
 timeframes for investigations and challenges to transactions and transfers of
 property. While there will often be a clear date of act of bankruptcy based upon
-non-compliance with a bankruptcy notice, the trustee may ﬁnd another earlier act
+non-compliance with a bankruptcy notice, the trustee may find another earlier act
 of bankruptcy, in the relevant six months time frame, based for example on an
-unsatisﬁed writ of execution.
+unsatisfied writ of execution.
 
 Examining the books and records of the bankrupt
-[6.15]   The trustee will need to obtain access to the bankrupt's ﬁnancial and other
-records – deﬁned as "books" in s 5 – as any "writing or document and any record
+[6.15]   The trustee will need to obtain access to the bankrupt's financial and other
+records – defined as "books" in s 5 – as any "writing or document and any record
 of information however compiled, recorded or stored, whether in writing, on
-microﬁlm, by electronic process or otherwise" – which will allow examination of
+microfilm, by electronic process or otherwise" – which will allow examination of
 the relevant dates and which will show the circumstances leading up to the
 bankruptcy. The trustee may then be able to assess what actions can be taken to
 recover property or take legal proceedings to challenge voidable transactions.
@@ -205,7 +205,7 @@ recover property or take legal proceedings to challenge voidable transactions.
 Section 77(1)(a)
 [6.20] The bankrupt must deliver to the trustee all of the books that are in his or
 her possession and that relate to any of the bankrupt's examinable affairs. Given
-the wide deﬁnition of "books", computer records must be included.
+the wide definition of "books", computer records must be included.
 In difficult cases, where the bankrupt fails to comply, the trustee can ultimately
 apply for a warrant of committal under s 78(1) and for an order that the bankrupt's
 books be seized. A warrant can also be sought under s 130 to search the bankrupt's
@@ -226,32 +226,32 @@ privilege against self-incrimination.2
 
 Books of associated entity
 [6.25] The trustee can also require the bankrupt to deliver up all the books of an
-associated entity: s 77(1)(a)(i). An "associated entity" is broadly deﬁned as an entity
+associated entity: s 77(1)(a)(i). An "associated entity" is broadly defined as an entity
 or a private company that is, or has been, associated with the bankrupt at any time:
-s 5(1). The word "entity" is deﬁned as a natural person, company, partnership or
+s 5(1). The word "entity" is defined as a natural person, company, partnership or
 trust: s 5(1). Sections 5B – 5F set out the situations in which these various entities
 can be regarded as associated with the bankrupt. Suffice to say that they attempt to
 address the developments in the use of corporations and trusts by individuals as
 asset planning mechanisms to place assets under the bankrupt's control beyond the
-reach of creditors. As a result of these deﬁnitions, trustees are permitted to
-investigate companies, trusts and other entities ﬁnancially associated with the
+reach of creditors. As a result of these definitions, trustees are permitted to
+investigate companies, trusts and other entities financially associated with the
 bankrupt.3
-Section 77 is qualiﬁed to the extent that the bankrupt may be excused by the trustee
+Section 77 is qualified to the extent that the bankrupt may be excused by the trustee
 from complying or may be prevented from complying "by illness or other sufficient
 cause".4
 
 Statement of affairs
 [6.30] If the bankruptcy occurred pursuant to a sequestration order, no statement
-of affairs will have been ﬁled. This is unlike voluntary bankruptcy, where the
-debtor must ﬁle a statement of affairs prior to the Official Receiver accepting their
+of affairs will have been filed. This is unlike voluntary bankruptcy, where the
+debtor must file a statement of affairs prior to the Official Receiver accepting their
 debtor's petition: ss 55(2), 56B(3) and 57(2).
-Where a sequestration order has been made, a bankrupt is required to ﬁle a
+Where a sequestration order has been made, a bankrupt is required to file a
 statement of affairs with the Official Receiver within 14 days from the day on which
-he or she is notiﬁed of the bankruptcy, and give the trustee a copy (if there is a
+he or she is notified of the bankruptcy, and give the trustee a copy (if there is a
 registered trustee appointed): s 54(1). Failure to do this is an offence of strict
-liability. A court order that the statement of affairs be ﬁled may be obtained by the
+liability. A court order that the statement of affairs be filed may be obtained by the
 trustee: Scott, in the matter of de Varda [2015] FCA 239.
-Even if the statement of affairs is ﬁled, if it is materially incomplete, it is not
+Even if the statement of affairs is filed, if it is materially incomplete, it is not
 regarded by the law as a statement of affairs and it may be rejected by the Official
 Receiver and a complete statement must be prepared: Wangman v Official Receiver
 [2006] FCA 202. The bankrupt may remain in breach of s 54.
@@ -265,7 +265,7 @@ under the Act, including under 54, and the penalties for failing to comply. As a
 [6.40]                                                        6 Administration of the Bankruptcy   225
 
 matter of practice, trustees request the statement of affairs in their original letter to
-the bankrupt enclosing the sequestration order. This amounts to a notiﬁcation
+the bankrupt enclosing the sequestration order. This amounts to a notification
 under the section if the bankrupt was not present in court, or represented, when the
 sequestration order was made.
 The statement of affairs will provide the trustee with particulars of the bankrupt's
@@ -279,11 +279,11 @@ trustee to provide creditors with a summary of the statement of affairs, among
 other information, at the beginning of the bankruptcy (IPRB, s 70-30) and the date
 of sending the initial remuneration notice is determined by reference to the trustee
 having received the SOA: IPRB, s 70-35.
-If the statement of affairs is not ﬁled as required, or is incomplete or inaccurate, the
+If the statement of affairs is not filed as required, or is incomplete or inaccurate, the
 trustee will be confronted with difficulties in identifying creditors and assets. A
-failure to submit a statement of affairs will also have signiﬁcant consequences for
+failure to submit a statement of affairs will also have significant consequences for
 the bankrupt because the time to automatic discharge does not start to run until the
-statement of affairs is ﬁled: s 149(4): see [7.115].
+statement of affairs is filed: s 149(4): see [7.115].
 The Official Receiver can assist the trustee in enforcing the bankrupts' obligation to
 provide a statement of affairs, under s 77CA.5
 
@@ -301,7 +301,7 @@ Legal privilege
 [6.40] As explained at [4.105] and [6.20], legal privilege is retained by the
 bankrupt despite bankruptcy and it can be relied upon by the bankrupt to deny a
 trustee access to legal advice the bankrupt has obtained. The privilege applies to
-documents evidencing conﬁdential communications between the bankrupt and
+documents evidencing confidential communications between the bankrupt and
 their legal adviser where the communications came into existence for the dominant
 purpose of either enabling the bankrupt to obtain legal advice or be given such
 advice, or of litigation that was in train or was contemplated by the bankrupt.6
@@ -314,7 +314,7 @@ Hence, communications prior to bankruptcy about the likelihood and consequences
 of bankruptcy are protected by the privilege. Third parties – such as a person to
 whom the bankrupt transferred property – can also rely on this privilege to refuse
 to give documents to the trustee.
-A trustee might, however, ﬁnd that the bankrupt waives the privilege, for example,
+A trustee might, however, find that the bankrupt waives the privilege, for example,
 simply from a wish to assist the trustee. The bankrupt may also waive the privilege
 if the legal advice in question may go to persuade the trustee to continue a
 litigation claim of the bankrupt; or to reject a proof of debt upon which the
@@ -323,10 +323,10 @@ The usual legal principles about waiver or loss of privilege apply.
 
 Giving notice of the bankruptcy
 [6.45] The trustee should give notice of the bankruptcy to banks and other
-ﬁnancial institutions at which the bankrupt has accounts,7 and debtors of the
+financial institutions at which the bankrupt has accounts,7 and debtors of the
 bankrupt, in order to ensure that they pay the trustee and not the bankrupt. If the
 trustee is aware of creditors not disclosed by the bankrupt in the statement of
-affairs, they should also be notiﬁed.
+affairs, they should also be notified.
 The trustee should give notice to the Australian Taxation Office. Where an ABN is
 required, the trustee must obtain a separate ABN from that of the bankrupt.8
 
@@ -344,13 +344,13 @@ information for the trustee about the debtor, and their co-operation and interes
 should be maintained.
 Trustees will either mail or email written reports to creditors, or provide verbal
 reports at meetings of creditors, at appropriate points in the administration process.
-Website notiﬁcations may also be used.9
+Website notifications may also be used.9
 
-Initial notiﬁcation and declaration required: IPRB, s 70-30
+Initial notification and declaration required: IPRB, s 70-30
 [6.55] As referred to at the beginning of this chapter, IPRB, s 70-30 requires a
 trustee to give certain minimum items of information to the creditors, "as many as
 
-7 See s 125 of the Bankruptcy Act as to the obligation of a bank to inform the trustee if it ﬁnds out that
+7 See s 125 of the Bankruptcy Act as to the obligation of a bank to inform the trustee if it finds out that
   their customer is bankrupt. See also OTPS 2 – Bank accounts – Application of section 125 of the
   Bankruptcy Act 1966 where estate is administered by the Official Trustee.
 8 As to GST and other tax obligations, see PS LA 2011/16 at http://www.ato.gov.au.
@@ -358,7 +358,7 @@ trustee to give certain minimum items of information to the creditors, "as many 
 [6.65]                                              6 Administration of the Bankruptcy   227
 
 reasonably practicable". If a statement of affairs is available, this will be the list of
-creditors disclosed, and any more that may have been identiﬁed.
+creditors disclosed, and any more that may have been identified.
 Apart from basic matters about the details of the debtor and the bankruptcy, the
 items of information include an outline of matters investigated by the trustee and
 matters requiring further investigation, a summary of the statement of affairs, and
@@ -367,12 +367,12 @@ Creditors are also to be informed about their various rights – to request info
 etc, to direct the holding of meetings, to give directions, to apply to the
 Inspector-General for a review of the trustee's remuneration, and to remove and
 replace the trustee.
-The trustee is also to give a declaration about their and their ﬁrm's relevant
+The trustee is also to give a declaration about their and their firm's relevant
 relationships within the preceding 24 months, and if so stating the trustee's reasons
-for believing that none of those relationships result in the trustee having a conﬂict
+for believing that none of those relationships result in the trustee having a conflict
 of interest or duty.
 The information and declaration must be given in writing at the same time as the
-trustee ﬁrst communicates with the creditors in relation to the administration of
+trustee first communicates with the creditors in relation to the administration of
 regulated debtor's estate.
 
 A report within three months
@@ -390,7 +390,7 @@ make.
 The previous law (s 19(1)(d)) stated that the trustee had a duty to give information
 about the administration of an estate to a creditor who reasonably requested it.
 There is now a much expanded regime with which the trustee must comply unless
-speciﬁed circumstances exist, such as the request being "unreasonable" as deﬁned
+specified circumstances exist, such as the request being "unreasonable" as defined
 in the Rules.
 IPSB, s 70-40 permits creditors, by resolution, to request the trustee to give them
 information, or provide a report or produce a document ("information etc").
@@ -402,7 +402,7 @@ The trustee must comply with the request unless:
 228    Keay's Insolvency: Personal and Corporate Law and Practice                   [6.70]
 
 Relevance and breach of duty
-[6.70] As to (a) and (b), it is a matter for the trustee, acting bona ﬁde, to
+[6.70] As to (a) and (b), it is a matter for the trustee, acting bona fide, to
 determine whether the request should be complied with.
 As a matter of practice, creditors' requests should properly be met, unless there is a
 valid reason not to. Although creditors are central to any bankruptcy, it is
@@ -411,7 +411,7 @@ directions may be required. Relevance can usually be ascertained by the trustee.
 to whether a breach of duties may be involved can be difficult in some cases and
 legal advice may be required. Simply because the Act does not prevent disclosure is
 not enough, but some reason should exist not to disclose.
-If acting bona ﬁde, and reasonably, a trustee should properly not be held to account
+If acting bona fide, and reasonably, a trustee should properly not be held to account
 by a court if, on challenge by the creditors, the court reverses the trustee's decision.
 
 Reasonable or unreasonable
@@ -419,7 +419,7 @@ Reasonable or unreasonable
 where it is, or is not, reasonable for a trustee to comply. That is the case if the
 trustee, acting in good faith, is of the opinion that:
 (a) Complying with the request would substantially prejudice the interests of one or more
-    creditors or a third party and that prejudice outweighs the beneﬁts of complying with
+    creditors or a third party and that prejudice outweighs the benefits of complying with
     the request.
 An example is if the information relates to potential recoveries in the estate, or
 concerns a third party witness to those proceedings; or
@@ -429,17 +429,17 @@ of a claim. The trustee can waive that privilege. The privilege of the bankrupt 
 separate and remains with them and does not pass to the trustee; again, the
 bankrupt can waive that privilege; or
 (c) Disclosure of the information etc would found an action by a person for breach of
-    conﬁdence.
+    confidence.
 This is a tort the remedy for which can be an award of damages. In the context of
 the provision, information might be given to the trustee by a creditor about some
 voidable transaction of the bankrupt, on the express or implied understanding that
 the information is for the trustee's investigation and possible recovery of moneys.
-To be conﬁdential, the information must be clearly identiﬁable, and not a global
-expression of concern, and must also have the necessary quality of conﬁdence, and
+To be confidential, the information must be clearly identifiable, and not a global
+expression of concern, and must also have the necessary quality of confidence, and
 is not, for example, common or public knowledge. Release of the information by
-the trustee must be able to be shown to breach that conﬁdence. In most cases,
-anyone supplying information to a trustee would mark it as being in conﬁdence, at
-least to show that intention in handing it over; or it may be conﬁdential by its very
+the trustee must be able to be shown to breach that confidence. In most cases,
+anyone supplying information to a trustee would mark it as being in confidence, at
+least to show that intention in handing it over; or it may be confidential by its very
 nature; or
 (d) There is not sufficient available property to comply with the request.
 More precisely, the assets in the estate are not enough to cover the trustee's
@@ -455,15 +455,15 @@ Again, this needs to be read purposefully.
 Despite these last three paragraphs – (2)(d), (e) and (f) – it is reasonable for the
 trustee to comply if the creditors agree to bear the cost of doing so, and, if required
 by the trustee, security is given to the trustee beforehand: IPRB, s 70-10(5)
-The ﬁnal criterion to refuse a request is that it is vexatious – (g). A request may be
+The final criterion to refuse a request is that it is vexatious – (g). A request may be
 taken to be vexatious if the trustee receives the request within 20 business days of
-receiving a similar request from the creditors. There is no further deﬁnition of
+receiving a similar request from the creditors. There is no further definition of
 "vexatious" but the law in respect of vexatious proceedings in courts gives some
 guidance on whether claims should be assessed as vexatious, including an abuse of
 court process, one pursued to harass or annoy, or to cause delay or detriment, or for
 another wrongful purpose, without reasonable grounds.10
 The Commonwealth may request information from the trustee in relation to its
-provision of ﬁnancial assistance to employees under the Fair Entitlements
+provision of financial assistance to employees under the Fair Entitlements
 Guarantee (FEG) scheme: IPSB, s 70-55. There is no "reasonableness" test for this, as
 there is with creditors' requests although it would be expected that the
 Commonwealth would act reasonably. See also IPRB, s 70-55 as to the trustee's
@@ -494,7 +494,7 @@ Inspector-General does not have this power: Haskins v Official Trustee in Bankru
 
 Other rights of creditors
 [6.90] Creditors lose money when their debtor goes bankrupt and their legal
-rights are signiﬁcantly changed. Principally, these rights are converted from a right
+rights are significantly changed. Principally, these rights are converted from a right
 to recover money from the debtor to a right, only, to prove their debt in the
 bankruptcy. Bankruptcy law, and insolvency law generally, provides creditors with
 opportunities of involvement and certain rights and controls over the process. The
@@ -504,7 +504,7 @@ Schedule:
    directions to which the trustee must have regard (IPSB, s 85-5);11
 • a creditor may appeal to the court in relation to any action of the trustee which
    affects them (IPSB, s 90-10);
-• creditors may resolve to ﬁx the trustee's remuneration (IPSB, s 60-10), subject to
+• creditors may resolve to fix the trustee's remuneration (IPSB, s 60-10), subject to
    the trustee's minimum entitlement to fees under IPSB, s 60-15, presently set at
    $5,000 (indexed);
 • a creditor has the right to initiate and take part in public examinations under
@@ -535,7 +535,7 @@ needs – advice whether certain proceedings should be pursued, approval of a
 funding agreement or of remuneration.
 
 11 A trustee need not comply with a direction – IPSB, s 85(2). At general law, a trustee did not need to
-   comply if it conﬂicted with the trustee's duties: Re Weiss [1986] FCA 287.
+   comply if it conflicted with the trustee's duties: Re Weiss [1986] FCA 287.
 12 As to notice requirements for such a meeting under the old law, see Cummings v Macks [2000] FCA
    55; (2000) 96 FCR 345.
 [6.105]                                           6 Administration of the Bankruptcy   231
@@ -544,7 +544,7 @@ The Standards set minimum levels of acceptable conduct for trustees in relation 
 meetings. These include the need for the trustee to consider whether some other
 form of communication with creditors, other than by a formal meeting, may be
 more cost effective. The law itself sets detailed rules in relation to insolvency
-meetings – as to notiﬁcation to the creditors, quorums, voting rules, rights to vote,
+meetings – as to notification to the creditors, quorums, voting rules, rights to vote,
 and so on. Beyond that, the general law rules of meetings may be called upon as
 necessary.
 The trustee may convene a meeting at any time (IPSB, s 75-10) and is required to do
@@ -587,8 +587,8 @@ greater regulatory scrutiny.
 
 AFSA's criteria for attending such meetings in its regulator role include a suspicion
 that creditors have not been properly informed, either because the debtor has not
-provided complete or accurate information or the trustee's report is deﬁcient; or the
-debtor is "high proﬁle" with sizeable debts and there is public interest in the
+provided complete or accurate information or the trustee's report is deficient; or the
+debtor is "high profile" with sizeable debts and there is public interest in the
 administration; or there is concern about the validity of a creditor's claim and the
 creditor can affect the outcome of the meeting. See Inspector-General Practice
 Statement (IGPS) 11 – Monitoring and inspection of bankruptcy trustees and debt
@@ -605,7 +605,7 @@ meeting: s IPSB, s 75-25, IPRB, s 75-50.
 Any agenda must be sent, allowing 'other business' to be raised. This can include
 the tabling of certain documents such as a proposal under s 73 or documents
 required for meetings under s 188.
-IPRB, s 75-65 speciﬁes requirements of a trustee in the conduct of a creditors'
+IPRB, s 75-65 specifies requirements of a trustee in the conduct of a creditors'
 meeting. Attendees can ask questions of the trustee and the debtor (if present).
 Under IPRB, s 75-70, both the trustee and the attendees entitled to vote at a meeting
 may propose a resolution at a meeting. Attendees may move amendments to
@@ -622,7 +622,7 @@ casting a vote under IPRB, s 75-110.
 Each creditor must give a written statement to the trustee setting out the amount of
 their debt, how much any creditor paid to purchase a debt, and whether the
 creditor is a related entity of the debtor.
-There are additional requirements for the ﬁrst meeting of the creditors to include in
+There are additional requirements for the first meeting of the creditors to include in
 the written statement whether any security is held against the debt and its
 estimated value, and particulars of the debt.
 [6.115]                                                     6 Administration of the Bankruptcy    233
@@ -661,7 +661,7 @@ than 15 business days after the day it is adjourned: IPRB, s 75-105(3).
 Where a meeting is adjourned for lack of a quorum, notice of that fact must be
 given to as many creditors as reasonably practicable by the end of the next business
 day. This may mean that only those creditors who have provided the trustee with
-their email details will be notiﬁed in accordance with this requirement.
+their email details will be notified in accordance with this requirement.
 A resolution put to a vote at a meeting may be decided "on the voices" unless a
 poll is requested, which must be taken immediately and in a manner determined
 by the trustee. A poll involves the trustee formally accepting and recording each
@@ -705,12 +705,12 @@ original meeting.
 The trustee must then provide notice to other creditors by the end of the next
 business day.
 If the meeting is adjourned for more than six business days, the trustee must give
-notice of where and when the adjourned meeting is being held at least ﬁve business
+notice of where and when the adjourned meeting is being held at least five business
 days in advance.
 Within 10 business days after the end of a meeting, the trustee must prepare and
 sign minutes of the meeting, including an attendance list: see IPRB, s 75-145; AFSA
 Form – Record of persons present at meeting of creditors. These records should be
-available for inspection at the trustee's ﬁrm. If the trustee is unable to sign the
+available for inspection at the trustee's firm. If the trustee is unable to sign the
 minutes, a creditor who attended the meeting may do so.
 
 16 See AFSA's Notice of Proposal to Creditors of IPSB s 75-40; IPRB, ss 75-130 and 75-137 .
@@ -722,7 +722,7 @@ as their proxy, or someone acting under a power of attorney, who then has the sa
 rights to speak and vote at the meeting as if they were the creditor.
 A proxy or attorney only has effect if the instrument of appointment has been given
 to the trustee.
-Proposals for approval of the trustee's remuneration require a speciﬁc instrument
+Proposals for approval of the trustee's remuneration require a specific instrument
 appointing the proxy or attorney to enable that individual to vote.
 A company can nominate a proxy but it does not need to; an authorised company
 officer can attend and vote as the company: Pascoe v Prentice [2003] FMCA 198.
@@ -734,7 +734,7 @@ distribution of dividends. That section determines how payments are to be applie
 to joint and separate estates. Where applicable, the trustee must also explain the
 likely effect of s 141 on the distribution of joint and separate dividends.
 Where a debtor lodges a proposal under s 73(1), the trustee must call a meeting and
-send a copy of the proposal and a report on the proposal at least ﬁve business days
+send a copy of the proposal and a report on the proposal at least five business days
 before the meeting. If at the meeting, the proposal is accepted by special resolution,
 the trustee must make the composition or scheme of arrangement available for
 inspection by the creditors.
@@ -752,7 +752,7 @@ Unreasonable creditors' directions to call a meeting
 where the practitioner is of the opinion that one of the following applies, where:
 • complying with the request would substantially prejudice the interests of a
   creditor, group of creditors or a third party, and that prejudice outweighs the
-  beneﬁts of complying with the request.
+  benefits of complying with the request.
 • there is insufficient available property to comply with the request.
 • a meeting on the same matters has already been held or will be held shortly.
 • the request is vexatious.
@@ -762,7 +762,7 @@ good faith.
 236    Keay's Insolvency: Personal and Corporate Law and Practice              [6.155]
 
 While a request will be deemed to be vexatious where a similar direction has been
-given within the past four weeks, this does not seek to limit the deﬁnition of the
+given within the past four weeks, this does not seek to limit the definition of the
 term "vexatious".
 If the creditors are willing to bear the cost of calling and holding a meeting, the
 trustee must comply with their direction even if there are insufficient funds, or a
@@ -780,7 +780,7 @@ and appoint another trustee in their place.
 The incoming trustee must provide the outgoing trustee a written consent to act
 and a declaration of any relevant relationships, indemnities or other potential
 issues that could impact on their independence or that otherwise represents a
-conﬂict of interest or duty.
+conflict of interest or duty.
 At the meeting, both the outgoing and incoming trustees have a right to speak to
 the creditors.
 This assumes that there is an incoming trustee. If creditors resolve simply to
@@ -791,7 +791,7 @@ Committees of inspection
 to throughout this and earlier chapters. A brief introduction to them was given to
 them in Chapter 2.
 In large or complex bankruptcies, creditors may resolve to have a committee of
-inspection: IPRB, s 80-10. It consists of between three and ﬁve persons elected at a
+inspection: IPRB, s 80-10. It consists of between three and five persons elected at a
 creditors' meeting, whose function it is to advise and assist and if necessary direct
 the trustee and to monitor the conduct of the administration: IPRB, s 80-35. It
 allows creditors to exercise greater control over trustees than is available through
@@ -811,9 +811,9 @@ representing at least 50% in value: IPRB, s 80-25. That creditor must then not
 purchase any part of the assets of the estate; IPRB, s 80-60, unless creditors permit it
 The rules provide details of the process, including for committee members'
 resignation and replacement IPRB, Div 80.
-Members of a committee owe ﬁduciary duties to the creditors as a whole. In
+Members of a committee owe fiduciary duties to the creditors as a whole. In
 keeping with that, they are unable to purchase directly or indirectly any part of the
-estate of the bankrupt without leave of the court: IPRB, s 80-55 or in other speciﬁed
+estate of the bankrupt without leave of the court: IPRB, s 80-55 or in other specified
 circumstances.
 The trustee or a member is entitled to call a meeting of a committee at any time:
 s 70(6). The committee acts by a majority and can only act if a majority of its
@@ -822,9 +822,9 @@ In reality, given the less complex nature of most bankruptcies, committees are
 rarely needed.
 IPRB, Div 80 gives power to a committee to request information or reports from the
 trustee, subject to the request being reasonable. The rules contain details of what is
-reasonable, the time within which the request must be met, and notiﬁcation of
+reasonable, the time within which the request must be met, and notification of
 unreasonable requests; IPRB, ss 80-15, 80-20 and 80-25.
-A committee may obtain its own advice or assistance, after ﬁrst obtaining the
+A committee may obtain its own advice or assistance, after first obtaining the
 trustee's approval or that of the court: IPRB, s 80-50. Such an expense is an expense
 of the administration, unless the court orders otherwise: s 109.
 The Inspector-General may attend committee meetings: IPRB, s 80-65.
@@ -872,10 +872,10 @@ Similarly, a foreign trustee may apply to an Australian court for recognition of
 foreign bankruptcy, to pursue investigations and proceedings here. An Australian
 trustee in bankruptcy may be appointed under Arts 19 or 21 of the Model law to
 assist in that process: Palmer (Trustee), in the matter of Slater (Bankrupt) [2016] FCA
-780.18 If that is the case, the Australian trustee must ﬁle a consent to act – Court
+780.18 If that is the case, the Australian trustee must file a consent to act – Court
 Form B19. That form requires a declaration that the trustee is not aware of any
-conﬂict of interest or duty that would make it improper for them to act, and it also
-must disclose the trustee's and their ﬁrm's hourly rates.
+conflict of interest or duty that would make it improper for them to act, and it also
+must disclose the trustee's and their firm's hourly rates.
 In Kapila, Re Edelsten [2014] FCA 1112, the Federal Court recognised US bankruptcy
 proceedings on the basis that the debtor had business assets in the US sufficient to
 constitute an "establishment" under the Model Law. But the debtor's COMI was in
@@ -949,7 +949,7 @@ matter of Cooksley v Cooksley [2017] FCA 1193.
 Once assets are recovered, the trustee may realise them and pay dividends. One
 cross-border rule is that a creditor who levies execution on overseas assets of an
 Australian bankrupt is not permitted to prove and receive a dividend in the
-bankruptcy without ﬁrst bringing into the "hotchpot" what has been recovered
+bankruptcy without first bringing into the "hotchpot" what has been recovered
 overseas.22 This old rule is now found in Art 32 of the Model Law.
 
 INVESTIGATIONS
@@ -993,7 +993,7 @@ of each administration, including the following:
 [6.190]                                           6 Administration of the Bankruptcy   241
 
 (d)    identifying and making an assessment of realisable assets that could be
-     expected to provide, on a cost-beneﬁt basis, a return to creditors; or contribute
+     expected to provide, on a cost-benefit basis, a return to creditors; or contribute
      to the payment of the costs and fees of the administration;
 (e) assessing the income contribution that the debtor is liable to pay calculated in
      accordance with s 139S;
@@ -1020,7 +1020,7 @@ The trustee must realise only those assets:
 In determining the ownership of divisible property, the trustee must act reasonably
 and claim only the amount that fairly represents the interest in, or value of, the
 property. One example is real property in which there is no equity.
-If the market value of divisible property is signiﬁcant, but is not readily
+If the market value of divisible property is significant, but is not readily
 ascertainable; the trustee must obtain advice from an independent expert to assess
 the extent of the trustee's interest in it and its value and the worth of any offers
 received.
@@ -1031,17 +1031,17 @@ those costs that are necessary and reasonable; and before deciding whether it is
 appropriate to incur a cost, compare the amount of the cost likely to be incurred
 with the value and complexity of the administration.
 When claims on assets or funds held by someone are made by trustees, there will
-inevitably be a period of time before a ﬁnal order determining the trustee's claim is
+inevitably be a period of time before a final order determining the trustee's claim is
 made. Court rules generally allow "freezing orders" to be made against the assets
 of that person, so as to prevent "the frustration or inhibition of the Court's process
 by seeking to meet a danger that a judgment or prospective judgment of the Court
-will be wholly or partly unsatisﬁed": Federal Court Rules 2016 (Cth), r 7.32. The
+will be wholly or partly unsatisfied": Federal Court Rules 2016 (Cth), r 7.32. The
 242      Keay's Insolvency: Personal and Corporate Law and Practice                              [6.195]
 
 order may restrain the person from removing, disposing of, dealing with or
 diminishing the value of those assets. A freezing order may be made without notice
 to the person holding the funds or assets, if there is a danger of their removal. Such
-orders will operate pending a ﬁnal determination of the true ownership of the
+orders will operate pending a final determination of the true ownership of the
 assets or funds: see Melluish as Trustee of the Estate of Eriksson [2015] FCCA 2235.
 
 Search warrants: s 78
@@ -1057,7 +1057,7 @@ the bankrupt or someone else, the trustee may apply to an eligible judge (see
 s 129A)24 for a warrant authorising the search of the premises and the seizure of
 named property: s 130(1), (2). The warrant may also allow the seizure of property
 and books connected with the bankrupt's examinable affairs. The "examinable
-affairs" of a bankrupt are widely deﬁned in s 5(1) and extend to the books of an
+affairs" of a bankrupt are widely defined in s 5(1) and extend to the books of an
 associated entity of the bankrupt in so far as these relate to the bankrupt or their
 conduct, dealings, transactions, property and affairs: s 5(1).
 Orders for arrest and search warrants are not given lightly and courts will require
@@ -1066,8 +1066,8 @@ compelling reasons from the trustee for orders to be made.
 Other administrative processes
 [6.200] The Act includes certain other administrative procedures which can be
 used by the trustee in the course of investigating a bankrupt estate. Some of the
-procedures are discussed brieﬂy below. There are three categories:
-• the ﬁrst being a demand notice issued simply by the trustee – the s 77A notice;
+procedures are discussed briefly below. There are three categories:
+• the first being a demand notice issued simply by the trustee – the s 77A notice;
 • the second being notices issued only by the Official Receiver, on behalf of the
   trustee – being the ss 77AA, 77C and 81A notices; and
 • the third being the s 81 summons, which is issued by the court at the request of
@@ -1075,7 +1075,7 @@ procedures are discussed brieﬂy below. There are three categories:
 
 Access to books of associated entities: s 77A
 [6.205] When a trustee is conducting an investigation pursuant to s 19AA, the
-trustee may demand in writing that a person produce speciﬁed books of an
+trustee may demand in writing that a person produce specified books of an
 associated entity of the bankrupt that are, "in the trustee's opinion", relevant to the
 investigation: s 77A(2). Section 77A is construed in a similar way to s 81 in relation
 
@@ -1103,7 +1103,7 @@ Access to premises: s 77AA
 Official Receiver, to premises to search for books and records. It is based on the
 former s 263 of the Income Tax Assessment Act 1936 (Cth) (ITAA 1936), an
 investigative provision available to the Tax Commissioner.
-This section signiﬁcantly increases the scope of the powers of investigation of the
+This section significantly increases the scope of the powers of investigation of the
 trustee, who, along with staff, is entitled to accompany and assist the Official
 Receiver in the search, under relevant written authority. It is therefore a serious
 exercise of the discretion to decide to issue such a notice.
@@ -1128,7 +1128,7 @@ prevent the trustee having access to documents subject to that privilege: Re Ste
 244       Keay's Insolvency: Personal and Corporate Law and Practice            [6.215]
 
 AFSA's practice statement on the issue of statutory notices by the Official
-Receiver,27 says that the issue of a s 77AA notice has to be justiﬁed by the trustee,
+Receiver,27 says that the issue of a s 77AA notice has to be justified by the trustee,
 including explaining why that notice is required rather than the less severe s 77C
 notice. In reality, s 77AA notices are rarely issued, as compared to s 77C notices,
 which we now discuss.
@@ -1146,7 +1146,7 @@ given on oath. The Official Receiver presides over the examination which is usua
 conducted at an AFSA office. The person being examined and the trustee attend,
 and their lawyers, and others at the discretion of the Official Receiver. According to
 ORPS 7 the Official Receiver will try to ensure that the examination is "conducted
-in an orderly manner and with enough ﬂexibility and informality to ensure full,
+in an orderly manner and with enough flexibility and informality to ensure full,
 complete and truthful information to be obtained".
 The power given under s 77C is an inquisitorial, investigative power which is
 administrative in nature: Re McKee; Ex parte Laroar Holdings Pty Ltd v Ross (1996) 71
@@ -1155,7 +1155,7 @@ assets the bankrupt had, what has happened to them, and whether proceedings
 should be initiated in order to recover them. The procedure to be followed at
 examinations is a matter for the Official Receiver and no parameters are laid down
 by the Act. Improper or irrelevant questions should not be asked. Interviews are
-ﬂexible and permit persons conducting them to allow other interested parties such
+flexible and permit persons conducting them to allow other interested parties such
 as the trustee or their lawyer to ask questions. A person being interviewed is
 entitled to be represented by a lawyer.
 A failure to give the information required by a s 77C notice or to attend before the
@@ -1180,7 +1180,7 @@ tender of any transcript of a s 77C or a s 81 examination is admissible as evide
 unless the court makes an order to the contrary. There is no requirement that the
 person be a party to the proceeding.
 Inspector-General Practice Direction (IGPD) 11 – Trustees' guidelines for issuing
-objections to discharge when statements of affairs not yet ﬁled says of ss 77C or 81 that
+objections to discharge when statements of affairs not yet filed says of ss 77C or 81 that
 they may be used in order to obtain a statement of affairs, but the two sections
 "create an extra cost and require the trustee to exercise their discretionary powers
 and experience in the most efficient and effective manner".
@@ -1193,7 +1193,7 @@ a hearing de novo of the Official Receiver's decision to issue the notices. Also
 application may be made pursuant to the Administrative Decisions (Judicial Review)
 Act 1977 (Cth), to review the administrative decision of the Official Receiver in
 issuing the notice: Tsakirakis v Official Receiver [2013] FCCA 106, subject to a
-discretion of the court to decide otherwise: see Kiem Dang Investment v Mansﬁeld &
+discretion of the court to decide otherwise: see Kiem Dang Investment v Mansfield &
 Anor [2017] FCCA 725 (a decision in relation to a s 139ZQ notice).
 [6.225]    The court in Re Jonson; Ex parte Prentice [1997] FCA 868 said that the
 power given, in that case by s 77C, "is one with far reaching consequences and
@@ -1202,7 +1202,7 @@ carefully by the Court". The notice should convey to the recipient with reasonab
 clarity what information or documents are sought, and show on the face of the
 notice that it is issued for a proper purpose: CK Nominees Australia v Official Receiver
 (WA) [2007] FCAFC 118; (2007) 160 FCR 524. In that case, the court found that the
-notices were oppressive – they covered a period of over ﬁve years, and sought 16
+notices were oppressive – they covered a period of over five years, and sought 16
 categories of documents, many of which required judgment calls as to the nature of
 the document and connection with the subject matter, in respect of entities
 comprising 15 individuals and 39 companies. The court said that "compliance with
@@ -1233,15 +1233,15 @@ questions by the trustee or the trustee's legal representative, often a barriste
 registrar presides at the examination, although judges may also do so: Pollak v
 Lombe [2004] FCA 362. The examinations must be held in public (s 81(2)) and
 creditors in particular can attend and take part. The media often attend and report
-on examinations in signiﬁcant bankruptcies or those of public interest.
+on examinations in significant bankruptcies or those of public interest.
 In considering whether to proceed to a s 81 examination, or rely on s 77C, the
 trustee would bear in mind the time and costs since s 81 examinations can be
-expensive to conduct, and whether these factors would outweigh the beneﬁts. In
+expensive to conduct, and whether these factors would outweigh the benefits. In
 any event, trustees will not usually resort to either type of examination unless they
-have ﬁrst interviewed, or tried to interview, the person from whom they wish to
-obtain information. In the case of the bankrupt, the trustee will ordinarily ﬁrst
+have first interviewed, or tried to interview, the person from whom they wish to
+obtain information. In the case of the bankrupt, the trustee will ordinarily first
 request them to attend for an interview to answer questions, and the law requires
-them to do so: s 77(1)(b). Also, trustees may also ﬁrst proceed under s 77C before
+them to do so: s 77(1)(b). Also, trustees may also first proceed under s 77C before
 then resorting to a s 81 examination.
 Other factors which may be relevant to deciding upon a s 81 public examination
 include:
@@ -1255,7 +1255,7 @@ include:
    forward with information to assist the trustee.
 Persons who may be examined
 [6.235] Besides the bankrupt (called a "relevant person" in the section), anyone
-who comes within the deﬁnition of an "examinable person" (deﬁned in s 5(1)) can
+who comes within the definition of an "examinable person" (defined in s 5(1)) can
 be examined. An examinable person includes the following, being persons:
 • known or suspected of possessing property of the bankrupt;
 • who are believed to be indebted to the bankrupt;
@@ -1297,8 +1297,8 @@ wide category of persons to be examined, together with a wide scope for matters
 which can be put to the examinee. It includes persons who are or may be associated
 with the bankrupt, and with corporations, trusts and partnerships with which the
 bankrupt is or has been associated. The scope of permissible questioning extends to
-all the ﬁnancial activities – the examinable affairs – of the bankrupt, including the
-ﬁnancial affairs of an "associated entity" of the bankrupt. See Karounos v Official
+all the financial activities – the examinable affairs – of the bankrupt, including the
+financial affairs of an "associated entity" of the bankrupt. See Karounos v Official
 Trustee [1988] FCA 180; (1988) 19 FCR 330.
 An application under s 81 can also seek to have included in the summons a
 requirement that the person to be examined produce at the examination relevant
@@ -1340,7 +1340,7 @@ examinations, and in the examinations themselves, so that examinees are not
 unfairly disadvantaged.35 The courts attempt to achieve a fair balance between two
 competing interests: the public interest of ensuring that the bankrupt estate is
 administered efficiently and openly; and ensuring that the entitlement of the
-examinee to conﬁdentiality and privacy in respect of matters not relevant to the
+examinee to confidentiality and privacy in respect of matters not relevant to the
 bankruptcy is respected. Having said this, the courts also assign considerable
 weight to the views of the trustee as the one most knowledgeable about the
 estate.36 A trustee will not be presumed to have acted unfairly or for an improper
@@ -1368,11 +1368,11 @@ v BankSA [2017] FCAFC 204 at [209]: "The compulsive power in s 81 is a power to
 further the Trustee's performance of his role and must not be used for purposes
 foreign to those for which it is conferred".
 During the examination, it may be alleged that the trustee is merely engaging in a
-"ﬁshing expedition" for information or evidence, without real purpose or focus,
+"fishing expedition" for information or evidence, without real purpose or focus,
 simply hoping something will turn up;38 or is asking irrelevant questions at the
 examination, or questions that are not within the scope of the summons or indeed
 the Act.39
-While the trustee should properly conﬁne their examinations to relevant issues, it
+While the trustee should properly confine their examinations to relevant issues, it
 can be the case that questions are asked that may appear irrelevant or unfocused,
 but in reality are a legitimate process of the investigative element of the
 examination. Any challenges to questions asked are determined by the registrar
@@ -1382,10 +1382,10 @@ examinable person, that the notice appears on its face to be too broad or to rai
 issues that do not appear relevant. Again, this has to be assessed in light of the fact
 that the summons is usually only issued after the trustee has conducted
 investigations; and the reasons for the scope and detail of the summons, as
-explained to the registrar in the trustee's conﬁdential affidavit, may not be apparent
+explained to the registrar in the trustee's confidential affidavit, may not be apparent
 on the face of the summons.
 Nevertheless, if the summons is on its face too wide, the notice may be set aside by
-the court; indeed it may not be issued in the ﬁrst place by the registrar for that
+the court; indeed it may not be issued in the first place by the registrar for that
 reason.
 
 Privilege
@@ -1497,7 +1497,7 @@ DISCLAIMER OF ASSETS
 [6.280] Generally, the trustee is concerned with realising all of the bankrupt's
 property. However, some property is not wanted because it is worth little or is
 
-42 AFSA, Annual Report 2013-2014, showing only ﬁve such notices issued. No later ﬁgures are
+42 AFSA, Annual Report 2013-2014, showing only five such notices issued. No later figures are
    published.
 252     Keay's Insolvency: Personal and Corporate Law and Practice                        [6.285]
 
@@ -1507,7 +1507,7 @@ In such circumstances, a trustee will want to be rid of the property in order to
 responsibilities and costs in relation to it. The trustee may do this by a statutory
 sanctioned action of disclaimer: s 133. In disclaiming, notice may be given by the
 trustee of an intention to abandon the property. There may be persons who suffer
-ﬁnancial loss as a result, and they can lodge a proof of debt for the amount of loss
+financial loss as a result, and they can lodge a proof of debt for the amount of loss
 involved, but they must at the same time try to limit this, to "mitigate their
 damages".
 For example, if the trustee disclaims the lease of a bankrupt tenant mid-term, the
@@ -1525,7 +1525,7 @@ s 133(1AA), (1AB) and (1A):
 A notice of disclaimer under s 133(1) or (1A) of the Act must identify the property
 or contract being disclaimed and other information: Bankruptcy Regulations,
 reg 6.10. Notice must be given to each person who, to the trustee's knowledge, has
-an interest in the property or who is entitled to a beneﬁt of, or subject to a burden
+an interest in the property or who is entitled to a benefit of, or subject to a burden
 or liability under, the contract.
 The trustee is able to disclaim the legal title even though no transfer of the title to
 the trustee has been effected on the relevant register: ING Bank (Australia) Limited v
@@ -1549,14 +1549,14 @@ there are accumulated statutory charges for unpaid rates: Re Buloke Shire Counci
 The trustee of a bankrupt lessor also has to have the right to disclaim the tenant's
 interest in the property: Willmott Growers Group Inc v Willmott Forests Limited
 (Receivers and Managers appointed) (in liq) [2013] HCA 51; (2013) 251 CLR 592. A
-tenant may prove for their loss in their lease being disclaimed and having to ﬁnd
+tenant may prove for their loss in their lease being disclaimed and having to find
 alternative premises.
 The effect of disclaimer is to "determine forthwith the rights, interests and liabilities
 of the bankrupt" and discharge the trustee from all personal liability in respect of
 the property disclaimed: s 133(2). The disclaimer does not affect the rights and
 liabilities of any aggrieved party. As explained, a landlord is entitled to claim in the
 bankruptcy for any loss sustained as a result of the disclaimer (s 133(12)) but at the
-same time must try to mitigate their loss, for example by ﬁnding a new lessee and
+same time must try to mitigate their loss, for example by finding a new lessee and
 re-letting the property, possibly at a higher rent.
 Freehold property that is disclaimed may revert to the Crown, that is, the relevant
 government: Cleland and Teesdale Smith [1960] SASR 199.44 A site contaminated by
@@ -1573,7 +1573,7 @@ McFarlane (a Bankrupt) [2017] FCA 696; McMillan v Bidmonta Pty Ltd [2013] FCA
 Contracts
 [6.290] In other cases, it may be better for the trustee to retain an existing
 contract, for example if the trustee wants to carry on the bankrupt's business which
-relies upon that contract being maintained, so as to enable its proﬁtable sale. The
+relies upon that contract being maintained, so as to enable its profitable sale. The
 contract may contain a term allowing its termination in the event of one party
 going bankrupt, known as an "ipso facto" clause. In such a case, s 301 renders void
 a term in a contract, lease, hire purchase agreement, licence or PPSA security
@@ -1603,12 +1603,12 @@ CARRYING ON BUSINESS
 bankrupt their business has ceased. If the business is still operating, the trustee may
 decide to continue with it, unless it is so disorganised or run-down that it is not
 salvageable. However, the trustee may carry on the business in the short term, to
-enable an assessment of its proﬁtability; for a limited purpose, such as completing
+enable an assessment of its profitability; for a limited purpose, such as completing
 some work in progress for which moneys will be paid; while a buyer is located, on
-the assessment that is saleable; or for a longer term, if the business is proﬁtable and
+the assessment that is saleable; or for a longer term, if the business is profitable and
 time is available for its marketing and sale.46
 But the trustee is entitled to carry on business only "so far as may be necessary to
-dispose of it or wind it up for the beneﬁt of creditors": s 134(1)(b). The trustee will
+dispose of it or wind it up for the benefit of creditors": s 134(1)(b). The trustee will
 be responsible for tax, and other liabilities incurred in carrying on the business,
 including responsibilities for employees, and hence will make such a decision
 carefully.47
@@ -1616,7 +1616,7 @@ carefully.47
 DEALING WITH THE ASSETS
 [6.300] Once the trustee has taken possession or control of the property of the
 bankrupt and recovered any assets held by other persons, the trustee must deal
-with the property in such a way as to try to provide maximum beneﬁt for the
+with the property in such a way as to try to provide maximum benefit for the
 creditors.48 In most cases, the best course of action is for the trustee to sell the
 property, although the timing and process of the sale can be a matter of commercial
 judgment. As we have just seen, the trustee may decide to carry on and improve
@@ -1644,7 +1644,7 @@ terms of the assignment can be that the bankrupt estate be paid an agreed
 [6.310]                                                   6 Administration of the Bankruptcy   255
 
 percentage of any successful outcome of the assigned action. It is not necessary for
-the trustee to be satisﬁed that there is a realistic chance of success in the litigation;
+the trustee to be satisfied that there is a realistic chance of success in the litigation;
 the trustee will invariably not be in a position or have funds to adequately assess
 that. But because of the high standards of conduct expected of a trustee as an officer
 of the court, it would not be proper for the trustee to assign a cause of action which
@@ -1679,8 +1679,8 @@ gather evidence to bring a voidable transaction or other such claims, those powe
 would not be available to the purchaser – they do not refer to the trustee or
 liquidator "in relation to the action" assigned. An exception is that a creditor may
 conduct a public examination. However, the trustee may have already done some
-investigations, in fact would need to have done so in order to be satisﬁed that there
-is a valid claim to sell. The purchaser would want to have the beneﬁt of those for
+investigations, in fact would need to have done so in order to be satisfied that there
+is a valid claim to sell. The purchaser would want to have the benefit of those for
 
 50 Re Nguyen (1992) 35 FCR 320; Re Capel (1994) 48 FCR 195.
 51 Meriton Apartments Pty Ltd v Industrial Court of New South Wales [2008] FCAFC 172; (2008) 171 FCR
@@ -1704,7 +1704,7 @@ percentage of any proceeds might address this, this might expose them to an
 adverse costs liability as a result of having an interest in the outcome of the
 litigation: Knight v FP Special Assets Ltd (1992) 174 CLR 178. Alternatively, a court
 with insolvency jurisdiction might consider that the litigation claim should not to
-have been assigned in the ﬁrst place and make orders against the practitioner
+have been assigned in the first place and make orders against the practitioner
 accordingly.
 A potential assignee may challenge the practitioner's decision not to assign a right
 of action on legal bases; for one thing, a right of action could not be assigned after
@@ -1719,7 +1719,7 @@ discontinue. Discontinuance may mean that the company or the practitioner is
 ordered to pay the costs of the respondent. If the practitioner continues the claim,
 the attempted transfer may indicate to a prospective defendant a weakness in the
 practitioner's case.
-IPRB, s 100-5 does not require the prospective or actual respondents to be notiﬁed.
+IPRB, s 100-5 does not require the prospective or actual respondents to be notified.
 However, it would be wise to do so and would be directed under s 100-5(2) in any
 event. At that hearing, a prospective respondent may object to the assignment on
 the basis that it is without foundation, or that the interests of creditors are not being
@@ -1728,7 +1728,7 @@ considered.
 Directions from the court
 [6.315] Former s 134(4) allowed a trustee to seek directions from the court "in
 respect of a matter arising in connexion with the administration of the estate". This
-is now replaced by the court's power to make "orders as it thinks ﬁt" in relation to
+is now replaced by the court's power to make "orders as it thinks fit" in relation to
 the administration of an estate under IPSB, s 90-15, including, for example, "an
 order determining any question arising in the administration of the estate" and
 costs. The court may exercise this power on its own initiative, during proceedings
@@ -1747,7 +1747,7 @@ The court may take into account whether
 • the estate or any person has suffered, or is likely to suffer, loss or damage
   because of an action or failure to act by the trustee; and
 • the seriousness of the consequences of the trustee's conduct "including the effect
-  of that action or failure to act on public conﬁdence in registered trustees as a
+  of that action or failure to act on public confidence in registered trustees as a
   grou"".
 Costs orders may include an order that the trustee or another person is personally
 liable for some or all of those costs and that the trustee is not entitled to be
@@ -1783,7 +1783,7 @@ a legal issue or an attack on the propriety of the proceedings is raised: Reidy
 Directions have also been given as to whether a trustee should assign causes of
 action to a particular party; as to who is the actual trustee of a bankrupt estate; and
 under IPSB, Div 90, as to the right of a trustee to claim remuneration in relation to
-a "wide range of signiﬁcant and complex issues" concerning claims on trust assets
+a "wide range of significant and complex issues" concerning claims on trust assets
 by the trustee for his remuneration and by non-trust creditors: Lane (Trustee), in the
 matter of Lee (Bankrupt) v Deputy Commissioner of Taxation [2017] FCA 953.
 
@@ -1801,7 +1801,7 @@ the likely effect of s 110 on the distribution of dividends: IPRB, s 75-170.
 
 Partnership dividends
 [6.325] Section 141 provides that a creditor indebted jointly with more than one
-partner of a ﬁrm will not receive a dividend out of a bankrupt's separate property
+partner of a firm will not receive a dividend out of a bankrupt's separate property
 until all the separate creditors have received the full amount of their respective
 debts. At any creditors meeting where s 141 is relevant, the trustee must explain the
 likely effect of the section on the distribution of dividends: IPRB, s 75-170(2).
@@ -1811,7 +1811,7 @@ Realising the assets
 good a price as possible, given the market conditions, including by private contract,
 public auction, tender or online.53
 If an asset is the subject of a creditor's secured interest, the trustee will have to pay
-out that creditor ﬁrst. Often a secured creditor will have already sold the property,
+out that creditor first. Often a secured creditor will have already sold the property,
 under its power of sale, because of the debtor's failure to maintain mortgage
 payments. In such a case, the creditor must pay to the trustee any money received
 on the sale, which is over and above the amount of its debt. That money will then
@@ -1868,7 +1868,7 @@ THE BANKRUPT'S INCOME
 contributions by trustees dependent on the level of income of the bankrupt. Prior to
 the introduction of this scheme in 1991, bankrupts were only required to make
 contributions from their income on order by the court on the trustee's application:
-former s 131 of the Act. Division 4B was a signiﬁcant change in bankruptcy law and
+former s 131 of the Act. Division 4B was a significant change in bankruptcy law and
 was introduced in response to legislative concerns that bankrupts on large incomes
 260      Keay's Insolvency: Personal and Corporate Law and Practice                      [6.345]
 
@@ -1902,10 +1902,10 @@ which:
    upon the discharge or annulment: s 139K.
 
 Actual income threshold
-[6.350] The "actual income threshold amount" is deﬁned in s 139K. The starting
+[6.350] The "actual income threshold amount" is defined in s 139K. The starting
 point for calculating this is to take the "base income threshold amount" (BITA) and
 increase it by percentages, depending on the number of the bankrupt's dependents,
-if any. The BITA is deﬁned by reference to a pension rate calculator in the Social
+if any. The BITA is defined by reference to a pension rate calculator in the Social
 Security Act 1991 (Cth): Bankruptcy Act, s 139K, and to the Consumer Price Index.
 The BITA is the minimum income set for compulsory contributions. At January
 2018 it was $55,837.60. A bankrupt's income is assessed against the BITA every
@@ -1923,8 +1923,8 @@ threshold amount from the assessed income and dividing the result by two: s 139S
 derive, during the contribution assessment period: s 139S.
 
 Income
-[6.355] "Income" is deﬁned broadly in s 139L to include both income according
-to ordinary concepts and income deﬁned by a number of other criteria.57 The ambit
+[6.355] "Income" is defined broadly in s 139L to include both income according
+to ordinary concepts and income defined by a number of other criteria.57 The ambit
 of s 139L was broadened substantially by the Bankruptcy Legislation Amendment Act
 1996 (Cth) to overcome the decision involving the late Alan Bond – Bond v Trustee of
 Property of Bond (1994) 52 FCR 304 – where the court said that the value of gifts,
@@ -1933,21 +1933,21 @@ expenses were not covered by s 139L.58 The section now says that such assistance
 a bankrupt constitutes income. Section 139L also provides that loans to the
 bankrupt by associated entities are regarded as "income" even where the loans are
 not loans in the strict legal sense; for example, where the loan money is not paid to
-the bankrupt but is paid at their direction. Also, amendments in 2005 speciﬁed that
+the bankrupt but is paid at their direction. Also, amendments in 2005 specified that
 income was to include, for the purposes of the regime, income of a person who was
 discharged from bankruptcy: s 139L(2).
-Family maintenance payments are excluded from the deﬁnition if they are for the
+Family maintenance payments are excluded from the definition if they are for the
 maintenance of children of whom the bankrupt has custody: s 139L(1)(b)(i)(B).
-If payments are made to a bankrupt as a beneﬁciary under a trust, distributions out
+If payments are made to a bankrupt as a beneficiary under a trust, distributions out
 of the income of the trust will constitute income under s 139L(1)(a)(iv). Where there
 are multiple trust distributions it is necessary to assess the character of each
 distribution to determine if it is out of trust income or capital and hence whether it
 is income or not under s 139L: Combis v Harding [2014] FCA 1391). In that case the
-bankrupt was a beneﬁciary under a testamentary trust that involved the sale of a
+bankrupt was a beneficiary under a testamentary trust that involved the sale of a
 residential property and a proportion of the income from the proceeds of sale were
 paid as an annual distribution to the bankrupt which was held to be income under
 s 139L.
-As an adjunct to s 139L, s 139M speciﬁes circumstances in which a bankrupt is to be
+As an adjunct to s 139L, s 139M specifies circumstances in which a bankrupt is to be
 taken to have "derived" income, even though the bankrupt has not actually
 received it. The income that is likely to be derived is taken to be reduced by items
 such as income tax which is likely to be paid (s 139N), including any tax refund
@@ -1962,17 +1962,17 @@ can be done at any time, including after the bankrupt is discharged: s 139WA.
 57 The concepts are usefully discussed in Skalkos v Nicols [2009] FCA 346; (2009) 175 FCR 547. See also
    Re Gillies; Ex parte Official Trustee in Bankruptcy v Gillies [1993] FCA 289; (1993) 42 FCR 571.
 58 That outcome caused some outcry and the law was changed soon thereafter: see M Murray,
-   "Lifestyles of Undiminished Splendour – Bankrupts on Fringe Beneﬁts" (1994) 6(4) Journal of the
+   "Lifestyles of Undiminished Splendour – Bankrupts on Fringe Benefits" (1994) 6(4) Journal of the
    Insolvency Practitioners Association of Australia 6.
 262       Keay's Insolvency: Personal and Corporate Law and Practice                               [6.365]
 
 If a bankrupt is engaged in employment or other work, but is receiving no, or less
 than reasonable, remuneration, the trustee may determine that the bankrupt
-receives or received a sum equal to "reasonable remuneration" as deﬁned in s 139Y.
+receives or received a sum equal to "reasonable remuneration" as defined in s 139Y.
 This is intended to circumvent attempts at channelling income generated by the
 bankrupt into other entities. For example, there may be an arrangement whereby
-the bankrupt works for less than reasonable remuneration, thereby beneﬁting the
-employer, and in return the bankrupt is given non-cash beneﬁts by the employer.
+the bankrupt works for less than reasonable remuneration, thereby benefiting the
+employer, and in return the bankrupt is given non-cash benefits by the employer.
 If a bankrupt does not provide information concerning their income, or claims not
 to derive any income, the trustee may, if there are reasonable grounds for believing
 otherwise, assess the bankrupt regardless: s 139Z(1).
@@ -1987,7 +1987,7 @@ Review
 [6.365] Any decision by a trustee to assess a bankrupt may be reviewed by the
 Inspector-General in Bankruptcy, either on his or her own initiative or if requested
 to do so by the bankrupt or the Ombudsman: s 139ZA(1), (2).
-The Inspector-General may conﬁrm the trustee's assessment, set it aside or make a
+The Inspector-General may confirm the trustee's assessment, set it aside or make a
 fresh assessment: s 139ZD. An application may be made to the AAT to review the
 Inspector-General's decision: s 139ZF. The parties in such proceedings are the
 Inspector-General and either the trustee or the bankrupt. An appeal may then be
@@ -2013,12 +2013,12 @@ s 90-15.60
 Hardship
 [6.370] If a bankrupt is liable to pay a contribution, but will suffer hardship if
 required to pay, they may apply to the trustee for the contribution to be varied.
-Section 139T(2) speciﬁes the criteria for hardship. Under s 139T(12), the trustee's
+Section 139T(2) specifies the criteria for hardship. Under s 139T(12), the trustee's
 decision is reviewable by the Inspector-General under Subdiv G.
 
 Payment
 [6.375] The bankrupt must pay any contribution assessed to the trustee at a time
-the trustee speciﬁes. The trustee may permit payment by way of instalments:
+the trustee specifies. The trustee may permit payment by way of instalments:
 s 139ZG(1). Any contributions or instalments not paid by the bankrupt can be
 recovered by the trustee as a debt due to the estate: s 139ZG(3).
 It should be noted here that a bankrupt must obtain written permission from their
@@ -2048,10 +2048,10 @@ activate the supervised account regime in cases where there is recalcitrance or
 delayed payments by the bankrupt;62 in which case written notice must be given to
 the bankrupt (AFSA Form 20).
 Section 139ZID allows the trustee to revoke a s 139ZIC determination (AFSA
-Form 22) but the trustee must not do so unless satisﬁed that the bankrupt will pay
+Form 22) but the trustee must not do so unless satisfied that the bankrupt will pay
 
 61 See AFSA's "Schedule to s 139ZL" notice template. There were 119 such notices issued by the Official
-   Receiver in 2013-2014 (later ﬁgures are not published).
+   Receiver in 2013-2014 (later figures are not published).
 62 See the Revised Explanatory Memorandum to the Bankruptcy and Family Law Legislation Amendment
    Bill 2005 (Cth), at [24].
 264    Keay's Insolvency: Personal and Corporate Law and Practice             [6.390]
@@ -2073,7 +2073,7 @@ Supervised account notice
 (AFSA Form 21) and the bankrupt's obligations upon receiving it. The notice
 requires the bankrupt to open an account that complies with the features listed in
 the section, including that it be kept with an ADI (authorised deposit-taking
-institution as deﬁned in s 5(1)) in Australia. It cannot be an overdraft or similar
+institution as defined in s 5(1)) in Australia. It cannot be an overdraft or similar
 facility.
 The notice can require the bankrupt to open the account within 10 "working days"
 after the notice is given. The bankrupt must then notify the trustee of the account
@@ -2084,7 +2084,7 @@ circumstances require it: s 139ZIEA.
 Bankrupt's income to be deposited to account supervised by trustee
 [6.395] Section 139ZIF requires the bankrupt to ensure that all their monetary
 income is deposited into the account; income received in the form of cash or cheque
-must be deposited to the account within ﬁve working days of its receipt.
+must be deposited to the account within five working days of its receipt.
 The bankrupt cannot withdraw from the account except under conditions:
 s 139ZIG. The trustee can agree to withdrawals including daily or weekly
 withdrawals up to a nominated limit. This allows the bankrupt to meet their living
@@ -2118,7 +2118,7 @@ ii) Non-monetary income receipt arrangements. Section 139ZIHA restricts the use 
     is paid in a non-monetary form, so that income derived by the bankrupt is
     actually received by the bankrupt as money.
 iii) Cash income. Section 139ZII seeks to ensure that income received by the
-     bankrupt is able to be identiﬁed by the trustee and deposited into the
+     bankrupt is able to be identified by the trustee and deposited into the
      supervised account. The bankrupt is permitted to receive income in the form of
      cash with the consent of the trustee.
 However, there will always be means whereby a bankrupt is paid money without
@@ -2238,7 +2238,7 @@ powers to challenge those transfers. Section 77C examinations and s 139ZQ notice
 67 Campbells Cash & Carry Pty Ltd v Fostif Pty Ltd [2006] HCA 41; (2006) 229 CLR 386.
 268     Keay's Insolvency: Personal and Corporate Law and Practice                          [6.440]
 
-are useful actions that can be funded more inexpensively before any ﬁnal
+are useful actions that can be funded more inexpensively before any final
 commitment to litigation is made and they may in themselves lead to an offer to
 settle the claim.
 
@@ -2250,7 +2250,7 @@ Bankruptcy Act sets out the terms and conditions of funding. It is not available
 unless the creditors have been approached and are unwilling to indemnify the
 trustee in any proceedings.
 The guidelines say that the provision is designed to facilitate the proper carrying
-out of the trustee's statutory and ﬁduciary duties. Funding is to enable inquiries in
+out of the trustee's statutory and fiduciary duties. Funding is to enable inquiries in
 relation to the bankruptcy, and the pursuit or defence of appropriate legal
 proceedings. Investigations into Pt X agreements are only funded in exceptional
 circumstances. Funding can also be used to support proceedings before the AAT
@@ -2280,7 +2280,7 @@ insolvency agreements and the Official Receiver in relation to Pt IX debt
 agreements.
 
 68 ASIC's 2016-2017 Annual Report states that ASIC received more than 740 AA Fund applications, and
-   committed just over $3.43 million to liquidators in that ﬁnancial year.
+   committed just over $3.43 million to liquidators in that financial year.
 [6.455]                                                  6 Administration of the Bankruptcy   269
 
 Litigation in pursuit of remuneration
@@ -2288,7 +2288,7 @@ Litigation in pursuit of remuneration
 pursuit of litigation or other recoveries should be made for that purpose. There
 may be criticism where the outcome of litigation is that only the trustee's
 remuneration and expenses are able to be paid. This issue has arisen in corporate
-insolvency.69 In bankruptcy, a trustee has a speciﬁc duty to act "in a commercially
+insolvency.69 In bankruptcy, a trustee has a specific duty to act "in a commercially
 sound way" (s 19(1)(k)) and the trustee must also "realise only those assets that
 give a cost-effective return to creditors or contribute to the payment of the costs of
 the administration": IPRB, s 42-40. Beyond that, a trustee has similar responsibilities
@@ -2309,7 +2309,7 @@ Chapter 16.
 
 Some remaining issues in litigation
 [6.455] The availability of the administrative recovery procedure under s 139ZQ
-of the Act should mean that trustees are not required to seek ﬁnancial support as
+of the Act should mean that trustees are not required to seek financial support as
 frequently as they have been accustomed. That was an intended purpose of that
 and its related sections. Whether that purpose has been achieved is subject to
 debate. See [5.275].
@@ -2317,7 +2317,7 @@ Nevertheless, a claim may be able to be made and an amount recovered without
 recourse to litigation. Lawyers have obligations to try to negotiate and resolve
 claims under various laws and court rules. Trustees must also act commercially in
 recovering money.
-A ﬁnal point is that circumstances may arise in the conduct of a bankrupt estate
+A final point is that circumstances may arise in the conduct of a bankrupt estate
 where the trustee is faced with the need to seek court directions or declarations.
 The fact that directions are needed should mean that there are issues that need to
 be resolved in relation to assets or funds and that funding is available. But in some
@@ -2363,8 +2363,8 @@ Section 82(2) provides:
    contract, promise or breach of trust are not provable in bankruptcy."
 That is, a claim for unliquidated damages against a debtor who becomes bankrupt
 is not provable unless the claim arises out of a contract, promise or breach of
-trust.72 An unliquidated claim is one that has yet to be quantiﬁed, as opposed to a
-liquidated ﬁxed monetary claim. Claims on the bankrupt for personal injuries
+trust.72 An unliquidated claim is one that has yet to be quantified, as opposed to a
+liquidated fixed monetary claim. Claims on the bankrupt for personal injuries
 arising out of industrial or road accidents for which the bankrupt is liable are
 unliquidated and are not provable; the bankrupt remains personally liable to pay
 them. It may be that the unliquidated claim then later becomes liquidated, by way
@@ -2378,14 +2378,14 @@ them. It may be that the unliquidated claim then later becomes liquidated, by wa
 
 of a judgment sum being ordered to be paid by the bankrupt. That is too late; it
 remains a personal liability of the bankrupt if it is of a type of debt in s 82(2). But if
-a court has quantiﬁed a creditor's unliquidated claim before bankruptcy, and
+a court has quantified a creditor's unliquidated claim before bankruptcy, and
 ordered payment of a monetary sum, the claim is provable because it has become
 liquidated.
 A claim for loss suffered by a person as a result of misleading and deceptive
 conduct of the bankrupt is not a provable debt73 even though the person's reliance
 on the misleading representations occurred prior to bankruptcy: ACCC v Black on
 White Pty Ltd [2004] FCA 363; (2004) 138 FCR 314; (2004) 2 ABC (NS) 183. And the
-term "breach of trust" has a technical legal meaning and is not satisﬁed merely
+term "breach of trust" has a technical legal meaning and is not satisfied merely
 based on conduct exhibiting moral turpitude: Mercedes Holdings Pty Ltd v Waters
 (No 5) [2011] FCA 128; (2011) 10 ABC (NS) 24.
 A claim for damages for misleading and deceptive conduct inducing the making of
@@ -2393,10 +2393,10 @@ a contract brought by contracting party X against contracting party Y may be a d
 provable in the bankruptcy of Y – as a demand in the nature of unliquidated
 damages arising by reason of contract. But a similar claim arising out of a tripartite
 transaction – where X is induced by Y to enter a contract with Z – is not: Coventry v
-Charter Paciﬁc Corporation Ltd [2005] HCA 67; (2005) 227 CLR 234; 3 ABC (NS) 354.
+Charter Pacific Corporation Ltd [2005] HCA 67; (2005) 227 CLR 234; 3 ABC (NS) 354.
 The High Court accepted that the result was anomalous but this arose from the
 unequivocal language of s 82 and the nature of claims for unliquidated damages.74
-In Coventry v Charter Paciﬁc Corporation Ltd, the High Court rejected the view of the
+In Coventry v Charter Pacific Corporation Ltd, the High Court rejected the view of the
 Victorian Court of Appeal in Aliferis v Kyriacou (2000) 1 VR 447 that a claim based
 on a contract or promise would only be provable under s 82(2) if it were an
 essential element of the cause of action. For example, a claim under home warranty
@@ -2405,7 +2405,7 @@ A claim against the bankrupt for insolvent trading under s 588G of the Corporati
 Act is a provable debt: Taylor v Rudaks (2007) 166 FCR 451; 5 ABC (NS) 501; [2007]
 FCA 1962.76 That claim may be lodged by the liquidator of the company in the
 bankrupt estate of the director.
-Certain ﬁnes and penalties imposed for criminal or civil misconduct of the
+Certain fines and penalties imposed for criminal or civil misconduct of the
 bankrupt are not provable. The law considers that the bankrupt should remain
 personally responsible for the consequences of that misconduct, and that the
 creditors should not themselves be penalised in their dividends being reduced by
@@ -2415,18 +2415,18 @@ debts:
 73 Re Kritharas; ACCC v Kritharas [2000] FCA 1442; (2000) 105 FCR 444.
 74 At [72]. See also Pattinson v Bellwether Agriculture Pty Ltd (In Liq) [2018] NSWSC 38.
 75 Owners of Strata Plan 80647 v WFI Insurance Ltd (t/as Lumley Insurance) [2015] NSWSC 1161Coventry v
-   Charter Paciﬁc Corporation Ltd.
+   Charter Pacific Corporation Ltd.
 76 Query where no determination of insolvency or other elements of the breach had been made: DCT v
    Clout [2004] FMCA 195; (2004) 2 ABC (NS) 120; affirmed in George v DCT [2004] FCA 1433, (2004) 212
    ALR 495. A cross-claim by director A against co-director B for equitable contribution to A's exposure
    to liability under ss 588G and 588M of the Corporations Act can also be provable: Buzzle v Apple
    Computer [2007] 5 ABC (NS) 322; [2007] NSWSC 930.
-77 Victoria v Mansﬁeld (2003) 130 FCR 376; [2003] FCAFC 154.
+77 Victoria v Mansfield (2003) 130 FCR 376; [2003] FCAFC 154.
 272     Keay's Insolvency: Personal and Corporate Law and Practice                           [6.470]
 
-• penalties and ﬁnes imposed by a court in respect of offences against a law
+• penalties and fines imposed by a court in respect of offences against a law
   (s 82(3));78
-• amounts payable under a "proceeds of crime law" (as deﬁned in s 5 – see
+• amounts payable under a "proceeds of crime law" (as defined in s 5 – see
   s 82(3A));
 • civil penalties under the Corporations Act, s 1317G (Bankruptcy Act, s 82(3AA)).
 
@@ -2446,9 +2446,9 @@ is only payable if a certain thing happens – for example, a liability under a
 guarantee. To be provable, a contingent debt must be capable of being estimated at
 the date of bankruptcy: s 82(4), (6). A contingent creditor must estimate the amount
 owing accurately and the trustee will either record that amount or make their own
-estimate: s 82(4). If the creditor is dissatisﬁed by the estimate of the trustee it may
-appeal to the court within 28 days of it being notiﬁed: s 82(5).
-A future liability is one that will become payable at some deﬁnite time in the future.
+estimate: s 82(4). If the creditor is dissatisfied by the estimate of the trustee it may
+appeal to the court within 28 days of it being notified: s 82(5).
+A future liability is one that will become payable at some definite time in the future.
 An example is the bankrupt's obligation to repay a loan after the date of the
 bankruptcy.
 A guarantor in relation to a liability of a bankrupt can prove in the bankruptcy as
@@ -2462,7 +2462,7 @@ accrued income tax liabilities: see [6.400].
 The legal costs of a creditor are provable only if they were the subject of a court
 order made prior to the date of bankruptcy, but they are then provable even if they
 
-78 As to whether a "court" has imposed the ﬁne or penalty, see Victoria v Mansﬁeld; as to whether an
+78 As to whether a "court" has imposed the fine or penalty, see Victoria v Mansfield; as to whether an
    "offence" is involved, see Mathers v Commonwealth [2004] FCA 217; (2004) 134 FCR 135; 2 ABC (NS)
    78, decided on the comparable provision in the Corporations Act, s 553B.
 79 Under the Higher Education Support Act 2003 (Cth) and the Trade Support Loans Act 2014 (Cth) and
@@ -2507,10 +2507,10 @@ Insurance Commission v Alekozoglou:80
 • "The questions for determination must be decided by reference to the language
   of the relevant statutes, rather than by resort to consequences which … would
   appear to produce injustice …".
-A creditor was held to have a provable debt arising out of vendor ﬁnance he
+A creditor was held to have a provable debt arising out of vendor finance he
 provided in support of the sale of his pharmacy businesses to the purchaser who
 then went bankrupt. It was an express term of the agreement that the debt would
-be repaid when the pharmacies returned to proﬁtability. As such the indebtedness
+be repaid when the pharmacies returned to profitability. As such the indebtedness
 
 80 (2003) 1 ABC (NS) 365; [2003] FCA 848 at [50], case references omitted.
 274      Keay's Insolvency: Personal and Corporate Law and Practice                                [6.480]
@@ -2527,14 +2527,14 @@ fairly estimated, the debt can be deemed not provable: s 82(6).
 
 Tax liabilities
 [6.480] Proofs of debt based on tax liabilities raise particular issues. We have
-brieﬂy explained whether tax refunds are property of the estate under s 58 of the
+briefly explained whether tax refunds are property of the estate under s 58 of the
 Act: see [4.45]. Whether a tax liability is a debt provable will be determined by the
 impact of s 82(1) of the Act.
 Income tax relating to the period from the commencement of the year prior to the
 date of bankruptcy up to that date is a provable debt in bankruptcy: Commissioner of
 Taxation v Jones (1999) 86 FCR 282; [1999] FCA 308. In such circumstances, the ATO
 may be required to issue split assessments relating to both the pre and
-post-sequestration parts of the ﬁnancial year. If the debtor's taxation affairs are not
+post-sequestration parts of the financial year. If the debtor's taxation affairs are not
 up to date, the ATO will ask the bankrupt to lodge outstanding returns, activity
 statements or other documents to enable their total taxation liability to be
 determined. If the debtor is uncooperative, or delayed, the ATO may lodge a proof
@@ -2543,14 +2543,14 @@ A tax refund can be taken into account in determining the "income" of the
 bankrupt for the purposes of assessing whether the bankrupt is required to make
 an income contribution under Pt VI, Div 4B of the Bankruptcy Act. See [6.355].
 But liabilities under family assistance legislation, whereby moneys are paid in
-advance to a beneﬁciary subject to a later reconciliation against actual income, do
+advance to a beneficiary subject to a later reconciliation against actual income, do
 not arise as a debt until that reconciliation occurs.81
 The Commissioner may provide information to a trustee about the bankrupt's tax
 affairs that are relevant to the bankruptcy.82
 
 Rule against double proofs
 [6.485] There cannot be two claims by a creditor in relation to its one debt. This
-is a signiﬁcant and well-established rule known as the rule against double proofs,
+is a significant and well-established rule known as the rule against double proofs,
 or more precisely, a "rule against double dividends" for the creditor.83 If this were
 not the rule "a creditor could always manage, by getting his debtor to enter into
 several distinct contracts with different people for the same debt, to obtain higher
@@ -2574,7 +2574,7 @@ are in respect of the same debt will depend on substance and not form.
 A surety who guarantees only part of a debt is not subject to the rule against double
 proofs if they have paid their guaranteed amount in full.87 However, the more
 common situation is for guarantee contracts to provide that the surety guarantees
-the entire debt even if their individual liability is limited to a speciﬁc sum. In such
+the entire debt even if their individual liability is limited to a specific sum. In such
 a case, the rule against double proofs will apply to the surety even where they have
 paid to the creditor their entire amount guaranteed.88
 The rule was applied in a case where partnership creditors had lodged proofs of
@@ -2591,7 +2591,7 @@ claims arising from tort or breach of trust: see Verge v Devere Holdings Pty Ltd
 [2010] FCA 653.
 
 Set-off
-[6.490] If a creditor and the bankrupt had mutual ﬁnancial dealings, such that
+[6.490] If a creditor and the bankrupt had mutual financial dealings, such that
 each owed the other money, s 86 allows the creditor to set off against the debt
 which it is owed any sum which the creditor owes to the bankrupt. A creditor does
 not need to claim set-off as it is automatically applicable by force of the section.
@@ -2614,7 +2614,7 @@ The purpose of s 86 was explained in Gye v McIntyre [1991] HCA 60; (1991) 171 CL
   "Where there are genuine mutual debts, credits or other dealings, it would be unjust if the
   trustee in bankruptcy could insist upon having 100 cents in the dollar upon the whole of
   the debt owed to the bankrupt but at the same time insist that the bankrupt's debtor must
-  be satisﬁed with a dividend of some few cents in the dollar on the whole of the debt owed
+  be satisfied with a dividend of some few cents in the dollar on the whole of the debt owed
   by the bankrupt to him."
 It therefore can assist a creditor, at least in avoiding further losses from the
 bankruptcy of its debtor and it avoids what would otherwise be unfairness to the
@@ -2628,18 +2628,18 @@ Under s 86(3), the mechanics of set-off work this way:
   trustee after the set-off – that is $20,000.
 If this were not the case the creditor would have to pay their debt in full to the
 trustee and then only be able to claim a dividend in respect of the debt owed by the
-bankrupt. In the ﬁrst example, the creditor would otherwise have to pay the trustee
+bankrupt. In the first example, the creditor would otherwise have to pay the trustee
 $60,000, and lodge a proof for $100,000 from which a minimal or no dividend might
 be paid. This would be an unfair outcome.
 The term "dealings" in s 86 is given a broad ambit although it applies to matters
-having more of a a commercial or business ﬂavour: Gye v McIntyre (1991) 171 CLR
+having more of a a commercial or business flavour: Gye v McIntyre (1991) 171 CLR
 609. It includes debts or liabilities which are present or future, certain or contingent,
-ﬁxed or liquidated or capable of being ascertained, provided that the right to the
+fixed or liquidated or capable of being ascertained, provided that the right to the
 claim and the corresponding liability existed at the date of bankruptcy: Stein v Blake
 [1995] 2 WLR 710.
 While s 86 is self-executing, in the sense that it produces a balance which is the
 amount only that can be claimed in the bankruptcy, that balance may remain to be
-quantiﬁed in litigation between the parties: Fortress Credit Corporation (Australia) II
+quantified in litigation between the parties: Fortress Credit Corporation (Australia) II
 Pty Ltd v Fletcher [2015] NSWCA 85.
 Limits on set-off
 [6.495] There are limits to a creditor availing itself of a set-off. First, where a
@@ -2686,7 +2686,7 @@ entitled to rely on Section 117 in respect of a claim against a director for ins
 trading, for which the director claimed indemnity from his insurer.
 
 Secured creditors
-[6.505] A secured creditor is deﬁned in s 5 as one who holds a perfected PPSA
+[6.505] A secured creditor is defined in s 5 as one who holds a perfected PPSA
 security interest or holds "a mortgage, charge or lien on property of the debtor as a
 security for a debt due from the debtor".
 A secured creditor has two rights – a right of action against the property over
@@ -2730,7 +2730,7 @@ As an example, if the property over which a creditor has security is worth $100,
 an unsecured creditor for $10,000. However, if the creditor estimated the value of
 the security as only $60,000 they would then seek to prove for $50,000 (the
 difference between the estimate and the claim).
-The trustee may, if dissatisﬁed with the estimate, require the secured property to be
+The trustee may, if dissatisfied with the estimate, require the secured property to be
 offered for sale: s 91(2).
 A creditor who lends money to a person for the purchase of any personal property
 may take a security interest in that asset. As long as the interest is registered on the
@@ -2740,9 +2740,9 @@ other secured creditors, and as against the trustee in bankruptcy.
 
 Purchased debt
 [6.510] A person may purchase from a creditor a debt owed to that creditor.
-Collection houses or ﬁnance companies will often purchase unpaid or "delinquent"
+Collection houses or finance companies will often purchase unpaid or "delinquent"
 debt from credit providers. The purchaser then assumes the obligations and
-beneﬁts of the original credit provider through managing the collection of these
+benefits of the original credit provider through managing the collection of these
 accounts. In a bankruptcy of the debtor, such a creditor can vote only for the value
 paid for the debt, not the original amount of the debt: IPSB, s 75-80, IPRB, s 75-110.
 [6.515]                                                  6 Administration of the Bankruptcy   279
@@ -2764,11 +2764,11 @@ FCR 93) but often it will be lodged in response to the trustee's call for proofs
 view to a dividend being paid. The trustee may also make such a call when a
 meeting of creditors is imminent and voting rights must be determined or when the
 trustee wants to know the extent of claims against the estate.
-There is no process of informal proof, but a proof does not have to be veriﬁed by a
+There is no process of informal proof, but a proof does not have to be verified by a
 formal statutory declaration unless the trustee requests it: s 84(3). The proof of debt
 must be in accordance with the approved form: s 84(2)(b) (AFSA Form 8). It must
 contain the particulars of the debt and refer to any documents (such as invoices)
-supporting the claim: s 84(2). The trustee may require a proof to be veriﬁed by
+supporting the claim: s 84(2). The trustee may require a proof to be verified by
 statutory declaration: s 84(4).
 When in receipt of proofs the trustee must admit the proof in whole; admit it in
 part and reject it in part; reject it in whole; or the trustee may require further
@@ -2799,7 +2799,7 @@ would assess evidence: James v Woodgate [2012] FMCA 1214; (2012) 273 FLR 22.
 
 Challenges to a trustee's decision on a proof of debt
 [6.520] If the trustee decides to reject the proof wholly or in part, the creditor
-must be informed in writing of the grounds for the rejection: s 102(2). A dissatisﬁed
+must be informed in writing of the grounds for the rejection: s 102(2). A dissatisfied
 creditor may request the trustee to reconsider, and the trustee may revoke the
 original decision: s 102(4).
 If the trustee does not amend the decision the creditor may apply to the court to
@@ -2810,7 +2810,7 @@ International Pty Ltd v Prentice [2002] FCA 604.90 It will be relevant if the es
 not been distributed so that there is no prejudice to the other creditors if the
 extension of time is granted: Official Trustee in Bankruptcy v Pastro [2004] FCA 713;
 (2004) 2 ABC (NS) 257.
-The court's power under s 104 is to conﬁrm, reverse or vary the trustee's decision
+The court's power under s 104 is to confirm, reverse or vary the trustee's decision
 on the proof of debt. It is not the function of the court to consider the correctness or
 otherwise of the trustee's decision in the light of the material before the trustee, but
 to determine in light of the material before the court whether the applicant for
@@ -2823,7 +2823,7 @@ DISTRIBUTION OF THE ESTATE TO CREDITORS
 [6.525] Naturally, the distribution of the estate, that is the realisations of assets
 and any monetary or other recoveries, is a main concern of the creditors. It also
 constitutes one of the major tasks of a trustee. The trustee will, once the estate is
-ﬁnalised, pay a ﬁnal dividend to creditors, assuming funds are available to do so.
+finalised, pay a final dividend to creditors, assuming funds are available to do so.
 However, during the course of the administration of the estate the trustee will
 realise assets and often the trustee will pay interim dividends. Section 140(1)
 ultimately requires trustees to declare and pay dividends "with all convenient
@@ -2841,9 +2841,9 @@ priority creditors. These are creditors who are given, under the Act or under a 
 [6.530]                                                        6 Administration of the Bankruptcy      281
 
 order, a priority for the repayment of their debts. Such creditors will be considered
-at [6.450]. Once priority creditors have been satisﬁed in full, the balance of the
+at [6.450]. Once priority creditors have been satisfied in full, the balance of the
 estate is distributed to the unsecured creditors.
-If the bankrupt has not ﬁled a statement of affairs, but the trustee has been able to
+If the bankrupt has not filed a statement of affairs, but the trustee has been able to
 realise assets and determine who are the creditors, leave of the court must be
 obtained under s 146 to pay dividends..
 This process provides judicial oversight of the administration where there is
@@ -2859,15 +2859,15 @@ want to engage with the bankruptcy process": Barnet v Zhang [2017] FCA 924.
 Consistent with that, there is no need to serve the bankrupt or name them as a
 party.
 The outcome of this is that the person is not discharged from their bankruptcy at
-all, or unless and until they ﬁle their statement of affairs: s 149(4). However, if a
-statement of affairs is ﬁled but is not complete, no s 146 order is necessary: Nicols v
+all, or unless and until they file their statement of affairs: s 149(4). However, if a
+statement of affairs is filed but is not complete, no s 146 order is necessary: Nicols v
 Geekie [2007] FMCA 1576; (2007) 214 FLR 188. However that may raise separate
 issues as to whether the bankrupt has complied with their obligation under s 54 to
-ﬁle the statement: see [6.30].
+file the statement: see [6.30].
 Dividends can only be paid to creditors who have proved their debts: s 140(1).
-Before the ﬁrst dividend is declared, the trustee is required to give written notice to
+Before the first dividend is declared, the trustee is required to give written notice to
 any creditor who has not yet lodged a proof giving them a reasonable period to do
-so: s 140(3), (4). When a ﬁnal dividend is to be declared notice must also be given to
+so: s 140(3), (4). When a final dividend is to be declared notice must also be given to
 creditors but the trustee may pay the dividend without regard to any debt that has
 not been proved: s 145. It has been said of a liquidator, and no less a trustee, that
 the duty is "… not merely to advertise for creditors, but to write to the creditors of
@@ -2922,13 +2922,13 @@ Section 109 priority payments
 [6.540]     Section 109 commences:
    "[s]ubject to this Act, the trustee must, before applying the proceeds of the property of the
    bankrupt in making any other payments, apply those proceeds in the following order: …"
-It then lists those priority payments to be satisﬁed before unsecured creditors
+It then lists those priority payments to be satisfied before unsecured creditors
 receive any dividends. Often the priority payments dealt with in s 109 exhaust the
 total funds available and the ordinary unsecured creditors receive nothing.
 
 93 See IGPD20 – Guidelines for the payment of monies to the Commonwealth pursuant to Section 254 of the
    Bankruptcy Act 1966.
-94 See Corporations Act, Pt 9.7. See [15.335]. This deﬁciency in bankruptcy is proposed to be remedied
+94 See Corporations Act, Pt 9.7. See [15.335]. This deficiency in bankruptcy is proposed to be remedied
    by Schedule 5 to the Bankruptcy Amendment (Debt Agreement Reform) Bill 2018 (exposure draft,
    January 2018), by allowing the Official Receiver to determine applications for unclaimed moneys,
    subject to court review.
@@ -2943,17 +2943,17 @@ given the fact that we now have a developed and sophisticated social welfare
 system to take care of those in need.95 Nevertheless, the priority remains and in fact
 is supplemented by the Fair Entitlements Guarantee (FEG), the Government-
 funded arrangement providing payments to employees of insolvent businesses up
-to certain limits.96 The Government takes the beneﬁt of – is subrogated to – the
+to certain limits.96 The Government takes the benefit of – is subrogated to – the
 employee's entitlement to any dividend out of the bankruptcy.
 Section 109 provides for a number of priorities and only the major ones will be
 mentioned here. For ease of consideration the matters will be referred to in the
 order in which they are found in s 109.
 
 Costs and expenses of administration: s 109(1)(a)
-[6.545] This section is the ﬁrst priority and it includes the taxed costs of the
+[6.545] This section is the first priority and it includes the taxed costs of the
 petitioning creditor (if the bankruptcy arose through a sequestration order) and
 then the remuneration of the trustee. If there are insufficient funds to pay all of the
-items speciﬁed, reg 6.01 and Sch 3 apply and provide a scheme of priority
+items specified, reg 6.01 and Sch 3 apply and provide a scheme of priority
 payments. The major expenses are to be paid in the following order under Sch 3:
 • the expenses reasonably incurred by or on behalf of the trustee in protecting the
    assets of the bankrupt, carrying on of the bankrupt's business or by way of an
@@ -2976,7 +2976,7 @@ and subsequently the debtor has become a bankrupt.
 
 95 Harmer Report, [722].
 96 See Fair Entitlements Guarantee Act 2012 (Cth).
-97 Under the Courts' Bankruptcy Rules, Pt 13, Div 13.2, these costs may be claimed in a ﬁxed amount
+97 Under the Courts' Bankruptcy Rules, Pt 13, Div 13.2, these costs may be claimed in a fixed amount
    found in Sch 3 to the Federal Court Rules 2011 (Cth), being $2,426 (as at 2018) plus the costs of
    adjournments.
 284      Keay's Insolvency: Personal and Corporate Law and Practice                               [6.555]
@@ -2990,7 +2990,7 @@ priority trustees might be reluctant to agree to take on Pt X administrations,
 because if the debtor were to go bankrupt, trustees would have no priority in
 relation to the payment of their remuneration and expenses. However, for reasons
 of policy or otherwise, the remuneration of an interim trustee appointed under s 50
-is given no priority, nor is there any mechanism for their remuneration to be ﬁxed
+is given no priority, nor is there any mechanism for their remuneration to be fixed
 otherwise than by the court.98
 Wages of employees of the bankrupt – s 109(1)(e)
 [6.560] The amount claimable by an employee on account of unpaid wages is
@@ -3005,18 +3005,18 @@ Priorities in favour of certain creditors – s 109(1)(j)
 [6.565] Priorities in favour of a creditor or group of creditors may be agreed by a
 special resolution at a meeting of creditors, or for costs incurred by a trustee before
 the date of the bankruptcy: s 109(1)(j). The meeting notice must contain a copy of
-the speciﬁc proposed resolution: IPSB, s 75-137.
+the specific proposed resolution: IPSB, s 75-137.
 Payment must be delayed for 28 days during which period any creditor or the
 bankrupt can apply to the court to have the decision reversed: s 109(8), (9).
 Court ordered priority – s 109(10)
 [6.570] We have seen that s 109(10) permits the court to provide a higher
-dividend return to a creditor where that creditor has indemniﬁed the trustee in
+dividend return to a creditor where that creditor has indemnified the trustee in
 respect of legal costs. In making such an order, the court is displacing the priorities
 we have been discussing. See [6.365].
 Claims to which s 109 is subject
 [6.575] Section 109 provides that it operates "[s]ubject to this Act", that is, subject
 to any other provisions that may override it. This preserves the discretionary power
-of the court under s 32 to make any orders as to costs as it thinks ﬁt: Kerr (Trustee),
+of the court under s 32 to make any orders as to costs as it thinks fit: Kerr (Trustee),
 in the matter of Cross (Bankrupt) v Bechara (No 2) [2015] FCA 444.
 That discretion may be exercised to direct a trustee not to admit a proof of debt that
 arises out of unlawful conduct. In Perthmetro Pty Ltd (in liq) [2015] FCA 671, the
@@ -3041,20 +3041,20 @@ REPORTING
 [6.585] IPSB, s 70-5 requires a trustee to give the Inspector-General an annual
 administration return (AAR) in relation to each bankrupt estate administered
 during the year. The return must be given within 25 business days after the end of
-the ﬁnancial year. This legal requirement is addressed by AFSA's AAR Online,
-which allows trustees to lodge their returns at any time, such as upon ﬁnalisation,
-or at the end of the ﬁnancial year. It also shows details of all of the estates of a
+the financial year. This legal requirement is addressed by AFSA's AAR Online,
+which allows trustees to lodge their returns at any time, such as upon finalisation,
+or at the end of the financial year. It also shows details of all of the estates of a
 trustee, and allows realisations and interest charge payments, among other things.
 The AAR provides the Inspector-General with necessary information relating to the
 operation of the Act generally, as well as the trustee's compliance with it, in relation
-to speciﬁc estates.
-There are various reporting and ﬁling requirements under the Act many of which
+to specific estates.
+There are various reporting and filing requirements under the Act many of which
 are the subject of penalty for non-compliance. IGPS 7 – Annual estate returns (AERs,
 sets out details of the processing and timelines of the returns.
 
 ADMINISTRATION OF DECEASED BANKRUPT ESTATES
 [6.590] Pt XI deals with the bankrupt estates of deceased persons. The term
-"legal personal representative" is deﬁned to generally mean the executor appointed
+"legal personal representative" is defined to generally mean the executor appointed
 under the deceased's will or, where there is no will, the administrator appointed
 under letters of administration or court order.99
 On an order being made under Pt XI of the Act, on the petition of either the creditor
@@ -3080,7 +3080,7 @@ commencement of the bankruptcy for deceased estates, depending on the
 circumstances outlined in s 247A.
 If the deceased was insolvent on the day of death and had committed any act of
 bankruptcy within the six-month period before death, the date of commission of
-the ﬁrst of those acts of bankruptcy is the date of commencement of the
+the first of those acts of bankruptcy is the date of commencement of the
 administration under either s 244 or s 247. If in that situation there was no act of
 bankruptcy, the date of death is the commencement date of the administration.
 If the deceased was solvent at the time of death, the administration is deemed to
@@ -3128,7 +3128,7 @@ Schedule and Rules.
 The trustee will carry out similar procedures and the deceased is treated as if he or
 she were alive and bankrupt, being represented by the legal personal representative.
 For this purpose, many of the general provisions of the Bankruptcy Act are made
-applicable to Pt XI administrations by s 248. These general provisions are modiﬁed
+applicable to Pt XI administrations by s 248. These general provisions are modified
 for the purposes of deceased estates pursuant to reg 11.02 and Sch 7 of the
 Bankruptcy Regulations. So, examinations under s 81 are available, as are the
 voidable transaction provisions in ss 120 – 122. Part VI, dealing with debts provable
@@ -3136,7 +3136,7 @@ in bankruptcy, manner of proofs of debts, and mutual credit and set-off apply, a
 ss 109 – 110, 113 – 114, relating to creditor priorities. Proper funeral and
 testamentary expenses have a priority under s 109(1)(d). Sections 115 and 116,
 relating to relation back and the commencement of the bankruptcy do not apply,
-Pt XI having its own speciﬁc provisions for these, although many of the exclusions
+Pt XI having its own specific provisions for these, although many of the exclusions
 from divisible property in s 116(2) do in fact apply.
 In the same way as under s 58(3), s 249(3) prevents a creditor from seeking to
 enforce any remedy against the deceased estate in respect of a provable debt, or to,
@@ -3156,7 +3156,7 @@ remainder of the debt.101
 The trustee of an insolvent deceased estate becomes liable, like a legal personal
 representative, for compliance with State or Territory laws regulating deceased
 estates, for example as to registration of the probate and transmitting title to
-property, except to the extent that these laws conﬂict with bankruptcy requirements.
+property, except to the extent that these laws conflict with bankruptcy requirements.
 The "end of an administration" under Pt XI is the day three years after the day on
 which the administration is taken to have commenced under Bankruptcy Act,
 
@@ -3185,7 +3185,7 @@ Bankruptcy      Part VI – Administration of Property – ss 82 – 147
 Act             Part XI – Administration of Estates of Deceased Persons in Bankruptcy
 Bankruptcy      Part 6 – Administration of Property – regs 6.01 – 6.22
 Regulations     Part 11 – Administration of Estates of Deceased Persons in Bankruptcy;
-                Schedule 7 – Modiﬁcations under Part XI of the Act – Administration of
+                Schedule 7 – Modifications under Part XI of the Act – Administration of
                 Estates of Deceased Persons
 AFSA            IGPD2 – Collection of realisations and interest charges
                 IGPD9 – Standards for trustees and controlling trustees

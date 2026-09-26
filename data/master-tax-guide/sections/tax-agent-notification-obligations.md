@@ -5,11 +5,11 @@ section: "tax-agent-notification-obligations"
 title: "Tax agent notification obligations"
 paragraph: "¶32-040"
 ---
-# Tax agent notiﬁcation obligations ¶32-040
+# Tax agent notification obligations ¶32-040
 
 - a registered tax agent ceases to meet one of the "tax practitioner registration requirements" (ie
 
-  one of the matters as to which the TPB must be satisﬁed in order to grant registration)
+  one of the matters as to which the TPB must be satisfied in order to grant registration)
 
 - an event listed at ¶32-025 occurs in relation to an individual registered tax agent, an individual
 
@@ -31,7 +31,7 @@ paragraph: "¶32-040"
 
   company (TASA s 30-35).
 
-A registered tax agent must notify the TPB if he or she has reasonable grounds to believe that either he or she or another registered tax agent has signiﬁcantly breached (as deﬁned) the Code on or after 1 July 2024 (¶32-045).
+A registered tax agent must notify the TPB if he or she has reasonable grounds to believe that either he or she or another registered tax agent has significantly breached (as defined) the Code on or after 1 July 2024 (¶32-045).
 
 *Refs: s 30-35)*
 

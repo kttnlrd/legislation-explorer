@@ -19,7 +19,7 @@ Introduction to Insolvency – the
 [1.35] How is insolvency relevant? ................................................................................. 9
 [1.40] Retrospective and current insolvency ................................................................. 9
 [1.45] Tests of insolvency ................................................................................................ 11
-    [1.50] Cash ﬂow ........................................................................................................................... 11
+    [1.50] Cash flow ........................................................................................................................... 11
     [1.55] Balance sheet ..................................................................................................................... 11
     [1.160] Indicators ......................................................................................................................... 25
 [1.165] Debts v claims ..................................................................................................... 27
@@ -89,13 +89,13 @@ In modern times, in the case of the collapse of complex corporate structures, th
 unravelling and accounting for what can be substantial losses would be absent, a
 [1.15]                           1 Introduction to Insolvency – the Law, Policy and Current Issues      5
 
-harmful outcome for public conﬁdence in investment in industry and technology,
+harmful outcome for public confidence in investment in industry and technology,
 and in fairness, and in the perception of economic integrity.
 None of this is to suggest that, while insolvency comes into operation at these times
 of crisis, it offers a solution and redress or a panacea for all wrongs or misfortunes.
 This is certainly not the case for all creditor losses, or employees without jobs, or
 suppliers unpaid, or for the sense of injustice often felt by those harmed that the
-perpetrators, if any, or beneﬁciaries of the failure will be pursued and moneys
+perpetrators, if any, or beneficiaries of the failure will be pursued and moneys
 recouped. Insolvency is there to do the best it can, but, in simple terms, money
 cannot be got from a stone. To suggest otherwise serves only to reinforce what is an
 on-going community misconception of what the aims and purposes are of the
@@ -147,8 +147,8 @@ Australia, with the Family Court of Australia also having some jurisdiction.
 Corporate insolvency is governed by the Corporations Act, including Corporations
 Schedule 2, and the rules, and the Corporations Regulations 2001 (Cth), with the
 regime regulated by the Australian Securities and Investments Commission (ASIC),
-among its many other responsibilities. Signiﬁcant corporate insolvency jurisdiction
-is conferred speciﬁcally on the "Courts" set out in s 57AA of the Corporations Act,
+among its many other responsibilities. Significant corporate insolvency jurisdiction
+is conferred specifically on the "Courts" set out in s 57AA of the Corporations Act,
 being the Federal Court of Australia, the Supreme Courts of all the States and
 Territories and the Family Court of Australia. However, the Corporations Act also
 gives jurisdiction to "courts" more generally, being any courts, including lower
@@ -168,11 +168,11 @@ ARITA (the Australian Restructuring Insolvency and Turnaround Association,
 formerly the Insolvency Practitioners Association (IPA)) is the professional body
 representing the majority of liquidators and trustees, as well as lawyers and other
 advisers.3 The Association of Independent Insolvency Practitioners (AIIP) is a new
-group representing the smaller ﬁrms of trustees and liquidators. The Personal
+group representing the smaller firms of trustees and liquidators. The Personal
 Insolvency Practitioners Association (PIPA) represents debt agreement
 administrators. The Turnaround Management Association (TMA) focuses more on
 corporate pre-insolvency restructuring, workouts and turnarounds for businesses
-in ﬁnancial difficulties. The Law Council of Australia, the peak body of lawyers, has
+in financial difficulties. The Law Council of Australia, the peak body of lawyers, has
 an Insolvency and Restructuring Law Committee of senior insolvency lawyers. As
 
 3 See http://www.arita.com.au. See also APES 330 – Insolvency Services, at http://www.apesb.org.au.
@@ -202,17 +202,17 @@ the interaction of bankruptcy with family law. These are set out in the 9th edit
 this text and we do not repeat them.
 Since 2016, in bankruptcy, the obvious recent change has been through the ILRA.
 Pending reforms, in particular in relation to the one-year period of bankruptcy, and
-debt agreements, are signiﬁcant.
+debt agreements, are significant.
 Corporate insolvency changes over the last 20 years have not been as extensive,
 following the major changes in 1993 based on the Harmer Report, and again in
 2007. Particular legislative change was made in relation to the rights of
 shareholders, following the High Court's decision in Sons of Gwalia v Margaretic
-[2007] HCA 1. The ILRA has had a more signiﬁcant impact on corporate insolvency
+[2007] HCA 1. The ILRA has had a more significant impact on corporate insolvency
 than on personal insolvency, largely because the Act introduced into corporate
 insolvency many of the processes of bankruptcy law – the registration and
 misconduct processes, voting mechanisms, the replacement of liquidators and
 more. The safe harbour reform under s 588GA, which commenced in August 2017,
-is very signiﬁcant, as is the restriction on ipso facto termination rights, commencing
+is very significant, as is the restriction on ipso facto termination rights, commencing
 1 July 2018.
 Although the over-regulatory focus of the ILRA is to be criticised, one advantage is
 that it at least provides common terms and provisions between personal and
@@ -227,8 +227,8 @@ wider in scope than that available under the former directions provisions should
 8     Keay's Insolvency: Personal and Corporate Law and Practice                           [1.30]
 
 apply generally. Similarly, a common provision that on its face gives a very wide
-power of the court to make orders "as it thinks ﬁt", under IPSB, s 90-15(3)(f) has
-been held to be limited by the availability of a more speciﬁc remedy in Div 90:
+power of the court to make orders "as it thinks fit", under IPSB, s 90-15(3)(f) has
+been held to be limited by the availability of a more specific remedy in Div 90:
 Andersen v Lennon [2017] FCCA 2452.
 Cross-references between the law of corporate and personal insolvency feature
 throughout this text.
@@ -237,8 +237,8 @@ MEANING OF INSOLVENT AND INSOLVENCY
 meaning. This will be relevant to numerous issues arising later in this book where
 insolvency is in issue. Again, these have been dealt with in detail in the 9th edition
 of this book. We present a more concise analysis here.
-Both the Bankruptcy Act and the Corporations Act deﬁne the term "insolvent". The
-Corporations Act, s 95A contains a deﬁnition of "solvent" and indirectly this
+Both the Bankruptcy Act and the Corporations Act define the term "insolvent". The
+Corporations Act, s 95A contains a definition of "solvent" and indirectly this
 provides a test of insolvency. The section states that:
     (1) A person is solvent if, and only if, the person is able to pay all the person's debts, as
         and when they became due and payable.
@@ -252,7 +252,7 @@ was given by Barwick CJ in Sandell v Porter (1966) 115 CLR 666. These resources:
     "extend to moneys which he can procure by realization by sale or by mortgage or pledge
     of his assets within a relatively short time – relative to the nature and amount of the debts
     and to the circumstances, including the nature of the business, of the debtor. The
-    conclusion of insolvency ought to be clear from a consideration of the debtor's ﬁnancial
+    conclusion of insolvency ought to be clear from a consideration of the debtor's financial
     position in its entirety and generally speaking ought not to be drawn simply from
     evidence of a temporary lack of liquidity. It is the debtor's inability, utilizing such cash
     resources as he has or can command through the use of his assets, to meet his debts as
@@ -267,7 +267,7 @@ WAR 1 at [1090]. That time frame is variable, depending on the debt and the natu
 of the company, and must be balanced against the fact that the creditor should not
 be obliged to wait too long for payment of its debt.4
 Insolvency is necessarily the state of being insolvent. While this is a simple
-deﬁnition, there can be some complexity in its application to the circumstances of a
+definition, there can be some complexity in its application to the circumstances of a
 particular company or individual.
 
 4 Powell v Fryer [2001] SASC 59; (2001) 37 ACSR 589 at [75].
@@ -290,7 +290,7 @@ debtor is insolvent. Insolvency may only need to be proved if there is a challen
 a prior transaction, which has the fact of insolvency as a necessary element to any
 challenge. Even then, it can be agreed or presumed to have existed even if other
 elements of any claim remain in contest.
-But when the need for formal proof of insolvency does arise, it can be a signiﬁcant
+But when the need for formal proof of insolvency does arise, it can be a significant
 factual and legal issue. While insolvency as such is not a condition to which legal
 sanctions apply – it is of itself not a criminal or civil offence to be insolvent – if a
 person or a company is insolvent it may precipitate the initiation of some form of
@@ -298,7 +298,7 @@ insolvency administration – bankruptcy or liquidation, or serve to impose some
 liability, for example on the bankrupt or on third parties, to repay moneys, or cause
 directors to be liable for the company's debts.
 As an example, a transaction can be voidable as an undervalued transaction in the
-period ﬁve to two years before bankruptcy, but only if the bankrupt was insolvent
+period five to two years before bankruptcy, but only if the bankrupt was insolvent
 at that time. If a company is insolvent and the company continues to incur debts,
 the directors may be personally liable for those debts.
 
@@ -318,7 +318,7 @@ also by reference to its ability to pay debts which will fall for payment someti
 the near future.
 10     Keay's Insolvency: Personal and Corporate Law and Practice                                [1.40]
 
-In the case of retrospective insolvency the Court has the beneﬁt of hindsight in
+In the case of retrospective insolvency the Court has the benefit of hindsight in
 determining whether as at the alleged date of insolvency the company was, or was
 not, actually paying all of its debts as they fell due. This task is often the less
 difficult.
@@ -343,17 +343,17 @@ bring in a need to examine future or expected assets of the company or the
 individual. The relevance of contingent liabilities arises in relation to long-tail
 liabilities arising out of medical claims, in particular from exposure to asbestos,
 where the time period from the exposure to the illness can be years or decades. The
-unexpected later discovery of a liability, or later quantiﬁcation of a liability at an
+unexpected later discovery of a liability, or later quantification of a liability at an
 unexpected level, may well occur, but at the earlier time it was properly excluded
 from consideration because it was not reasonably known or was assessed at a lesser
 amount. Environmental claims raise similar issues.
 The assessment of insolvency retrospectively can be difficult to make, increasingly
 so the further back in time the assessment needs to be made. A reconstruction of the
-company's ﬁnancial position is required, often using limited or incomplete or
+company's financial position is required, often using limited or incomplete or
 inaccurate records of the insolvent, which is made more difficult the further back in
 time the assessment is required to go. However, in making a retrospective
-assessment, the court will have the beneﬁt of hindsight applied to what were at the
-time future ﬁnancial uncertainties.
+assessment, the court will have the benefit of hindsight applied to what were at the
+time future financial uncertainties.
 The distinction between retrospective and current assessments will be referred to as
 insolvency arises as an issue in particular parts of this book.
 
@@ -370,43 +370,43 @@ Tests of insolvency
 [1.45] With those comments, we now examine the process of assessment of
 whether a company or individual is insolvent. There are two primary tests that are
 generally used to determine whether any person or company is solvent: they are
-the "cash ﬂow" or "commercial" insolvency test on the one hand; and the "balance
+the "cash flow" or "commercial" insolvency test on the one hand; and the "balance
 sheet" or "absolute" insolvency test on the other.
 
-Cash ﬂow
-[1.50] Under the cash ﬂow test a person (or company) is generally regarded as
+Cash flow
+[1.50] Under the cash flow test a person (or company) is generally regarded as
 insolvent when there exists an inability to pay all the person's or company's debts
 as and when they become due and payable. This means that there is insufficient
 cash or other realisable resources available to pay all creditors at the various times
-they can demand payment. As we have explained, it is the test deﬁned in s 95A of
+they can demand payment. As we have explained, it is the test defined in s 95A of
 the Corporations Act and s 5(2) – (3) of the Bankruptcy Act.
 
 Balance sheet
 [1.55] Under the balance sheet test, a person or company is insolvent if the total
 liabilities outweigh the value of the assets and therefore there are insufficient assets
 to discharge the liabilities. A business might be commercially insolvent and fail the
-cash ﬂow test but be asset sufficient and therefore able to satisfy the balance sheet
+cash flow test but be asset sufficient and therefore able to satisfy the balance sheet
 test; its creditors may, however, wait some time for payment. From the perspective
-of the cash ﬂow test, that is not good enough.
+of the cash flow test, that is not good enough.
    "… it is useless to say that if [a company's] assets are realized there will be ample to pay
    20 shillings in the pound: this is not the test. A company may be at the same time
    insolvent and wealthy. It may have wealth locked up in investments not presently
    realisable; but although this be so, yet if it have not assets available to meet its current
    liabilities it is commercially insolvent …"10
-Similarly, a business may be solvent from a cash ﬂow point of view even though its
+Similarly, a business may be solvent from a cash flow point of view even though its
 liabilities are greater than its assets. That may not be a problem if, for example, the
-business generates signiﬁcant cash ﬂow from sales or services provided; or, as the
+business generates significant cash flow from sales or services provided; or, as the
 High Court explained in Sandell v Porter (1966) 115 CLR 666, other resources are
 available to be promptly realised in order to make the due payment.
-The cash ﬂow test can be more imprecise in its application, necessarily because the
-focus is on the more indeterminate cash ﬂow or access to cash, or readily saleable
+The cash flow test can be more imprecise in its application, necessarily because the
+focus is on the more indeterminate cash flow or access to cash, or readily saleable
 assets and its capacity at any one time to meet liabilities requiring payment, rather
 than on assets and liabilities. Hence the decision about whether a company on a
 particular day was insolvent is often a difficult and imprecise one.
 With the balance sheet test the problem lies with what can be imprecision in
 relation to the valuation of assets, and how they are treated in accounting terms. As
 well, it can be difficult to estimate the value of some liabilities, in particular
-unquantiﬁed existing liabilities and contingent and future liabilities.11
+unquantified existing liabilities and contingent and future liabilities.11
 
 10 From Re Tweed Garages Ltd [1962] Ch 406, 410, quoting from Buckley on the Companies Acts.
 11 See further, Margret, "Insolvency and Tests of Insolvency: An Analysis of the 'Balance Sheet' and
@@ -417,7 +417,7 @@ Overall, it has been suggested that an assessment of insolvency on either test
 should generally give the same answer.12
 Both tests have been used in the law in Australia and other common law countries,
 including England, New Zealand and the United States of America.13 However,
-despite this, cash ﬂow test insolvency is the form of insolvency that must be
+despite this, cash flow test insolvency is the form of insolvency that must be
 applied under the legislation: Crema Pty Ltd v Land Mark Property Developments Pty
 Ltd [2006] VSC 338; (2006) 58 ACSR 631.
 A further issue is that there needs to be some continuing inability to pay. It is going
@@ -448,15 +448,15 @@ indicators include:
    2015). That paper refers to a third test, "capital adequacy", referring to JB Heaton, "Solvency Tests",
    The Business Lawyer (May 2007), pp 983-1006.
 13 In England, s 123 of the Insolvency Act 1986 (UK) variously describes when a company will be
-   deemed "unable to pay its debts", including the Australian cash ﬂow test, and a balance sheet test if
+   deemed "unable to pay its debts", including the Australian cash flow test, and a balance sheet test if
    "the value of the company's assets is less than the amount of its liabilities, taking into account its
    contingent and prospective liabilities". See BNY Corporate Trustee Services v Eurostar-UK [2013] UKSC
    28.
 14 See, for example, Clifton v Kerry J Investment Pty Ltd trading as Clenergy [2017] FCA 1379.
 15 Iso Lilodw' Aliphumeleli Pty Ltd v Commissioner of Taxation [2002] NSWSC 644; (2002) 42 ACSR 561.
 16 A current assets/current liabilities ratio measures the ability of a business to pay its debts as they fall
-   due. "Current" usually is deﬁned as within one year. The ratio depends on the type of business, but
-   generally it should be at least 2:1. A lower current ratio can indicate cash ﬂow insolvency, and while
+   due. "Current" usually is defined as within one year. The ratio depends on the type of business, but
+   generally it should be at least 2:1. A lower current ratio can indicate cash flow insolvency, and while
    a higher ratio supports the company's solvency, it may also mean, from a business perspective, that
    its cash and safe investments could be put to better use in the business.
 [1.165]                        1 Introduction to Insolvency – the Law, Policy and Current Issues    13
@@ -465,7 +465,7 @@ indicators include:
 • dishonoured, post-dated or rounded sum cheques;
 • special arrangements with selected creditors;
 • enforcement action taken by creditors;
-• inability to produce timely and accurate ﬁnancial information.
+• inability to produce timely and accurate financial information.
 These indicators have been applied in various cases.17 They are, however, mere
 indicators of insolvency and do not operate as a list of issues that needs to be
 established in order to prove insolvency. Insolvent companies may illustrate one or
@@ -477,14 +477,14 @@ incapacity to pay, for the late payment: Hussain v CSR Building Products Ltd [20
 FCA 392; Treloar Constructions Pty Limited v McMillan [2017] NSWCA 72.
 Ultimately, the determination of insolvency is "usually conclusionary in nature"
 but it is "rarely a matter of straightforward proof". There needs to be an
-examination of the ﬁnancial condition of the company over a period of time, the
-identiﬁcation of the typical symptoms of insolvency; and then the determination of
+examination of the financial condition of the company over a period of time, the
+identification of the typical symptoms of insolvency; and then the determination of
 the fact of insolvency.18
 
 Debts v claims
 [1.165]    Section 95A of the Corporations Act uses the term "debts" rather than
 "claims", in contrast to other provisions in the Acts which generally include both
-debts and claims (such as s 553).19 A debt may be deﬁned as liquidated sum in
+debts and claims (such as s 553).19 A debt may be defined as liquidated sum in
 money which is due from the debtor to the creditor.20 The term "liquidated sum"
 refers to a debt of a precise amount. This may be contrasted with an unliquidated
 claim which requires the court to determine the amount of the debt payable. The
@@ -529,7 +529,7 @@ debtor, and the parties' usual business practice, where, for example, in an indu
 which is experiencing recession, "even though they would prefer people to stick to
 their 30 day terms it is better to have recalcitrant debtors than sell no product at
 all": Manpac Industries Pty Ltd v Ceccattini [2002] NSWSC 330; (2002) 20 ACLC 1304,
-1310. However, there must generally be a ﬁrm arrangement with each creditor for
+1310. However, there must generally be a firm arrangement with each creditor for
 an extension of terms of trade: Powell v Fryer [2001] SASC 59; (2001) 37 ACSR 589
 and the onus is on the debtor to show this: Southern Cross Interiors Pty Ltd v DCT
 [2001] NSWSC 621; (2001) 53 NSWLR 213.
@@ -564,11 +564,11 @@ The facts and circumstances of each person or company therefore have to be
 considered separately before one can say insolvency has occurred. This involves
 considering the nature of the debtor's business, the manner or method of payment
 of debts, the manner of obtaining credit and the nature of the assets of the debtor.
-In other words, the whole of the debtor's ﬁnancial position has to be considered.
+In other words, the whole of the debtor's financial position has to be considered.
 There is also a difference between a company's temporary illiquidity (lack of cash)
 and the "endemic shortage of working capital" cited earlier, "whereby liquidity can
 only be restored by a successful outcome of business ventures in which the existing
-working capital has been deployed".27 As Palmer J said in another case, "[t]he ﬁrst
+working capital has been deployed".27 As Palmer J said in another case, "[t]he first
 is an embarrassment, the second is a disaster".28 Illiquidity is not conclusive of
 insolvency nor is availability of assets conclusive of solvency.29
 But if the debtor can only pay the debt by way of selling off or breaking up its
@@ -579,7 +579,7 @@ Relevance of the ability to borrow unsecured
 [1.80] A debtor is solvent if it can borrow money to pay its debts, certainly by
 way of giving security, thereby changing the form of its real property into cash. But
 even an unsecured load, which simply replaces one debt with another, allows
-solvency.30 The former deﬁnition of "insolvency" included the words that the debt
+solvency.30 The former definition of "insolvency" included the words that the debt
 must be able to be paid "from the debtor's own moneys". Those words were
 omitted when s 95A of the Corporations Act was enacted. In a review of the law, and
 largely as a consequence of that change, the fact that the company can borrow
@@ -622,7 +622,7 @@ on a statutory presumption of insolvency. Thus a company is deemed to be
 insolvent if, during or after the three months ending on the day when an
 application for winding up was made, it fails to comply with the terms of a
 winding up demand issued under s 459E, or the execution process issued against
-the company on a judgment is returned wholly or partially unsatisﬁed, or a
+the company on a judgment is returned wholly or partially unsatisfied, or a
 receiver is appointed or security interests are enforced.
 In both cases, the debtor may challenge the presumptions, thereby bringing into
 consideration prospective insolvency.
@@ -631,9 +631,9 @@ bankruptcy hearing is also available in some instances to a liquidator or a trus
 That is, rather than being required to formally prove insolvency, in order to pursue
 recovery proceedings, insolvency will be presumed. Such presumptions are
 available in corporate insolvency under the Corporations Act, s 588E in relation to
-deﬁned "recovery proceedings" brought by a liquidator, including insolvent
+defined "recovery proceedings" brought by a liquidator, including insolvent
 trading, uncommercial transactions and preference recoveries. The presumption
-can arise, for example, if the company has failed to keep proper ﬁnancial records
+can arise, for example, if the company has failed to keep proper financial records
 under its obligations to do so under the Act. A similar presumption applies in
 bankruptcy, in relation to proceedings concerning undervalued transactions or
 transactions to defeat creditors.33
@@ -642,12 +642,12 @@ Recalcitrant or unwilling debtors
 [1.90] Finally, whether one is concerned with the affairs of a person or a
 company, the actual inability to pay debts must be distinguished from other
 reasons why debts have not been paid. The alleged debtor may refuse to pay, even
-though able to do so, because a bona ﬁde dispute exists about whether there is a
+though able to do so, because a bona fide dispute exists about whether there is a
 debt in fact owing, or as to the quantum of the debt. The debtor may have failed to
 
 33 Generally, there is a rebuttable presumption of insolvency if the former bankrupt had not kept or
    preserved such books and records as are usual and proper in relation to their business that were
-   sufficient to disclose their business transactions and ﬁnancial position: Bankruptcy Act, ss 120(3A)
+   sufficient to disclose their business transactions and financial position: Bankruptcy Act, ss 120(3A)
    and 121(4A).
 [1.100]                        1 Introduction to Insolvency – the Law, Policy and Current Issues      17
 
@@ -659,10 +659,10 @@ must rely on the general processes of the law in order to recover its debt. The
 insolvency courts have emphasised that they do not exist to assist creditors collect
 debts, although in practice the insolvency processes are often used for this
 purpose.35 As former Justice Michael Kirby observed, "the realities of this world are
-[that insolvency] is often the ﬁrst port of call".36
+[that insolvency] is often the first port of call".36
 It can also be added in this context that impecuniosity is no defence to a
 bankruptcy or winding up process, in both personal and corporate insolvency, as
-being an argument based upon futility. Corporations Act, s 467(2) speciﬁcally states
+being an argument based upon futility. Corporations Act, s 467(2) specifically states
 this, and, as well see in bankruptcy, such a defence is invariably refused.
 
 AIMS AND PURPOSES OF INSOLVENCY LAW
@@ -695,7 +695,7 @@ individual or a company – from undue claims by its creditors. This operates we
    Holdings Ltd [1990] 1 WAR 465.
 36 DCT v Broadbeach Properties Pty Ltd [2008] HCATrans 244.
 37 See, for example, the UNCITRAL Legislative Guide on Insolvency Law which "provides a
-   comprehensive statement of the key objectives and principles that should be reﬂected in a State's
+   comprehensive statement of the key objectives and principles that should be reflected in a State's
    insolvency laws": http://www.uncitral.org.
 18    Keay's Insolvency: Personal and Corporate Law and Practice                 [1.105]
 
@@ -703,7 +703,7 @@ perhaps because it is one of the more straightforward and more readily enforced
 aspect of its operations. The individual debtor is protected from creditor contact
 and demand, their assets come under the control and authority of the trustee, their
 personal assets have particular protection, and they no longer have the
-psychological and ﬁnancial pressure of trying to resolve their difficulties alone. In
+psychological and financial pressure of trying to resolve their difficulties alone. In
 corporate insolvency, the protection is given to the company and its assets; the
 protection for the directors is their limited liability, in the typical corporate
 structure, subject to personal guarantees, tax liabilities and other such potential
@@ -719,7 +719,7 @@ absolute, with the fact of having been through insolvency often remaining as an
 on-going impediment and stigma for the debtor.
 
 3. To support the rule of law
-[1.110] Both the ﬁrst two purposes contribute to a higher purpose, to support the
+[1.110] Both the first two purposes contribute to a higher purpose, to support the
 maintenance of the rule of law in providing an equal, fair and orderly procedure in
 handling the affairs of insolvent debtors in circumstances where there otherwise
 might be disorder, unfair retrieval of funds or assets and unlawful and criminal
@@ -764,7 +764,7 @@ claims elevated above unsecured creditors as a matter of law; employees are a
 legitimate and obvious example. We discuss this in more detail later in this chapter.
 
 7. To investigate and to provide accountability
-[1.130] Insolvency law also aims to ﬁnd out and explain why and how a
+[1.130] Insolvency law also aims to find out and explain why and how a
 company or individual became insolvent and whether any unlawfulness was
 involved. The investigation of an insolvency, inherently seen as one requiring
 explanation, is an important aim of insolvency law. The collected information
@@ -804,7 +804,7 @@ assessed.
 9. To assist in the restructuring of an insolvent business
 [1.140] It is perhaps odd to say that the insolvency regime, which this book
 explains, should be best avoided by a failing business. But that is only to say that
-the desirable outcome of such a business is to have its ﬁnancial difficulties attended
+the desirable outcome of such a business is to have its financial difficulties attended
 to earlier, rather than later. Insolvency law should be reserved for those inevitable
 cases where the legal attributes of the regime, in particular its protection from
 claims and rebalancing of rights, is needed. Insolvency law can be used to
@@ -854,8 +854,8 @@ debtor; or in some limited cases in corporate insolvency, by a regulator or othe
 government agency.
 That is, there is no separate activating trigger that initiates formal insolvency when
 a person or entity cannot pay their debts; there is no "grim reaper".
-Many individuals and companies that may well be insolvent in legal and ﬁnancial
-terms continue to trade and to consume, with the potential to do ﬁnancial harm to
+Many individuals and companies that may well be insolvent in legal and financial
+terms continue to trade and to consume, with the potential to do financial harm to
 those who extend them credit or trust in their continued operation. In some cases,
 they may be able to trade out of or recover from their insolvent state. That may be
 through some luck or change in market conditions, or through efforts of the
@@ -899,7 +899,7 @@ prospectuses, restrictive insurance terms, tax evasion and fraud.
 The gap is the more evident in insolvency in that it is largely the private profession
 to which the conduct of insolvency and the achievement of its outcomes is
 delegated. The insolvency profession must operate as a commercial business, where
-public interest considerations are ﬁnancially unproductive and costly to pursue.
+public interest considerations are financially unproductive and costly to pursue.
 The only source of funds usually available include the assets or moneys remaining
 in the insolvent entity, or funds from creditors or from private sources.
 Yet, at times, a liquidator will be asked to recover money or conduct investigations
@@ -910,14 +910,14 @@ commercial choice by the provider.
 At the same time, the insolvency profession suffers from a negative perception, for
 a range of reasons.
 Insolvency itself is an unfortunate outcome for all concerned. What joy there is, is
-limited, if that be receiving 5c in the dollar for an unpaid debt; or being satisﬁed
+limited, if that be receiving 5c in the dollar for an unpaid debt; or being satisfied
 that those responsible were held properly accountable.
 That is compounded by the fact that the process of recovery of money or assets
 involves the practitioner spending money that would otherwise be available for
 creditors. That is a reality of the cost of justice, not only in insolvency.41
 This brings an additional focus – on the costs of the regime, comprising largely the
 remuneration of the practitioner, which are a multifaceted issue that generates
-much debate. The work done in administering an insolvency can be signiﬁcant – if
+much debate. The work done in administering an insolvency can be significant – if
 company records have not been maintained, personnel are uncooperative and bases
 for legal recovery are complex. Even at a minimum level, establishing the full
 extent of creditors and the assets can involve much professional work, particularly
@@ -932,8 +932,8 @@ competitive professional environment is another source of tension, where work
 [1.155]                       1 Introduction to Insolvency – the Law, Policy and Current Issues   23
 
 referrals from sources are common, as in many trades or professions, but which can
-themselves create a situation of apparent conﬂict. The courts do generally accept
-those realities, but the issue remains as one of undeﬁnable degree.
+themselves create a situation of apparent conflict. The courts do generally accept
+those realities, but the issue remains as one of undefinable degree.
 An understanding of the work needed can be difficult to convey to creditors and
 the community. At the same time, much is left to the integrity of the professionals
 in the way they conduct the administration, and the way they charge their fees. In
@@ -962,12 +962,12 @@ political consequence of a combination of these perceptions, and realities, of o
 insovency regime.
 
 Insolvency Law Reform Act 2016 and following reforms
-[1.155] The ILRA made signiﬁcant changes to insolvency practice under both the
+[1.155] The ILRA made significant changes to insolvency practice under both the
 Bankruptcy Act and the Corporations Act. These new provisions replace or modify a
 large number of existing provisions in both Acts, particularly with respect to
 practitioner registration and supervision, creditor meetings, reporting requirements,
 remuneration approval and review and court powers. The overall focus is one of
-regulation and prescription, to some extent inherently in conﬂict with what the
+regulation and prescription, to some extent inherently in conflict with what the
 insolvency regime requires.
 The changes commenced in two stages, on 1 March and on 1 September 2017.
 Delays in the drafting of the rules and regulations and consequential amendments
@@ -979,7 +979,7 @@ were given as the reason. Transitional provisions mean that that former provisio
 
 continue to apply to many existing insolvency administrations. For those matters,
 readers are referred to the 9th edition of this book.
-Apart from this Act, there has been the signiﬁcant introduction of a safe harbour
+Apart from this Act, there has been the significant introduction of a safe harbour
 defence to insolvent trading for directors – s 588GA – and a limitation on the
 exercise of ipso facto termination rights, both passed into law after many years of
 debate. These were both discussed in the last and earlier editions of this book.
@@ -1012,11 +1012,11 @@ insolvency regime, that it:43
      provide certainty regarding future developments. The regime should foster a coordinated
      approach to recovery of a company, or its assets."
 While that is useful, it does not address the wider economic, legal and social
-beneﬁts of an insolvency regime. It did at least support the Commission's particular
+benefits of an insolvency regime. It did at least support the Commission's particular
 recommendations.
 But while we now have the safe harbour protection under s s 588GA, the reality is
 that s 588G liability remains. Australia continues to be a long way off the
-"restructuring ﬁrst" mentality of countries such as the United States with its
+"restructuring first" mentality of countries such as the United States with its
 Chapter 11 procedure, and more recently the United Kingdom and the European
 Union. It remains to be seen whether the various measures adopted in Australia
 will not only bring about a change in the legal and practice approach to distressed
@@ -1028,12 +1028,12 @@ businesses, but a more constructive cultural change to corporate failure. At the
 same time, Australia has relatively high standards of business conduct. Any
 deterioration of those through too lax a view of business compliance can have a
 wider detrimental impact.
-It is of beneﬁt that our insolvency regime has been subject to a more economic
+It is of benefit that our insolvency regime has been subject to a more economic
 focus, assessing its ability to promptly deal with what would otherwise be ill-used
 or lost resources and capital, and examining legal or other impediments, or other
-incentives, to ensure this. The law's ability to inﬂuence good ﬁnancial conduct is
+incentives, to ensure this. The law's ability to influence good financial conduct is
 limited, however much the regime seeks to regulate director conduct, for example,
-by way of requiring proper accounting and monitoring of the company's ﬁnancial
+by way of requiring proper accounting and monitoring of the company's financial
 position. Despite the warnings of the dangers of insolvent trading, both from the
 courts and from the regulators, a reality is that in most cases directors try to
 address their companies' pending failure far too late, with limited outcomes for
@@ -1043,7 +1043,7 @@ s 588GA will change that, without more, and at least in the short term.
 literature on measures beyond the law, such as the behavioural approaches now
 being used effectively with taxpayers, which might readily be applied to directors
 or debtors. Only now is some attention being given to proactive or pre-emptive
-measures, such as greater transparency through director identiﬁcation and
+measures, such as greater transparency through director identification and
 openness of corporate ownership. It is not expected however that Australia will
 provide free public access to the ASIC database, as is the case in the United
 Kingdom, a major initiative that would, in our view, assist the administration of the
@@ -1057,15 +1057,15 @@ business reform, perhaps more so than the professions and academia. This is
 evident in tax reform, the rights of workers in franchises and in consumer
 protection and in banking. There was an initial political and media impetus to the
 ILRA, going back to 2007, even though it provoked more populist and reactive
-responses. Media inﬂuence on law reform can be both good and bad.
+responses. Media influence on law reform can be both good and bad.
 This lack of government attention to insolvency reform may in fact have some
-beneﬁt, with the profession taking on more "informal" restructuring of distressed
+benefit, with the profession taking on more "informal" restructuring of distressed
 businesses, unrestricted by the regulatory requirements of Ch 5 of the Corporations
-Act, but nevertheless within the limits of the availability of ﬁnance and
+Act, but nevertheless within the limits of the availability of finance and
 management options, and other applicable laws. Indeed, the rather dramatic fall in
 the number of formal insolvencies – both corporate and personal – may represent a
-move towards a more ﬂexible culture and approach to ﬁnancial distress, even if the
-low numbers are mainly the result of the low interest rates and a ﬂat economy, here
+move towards a more flexible culture and approach to financial distress, even if the
+low numbers are mainly the result of the low interest rates and a flat economy, here
 
 44 As to what is possible, see Chun and Steele, "How Technologies and Innovation Are Driving
    Chinese Insolvency Law Developments: New Supreme People's Court Bankruptcy Information
@@ -1080,18 +1080,18 @@ acknowledging also that illegitimate advice will also be offered. The insolvency
 industry itself suffers from the perception and reality that its members are mainly
 focused on acting under formal legal appointments, under the Corporations Act and
 the Bankruptcy Act, even if these may then allow some restructuring of the insolvent
-to be pursued. Their proﬁle as a restructuring profession to some extent conﬂicts
+to be pursued. Their profile as a restructuring profession to some extent conflicts
 with their formal insolvency role, although the maturing of that side of the
 profession may take some time. Business advisers, in the wide sense that terms
-entails, are more readily seen as a ﬁrst port of call for a distressed business, in
+entails, are more readily seen as a first port of call for a distressed business, in
 particular, in the smaller SME sector.
-There is also an increasing inﬂuence of international and cross-border matters in
-Australia, with the beneﬁcial result of allowing us to know and observe
+There is also an increasing influence of international and cross-border matters in
+Australia, with the beneficial result of allowing us to know and observe
 comparative regimes. Australia is gaining a better perspective on our own regime
 through our high level of involvement in INSOL International and through
 professional, if not government, involvement in the insolvency and security groups
 of UNCITRAL.45
-It should not be forgotten that while personal liability and ﬁnancial responsibility
+It should not be forgotten that while personal liability and financial responsibility
 remain in focus, much of insolvency law is also directed at the resolution of issues
 where the insolvency has occurred through no-one's real "fault", or deception or
 fraud, even if management of the insolvent business might have been better. There
@@ -1109,7 +1109,7 @@ Contrasting the law in action with the theoretical framework underpinning
 insolvency law brings into consideration the basic reality of insolvency – which is a
 fundamental lack of funds to satisfy all claims in full. This gives rise to an
 inevitable tension in relation to decisions that need to be made about the use of the
-limited funds available. Creditors feel a (justiﬁable) sense of entitlement to funds
+limited funds available. Creditors feel a (justifiable) sense of entitlement to funds
 remaining in the insolvent estate, but the very task of administering that estate
 requires expenditure of those funds, not only to preserve, and where possible
 increase, the pool of funds available for distribution to creditors, but also to
@@ -1136,7 +1136,7 @@ Equal sharing – of no or limited assets
 [1.165]    The pari passu principle comes under constant pressure in insolvency
 policy. Firstly, the law necessarily allows pre-existing contractual and proprietary
 rights that exist outside insolvency law to be recognised, whereby sophisticated
-and stronger creditors (such as banks and ﬁnanciers) protect their position by
+and stronger creditors (such as banks and financiers) protect their position by
 taking security over the debtor's assets in the event of insolvency. In recent times
 the PPSA has recognised broader categories of secured credit arrangements, which
 may be shifting the power dynamic in insolvencies. For example, the operation of
@@ -1151,7 +1151,7 @@ diminishing in 2018 as familiarity with the law increases.
 While PPSA and other secured protections disturb the fundamentals of pari passu,
 the recognition of secured rights and proprietary claims helps to minimise credit
 risk and thereby the cost of capital for all borrowers. And in so far as insolvency
-does not usually provide creditors with any signiﬁcant returns on their unsecured
+does not usually provide creditors with any significant returns on their unsecured
 losses, the PPSA might better be seen as a means whereby creditors can more
 effectively secure their position in the face of a potentially insolvent customer.
 Even apart from that, the law might also provide incentives, or reverse
@@ -1173,13 +1173,13 @@ expense of the unprotected unsecured creditors.
 Whatever rearrangements of priorities are made, limited or no funds for any type
 of creditor are often a reality. And even if funds are available, insolvency law can
 only assist to a limited extent – full restitution is rarely, if ever, possible. To repeat a
-message earlier stated, insolvency law is not the panacea for society's ﬁnancial ills
+message earlier stated, insolvency law is not the panacea for society's financial ills
 and it must be seen as part of the network of legal regimes such as those dealing
 with tax, superannuation, social security, labour law, workplace safety, tort and
 environmental law in which it takes its place and which themselves have their own
 protections for their respective constituents. The priorities that these areas seek to
 impose as additional claims are not for the insolvency regime to decide, save that
-the pari passu rule exists for good reason and exceptions should be well justiﬁed. If
+the pari passu rule exists for good reason and exceptions should be well justified. If
 those regimes seek to themselves provide their creditors with priority protection –
 as the law does to some extent for employees, or indeed to protect their debtors as
 superannuation law does in bankruptcy – that is for those other regimes to decide
@@ -1216,7 +1216,7 @@ exceeding $150 million.47 While income contributions brought in around $38
 million, challenges to voidable transactions produced only $12.5 million, and
 probably accounted for much of the costs incurred by trustees. Chapter 5 of this
 book, on recovery of assets by trustees, might be read in a different view in light of
-that knowledge, and reﬁnements and changes made by bankrupts accordingly. That
+that knowledge, and refinements and changes made by bankrupts accordingly. That
 secured creditors were paid over $93m indicates the worth of secured protection.
 This lack of information more clearly shows the realities of insolvency, as opposed
 to the expectations that society has of what appears to be, in theory, a legally
@@ -1232,14 +1232,14 @@ of the insolvent company or individual, as an asset recovery agent and asset
 protector, a commercial investigator and problem solver, a public inquisitor, and
 then, as needed, a distribution agent. These tasks involve the practitioner acting in
 the inherently competing interests of the insolvent, the creditors and the
-community. And most signiﬁcantly, the practitioner is expected to do this with
+community. And most significantly, the practitioner is expected to do this with
 limited or, in some cases, no funds, or where funds are available, in the knowledge
 that these expenses compete with funds which the creditors might see,
 unrealistically, as theirs.
 The ongoing debate concerning remuneration levels in the profession, and their
-proportionality to the ﬁnancial outcomes, might properly be viewed with these
+proportionality to the financial outcomes, might properly be viewed with these
 considerations in mind.
-Our answer to the question is qualiﬁed in saying that, as the regime is presently
+Our answer to the question is qualified in saying that, as the regime is presently
 constructed, we do expect too much. There are many inherent contradictions and
 inconsistencies in the way the regime operates which, in part, lead to these unmet
 expectations.48
@@ -1250,7 +1250,7 @@ question about the fundamental need for the regime itself. Without insolvency la
 it can reasonably be anticipated that a debtor would be subject to constant attempts
 at recovery, with some of the persistent or stronger creditors succeeding, and other
 creditors being left with nothing. The extent of the debtor's claimed lack of assets
-could not be authoritatively conﬁrmed, with the result that creditors may still
+could not be authoritatively confirmed, with the result that creditors may still
 persist, to no avail. Among creditors, there may be tensions and desperate (perhaps
 
 47 AFSA administration statistics 2016-2017.
@@ -1266,7 +1266,7 @@ associates for another day. Commercial activity would be debased by elements tha
 would see insolvent trading as the norm, phoenix resurrections as a common
 device for dealing with unwanted debt obligations, and commercial responsibilities
 as being dispensable. This scenario may be tempered by the inherent tendency of
-our society to fair dealings. But it is difficult to be pure when ﬁnancial difficulties
+our society to fair dealings. But it is difficult to be pure when financial difficulties
 are pressing.
 As we later explain however, to some extent this description has some real
 semblance to the present reality of the commercial world: see [1.200].
@@ -1277,7 +1277,7 @@ what laws and rules apply to implement it. As a preliminary comment, if one were
 to devise an insolvency regime afresh, it would be quite different from the set of
 laws which we have today. Australia's insolvency laws have evolved over time in
 an often piecemeal way to meet the needs and (perceived) exigencies of commercial
-and consumer developments. Each new scandal ushers in urgent reforms to ﬁght
+and consumer developments. Each new scandal ushers in urgent reforms to fight
 the then current war.
 
 Separate regimes for personal and corporate
@@ -1318,17 +1318,17 @@ respectively, are examples.50
 We can ask whether the complexity of this system matters in practical terms. The
 answer may be that the regime exists and works reasonably well in spite of this
 structure but in a developed nation, where issues of impediments to productivity
-and undue and inconsistent regulation can be quantiﬁed and dealt with, it should
+and undue and inconsistent regulation can be quantified and dealt with, it should
 matter, particularly in relation to insolvency where issues of costs and efficiency are
 heightened. As Justice Farrell said in relation to the priority issue in Killarnee:
-   "(s)ome of the economic justiﬁcations for establishing unambiguous regimes for priorities
+   "(s)ome of the economic justifications for establishing unambiguous regimes for priorities
    in insolvent administrations are so that assets may be efficiently deployed in the economy
    (rather than locked up during protracted insolvent administrations) and so that returns to
-   creditors, investors and beneﬁciaries are maximised rather than monies being expended
+   creditors, investors and beneficiaries are maximised rather than monies being expended
    on applications to the courts for directions in order to provide certainty and protect the
    position of liquidators".51
 The efficiency of the insolvency system, and the degree of creditor protection that
-system provides, have a signiﬁcant inﬂuence on the cost of doing business in
+system provides, have a significant influence on the cost of doing business in
 Australia and the competitiveness of our capital and product markets.
 Nevertheless, the structural impediments can be ameliorated if personal and
 corporate insolvency laws exist that are of sufficient quality. That in itself is open to
@@ -1336,14 +1336,14 @@ question, although the conclusion here is that "they are good in parts".
 
 Bankruptcy
 [1.190] The bankruptcy laws have operated under the present Bankruptcy Act
-since 1968. Since then, the Act has been signiﬁcantly amended numerous times,
+since 1968. Since then, the Act has been significantly amended numerous times,
 with increased activity in more recent years, into 2010. But while the Act has
 received much legislative attention and introduced some major improvements that
 deal with issues of currency – for example, superannuation, family law and
 bankruptcy administration – much of the old law and concepts have been left
 untouched.
 But for all that, the Bankruptcy Act operates well enough, in particular with its
-foresight in introducing debt agreements in 1996 which now offer a signiﬁcant
+foresight in introducing debt agreements in 1996 which now offer a significant
 alternate course to bankruptcy. Personal insolvencies are in fact decreasing but
 whether this represents a permanent shift or one based only on the unusual
 
@@ -1361,9 +1361,9 @@ mechanism, and very few of the sections of the Act are called upon by the truste
 Where there are issues to pursue, either in the debtor's defence of compulsory
 proceedings or during the bankruptcy itself, the law works well enough.
 Bankruptcies with assets appear to be more complex than in the past, perhaps
-reﬂecting an increasing sophistication in how domestic ﬁnances are now arranged –
+reflecting an increasing sophistication in how domestic finances are now arranged –
 with self-managed superannuation, investment properties and family trusts. The
-bankruptcy with an unencumbered signiﬁcant asset are more the exception, not
+bankruptcy with an unencumbered significant asset are more the exception, not
 because of some attempt at asset protection, but because homes, for example, are
 often secured or leveraged for further moneys to be spent on domestic living. The
 extent to which the assumptions in the present Act can address issues of the 21st
@@ -1375,13 +1375,13 @@ up-to-date information and statistics that, whatever the criticisms of the regim
 show that assets are realised, trustees' work is done and remunerated, and
 dividends are paid to creditors. The overall costs of the regime are monitored.52
 There is data on the amount of creditor claims in bankruptcies, the value of assets
-available or recovered, the costs of administering those bankruptcies and the ﬁnal
+available or recovered, the costs of administering those bankruptcies and the final
 dividends paid to creditors. AFSA's focus on gathering data and publishing
 statistics is a valuable contribution to the ongoing integrity of the regime. Likewise,
 the simplicity of the funding of the regime by way of a percentage on the
 realisation of assets compares well with the byzantine "industry funding model"
 process introduced in corporate insolvency.53
-That these ﬁgures produce outcomes that may disturb the assumed outcomes and
+That these figures produce outcomes that may disturb the assumed outcomes and
 the theory should be highlighted, not to diminish the need for the regime, but to
 redirect and enhance its effectiveness and efficiency. That income contributions
 produce so much and unwinding voidable transactions produce so little, is one
@@ -1392,7 +1392,7 @@ Given the place of bankruptcy as being more relevant in the protection of the
 debtor and the release of debt, rather than the recovery of funds or assets,
 bankruptcy may properly be reimagined as a part of consumer law, with the
 charged term "bankruptcy" replaced by the more neutral personal insolvency
-In any event, the Bankruptcy Act does represent mostly a signiﬁcant and
+In any event, the Bankruptcy Act does represent mostly a significant and
 comprehensive body of law to deal with what society, through parliament, accepts
 
 52 See generally, AFSA's Annual Report and its Administration statistics, 2014-2015.
@@ -1400,7 +1400,7 @@ comprehensive body of law to deal with what society, through parliament, accepts
 [1.195]                      1 Introduction to Insolvency – the Law, Policy and Current Issues   33
 
 and it should apply to balance the rights of creditors and debtors in an area
-overlaid with issues of morality, fairness, ﬁnality and the concept of a clean slate,
+overlaid with issues of morality, fairness, finality and the concept of a clean slate,
 no matter the amount of debt involved.
 
 Corporate
@@ -1412,12 +1412,12 @@ liquidation through its appointed officer, the official liquidator; a voluntary
 liquidation is merely controlled by the creditors, under a registered liquidator.
 These outmoded concepts lead to separate administration and recovery provisions
 for voluntary and compulsory liquidations in the law itself which retain no
-practical signiﬁcance or importance.54 But, like the Bankruptcy Act, Ch 5 of the
+practical significance or importance.54 But, like the Bankruptcy Act, Ch 5 of the
 Corporations Act has some more modern provisions, for example in relation to
 voidable transactions and Pt 5.3A voluntary administrations.
 The Pt 5.3A regime has been continually reviewed and by and large is said to work
 well,55 in terms of the rather limited aims for its introduction, although support for
-it cannot be substantiated by clear ﬁnancial outcomes because of the fundamental
+it cannot be substantiated by clear financial outcomes because of the fundamental
 lack of statistical data. Existing statistics tell us how many companies enter formal
 insolvency each year but shed little light on what happens thereafter. It is an
 underlying uncertainty in any assessment of the corporate insolvency regime and
@@ -1434,14 +1434,14 @@ law, superannuation, domestic dealings and the fact that an individual's rights
 have to be managed, complications in corporate insolvency arise more in the size
 and nature of the corporate structure. Large corporate collapses are exceedingly
 complex and perhaps increasingly so, in particular in the mining, industrial and
-ﬁnancial sectors. The law exists to deal with their insolvency but is strained in
+financial sectors. The law exists to deal with their insolvency but is strained in
 coping with managed investment schemes, corporate groups, the existence of the
-use of trusts in business operations, and complex ﬁnancial arrangements.
+use of trusts in business operations, and complex financial arrangements.
 Cross-border disputes involving multinational enterprises add a further layer of
 complexity.
 The area of potential change in corporate insolvency is, in effect, to have companies
 try to avoid the formal regime itself, by way of taking pre-emptive and earlier
-action to address their ﬁnancial difficulties. That has long been a prime and
+action to address their financial difficulties. That has long been a prime and
 
 54 Generally explained in Chapter 10.
 55 See Chapter 19.
@@ -1496,18 +1496,18 @@ be imposed on the directors, but this is a relatively rare occurrence in most
 
 corporate insolvencies; commercial realities of the costs and time involved usually
 prevail. The law and the regulators necessarily have some impact on director
-conduct but in the face of the reality of ﬁnancial difficulties and commercial
+conduct but in the face of the reality of financial difficulties and commercial
 dealings the law may only inadvertently be considered.
 Likewise, the threat of future court action will seem distant in the turbulence of
-ﬁnancially distressed or unfocused directors.56 The basic human desire to "not fail"
+financially distressed or unfocused directors.56 The basic human desire to "not fail"
 combined with an optimistic perception through "rose-coloured" glasses that
 things will get better ("if we can just keep the doors open till Christmas we will
 survive") means that many businesses (both personal and corporate) continue
 trading well beyond the point at which an economically rational individual would
 close them down. The pervasive use of personal guarantees over business loans by
 banks further encourages business people to continue trading rather than face
-ﬁnancial ruin by closing down. The lack of any protection for the family home in a
-bankruptcy plays heavily on the mind of the trader in ﬁnancial distress.57
+financial ruin by closing down. The lack of any protection for the family home in a
+bankruptcy plays heavily on the mind of the trader in financial distress.57
 Nevertheless, even in that scenario what will intrude upon the mind of a director is
 real time action taken at that time – a judgment obtained by a creditor with
 enforcement following swiftly by way of the sheriff attending to seize company
@@ -1519,7 +1519,7 @@ One creditor that has that front-end right of recovery is the ATO, with its read
 ability to impose potential personal liability on the director for the company's taxes,
 or use its garnishee powers. However much the threat or likelihood of personal
 liability exists, action by the Tax Commissioner is more immediate and requires
-prompt action. The Commissioner's ability to inﬂuence, or not inﬂuence, insolvent
+prompt action. The Commissioner's ability to influence, or not influence, insolvent
 companies is underrated, and goes beyond the impact of action by the insolvency
 regulators and other creditors. Changes to the tax laws in 2012 have only served to
 enhance that authority although the PPSA regime has also enhanced other
@@ -1528,8 +1528,8 @@ On the other hand, ASIC has a more limited approach to what might be termed
 pre-insolvency commercial conduct, constrained by a lack of a pre-insolvency
 regulatory regime, and preoccupied as it is by its other large range of
 responsibilities.
-The role of the Department of Employment is increasingly signiﬁcant, with its
-ﬁnancial focus being on recoupment of the moneys paid by the government under
+The role of the Department of Employment is increasingly significant, with its
+financial focus being on recoupment of the moneys paid by the government under
 the Fair Entitlements Guarantee. While it has no priority of itself, it assumes
 priority rights of employees, and the Department's on-going audit of compliance
 with those priorities, particularly under s 433 of the Corporations Act where valuable
@@ -1543,24 +1543,24 @@ THE IMPACT OF THE LAW
 [1.205] This book is then primarily concerned with the legal circumstance when
 insolvency intervenes in the commercial or consumer landscape. The existence of
 the legal regime, and the possibility, or perhaps likelihood, of a formal insolvency
-being imposed, with its strictures and inquiries, are meant to inﬂuence commercial
+being imposed, with its strictures and inquiries, are meant to influence commercial
 and consumer life at this pre-formal insolvency stage.
-ASIC has or should have a signiﬁcant role here. But ASIC's efforts are focused, not
+ASIC has or should have a significant role here. But ASIC's efforts are focused, not
 on deterring or addressing insolvency misconduct in the corporate world, but on
 the conduct of liquidators who look after the 0.04% of companies that end up in
 insolvency. It is those liquidators who are confronted by businesses that operate in
 a largely unregulated space allowing them to mistreat some creditors at will, with
 the directors inattentive to, or unknowing of, their duties, and often misusing
 company assets. As ASIC sees it, liquidators are one of many "gatekeepers", and
-signiﬁcant ones at that, in terms of their authority and power. While that
+significant ones at that, in terms of their authority and power. While that
 necessarily calls for strict regulation, it also calls for regulator support and
 promotion of what are often delegated investigations carried out by liquidators on
 behalf of ASIC, and other government regulators and agencies. That role is, it must
 be acknowledged, recognised by ASIC.58
-In that respect, creditors are meant to be inﬂuenced by the insolvency laws, to
+In that respect, creditors are meant to be influenced by the insolvency laws, to
 prompt their own protection. While at one level the law exists to give them some
 comfort that the regime imposes order and that fairness prevails, the law is also
-designed to inﬂuence their behaviour, by prompting care in their commercial
+designed to influence their behaviour, by prompting care in their commercial
 dealings and extensions of credit. Delivery of goods and services without arranging
 some security of payment is inherently risky. A creditor cannot complain too much
 about an insolvency regime that does not fully or even partly redress lax
@@ -1588,9 +1588,9 @@ it has its own issues of cost and efficiency.
 60 Discussed by Kirby, "Bankruptcy and Insolvency" (2010) 22 A Insol J 4, 14.
 [1.210]                        1 Introduction to Insolvency – the Law, Policy and Current Issues      37
 
-Liquidators and trustees are persons of signiﬁcant experience and qualiﬁcations
+Liquidators and trustees are persons of significant experience and qualifications
 who should be paid accordingly. That expertise may often be brought to bear in
-signiﬁcantly increasing the pool of funds for creditors; or it may result in a
+significantly increasing the pool of funds for creditors; or it may result in a
 thorough investigation but no realisations and with any dividends to creditors
 being lessened by the consequent cost. The desired proportionality of effort and
 cost and return is not always achieved. It is not unusual, and indeed is
@@ -1603,25 +1603,25 @@ not a simple or straightforward task. Large corporate insolvencies are massive i
 terms of the time and costs needed to unravel their complexities.
 Practitioners' remuneration always comes under close scrutiny, perhaps more so in
 general community debate than in any individual insolvency. Creditors'
-disengagement, after their initial shock at their ﬁnancial loss, as well as what may
+disengagement, after their initial shock at their financial loss, as well as what may
 be called an imbalance of power, means the scrutiny is less than it should be. It is a
 fundamental issue in all such professional services, as to how they are to be valued
-and quantiﬁed. All service providers are inherently impacted by adverse
+and quantified. All service providers are inherently impacted by adverse
 behavioural incentives, that the more work they do, the more they are paid; but
 constrained by inherent integrity and standards of conduct, the law and the rigour
 of the client in monitoring their services.
 The difficulty is compounded in insolvency by the lack of a client with a direct
 interest in the work being done, but also by creditor ignorance and disengagement.
 Creditors may pay little regard to the information provided by the insolvency
-practitioner in the (sometimes justiﬁed) belief that there is little chance of receiving
+practitioner in the (sometimes justified) belief that there is little chance of receiving
 a substantial return of funds. Outside of regular participants in insolvency
-situations (banks, ﬁnance companies, major landlords and revenue authorities)
+situations (banks, finance companies, major landlords and revenue authorities)
 there is a pervasive lack of knowledge and understanding of the mandatory and
 discretionary processes involved in administering an insolvency. The ILRA
 provides creditors greater potential for involvement but the onus remains on them
 to participate.61
 This knowledge imbalance, in itself, is not unusual, as anyone who has engaged a
-plumber, engineer or doctor will ﬁnd. We are all confronted by the need to rely on
+plumber, engineer or doctor will find. We are all confronted by the need to rely on
 the integrity of others in areas outside our own expertise, including as to their
 reasonable charges. It does raise a particular responsibility of an insolvency
 practitioner to fairly counter and address that imbalance to the extent possible.
@@ -1642,11 +1642,11 @@ authority but the potential is minimal, although reforms requiring mediation to 
 attempted may assist.63 Litigation funding spreads the cost and the risk, but is
 expensive. Perhaps, though, it is better than no claim being made at all.
 Again, the costs of litigation generally are issues of concern well outside the
-insolvency regime.64 Nor should creditors claim to be so shocked to ﬁnd that their
+insolvency regime.64 Nor should creditors claim to be so shocked to find that their
 funds need to be spent to recover assets. Any person in business knows that it costs
 money to recover money, and that the outcome can be unsatisfactory.
 Then there are the governments themselves that seek to recoup their support of the
-regime – court ﬁling and hearing fees, fees for issues of notices and statutory
+regime – court filing and hearing fees, fees for issues of notices and statutory
 charges all go to deplete moneys for creditors. And the quasi-regulatory work that
 liquidators and trustees do, by way of investigating and reporting, is costly
 time-consuming work, in effect delegated by the government to assist it to regulate
@@ -1665,7 +1665,7 @@ regulation of practitioners only serves to exacerbate the problem.
 
 The insolvency practitioner
 [1.215] It is perhaps unusual in our legal system that an individual person is
-authorised under the law to assume signiﬁcant powers and responsibilities, to take
+authorised under the law to assume significant powers and responsibilities, to take
 over the insolvent entity and to be given strong powers of recovery, examination,
 challenge and inquiry. These authorised individuals often exercise quasi-judicial
 powers which can involve closing down a business, sacking employees, restraining
@@ -1690,7 +1690,7 @@ and whether there are sufficient controls is cause of some debate. Insolvency
 practice has to be assessed in the often difficult circumstances involved in
 administering an insolvency, where expedient and business-related decisions need
 to be made, often against the views of others. Any regulation also must be weighed
-against its cost, not only in relation to ﬁle and practice audits by the regulator, but
+against its cost, not only in relation to file and practice audits by the regulator, but
 also in increased disclosure and reporting, and court involvement.65 Where funds
 are limited, the commercial reality must mean that, beyond required investigations
 and reports, a practitioner's task is limited even though creditors may well feel that
@@ -1748,7 +1748,7 @@ inefficiencies and routine tasks under which the present regime operates. More
 emphasis on expediency, even at the cost of accountability and explanation, may be
 needed, including some compromise of the "one size" approach in relation to small
 insolvencies. The fact that the government has itself raised the concept of a
-government liquidator, a role that we have long advocated, is signiﬁcant, even if, as
+government liquidator, a role that we have long advocated, is significant, even if, as
 might be expected, it is not immediately accepted.
 At another level, there is potential for improved cost effectiveness in
 communications with creditors. The ILRA has brought in some changes and some
@@ -1756,7 +1756,7 @@ research is being conducted. Overseas experience has much to offer, including by
 way of revealing our limited approach to this issue. The courts and practitioners
 are readily adopting electronic means of communication and relevant law is needed
 to support it.66 Privacy issues are relevant, but efficient processes should be
-paramount in dealing with ﬁnancial distress.67 The courts themselves are
+paramount in dealing with financial distress.67 The courts themselves are
 continually seeking to provide easier means of resolving claims and disputes;
 indeed the law could properly seek to further limit the need for court involvement
 in time extensions and other more routine applications.
@@ -1787,11 +1787,11 @@ In supporting such structural changes to insolvency, it is perhaps enough to ref
 the continual process of lodging forms, sending reports and calling meetings,
 referred to throughout this book, and with separate regulators. As well, the internet
 provides the potential to increase access for creditors to information about the
-entities with which they deal, transparency being a signiﬁcant protection in any
+entities with which they deal, transparency being a significant protection in any
 business dealings.
 Of course this would all happen in the context of a wider adoption of such
 technology in the business and domestic community, and revenue, competition and
-ﬁnancial regulation. Blockchain, bitcoin and other ﬁnancial developments are
+financial regulation. Blockchain, bitcoin and other financial developments are
 changing the landscape, as is the revenue approach of securing payment of taxes
 directly from taxpayer funds in bank accounts. Indeed it might be said that full
 adoption of technology might produce better outcomes than any other law reform.
@@ -1817,11 +1817,11 @@ for so long have sought its introduction. Interesting reform ideas are raised in
 68 See Chun and Steele, "How Technologies and Innovation Are Driving Chinese Insolvency Law
    Developments: New Supreme People's Court Bankruptcy Information Platform" (2018) 15
    International Corporate Rescue 33.
-69 Productivity Commission, Contribution of the Not-for-Proﬁt Sector (11 February 2010), Ch 6.
+69 Productivity Commission, Contribution of the Not-for-Profit Sector (11 February 2010), Ch 6.
 42      Keay's Insolvency: Personal and Corporate Law and Practice                                 [1.230]
 
 current phoenix inquiry. The proposed one-year bankruptcy and the reform of debt
-agreements are signiﬁcant personal insolvency reforms.70
+agreements are significant personal insolvency reforms.70
 All this stands in contrast to the current and ongoing debate among the insolvency
 profession on some trend away from traditional "insolvency" work. A large
 proportion of the work of national and major regional insolvency practices is now
@@ -1829,8 +1829,8 @@ focused on transactional advisory and restructuring work. Formal insolvency
 appointments, and registered liquidator numbers have remained fairly static since
 the Global Financial Crisis and certain appointments (such as voluntary
 administrations and large receiverships) are reducing in number each year. Indeed
-a number of large insolvency advisory ﬁrms have stopped referring to insolvency
-in their marketing. Some ﬁrms have established separate brands for non-insolvency
+a number of large insolvency advisory firms have stopped referring to insolvency
+in their marketing. Some firms have established separate brands for non-insolvency
 work, particularly turnaround and restructuring advisory work. Put simply, the
 focus is less so on traditional external administration work. The focus is on
 advising businesses well before the tipping point of insolvency, because there are
@@ -1841,15 +1841,15 @@ cleaning up the mess when everything falls apart, but the statutory and regulato
 focus is still squarely on the diminishing number of formal appointments. The
 focus on the cost of insolvency procedures is worthy of attention, but is not a
 panacea for increasing creditor returns. A greater focus needs to be given to
-addressing what happens to companies as they approach ﬁnancial distress. An
+addressing what happens to companies as they approach financial distress. An
 ounce of prevention is worth a pound of cure.
 That may call for a reassessment of what might be seen as an imposing and even
 threatening insolvency regime, as opposed to one that offers collaboration and
 assistance. The apparent aversion to debtor-in-possession concepts might need to
 be re-evaluated. To some extent, the safe harbour regime goes some way to
-accommodating this. The inﬂuence of secured creditors might also need to be
+accommodating this. The influence of secured creditors might also need to be
 reassessed, while at the same time maintaining the balance in favour of good
-corporate and ﬁnancial governance. The constant inquiries into banks and their
+corporate and financial governance. The constant inquiries into banks and their
 receivers may result in secured creditors losing their separate right of appointment,
 as in the United Kingdom.
 
@@ -1874,8 +1874,8 @@ reference to review insolvency law to ensure that Australian law provides an
 appropriate legal framework to support both external administration and
 restructuring and work out activities in a manner that will allow Australia to
 remain competitive for global funds and will support and assist businesses in
-ﬁnancial distress. While law reform should be the primary focus, economic
-perspectives and the beneﬁts of technology should also have input into any review.
+financial distress. While law reform should be the primary focus, economic
+perspectives and the benefits of technology should also have input into any review.
 Those who criticise the conduct and operations of the regime cannot properly do so
 when the potential for reform is unattended and when the focus on what needs to
 be done is narrow and ill-directed, and the expectations of the regime unfairly and

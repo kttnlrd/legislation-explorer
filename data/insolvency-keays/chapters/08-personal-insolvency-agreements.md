@@ -50,7 +50,7 @@ Personal Insolvency
     [8.175] Remuneration ................................................................................................................ 337
     [8.180] Rights of creditors ........................................................................................................ 338
 [8.185] After the meeting .............................................................................................. 338
-    [8.185] Notiﬁcation requirements ........................................................................................... 338
+    [8.185] Notification requirements ........................................................................................... 338
     [8.190] Limitation on further Pt X agreements .................................................................... 338
     [8.195] Failure to implement an agreement ......................................................................... 338
 [8.200] Ending the controlling trusteeship ................................................................ 339
@@ -61,7 +61,7 @@ Personal Insolvency
 [8.220] Introduction ....................................................................................................... 341
 [8.225] Setting aside (s 222) and terminating (s 222C) by the court .................... 341
 [8.230] Setting aside if the agreement is unreasonable or not to the creditors'
-        beneﬁt: s 222(1) .................................................................................................. 341
+        benefit: s 222(1) .................................................................................................. 341
 [8.240] Non-compliance with the requirements: s 222(2) ....................................... 344
 [8.245] False and misleading information provided to creditors etc: s 222(5) ... 345
 [8.250] Time limits .......................................................................................................... 345
@@ -85,7 +85,7 @@ Personal Insolvency
 [8.05]                                                    8 Personal Insolvency Agreements      321
 
 INTRODUCTION
-[8.05] In some circumstances it can be more beneﬁcial for an insolvent debtor to
+[8.05] In some circumstances it can be more beneficial for an insolvent debtor to
 consider proposing a "personal insolvency agreement" to creditors under Pt X of
 the Bankruptcy Act, rather than going bankrupt or awaiting what may be the almost
 inevitable creditor's petition. A personal insolvency agreement – often abbreviated
@@ -106,25 +106,25 @@ agreements with creditors were governed by contract law. Such informal
 agreements obviously remain and continue to be used but they have their
 drawbacks. They only bind the creditors who agree to them – it only takes one
 creditor to bankrupt a debtor; creditors often agreed to them without knowing
-much about the ﬁnancial affairs of the debtor; and if the arrangement involves an
+much about the financial affairs of the debtor; and if the arrangement involves an
 acknowledgement of the debtor's insolvency it may be an act of bankruptcy and
 can be relied upon by a creditor to obtain a sequestration order. If the debtor does
 go bankrupt, those creditors may be subject to preference claims by the trustee.
 These are the problems with debtors trying to come to some informal arrangement
 with their creditors.
 While bankruptcy law and its processes can be technical, the law in relation to Pt X
-has always been intended to encourage ﬂexible arrangements between debtors and
+has always been intended to encourage flexible arrangements between debtors and
 their creditors. However, in attempting to regulate Pt X agreements and prevent
 abuse of its processes, by way of increased disclosure requirements and more
 investigatory and recovery powers introduced in 2004, Pt X processes have moved
-away from the cheaper more ﬂexible regime intended.
-That may be as expected in that the law allows debtors the beneﬁt of the release of
+away from the cheaper more flexible regime intended.
+That may be as expected in that the law allows debtors the benefit of the release of
 their debts without the consequences and obligations of bankruptcy.
 Whether as a consequence of that or not, the number of Pt X agreements has fallen
 to record low levels. They have always been low compared with bankruptcies and
 Pt IX agreements but in 2016-2017, there were only 244 Pt X agreements compared
 
-1 This threshold ﬁgure may be doubled under 2018 proposed law: see Chapter 9.
+1 This threshold figure may be doubled under 2018 proposed law: see Chapter 9.
 2 In the September quarter 2017, while only 22.7% of Pt X debtors entered a business-related personal
   insolvency agreement, compared with 24.6% of bankrupts, this was a fall from 35% in the June
   quarter 2017.
@@ -135,10 +135,10 @@ with over 16,000 bankruptcies and 13,600 debt agreements.4 They fell in number t
 37 in the 2018 March quarter, the lowest quarterly level on record. Pt X agreements
 have not exceeded 300 in many years. Personal insolvency agreements fell to 37 in
 the March quarter 2018. This is the lowest quarterly level on record, and follows the
-ﬁrst year-on-year fall since the March quarter 2016. They do produce a marginally
+first year-on-year fall since the March quarter 2016. They do produce a marginally
 better return than bankruptcies, as should be expected. In the 2016-2017 year,
 around $10.7m was paid in dividends to unsecured creditors, but at some
-signiﬁcant cost,5 with total liabilities discharged exceeding $1.316 billion.6 Just over
+significant cost,5 with total liabilities discharged exceeding $1.316 billion.6 Just over
 40% of agreements returned no dividend to creditors at all, an in the remainder,
 dividend returns were under 2.5%.
 In any event, Pt X agreements have remained available and are used by debtors in
@@ -154,7 +154,7 @@ applied, particularly in relation to assessments of the validity of agreements w
 they are challenged.7
 
 OVERVIEW
-[8.10] The debtor and his or her creditors can come to a ﬂexible arrangement
+[8.10] The debtor and his or her creditors can come to a flexible arrangement
 under such an agreement that suits the particular circumstances of the debtor –
 who may for example have a high income but few if any assets, or a substantial
 asset, but with only a limited income.
@@ -181,7 +181,7 @@ resolution", that is, at least 50% in number and at least 75% in value: IPSB, s
 
 75-132(2). If accepted, the trustee then administers that agreement and ultimately
 pays out a dividend to creditors and the agreement terminates. The debtor is then
-discharged from liability in respect of liabilities speciﬁed in the agreement, typically
+discharged from liability in respect of liabilities specified in the agreement, typically
 all liabilities, and the debtor may proceed with a "fresh start".
 There is no court involvement or approval of the process required.
 Part X debtors will generally have access to income or funds that enable them to
@@ -216,7 +216,7 @@ Terminology
 person whose property is subject to control under Div 2 of Pt X, or a debtor under
 a personal insolvency agreement, with consequential meanings for a regulated
 debtor's estate and trustee of a regulated debtor's estate.
-A person has a ﬁnancial interest in the administration of a Pt X if they are the
+A person has a financial interest in the administration of a Pt X if they are the
 regulated debtor; a creditor or the trustee: IPSB, s 5-30.
 The word debtor will mostly be used in this chapter.
 General personal insolvency provisions apply
@@ -229,10 +229,10 @@ bankruptcies. These include the rights of creditors to request information, to d
 the trustee and to review remuneration. In some instances, particular rules apply;
 for example, IPSB, s 75-27 Additional rules for meetings under s 188.
 There are no exclusions in respect of Pt X agreements, as there are, for example, for
-voluntary administrators, who are, for instance, speciﬁcally excluded from having
+voluntary administrators, who are, for instance, specifically excluded from having
 to hold a meeting requested by creditors: IPSB, s 75-15(5). There is no equivalent for
 controlling trustees: see IPSB, s 75-15. A controlling trustee could, however, rely
-upon IPRB, s 75-250 and refuse to call a meeting requested by a creditor only ﬁve
+upon IPRB, s 75-250 and refuse to call a meeting requested by a creditor only five
 days after the s 188 meeting on the basis that it is unreasonable.
 
 The personal insolvency agreement
@@ -277,10 +277,10 @@ Advantages of Pt X agreements
 [8.40] Generally, there will be advantages for both the debtor and the creditor in
 coming to an agreement under Pt X. In fact in preparing the proposal to be put to
 creditors the debtor must ensure that it will appeal to the creditors otherwise they
-are unlikely to vote in favour of it; even if it also provides the debtor some beneﬁt
+are unlikely to vote in favour of it; even if it also provides the debtor some benefit
 as well. It is relevant to note that the 208 Pt X agreements in 2014-2015 arose out of
 269 proposals made to creditors, indicative of the fact that creditors are not always
-persuaded by the debtor's offer. This may be because the ﬁnancial return is
+persuaded by the debtor's offer. This may be because the financial return is
 uncertain or because bankruptcy may offer creditors a better return, or because the
 creditors just do not trust the debtor. The extent of the advantages which will
 accrue to a debtor and to the creditors will depend on the features of the personal
@@ -292,15 +292,15 @@ Advantages for a debtor
 legal consequences of bankruptcy, and allows the debtor to be released from their
 debts and responsibilities more quickly.8
 There are fewer limitations placed on a Pt X debtor than a bankrupt. A Pt X
-agreement usually minimises the extent of examination of the debtor's ﬁnancial
+agreement usually minimises the extent of examination of the debtor's financial
 affairs; possibly limits their liability to make income contributions; and may
 minimise their exposure to criminal prosecution. It also avoids the dissolution of
 the debtor's partnership which can occur on the bankruptcy of a partner.9 State
 stamp duty is not payable on the s 188 authority or the agreement: s 227.
 Nevertheless, a person subject to a Pt X agreement is unable to be a company
 director (Corporations Act, s 206B(4)) elsewhere in legislation that seeks to exclude
-persons from a role or office where ﬁnancial integrity is expected; for example, in
-relation to a disabled person's ﬁnancial management or in relation to senior
+persons from a role or office where financial integrity is expected; for example, in
+relation to a disabled person's financial management or in relation to senior
 parliamentary officers.10
 
 Advantages for a creditor
@@ -308,7 +308,7 @@ Advantages for a creditor
 quickly (although only on the debtor's own initiative), once a valid s 188 authority
 is signed, serves to minimise the chances of a debtor dissipating their assets; the
 cost and time of taking sequestration proceedings is avoided; and the creditors will
-generally receive a distribution more quickly than in bankruptcy. Signiﬁcantly,
+generally receive a distribution more quickly than in bankruptcy. Significantly,
 funds may be made available to creditors that would not be available in the
 debtor's bankruptcy, often from friends or relatives, or the debtor may agree to
 make non-divisible property available to creditors, such as protected funds. This is
@@ -324,14 +324,14 @@ make non-divisible property available to creditors, such as protected funds. Thi
 usually put to creditors as a reason for allowing the debtor to proceed under Pt X
 rather than through the stricter bankruptcy process. A debtor in business may be
 more able to carry on their business if they are only subject to Pt X restrictions, and
-creditors may beneﬁt from this. And given that the debtor is involved in initiating
-the process, creditors may ﬁnd the debtor more co-operative and ﬂexible in
-persuading them to agree to a beneﬁcial outcome for them.
+creditors may benefit from this. And given that the debtor is involved in initiating
+the process, creditors may find the debtor more co-operative and flexible in
+persuading them to agree to a beneficial outcome for them.
 As already noted, the creditors can take some comfort from the fact that they can
 give the trustee power under the agreement to challenge any voidable transactions.
 However, while these powers can be made available, they appear to be rarely
 used.11 The Pt X process involves the controlling trustee investigating the debtor's
-ﬁnancial history and the debtor is required to correctly disclose their ﬁnancial
+financial history and the debtor is required to correctly disclose their financial
 dealings and affairs, all with a view to persuading creditors to accept the
 agreement. The debtor's prior transfer of assets to others is generally inconsistent
 with that process. If creditors are nevertheless uncertain about the information
@@ -358,7 +358,7 @@ s 81 and notices under s 77C may be held or issued: s 211.
 Part X and a creditor's petition
 [8.60] Sometimes a debtor may propose a Pt X agreement after a creditor's
 petition for the debtor's bankruptcy has been presented, as some belated response
-to the debtor's ﬁnancial predicament. In such a case s 189AAA provides that if a
+to the debtor's financial predicament. In such a case s 189AAA provides that if a
 s 188 authority is signed by a debtor, then any petition proceedings are stayed until
 the conclusion of the creditors' meeting or its adjournment, whichever is the earlier:
 see Pascoe v Leite [2005] FMCA 334. This serves as a statutory stay, without the need
@@ -406,7 +406,7 @@ Otherwise, the period of control ends if
 • the debtor becomes bankrupt; or the debtor dies: in more detail, see [8.60].
 If an agreement is entered into, the agreement is administered according to its
 particular terms, and over its period of time, provable debts are released, and the
-agreement is completed: s 222D. A certiﬁcate of discharge of the debtor's
+agreement is completed: s 222D. A certificate of discharge of the debtor's
 obligations under the agreement is issued: s 232. If circumstances require it, the
 agreement may be varied during that time.
 
@@ -421,7 +421,7 @@ following.
 THE S 188 AUTHORITY AND THE CONTROLLING TRUSTEE
 
 Commencement with a s 188 authority
-[8.70] The authority under s 188 of the Act is the signiﬁcant ﬁrst step in the Pt X
+[8.70] The authority under s 188 of the Act is the significant first step in the Pt X
 process. The form of authority is AFSA Form 13: s 188(1); reg 10.03.
 The debtor may authorise a registered trustee in bankruptcy, a solicitor,13 or the
 Official Trustee, to call the meeting of creditors. Most appointments by far are given
@@ -441,10 +441,10 @@ will make a recommendation to creditors in a report under s 189A, discussed
 shortly at [8.65].
 The s 188 authority and the statement of affairs must be given to the Official
 Receiver within two business days: s 188(5). These then are entered on the NPII for
-public access. There is a ﬁling fee of $240.
+public access. There is a filing fee of $240.
 
 The impact of signing the s 188 authority
-[8.75] The debtor's signing of a s 188 authority is legally signiﬁcant. Once the
+[8.75] The debtor's signing of a s 188 authority is legally significant. Once the
 authority "becomes effective", the property of the debtor becomes subject to the
 trustee's control (s 189(1)) and a meeting of creditors must be convened within 30
 business days: s 190. The authority is irrevocable: s 188(3).
@@ -465,14 +465,14 @@ directions from the trustee. Breach of these requirements is an offence: s 189(2
 can also lead to a sequestration order being made: s 221(1)(aa).
 Creditors' rights are necessarily affected. During the period of control, most
 creditors' claims are stayed (s 189AA).15
-The "debtor's property" is deﬁned in s 190(5), in similar terms to bankruptcy
+The "debtor's property" is defined in s 190(5), in similar terms to bankruptcy
 except that property acquired after the agreement is signed is not included.
 The property is immediately charged with the debtor's unsecured debts and the
 amount (if any) by which the debtor's secured debts exceed the value of the
 secured property: s 189AB. Any charges created by the debtor in favour of other
 persons ("subsequent chargees") after the s 188 authority became effective are
 subject to the s 189AB charge. This means that subsequent chargees have no claim
-to the property until the existing creditors' claims are satisﬁed under the
+to the property until the existing creditors' claims are satisfied under the
 agreement. Moneys in the debtor's bank account pass to the controlling trustee who
 must hold those moneys in a new administration account.16
 A controlling trustee has a right of indemnity out of the debtor's property for
@@ -482,7 +482,7 @@ debtor's bankruptcy but the trustee of a failed agreement has a right of indemni
 out of assets which serves to ensure their right to recover their remuneration if
 bankruptcy follows: Warner v Mayfair Ltd, in the matter of the Personal Insolvency
 Agreement of Gore [2015] FCA 441.
-Given the signiﬁcance of a s 188 authority, it must be completed properly and fully,
+Given the significance of a s 188 authority, it must be completed properly and fully,
 otherwise it may not be "effective" and hence not "given" for the purposes of
 s 188(4). The authority in Cervantes Pty Ltd v Moutidis (2004) 212 ALR 619; [2004]
 FMCA 1023 was held to be invalid where, even though the trustee had signed the
@@ -512,7 +512,7 @@ Pending that, under s 190(2), the controlling trustee can take immediate control
 the debtor's property and affairs, make inquiries and conduct investigations "as the
 trustee considers necessary", carry on the debtor's business and otherwise deal
 with the debtor's property in a way that will be in the interests of creditors. It is
-therefore a signiﬁcant exercise of control over the debtor's affairs and it gives the
+therefore a significant exercise of control over the debtor's affairs and it gives the
 creditors some assurance that the debtor's property is secure pending the
 consideration of any agreement accepted.
 IPSB, s 90-20 allows the controlling trustee to apply to the court for directions that
@@ -531,13 +531,13 @@ The s 190A duties include notifying the creditors, taking action to have the deb
 discharge their duties, assessing whether the debtor has committed any offences
 and referring any for prosecution, investigating the debtor's property and
 examinable affairs; and acting commercially. The section also requires the
-controlling trustee to disclose to creditors any material personal conﬂicts of
+controlling trustee to disclose to creditors any material personal conflicts of
 interests of the trustee and act throughout in an impartial and independent manner.
 IPRB, s 42-220 of the Standards provides that the controlling trustee "must conduct
 appropriate investigations of the debtor's property and income". It goes on to
 require the trustee to conduct relevant searches for real estate, company structures
 and cars, and obtain independent advice about the value of any such assets located.
-If the debtor was involved in "signiﬁcant corporate or trust activity", the
+If the debtor was involved in "significant corporate or trust activity", the
 controlling trustee must identify the assets that will be subject to the personal
 insolvency agreement, including making inquiries of relevant parties to establish
 whether there is any divisible property or antecedent transactions.
@@ -569,7 +569,7 @@ the six events referred to in s 189(1) occurs. These are:
   (s 189(1A)(d));
 • the court releases the debtor's property from control, under s 208. The court can
   order that the controlling trusteeship end earlier if an "interested person" applies
-  for such an order and the court is satisﬁed that special circumstances justify the
+  for such an order and the court is satisfied that special circumstances justify the
   order. The power of the court to release property from control must be balanced
   against the purposes for which a controlling trustee was appointed, in particular
   to prevent the dissipation of the debtor's assets and to prevent more losses for
@@ -607,11 +607,11 @@ The report to creditors under s 189A must:
 • state whether the trustee believes that the creditors' interests would be better
   served by the debtor's proposed personal insolvency agreement, or by the
   debtor's bankruptcy; and
-• name each creditor who is identiﬁed as a "related entity" (s 5) of the debtor in
+• name each creditor who is identified as a "related entity" (s 5) of the debtor in
   the debtor's statement of affairs.
-The report, and other reports of trustees, are protected by qualiﬁed privilege under
+The report, and other reports of trustees, are protected by qualified privilege under
 s 306B, but that does not serve to protect a trustee from a costs order made in
-respect of a deﬁcient report: Cobbs Hill (Tasmania) Meat Supplies Pty Ltd v El Moustafa
+respect of a deficient report: Cobbs Hill (Tasmania) Meat Supplies Pty Ltd v El Moustafa
 [1998] FCA 838; (1998) 83 FCR 403.
 There must also be a declaration of relationships, that is, the controlling trustee
 must make a written declaration stating whether the debtor is a related entity of the
@@ -638,11 +638,11 @@ s 189A is vital to the whole decision-making process contemplated by the Act giv
 that creditors are entitled to rely upon it in making their decision. In that case, the
 trustee's report concluded:
    "In the circumstances, Mr Burlock is attempting to provide creditors, a return which
-   although quite small does represent a signiﬁcant hardship upon him as he will be
+   although quite small does represent a significant hardship upon him as he will be
    repaying the loan of $50,000 back to relatives over the next 3 years. Accordingly in the
    circumstances my recommendation or lack of same would carry no real weight and
    accordingly I invite creditors to carefully peruse the relevant material to assess the
-   position which they wish to adopt. Certainly I do attach signiﬁcance to the debtor's desire
+   position which they wish to adopt. Certainly I do attach significance to the debtor's desire
    to attempt to resolve matters with his creditors to the best of his ability."
 Justice Olney then said at [48]:
 
@@ -651,14 +651,14 @@ Justice Olney then said at [48]:
 
    "There can be no question that the trustee did not state whether or not, in his opinion,22 it
    would be in the best interests of the debtor's creditors to deal under Pt X with the debtor's
-   affairs in the manner indicated in the statement ... In fact the trustee not only speciﬁcally
-   avoided stating his opinion but on two occasions he qualiﬁed his remarks by the
+   affairs in the manner indicated in the statement ... In fact the trustee not only specifically
+   avoided stating his opinion but on two occasions he qualified his remarks by the
    assumption that the statement of affairs was accurate and further drew attention to the
    fact that he had not had the opportunity to investigate the debtor's affairs. In these
    circumstances it is not surprising that a trustee of integrity would be unwilling to express
    an opinion and Taylor did no more or less than that. However, the statute required him to
    state his opinion. The creditors were entitled to have it but they did not receive it. In my
-   opinion the trustee's report was deﬁcient in a most material particular. It cannot be said
+   opinion the trustee's report was deficient in a most material particular. It cannot be said
    that the report substantially complied with the statutory requirements in circumstances
    where perhaps the most crucial part of the report is absent."
 On appeal,23 the Full Court agreed, noting that only "after persistent questioning
@@ -705,7 +705,7 @@ Along with the notice of meeting itself, these documents must be sent to credito
 • the s 189A report and the declaration of relevant relationships; and
 • the s 189B statement of the trustee about the possible resolutions that may be
   passed: IPRB, s 75-27(2).
-Certain of the Div 42 Standards apply speciﬁcally to controlling trustees.
+Certain of the Div 42 Standards apply specifically to controlling trustees.
 The following commentary addresses some of the more particular issues that arise
 at Pt X meetings.
 
@@ -725,9 +725,9 @@ Notifying creditors
 [8.135] The controlling trustee must give creditors not less than 10 business days
 notice: IPRB, s 75-20. Proxy and proof of debt forms should be included: IPRB, s
 75-25.
-As many creditors as are known should be notiﬁed, both from information given
+As many creditors as are known should be notified, both from information given
 by the debtor in the statement of affairs, and from any other information obtained.
-A creditor whose existence is not known, and therefore not notiﬁed, may still be
+A creditor whose existence is not known, and therefore not notified, may still be
 bound by any agreement: Re Ogle [1986] FCA 275; (1986) 14 FCR 172. On the other
 hand, failure to notify a known creditor may result in the agreement being set aside
 and the trustee being ordered to pay costs: Daimler Chrysler Financial Services
@@ -756,12 +756,12 @@ Who can vote?
 meeting. IPRB, s 75-100 provides that in deciding whether a creditor is entitled to
 vote, the controlling trustee must have regard to the merits of the creditor's claim;
 and act impartially and independently, without regard to the debtor's wishes.
-There is no speciﬁc right to appeal a trustee's decision in relation to who is entitled
+There is no specific right to appeal a trustee's decision in relation to who is entitled
 to vote but any person affected by a decision of a controlling trustee can apply to
 the court: IPSB, s 90-20.courts are, however, generally reluctant to interfere with the
 processes of holding a meeting and implementing its outcomes: Forshaw v Thompson
 (1992) 35 FCR 329. A court will generally only intervene on behalf of a person
-claiming to have been excluded from voting if, ﬁrst, that person is, in fact, a
+claiming to have been excluded from voting if, first, that person is, in fact, a
 creditor; and second, if their vote would have affected the outcome of the meeting
 proposal. The court is entitled to take into account all the material placed before it,
 and is not bound to limit itself to the material before the trustee: Re Dingle (1993) 47
@@ -819,7 +819,7 @@ approved.
 
 Debate at the meeting
 [8.170] Before the debtor's proposal is voted upon, it is customary for discussion
-to occur concerning the debtor's conduct, ﬁnancial position, future and whether he
+to occur concerning the debtor's conduct, financial position, future and whether he
 or she is likely to meet the requirements of the proposal.
 IPRB, s 75-65 provides some structure to the process. The trustee is required to
 address the view given in the s 189B report as to what is in creditors' best interests,
@@ -838,7 +838,7 @@ options under s 204 and to negotiate the particular terms of the agreement
 proposed. In that regard, the agreement offered by the debtor is not to be seen as a
 "take it or leave it" proposal; "the meeting of creditors retains an unfettered
 discretion to resolve in any one of the four ways indicated in s 204(1)".31 Flexibility
-is a key feature of the decision-making process. An issue may arise if the ﬁnal
+is a key feature of the decision-making process. An issue may arise if the final
 proposal is one so different from that proposed in the initial draft agreement that
 the meeting should be adjourned. That may be necessary if those who gave special
 proxies for a certain proposal may need to be consulted on any substantially
@@ -851,14 +851,14 @@ creditors' meeting is then restricted to dealing with motions under s 204(1) whi
 do not relate to the debtor's proposal. The Full Federal Court in Bunnings Forest
 Products Pty Ltd v Bullen [1994] FCA 1460 ; (1994) 53 FCR 438, 449 said that to hold
 otherwise was to allow the subsequent meeting to be the beginning of an
-"undeﬁned bargaining procedure"32 which could involve prolonged meetings
+"undefined bargaining procedure"32 which could involve prolonged meetings
 involving adjournments inconsistent with the prompt resolution of the debtor's
 affairs contemplated under Pt X. As well, the conduct of "straw polls" or other
 means whereby a different proposal might be put to the meeting could allow a
 disgruntled creditor to apply to set aside any agreement approved on the basis that
 it was not one of the options on which the trustee had initially assessed and
 recommended. While that is true, that compares with what the legislature intended
-to be a more ﬂexible procedure under the changes to the law in 2004,
+to be a more flexible procedure under the changes to the law in 2004,
 providing"debtors with a greater range of options for negotiation if creditors are
 not prepared to accept the initial proposal".33
 Any special resolution requiring the debtor to execute a personal insolvency
@@ -894,7 +894,7 @@ may mean these rights are less frequently used than in a bankruptcy.
 
 After the meeting
 
-Notiﬁcation requirements
+Notification requirements
 [8.185] Within seven days after a meeting passes a resolution under s 204(1), the
 controlling trustee must give to the Official Receiver a copy of the resolution and
 written notice specifying the date of the resolution, the debtor's full name, address
@@ -922,7 +922,7 @@ sufficient cause, or if a special resolution within s 204 has not been passed wi
 four months from the date that the meeting was called, an application for a
 sequestration order can be made: s 221(1)(c). The controlling trustee will usually
 become the trustee in bankruptcy; the advantages of appointing the same person as
-trustee outweigh any detriment caused by any possible conﬂict: see Holbrook v
+trustee outweigh any detriment caused by any possible conflict: see Holbrook v
 Muntz [2010] FMCA 105.
 
 34 In Joiner v Bailey [2004] FCA 1411, the court was ready to say that a deed of assignment was
@@ -955,7 +955,7 @@ those creditors from the moneys received or realised under the agreement.
 By virtue of s 211, a number of sections of the Act which apply to the
 administration of a bankrupt estate are applied to personal insolvency agreements.
 These are ss 77, 77A, 77C, 77D, 77E, 77F, 78 (other than certain paragraphs of
-s 78(1)) and 81. There are various modiﬁcations to these provisions prescribed by
+s 78(1)) and 81. There are various modifications to these provisions prescribed by
 the regulations – see Pt 10 and Sch 6. Many of these provisions now appear in the
 IPSB.
 As the trustee is a "trustee of a regulated debtor's estate" (IPSB, s 5-20), the duties
@@ -981,15 +981,15 @@ secured creditors are not affected: ss 229(3) and 230(4).
 However, as in bankruptcy, some debts are not released by a Pt X agreement, for
 example, a liability for arrears of maintenance or child support under s 153(2A).
 Section 231 of the Bankruptcy Act makes applicable to personal insolvency
-agreements a number of speciﬁed provisions favourable to bankrupts, but s 153 is
+agreements a number of specified provisions favourable to bankrupts, but s 153 is
 not one of them: Hayward v Scott as Trustee of the Debtor Estate of Hayward [2013]
 FCA 421.
 The debtor is entitled to any property remaining after payment in full of the costs,
 charges and expenses of the administration of the agreement, and all provable
 debts and interest accrued: s 231A(1). An application may be made to the court to
 restrain property being returned to the debtor in circumstances where criminal
-conﬁscation proceedings are involved: s 231A(2).
-The debtor is entitled to a certiﬁcate from the trustee as to the discharge of their
+confiscation proceedings are involved: s 231A(2).
+The debtor is entitled to a certificate from the trustee as to the discharge of their
 obligations under the agreement: s 232; reg 10.14(4).
 The "end of the administration" under Pt X is the day three years after the day on
 which the agreement took effect: IPSB, s 5-5. The trustee must retain books relating
@@ -1028,16 +1028,16 @@ take effect; and state that any creditor may, by written notice to the trustee a
 two days before that date, object to the variation taking effect without a meeting of
 the creditors being held: s 221A(4).
 Under s 221A(5), if no creditor lodges a written notice of objection with the trustee
-within the two days, then the proposed variation takes effect on the date speciﬁed
-in the notice. The trustee may issue a certiﬁcate conﬁrming the variation. The
+within the two days, then the proposed variation takes effect on the date specified
+in the notice. The trustee may issue a certificate confirming the variation. The
 trustee then continues to administer the agreement as varied.
 
 ENDING A PT X AGREEMENT
 
 Introduction
 [8.220]   Usually a personal insolvency agreement will be terminated when the
-debtor has fulﬁlled their obligations pursuant to it. Section 222D allows an
-agreement to be ended on the occurrence of some speciﬁed event nominated in the
+debtor has fulfilled their obligations pursuant to it. Section 222D allows an
+agreement to be ended on the occurrence of some specified event nominated in the
 agreement, typically full payment of the sum agreed to by the debtor, which is the
 end of a successful agreement.
 However, an agreement may be ended prematurely and in a number of ways: that
@@ -1056,13 +1056,13 @@ have occurred.
 Setting aside (s 222) and terminating (s 222C) by the court
 [8.225] Section 222 allows a court to set aside a personal insolvency agreement
 on three broad grounds. Section 222C allows the court to terminate an agreement in
-speciﬁed situations.38
+specified situations.38
 
 Setting aside if the agreement is unreasonable or not to the creditors'
-beneﬁt: s 222(1)
+benefit: s 222(1)
 [8.230] Section 222(1) provides that the court may make an order setting the
-agreement aside if the court is satisﬁed that:
-   (d) the terms of the agreement are unreasonable or are not calculated to beneﬁt the
+agreement aside if the court is satisfied that:
+   (d) the terms of the agreement are unreasonable or are not calculated to benefit the
        creditors generally; or
 
 37 Paton v Campbell Capital Ltd (1993) 46 FCR 30; [1993] FCA 526; Stedman v DCT [2000] FCA 336; 44
@@ -1079,7 +1079,7 @@ to be set aside "for any other reason", and to s 242 which was a similar provisi
 that applied in respect of compositions. The former s 239 allowed a composition to
 be set aside on largely the same terms as s 222(1). The law on those provisions may
 be considered generally in respect of applications under current s 222(1).39
-Even if the court is "satisﬁed" as to the existence of the criteria in paragraphs (d)
+Even if the court is "satisfied" as to the existence of the criteria in paragraphs (d)
 and (e), it still has a discretion whether to set the agreement aside, based on all the
 circumstances: New Age Constructions (NSW) Pty Ltd v Etlis [2013] FCA 884. In
 reality, the facts supporting the criteria within (d) and (e) are often the same as
@@ -1100,13 +1100,13 @@ obliged to act quasi-judicially. But given that the law under Part X allows a co
 set aside an agreement despite it being accepted by creditors, the vote of creditors is
 not ultimately paramount: New Age Constructions (NSW) Pty Ltd v Etlis [2013] FCA
 884 at [54].
-A negligible beneﬁt provided under an agreement, and a substantial discrepancy
-between the beneﬁt and the amount of the debts, are factors, although these are not
+A negligible benefit provided under an agreement, and a substantial discrepancy
+between the benefit and the amount of the debts, are factors, although these are not
 necessarily determinative: Hingston v Westpac Banking Corporation [2012] FCAFC 41
 at [93].40 As an example, in IFX Markets Ltd v Rappaport [2009] FMCA 893, the
 agreement was not set aside even though the payment to creditors was minimal.
-The court found there was no demonstrable beneﬁt to creditors in setting it aside;
-there had been signiﬁcant delay in challenging the agreement and the trustee was
+The court found there was no demonstrable benefit to creditors in setting it aside;
+there had been significant delay in challenging the agreement and the trustee was
 not able to be properly remunerated. The extent to which an agreement has already
 been implemented, perhaps because of delay in challenging it, is relevant against
 setting it aside.
@@ -1120,7 +1120,7 @@ setting it aside.
 The courts do have regard to the apparent need for further investigations to be
 pursued, in bankruptcy; an example being if the debtor had transferred her home
 to her spouse at an undervalue, with no satisfactory explanation given. The court
-does not have to be satisﬁed that there are undisclosed assets or sham transactions;
+does not have to be satisfied that there are undisclosed assets or sham transactions;
 an inference or suspicion can be enough.
 The court may be shown that there was insufficient information available for
 creditors to make an informed decision. Creditors need enough information to
@@ -1133,7 +1133,7 @@ trustee to investigate and report on the debtor's affairs can be relevant, if th
 is complex, although the trustee can apply for an extension of time if required.
 [8.235] The closeness of the vote and related party votes at the meeting are
 relevant issues, in particular where the vote in favour of the agreement was
-inﬂuenced by related creditors. The court takes into account that it may be in the
+influenced by related creditors. The court takes into account that it may be in the
 interests of some such creditors to avoid closer investigations into their dealings
 with the debtor.42 A related creditor's agreement not to lodge a proof of debt in the
 agreement may assist in supporting the agreement, unless there is doubt about the
@@ -1144,8 +1144,8 @@ That was an issue in Gunns Finance Pty Ltd (R & M Apptd) (in Liq) v Moss [2017]
 FCCA 1773, where, in setting aside an agreement where related party votes were
 used, the court said that trustees should be circumspect in relation to debts owed to
 friendly or related creditors who vote for an agreement but who do not stand to
-beneﬁt under it. The trustee had also wrongly allowed the large Gunns claim at $1
-only, for voting purposes, thus signiﬁcantly reducing its rights at the meetung.
+benefit under it. The trustee had also wrongly allowed the large Gunns claim at $1
+only, for voting purposes, thus significantly reducing its rights at the meetung.
 In that respect, the conduct of meeting by the trustee may be called into question.
 In CBA v Robson [2013] FCA 1430, the trustee admitted the bank's $8m proof of debt
 at $1 only, despite the determination of that $8m claim having already been heard
@@ -1188,7 +1188,7 @@ income. The applicant creditor also offered an indemnity for the bankruptcy trus
 to investigate the debtor's affairs. While a return of between 1 to 4 cents in dollar
 was possible under the agreement, and a sequestration order might reduce that
 return to creditors to nil, the agreement was nevertheless set aside. The court noted
-that the debtor had been able to sustain a lavish lifestyle with signiﬁcant spending
+that the debtor had been able to sustain a lavish lifestyle with significant spending
 well beyond his disclosed means, with no explanation given.
 It should also be noted that funding under s 305 of the Bankruptcy Act (see [6.440])
 is provided to a Pt X trustee "only in exceptional circumstances, due to the
@@ -1203,7 +1203,7 @@ leading to the agreement, or the agreement itself, with the requirements of Pt X
 In such cases, in addition to the applicants who can apply as above, the debtor can
 also apply.
 The section provides that the court may make an order setting the agreement aside
-if the court is satisﬁed that:
+if the court is satisfied that:
    (e) the agreement was not entered into in accordance with Pt X; or
    (f) the agreement does not comply with the requirements of Pt X.
 
@@ -1227,7 +1227,7 @@ False and misleading information provided to creditors etc: s 222(5)
 [8.245] A third basis for the court setting aside a personal insolvency agreement
 is on grounds of false or misleading information etc. Applicants for an order on
 these grounds are the Inspector-General, the trustee or a creditor.
-The court may make an order setting the agreement aside if the court is satisﬁed
+The court may make an order setting the agreement aside if the court is satisfied
 that the debtor has given false or misleading information in answer to a question
 put at the meeting of creditors, or has omitted a material particular from the
 statement of affairs, or included an incorrect and material particular in that
@@ -1236,8 +1236,8 @@ Section 222(5) is equivalent to the former s 222(4) but provides a more detailed
 series of bases upon which a personal insolvency agreement may be set aside. For
 s 222(5) to apply, there must be an irregularity of a substantive nature, for example
 in relation to the omission of a material particular by either the debtor or the
-controlling trustee.47 Omission of signiﬁcant personal liabilities to a bank under a
-guarantee that were of such signiﬁcance as to alter the trustee's assessment of his
+controlling trustee.47 Omission of significant personal liabilities to a bank under a
+guarantee that were of such significance as to alter the trustee's assessment of his
 recommendations to creditors were material in National Australia Bank Ltd v Cranney
 [2011] FMCA 169. It is irrelevant if the debtor innocently gave incorrect
 information,48 or the controlling trustee – it is simply enough that the creditors
@@ -1271,7 +1271,7 @@ by "terminat[ing]" it. An application for such an order may be made by the trust
 a creditor, the debtor, or if the debtor has died – the person administering the
 debtor's estate. The court can order that service of the application on the debtor be
 dispensed with: s 222C(7).
-For the court to make such an order, it must be satisﬁed that the debtor (or the
+For the court to make such an order, it must be satisfied that the debtor (or the
 debtor's deceased estate etc) "has failed to carry out or comply with a term of the
 agreement"; or "that the agreement cannot be proceeded with without injustice or
 undue delay" or that, "for any other reason, the agreement ought to be
@@ -1286,7 +1286,7 @@ Standing to bring applications under ss 222 and 222C
 s 222C, a court must decide, as a preliminary point, whether the applicant has the
 necessary standing to bring the application. Usually this will involve considering
 whether the applicant is a "creditor" or not for the purposes of either section. The
-court is not conﬁned to matters that were before the trustee: Moran v Robertson
+court is not confined to matters that were before the trustee: Moran v Robertson
 [2012] FCA 371.
 Similarly, applications under these sections can only be made "if a personal
 insolvency agreement is in force …", that is, if the agreement has not ended by
@@ -1309,17 +1309,17 @@ terminating of an agreement, and as to the power of the court to make ancillary 
 compensation orders. It is convenient to discuss these provisions together.
 Interests of creditors: ss 222(6) and 222C(2)
 [8.270] Section 222(6) provides that the court must not make an order under
-s 222(5) – in respect of misleading conduct etc – unless it is satisﬁed that it would
+s 222(5) – in respect of misleading conduct etc – unless it is satisfied that it would
 be in the interests of the creditors to do so. Similarly, courts are obliged not to make
 orders under s 222C(1)(e) (failure to carry out a term of the agreement) or
 s 222C(1)(g) (for any other reason the agreement should be terminated) terminating
 the personal insolvency agreement unless the orders are in the interests of creditors:
 s 222C(2).
 The courts have regard also to the public interest and, in relevant cases, the
-interests of the debtor, as well as the direct ﬁnancial interests of creditors. While the
+interests of the debtor, as well as the direct financial interests of creditors. While the
 interests of creditors are usually assessed as a composite group, the court may also
 take into account distinct classes of creditors with divergent interests where that is
-relevant. But a beneﬁt to a small class of creditors of ending the agreement rather
+relevant. But a benefit to a small class of creditors of ending the agreement rather
 than to creditors overall may not be sufficient to cause an agreement to be set aside:
 Totterdell v D'Angelo [2004] FMCA 645. On the other hand, a small dividend to
 creditors may not prevail over the public interest of having the affairs of the debtor
@@ -1333,7 +1333,7 @@ now need to be reassessed in light of the current law where creditors can, for
 example, insist on provisions in the personal insolvency agreement allowing for
 public examinations and challenges to voidable transactions, comparable to those
 available in bankruptcy (see s 188A(2)(j), s 231), such that the creditors' interests
-may be satisﬁed well enough by not ending the personal insolvency agreement.
+may be satisfied well enough by not ending the personal insolvency agreement.
 Sequestration order can be applied for
 [8.275] The court has the discretion to make a sequestration order against a
 debtor when a personal insolvency agreement is set aside (s 222(10))51 or
@@ -1356,7 +1356,7 @@ sequestration order, or the creditor may subsequently apply for such an order:
 s 222C(5). The making of the order is discretionary. In Nelson v Sutera [2013] FCCA
 721, although the court terminated the agreement because of non-compliance with
 it by the debtors, no sequestration orders were made because the court was
-satisﬁed that the debtors had no assets.
+satisfied that the debtors had no assets.
 As under s 222(11), the making of an application by the trustee or a creditor for a
 sequestration order under s 222C(5) is taken to be equivalent to the presentation of
 a creditor's petition against the debtor.
@@ -1367,7 +1367,7 @@ an act of bankruptcy on which basis a creditor can present a petition (s 40(1)(m
 see George v DCT [2004] FCA 1433.
 However, the court must have regard to the same sorts of considerations that apply
 when a court is exercising its discretion under s 52 of the Act, including the
-potential beneﬁt to the creditors and the potential detriment to the debtor: Macks v
+potential benefit to the creditors and the potential detriment to the debtor: Macks v
 Vandenberg [2011] FMCA 325. A relevant factor is that the public interest will
 invariably require that an insolvent be prevented from further trading and that the
 rights of creditors be protected: Burlock v Commissioner of Taxation [1994] FCA 1072;
@@ -1377,8 +1377,8 @@ and independent trustee" should be appointed.
 
 Ancillary orders, including compensation
 [8.280] Section 222(8) allows the court to make ancillary orders as the court
-thinks ﬁt, including, under s 222(9), an order directing a person to pay another
-person compensation of such amount as is speciﬁed in the order. A similar power
+thinks fit, including, under s 222(9), an order directing a person to pay another
+person compensation of such amount as is specified in the order. A similar power
 exists under s 222C(3) and (4). This was not a power available under the old
 provisions and is "intended to allow the Court to make any orders necessary to
 place the parties in the position in which they would have been had they not
@@ -1393,7 +1393,7 @@ agreement.
 
 53 "Revised Explanatory Memorandum to the Bankruptcy Legislation Amendment Bill 2004 (Cth)",
    [94].
-54 See Mouglalis v Bendigo and Adelaide Bank Ltd [2017] FCAFC 47, which questioned a ﬁnding to the
+54 See Mouglalis v Bendigo and Adelaide Bank Ltd [2017] FCAFC 47, which questioned a finding to the
    contrary in Hingston v Westpac where a s 73 annulment was set aside. The Court in Mouglalis held
    that s 222(8) does not give the Court the power to change the date of discharge, this being at odds
    with the power of the court under s 222(10).
@@ -1458,7 +1458,7 @@ which were successful, and an order for costs was made against the trustee. A
 similar decision was made in QBSA v Ball [2001] FMCA 47. It appears to be
 preferable for a trustee, in any challenge to a Pt X agreement, to indicate to the
 court that he or she will not defend an application and will abide by the court's
-decision although it is expected that the trustee will ﬁle evidence as to the conduct
+decision although it is expected that the trustee will file evidence as to the conduct
 of the meeting and the reasons for the decisions on creditors' votes being
 explained.58
 
@@ -1472,16 +1472,16 @@ agreement other than by court intervention. These are:
 Termination of personal insolvency agreement by the trustee: s 222A
 [8.305] Section 222A allows the trustee of a personal insolvency agreement to
 propose to the creditors, in writing, the termination of the agreement if the trustee
-is satisﬁed that the debtor is in default.
+is satisfied that the debtor is in default.
 As with s 221A (see [8.190]), the notice must provide reasons for the termination
 and the likely impact it will have on creditors if it were to take effect; and specify a
 date (at least 14 days after the notice is given) from which it is proposed that the
 termination will take effect; and state that any creditor may, by written notice to the
-trustee at least two days before the speciﬁed date, object to the termination taking
+trustee at least two days before the specified date, object to the termination taking
 effect without there being a meeting of creditors.
 If the debtor is in default; and no creditor lodges a written notice of objection with
 the trustee within the two days, then the proposed termination takes effect on the
-date speciﬁed in the notice.
+date specified in the notice.
 Section 222A(5) explains that a debtor is "in default" "if, and only if" the debtor has
 failed to carry out or comply with a term of the personal insolvency agreement.
 
@@ -1494,7 +1494,7 @@ Hence, rather than apply to the court under s 222C, the trustee may put the matt
 for determination by creditors under s 222A. If a creditor objects to the termination,
 a meeting of creditors would then need to be held. A decision on termination
 would then be held under s 222B.
-A certiﬁcate signed by the trustee stating any matter relating to a proposed
+A certificate signed by the trustee stating any matter relating to a proposed
 termination under s 222A is prima facie evidence of the matter.
 
 Termination of personal insolvency agreement by the creditors: s 222B
@@ -1502,7 +1502,7 @@ Termination of personal insolvency agreement by the creditors: s 222B
 the purpose, to terminate a personal insolvency agreement if:
    (a) the debtor is in default; and
    (b) before the passage of the resolution, the trustee of the agreement tabled at the meeting
-       a written declaration to the effect that the trustee is satisﬁed that the debtor is in
+       a written declaration to the effect that the trustee is satisfied that the debtor is in
        default.
 While the declaration by the trustee is a public statement about a serious matter,
 there is no need for particular formality, although the declaration must be signed:
@@ -1528,11 +1528,11 @@ which the agreement provides that it is to terminate: see also Perovich v Whitto
 2) [2016] FCAFC 152; (2016) 250 FCR 272. This follows from s 188A(2)(g) which
 requires a personal insolvency agreement to specify the circumstances in which, or
 events on the occurrence of which, the agreement terminates. Typically such an
-event will be deﬁned as occurring when the ﬁnal payment from the debtor under
+event will be defined as occurring when the final payment from the debtor under
 the personal insolvency agreement is made.
 
 Notice requirements: s 224A
-[8.320]   Various events trigger requirements imposed on a trustee to ﬁle notices
+[8.320]   Various events trigger requirements imposed on a trustee to file notices
 with the Official Receiver, under s 224A, generally within two days. These include
 the termination or variation of an agreement, or an order by the court setting aside
 352      Keay's Insolvency: Personal and Corporate Law and Practice                              [8.325]
@@ -1571,20 +1571,20 @@ bankruptcy.
 We explained initially that the numbers of Pt X agreements have always remained
 low in number compared with bankruptcies and debt agreements: see [8.05]. Pt X
 agreements tend to be used by the "top end" of the personal insolvency market,
-whose personal ﬁnancial difficulties can often be remedied or forestalled by an
+whose personal financial difficulties can often be remedied or forestalled by an
 agreement rather than the person suffering the ignominy of bankruptcy. The
 proportion of business related agreements is generally higher than for bankruptcy.
 In any event, Pt X remains as a necessary alternative to formal bankruptcy and its
 acceptance and use by debtors and creditors will remain available for those debtors
-whose affairs call for the ﬂexible compromise arrangement with creditors that
+whose affairs call for the flexible compromise arrangement with creditors that
 Part X allows. The fact that debt agreements under Pt IX have now become more
 
 59 See AFSA's Form 19 – Notice of completion, variation, termination or setting aside of a PIA (Part X),
    composition or scheme of arrangement (Part IV). See also reg 13.03 and Sch 8, items 28B and 28C.
 [8.330]                                              8 Personal Insolvency Agreements   353
 
-accessible to debtors may, however, see a trend towards the even more ﬂexible
-processes there, even if only for debtors in a particular ﬁnancial category. It is to
+accessible to debtors may, however, see a trend towards the even more flexible
+processes there, even if only for debtors in a particular financial category. It is to
 that type of agreement we now turn.
 
                      Chapter 8 – Personal Insolvency Agreements

@@ -13,7 +13,7 @@ The total amount that can be treated as downsizer contributions for an individua
 
 Guidelines on downsizer contributions and how they interact with other tax and superannuation concepts (eg contribution caps, CGT, acceptance of contributions rules) are set out in LCR 2018/9 and Guidance Note GN 2018/2.
 
-Qualifying as a downsizer contribution A contribution is a downsizer contribution in respect of an individual if the following conditions are satisﬁed:
+Qualifying as a downsizer contribution A contribution is a downsizer contribution in respect of an individual if the following conditions are satisfied:
 
 - the individual is aged 55 years or older at the time the contribution is made (see above)
 
@@ -21,7 +21,7 @@ Qualifying as a downsizer contribution A contribution is a downsizer contributio
 
 - the 10-year ownership condition is met
 
-- a gain or loss on the disposal of the dwelling must have qualiﬁed (or would have qualiﬁed) for the
+- a gain or loss on the disposal of the dwelling must have qualified (or would have qualified) for the
 
   main residence CGT exemption in whole or part
 
@@ -39,13 +39,13 @@ Qualifying as a downsizer contribution A contribution is a downsizer contributio
 
   residence (ITAA97 s 292-102(1)–(3)).
 
-A contribution must be made in respect of an individual, but there is no speciﬁc requirement about who must actually make the contribution so long as the individual is the one who makes the choice to treat the contribution as a downsizer contribution (s 292-102(1)(a), (h)).
+A contribution must be made in respect of an individual, but there is no specific requirement about who must actually make the contribution so long as the individual is the one who makes the choice to treat the contribution as a downsizer contribution (s 292-102(1)(a), (h)).
 
 *Refs: ITAA97 s 292-102(1), s 292-102(1)(*
 
 contributions The total amount of downsizer contributions that can be made in respect of an individual is the lesser of $300,000 and the total proceeds that the individual and their spouse receive from disposing of their ownership interests in the dwelling (s 292-102(3)).
 
-Subject to the cap, an individual can make more than one downsizer contributions provided the contributions are made from the proceeds of one sale of a dwelling (s 292-102(1)(h), (i), (3)). Also, as multiple contributions can be made, individuals can make contributions to diﬀerent superannuation providers.
+Subject to the cap, an individual can make more than one downsizer contributions provided the contributions are made from the proceeds of one sale of a dwelling (s 292-102(1)(h), (i), (3)). Also, as multiple contributions can be made, individuals can make contributions to different superannuation providers.
 
 The maximum cap amount is reduced by any earlier contributions that have already been made by either spouse in respect of the proceeds from the disposal of their interests in the same property (s 292-102(3)(b)).
 
@@ -69,13 +69,13 @@ a downsizer contribution If a contribution does not satisfy the requirements for
 
 There is no review opportunity (other than under the Administrative Decisions (Judicial Review) Act 1977) at this stage of the process.
 
-If the Commissioner remains of the view that a contribution that an individual has elected to treat as a downsizer contribution does not satisfy all the requirements, the Commissioner must notify the recipient superannuation fund of this. Once notiﬁed, the fund may assess whether it could otherwise have accepted the contribution based on the individual's age or working status under the acceptance of contributions rules (¶13-925). In such cases, the contribution will also count towards the individual's contributions cap, generally as a non-concessional contribution.
+If the Commissioner remains of the view that a contribution that an individual has elected to treat as a downsizer contribution does not satisfy all the requirements, the Commissioner must notify the recipient superannuation fund of this. Once notified, the fund may assess whether it could otherwise have accepted the contribution based on the individual's age or working status under the acceptance of contributions rules (¶13-925). In such cases, the contribution will also count towards the individual's contributions cap, generally as a non-concessional contribution.
 
 superannuation balance A downsizer contribution is excluded from being a non-concessional contribution and does not count towards an individual's non-concessional contributions cap (¶13-860) (ITAA97 s 292-90(2)(c)(iiia)).
 
 A contribution that does not meet the downsizer contribution requirements is counted against the non- concessional contribution cap unless the superannuation fund has returned the contribution under the acceptance of contributions rules (¶13-925). This is consistent with the treatment for other kinds of contributions.
 
-The total superannuation balance test (which applies to determine an individual's eligibility for various tax concessions, including the non-concessional contributions cap: ¶13-640) does not restrict an individual's ability to make downsizer contributions. However, a downsizer contribution will increase the individual's total superannuation balance when this is re-calculated to include all contributions made, including the downsizer contributions, on 30 June at the end of the ﬁnancial year for the purposes of that test.
+The total superannuation balance test (which applies to determine an individual's eligibility for various tax concessions, including the non-concessional contributions cap: ¶13-640) does not restrict an individual's ability to make downsizer contributions. However, a downsizer contribution will increase the individual's total superannuation balance when this is re-calculated to include all contributions made, including the downsizer contributions, on 30 June at the end of the financial year for the purposes of that test.
 
 If a downsizer contribution amount is later transferred to the pension phase in a fund, that amount is counted towards the individual's transfer balance cap ($1.9 million in 2024–25: ¶14-320).
 

@@ -7,9 +7,9 @@ paragraph: "¶3-120"
 ---
 # Business continuity test ¶3-120
 
-A company that satisﬁes the business continuity test may be entitled to claim a deduction for prior year losses even if it fails the continuity of ownership test (COT) (¶3-105) (ITAA97 s 165-13). The business continuity test may also be applied in relation to a company's current year losses (¶3-065) or deductions for bad debts (¶3-150).
+A company that satisfies the business continuity test may be entitled to claim a deduction for prior year losses even if it fails the continuity of ownership test (COT) (¶3-105) (ITAA97 s 165-13). The business continuity test may also be applied in relation to a company's current year losses (¶3-065) or deductions for bad debts (¶3-150).
 
-The term business continuity test was introduced into the ITAA97 by amendments made by the Treasury Laws Amendment (2017 Enterprise Incentives No. 1) Act 2019. The term eﬀectively covers the same business test which had operated for many years and also a new similar business test which operates (subject to commencement rules) as an alternative to the same business test. Accordingly, a company can satisfy the business continuity test by carrying on either:
+The term business continuity test was introduced into the ITAA97 by amendments made by the Treasury Laws Amendment (2017 Enterprise Incentives No. 1) Act 2019. The term effectively covers the same business test which had operated for many years and also a new similar business test which operates (subject to commencement rules) as an alternative to the same business test. Accordingly, a company can satisfy the business continuity test by carrying on either:
 
 - the same business (¶3-123), or
 
@@ -33,19 +33,19 @@ As indicated, before the amendments referred to, the same business test was the 
 
   in which a change of ownership or control occurred is an income year beginning on or after 1 July
 
-- debts incurred in income years beginning on or after 1 July 2015 that the company writes oﬀ as
+- debts incurred in income years beginning on or after 1 July 2015 that the company writes off as
 
   bad.
 
-Some general points Incomplete periods The business continuity test can be satisﬁed when the tested company exists for only part of the loss year or part of the income year (ITAA97 s 165-255).
+Some general points Incomplete periods The business continuity test can be satisfied when the tested company exists for only part of the loss year or part of the income year (ITAA97 s 165-255).
 
 Business continuity test: "test time" for prior year tax losses Section 165-13 provides for the following default test times to be used when applying the business continuity test in relation to prior year tax losses:
 
 - where practicable, the test time will be the latest time that the company can show that it has
 
-  satisﬁed the COT
+  satisfied the COT
 
-- where it is not practicable for the company to show that it has satisﬁed the COT for any period
+- where it is not practicable for the company to show that it has satisfied the COT for any period
 
   since incurring the loss:
 

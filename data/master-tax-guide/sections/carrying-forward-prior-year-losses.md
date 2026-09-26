@@ -7,11 +7,11 @@ paragraph: "¶16-895"
 ---
 # Carrying forward prior year losses ¶16-895
 
-In general, prior year losses are personal to the taxpayer who incurs them and are neither lost, for example by sale of the taxpayer's business, nor transferable to another (Case 52/96 96 ATC 498). For example, if a sole trader who has past tax losses from a bakery business sells that business, the purchaser cannot utilise the vendor's losses but the vendor can continue to claim them. The pre-incorporation losses of an association cannot be claimed after it is incorporated as the unincorporated association and the company are diﬀerent entities (ID 2004/811). Special rules apply to company groups under the consolidation rules (¶8-100) and under the group loss transfer rules that apply in limited circumstances (¶3-090).
+In general, prior year losses are personal to the taxpayer who incurs them and are neither lost, for example by sale of the taxpayer's business, nor transferable to another (Case 52/96 96 ATC 498). For example, if a sole trader who has past tax losses from a bakery business sells that business, the purchaser cannot utilise the vendor's losses but the vendor can continue to claim them. The pre-incorporation losses of an association cannot be claimed after it is incorporated as the unincorporated association and the company are different entities (ID 2004/811). Special rules apply to company groups under the consolidation rules (¶8-100) and under the group loss transfer rules that apply in limited circumstances (¶3-090).
 
-Where a loss is brought forward, it must ﬁrst be oﬀset against any "net exempt income" (¶16-880) and then against any assessable income remaining after all current year deductions are allowed (ITAA97 Div 36: ss 36-1 to 36-55). If, in the year of recoupment, the deductions exceed the total assessable income, that excess is subtracted from the net exempt income and the tax loss is deducted from any net exempt income which remains.
+Where a loss is brought forward, it must first be offset against any "net exempt income" (¶16-880) and then against any assessable income remaining after all current year deductions are allowed (ITAA97 Div 36: ss 36-1 to 36-55). If, in the year of recoupment, the deductions exceed the total assessable income, that excess is subtracted from the net exempt income and the tax loss is deducted from any net exempt income which remains.
 
-Example 1 Ian incurred a loss of $7,000 in Year 1. In Year 2 he has assessable business income ($18,000), allowable business deductions ($13,000) and net exempt income ($300). His Year 1 loss brought forward is oﬀset as to $300 against the net exempt income and as to $5,000 against the taxable income of $5,000 ($18,000 − $13,000). The Year 1 loss unrecouped as at the end of Year 2 ($7,000 − $5,300), ie $1,700, may be carried forward for deduction against income of Year 3 and so on.
+Example 1 Ian incurred a loss of $7,000 in Year 1. In Year 2 he has assessable business income ($18,000), allowable business deductions ($13,000) and net exempt income ($300). His Year 1 loss brought forward is offset as to $300 against the net exempt income and as to $5,000 against the taxable income of $5,000 ($18,000 − $13,000). The Year 1 loss unrecouped as at the end of Year 2 ($7,000 − $5,300), ie $1,700, may be carried forward for deduction against income of Year 3 and so on.
 
 Example 2 In Year 1, Lisa incurs a loss of $7,000. In Year 2, Lisa has assessable income ($20,000), allowable business deductions ($23,000) and net exempt income ($15,000). The excess of deductions over assessable income ($3,000) is subtracted from net exempt income, resulting in a balance of $12,000. The tax loss from Year 1 is deducted from that balance, reducing it to $5,000. The tax loss is now exhausted. See also ID 2004/810.
 
@@ -23,7 +23,7 @@ If there are 2 or more losses, they are deductible in the order in which they we
 
 Where a commercial debt is forgiven, the debtor's losses may be reduced under the rules discussed at ¶16-910.
 
-Other special loss rules A company cannot carry forward losses unless it satisﬁes either the "continuity of ownership" test or the "business continuity" test (¶3-105, ¶3-120). When calculating a qualifying shipping company's losses, 90% of the net exempt income is disregarded (ITAA97 ss 36-10(5); 36-17(4A)).
+Other special loss rules A company cannot carry forward losses unless it satisfies either the "continuity of ownership" test or the "business continuity" test (¶3-105, ¶3-120). When calculating a qualifying shipping company's losses, 90% of the net exempt income is disregarded (ITAA97 ss 36-10(5); 36-17(4A)).
 
 Strict rules apply to trust losses (¶6-262) and partnership losses are deductible to the partners (¶5-110).
 

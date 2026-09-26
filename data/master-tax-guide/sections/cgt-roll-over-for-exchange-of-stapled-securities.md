@@ -7,11 +7,11 @@ paragraph: "¶12-440"
 ---
 # CGT roll-over for exchange of stapled securities ¶12-440
 
-A roll-over is available where there is an exchange of ownership interests under a scheme for reorganising the aﬀairs of stapled entities (Subdiv 124-Q).
+A roll-over is available where there is an exchange of ownership interests under a scheme for reorganising the affairs of stapled entities (Subdiv 124-Q).
 
 Stapled entities are a group of entities that may consist of 2 or more trusts, or one or more companies and one or more trusts, whose ownership interests are stapled together to form stapled securities.
 
-Requirements for roll-over The roll-over is available to the holders of ownership interests of the stapled entities where, under a scheme for reorganising the aﬀairs of the entities, they dispose of their interests in the entities in exchange for a proportionate number of ownership interests in an interposed public unit trust. The roll-over is only available where the stapled entities include at least one entity that is taxed like a company and at least one that is not (s 124-1045).
+Requirements for roll-over The roll-over is available to the holders of ownership interests of the stapled entities where, under a scheme for reorganising the affairs of the entities, they dispose of their interests in the entities in exchange for a proportionate number of ownership interests in an interposed public unit trust. The roll-over is only available where the stapled entities include at least one entity that is taxed like a company and at least one that is not (s 124-1045).
 
 The exchanging member must be an Australian resident at the completion time or, if the member is a foreign resident:
 

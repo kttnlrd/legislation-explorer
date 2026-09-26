@@ -11,7 +11,7 @@ The taxation of ADFs is governed by Div 295 of ITAA97 and other ITAA36 and ITAA9
 
 An entity is eligible for concessional tax treatment as a complying ADF under Div 295 if:
 
-- it is an "approved deposit fund" (ie an indeﬁnitely continuing fund that is maintained by a body
+- it is an "approved deposit fund" (ie an indefinitely continuing fund that is maintained by a body
 
   corporate registrable superannuation entity (RSE) licensee solely for approved purposes (¶13-400))
 
@@ -37,7 +37,7 @@ The ITAA97 provisions governing deductions for superannuation funds similarly ap
 
 Other tax rules for ADFs A complying ADF is subject to the following taxation treatment (like complying superannuation funds):
 
-- certain roll-over superannuation beneﬁts (¶13-125) and payments of the shortfall component of
+- certain roll-over superannuation benefits (¶13-125) and payments of the shortfall component of
 
   the superannuation guarantee charge to a complying ADF are assessable contributions (ITAA97 ss
 
@@ -45,7 +45,7 @@ Other tax rules for ADFs A complying ADF is subject to the following taxation tr
 
 - liability on assessable contributions may be transferred (ITAA97 s 295-260)
 
-- complying ADFs are subject to modiﬁed CGT rules and are entitled to the CGT discount (¶13-130)
+- complying ADFs are subject to modified CGT rules and are entitled to the CGT discount (¶13-130)
 
 - the imputation system and entitlement to claim unused franking credits apply to complying ADFs
 
@@ -63,7 +63,7 @@ Other tax rules for ADFs A complying ADF is subject to the following taxation tr
 
   trusts" (¶6-262).
 
-A continuously complying ﬁxed interest ADF's income that is attributable to deposits of certain eligible depositors held in the fund at 25 May 1988 may be exempt from tax (ITTPA s 295-390). Stringent conditions and restrictions apply, such as the nature of the fund's investments, the age of depositors (who must be at least 50 years at 25 May 1988) and the source of the deposits.
+A continuously complying fixed interest ADF's income that is attributable to deposits of certain eligible depositors held in the fund at 25 May 1988 may be exempt from tax (ITTPA s 295-390). Stringent conditions and restrictions apply, such as the nature of the fund's investments, the age of depositors (who must be at least 50 years at 25 May 1988) and the source of the deposits.
 
 A non-complying ADF is not entitled to the tax concessions available to complying ADFs as noted above.
 

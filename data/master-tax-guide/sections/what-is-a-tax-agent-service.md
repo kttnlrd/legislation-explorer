@@ -11,9 +11,9 @@ The fundamental concept that underlies the registration regime for tax agents is
 
 An unregistered entity that provides a tax agent service for a fee or other reward, that advertises they will provide tax agent services or that represents that they are registered will contravene civil penalty provisions (TASA Subdiv 50-B).
 
-The deﬁnition of tax agent service has 2 elements (TASA s 90-5). The ﬁrst element is that the service must relate to: (1) ascertaining liabilities, obligations or entitlements of an entity that arise, or could arise, under a taxation law (2) advising an entity about liabilities, obligations or entitlements of the entity or another entity that arise, or could arise, under a taxation law, or (3) representing an entity in their dealings with the Commissioner.
+The definition of tax agent service has 2 elements (TASA s 90-5). The first element is that the service must relate to: (1) ascertaining liabilities, obligations or entitlements of an entity that arise, or could arise, under a taxation law (2) advising an entity about liabilities, obligations or entitlements of the entity or another entity that arise, or could arise, under a taxation law, or (3) representing an entity in their dealings with the Commissioner.
 
-The second element of the deﬁnition is that the service must be provided in circumstances where the entity can reasonably be expected to rely on the service for either or both of the following purposes:
+The second element of the definition is that the service must be provided in circumstances where the entity can reasonably be expected to rely on the service for either or both of the following purposes:
 
 - to satisfy liabilities or obligations that arise, or could arise, under a taxation law
 
@@ -41,9 +41,9 @@ A taxation law is (broadly) any Act of which the Commissioner has the general ad
 
 - dealing with the Commissioner on behalf of a taxpayer.
 
-The regulations specify a range of services that are not a tax agent service (Tax Agent Services Regulations 2022, reg 26). These include: a service that is provided by an auditor of a self managed superannuation fund under the Superannuation Industry (Supervision) Act 1993; a service provided between related entities (related entities include associated entities within the meaning of the Corporations Act 2001 (Cth) and entities under common ownership (as deﬁned)); a service provided by the trustee of a trust to the trust or an entity wholly controlled or owned by the trust; a service provided between partners in a partnership in relation to the partnership; and a service provided between the members of a joint venture in relation to the joint venture.
+The regulations specify a range of services that are not a tax agent service (Tax Agent Services Regulations 2022, reg 26). These include: a service that is provided by an auditor of a self managed superannuation fund under the Superannuation Industry (Supervision) Act 1993; a service provided between related entities (related entities include associated entities within the meaning of the Corporations Act 2001 (Cth) and entities under common ownership (as defined)); a service provided by the trustee of a trust to the trust or an entity wholly controlled or owned by the trust; a service provided between partners in a partnership in relation to the partnership; and a service provided between the members of a joint venture in relation to the joint venture.
 
-For the TPB's views on how the registration regime operates in relation to: insolvency practitioners, see TPB(I) 12/2012; valuers, see TPB(I) 16/2012; labour hire/on-hire ﬁrms, see TPB(I) 26/2016; and payroll service providers, see TPB(I) 31/2016.
+For the TPB's views on how the registration regime operates in relation to: insolvency practitioners, see TPB(I) 12/2012; valuers, see TPB(I) 16/2012; labour hire/on-hire firms, see TPB(I) 26/2016; and payroll service providers, see TPB(I) 31/2016.
 
 The TPB has released information sheets which deal with what constitutes a tax agent service or a BAS service and what constitutes a fee or other reward (TPB(I) 39/2023; TPB(I) 38/2023; TPB(I) 40/2023).
 

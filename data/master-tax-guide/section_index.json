@@ -84,8 +84,8 @@
     "chapter_title": "Introduction to Australian Tax System"
   },
   {
-    "id": "australian-taxation-oﬃce-ato",
-    "title": "Australian Taxation Oﬃce (ATO)",
+    "id": "australian-taxation-office-ato",
+    "title": "Australian Taxation Office (ATO)",
     "paragraph": "¶1-200",
     "chapter": "01",
     "chapter_title": "Introduction to Australian Tax System"
@@ -98,8 +98,8 @@
     "chapter_title": "Introduction to Australian Tax System"
   },
   {
-    "id": "conﬁdentiality-of-tax-information",
-    "title": "Conﬁdentiality of tax information",
+    "id": "confidentiality-of-tax-information",
+    "title": "Confidentiality of tax information",
     "paragraph": "¶1-220",
     "chapter": "01",
     "chapter_title": "Introduction to Australian Tax System"
@@ -427,8 +427,8 @@
     "chapter_title": "Companies"
   },
   {
-    "id": "public-oﬃcer",
-    "title": "Public oﬃcer",
+    "id": "public-officer",
+    "title": "Public officer",
     "paragraph": "¶3-030",
     "chapter": "03",
     "chapter_title": "Companies"
@@ -483,15 +483,15 @@
     "chapter_title": "Companies"
   },
   {
-    "id": "converting-excess-franking-oﬀsets-to-tax-loss",
-    "title": "Converting excess franking oﬀsets to tax loss",
+    "id": "converting-excess-franking-offsets-to-tax-loss",
+    "title": "Converting excess franking offsets to tax loss",
     "paragraph": "¶3-075",
     "chapter": "03",
     "chapter_title": "Companies"
   },
   {
-    "id": "temporary-loss-carry-back-tax-oﬀset",
-    "title": "Temporary loss carry back tax oﬀset",
+    "id": "temporary-loss-carry-back-tax-offset",
+    "title": "Temporary loss carry back tax offset",
     "paragraph": "¶3-080",
     "chapter": "03",
     "chapter_title": "Companies"
@@ -567,8 +567,8 @@
     "chapter_title": "Companies"
   },
   {
-    "id": "on-market-and-oﬀ-market-buy-backs",
-    "title": "On-market and oﬀ-market buy-backs",
+    "id": "on-market-and-off-market-buy-backs",
+    "title": "On-market and off-market buy-backs",
     "paragraph": "¶3-170",
     "chapter": "03",
     "chapter_title": "Companies"
@@ -686,8 +686,8 @@
     "chapter_title": "Companies"
   },
   {
-    "id": "speciﬁc-deductions-for-life-insurance-companies",
-    "title": "Speciﬁc deductions for life insurance companies",
+    "id": "specific-deductions-for-life-insurance-companies",
+    "title": "Specific deductions for life insurance companies",
     "paragraph": "¶3-510",
     "chapter": "03",
     "chapter_title": "Companies"
@@ -833,8 +833,8 @@
     "chapter_title": "Dividends • Imputation System"
   },
   {
-    "id": "proﬁts-and-their-source",
-    "title": "Proﬁts and their source",
+    "id": "profits-and-their-source",
+    "title": "Profits and their source",
     "paragraph": "¶4-140",
     "chapter": "04",
     "chapter_title": "Dividends • Imputation System"
@@ -903,8 +903,8 @@
     "chapter_title": "Dividends • Imputation System"
   },
   {
-    "id": "repayments-and-reﬁnancing-a-private-company-loan",
-    "title": "Repayments and reﬁnancing a private company loan",
+    "id": "repayments-and-refinancing-a-private-company-loan",
+    "title": "Repayments and refinancing a private company loan",
     "paragraph": "¶4-235",
     "chapter": "04",
     "chapter_title": "Dividends • Imputation System"
@@ -938,8 +938,8 @@
     "chapter_title": "Dividends • Imputation System"
   },
   {
-    "id": "oﬀset-of-div-7a-dividend-against-subsequent-dividend",
-    "title": "Oﬀset of Div 7A dividend against subsequent dividend",
+    "id": "offset-of-div-7a-dividend-against-subsequent-dividend",
+    "title": "Offset of Div 7A dividend against subsequent dividend",
     "paragraph": "¶4-252",
     "chapter": "04",
     "chapter_title": "Dividends • Imputation System"
@@ -1106,8 +1106,8 @@
     "chapter_title": "Dividends • Imputation System"
   },
   {
-    "id": "franking-surplus-or-deﬁcit",
-    "title": "Franking surplus or deﬁcit",
+    "id": "franking-surplus-or-deficit",
+    "title": "Franking surplus or deficit",
     "paragraph": "¶4-730",
     "chapter": "04",
     "chapter_title": "Dividends • Imputation System"
@@ -1127,15 +1127,15 @@
     "chapter_title": "Dividends • Imputation System"
   },
   {
-    "id": "liability-to-franking-deﬁcit-tax",
-    "title": "Liability to franking deﬁcit tax",
+    "id": "liability-to-franking-deficit-tax",
+    "title": "Liability to franking deficit tax",
     "paragraph": "¶4-780",
     "chapter": "04",
     "chapter_title": "Dividends • Imputation System"
   },
   {
-    "id": "eﬀect-of-receiving-a-franked-distribution",
-    "title": "Eﬀect of receiving a franked distribution",
+    "id": "effect-of-receiving-a-franked-distribution",
+    "title": "Effect of receiving a franked distribution",
     "paragraph": "¶4-800",
     "chapter": "04",
     "chapter_title": "Dividends • Imputation System"
@@ -1344,8 +1344,8 @@
     "chapter_title": "Partners and Partnerships"
   },
   {
-    "id": "partners-eﬀective-control-over-partnership-income",
-    "title": "Partner's eﬀective control over partnership income",
+    "id": "partners-effective-control-over-partnership-income",
+    "title": "Partner's effective control over partnership income",
     "paragraph": "¶5-190",
     "chapter": "05",
     "chapter_title": "Partners and Partnerships"
@@ -1407,8 +1407,8 @@
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
   },
   {
-    "id": "public-oﬃcer-of-trust",
-    "title": "Public oﬃcer of trust",
+    "id": "public-officer-of-trust",
+    "title": "Public officer of trust",
     "paragraph": "¶6-050",
     "chapter": "06",
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
@@ -1470,15 +1470,15 @@
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
   },
   {
-    "id": "meaning-of-speciﬁc-entitlement",
-    "title": "Meaning of speciﬁc entitlement",
+    "id": "meaning-of-specific-entitlement",
+    "title": "Meaning of specific entitlement",
     "paragraph": "¶6-107",
     "chapter": "06",
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
   },
   {
-    "id": "beneﬁciary-presently-entitled-but-under-legal-disability",
-    "title": "Beneﬁciary presently entitled but under legal disability",
+    "id": "beneficiary-presently-entitled-but-under-legal-disability",
+    "title": "Beneficiary presently entitled but under legal disability",
     "paragraph": "¶6-120",
     "chapter": "06",
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
@@ -1491,15 +1491,15 @@
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
   },
   {
-    "id": "distributions-out-of-corpus-to-income-beneﬁciary",
-    "title": "Distributions out of corpus to income beneﬁciary",
+    "id": "distributions-out-of-corpus-to-income-beneficiary",
+    "title": "Distributions out of corpus to income beneficiary",
     "paragraph": "¶6-140",
     "chapter": "06",
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
   },
   {
-    "id": "rates-of-tax-payable-by-beneﬁciaries",
-    "title": "Rates of tax payable by beneﬁciaries",
+    "id": "rates-of-tax-payable-by-beneficiaries",
+    "title": "Rates of tax payable by beneficiaries",
     "paragraph": "¶6-170",
     "chapter": "06",
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
@@ -1519,22 +1519,22 @@
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
   },
   {
-    "id": "minor-beneﬁciaries-etc",
-    "title": "Minor beneﬁciaries, etc",
+    "id": "minor-beneficiaries-etc",
+    "title": "Minor beneficiaries, etc",
     "paragraph": "¶6-210",
     "chapter": "06",
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
   },
   {
-    "id": "beneﬁciary-non-resident-at-end-of-income-year",
-    "title": "Beneﬁciary non-resident at end of income year",
+    "id": "beneficiary-non-resident-at-end-of-income-year",
+    "title": "Beneficiary non-resident at end of income year",
     "paragraph": "¶6-220",
     "chapter": "06",
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
   },
   {
-    "id": "no-beneﬁciary-presently-entitled",
-    "title": "No beneﬁciary presently entitled",
+    "id": "no-beneficiary-presently-entitled",
+    "title": "No beneficiary presently entitled",
     "paragraph": "¶6-230",
     "chapter": "06",
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
@@ -1624,8 +1624,8 @@
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
   },
   {
-    "id": "trustee-beneﬁciary-reporting-rules",
-    "title": "Trustee beneﬁciary reporting rules",
+    "id": "trustee-beneficiary-reporting-rules",
+    "title": "Trustee beneficiary reporting rules",
     "paragraph": "¶6-275",
     "chapter": "06",
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
@@ -1652,8 +1652,8 @@
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
   },
   {
-    "id": "eﬀect-of-taxing-a-public-trading-trust-as-a-company",
-    "title": "Eﬀect of taxing a public trading trust as a company",
+    "id": "effect-of-taxing-a-public-trading-trust-as-a-company",
+    "title": "Effect of taxing a public trading trust as a company",
     "paragraph": "¶6-330",
     "chapter": "06",
     "chapter_title": "Trustees • Beneficiaries • Deceased Estates"
@@ -1736,8 +1736,8 @@
     "chapter_title": "Small and Medium Business Entities"
   },
   {
-    "id": "signiﬁcant-individual-test",
-    "title": "Signiﬁcant individual test",
+    "id": "significant-individual-test",
+    "title": "Significant individual test",
     "paragraph": "¶7-155",
     "chapter": "07",
     "chapter_title": "Small and Medium Business Entities"
@@ -1806,22 +1806,22 @@
     "chapter_title": "Small and Medium Business Entities"
   },
   {
-    "id": "small-business-income-tax-oﬀset",
-    "title": "Small business income tax oﬀset",
+    "id": "small-business-income-tax-offset",
+    "title": "Small business income tax offset",
     "paragraph": "¶7-210",
     "chapter": "07",
     "chapter_title": "Small and Medium Business Entities"
   },
   {
-    "id": "simpliﬁed-depreciation-for-small-business",
-    "title": "Simpliﬁed depreciation for small business",
+    "id": "simplified-depreciation-for-small-business",
+    "title": "Simplified depreciation for small business",
     "paragraph": "¶7-250",
     "chapter": "07",
     "chapter_title": "Small and Medium Business Entities"
   },
   {
-    "id": "simpliﬁed-trading-stock-rules",
-    "title": "Simpliﬁed trading stock rules",
+    "id": "simplified-trading-stock-rules",
+    "title": "Simplified trading stock rules",
     "paragraph": "¶7-260",
     "chapter": "07",
     "chapter_title": "Small and Medium Business Entities"
@@ -1911,8 +1911,8 @@
     "chapter_title": "Consolidated Groups"
   },
   {
-    "id": "oﬀsets",
-    "title": "oﬀsets",
+    "id": "offsets",
+    "title": "offsets",
     "paragraph": "¶8-300",
     "chapter": "08",
     "chapter_title": "Consolidated Groups"
@@ -1995,8 +1995,8 @@
     "chapter_title": "Tax Accounting • Trading Stock"
   },
   {
-    "id": "the-ﬁnancial-year-and-the-income-year",
-    "title": "The ﬁnancial year and the income year",
+    "id": "the-financial-year-and-the-income-year",
+    "title": "The financial year and the income year",
     "paragraph": "¶9-005",
     "chapter": "09",
     "chapter_title": "Tax Accounting • Trading Stock"
@@ -2240,8 +2240,8 @@
     "chapter_title": "Assessable Income • Tax Exemptions"
   },
   {
-    "id": "allowances-and-fringe-beneﬁts",
-    "title": "Allowances and fringe beneﬁts",
+    "id": "allowances-and-fringe-benefits",
+    "title": "Allowances and fringe benefits",
     "paragraph": "¶10-060",
     "chapter": "10",
     "chapter_title": "Assessable Income • Tax Exemptions"
@@ -2387,8 +2387,8 @@
     "chapter_title": "Assessable Income • Tax Exemptions"
   },
   {
-    "id": "compensation-for-loss-of-trading-stock-and-proﬁts",
-    "title": "Compensation for loss of trading stock and proﬁts",
+    "id": "compensation-for-loss-of-trading-stock-and-profits",
+    "title": "Compensation for loss of trading stock and profits",
     "paragraph": "¶10-170",
     "chapter": "10",
     "chapter_title": "Assessable Income • Tax Exemptions"
@@ -2443,8 +2443,8 @@
     "chapter_title": "Assessable Income • Tax Exemptions"
   },
   {
-    "id": "veterans-pensions-and-similar-beneﬁts",
-    "title": "Veterans' pensions and similar beneﬁts",
+    "id": "veterans-pensions-and-similar-benefits",
+    "title": "Veterans' pensions and similar benefits",
     "paragraph": "¶10-200",
     "chapter": "10",
     "chapter_title": "Assessable Income • Tax Exemptions"
@@ -2513,15 +2513,15 @@
     "chapter_title": "Assessable Income • Tax Exemptions"
   },
   {
-    "id": "proﬁts-from-sale-of-property",
-    "title": "Proﬁts from sale of property",
+    "id": "profits-from-sale-of-property",
+    "title": "Profits from sale of property",
     "paragraph": "¶10-340",
     "chapter": "10",
     "chapter_title": "Assessable Income • Tax Exemptions"
   },
   {
-    "id": "proﬁt-on-sale-of-leased-cars",
-    "title": "Proﬁt on sale of leased cars",
+    "id": "profit-on-sale-of-leased-cars",
+    "title": "Profit on sale of leased cars",
     "paragraph": "¶10-380",
     "chapter": "10",
     "chapter_title": "Assessable Income • Tax Exemptions"
@@ -2541,8 +2541,8 @@
     "chapter_title": "Assessable Income • Tax Exemptions"
   },
   {
-    "id": "proﬁt-on-sale-of-other-leased-equipment",
-    "title": "Proﬁt on sale of other leased equipment",
+    "id": "profit-on-sale-of-other-leased-equipment",
+    "title": "Profit on sale of other leased equipment",
     "paragraph": "¶10-422",
     "chapter": "10",
     "chapter_title": "Assessable Income • Tax Exemptions"
@@ -2842,8 +2842,8 @@
     "chapter_title": "Capital Gains Tax • General Topics"
   },
   {
-    "id": "discount-for-qualifying-aﬀordable-housing",
-    "title": "Discount for qualifying aﬀordable housing",
+    "id": "discount-for-qualifying-affordable-housing",
+    "title": "Discount for qualifying affordable housing",
     "paragraph": "¶11-037",
     "chapter": "11",
     "chapter_title": "Capital Gains Tax • General Topics"
@@ -2863,8 +2863,8 @@
     "chapter_title": "Capital Gains Tax • General Topics"
   },
   {
-    "id": "exceptions-and-modiﬁcations-to-general-cgt-rules",
-    "title": "Exceptions and modiﬁcations to general CGT rules",
+    "id": "exceptions-and-modifications-to-general-cgt-rules",
+    "title": "Exceptions and modifications to general CGT rules",
     "paragraph": "¶11-050",
     "chapter": "11",
     "chapter_title": "Capital Gains Tax • General Topics"
@@ -2926,8 +2926,8 @@
     "chapter_title": "Capital Gains Tax • General Topics"
   },
   {
-    "id": "diﬀerent-entity-makes-capital-gain-or-loss",
-    "title": "Diﬀerent entity makes capital gain or loss",
+    "id": "different-entity-makes-capital-gain-or-loss",
+    "title": "Different entity makes capital gain or loss",
     "paragraph": "¶11-210",
     "chapter": "11",
     "chapter_title": "Capital Gains Tax • General Topics"
@@ -3059,8 +3059,8 @@
     "chapter_title": "Capital Gains Tax • General Topics"
   },
   {
-    "id": "speciﬁc-cgt-acquisition-rules",
-    "title": "Speciﬁc CGT acquisition rules",
+    "id": "specific-cgt-acquisition-rules",
+    "title": "Specific CGT acquisition rules",
     "paragraph": "¶11-460",
     "chapter": "11",
     "chapter_title": "Capital Gains Tax • General Topics"
@@ -3080,15 +3080,15 @@
     "chapter_title": "Capital Gains Tax • General Topics"
   },
   {
-    "id": "modiﬁcations-to-rules-for-capital-proceeds",
-    "title": "Modiﬁcations to rules for capital proceeds",
+    "id": "modifications-to-rules-for-capital-proceeds",
+    "title": "Modifications to rules for capital proceeds",
     "paragraph": "¶11-510",
     "chapter": "11",
     "chapter_title": "Capital Gains Tax • General Topics"
   },
   {
-    "id": "speciﬁc-rules-for-capital-proceeds",
-    "title": "Speciﬁc rules for capital proceeds",
+    "id": "specific-rules-for-capital-proceeds",
+    "title": "Specific rules for capital proceeds",
     "paragraph": "¶11-520",
     "chapter": "11",
     "chapter_title": "Capital Gains Tax • General Topics"
@@ -3108,15 +3108,15 @@
     "chapter_title": "Capital Gains Tax • General Topics"
   },
   {
-    "id": "replacement-asset-roll-over-modiﬁcations",
-    "title": "Replacement-asset roll-over modiﬁcations",
+    "id": "replacement-asset-roll-over-modifications",
+    "title": "Replacement-asset roll-over modifications",
     "paragraph": "¶11-590",
     "chapter": "11",
     "chapter_title": "Capital Gains Tax • General Topics"
   },
   {
-    "id": "same-asset-roll-over-modiﬁcations",
-    "title": "Same-asset roll-over modiﬁcations",
+    "id": "same-asset-roll-over-modifications",
+    "title": "Same-asset roll-over modifications",
     "paragraph": "¶11-600",
     "chapter": "11",
     "chapter_title": "Capital Gains Tax • General Topics"
@@ -3234,8 +3234,8 @@
     "chapter_title": "Capital Gains Tax • General Topics"
   },
   {
-    "id": "cgt-entitlements-under-the-ﬁnancial-claims-scheme",
-    "title": "CGT: entitlements under the ﬁnancial claims scheme",
+    "id": "cgt-entitlements-under-the-financial-claims-scheme",
+    "title": "CGT: entitlements under the financial claims scheme",
     "paragraph": "¶11-895",
     "chapter": "11",
     "chapter_title": "Capital Gains Tax • General Topics"
@@ -3255,8 +3255,8 @@
     "chapter_title": "Capital Gains Tax • General Topics"
   },
   {
-    "id": "cgt-exemption-for-granny-ﬂat-arrangements",
-    "title": "CGT: Exemption for granny ﬂat arrangements",
+    "id": "cgt-exemption-for-granny-flat-arrangements",
+    "title": "CGT: Exemption for granny flat arrangements",
     "paragraph": "¶11-915",
     "chapter": "11",
     "chapter_title": "Capital Gains Tax • General Topics"
@@ -3283,8 +3283,8 @@
     "chapter_title": "Capital Gains Tax • Special Topics"
   },
   {
-    "id": "types-and-eﬀect-of-cgt-roll-over-of-asset",
-    "title": "Types and eﬀect of CGT roll-over of asset",
+    "id": "types-and-effect-of-cgt-roll-over-of-asset",
+    "title": "Types and effect of CGT roll-over of asset",
     "paragraph": "¶12-035",
     "chapter": "12",
     "chapter_title": "Capital Gains Tax • Special Topics"
@@ -3507,8 +3507,8 @@
     "chapter_title": "Capital Gains Tax • Special Topics"
   },
   {
-    "id": "cgt-roll-over-for-assets-between-ﬁxed-trusts",
-    "title": "CGT roll-over for assets between ﬁxed trusts",
+    "id": "cgt-roll-over-for-assets-between-fixed-trusts",
+    "title": "CGT roll-over for assets between fixed trusts",
     "paragraph": "¶12-552",
     "chapter": "12",
     "chapter_title": "Capital Gains Tax • Special Topics"
@@ -3584,8 +3584,8 @@
     "chapter_title": "Capital Gains Tax • Special Topics"
   },
   {
-    "id": "cgt-cost-base-modiﬁcations-for-leases",
-    "title": "CGT cost base modiﬁcations for leases",
+    "id": "cgt-cost-base-modifications-for-leases",
+    "title": "CGT cost base modifications for leases",
     "paragraph": "¶12-680",
     "chapter": "12",
     "chapter_title": "Capital Gains Tax • Special Topics"
@@ -3710,8 +3710,8 @@
     "chapter_title": "Superannuation Funds • Contributions"
   },
   {
-    "id": "accessing-superannuation-beneﬁts",
-    "title": "Accessing superannuation beneﬁts",
+    "id": "accessing-superannuation-benefits",
+    "title": "Accessing superannuation benefits",
     "paragraph": "¶13-025",
     "chapter": "13",
     "chapter_title": "Superannuation Funds • Contributions"
@@ -3934,15 +3934,15 @@
     "chapter_title": "Superannuation Funds • Contributions"
   },
   {
-    "id": "low-income-superannuation-tax-oﬀset",
-    "title": "Low income superannuation tax oﬀset",
+    "id": "low-income-superannuation-tax-offset",
+    "title": "Low income superannuation tax offset",
     "paragraph": "¶13-765",
     "chapter": "13",
     "chapter_title": "Superannuation Funds • Contributions"
   },
   {
-    "id": "spouse-contributions-tax-oﬀset",
-    "title": "Spouse contributions tax oﬀset",
+    "id": "spouse-contributions-tax-offset",
+    "title": "Spouse contributions tax offset",
     "paragraph": "¶13-770",
     "chapter": "13",
     "chapter_title": "Superannuation Funds • Contributions"
@@ -3997,8 +3997,8 @@
     "chapter_title": "Superannuation Funds • Contributions"
   },
   {
-    "id": "acceptance-of-contributions-and-beneﬁt-accruals",
-    "title": "Acceptance of contributions and beneﬁt accruals",
+    "id": "acceptance-of-contributions-and-benefit-accruals",
+    "title": "Acceptance of contributions and benefit accruals",
     "paragraph": "¶13-925",
     "chapter": "13",
     "chapter_title": "Superannuation Funds • Contributions"
@@ -4018,8 +4018,8 @@
     "chapter_title": "Superannuation Funds • Contributions"
   },
   {
-    "id": "what-is-a-superannuation-beneﬁt",
-    "title": "What is a superannuation beneﬁt?",
+    "id": "what-is-a-superannuation-benefit",
+    "title": "What is a superannuation benefit?",
     "paragraph": "¶14-100",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
@@ -4039,15 +4039,15 @@
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "tax-free-component-of-a-superannuation-beneﬁt",
-    "title": "Tax free component of a superannuation beneﬁt",
+    "id": "tax-free-component-of-a-superannuation-benefit",
+    "title": "Tax free component of a superannuation benefit",
     "paragraph": "¶14-140",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "taxable-component-of-a-superannuation-beneﬁt",
-    "title": "Taxable component of a superannuation beneﬁt",
+    "id": "taxable-component-of-a-superannuation-benefit",
+    "title": "Taxable component of a superannuation benefit",
     "paragraph": "¶14-150",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
@@ -4060,29 +4060,29 @@
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "superannuation-death-beneﬁts",
-    "title": "Superannuation death beneﬁts",
+    "id": "superannuation-death-benefits",
+    "title": "Superannuation death benefits",
     "paragraph": "¶14-270",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "taxation-of-superannuation-death-beneﬁts",
-    "title": "Taxation of superannuation death beneﬁts",
+    "id": "taxation-of-superannuation-death-benefits",
+    "title": "Taxation of superannuation death benefits",
     "paragraph": "¶14-280",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "beneﬁts-paid-in-breach-of-rules",
-    "title": "Beneﬁts paid in breach of rules",
+    "id": "benefits-paid-in-breach-of-rules",
+    "title": "Benefits paid in breach of rules",
     "paragraph": "¶14-300",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "beneﬁts-paid-in-particular-circumstances",
-    "title": "Beneﬁts paid in particular circumstances",
+    "id": "benefits-paid-in-particular-circumstances",
+    "title": "Benefits paid in particular circumstances",
     "paragraph": "¶14-310",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
@@ -4095,8 +4095,8 @@
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "modiﬁcations-for-child-beneﬁt-recipients",
-    "title": "Modiﬁcations for child beneﬁt recipients",
+    "id": "modifications-for-child-benefit-recipients",
+    "title": "Modifications for child benefit recipients",
     "paragraph": "¶14-330",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
@@ -4123,22 +4123,22 @@
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "eﬀect-of-exceeding-the-deﬁned-beneﬁt-income-cap",
-    "title": "Eﬀect of exceeding the deﬁned beneﬁt income cap",
+    "id": "effect-of-exceeding-the-defined-benefit-income-cap",
+    "title": "Effect of exceeding the defined benefit income cap",
     "paragraph": "¶14-370",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "beneﬁts-from-australian-superannuation-funds",
-    "title": "Beneﬁts from Australian superannuation funds",
+    "id": "benefits-from-australian-superannuation-funds",
+    "title": "Benefits from Australian superannuation funds",
     "paragraph": "¶14-400",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "beneﬁts-from-foreign-superannuation-funds",
-    "title": "Beneﬁts from foreign superannuation funds",
+    "id": "benefits-from-foreign-superannuation-funds",
+    "title": "Benefits from foreign superannuation funds",
     "paragraph": "¶14-420",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
@@ -4172,8 +4172,8 @@
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "taxation-of-life-beneﬁt-termination-payments",
-    "title": "Taxation of life beneﬁt termination payments",
+    "id": "taxation-of-life-benefit-termination-payments",
+    "title": "Taxation of life benefit termination payments",
     "paragraph": "¶14-620",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
@@ -4193,8 +4193,8 @@
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "death-beneﬁt-termination-payments",
-    "title": "Death beneﬁt termination payments",
+    "id": "death-benefit-termination-payments",
+    "title": "Death benefit termination payments",
     "paragraph": "¶14-680",
     "chapter": "14",
     "chapter_title": "Superannuation Benefits • Termination Payments"
@@ -4235,43 +4235,43 @@
     "chapter_title": "Superannuation Benefits • Termination Payments"
   },
   {
-    "id": "what-is-a-personal-tax-oﬀset",
-    "title": "What is a personal tax oﬀset?",
+    "id": "what-is-a-personal-tax-offset",
+    "title": "What is a personal tax offset?",
     "paragraph": "¶15-000",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
   },
   {
-    "id": "tax-oﬀset-ﬁnding-table",
-    "title": "Tax oﬀset ﬁnding table",
+    "id": "tax-offset-finding-table",
+    "title": "Tax offset finding table",
     "paragraph": "¶15-005",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
   },
   {
-    "id": "personal-tax-oﬀsets-priority-rules",
-    "title": "Personal tax oﬀsets priority rules",
+    "id": "personal-tax-offsets-priority-rules",
+    "title": "Personal tax offsets priority rules",
     "paragraph": "¶15-010",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
   },
   {
-    "id": "income-test-for-certain-tax-oﬀsets",
-    "title": "Income test for certain tax oﬀsets",
+    "id": "income-test-for-certain-tax-offsets",
+    "title": "Income test for certain tax offsets",
     "paragraph": "¶15-025",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
   },
   {
-    "id": "dependant-invalid-and-carer-tax-oﬀset",
-    "title": "Dependant (Invalid and Carer) Tax Oﬀset",
+    "id": "dependant-invalid-and-carer-tax-offset",
+    "title": "Dependant (Invalid and Carer) Tax Offset",
     "paragraph": "¶15-100",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
   },
   {
-    "id": "deﬁnitions-of-dependant-for-dicto",
-    "title": "Deﬁnitions of dependant for DICTO",
+    "id": "definitions-of-dependant-for-dicto",
+    "title": "Definitions of dependant for DICTO",
     "paragraph": "¶15-120",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
@@ -4298,29 +4298,29 @@
     "chapter_title": "Personal Tax Offsets"
   },
   {
-    "id": "oﬀsets-for-low-and-middle-income-taxpayers",
-    "title": "Oﬀsets for low and middle income taxpayers",
+    "id": "offsets-for-low-and-middle-income-taxpayers",
+    "title": "Offsets for low and middle income taxpayers",
     "paragraph": "¶15-300",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
   },
   {
-    "id": "senior-australians-and-pensioners-tax-oﬀset",
-    "title": "Senior Australians and pensioners tax oﬀset",
+    "id": "senior-australians-and-pensioners-tax-offset",
+    "title": "Senior Australians and pensioners tax offset",
     "paragraph": "¶15-310",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
   },
   {
-    "id": "recipients-of-social-security-beneﬁts-and-allowances",
-    "title": "Recipients of social security beneﬁts and allowances",
+    "id": "recipients-of-social-security-benefits-and-allowances",
+    "title": "Recipients of social security benefits and allowances",
     "paragraph": "¶15-315",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
   },
   {
-    "id": "oﬀset-for-private-health-insurance",
-    "title": "Oﬀset for private health insurance",
+    "id": "offset-for-private-health-insurance",
+    "title": "Offset for private health insurance",
     "paragraph": "¶15-330",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
@@ -4333,8 +4333,8 @@
     "chapter_title": "Personal Tax Offsets"
   },
   {
-    "id": "medicare-levy-surcharge-lump-sum-arrears-oﬀset",
-    "title": "Medicare levy surcharge lump sum arrears oﬀset",
+    "id": "medicare-levy-surcharge-lump-sum-arrears-offset",
+    "title": "Medicare levy surcharge lump sum arrears offset",
     "paragraph": "¶15-350",
     "chapter": "15",
     "chapter_title": "Personal Tax Offsets"
@@ -4452,8 +4452,8 @@
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
   },
   {
-    "id": "non-deductible-non-cash-business-beneﬁts",
-    "title": "Non-deductible non-cash business beneﬁts",
+    "id": "non-deductible-non-cash-business-benefits",
+    "title": "Non-deductible non-cash business benefits",
     "paragraph": "¶16-157",
     "chapter": "16",
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
@@ -4676,8 +4676,8 @@
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
   },
   {
-    "id": "deductions-for-home-oﬃce-expenses",
-    "title": "Deductions for home oﬃce expenses",
+    "id": "deductions-for-home-office-expenses",
+    "title": "Deductions for home office expenses",
     "paragraph": "¶16-480",
     "chapter": "16",
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
@@ -4704,8 +4704,8 @@
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
   },
   {
-    "id": "salaries-wages-directors-fees-fringe-beneﬁts",
-    "title": "Salaries, wages, directors' fees, fringe beneﬁts",
+    "id": "salaries-wages-directors-fees-fringe-benefits",
+    "title": "Salaries, wages, directors' fees, fringe benefits",
     "paragraph": "¶16-520",
     "chapter": "16",
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
@@ -4928,8 +4928,8 @@
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
   },
   {
-    "id": "deductions-for-ﬁnes-and-breaches-of-law",
-    "title": "Deductions for ﬁnes and breaches of law",
+    "id": "deductions-for-fines-and-breaches-of-law",
+    "title": "Deductions for fines and breaches of law",
     "paragraph": "¶16-845",
     "chapter": "16",
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
@@ -4963,8 +4963,8 @@
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
   },
   {
-    "id": "eﬀect-of-gst-on-deductions",
-    "title": "Eﬀect of GST on deductions",
+    "id": "effect-of-gst-on-deductions",
+    "title": "Effect of GST on deductions",
     "paragraph": "¶16-860",
     "chapter": "16",
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
@@ -5026,8 +5026,8 @@
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
   },
   {
-    "id": "speciﬁc-recipients-of-tax-deductible-gifts",
-    "title": "Speciﬁc recipients of tax-deductible gifts",
+    "id": "specific-recipients-of-tax-deductible-gifts",
+    "title": "Specific recipients of tax-deductible gifts",
     "paragraph": "¶16-952",
     "chapter": "16",
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
@@ -5068,8 +5068,8 @@
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
   },
   {
-    "id": "gifts-of-national-heritage-signiﬁcance",
-    "title": "Gifts of national heritage signiﬁcance",
+    "id": "gifts-of-national-heritage-significance",
+    "title": "Gifts of national heritage significance",
     "paragraph": "¶16-967",
     "chapter": "16",
     "chapter_title": "Business, Employment and Investment Deductions • Gifts"
@@ -5159,8 +5159,8 @@
     "chapter_title": "Depreciating Assets"
   },
   {
-    "id": "deﬁnition-of-market-value",
-    "title": "Deﬁnition of market value",
+    "id": "definition-of-market-value",
+    "title": "Definition of market value",
     "paragraph": "¶17-050",
     "chapter": "17",
     "chapter_title": "Depreciating Assets"
@@ -5222,29 +5222,29 @@
     "chapter_title": "Depreciating Assets"
   },
   {
-    "id": "eﬀective-life-of-depreciating-asset",
-    "title": "Eﬀective life of depreciating asset",
+    "id": "effective-life-of-depreciating-asset",
+    "title": "Effective life of depreciating asset",
     "paragraph": "¶17-270",
     "chapter": "17",
     "chapter_title": "Depreciating Assets"
   },
   {
-    "id": "statutory-eﬀective-life-of-depreciating-asset",
-    "title": "Statutory eﬀective life of depreciating asset",
+    "id": "statutory-effective-life-of-depreciating-asset",
+    "title": "Statutory effective life of depreciating asset",
     "paragraph": "¶17-280",
     "chapter": "17",
     "chapter_title": "Depreciating Assets"
   },
   {
-    "id": "small-business-simpliﬁed-depreciation-rules",
-    "title": "Small business simpliﬁed depreciation rules",
+    "id": "small-business-simplified-depreciation-rules",
+    "title": "Small business simplified depreciation rules",
     "paragraph": "¶17-325",
     "chapter": "17",
     "chapter_title": "Depreciating Assets"
   },
   {
-    "id": "low-cost-assets-and-immediate-write-oﬀs",
-    "title": "Low-cost assets and immediate write-oﬀs",
+    "id": "low-cost-assets-and-immediate-write-offs",
+    "title": "Low-cost assets and immediate write-offs",
     "paragraph": "¶17-330",
     "chapter": "17",
     "chapter_title": "Depreciating Assets"
@@ -5355,8 +5355,8 @@
     "chapter_title": "Depreciating Assets"
   },
   {
-    "id": "oﬀsetting-balancing-charge-for-involuntary-disposals",
-    "title": "Oﬀsetting balancing charge for involuntary disposals",
+    "id": "offsetting-balancing-charge-for-involuntary-disposals",
+    "title": "Offsetting balancing charge for involuntary disposals",
     "paragraph": "¶17-720",
     "chapter": "17",
     "chapter_title": "Depreciating Assets"
@@ -5481,8 +5481,8 @@
     "chapter_title": "Primary Production Concessions"
   },
   {
-    "id": "proﬁt-from-forced-disposal-or-death-of-live-stock",
-    "title": "Proﬁt from forced disposal or death of live stock",
+    "id": "profit-from-forced-disposal-or-death-of-live-stock",
+    "title": "Profit from forced disposal or death of live stock",
     "paragraph": "¶18-160",
     "chapter": "18",
     "chapter_title": "Primary Production Concessions"
@@ -5502,8 +5502,8 @@
     "chapter_title": "Primary Production Concessions"
   },
   {
-    "id": "example-averaging-adjustment-tax-oﬀset",
-    "title": "Example: averaging adjustment — tax oﬀset",
+    "id": "example-averaging-adjustment-tax-offset",
+    "title": "Example: averaging adjustment — tax offset",
     "paragraph": "¶18-250",
     "chapter": "18",
     "chapter_title": "Primary Production Concessions"
@@ -5572,8 +5572,8 @@
     "chapter_title": "Mining • Infrastructure • Environmental Protection"
   },
   {
-    "id": "beneﬁts",
-    "title": "beneﬁts",
+    "id": "benefits",
+    "title": "benefits",
     "paragraph": "¶19-006",
     "chapter": "19",
     "chapter_title": "Mining • Infrastructure • Environmental Protection"
@@ -5712,36 +5712,36 @@
     "chapter_title": "R&D • Films • Digital Games • Capital Works • NRAS • Innovation Incentives"
   },
   {
-    "id": "producer-oﬀset",
-    "title": "Producer oﬀset",
+    "id": "producer-offset",
+    "title": "Producer offset",
     "paragraph": "¶20-340",
     "chapter": "20",
     "chapter_title": "R&D • Films • Digital Games • Capital Works • NRAS • Innovation Incentives"
   },
   {
-    "id": "location-oﬀset",
-    "title": "Location oﬀset",
+    "id": "location-offset",
+    "title": "Location offset",
     "paragraph": "¶20-350",
     "chapter": "20",
     "chapter_title": "R&D • Films • Digital Games • Capital Works • NRAS • Innovation Incentives"
   },
   {
-    "id": "pdv-oﬀset",
-    "title": "PDV oﬀset",
+    "id": "pdv-offset",
+    "title": "PDV offset",
     "paragraph": "¶20-360",
     "chapter": "20",
     "chapter_title": "R&D • Films • Digital Games • Capital Works • NRAS • Innovation Incentives"
   },
   {
-    "id": "digital-games-tax-oﬀset",
-    "title": "Digital games tax oﬀset",
+    "id": "digital-games-tax-offset",
+    "title": "Digital games tax offset",
     "paragraph": "¶20-400",
     "chapter": "20",
     "chapter_title": "R&D • Films • Digital Games • Capital Works • NRAS • Innovation Incentives"
   },
   {
-    "id": "amount-of-the-digital-games-tax-oﬀset",
-    "title": "Amount of the digital games tax oﬀset",
+    "id": "amount-of-the-digital-games-tax-offset",
+    "title": "Amount of the digital games tax offset",
     "paragraph": "¶20-415",
     "chapter": "20",
     "chapter_title": "R&D • Films • Digital Games • Capital Works • NRAS • Innovation Incentives"
@@ -5810,8 +5810,8 @@
     "chapter_title": "R&D • Films • Digital Games • Capital Works • NRAS • Innovation Incentives"
   },
   {
-    "id": "nras-refundable-tax-oﬀset",
-    "title": "NRAS refundable tax oﬀset",
+    "id": "nras-refundable-tax-offset",
+    "title": "NRAS refundable tax offset",
     "paragraph": "¶20-605",
     "chapter": "20",
     "chapter_title": "R&D • Films • Digital Games • Capital Works • NRAS • Innovation Incentives"
@@ -6034,8 +6034,8 @@
     "chapter_title": "Residence • Source • Foreign Tax Offsets • Accruals Taxation"
   },
   {
-    "id": "oﬀshore-information-notices",
-    "title": "Oﬀshore information notices",
+    "id": "offshore-information-notices",
+    "title": "Offshore information notices",
     "paragraph": "¶21-220",
     "chapter": "21",
     "chapter_title": "Residence • Source • Foreign Tax Offsets • Accruals Taxation"
@@ -6111,8 +6111,8 @@
     "chapter_title": "Residence • Source • Foreign Tax Offsets • Accruals Taxation"
   },
   {
-    "id": "entitlement-to-foreign-income-tax-oﬀset",
-    "title": "Entitlement to foreign income tax oﬀset",
+    "id": "entitlement-to-foreign-income-tax-offset",
+    "title": "Entitlement to foreign income tax offset",
     "paragraph": "¶21-680",
     "chapter": "21",
     "chapter_title": "Residence • Source • Foreign Tax Offsets • Accruals Taxation"
@@ -6125,8 +6125,8 @@
     "chapter_title": "Residence • Source • Foreign Tax Offsets • Accruals Taxation"
   },
   {
-    "id": "amount-of-foreign-income-tax-oﬀset",
-    "title": "Amount of foreign income tax oﬀset",
+    "id": "amount-of-foreign-income-tax-offset",
+    "title": "Amount of foreign income tax offset",
     "paragraph": "¶21-710",
     "chapter": "21",
     "chapter_title": "Residence • Source • Foreign Tax Offsets • Accruals Taxation"
@@ -6202,8 +6202,8 @@
     "chapter_title": "Non-resident Withholding • DTAs • Transfer Pricing • Thin Capitalisation"
   },
   {
-    "id": "interest-on-certain-publicly-oﬀered-debentures",
-    "title": "Interest on certain publicly oﬀered debentures",
+    "id": "interest-on-certain-publicly-offered-debentures",
+    "title": "Interest on certain publicly offered debentures",
     "paragraph": "¶22-022",
     "chapter": "22",
     "chapter_title": "Non-resident Withholding • DTAs • Transfer Pricing • Thin Capitalisation"
@@ -6370,8 +6370,8 @@
     "chapter_title": "Non-resident Withholding • DTAs • Transfer Pricing • Thin Capitalisation"
   },
   {
-    "id": "taxation-of-ﬁnancial-arrangements",
-    "title": "Taxation of ﬁnancial arrangements",
+    "id": "taxation-of-financial-arrangements",
+    "title": "Taxation of financial arrangements",
     "paragraph": "¶23-000",
     "chapter": "23",
     "chapter_title": "Financial Arrangements • TOFA"
@@ -6391,8 +6391,8 @@
     "chapter_title": "Financial Arrangements • TOFA"
   },
   {
-    "id": "meaning-of-ﬁnancial-arrangements",
-    "title": "Meaning of ﬁnancial arrangements",
+    "id": "meaning-of-financial-arrangements",
+    "title": "Meaning of financial arrangements",
     "paragraph": "¶23-030",
     "chapter": "23",
     "chapter_title": "Financial Arrangements • TOFA"
@@ -6433,8 +6433,8 @@
     "chapter_title": "Financial Arrangements • TOFA"
   },
   {
-    "id": "financial-beneﬁts",
-    "title": "Financial beneﬁts",
+    "id": "financial-benefits",
+    "title": "Financial benefits",
     "paragraph": "¶23-110",
     "chapter": "23",
     "chapter_title": "Financial Arrangements • TOFA"
@@ -6468,8 +6468,8 @@
     "chapter_title": "Financial Arrangements • TOFA"
   },
   {
-    "id": "asset-ﬁnancing-and-tax-preferred-entities",
-    "title": "Asset ﬁnancing and tax-preferred entities",
+    "id": "asset-financing-and-tax-preferred-entities",
+    "title": "Asset financing and tax-preferred entities",
     "paragraph": "¶23-210",
     "chapter": "23",
     "chapter_title": "Financial Arrangements • TOFA"
@@ -6608,8 +6608,8 @@
     "chapter_title": "Returns • Activity Statements • RBAs • Rulings"
   },
   {
-    "id": "elections-choices-and-notiﬁcations",
-    "title": "Elections, choices and notiﬁcations",
+    "id": "elections-choices-and-notifications",
+    "title": "Elections, choices and notifications",
     "paragraph": "¶24-040",
     "chapter": "24",
     "chapter_title": "Returns • Activity Statements • RBAs • Rulings"
@@ -6664,8 +6664,8 @@
     "chapter_title": "Returns • Activity Statements • RBAs • Rulings"
   },
   {
-    "id": "notiﬁcation-and-payment-of-reported-amounts",
-    "title": "Notiﬁcation and payment of reported amounts",
+    "id": "notification-and-payment-of-reported-amounts",
+    "title": "Notification and payment of reported amounts",
     "paragraph": "¶24-260",
     "chapter": "24",
     "chapter_title": "Returns • Activity Statements • RBAs • Rulings"
@@ -6685,8 +6685,8 @@
     "chapter_title": "Returns • Activity Statements • RBAs • Rulings"
   },
   {
-    "id": "rba-deﬁcit-debt",
-    "title": "RBA deﬁcit debt",
+    "id": "rba-deficit-debt",
+    "title": "RBA deficit debt",
     "paragraph": "¶24-340",
     "chapter": "24",
     "chapter_title": "Returns • Activity Statements • RBAs • Rulings"
@@ -6986,8 +6986,8 @@
     "chapter_title": "PAYG Withholding"
   },
   {
-    "id": "payg-beneﬁt-and-compensation-payments",
-    "title": "PAYG: beneﬁt and compensation payments",
+    "id": "payg-benefit-and-compensation-payments",
+    "title": "PAYG: benefit and compensation payments",
     "paragraph": "¶26-190",
     "chapter": "26",
     "chapter_title": "PAYG Withholding"
@@ -7077,8 +7077,8 @@
     "chapter_title": "PAYG Withholding"
   },
   {
-    "id": "payg-non-cash-beneﬁts",
-    "title": "PAYG: non-cash beneﬁts",
+    "id": "payg-non-cash-benefits",
+    "title": "PAYG: non-cash benefits",
     "paragraph": "¶26-300",
     "chapter": "26",
     "chapter_title": "PAYG Withholding"
@@ -7175,8 +7175,8 @@
     "chapter_title": "PAYG Withholding"
   },
   {
-    "id": "payg-withholding-oﬀences-and-penalties",
-    "title": "PAYG withholding oﬀences and penalties",
+    "id": "payg-withholding-offences-and-penalties",
+    "title": "PAYG withholding offences and penalties",
     "paragraph": "¶26-750",
     "chapter": "26",
     "chapter_title": "PAYG Withholding"
@@ -7252,8 +7252,8 @@
     "chapter_title": "PAYG Instalments"
   },
   {
-    "id": "instalment-income-for-beneﬁciaries-of-a-trust-estate",
-    "title": "Instalment income for beneﬁciaries of a trust estate",
+    "id": "instalment-income-for-beneficiaries-of-a-trust-estate",
+    "title": "Instalment income for beneficiaries of a trust estate",
     "paragraph": "¶27-270",
     "chapter": "27",
     "chapter_title": "PAYG Instalments"
@@ -7511,8 +7511,8 @@
     "chapter_title": "Penalties • Offences"
   },
   {
-    "id": "payg-penalties-and-oﬀences",
-    "title": "PAYG penalties and oﬀences",
+    "id": "payg-penalties-and-offences",
+    "title": "PAYG penalties and offences",
     "paragraph": "¶29-300",
     "chapter": "29",
     "chapter_title": "Penalties • Offences"
@@ -7567,15 +7567,15 @@
     "chapter_title": "Penalties • Offences"
   },
   {
-    "id": "prosecution-for-tax-oﬀences",
-    "title": "Prosecution for tax oﬀences",
+    "id": "prosecution-for-tax-offences",
+    "title": "Prosecution for tax offences",
     "paragraph": "¶29-700",
     "chapter": "29",
     "chapter_title": "Penalties • Offences"
   },
   {
-    "id": "oﬀences",
-    "title": "oﬀences",
+    "id": "offences",
+    "title": "offences",
     "paragraph": "¶29-710",
     "chapter": "29",
     "chapter_title": "Penalties • Offences"
@@ -7623,8 +7623,8 @@
     "chapter_title": "Tax Avoidance • Alienation of Income • PSI"
   },
   {
-    "id": "was-a-tax-beneﬁt-obtained",
-    "title": "Was a tax beneﬁt obtained?",
+    "id": "was-a-tax-benefit-obtained",
+    "title": "Was a tax benefit obtained?",
     "paragraph": "¶30-160",
     "chapter": "30",
     "chapter_title": "Tax Avoidance • Alienation of Income • PSI"
@@ -7637,8 +7637,8 @@
     "chapter_title": "Tax Avoidance • Alienation of Income • PSI"
   },
   {
-    "id": "cancellation-of-tax-beneﬁts",
-    "title": "Cancellation of tax beneﬁts",
+    "id": "cancellation-of-tax-benefits",
+    "title": "Cancellation of tax benefits",
     "paragraph": "¶30-180",
     "chapter": "30",
     "chapter_title": "Tax Avoidance • Alienation of Income • PSI"
@@ -7665,8 +7665,8 @@
     "chapter_title": "Tax Avoidance • Alienation of Income • PSI"
   },
   {
-    "id": "diverted-proﬁts-tax",
-    "title": "Diverted proﬁts tax",
+    "id": "diverted-profits-tax",
+    "title": "Diverted profits tax",
     "paragraph": "¶30-205",
     "chapter": "30",
     "chapter_title": "Tax Avoidance • Alienation of Income • PSI"
@@ -7784,8 +7784,8 @@
     "chapter_title": "Tax Planning • Year End Tax Strategies"
   },
   {
-    "id": "diﬀerent-needs-of-diﬀerent-taxpayers",
-    "title": "Diﬀerent needs of diﬀerent taxpayers",
+    "id": "different-needs-of-different-taxpayers",
+    "title": "Different needs of different taxpayers",
     "paragraph": "¶31-005",
     "chapter": "31",
     "chapter_title": "Tax Planning • Year End Tax Strategies"
@@ -7910,15 +7910,15 @@
     "chapter_title": "Tax Planning • Year End Tax Strategies"
   },
   {
-    "id": "taking-advantage-of-tax-oﬀsets-and-other-beneﬁts",
-    "title": "Taking advantage of tax oﬀsets and other beneﬁts",
+    "id": "taking-advantage-of-tax-offsets-and-other-benefits",
+    "title": "Taking advantage of tax offsets and other benefits",
     "paragraph": "¶31-220",
     "chapter": "31",
     "chapter_title": "Tax Planning • Year End Tax Strategies"
   },
   {
-    "id": "beneﬁts-of-averaging",
-    "title": "Beneﬁts of averaging",
+    "id": "benefits-of-averaging",
+    "title": "Benefits of averaging",
     "paragraph": "¶31-240",
     "chapter": "31",
     "chapter_title": "Tax Planning • Year End Tax Strategies"
@@ -8106,8 +8106,8 @@
     "chapter_title": "Tax Agents and BAS Agents"
   },
   {
-    "id": "tax-agent-notiﬁcation-obligations",
-    "title": "Tax agent notiﬁcation obligations",
+    "id": "tax-agent-notification-obligations",
+    "title": "Tax agent notification obligations",
     "paragraph": "¶32-040",
     "chapter": "32",
     "chapter_title": "Tax Agents and BAS Agents"
@@ -8162,8 +8162,8 @@
     "chapter_title": "Tax Agents and BAS Agents"
   },
   {
-    "id": "what-are-tax-ﬁle-numbers",
-    "title": "What are tax ﬁle numbers?",
+    "id": "what-are-tax-file-numbers",
+    "title": "What are tax file numbers?",
     "paragraph": "¶33-000",
     "chapter": "33",
     "chapter_title": "Tax File Numbers • Director Identification Numbers • Australian Business Numbers • Third Party Reporting"
@@ -8225,8 +8225,8 @@
     "chapter_title": "Tax File Numbers • Director Identification Numbers • Australian Business Numbers • Third Party Reporting"
   },
   {
-    "id": "director-identiﬁcation-number-din",
-    "title": "Director identiﬁcation number (DIN)",
+    "id": "director-identification-number-din",
+    "title": "Director identification number (DIN)",
     "paragraph": "¶33-090",
     "chapter": "33",
     "chapter_title": "Tax File Numbers • Director Identification Numbers • Australian Business Numbers • Third Party Reporting"
@@ -8400,8 +8400,8 @@
     "chapter_title": "Goods and Services Tax"
   },
   {
-    "id": "gst-and-charities-and-non-proﬁt-bodies",
-    "title": "GST and charities and non-proﬁt bodies",
+    "id": "gst-and-charities-and-non-profit-bodies",
+    "title": "GST and charities and non-profit bodies",
     "paragraph": "¶34-175",
     "chapter": "34",
     "chapter_title": "Goods and Services Tax"
@@ -8491,15 +8491,15 @@
     "chapter_title": "Goods and Services Tax"
   },
   {
-    "id": "outline-of-fringe-beneﬁts-tax",
-    "title": "Outline of fringe beneﬁts tax",
+    "id": "outline-of-fringe-benefits-tax",
+    "title": "Outline of fringe benefits tax",
     "paragraph": "¶35-000",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "fringe-beneﬁts-taxable-amount-gross-up-rules",
-    "title": "Fringe beneﬁts taxable amount — gross-up rules",
+    "id": "fringe-benefits-taxable-amount-gross-up-rules",
+    "title": "Fringe benefits taxable amount — gross-up rules",
     "paragraph": "¶35-025",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8519,36 +8519,36 @@
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "reporting-of-beneﬁts-on-payment-summaries",
-    "title": "Reporting of beneﬁts on payment summaries",
+    "id": "reporting-of-benefits-on-payment-summaries",
+    "title": "Reporting of benefits on payment summaries",
     "paragraph": "¶35-055",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "salary-packaging-and-salary-sacriﬁce-arrangements",
-    "title": "Salary packaging and salary sacriﬁce arrangements",
+    "id": "salary-packaging-and-salary-sacrifice-arrangements",
+    "title": "Salary packaging and salary sacrifice arrangements",
     "paragraph": "¶35-057",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "outline-of-fringe-beneﬁts",
-    "title": "Outline of fringe beneﬁts",
+    "id": "outline-of-fringe-benefits",
+    "title": "Outline of fringe benefits",
     "paragraph": "¶35-060",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "beneﬁt-must-be-provided",
-    "title": "Beneﬁt must be provided",
+    "id": "benefit-must-be-provided",
+    "title": "Benefit must be provided",
     "paragraph": "¶35-070",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "beneﬁt-provided-to-employee",
-    "title": "Beneﬁt provided to employee",
+    "id": "benefit-provided-to-employee",
+    "title": "Benefit provided to employee",
     "paragraph": "¶35-080",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8575,22 +8575,22 @@
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "beneﬁt-must-have-nexus-with-employment",
-    "title": "Beneﬁt must have nexus with employment",
+    "id": "benefit-must-have-nexus-with-employment",
+    "title": "Benefit must have nexus with employment",
     "paragraph": "¶35-120",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "employee-contributions-to-beneﬁts",
-    "title": "Employee contributions to beneﬁts",
+    "id": "employee-contributions-to-benefits",
+    "title": "Employee contributions to benefits",
     "paragraph": "¶35-135",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "conditions-giving-rise-to-a-car-beneﬁt",
-    "title": "Conditions giving rise to a car beneﬁt",
+    "id": "conditions-giving-rise-to-a-car-benefit",
+    "title": "Conditions giving rise to a car benefit",
     "paragraph": "¶35-150",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8603,8 +8603,8 @@
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "car-beneﬁts",
-    "title": "Car beneﬁts",
+    "id": "car-benefits",
+    "title": "Car benefits",
     "paragraph": "¶35-170",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8652,36 +8652,36 @@
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "car-parking-beneﬁts",
-    "title": "Car parking beneﬁts",
+    "id": "car-parking-benefits",
+    "title": "Car parking benefits",
     "paragraph": "¶35-252",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "exemptions-for-certain-car-parking-beneﬁts",
-    "title": "Exemptions for certain car parking beneﬁts",
+    "id": "exemptions-for-certain-car-parking-benefits",
+    "title": "Exemptions for certain car parking benefits",
     "paragraph": "¶35-254",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "valuing-car-parking-beneﬁts",
-    "title": "Valuing car parking beneﬁts",
+    "id": "valuing-car-parking-benefits",
+    "title": "Valuing car parking benefits",
     "paragraph": "¶35-256",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "loan-fringe-beneﬁts",
-    "title": "Loan fringe beneﬁts",
+    "id": "loan-fringe-benefits",
+    "title": "Loan fringe benefits",
     "paragraph": "¶35-270",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "taxable-value-of-loan-fringe-beneﬁts",
-    "title": "Taxable value of loan fringe beneﬁts",
+    "id": "taxable-value-of-loan-fringe-benefits",
+    "title": "Taxable value of loan fringe benefits",
     "paragraph": "¶35-290",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8694,22 +8694,22 @@
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "debt-waiver-fringe-beneﬁts",
-    "title": "Debt waiver fringe beneﬁts",
+    "id": "debt-waiver-fringe-benefits",
+    "title": "Debt waiver fringe benefits",
     "paragraph": "¶35-310",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "expense-payment-fringe-beneﬁts",
-    "title": "Expense payment fringe beneﬁts",
+    "id": "expense-payment-fringe-benefits",
+    "title": "Expense payment fringe benefits",
     "paragraph": "¶35-330",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "taxable-value-of-expense-payment-fringe-beneﬁts",
-    "title": "Taxable value of expense payment fringe beneﬁts",
+    "id": "taxable-value-of-expense-payment-fringe-benefits",
+    "title": "Taxable value of expense payment fringe benefits",
     "paragraph": "¶35-350",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8722,15 +8722,15 @@
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "housing-fringe-beneﬁts",
-    "title": "Housing fringe beneﬁts",
+    "id": "housing-fringe-benefits",
+    "title": "Housing fringe benefits",
     "paragraph": "¶35-380",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "taxable-value-of-housing-fringe-beneﬁts",
-    "title": "Taxable value of housing fringe beneﬁts",
+    "id": "taxable-value-of-housing-fringe-benefits",
+    "title": "Taxable value of housing fringe benefits",
     "paragraph": "¶35-400",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8750,22 +8750,22 @@
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "living-away-from-home-allowance-beneﬁts",
-    "title": "Living-away-from-home allowance beneﬁts",
+    "id": "living-away-from-home-allowance-benefits",
+    "title": "Living-away-from-home allowance benefits",
     "paragraph": "¶35-460",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "beneﬁt",
-    "title": "beneﬁt",
+    "id": "benefit",
+    "title": "benefit",
     "paragraph": "¶35-470",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "property-fringe-beneﬁts",
-    "title": "Property fringe beneﬁts",
+    "id": "property-fringe-benefits",
+    "title": "Property fringe benefits",
     "paragraph": "¶35-490",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8778,71 +8778,71 @@
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "valuation-rules-for-property-fringe-beneﬁts",
-    "title": "Valuation rules for property fringe beneﬁts",
+    "id": "valuation-rules-for-property-fringe-benefits",
+    "title": "Valuation rules for property fringe benefits",
     "paragraph": "¶35-510",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "valuing-in-house-property-beneﬁts",
-    "title": "Valuing in-house property beneﬁts",
+    "id": "valuing-in-house-property-benefits",
+    "title": "Valuing in-house property benefits",
     "paragraph": "¶35-520",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "valuing-general-property-beneﬁts",
-    "title": "Valuing general property beneﬁts",
+    "id": "valuing-general-property-benefits",
+    "title": "Valuing general property benefits",
     "paragraph": "¶35-530",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "residual-fringe-beneﬁts",
-    "title": "Residual fringe beneﬁts",
+    "id": "residual-fringe-benefits",
+    "title": "Residual fringe benefits",
     "paragraph": "¶35-570",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "exempt-residual-beneﬁts",
-    "title": "Exempt residual beneﬁts",
+    "id": "exempt-residual-benefits",
+    "title": "Exempt residual benefits",
     "paragraph": "¶35-580",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "taxable-value-of-residual-beneﬁts",
-    "title": "Taxable value of residual beneﬁts",
+    "id": "taxable-value-of-residual-benefits",
+    "title": "Taxable value of residual benefits",
     "paragraph": "¶35-590",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "entertainment-beneﬁts",
-    "title": "Entertainment beneﬁts",
+    "id": "entertainment-benefits",
+    "title": "Entertainment benefits",
     "paragraph": "¶35-617",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "board-beneﬁts",
-    "title": "Board beneﬁts",
+    "id": "board-benefits",
+    "title": "Board benefits",
     "paragraph": "¶35-630",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "rebate-of-fbt-for-certain-non-proﬁt-employers",
-    "title": "Rebate of FBT for certain non-proﬁt employers",
+    "id": "rebate-of-fbt-for-certain-non-profit-employers",
+    "title": "Rebate of FBT for certain non-profit employers",
     "paragraph": "¶35-642",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "exemptions-from-fringe-beneﬁts-tax",
-    "title": "Exemptions from fringe beneﬁts tax",
+    "id": "exemptions-from-fringe-benefits-tax",
+    "title": "Exemptions from fringe benefits tax",
     "paragraph": "¶35-645",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8862,8 +8862,8 @@
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "first-1000-of-in-house-beneﬁts",
-    "title": "First $1,000 of in-house beneﬁts",
+    "id": "first-1000-of-in-house-benefits",
+    "title": "First $1,000 of in-house benefits",
     "paragraph": "¶35-660",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8911,8 +8911,8 @@
     "chapter_title": "Fringe Benefits Tax"
   },
   {
-    "id": "fbt-penalties-and-oﬀences",
-    "title": "FBT penalties and oﬀences",
+    "id": "fbt-penalties-and-offences",
+    "title": "FBT penalties and offences",
     "paragraph": "¶35-750",
     "chapter": "35",
     "chapter_title": "Fringe Benefits Tax"
@@ -8974,8 +8974,8 @@
     "chapter_title": "Payroll Tax"
   },
   {
-    "id": "payroll-tax-on-non-cash-beneﬁts",
-    "title": "Payroll tax on non-cash beneﬁts",
+    "id": "payroll-tax-on-non-cash-benefits",
+    "title": "Payroll tax on non-cash benefits",
     "paragraph": "¶36-080",
     "chapter": "36",
     "chapter_title": "Payroll Tax"
@@ -9205,8 +9205,8 @@
     "chapter_title": "Superannuation Guarantee Charge"
   },
   {
-    "id": "salary-sacriﬁce-arrangements",
-    "title": "Salary sacriﬁce arrangements",
+    "id": "salary-sacrifice-arrangements",
+    "title": "Salary sacrifice arrangements",
     "paragraph": "¶39-250",
     "chapter": "39",
     "chapter_title": "Superannuation Guarantee Charge"
@@ -9401,8 +9401,8 @@
     "chapter_title": "Tax Rates and Tables"
   },
   {
-    "id": "small-business-income-tax-oﬀset",
-    "title": "Small business income tax oﬀset",
+    "id": "small-business-income-tax-offset",
+    "title": "Small business income tax offset",
     "paragraph": "¶42-027",
     "chapter": "42",
     "chapter_title": "Tax Rates and Tables"
@@ -9436,8 +9436,8 @@
     "chapter_title": "Tax Rates and Tables"
   },
   {
-    "id": "personal-tax-oﬀsets-and-rebates-for-202425",
-    "title": "Personal tax oﬀsets and rebates for 2024–25",
+    "id": "personal-tax-offsets-and-rebates-for-202425",
+    "title": "Personal tax offsets and rebates for 2024–25",
     "paragraph": "¶42-165",
     "chapter": "42",
     "chapter_title": "Tax Rates and Tables"
@@ -9464,15 +9464,15 @@
     "chapter_title": "Tax Rates and Tables"
   },
   {
-    "id": "superannuation-death-beneﬁts",
-    "title": "Superannuation death beneﬁts",
+    "id": "superannuation-death-benefits",
+    "title": "Superannuation death benefits",
     "paragraph": "¶42-260",
     "chapter": "42",
     "chapter_title": "Tax Rates and Tables"
   },
   {
-    "id": "transfer-balance-cap-and-deﬁned-beneﬁt-income-cap",
-    "title": "Transfer balance cap and deﬁned beneﬁt income cap",
+    "id": "transfer-balance-cap-and-defined-benefit-income-cap",
+    "title": "Transfer balance cap and defined benefit income cap",
     "paragraph": "¶42-265",
     "chapter": "42",
     "chapter_title": "Tax Rates and Tables"
@@ -9485,8 +9485,8 @@
     "chapter_title": "Tax Rates and Tables"
   },
   {
-    "id": "death-beneﬁt-termination-payments",
-    "title": "Death beneﬁt termination payments",
+    "id": "death-benefit-termination-payments",
+    "title": "Death benefit termination payments",
     "paragraph": "¶42-290",
     "chapter": "42",
     "chapter_title": "Tax Rates and Tables"
@@ -9513,8 +9513,8 @@
     "chapter_title": "Tax Rates and Tables"
   },
   {
-    "id": "tax-oﬀset-spouse-contributions",
-    "title": "Tax oﬀset — spouse contributions",
+    "id": "tax-offset-spouse-contributions",
+    "title": "Tax offset — spouse contributions",
     "paragraph": "¶42-335",
     "chapter": "42",
     "chapter_title": "Tax Rates and Tables"
@@ -9527,22 +9527,22 @@
     "chapter_title": "Tax Rates and Tables"
   },
   {
-    "id": "fringe-beneﬁts-tax-rate",
-    "title": "Fringe beneﬁts tax rate",
+    "id": "fringe-benefits-tax-rate",
+    "title": "Fringe benefits tax rate",
     "paragraph": "¶42-380",
     "chapter": "42",
     "chapter_title": "Tax Rates and Tables"
   },
   {
-    "id": "statutory-fractions-for-car-beneﬁt-valuation",
-    "title": "Statutory fractions for car beneﬁt valuation",
+    "id": "statutory-fractions-for-car-benefit-valuation",
+    "title": "Statutory fractions for car benefit valuation",
     "paragraph": "¶42-400",
     "chapter": "42",
     "chapter_title": "Tax Rates and Tables"
   },
   {
-    "id": "interest-rates-for-car-and-loan-fringe-beneﬁts",
-    "title": "Interest rates for car and loan fringe beneﬁts",
+    "id": "interest-rates-for-car-and-loan-fringe-benefits",
+    "title": "Interest rates for car and loan fringe benefits",
     "paragraph": "¶42-405",
     "chapter": "42",
     "chapter_title": "Tax Rates and Tables"
@@ -9555,134 +9555,134 @@
     "chapter_title": "Tax Rates and Tables"
   },
   {
-    "id": "eﬀective-life-of-depreciating-assets-depreciation",
-    "title": "Eﬀective life of depreciating assets (depreciation)",
+    "id": "effective-life-of-depreciating-assets-depreciation",
+    "title": "Effective life of depreciating assets (depreciation)",
     "paragraph": "¶43-000",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-table-a-industry-items",
-    "title": "Eﬀective life — Table A (industry items)",
+    "id": "effective-life-table-a-industry-items",
+    "title": "Effective life — Table A (industry items)",
     "paragraph": "¶43-005",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-agriculture-forestry-and-ﬁshing",
-    "title": "Eﬀective life — agriculture, forestry and ﬁshing",
+    "id": "effective-life-agriculture-forestry-and-fishing",
+    "title": "Effective life — agriculture, forestry and fishing",
     "paragraph": "¶43-010",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-mining",
-    "title": "Eﬀective life — mining",
+    "id": "effective-life-mining",
+    "title": "Effective life — mining",
     "paragraph": "¶43-015",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-manufacturing",
-    "title": "Eﬀective life — manufacturing",
+    "id": "effective-life-manufacturing",
+    "title": "Effective life — manufacturing",
     "paragraph": "¶43-020",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-construction",
-    "title": "Eﬀective life — construction",
+    "id": "effective-life-construction",
+    "title": "Effective life — construction",
     "paragraph": "¶43-030",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-wholesale-trade",
-    "title": "Eﬀective life — wholesale trade",
+    "id": "effective-life-wholesale-trade",
+    "title": "Effective life — wholesale trade",
     "paragraph": "¶43-035",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-retail-trade",
-    "title": "Eﬀective life — retail trade",
+    "id": "effective-life-retail-trade",
+    "title": "Effective life — retail trade",
     "paragraph": "¶43-040",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-accommodation-and-food-services",
-    "title": "Eﬀective life — accommodation and food services",
+    "id": "effective-life-accommodation-and-food-services",
+    "title": "Effective life — accommodation and food services",
     "paragraph": "¶43-045",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-transport-and-storage",
-    "title": "Eﬀective life — transport and storage",
+    "id": "effective-life-transport-and-storage",
+    "title": "Effective life — transport and storage",
     "paragraph": "¶43-050",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-ﬁnancial-and-insurance-services",
-    "title": "Eﬀective life — ﬁnancial and insurance services",
+    "id": "effective-life-financial-and-insurance-services",
+    "title": "Effective life — financial and insurance services",
     "paragraph": "¶43-060",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-rental-hiring-and-real-estate-services",
-    "title": "Eﬀective life — rental, hiring and real estate services",
+    "id": "effective-life-rental-hiring-and-real-estate-services",
+    "title": "Effective life — rental, hiring and real estate services",
     "paragraph": "¶43-065",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-administrative-and-support-services",
-    "title": "Eﬀective life — administrative and support services",
+    "id": "effective-life-administrative-and-support-services",
+    "title": "Effective life — administrative and support services",
     "paragraph": "¶43-075",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-education-and-training",
-    "title": "Eﬀective life — education and training",
+    "id": "effective-life-education-and-training",
+    "title": "Effective life — education and training",
     "paragraph": "¶43-080",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-health-care-and-social-assistance",
-    "title": "Eﬀective life — health care and social assistance",
+    "id": "effective-life-health-care-and-social-assistance",
+    "title": "Effective life — health care and social assistance",
     "paragraph": "¶43-085",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-arts-and-recreation-services",
-    "title": "Eﬀective life — arts and recreation services",
+    "id": "effective-life-arts-and-recreation-services",
+    "title": "Effective life — arts and recreation services",
     "paragraph": "¶43-090",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-other-services",
-    "title": "Eﬀective life — other services",
+    "id": "effective-life-other-services",
+    "title": "Effective life — other services",
     "paragraph": "¶43-095",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "eﬀective-life-table-b-asset-categories",
-    "title": "Eﬀective life — Table B (asset categories)",
+    "id": "effective-life-table-b-asset-categories",
+    "title": "Effective life — Table B (asset categories)",
     "paragraph": "¶43-100",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"
   },
   {
-    "id": "statutory-caps-on-eﬀective-life",
-    "title": "Statutory caps on eﬀective life",
+    "id": "statutory-caps-on-effective-life",
+    "title": "Statutory caps on effective life",
     "paragraph": "¶43-105",
     "chapter": "43",
     "chapter_title": "Capital Allowances (Depreciation) • Effective Life"

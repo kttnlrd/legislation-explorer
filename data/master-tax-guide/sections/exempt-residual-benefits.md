@@ -5,9 +5,9 @@ section: "exempt-residual-benefits"
 title: "Exempt residual benefits"
 paragraph: "¶35-580"
 ---
-# Exempt residual beneﬁts ¶35-580
+# Exempt residual benefits ¶35-580
 
-A number of residual beneﬁts are speciﬁcally exempted from tax (s 47). These can be summarised as:
+A number of residual benefits are specifically exempted from tax (s 47). These can be summarised as:
 
 - free or discounted transport (not air transport) provided to current employees in the course of the
 
@@ -17,7 +17,7 @@ A number of residual beneﬁts are speciﬁcally exempted from tax (s 47). These
 
   transport operators is exempt under s 47(1)
 
-- certain recreational or child care facilities for the beneﬁt of employees (such facilities being
+- certain recreational or child care facilities for the benefit of employees (such facilities being
 
   located on the "business premises of the employer") (s 47(2)) and certain contributions to secure
 
@@ -27,7 +27,7 @@ A number of residual beneﬁts are speciﬁcally exempted from tax (s 47). These
 
   business premises. The exemption may apply to the provision of gym facilities (CR 2015/9; CR
 
-2022/39) but not ﬁtness classes (ID 2015/25)
+2022/39) but not fitness classes (ID 2015/25)
 
 - the use by an employee of an employer's equipment that is ordinarily located on the business
 
@@ -41,15 +41,15 @@ A number of residual beneﬁts are speciﬁcally exempted from tax (s 47). These
 
   which is used principally for business purposes (s 47(6A))
 
-- transport provided under certain "ﬂy-in ﬂy-out" travel arrangements for employees in designated
+- transport provided under certain "fly-in fly-out" travel arrangements for employees in designated
 
-  remote areas or working on oil rigs and other oﬀ-shore installations (TD 95/49) (s 47(7))
+  remote areas or working on oil rigs and other off-shore installations (TD 95/49) (s 47(7))
 
 - living-away-from-home accommodation provided to employees who are required for work
 
   purposes to live away from their usual place of residence and who satisfy the requirements in
 
-¶35-470 (s 47(5)). For the meaning of "usual place of residence", see CR 2003/19 and Ch 11 of the ATO's Fringe beneﬁts tax — a guide for employers.
+¶35-470 (s 47(5)). For the meaning of "usual place of residence", see CR 2003/19 and Ch 11 of the ATO's Fringe benefits tax — a guide for employers.
 
 The exemption of contributions to secure priority of access to child care facilities must relate to:
 
@@ -61,7 +61,7 @@ The exemption of contributions to secure priority of access to child care facili
 
 (Administration) Act 1999, Pt 8 Div 1.
 
-A residual fringe beneﬁt covered by a "no-private-use declaration" is exempt. This declaration can be made where a beneﬁt is covered by a consistently enforced policy that it is provided only for employment-related purposes (s 47A).
+A residual fringe benefit covered by a "no-private-use declaration" is exempt. This declaration can be made where a benefit is covered by a consistently enforced policy that it is provided only for employment-related purposes (s 47A).
 
 The term "business premises of the employer" was considered by the Federal Court in Esso Australia 98 ATC 2085; [1998] AATA 282. The court held that the employer does not have to have exclusive proprietary or occupancy rights in respect of the premises and may hold the premises jointly with other employers.
 

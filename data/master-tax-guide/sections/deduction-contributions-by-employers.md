@@ -7,15 +7,15 @@ paragraph: "¶13-710"
 ---
 # Deduction — contributions by employers ¶13-710
 
-An employer may claim a deduction for all contributions made to a complying superannuation fund or an RSA for the purpose of providing superannuation beneﬁts for an employee if the conditions in ITAA97 Subdiv 290-B are satisﬁed (ITAA97 s 290-60(1)).
+An employer may claim a deduction for all contributions made to a complying superannuation fund or an RSA for the purpose of providing superannuation benefits for an employee if the conditions in ITAA97 Subdiv 290-B are satisfied (ITAA97 s 290-60(1)).
 
-If the employer's contributions for the employee (and other "concessional contributions" of the employee, if any) exceed the concessional contributions cap for the year, the excess is included as assessable income of the employee and is taxed at the employee's marginal tax rates with a tax oﬀset for the excess contributions.
+If the employer's contributions for the employee (and other "concessional contributions" of the employee, if any) exceed the concessional contributions cap for the year, the excess is included as assessable income of the employee and is taxed at the employee's marginal tax rates with a tax offset for the excess contributions.
 
 An individual may apply to the ATO to release excess concessional contributions from their superannuation fund (¶13-830).
 
 *Refs: ITAA97 s 290-60(1))*
 
-- a roll-over superannuation beneﬁt (¶13-125)
+- a roll-over superannuation benefit (¶13-125)
 
 - a superannuation lump sum that is paid from a foreign superannuation fund (¶13-250)
 
@@ -39,11 +39,11 @@ Eligibility conditions
 
 - the contribution is made to a superannuation fund or an RSA for the purpose of providing
 
-  superannuation beneﬁts for another person who is an "employee" of the employer when the
+  superannuation benefits for another person who is an "employee" of the employer when the
 
-  contribution is made (regardless of whether the beneﬁts are paid to a "SIS dependant" of the
+  contribution is made (regardless of whether the benefits are paid to a "SIS dependant" of the
 
-  employee if the employee dies before or after becoming entitled to receive the beneﬁts), and
+  employee if the employee dies before or after becoming entitled to receive the benefits), and
 
 - the employee activity condition, complying fund condition and age-related condition (see below)
 
@@ -51,7 +51,7 @@ Eligibility conditions
 
 The employer contribution must be made for another person so that this person cannot be the same person as the entity claiming the deduction. If an individual is an "employee" of an entity under SGAA s 12 at the relevant time (eg former employees, see below), Subdiv 290-B applies as if the individual were an employee of the entity. A partner who makes a contribution for an employee of the partnership can deduct the contribution against his/her own income, even though the partner is not strictly the employer. This does not limit the ability of the partnership to claim a tax deduction when it makes a superannuation contribution on behalf of the same employee, but a partner and the partnership cannot claim a tax deduction in respect of the same contribution (s 290-65(2)).
 
-The eligibility conditions are modiﬁed for contributions made for former employees and controlling interest deductions.
+The eligibility conditions are modified for contributions made for former employees and controlling interest deductions.
 
 An employer is not entitled to a deduction for contributions under s 290-60(1) if:
 
@@ -59,13 +59,13 @@ An employer is not entitled to a deduction for contributions under s 290-60(1) i
 
   entitlement of a former spouse who may also be an employee (s 290-60(4))
 
-- the employer has elected under SGAA s 23A for the contribution to oﬀset the employer's liability
+- the employer has elected under SGAA s 23A for the contribution to offset the employer's liability
 
   to pay a superannuation guarantee (SG) charge liability (¶39-400) (s 290-95(1)). An exception
 
   applies under the SG amnesty, see below.
 
-An employer is allowed a deduction for oﬀset contributions that are made during the amnesty period to the extent that the contributions relate to a SG shortfall for which employer qualiﬁed for the SG amnesty (s 290-95(2)).
+An employer is allowed a deduction for offset contributions that are made during the amnesty period to the extent that the contributions relate to a SG shortfall for which employer qualified for the SG amnesty (s 290-95(2)).
 
 Employee activity condition For a contribution to be deductible, the person for whom the contribution is made must be:
 
@@ -91,21 +91,21 @@ Former employees and SG contributions An employer can claim a deduction for a co
 
 (¶39-020), or
 
-- the contribution is a one-oﬀ payment in lieu of salary or wages that relate to a period of service
+- the contribution is a one-off payment in lieu of salary or wages that relate to a period of service
 
   during which the person was an employee (ITAA97 s 290-85(1)).
 
-The contributions covered by s 290-85 include those made under salary sacriﬁce arrangements and contributions made by a contributor on behalf of an employer where the other person was never an employee of the contributor (see examples below) (s 290-85(1A)).
+The contributions covered by s 290-85 include those made under salary sacrifice arrangements and contributions made by a contributor on behalf of an employer where the other person was never an employee of the contributor (see examples below) (s 290-85(1A)).
 
-Example — salary sacriﬁce Andrew entered into a salary sacriﬁce arrangement during his employment under which 20% of his salary was contributed to superannuation.
+Example — salary sacrifice Andrew entered into a salary sacrifice arrangement during his employment under which 20% of his salary was contributed to superannuation.
 
-Andrew resigns from his job on 1 December when he is age 50. His ﬁnal pay period ends on 20 December.
+Andrew resigns from his job on 1 December when he is age 50. His final pay period ends on 20 December.
 
-The 20% of Andrew's ﬁnal pay that is contributed to a complying superannuation fund on 20 December is an allowable deduction to his former employer.
+The 20% of Andrew's final pay that is contributed to a complying superannuation fund on 20 December is an allowable deduction to his former employer.
 
 Example — contribution on employer's behalf John terminates employment with his employer, ABC Pty Ltd, on 28 January.
 
-ABC Pty Ltd pays John his ﬁnal salary on 15 February and consequently there is an SG obligation on this ﬁnal salary payment.
+ABC Pty Ltd pays John his final salary on 15 February and consequently there is an SG obligation on this final salary payment.
 
 XYZ Pty Ltd, which holds a 50% shareholding in ABC Pty Ltd, makes a contribution to satisfy ABC Pty Ltd's SG obligation for John.
 
@@ -117,11 +117,11 @@ Contributions made for a former employee are also deductible where they are made
 
   within 28 days of the end of each quarter under the SGAA: ¶39-240), or
 
-- to fund a deﬁned beneﬁt interest which accrued when the member was an employee (regardless
+- to fund a defined benefit interest which accrued when the member was an employee (regardless
 
   of when the contributions are made), the employer was at arm's length with the former employee in
 
-  relation to the contribution and an actuarial certiﬁcate veriﬁes that the additional contributions are
+  relation to the contribution and an actuarial certificate verifies that the additional contributions are
 
   required (s 290-85(1AA), (1AB)).
 
@@ -129,13 +129,13 @@ Controlling interest in employer Where superannuation contributions are made by 
 
 In that situation, the other person is treated as the entity's employee at that time for the purposes of s 290-60(1) in the circumstances prescribed in s 290-90.
 
-The term "controlling interest" is not deﬁned and will take its common law meaning. A shareholder will have a controlling interest in a company if the shareholder has a bare majority (more than 50%) of the voting power or has the power, by the exercise of voting rights, to carry a resolution at a general meeting of the company.
+The term "controlling interest" is not defined and will take its common law meaning. A shareholder will have a controlling interest in a company if the shareholder has a bare majority (more than 50%) of the voting power or has the power, by the exercise of voting rights, to carry a resolution at a general meeting of the company.
 
 If 2 directors hold equal shares of 50%, neither has a controlling interest (TR 2010/1, para 48–51).
 
-Making provision for superannuation benefits Employer superannuation contributions for an employee are deductible under s 290-60(1) only if the contributions are made for the purpose of providing superannuation beneﬁts for the employee. This requirement will be satisﬁed even if these beneﬁts are payable to dependants of the employee (or their legal personal representative) after the death of the employee. For contributions made in respect of an employee who has died, see "Former employees and SG contributions" above.
+Making provision for superannuation benefits Employer superannuation contributions for an employee are deductible under s 290-60(1) only if the contributions are made for the purpose of providing superannuation benefits for the employee. This requirement will be satisfied even if these benefits are payable to dependants of the employee (or their legal personal representative) after the death of the employee. For contributions made in respect of an employee who has died, see "Former employees and SG contributions" above.
 
-The purpose of the taxpayer is the key factor when determining if contributions are made for the purpose of making provision for superannuation beneﬁts for another person. It does not matter that a taxpayer takes account of the incidental consequences of making a contribution, such as obtaining a tax deduction (TR 2010/1, para 41). Employer contributions to an employer-sponsored fund have been held to be not deductible where the main purpose was to generate tax-deductible payments which could be returned to the employer (eg as low-interest loans) (Raymor Contractors 91 ATC 4259; [1991] FCA 103). The facts of each case are relevant to determine the taxpayer's purpose and, if required, may look beyond the terms of the trust deed to establish the purpose. Relevant considerations include the trustee's use of the trust funds, the extent to which the employees actually receive beneﬁts from the fund, and the extent to which the funds are used to beneﬁt persons who are not employees (Case 25/93 93 ATC 314; [1993] AATA 198).
+The purpose of the taxpayer is the key factor when determining if contributions are made for the purpose of making provision for superannuation benefits for another person. It does not matter that a taxpayer takes account of the incidental consequences of making a contribution, such as obtaining a tax deduction (TR 2010/1, para 41). Employer contributions to an employer-sponsored fund have been held to be not deductible where the main purpose was to generate tax-deductible payments which could be returned to the employer (eg as low-interest loans) (Raymor Contractors 91 ATC 4259; [1991] FCA 103). The facts of each case are relevant to determine the taxpayer's purpose and, if required, may look beyond the terms of the trust deed to establish the purpose. Relevant considerations include the trustee's use of the trust funds, the extent to which the employees actually receive benefits from the fund, and the extent to which the funds are used to benefit persons who are not employees (Case 25/93 93 ATC 314; [1993] AATA 198).
 
 Age-related condition An employer's contribution is deductible under s 290-60(1) subject to the following rules (ITAA97 s 290-80(1)):
 
@@ -155,11 +155,11 @@ Provisions and Consequential Amendments) Act 2009) that is in force under an Aus
 
   deduction is limited to the amount that reduces the charge percentage (s 290-80(2A)).
 
-The SGAA requires employers to make SG contributions for employees regardless of their age, except those who are "exempted" from SG coverage (¶39-030). If a contribution is covered by both the second and third dot points (and not the ﬁrst), the deductible amount is the greater of the amounts permitted (or only one of them if they are equal) (s 290-80(2B)).
+The SGAA requires employers to make SG contributions for employees regardless of their age, except those who are "exempted" from SG coverage (¶39-030). If a contribution is covered by both the second and third dot points (and not the first), the deductible amount is the greater of the amounts permitted (or only one of them if they are equal) (s 290-80(2B)).
 
 An award or determination does not include an industrial agreement, such as enterprise agreement or a similar agreement made under a state law (s 290-80(2)). This is because a person can otherwise enter into such agreements thus enabling the employer to meet the age-related condition and claim a deduction for contributions made under the agreement. Also, for the purposes of s 290-80, a determination does not include a workplace determination made under the Fair Work Act 2009 or the Workplace Relations Act 1996 (s 290-80(3)).
 
-Complying superannuation fund condition Employer superannuation contributions are deductible under s 290-60 only if they are made to a complying superannuation fund or an RSA. For contribution made to a superannuation fund, one of the following conditions must be satisﬁed: 1. the fund was a complying superannuation fund for the income year of the fund in which the employer made the contribution 2. at the time of the contribution, the employer had reasonable grounds to believe that the fund was a complying superannuation fund for that income year, or 3. before making the contribution, the employer obtained a written statement from the fund that it was a "resident regulated superannuation fund" and was not prohibited from accepting employer contributions under SISA s 63 (s 290-75(1)).
+Complying superannuation fund condition Employer superannuation contributions are deductible under s 290-60 only if they are made to a complying superannuation fund or an RSA. For contribution made to a superannuation fund, one of the following conditions must be satisfied: 1. the fund was a complying superannuation fund for the income year of the fund in which the employer made the contribution 2. at the time of the contribution, the employer had reasonable grounds to believe that the fund was a complying superannuation fund for that income year, or 3. before making the contribution, the employer obtained a written statement from the fund that it was a "resident regulated superannuation fund" and was not prohibited from accepting employer contributions under SISA s 63 (s 290-75(1)).
 
 *Refs: s 290-60, s 290-65(2)), s 290-60(1), s 290-60(4)), s 290-95(1)), s
 290-95(2)), s 290-70), ITAA97 s 290-85(1)), s 290-85, s 290-85(1, s 290-90(5), s
@@ -180,9 +180,9 @@ Complying superannuation fund condition Employer superannuation contributions ar
 *Refs: s
 290-75(2))*
 
-through a clearing house Employer superannuation contributions in a ﬁnancial year are deductible only for the year in which the contribution is made (s 290-60(3)).
+through a clearing house Employer superannuation contributions in a financial year are deductible only for the year in which the contribution is made (s 290-60(3)).
 
-The general rule is contributions are made to a complying superannuation fund (or RSA) when the payment is received by the fund (Liwszyc 2014 ATC ¶20-441; [2014] FCA 112; TR 2010/1 para 182–210; see also "Contributions for an income or ﬁnancial year" in ¶13-605).
+The general rule is contributions are made to a complying superannuation fund (or RSA) when the payment is received by the fund (Liwszyc 2014 ATC ¶20-441; [2014] FCA 112; TR 2010/1 para 182–210; see also "Contributions for an income or financial year" in ¶13-605).
 
 Where contributions are made using a clearing house, there may be a period of time before the complying fund or RSA actually receives the contribution. This means that employer contributions made towards the end of an income year may not be received by the fund in the same income year and this may impact on the year in which the employer is entitled to a deduction for the contribution.
 
@@ -194,7 +194,7 @@ This compliance approach means that where the PCG 2020/6 requirements are met, a
 
 Personal services income rules may deny deduction In certain circumstances, an individual or a personal services entity (PSE) may be denied a tax deduction for superannuation contributions under the personal services income (PSI) rules in ITAA97 Pt 2-42 (¶30-600).
 
-PSI is deﬁned as income that is mainly a reward for an individual's personal eﬀorts or skills (or would mainly be such a reward if it was the income of the individual) (ITAA97 s 84-5(1)). Only individuals can have PSI. It can be earned directly by a sole trader or indirectly through a PSE (the interposed entity) (s 84-5(2) and (4)).
+PSI is defined as income that is mainly a reward for an individual's personal efforts or skills (or would mainly be such a reward if it was the income of the individual) (ITAA97 s 84-5(1)). Only individuals can have PSI. It can be earned directly by a sole trader or indirectly through a PSE (the interposed entity) (s 84-5(2) and (4)).
 
 The reference to "or would mainly be such a reward if it was the income of the individual" in s 84-5(1) applies to situations where the income is legally derived by a PSE and not the individual. If a PSE fails to meet a personal services business (PSB) test in respect of a test individual, the net PSI is deemed to be the income of the test individual and is attributed to that individual.
 
@@ -202,11 +202,11 @@ A "PSE" is a company, trust or partnership whose assessable income includes the 
 
 TR 2022/3 provides guidance on how to identify PSI, how the PSI rules apply to an individual or entity, the application of the PSB tests, and the anti-avoidance provisions in ITAA36 Pt IVA. Guidance on attribution rules and deductions relating to PSI can be found in TR 2003/6 and TR 2003/10.
 
-Contributions by individuals An individual cannot deduct a contribution made to a superannuation fund or RSA to provide for superannuation beneﬁts for the individual's associate to the extent that the associate's work relates to gaining or producing the individual's PSI (ITAA97 s 85-25(1)). The term "associate" has the meaning given in ITAA36 s 318 (eg a relative, or the spouse or a child of the individual).
+Contributions by individuals An individual cannot deduct a contribution made to a superannuation fund or RSA to provide for superannuation benefits for the individual's associate to the extent that the associate's work relates to gaining or producing the individual's PSI (ITAA97 s 85-25(1)). The term "associate" has the meaning given in ITAA36 s 318 (eg a relative, or the spouse or a child of the individual).
 
 A deduction, however, may be allowed to the extent that the associate performs work which forms part of the "principal work" for which the individual gains or produces PSI (s 85-25(2); Taneja 2009 ATC ¶10-078; [2009] AATA 87). "Principal work" is work carried out by an individual or PSE that is central to meeting obligations under an agreement with the service acquirer; it does not include associated clerical or administrative work (such as bookkeeping and answering phones), unless the principal work is administrative in nature (TR 2022/3 para 26).
 
-The eﬀect of s 85-25 is that any contribution to a superannuation fund or RSA made by an individual on behalf of an associate will not be an allowable deduction to the extent that:
+The effect of s 85-25 is that any contribution to a superannuation fund or RSA made by an individual on behalf of an associate will not be an allowable deduction to the extent that:
 
 - the associate is engaged by the individual to perform work which relates to gaining or producing
 
@@ -214,7 +214,7 @@ The eﬀect of s 85-25 is that any contribution to a superannuation fund or RSA 
 
 - the work performed by the associate is not principal work.
 
-The deduction is only denied to the extent the work for which the contribution is made relates to gaining or producing the individual's PSI. Thus, if the contribution is made in respect of work done by the associate in relation to earning other income, entitlement to a deduction is not aﬀected by s 85-25.
+The deduction is only denied to the extent the work for which the contribution is made relates to gaining or producing the individual's PSI. Thus, if the contribution is made in respect of work done by the associate in relation to earning other income, entitlement to a deduction is not affected by s 85-25.
 
 Where the work performed by the associate is wholly or partly principal work, the deduction available is subject to the limit in s 85-25(3) (TR 2003/10 para 91-92).
 
@@ -224,15 +224,15 @@ If the individual performs less than "20% (by market value)" (see guidelines in 
 
 Example Monacoy (a PSE) receives $200,000 for personal services performed by John in 2024–25. Monacoy, which has no other income, pays John's son, Peter, $10,000 to carry out certain tasks, comprising 10% (by market value) of the principal work that generates the PSI. Peter is also paid $30,000 for miscellaneous administrative support. The maximum deduction to which Monacoy is entitled for superannuation contributions made for Peter in 2024–25 is: 11.5% × $10,000 = $1,150 Contributions in excess of $1,150 are not deductible.
 
-Returned contributions are assessable income Contributions that are returned to an employer (or to a contributor on behalf of an employer), and earnings on those contributions, are assessable income to the recipient if the contributions have previously been deductible to the employer under Subdiv 290-B, unless they are received as a superannuation beneﬁt (ITAA97 s 290-100).
+Returned contributions are assessable income Contributions that are returned to an employer (or to a contributor on behalf of an employer), and earnings on those contributions, are assessable income to the recipient if the contributions have previously been deductible to the employer under Subdiv 290-B, unless they are received as a superannuation benefit (ITAA97 s 290-100).
 
 Returned contributions cover direct and indirect returns. An example of an indirect return of a contribution is where the fund to which it was made transfers to another fund assets that include the contribution, and the other fund returns the contribution to the person who made it.
 
-Salary sacrifice arrangements Employees may enter into an eﬀective salary sacriﬁce arrangement (SSA) with their employer under which the employee can "sacriﬁce" a future entitlement to salary or wages in return for the employer making superannuation contributions (or providing other fringe beneﬁts) of an equivalent value for the employee. Superannuation contributions for employees under an eﬀective SSA are treated as employer contributions and are deductible where the Subdiv 290-B eligibility conditions discussed above are met. The ATO guidelines on eﬀective and ineﬀective SSAs and their tax consequences are set out in TR 2001/10 (¶31-120).
+Salary sacrifice arrangements Employees may enter into an effective salary sacrifice arrangement (SSA) with their employer under which the employee can "sacrifice" a future entitlement to salary or wages in return for the employer making superannuation contributions (or providing other fringe benefits) of an equivalent value for the employee. Superannuation contributions for employees under an effective SSA are treated as employer contributions and are deductible where the Subdiv 290-B eligibility conditions discussed above are met. The ATO guidelines on effective and ineffective SSAs and their tax consequences are set out in TR 2001/10 (¶31-120).
 
 Related tax matters Employer superannuation contributions for employees are assessable contributions of the recipient superannuation funds (¶13-125) or RSA providers (¶13-480), and are concessional contributions in ITAA97 (¶13-820).
 
-Financing costs (eg interest expenditure on borrowings) to the extent that they relate to obtaining ﬁnance to make the employer superannuation contributions for employees are tax-deductible provided the contributions themselves are deductible under Subdiv 290-B (ITAA97 s 26-80).
+Financing costs (eg interest expenditure on borrowings) to the extent that they relate to obtaining finance to make the employer superannuation contributions for employees are tax-deductible provided the contributions themselves are deductible under Subdiv 290-B (ITAA97 s 26-80).
 
 *Refs: s 290-60(3)), ITAA97 s 84-5(1)), s 84-5(2), s 84-5(1), ITAA97 s 86-15), ITAA97 s 85-25(1)), s 85-25(2), s 85-25, s 85-25(3), s 86-60, s 86-75(2)), s 86-75(3)), ITAA97 s 290-100), ITAA97 s 26-80)*
 
@@ -240,6 +240,6 @@ Financing costs (eg interest expenditure on borrowings) to the extent that they 
 
 ## An employer's superannuation contribution is deductible under Subdiv 290-B if:
 
-## Points 2 and 3 cannot be satisﬁed if, when the contribution was made:
+## Points 2 and 3 cannot be satisfied if, when the contribution was made:
 
 ## Timing of contributions and contributions made

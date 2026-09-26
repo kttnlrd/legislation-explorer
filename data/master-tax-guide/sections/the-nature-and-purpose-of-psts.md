@@ -7,7 +7,7 @@ paragraph: "¶13-430"
 ---
 # The nature and purpose of PSTs ¶13-430
 
-A pooled superannuation trust (PST) is a resident unit trust that complies with the deﬁnition of PST in the SISA and is used only for investing assets of a regulated superannuation fund, an ADF or another PST, or the complying superannuation assets or segregated exempt assets of a life insurance company. The trustee of a unit trust that wishes to be a PST must give APRA a conﬁrmation of its intention to be a PST (SISR reg 1.04(5)).
+A pooled superannuation trust (PST) is a resident unit trust that complies with the definition of PST in the SISA and is used only for investing assets of a regulated superannuation fund, an ADF or another PST, or the complying superannuation assets or segregated exempt assets of a life insurance company. The trustee of a unit trust that wishes to be a PST must give APRA a confirmation of its intention to be a PST (SISR reg 1.04(5)).
 
 A "unit trust" generally means any trust estate, whether or not the interests in it are unitised. The general rules in ITAA97 apply to determine a unit trust's residency status.
 

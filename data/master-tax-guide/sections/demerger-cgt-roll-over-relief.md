@@ -25,7 +25,7 @@ Roll-over for interest owners In broad terms, the owners of interests in a compa
 
 - the acquisition by owners of new interests happens only because those owners held original
 
-  interests in the head entity — this condition is still satisﬁed if head entity shareholders give
+  interests in the head entity — this condition is still satisfied if head entity shareholders give
 
   consideration for the shares they receive in the demerged entity (ID 2004/455)
 
@@ -51,13 +51,13 @@ Dual listed companies Demerger roll-over is only available in relation to a dual
 
   shareholders of both companies involved in the arrangement vote as a single decision-making body
 
-  on matters aﬀecting them, and
+  on matters affecting them, and
 
-- that does not carry rights to ﬁnancial entitlements (except the return of the amount paid up on the
+- that does not carry rights to financial entitlements (except the return of the amount paid up on the
 
   share and a dividend that is the equivalent of a dividend paid on an ordinary share) (s 125-60(3)).
 
-The deﬁnition of a "dual listed company arrangement" refers to an arrangement under which 2 publicly listed companies, while maintaining their separate legal entity status, shareholdings and listings, align their strategic directions and the economic interests of their respective shareholders by meeting the requirements in s 125-60(4).
+The definition of a "dual listed company arrangement" refers to an arrangement under which 2 publicly listed companies, while maintaining their separate legal entity status, shareholdings and listings, align their strategic directions and the economic interests of their respective shareholders by meeting the requirements in s 125-60(4).
 
 Demerger group A demerger group comprises the head entity of a group of companies or trusts and at least one demerger subsidiary. A company or trust is the head entity of a demerger group if no other member of the group has ownership interests in the company or trust (s 125-65). Discretionary trusts and superannuation funds cannot be members of a demerger group. However, where such an entity is the owner of ownership interests in the head entity of the group, either one may choose the roll-over.
 
@@ -90,7 +90,7 @@ When roll-over does not apply
 
   cash, even if the owner also receives a new interest in the demerged entity.
 
-Consequences of roll-over The eﬀect of the roll-over is to defer the making of a capital gain or capital loss. If an owner of the interests in the head entity chooses the roll-over, the capital gain or capital loss from a CGT event that happens to an original interest is disregarded (s 125-80).
+Consequences of roll-over The effect of the roll-over is to defer the making of a capital gain or capital loss. If an owner of the interests in the head entity chooses the roll-over, the capital gain or capital loss from a CGT event that happens to an original interest is disregarded (s 125-80).
 
 If the roll-over is chosen, the sum of the cost bases of all the owner's post-CGT interests in the head entity just before the demerger must be apportioned across their post-CGT new interests in the demerged entity and any remaining original interests. The apportionment must be done on the basis of the market values, or an anticipated reasonable approximation of the market values, of the ownership interests. The Commissioner considers that the apportionment will be reasonable if the owner calculates the new cost base of each post- demerger interest in accordance with the market value of that interest relative to the total market value of all of their post-demerger interests. However, there may be more than one method of allocating the cost bases of ownership interests that results in a reasonable apportionment (TD 2006/73).
 
@@ -98,7 +98,7 @@ If all the owner's original interests are pre-CGT interests, all the owner's new
 
 Example 1 Bert owned 100 shares in a company of which 50 were acquired pre-CGT. Under a demerger, 20 of Bert's 100 shares were cancelled in exchange for new interests. As 20% of his shares were cancelled, 10 of his pre-CGT shares are taken to have been cancelled.
 
-If there is a demerger, but no CGT event happens to the owner's original interests or the roll-over is not chosen, the cost base and reduced cost base of those interests must be adjusted to reﬂect the change in value caused by the demerger. If such adjustments are made, no other adjustment can be made because of the demerger (ss 125-85 to 125-95). Note that the cost base adjustment rules in s 125-90(2) do not apply to a new interest received in respect of an original interest that was acquired pre-CGT if no CGT event happens to that original interest under a demerger. Also, in these circumstances, a new interest acquired in a demerged entity is not treated as a pre-CGT interest.
+If there is a demerger, but no CGT event happens to the owner's original interests or the roll-over is not chosen, the cost base and reduced cost base of those interests must be adjusted to reflect the change in value caused by the demerger. If such adjustments are made, no other adjustment can be made because of the demerger (ss 125-85 to 125-95). Note that the cost base adjustment rules in s 125-90(2) do not apply to a new interest received in respect of an original interest that was acquired pre-CGT if no CGT event happens to that original interest under a demerger. Also, in these circumstances, a new interest acquired in a demerged entity is not treated as a pre-CGT interest.
 
 Where the roll-over is not chosen, s 125-85 does not apply to deem any of the new interests acquired to have a pre-CGT status if the original interests were acquired pre-CGT (ID 2003/875). Despite not choosing the roll-over, however, a taxpayer may be able to adopt an earlier date of acquisition in order to claim the CGT discount (ID 2003/1031).
 
@@ -154,7 +154,7 @@ A CGT event does not happen when a company splits or consolidates its share capi
 
 The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (¶12-160).
 
-The ﬁrst element of the cost base and reduced cost base of the new shares is worked out under those general rules.
+The first element of the cost base and reduced cost base of the new shares is worked out under those general rules.
 
 ## To qualify for the roll-over, the following conditions must be met (s 125-70):
 

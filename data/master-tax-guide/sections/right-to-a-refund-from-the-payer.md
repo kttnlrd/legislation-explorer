@@ -13,7 +13,7 @@ The payer must refund an amount to the recipient of a withholding payment if the
 
 - paid the amount to the Commissioner in relation to an alienated personal services payment or a
 
-  non-cash beneﬁt,
+  non-cash benefit,
 
   and the amount was withheld or paid in error or, in the case of an amount withheld from a purported parental
 
@@ -23,15 +23,15 @@ The payer must refund an amount to the recipient of a withholding payment if the
 
   withholds from a payment of investment income.
 
-The payer must refund a withheld amount if it becomes aware of the error or the recipient applies to the payer for the refund. In both cases, this must occur before the end of the ﬁnancial year in which the amount was withheld or paid. The amount that must be refunded is a debt recoverable by the recipient from the payer.
+The payer must refund a withheld amount if it becomes aware of the error or the recipient applies to the payer for the refund. In both cases, this must occur before the end of the financial year in which the amount was withheld or paid. The amount that must be refunded is a debt recoverable by the recipient from the payer.
 
 *Refs: s 18-65*
 
-- oﬀset that amount against another payment it is required to make to the Commissioner, or
+- offset that amount against another payment it is required to make to the Commissioner, or
 
 - recover from the Commissioner so much of the amount that is withheld and paid to the
 
-  Commissioner, and which the payer has not recorded as being oﬀset.
+  Commissioner, and which the payer has not recorded as being offset.
 
 Request for information In order to be eligible for a refund, the recipient must have provided any information requested by the payer (or the time for making such a request must have passed). The payer may request the recipient's:
 
@@ -39,13 +39,13 @@ Request for information In order to be eligible for a refund, the recipient must
 
   or
 
-- ABN if the payment or non-cash beneﬁt was in respect of an investment made in the course or
+- ABN if the payment or non-cash benefit was in respect of an investment made in the course or
 
   furtherance of an enterprise,
 
-  if the payment or non-cash beneﬁt was in respect of payments for work or services, retirement payments and
+  if the payment or non-cash benefit was in respect of payments for work or services, retirement payments and
 
-ETPs, beneﬁts and compensation payments or an investment where the recipient did not quote a TFN or an ABN.
+ETPs, benefits and compensation payments or an investment where the recipient did not quote a TFN or an ABN.
 
 Such a request must be made within 7 working days (of the payer) after the payer receives the application for the refund or after the payer otherwise becomes aware of the error. This request enables payers to correct their records before refunding an amount withheld in error, thereby reducing the risk of future errors. If the recipient does not provide a TFN or an ABN to the payer, the payer is not required to refund the amount.
 

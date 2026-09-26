@@ -23,7 +23,7 @@ day Medium                             Payment due by the 21st or 28th day after
 
 Medium withholders who do not qualify for the deferral (eg because they pay GST monthly) are required to pay by the 21st day of the next month. Medium withholders who qualify for the deferral will be entitled to pay on the 28th day of the month (or 28 February in relation to amounts withheld in December) only if they are a deferred BAS payer for that month (ie only if they have another quarterly BAS obligation due on that day). If they do not have another quarterly BAS obligation due on that day, they are required to pay by the 21st day of the next month. This means that, during a year, a medium withholder's due dates may vary between the 21st and the 28th day of a particular month.
 
-Example 1: Large withholder Abbott Manufacturing makes a payment of salary to its employees on the ﬁrst Tuesday of every month. It is required to pay the amount withheld on that Tuesday on or before the following Monday.
+Example 1: Large withholder Abbott Manufacturing makes a payment of salary to its employees on the first Tuesday of every month. It is required to pay the amount withheld on that Tuesday on or before the following Monday.
 
 Example 2: Medium withholder Surfboards'n'More pays its directors fortnightly. It pays its GST monthly. If it withholds an amount on 1 May 2025, it must pay that amount to the Commissioner on or by 21 June 2025.
 
@@ -35,9 +35,9 @@ The Commissioner may, with a withholder's agreement and written notice, vary the
 
 Where a due date for payment of a tax debt falls on a Saturday, a Sunday or a public holiday, taxpayers may pay on the next business day without incurring a penalty or GIC (TAA s 8AAZMB).
 
-Lodgment concessions The ATO lodgment concession for tax agents generally oﬀers a 4-week extension for lodgment of the ﬁrst, third and fourth quarterly activity statements if lodged electronically. Full details of the tax agent lodgment program 2024–25 are available on the ATO website (www.ato.gov.au).
+Lodgment concessions The ATO lodgment concession for tax agents generally offers a 4-week extension for lodgment of the first, third and fourth quarterly activity statements if lodged electronically. Full details of the tax agent lodgment program 2024–25 are available on the ATO website (www.ato.gov.au).
 
-There is also a lodgment concession for entities that do not use tax agents for the lodgment of activity statements. This concession generally oﬀers a 2 week extension for lodgment of the ﬁrst, third and fourth quarterly activity statements if lodged electronically. However, this concession does not apply to:
+There is also a lodgment concession for entities that do not use tax agents for the lodgment of activity statements. This concession generally offers a 2 week extension for lodgment of the first, third and fourth quarterly activity statements if lodged electronically. However, this concession does not apply to:
 
 - monthly activity statements
 
@@ -63,7 +63,7 @@ TFN withholding tax TFN withholding tax (¶26-200) is due and payable at the end
 
 It is payable jointly and severally by the investor and the investment body except if the investment body is the Commonwealth or an untaxed Commonwealth entity, in which case it is payable by the investor who is taken to have authorised the investment body to pay it on his/her/its behalf.
 
-The investment body may recover from the investor any TFN withholding tax it pays. It is also entitled to set oﬀ an amount that it can recover from the investor against a debt due by it to the investor or an amount accruing to the investor or that stands to the investor's credit.
+The investment body may recover from the investor any TFN withholding tax it pays. It is also entitled to set off an amount that it can recover from the investor against a debt due by it to the investor or an amount accruing to the investor or that stands to the investor's credit.
 
 Recovery of amounts by Commissioner The Commissioner can take recovery action under TAA Div 268 by estimating a debt for all PAYG withholding amounts that have been withheld but not paid to the Commissioner (¶25-560). The taxpayer can have the estimate reduced or revoked by giving the Commissioner a statutory declaration. The Commissioner may then recover the amount under the collection and recovery rules in TAA sch 1 Pt 4-15 (¶25-500). The Commissioner's power to issue, and revoke, a PAYG liability estimate notice is discussed in DFC of T v Armstrong Scalisi Holdings Pty Ltd 2019 ATC ¶20-684; [2019] NSWSC 129.
 
@@ -71,8 +71,8 @@ Recovery of amounts by Commissioner The Commissioner can take recovery action un
 
 ## Saturday or Sunday          The second Monday after
 
-## Monday or Tuesday           The ﬁrst Monday after that
+## Monday or Tuesday           The first Monday after that
 
 ## Wednesday                   The second Thursday after
 
-## Thursday or Friday          The ﬁrst Thursday after that
+## Thursday or Friday          The first Thursday after that

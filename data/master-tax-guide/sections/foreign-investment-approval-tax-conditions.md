@@ -13,7 +13,7 @@ Foreign investment proposals are reviewed on a case-by-case basis to ensure that
 
 - comply with Australian tax laws in relation to assets acquired
 
-- provide documents or information to the ATO within the timeframe speciﬁed
+- provide documents or information to the ATO within the timeframe specified
 
 - advise the ATO of any material transactions where the transfer pricing or anti-avoidance rules
 
@@ -21,9 +21,9 @@ Foreign investment proposals are reviewed on a case-by-case basis to ensure that
 
 - pay any outstanding tax debt due at the time of the proposed investment
 
-- where a signiﬁcant tax risk is identiﬁed, periodically provide a forecast of tax payable and explain
+- where a significant tax risk is identified, periodically provide a forecast of tax payable and explain
 
-  signiﬁcant variations from the forecast, and
+  significant variations from the forecast, and
 
 - report annually to the FIRB on compliance with the conditions.
 
@@ -31,9 +31,9 @@ A foreign investor was penalised $250,000 for purchasing multiple properties in 
 
 Changes to foreign investment rules from 2021 New foreign investment approval rules apply from 1 January 2021. Changes include new national security tests, "call in" and other review and enforcement powers, and a new register of foreign ownership.
 
-Importantly, the ﬁnancial value thresholds for foreign investment approval (which were temporarily removed due to COVID-19) have been reinstated from 1 January 2021.
+Importantly, the financial value thresholds for foreign investment approval (which were temporarily removed due to COVID-19) have been reinstated from 1 January 2021.
 
-Changed conditions for FIRB approvals include additional tax conditions requiring an applicant to provide FIRB and the ATO with detailed information relating to structures, investors and expected tax outcomes, a non-legally binding tax risk notiﬁcation mechanism and updated required wording for an applicant's compliance report on tax conditions.
+Changed conditions for FIRB approvals include additional tax conditions requiring an applicant to provide FIRB and the ATO with detailed information relating to structures, investors and expected tax outcomes, a non-legally binding tax risk notification mechanism and updated required wording for an applicant's compliance report on tax conditions.
 
 Foreign investor information service A new ATO advisory service (the New Investment Engagement Service) was launched on 1 July 2021, to provide information about foreign investment in Australian businesses. The service will include information about Australian tax laws and federal tax obligations and expedite access to private binding rulings and advance pricing agreements where necessary. It will be open to businesses making new investments into Australia of $250 million or more. property vacancy fee
 

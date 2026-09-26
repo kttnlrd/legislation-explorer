@@ -25,7 +25,7 @@ The amendments contained in schs 4 and 6 to the Miscellaneous Measures Bill are 
 
 The amendments contained in schs 1 to 3 to the Better Targeted Superannuation Concessions Bill and the Imposition Bill are summarised at ¶41-100.
 
-(ACNC) — disclosures about recognised assessment activities Schedule 4 to the Miscellaneous Measures Bill amends the Australian Charities and Not-for-proﬁts Commission Act 2012 to provide 2 new exceptions for the public disclosure of protected ACNC information about new and ongoing investigations. The Commissioner of the ACNC may authorise ACNC oﬃcers to disclose information about a recognised assessment activity in relation to a registered entity in certain circumstances, subject to a safeguard of a public harm test.
+(ACNC) — disclosures about recognised assessment activities Schedule 4 to the Miscellaneous Measures Bill amends the Australian Charities and Not-for-profits Commission Act 2012 to provide 2 new exceptions for the public disclosure of protected ACNC information about new and ongoing investigations. The Commissioner of the ACNC may authorise ACNC officers to disclose information about a recognised assessment activity in relation to a registered entity in certain circumstances, subject to a safeguard of a public harm test.
 
 Schedule 4 to the Miscellaneous Measures Bill commences the day after assent. The amendments will apply in relation to recognised assessment activity carried out by the Commissioner of the ACNC on or after commencement relating to conduct of a registered entity before, on or after commencement. This will ensure that the ACNC may disclose information about investigations which are ongoing at the time of commencement.
 
@@ -33,7 +33,7 @@ See ¶1-220.
 
 Miscellaneous and technical amendments Schedule 6 to the Miscellaneous Measures Bill makes a number of minor and technical amendments to Treasury portfolio legislation including amendments to the A New Tax System (Goods and Services Tax) Act 1999 relating to the attribution of input tax credits to tax periods. Equivalent amendments are also made to similar provisions in the Fuel Tax Act 2006 relating to the attribution of fuel tax credits to tax periods and fuel tax return periods. The amendments ensure that the provisions operate as intended and that credits can be attributable to appropriate tax periods.
 
-The amendments commence on the ﬁrst day of the ﬁrst quarter following assent and will apply in relation to input tax credits and fuel tax credits that are ordinarily attributable to tax periods or fuel tax periods that start on or after 1 July 2012, being the date on which the current attribution rules came into eﬀect.
+The amendments commence on the first day of the first quarter following assent and will apply in relation to input tax credits and fuel tax credits that are ordinarily attributable to tax periods or fuel tax periods that start on or after 1 July 2012, being the date on which the current attribution rules came into effect.
 
 See ¶34-140, ¶40-100.
 

@@ -13,8 +13,8 @@ Concessional contributions cap Income year                     Age on 30 June   
 
 Where an individual's concessional contributions exceed a prescribed income threshold of $250,000, they are liable to a 15% Division 293 tax on the excess (¶13-620).
 
-Unused concessional cap carry forward From 1 July 2018, an individual who has a total superannuation balance (¶13-640) of less than $500,000 on 30 June of the previous ﬁnancial year is entitled to contribute more than the general concessional contributions cap amount under a "carry forward" arrangement by making additional concessional contributions using any unused concessional cap amounts from an earlier year.
+Unused concessional cap carry forward From 1 July 2018, an individual who has a total superannuation balance (¶13-640) of less than $500,000 on 30 June of the previous financial year is entitled to contribute more than the general concessional contributions cap amount under a "carry forward" arrangement by making additional concessional contributions using any unused concessional cap amounts from an earlier year.
 
-The ﬁrst year of entitlement to the carry forward unused amounts is the 2019–20 ﬁnancial year. Unused amounts are available for a maximum of 5 years, and will expire after this period (¶13-820).
+The first year of entitlement to the carry forward unused amounts is the 2019–20 financial year. Unused amounts are available for a maximum of 5 years, and will expire after this period (¶13-820).
 
 *Refs: ITAA97 s 960-285)*

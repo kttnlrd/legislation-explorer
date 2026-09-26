@@ -33,7 +33,7 @@ Payments received under a grant from the Australian-American Educational Foundat
 
 Research fellowships under the Endeavour Awards and the Endeavour Executive Award, in which recipients are not required to be in full-time study, are also exempt from income tax.
 
-Apprentice payments The ﬁrst $1,000 of a bonus paid by a state or territory government to apprentices for the early completion of their apprenticeships is exempt. Payments made under the Skills for Sustainability for Australian Apprentices and under the Australian Apprenticeships Incentives Program for Tools For Your Trade (5 payments over the apprenticeship) are also exempt (ITAA97 s 51-10, items 2.7, 2.8).
+Apprentice payments The first $1,000 of a bonus paid by a state or territory government to apprentices for the early completion of their apprenticeships is exempt. Payments made under the Skills for Sustainability for Australian Apprentices and under the Australian Apprenticeships Incentives Program for Tools For Your Trade (5 payments over the apprenticeship) are also exempt (ITAA97 s 51-10, items 2.7, 2.8).
 
 A checklist summarising other tax measures relevant to students is provided at ¶44-140.
 

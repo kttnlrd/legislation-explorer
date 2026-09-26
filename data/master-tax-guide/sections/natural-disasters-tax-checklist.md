@@ -9,7 +9,7 @@ paragraph: "¶44-130"
 
 - Premiums paid for insurance cover for business losses are normally deductible (¶16-550).
 
-- Insurance payouts for loss of proﬁts are assessable (¶10-170).
+- Insurance payouts for loss of profits are assessable (¶10-170).
 
 - Destroyed trading stock can be valued at nil. Payouts for loss of trading stock are assessable
 
@@ -55,11 +55,11 @@ paragraph: "¶44-130"
 
 - Demolition costs would normally be capital (¶16-060).
 
-- A 3-year write-oﬀ applies for capital expenditure on a wide range of water facilities for the purpose
+- A 3-year write-off applies for capital expenditure on a wide range of water facilities for the purpose
 
   of conserving or conveying water. This would include the cost of installing an extra pump for an in-
 
-  ground swimming pool where the pump is to be used solely for ﬁre ﬁghting purposes (¶18-080).
+  ground swimming pool where the pump is to be used solely for fire fighting purposes (¶18-080).
 
 - Rural businesses can claim an outright deduction for capital expenditure on landcare operations
 
@@ -85,9 +85,9 @@ paragraph: "¶44-130"
 
 - Expenses of closing down a business would normally not be deductible, but may qualify for a
 
-  write-oﬀ over 5 years (¶16-156).
+  write-off over 5 years (¶16-156).
 
-- A concessional rule applies where drought, ﬁre or ﬂood causes there to be an advanced shearing
+- A concessional rule applies where drought, fire or flood causes there to be an advanced shearing
 
   by a primary producer carrying on a sheep grazing business (¶18-140).
 
@@ -97,13 +97,13 @@ paragraph: "¶44-130"
 
   equal instalments over 5 years. The same applies to insurance recoveries for the loss of trees by
 
-  ﬁre (¶18-150).
+  fire (¶18-150).
 
 - Special concessions apply if there has been a forced sale or death of livestock due to destruction
 
-  of pasture or fodder due to drought, ﬁre or ﬂood (¶18-160).
+  of pasture or fodder due to drought, fire or flood (¶18-160).
 
-- Averaging rules may apply where there are ﬂuctuations of primary production income from year to
+- Averaging rules may apply where there are fluctuations of primary production income from year to
 
   year (¶18-200).
 
@@ -111,7 +111,7 @@ paragraph: "¶44-130"
 
   occur within 12 months, provided that there are exceptional circumstances (¶18-290).
 
-- One-oﬀ governmental grants to assist with living expenses may be tax free, but some grants
+- One-off governmental grants to assist with living expenses may be tax free, but some grants
 
   made to businesses may be assessable (¶10-195, ¶10-197).
 
@@ -127,9 +127,9 @@ paragraph: "¶44-130"
 
 - Income earned from employment in the operations of a developing country relief fund or a public
 
-  disaster relief fund qualiﬁes under the exemption for foreign employment income (¶10-860).
+  disaster relief fund qualifies under the exemption for foreign employment income (¶10-860).
 
-- Commonwealth disaster relief payments relating to bushﬁres and ﬂoods have been declared as
+- Commonwealth disaster relief payments relating to bushfires and floods have been declared as
 
   non-assessable non-exempt income (¶10-895).
 
@@ -143,7 +143,7 @@ paragraph: "¶44-130"
 
   including natural disasters (¶16-020). Special safe harbour rules are now in place.
 
-- Early release of superannuation beneﬁts may be possible in cases of severe ﬁnancial hardship
+- Early release of superannuation benefits may be possible in cases of severe financial hardship
 
   (¶13-025).
 
@@ -153,9 +153,9 @@ paragraph: "¶44-130"
 
   refunds (¶25-450, ¶29-400, ¶29-530).
 
-- The ﬁnancial eﬀects of a natural disaster may be taken into account in determining whether an
+- The financial effects of a natural disaster may be taken into account in determining whether an
 
-  entity satisﬁes the "small business entity" income tests for obtaining tax concessions (¶7-050).
+  entity satisfies the "small business entity" income tests for obtaining tax concessions (¶7-050).
 
 - A natural disaster may mean that a business is no longer a "going concern" that is eligible for
 
@@ -163,17 +163,17 @@ paragraph: "¶44-130"
 
 - Charities can elect to have fundraising events treated as input taxed (¶34-170).
 
-- The prospect of factors such as drought or ﬁre may be taken into account in determining whether
+- The prospect of factors such as drought or fire may be taken into account in determining whether
 
-  a business satisﬁes the income test for the "small business entity" GST concessions (¶34-270).
+  a business satisfies the income test for the "small business entity" GST concessions (¶34-270).
 
-- An input tax credit on business items that you have acquired is not aﬀected if the items are
+- An input tax credit on business items that you have acquired is not affected if the items are
 
   subsequently destroyed (¶34-110).
 
 - If the business is reimbursed for its losses under an insurance policy, the settlement will not be
 
-  subject to GST, provided that the insurance company was notiﬁed of the input tax credit entitlement
+  subject to GST, provided that the insurance company was notified of the input tax credit entitlement
 
   for the premium (¶34-210).
 

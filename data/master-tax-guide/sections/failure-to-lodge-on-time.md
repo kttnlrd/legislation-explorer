@@ -9,7 +9,7 @@ paragraph: "¶29-100"
 
 Taxpayers who fail to lodge tax returns and other documents by the due date or, if required, in the "approved form" (see below) are liable to a penalty (TAA sch 1 Div 286). However, the particular reporting obligations of the Superannuation Contributions Tax (Assessment and Collection) Act 1997, the Superannuation Guarantee (Administration) Act 1992 and the Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991 do not attract the penalty provisions applicable to tax documents.
 
-Refusal or failure to lodge a return also constitutes an oﬀence that renders the taxpayer liable to prosecution (¶29-700). When a prosecution is initiated the related administrative penalty is withdrawn under TAA s 8ZE (¶29-700).
+Refusal or failure to lodge a return also constitutes an offence that renders the taxpayer liable to prosecution (¶29-700). When a prosecution is initiated the related administrative penalty is withdrawn under TAA s 8ZE (¶29-700).
 
 Working out the base penalty amount All entities, including individuals, are liable for the "base penalty amount" where they fail to lodge relevant documents as required. The base penalty amount is one penalty unit (¶29-000) for each 28-day period (or part thereof) that the tax document remains outstanding, up to a maximum of 500 penalty units. The amount of the penalty payable increases according to the size of the entity as follows: Penalties for failure to lodge by due date or in approved form Penalty (for each 28-day period or part thereof not Type of entity                                                                          lodged, up to a maximum of 5 penalty units)
 
@@ -43,7 +43,7 @@ Working out the base penalty amount All entities, including individuals, are lia
 
   required, of $20 million or more.
 
-4    A signiﬁcant global entity is broadly, at the time it is required to give the relevant document to the Commissioner, one:
+4    A significant global entity is broadly, at the time it is required to give the relevant document to the Commissioner, one:
 
 - that has a global parent entity with an annual global income of $1 billion or more, or
 
@@ -55,7 +55,7 @@ The due date for lodgment of a BAS including PAYG withholding information for th
 
 Approved forms The requirements for a return, notice, statement, application or other document under a taxation law to be an approved form are set out in TAA sch 1 s 388-50.
 
-The BAS is the approved form for a GST return as well as notiﬁcation of PAYG withholding amounts, PAYG instalments, FBT instalments and deferred company instalments (¶24-200). As a result, each of the payments has a separate notiﬁcation obligation for penalty purposes, and failure to lodge a BAS on time or in the approved form could result in multiple applications of the administrative penalty, depending on the number of tax obligations that were reportable.
+The BAS is the approved form for a GST return as well as notification of PAYG withholding amounts, PAYG instalments, FBT instalments and deferred company instalments (¶24-200). As a result, each of the payments has a separate notification obligation for penalty purposes, and failure to lodge a BAS on time or in the approved form could result in multiple applications of the administrative penalty, depending on the number of tax obligations that were reportable.
 
 *Refs: ITAA97 s 960-550), s 388-50*
 
@@ -69,6 +69,6 @@ agent lodgments A taxpayer who engages a registered tax or BAS agent is exempt f
 
 ## Large entity
 
-## Signiﬁcant global entity
+## Significant global entity
 
 ## Late lodgment safe harbour for registered tax or BAS

@@ -7,7 +7,7 @@ paragraph: "¶11-033"
 ---
 # Discount capital gains ¶11-033
 
-A discount capital gain is a capital gain that satisﬁes the requirements of Subdiv 115-A (ss 115-5 to 115-50).
+A discount capital gain is a capital gain that satisfies the requirements of Subdiv 115-A (ss 115-5 to 115-50).
 
 *Refs: s 115-5*
 
@@ -31,7 +31,7 @@ Notwithstanding the general rule, the CGT discount may be available where an ass
 
   provisions is treated as being acquired when the previous owner acquired the asset
 
-- an asset acquired as a beneﬁciary or legal personal representative of a deceased person
+- an asset acquired as a beneficiary or legal personal representative of a deceased person
 
   (¶12-580) is treated as being acquired:
 
@@ -43,23 +43,23 @@ Notwithstanding the general rule, the CGT discount may be available where an ass
 
 (¶12-630).
 
-For the purpose of applying the CGT discount in relation to a retail premium being received in connection with renounceable rights oﬀers, the right is treated as being acquired on the date the original shares were acquired (TR 2017/4).
+For the purpose of applying the CGT discount in relation to a retail premium being received in connection with renounceable rights offers, the right is treated as being acquired on the date the original shares were acquired (TR 2017/4).
 
 The following CGT events do not qualify for the CGT discount: D1 to D3, E9, F1, F2, F5, H2, J2, J5, J6 and K10 (s 115-25(3)). For details of these events, see the table in ¶11-240.
 
 What are not discount capital gains?
 
-A capital gain from a CGT event is speciﬁcally stated not to be a discount capital gain in 2 cases. (1) Agreement entered into within 12 months of the CGT event The ﬁrst case is where the taxpayer makes a capital gain from a CGT event happening to a CGT asset under an agreement made within 12 months of acquiring the asset (s 115-40). This applies even if the gain otherwise meets the discount capital gain requirements. (2) Changes to equity interests in a company or trust The second case is aimed at stopping taxpayers from obtaining the beneﬁt of discounted capital gains by purchasing assets through an existing company or trust and eﬀectively selling that asset within the 12-month period through a sale of the shares in the company or trust interests which have been held for at least 12 months (s 115-45).
+A capital gain from a CGT event is specifically stated not to be a discount capital gain in 2 cases. (1) Agreement entered into within 12 months of the CGT event The first case is where the taxpayer makes a capital gain from a CGT event happening to a CGT asset under an agreement made within 12 months of acquiring the asset (s 115-40). This applies even if the gain otherwise meets the discount capital gain requirements. (2) Changes to equity interests in a company or trust The second case is aimed at stopping taxpayers from obtaining the benefit of discounted capital gains by purchasing assets through an existing company or trust and effectively selling that asset within the 12-month period through a sale of the shares in the company or trust interests which have been held for at least 12 months (s 115-45).
 
 *Refs: s 995-1(1)), s 115-30, s 83A-33, s 115-25(3)), s 115-40), s 115-45)*
 
 - just before the CGT event happened to the shares or trust interest, the taxpayer and associates
 
-  beneﬁcially owned: (i) at least 10% by value of the shares in the company (except shares having
+  beneficially owned: (i) at least 10% by value of the shares in the company (except shares having
 
   only limited income and capital rights); or (ii) at least 10% of the trust voting interests, issued units
 
-  or other ﬁxed interests in the trust
+  or other fixed interests in the trust
 
 - the total of the cost bases of CGT assets that the company or trust owned at the time of the CGT
 
@@ -77,13 +77,13 @@ A capital gain from a CGT event is speciﬁcally stated not to be a discount cap
 
   assumed that all disposals are for market value and that the company or trust does not have any
 
-  net capital losses which can be oﬀset against capital gains.
+  net capital losses which can be offset against capital gains.
 
-This second rule does not stop a capital gain from being a discount capital gain if the shares are in a company with at least 300 members, or the interests are in a ﬁxed trust with at least 300 beneﬁciaries, unless there is "concentrated ownership" of the company or trust (s 115-50). A ﬁxed trust for these purposes is a trust in which persons have ﬁxed entitlements to all of the income and corpus (s 995-1(1)).
+This second rule does not stop a capital gain from being a discount capital gain if the shares are in a company with at least 300 members, or the interests are in a fixed trust with at least 300 beneficiaries, unless there is "concentrated ownership" of the company or trust (s 115-50). A fixed trust for these purposes is a trust in which persons have fixed entitlements to all of the income and corpus (s 995-1(1)).
 
-There is "concentrated ownership" if an individual owns, or up to 20 individuals own between them, directly or indirectly, shares in the company or interests in the trust with ﬁxed entitlements to at least 75% of the income or capital, or at least 75% of the voting rights. For this purpose, one individual together with associates, and any nominees of the individual or of the individual's associates, are counted as one individual. The test also considers whether it is reasonable to conclude that the rights attaching to any of the shares or interests can be varied or abrogated in such a way that ownership would be concentrated. This would involve looking, for example, at the company or trust's constituent document and any agreements under which a person had a power to acquire shares or interests (s 115-50(7)). It is irrelevant whether the rights are actually varied or abrogated.
+There is "concentrated ownership" if an individual owns, or up to 20 individuals own between them, directly or indirectly, shares in the company or interests in the trust with fixed entitlements to at least 75% of the income or capital, or at least 75% of the voting rights. For this purpose, one individual together with associates, and any nominees of the individual or of the individual's associates, are counted as one individual. The test also considers whether it is reasonable to conclude that the rights attaching to any of the shares or interests can be varied or abrogated in such a way that ownership would be concentrated. This would involve looking, for example, at the company or trust's constituent document and any agreements under which a person had a power to acquire shares or interests (s 115-50(7)). It is irrelevant whether the rights are actually varied or abrogated.
 
-An amount included in a beneﬁciary's assessable income under s 99B(1) (¶6-130) that had its origins in a capital gain from non-taxable Australian property of a foreign trust for CGT purposes will not be a discount capital gain (TD 2017/24).
+An amount included in a beneficiary's assessable income under s 99B(1) (¶6-130) that had its origins in a capital gain from non-taxable Australian property of a foreign trust for CGT purposes will not be a discount capital gain (TD 2017/24).
 
 *Refs: s 115-50), s 995-1(1)), s 115-50(7))*
 

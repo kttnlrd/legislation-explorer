@@ -19,7 +19,7 @@ Income directly attributable to qualifying service by the taxpayer on an approve
 
   based superannuation fund (¶14-420) and lump sum employment termination payments (¶14-610)
 
-- the tax-free amount of a bona ﬁde redundancy payment (or of an approved retirement scheme
+- the tax-free amount of a bona fide redundancy payment (or of an approved retirement scheme
 
   payment)
 
@@ -35,7 +35,7 @@ Income directly attributable to qualifying service by the taxpayer on an approve
 
 - exempt foreign earnings (¶10-860).
 
-Income assessed under the ITAA97 Div 83A employee share scheme provisions (¶10-085) that is attributable to qualifying service is eligible for the exemption as foreign employment income (s 23AF(18) deﬁnition of "eligible foreign remuneration").
+Income assessed under the ITAA97 Div 83A employee share scheme provisions (¶10-085) that is attributable to qualifying service is eligible for the exemption as foreign employment income (s 23AF(18) definition of "eligible foreign remuneration").
 
 Approved overseas project income is taken into account in calculating Australian tax payable on other income derived by the taxpayer. Tax on the non-exempt income is calculated by applying a notional average rate of tax payable on the sum of the exempt income and non-exempt income using the same formula as in ¶10-865.
 

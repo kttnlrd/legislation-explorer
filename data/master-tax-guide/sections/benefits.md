@@ -5,7 +5,7 @@ section: "benefits"
 title: "benefits"
 paragraph: "¶19-006"
 ---
-# beneﬁts ¶19-006
+# benefits ¶19-006
 
 Mining payments made to "Indigenous people" and distributing groups, relating to the use of "Indigenous land" for mining and exploration are subject to mining withholding tax (ITAA36 s 128V) at the rate of 4%. The amount withheld includes GST if the payment is for a taxable supply (ID 2010/115).
 
@@ -23,11 +23,11 @@ Such payments (other than amounts of remuneration or consideration for goods or 
 
 *Refs: ITAA97 s 59-15*
 
-"Native title beneﬁts" received from 1 July 2008 are NANE income and not subject to income tax (ITAA97 s 59-50; ¶10-187). In addition, certain CGT events involving native title rights do not have CGT implications (¶11-670).
+"Native title benefits" received from 1 July 2008 are NANE income and not subject to income tax (ITAA97 s 59-50; ¶10-187). In addition, certain CGT events involving native title rights do not have CGT implications (¶11-670).
 
-A native title beneﬁt is the amount or beneﬁt that an "Indigenous person" or "Indigenous holding entity" (including a "distributing body" for Indigenous people) receives directly from entering into a relevant agreement or as compensation under the Native Title Act 1993.
+A native title benefit is the amount or benefit that an "Indigenous person" or "Indigenous holding entity" (including a "distributing body" for Indigenous people) receives directly from entering into a relevant agreement or as compensation under the Native Title Act 1993.
 
-The payee of a native title beneﬁt is not required to withhold an amount from the payment as native title beneﬁts are excluded from the deﬁnition of mining payment in ITAA36 s 128U. expenditure
+The payee of a native title benefit is not required to withhold an amount from the payment as native title benefits are excluded from the definition of mining payment in ITAA36 s 128U. expenditure
 
 *Refs: ITAA97 s
 59-50*

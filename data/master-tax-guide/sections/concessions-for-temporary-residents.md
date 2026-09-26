@@ -13,9 +13,9 @@ In general, these concessions apply for income years that begin on or after 1 Ju
 
 A special rate of income tax applies to income earned on or after 1 January 2017 by some working holiday makers, regardless of the residency status of the individual (¶21-033).
 
-Who are temporary residents A temporary resident is a person who holds a temporary visa under the Migration Act 1958 (ITAA97 deﬁnition in s 995-1). A temporary visa is one that enables a person to remain in Australia during a speciﬁed period, or until a speciﬁed event occurs, or while the holder has a special status.
+Who are temporary residents A temporary resident is a person who holds a temporary visa under the Migration Act 1958 (ITAA97 definition in s 995-1). A temporary visa is one that enables a person to remain in Australia during a specified period, or until a specified event occurs, or while the holder has a special status.
 
-A person may be a temporary resident irrespective of whether they are a resident or a non-resident under the normal tax rules. However, a person will not be a temporary resident if they are residents under the separate test laid down in the Social Security Act 1991. In eﬀect, this means that they cannot be an Australian- resident citizen, permanent resident, or person who holds a protected special category visa. The rationale for excluding protected special category visa holders is that they are entitled to government beneﬁts on a similar basis to citizens. A person also cannot be a temporary resident if their spouse is a resident for social security purposes.
+A person may be a temporary resident irrespective of whether they are a resident or a non-resident under the normal tax rules. However, a person will not be a temporary resident if they are residents under the separate test laid down in the Social Security Act 1991. In effect, this means that they cannot be an Australian- resident citizen, permanent resident, or person who holds a protected special category visa. The rationale for excluding protected special category visa holders is that they are entitled to government benefits on a similar basis to citizens. A person also cannot be a temporary resident if their spouse is a resident for social security purposes.
 
 A New Zealand citizen who held a Special Category visa which lapsed when he left Australia for a short period was considered to remain a temporary resident during that period, as he continued to be entitled to re- enter Australia on presentation of his NZ passport (TD 2012/18).
 
@@ -31,21 +31,21 @@ This applies, for example, to foreign-source dividends, interest or rental incom
 
   resident. The reason for this exception is the government's view that permanent and temporary
 
-  residents should compete on a level playing ﬁeld for the supply of labour or services overseas
+  residents should compete on a level playing field for the supply of labour or services overseas
 
 - alienated personal services income assessable under Div 86, and
 
 - net capital gains (these are treated separately: see below).
 
-The fact that the exemption does not apply to these types of income does not prevent them from being exempt under some other provision. For example, a temporary resident who is a resident for tax purposes and is employed overseas for at least 91 days on speciﬁed types of project may still be able to claim exemptions under ss 23AF and 23AG (¶10-860).
+The fact that the exemption does not apply to these types of income does not prevent them from being exempt under some other provision. For example, a temporary resident who is a resident for tax purposes and is employed overseas for at least 91 days on specified types of project may still be able to claim exemptions under ss 23AF and 23AG (¶10-860).
 
 Australian-sourced income distributed from a non-resident trust to a temporary resident in Australia is considered to fall outside the exemption and to be assessable (ID 2007/108).
 
 In technical terms, the income covered by the exemption is called "non-assessable non-exempt income" (¶10-890). This basically means that it is excluded from assessable income and is not taken into account when working out a taxpayer's losses.
 
-The exemption also means that expenses incurred in deriving the income will not be deductible, and that foreign tax oﬀsets/credits cannot be claimed for foreign tax paid on the income.
+The exemption also means that expenses incurred in deriving the income will not be deductible, and that foreign tax offsets/credits cannot be claimed for foreign tax paid on the income.
 
-Special types of foreign income It is speciﬁcally provided that a temporary resident will not be assessable on income attributed under the Controlled Foreign Companies (CFC) rules (¶21-140). This also means that they are relieved of the compliance burden associated with CFC calculations and the associated record-keeping requirements (ITAA97 s 768-960).
+Special types of foreign income It is specifically provided that a temporary resident will not be assessable on income attributed under the Controlled Foreign Companies (CFC) rules (¶21-140). This also means that they are relieved of the compliance burden associated with CFC calculations and the associated record-keeping requirements (ITAA97 s 768-960).
 
 A temporary resident will not be treated as a resident for the purposes of the transferor trust measures (¶21-330). This means that they will not be attributed with any income of the trust under those measures during the period while they are a temporary resident (ITAA97 s 768-970). However the temporary resident will still be required to keep records under ITAA36 s 102AAZG that would be relevant to any period when they were not a temporary resident.
 

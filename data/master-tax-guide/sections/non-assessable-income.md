@@ -45,7 +45,7 @@ General rules for income categories To ensure that there is no overlap or confus
 
 ITAA97 Div 59 contains the operative provisions for miscellaneous items of NANE income that are not dealt with as part of a larger legislative regime.
 
-Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains a checklist of NANE income provisions. The following list identiﬁes amounts that are NANE income under ITAA97 s 11-55 and provides references (if available) to where they are discussed elsewhere in this Guide.
+Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains a checklist of NANE income provisions. The following list identifies amounts that are NANE income under ITAA97 s 11-55 and provides references (if available) to where they are discussed elsewhere in this Guide.
 
 *Refs: ITAA97 s 6-1, ITAA97 s 11-55*
 
@@ -83,7 +83,7 @@ Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains
 
 - ITAA36 s 44(4): demerger dividends (¶4-160)
 
-- ITAA36 ss 109ZC(3) and 109ZCA(4): a later dividend set oﬀ against an amount taken to be a
+- ITAA36 ss 109ZC(3) and 109ZCA(4): a later dividend set off against an amount taken to be a
 
   dividend under ITAA36 Div 7A (¶4-200)
 
@@ -99,7 +99,7 @@ Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains
 
 *Refs: ITAA97 s 59-65*
 
-- ITAA97 s 40-1130: rewards for providing exploration beneﬁts (¶19-010)
+- ITAA97 s 40-1130: rewards for providing exploration benefits (¶19-010)
 
 *Refs: ITAA97 s 40-1130*
 
@@ -107,13 +107,13 @@ Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains
 
 *Refs: ITAA97 s 230-30*
 
-- ITAA97 s 59-10: compensation under ﬁrearms surrender arrangements
+- ITAA97 s 59-10: compensation under firearms surrender arrangements
 
 *Refs: ITAA97 s 59-10*
 
 - ITAA97 s 802-20: distributions of conduit foreign income (¶21-100)
 
-- ITAA36 s 23AH: foreign branch proﬁts of Australian companies (¶21-098)
+- ITAA36 s 23AH: foreign branch profits of Australian companies (¶21-098)
 
 - ITAA36 s 23AI: attributed controlled foreign company income (¶21-097, ¶21-210)
 
@@ -165,7 +165,7 @@ Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains
 
   tax. However, payments received by way of remuneration or for services rendered are assessable,
 
-  eg payments received as salary by staﬀ of the distributing body, or by persons making ordinary
+  eg payments received as salary by staff of the distributing body, or by persons making ordinary
 
   commercial contracts with it
 
@@ -177,19 +177,19 @@ Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains
 
 *Refs: ITAA97 s 59-35*
 
-- ITAA97 s 380-35: state and territory assistance under the National Rental Aﬀordability Scheme
+- ITAA97 s 380-35: state and territory assistance under the National Rental Affordability Scheme
 
   (¶20-600)
 
 *Refs: ITAA97 s 380-35*
 
-- ITAA97 s 59-50: native title beneﬁts (¶10-187, ¶19-006)
+- ITAA97 s 59-50: native title benefits (¶10-187, ¶19-006)
 
 *Refs: ITAA97 s 59-50*
 
-- ITAA36 s 23L(1): fringe beneﬁts (¶10-060, ¶35-000). However, exempt fringe beneﬁts (s 23L(1A))
+- ITAA36 s 23L(1): fringe benefits (¶10-060, ¶35-000). However, exempt fringe benefits (s 23L(1A))
 
-  and non-cash business beneﬁts less than $300 (¶10-030) are exempt (¶10-885)
+  and non-cash business benefits less than $300 (¶10-030) are exempt (¶10-885)
 
 - ITAA97 s 240-40: arrangement payments a notional seller receives or is entitled to receive
 
@@ -199,7 +199,7 @@ Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains
 
   (¶17-220)
 
-- ITAA97 s 250-160: deemed loan treatment for ﬁnancial beneﬁts provided for tax-preferred use of
+- ITAA97 s 250-160: deemed loan treatment for financial benefits provided for tax-preferred use of
 
   asset (¶23-210)
 
@@ -229,7 +229,7 @@ Checklist of non-assessable non-exempt (NANE) income ITAA97 Subdiv 11-B contains
 
 - ITAA97 Subdiv 880-C: sovereign immunity (¶10-602)
 
-- ITAA97 Divs 301 to 306 and 312: certain beneﬁts, contributions, payments, etc, thereunder (Ch
+- ITAA97 Divs 301 to 306 and 312: certain benefits, contributions, payments, etc, thereunder (Ch
 
   14)
 

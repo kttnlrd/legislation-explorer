@@ -9,9 +9,9 @@ paragraph: "¶39-650"
 
 The SHASA is constituted under the Small Superannuation Accounts Act 1995 (SSA Act) which is administered by the ATO.
 
-The SHASA is not a superannuation fund or scheme. It operates as a repository for payments of the shortfall component of an SG charge by the ATO under SGAA s 65 where an employee does not nominate a superannuation fund to receive the shortfall component (¶39-600), for payments of government co- contributions for the beneﬁt of a person (¶13-760), and for deposits of the PPL superannuation contribution for a person (see "Part 12B—PPL superannuation contributions" below). Before 1 July 2006, employers could voluntarily make SG contributions for employees as deposits to the SHASA and these were treated as contributions to a complying superannuation fund or an RSA for tax deduction and SG purposes (SGAA s 23(13)).
+The SHASA is not a superannuation fund or scheme. It operates as a repository for payments of the shortfall component of an SG charge by the ATO under SGAA s 65 where an employee does not nominate a superannuation fund to receive the shortfall component (¶39-600), for payments of government co- contributions for the benefit of a person (¶13-760), and for deposits of the PPL superannuation contribution for a person (see "Part 12B—PPL superannuation contributions" below). Before 1 July 2006, employers could voluntarily make SG contributions for employees as deposits to the SHASA and these were treated as contributions to a complying superannuation fund or an RSA for tax deduction and SG purposes (SGAA s 23(13)).
 
-Operation of SHASA The SHASA maintains separate notional accounts (the "individual's account") for each individual for their interests in the SHASA. The ATO must notify an individual of their account balance as soon as practicable: (a) on the ﬁrst occasion that an amount is credited to the account; (b) at the individual's request; (c) after the end of each ﬁnancial year (only if the balance exceeds nil); and (d) when the account balance ﬁrst exceeds $1,200 (SSA Act ss 20 to 23).
+Operation of SHASA The SHASA maintains separate notional accounts (the "individual's account") for each individual for their interests in the SHASA. The ATO must notify an individual of their account balance as soon as practicable: (a) on the first occasion that an amount is credited to the account; (b) at the individual's request; (c) after the end of each financial year (only if the balance exceeds nil); and (d) when the account balance first exceeds $1,200 (SSA Act ss 20 to 23).
 
 Interest accrues daily on an individual's account, and is credited quarterly on the "allocation day". An individual's account for interest calculation purposes is deemed never to exceed $1,200 so that interest is not paid on balances over $1,200 (SSA Act s 49).
 
@@ -25,7 +25,7 @@ Interest accrues daily on an individual's account, and is credited quarterly on 
 
   where no employer deposit or SG shortfall component is credited at any time during a period of 10
 
-  consecutive ﬁnancial years)
+  consecutive financial years)
 
 - recovery of an overpayment of government co-contributions.
 
@@ -49,7 +49,7 @@ Applications may be made to the Commissioner for withdrawals from an individual'
 
   employed but the duties of the employment are performed wholly or principally outside Australia
 
-- the individual was the holder of an eligible temporary visa that has ceased to be in eﬀect, has left
+- the individual was the holder of an eligible temporary visa that has ceased to be in effect, has left
 
 Australia, is not holding a permanent visa, and is neither an Australian citizen nor New Zealand citizen
 
@@ -65,7 +65,7 @@ SSA Act Pt 12B provides for the operation of the SHASA in relation to PPL supera
 
   the individual's account (being the notional account referred to in SSA Act s 12) and the SSA Act
 
-  applies in relation to the PPL superannuation contribution deposit except to the extent modiﬁed by
+  applies in relation to the PPL superannuation contribution deposit except to the extent modified by
 
 Pt 12B.
 
@@ -77,7 +77,7 @@ PPL superannuation contribution deposits; none of the other rules in SSA Pt 4 de
 
   contribution has occurred under PPLA 2010.
 
-- Modiﬁcations to the account balance withdrawal rules, to the extent the balance in the person's
+- Modifications to the account balance withdrawal rules, to the extent the balance in the person's
 
   account comprises PPL superannuation contribution-related deposits, apply as below:
 
@@ -107,7 +107,7 @@ Commissioner are assessable contributions in the fund or RSA provider except to 
 
   of a deceased individual (including payments made from the Consolidated Revenue Fund) (a
 
-"small superannuation account payment" under ITAA97 s 307-5(1), item 4) is assessable as a superannuation beneﬁt or superannuation death beneﬁt (¶14-100).
+"small superannuation account payment" under ITAA97 s 307-5(1), item 4) is assessable as a superannuation benefit or superannuation death benefit (¶14-100).
 
 *Refs: ITAA97 s 295-160, ITAA97 s 307-5(1)*
 

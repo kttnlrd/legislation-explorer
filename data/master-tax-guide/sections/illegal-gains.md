@@ -11,4 +11,4 @@ The tests for determining whether the proceeds from illegal activities or transa
 
 Amounts received from an illegal activity or transaction that are later repaid or recovered are not deductible, but relevant assessments may be amended, subject to the appropriate time limits (¶25-300), to exclude such amounts from assessable income. See also ¶16-010.
 
-Penalties and ﬁnes in relation to illegal activities are not deductible from any assessable income (¶16-845).
+Penalties and fines in relation to illegal activities are not deductible from any assessable income (¶16-845).

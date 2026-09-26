@@ -21,8 +21,8 @@ GIC is currently deductible (ITAA97 s 25-5(1); ¶16-850) in the year in which th
 
 GIC is a debt due to the Commonwealth that may be sued for and recovered in the usual way. It is also a "present legal obligation" (¶4-200) on each day an amount of tax remains unpaid (H 2010 ATC ¶20-218; [2010] FCAFC 128).
 
-Running balance accounts Running balance accounts (RBAs) record a taxpayer's tax liabilities and credits that are notiﬁed on an activity statement (¶24-300). GIC is payable on any RBA deﬁcit that exists at the end of each day (TAA s 8AAZF).
+Running balance accounts Running balance accounts (RBAs) record a taxpayer's tax liabilities and credits that are notified on an activity statement (¶24-300). GIC is payable on any RBA deficit that exists at the end of each day (TAA s 8AAZF).
 
-GIC has been held to have been payable for an RBA deﬁcit debt, notwithstanding that the debt was the consequence of an administrative overpayment from the ATO, in respect of which the ATO had not given a notice specifying a payment due date (Price 2010 ATC ¶20-189; [2010] QSC 196).
+GIC has been held to have been payable for an RBA deficit debt, notwithstanding that the debt was the consequence of an administrative overpayment from the ATO, in respect of which the ATO had not given a notice specifying a payment due date (Price 2010 ATC ¶20-189; [2010] QSC 196).
 
 *Refs: ITAA97 s 5-5(3)), ITAA97 s 25-5(1)*

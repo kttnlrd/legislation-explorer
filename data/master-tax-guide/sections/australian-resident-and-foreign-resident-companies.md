@@ -13,7 +13,7 @@ As in the case of individuals, it must be determined whether a company is a resi
 
   and out of Australia, whereas foreign resident companies are liable only on Australian source
 
-  income and other income that the Act speciﬁcally includes in their assessable income (ITAA97 ss
+  income and other income that the Act specifically includes in their assessable income (ITAA97 ss
 
 6-5; 6-10)
 
@@ -33,9 +33,9 @@ As in the case of individuals, it must be determined whether a company is a resi
 
   Australian branches of foreign resident companies
 
-Under general law, a branch of a company is not a separate entity from the company itself and has the same residence status. However, a special tax regime provides limited separate entity treatment to Australian branches of foreign banks and foreign ﬁnancial entities (ITAA36 Pt IIIB).
+Under general law, a branch of a company is not a separate entity from the company itself and has the same residence status. However, a special tax regime provides limited separate entity treatment to Australian branches of foreign banks and foreign financial entities (ITAA36 Pt IIIB).
 
-The tax treatment of an Australian company distribution received by the Australian branch of a non-resident company may also be diﬀerent from the treatment accorded to such a distribution paid directly to the overseas company (¶4-840).
+The tax treatment of an Australian company distribution received by the Australian branch of a non-resident company may also be different from the treatment accorded to such a distribution paid directly to the overseas company (¶4-840).
 
 *Refs: s
 6-5*

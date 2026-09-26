@@ -41,6 +41,6 @@ The amendments reduce the tax concessions by imposing a tax of 15% on certain ea
 
 Schedule 1 to the Better Targeted Superannuation Concessions Bill also makes consequential amendments to ITAA97, ITTPA, Superannuation Act 1976, Superannuation Act 1990 and the TAA.
 
-Schedules 1 to 3 to the Better Targeted Superannuation Concessions Bill and the Imposition Bill will have eﬀect from 1 July 2025 and implement the "Better Targeted Superannuation Concessions" measure from the 2023–24 Budget.
+Schedules 1 to 3 to the Better Targeted Superannuation Concessions Bill and the Imposition Bill will have effect from 1 July 2025 and implement the "Better Targeted Superannuation Concessions" measure from the 2023–24 Budget.
 
 See ¶13-650.

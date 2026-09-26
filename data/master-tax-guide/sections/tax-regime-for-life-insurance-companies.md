@@ -15,12 +15,12 @@ Life insurance companies are taxed under ITAA97 Div 320. The intent is to tax li
 
   arrangements)
 
-- underwriting proﬁt
+- underwriting profit
 
-- proﬁt on immediate annuity business.
+- profit on immediate annuity business.
 
 A life company can segregate certain assets into "complying superannuation assets" (relating to the company's complying superannuation business) and "segregated exempt assets" (relating to immediate annuity and current pension business). Income derived from complying superannuation assets is taxed at a rate of 15%; income from segregated exempt assets is non-assessable non-exempt (¶3-505).
 
-Division 320 also provides that the same CGT modiﬁcations that apply to complying superannuation funds also apply to the complying superannuation business of life insurance companies.
+Division 320 also provides that the same CGT modifications that apply to complying superannuation funds also apply to the complying superannuation business of life insurance companies.
 
-## Broadly, life companies are taxed on all their proﬁts, including:
+## Broadly, life companies are taxed on all their profits, including:

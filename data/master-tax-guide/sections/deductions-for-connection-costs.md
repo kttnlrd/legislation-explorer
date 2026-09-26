@@ -13,7 +13,7 @@ The person incurring the expenditure must have an interest in the land, eg as th
 
 Where the expenditure is incurred by a partnership, it is not taken into account in determining the partnership's net income or loss. Instead, each partner claims a proportionate deduction (or the agreed amount borne by the partner) in his/her own return.
 
-The deduction is available only where some or all of the electricity to be supplied is intended by the taxpayer or another person to be used in carrying on business for the purpose of producing assessable income, exploration or prospecting, mining site rehabilitation or environmental protection. The deduction will be withdrawn if, during the 12 months after the electricity is ﬁrst supplied, it is not used for any of those purposes.
+The deduction is available only where some or all of the electricity to be supplied is intended by the taxpayer or another person to be used in carrying on business for the purpose of producing assessable income, exploration or prospecting, mining site rehabilitation or environmental protection. The deduction will be withdrawn if, during the 12 months after the electricity is first supplied, it is not used for any of those purposes.
 
 *Refs: s 40-645*
 
@@ -29,7 +29,7 @@ The deduction is available only where some or all of the electricity to be suppl
 
 - work to modify or replace metering equipment or equipment used directly in connection with
 
-  the supply of electricity, if the modiﬁcation or replacement results from increasing the amount of
+  the supply of electricity, if the modification or replacement results from increasing the amount of
 
   electricity supplied
 

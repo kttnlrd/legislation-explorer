@@ -53,9 +53,9 @@ A lease of land (whether or not it is a Crown lease) granted to a taxpayer is tr
 
 This rule applies even if there is a period between the end of the original lease and the grant of the fresh lease, provided the taxpayer continues to occupy the original land during that period under a permission, licence or authority granted by the second agency.
 
-Roll-over where land not the same Even if the estate in fee simple or new Crown lease relates to diﬀerent land to that to which the original Crown lease related, the Crown lease roll-over still happens if: (a) the diﬀerence in area is not signiﬁcant; (b) the diﬀerence in market value is not signiﬁcant; (c) the estate in fee simple or Crown lease corrects errors in or omissions from the original Crown lease; (d) the estate in fee simple or new Crown lease relates to a signiﬁcantly diﬀerent area of land but reasonable eﬀorts were made to ensure that the area was the same; or (e) it is otherwise reasonable for the roll-over to apply (s 124-585).
+Roll-over where land not the same Even if the estate in fee simple or new Crown lease relates to different land to that to which the original Crown lease related, the Crown lease roll-over still happens if: (a) the difference in area is not significant; (b) the difference in market value is not significant; (c) the estate in fee simple or Crown lease corrects errors in or omissions from the original Crown lease; (d) the estate in fee simple or new Crown lease relates to a significantly different area of land but reasonable efforts were made to ensure that the area was the same; or (e) it is otherwise reasonable for the roll-over to apply (s 124-585).
 
-Exception where part of land excised Only a partial roll-over applies if the original Crown lease is a post-CGT asset and the land to which the estate in fee simple or new Crown lease relates is diﬀerent in area to the land the subject of the original Crown lease because a part of the land to which the original Crown lease related was relinquished by the taxpayer for consideration (s 124-590). This consideration can include property. If so, the market value of the property is used when working out the amount of the payment.
+Exception where part of land excised Only a partial roll-over applies if the original Crown lease is a post-CGT asset and the land to which the estate in fee simple or new Crown lease relates is different in area to the land the subject of the original Crown lease because a part of the land to which the original Crown lease related was relinquished by the taxpayer for consideration (s 124-590). This consideration can include property. If so, the market value of the property is used when working out the amount of the payment.
 
 There is no roll-over for the excised part. Because the excision of part of the Crown lease involves the end of an asset, a capital gain or loss may be made on the excised part from CGT event C2 happening in relation to it. For this purpose, the cost base (and reduced cost base) of the excised part is so much of the cost base (or reduced cost base) of the relevant Crown lease as is attributable to the excised part.
 
@@ -63,13 +63,13 @@ There is no roll-over for the excised part. Because the excision of part of the 
 
 separate assets Each part of a taxpayer's estate in fee simple or new Crown lease after the roll-over has been made is divided into separate assets for CGT purposes by reference to the extent to which the original Crown lease relates to pre-CGT Crown leased land, to post-CGT Crown leased land and to other land (s 124-595). For this purpose, where a separate asset relates to pre-CGT Crown leased land, the separate asset is also treated as a pre-CGT asset.
 
-Consequences of roll-over The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (s 124-600) (¶12-160). The ﬁrst element of the cost base and reduced cost base of the new Crown lease or estate in fee simple is worked out under those general rules.
+Consequences of roll-over The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (s 124-600) (¶12-160). The first element of the cost base and reduced cost base of the new Crown lease or estate in fee simple is worked out under those general rules.
 
-However, slightly diﬀerent rules apply to work out the cost base and reduced cost base of a post-CGT estate in fee simple or new Crown lease if part of the land is excised (see above) or if separate assets arise (see above).
+However, slightly different rules apply to work out the cost base and reduced cost base of a post-CGT estate in fee simple or new Crown lease if part of the land is excised (see above) or if separate assets arise (see above).
 
-If part of the land is excised, the ﬁrst element of the cost base of a post-CGT estate in fee simple or new Crown lease is reduced by the part of the cost base that is attributable to that excised part.
+If part of the land is excised, the first element of the cost base of a post-CGT estate in fee simple or new Crown lease is reduced by the part of the cost base that is attributable to that excised part.
 
-If separate assets arise, the ﬁrst element of the cost base for each separate post-CGT asset is: cost base of post-CGT                                                             market value of separate asset × original Crown lease                                                          market value of all the separate assets The ﬁrst element of the reduced cost base of each of those assets is worked out in a similar way.
+If separate assets arise, the first element of the cost base for each separate post-CGT asset is: cost base of post-CGT                                                             market value of separate asset × original Crown lease                                                          market value of all the separate assets The first element of the reduced cost base of each of those assets is worked out in a similar way.
 
 CGT roll-over for depreciating assets held by quasi-owner A compulsory replacement-asset roll-over of depreciating assets (¶17-015), happens if:
 
@@ -89,7 +89,7 @@ The depreciating assets roll-over only happens in the limited circumstances wher
 
 Consequences of roll-over The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (¶12-160).
 
-The ﬁrst element of the cost base and reduced cost base of the new asset is worked out under those general rules.
+The first element of the cost base and reduced cost base of the new asset is worked out under those general rules.
 
 Right granted to associate If the quasi-ownership right or estate in fee simple is instead granted to the taxpayer's associate or an associated government entity, there is no roll-over. In addition, the reduced cost base of the depreciating asset in the taxpayer's hands is decreased by the adjustable value of the asset (¶17-640) just before the original quasi-ownership right expired or was surrendered or terminated (s 124-660). The adjustable value was formerly described as the "undeducted cost".
 
@@ -127,9 +127,9 @@ Further conditions for roll-over In addition, for the roll-over to happen, the n
 
   Roll-over where land not the same
 
-Even if the new entitlement relates to diﬀerent land to that to which the original entitlement related, the prospecting or mining right roll-over still happens if: (a) the diﬀerence in area is not signiﬁcant; (b) the diﬀerence in market value is not signiﬁcant; (c) the new entitlement corrects errors in or omissions from the original entitlement; or (d) it is otherwise reasonable for the roll-over to apply (s 124-715).
+Even if the new entitlement relates to different land to that to which the original entitlement related, the prospecting or mining right roll-over still happens if: (a) the difference in area is not significant; (b) the difference in market value is not significant; (c) the new entitlement corrects errors in or omissions from the original entitlement; or (d) it is otherwise reasonable for the roll-over to apply (s 124-715).
 
-Exception where part of land excised Only a partial roll-over applies if the original entitlement is a post-CGT asset and the land to which the new entitlement relates is diﬀerent in area to the land the subject of the original entitlement because a part of the land to which the original entitlement related was relinquished by the taxpayer for consideration (s 124-720).
+Exception where part of land excised Only a partial roll-over applies if the original entitlement is a post-CGT asset and the land to which the new entitlement relates is different in area to the land the subject of the original entitlement because a part of the land to which the original entitlement related was relinquished by the taxpayer for consideration (s 124-720).
 
 There is no roll-over for the excised part. Because the excision of part of the entitlement involves the end of an asset, a capital gain or loss may be made on the excised part from CGT event C2 happening in relation to it. For this purpose, the cost base (and reduced cost base) of the excised part is so much of the cost base (or reduced cost base) of the relevant entitlement as is attributable to the excised part.
 
@@ -140,13 +140,13 @@ assets Each part of a prospecting or mining entitlement that exists after the ro
 
 For this purpose, where a separate asset relates to land covered by a pre-CGT original entitlement, the separate asset is also treated as a pre-CGT asset.
 
-Consequences of roll-over The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (s 124-730) (¶12-160). The ﬁrst element of the cost base and reduced cost base of the new entitlement is worked out under those general rules.
+Consequences of roll-over The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (s 124-730) (¶12-160). The first element of the cost base and reduced cost base of the new entitlement is worked out under those general rules.
 
-However, slightly diﬀerent rules apply to work out the cost base and reduced cost base of a post-CGT entitlement if part of the land is excised or if separate assets arise (see above).
+However, slightly different rules apply to work out the cost base and reduced cost base of a post-CGT entitlement if part of the land is excised or if separate assets arise (see above).
 
-If part of the land is excised, the ﬁrst element of the cost base of a post-CGT entitlement is reduced by the part of the cost base that is attributable to that excised part.
+If part of the land is excised, the first element of the cost base of a post-CGT entitlement is reduced by the part of the cost base that is attributable to that excised part.
 
-If separate assets arise, the ﬁrst element of the cost base for each separate post-CGT asset is: cost base of post-CGT                                                            market value of separate asset × original entitlement                                                        market value of all the separate assets The ﬁrst element of the reduced cost base of each of those assets is worked out in a similar way.
+If separate assets arise, the first element of the cost base for each separate post-CGT asset is: cost base of post-CGT                                                            market value of separate asset × original entitlement                                                        market value of all the separate assets The first element of the reduced cost base of each of those assets is worked out in a similar way.
 
 *Refs: s 124-725), s 124-730)*
 

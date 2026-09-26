@@ -7,19 +7,19 @@ paragraph: "¶16-960"
 ---
 # Gifts to environmental organisations ¶16-960
 
-Gifts of $2 or more (whether of money or property) made to the gift fund of an environmental organisation that is a DGR will be tax-deductible if the organisation is a DGR when the gift is made (ss 30-15; 30-55(1); 30-60) or it is one of the speciﬁed organisations listed in s 30-55(2) (note that it is proposed to remove the $2 minimum requirement: ¶16-942). Prior to 1 January 2024, environmental organisations and their public funds had to be registered on the Register of Environmental Organisations, which was administered by the Department of Climate Change, Energy, the Environment and Water to have their public fund endorsed as a DGR. From 1 January 2024, the ATO administers the DGR category for environmental organisations and assesses eligibility for endorsement (ATO website). Transitional provisions ensure that organisations included on the Register of Environmental Organisations continue to be endorsed if they continue to meet the eligibility criteria.
+Gifts of $2 or more (whether of money or property) made to the gift fund of an environmental organisation that is a DGR will be tax-deductible if the organisation is a DGR when the gift is made (ss 30-15; 30-55(1); 30-60) or it is one of the specified organisations listed in s 30-55(2) (note that it is proposed to remove the $2 minimum requirement: ¶16-942). Prior to 1 January 2024, environmental organisations and their public funds had to be registered on the Register of Environmental Organisations, which was administered by the Department of Climate Change, Energy, the Environment and Water to have their public fund endorsed as a DGR. From 1 January 2024, the ATO administers the DGR category for environmental organisations and assesses eligibility for endorsement (ATO website). Transitional provisions ensure that organisations included on the Register of Environmental Organisations continue to be endorsed if they continue to meet the eligibility criteria.
 
-The criteria to be satisﬁed for an organisation to be entered on the DGR category for Environmental
+The criteria to be satisfied for an organisation to be entered on the DGR category for Environmental
 
 *Refs: s 30-15, s 30-55(2)*
 
 - the organisation's principal purpose must be the protection and enhancement of the environment
 
-(whether in Australia or elsewhere) or a signiﬁcant aspect of the environment, or the provision of information or education, or the carrying on of research about, the environment or a signiﬁcant aspect of the environment ("environment" for these purposes refers to the natural environment and includes all aspects of the natural surroundings of humans). The organisation must use gifts made to its gift fund for its principal purpose
+(whether in Australia or elsewhere) or a significant aspect of the environment, or the provision of information or education, or the carrying on of research about, the environment or a significant aspect of the environment ("environment" for these purposes refers to the natural environment and includes all aspects of the natural surroundings of humans). The organisation must use gifts made to its gift fund for its principal purpose
 
 - the organisation must be an institution that is registered with the ACNC as a charity or be an
 
-- the organisation must not give any of its proﬁts, ﬁnancial surplus or property to its members,
+- the organisation must not give any of its profits, financial surplus or property to its members,
 
   shareholders, controllers, etc
 

@@ -7,7 +7,7 @@ paragraph: "¶10-410"
 ---
 # (disposal of leased car) ¶10-410
 
-One of the ceilings imposed on the proﬁt that is assessable under ITAA97 Subdiv 20-B is the amount of notional depreciation attributed to the lessee for the lease period (¶10-400). This is a notional calculation; no depreciation would in fact have been allowed because the lessee was not the owner of the car.
+One of the ceilings imposed on the profit that is assessable under ITAA97 Subdiv 20-B is the amount of notional depreciation attributed to the lessee for the lease period (¶10-400). This is a notional calculation; no depreciation would in fact have been allowed because the lessee was not the owner of the car.
 
 The amount of notional depreciation is calculated by comparing the car's cost to the lessor for depreciation purposes as worked out under Div 40 (¶17-080) with the car's termination value (¶17-640), in accordance with the following formula (ITAA97 s 20-120): notional                                                                               number of days in lease period =                    (cost − termination value)                         × depreciation                                                                             number of days lessor owned car Where the termination value equals or exceeds the cost, the notional depreciation is zero.
 

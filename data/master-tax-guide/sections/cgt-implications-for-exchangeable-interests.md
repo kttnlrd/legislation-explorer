@@ -15,9 +15,9 @@ Capital gain or loss disregarded Any capital gain or loss arising from the dispo
 
 Special acquisition rules A taxpayer is taken to have acquired the shares when the disposal or redemption of the exchangeable interest happened.
 
-Cost base modifications The general rules for working out the cost base and reduced cost base of the share are modiﬁed (s 130-105(1)).
+Cost base modifications The general rules for working out the cost base and reduced cost base of the share are modified (s 130-105(1)).
 
-When an exchangeable interest is disposed of or redeemed, the ﬁrst element of the taxpayer's cost base and reduced cost base of the share is the sum of:
+When an exchangeable interest is disposed of or redeemed, the first element of the taxpayer's cost base and reduced cost base of the share is the sum of:
 
 - the cost base of the exchangeable interest at the time of the disposal or redemption
 

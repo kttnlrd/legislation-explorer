@@ -7,7 +7,7 @@ paragraph: "¶10-197"
 ---
 # Other exempt government payments ¶10-197
 
-In addition to the social security and veterans aﬀairs payments listed at ¶10-195 and ¶10-200, the federal government also makes a range of other types of payments that are exempt from tax (albeit special conditions may apply). These include the following:
+In addition to the social security and veterans affairs payments listed at ¶10-195 and ¶10-200, the federal government also makes a range of other types of payments that are exempt from tax (albeit special conditions may apply). These include the following:
 
 - acute support packages (ITAA97 s 52-185)
 
@@ -25,7 +25,7 @@ In addition to the social security and veterans aﬀairs payments listed at ¶10
 
 - family assistance payments (including child care subsidy, additional child care subsidy, family tax
 
-  beneﬁt, stillborn baby payment, economic security strategy payment, back to school bonus, single
+  benefit, stillborn baby payment, economic security strategy payment, back to school bonus, single
 
   income family bonus, clean energy advance, single income family supplement, ETR payment and
 

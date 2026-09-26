@@ -31,4 +31,4 @@ Law Companion Rulings (LCRs), as explained in LCR 2015/1, express the Commission
 
 LCRs will usually operate from the application date of the new law and will be a public ruling.
 
-LCRs were originally released as Law Companion Guidelines (LCGs) but the naming was formally changed on 19 February 2018 to properly reﬂect their status as public rulings. The change did not eﬀect any substantive changes to the way these rulings operate in practice.
+LCRs were originally released as Law Companion Guidelines (LCGs) but the naming was formally changed on 19 February 2018 to properly reflect their status as public rulings. The change did not effect any substantive changes to the way these rulings operate in practice.

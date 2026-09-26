@@ -7,11 +7,11 @@ paragraph: "¶39-015"
 ---
 # Scope of SGAA application ¶39-015
 
-The SGAA extends to every external territory referred to in the deﬁnition of Australia (SGAA s 4). When used in a geographical sense, Australia is deﬁned as having the same meaning as in ITAA97 (SGAA s 6(1); ITAA97 ss 960-505; 995-1(1)).
+The SGAA extends to every external territory referred to in the definition of Australia (SGAA s 4). When used in a geographical sense, Australia is defined as having the same meaning as in ITAA97 (SGAA s 6(1); ITAA97 ss 960-505; 995-1(1)).
 
-Under its income tax deﬁnition, Australia includes Norfolk Island, the Coral Sea Islands Territory, the Territory of Ashmore and Cartier Islands, the Territory of Christmas Island, the Territory of Cocos (Keeling) Islands, and the Territory of Heard Island and the McDonald Islands. It extends to oﬀshore areas and expressly includes an oﬀshore area for the purpose of the Oﬀshore Petroleum and Greenhouse Gas Storage Act 2006 and to the Joint Petroleum Development Area (within the meaning of the Petroleum (Timor Sea Treaty) Act 2003).
+Under its income tax definition, Australia includes Norfolk Island, the Coral Sea Islands Territory, the Territory of Ashmore and Cartier Islands, the Territory of Christmas Island, the Territory of Cocos (Keeling) Islands, and the Territory of Heard Island and the McDonald Islands. It extends to offshore areas and expressly includes an offshore area for the purpose of the Offshore Petroleum and Greenhouse Gas Storage Act 2006 and to the Joint Petroleum Development Area (within the meaning of the Petroleum (Timor Sea Treaty) Act 2003).
 
-The income tax deﬁnition clariﬁes the SG entitlements of employees and SG obligations of employers in Australia, subject to speciﬁc persons being expressly excluded by the general exemptions in SGAA s 27 (¶39-030).
+The income tax definition clarifies the SG entitlements of employees and SG obligations of employers in Australia, subject to specific persons being expressly excluded by the general exemptions in SGAA s 27 (¶39-030).
 
 The meaning of "employer" and "employee" in the SGAA is discussed in ¶39-020 and following.
 

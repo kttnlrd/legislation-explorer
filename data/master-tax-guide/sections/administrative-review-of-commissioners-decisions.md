@@ -7,9 +7,9 @@ paragraph: "¶28-180"
 ---
 # Administrative review of Commissioner's decisions ¶28-180
 
-Certain decisions of the Commissioner may be reviewed by the Federal Court under the Administrative Decisions (Judicial Review) Act 1977 (ADJR Act), the Judiciary Act 1903, s 39B or, it appears, under general administrative law principles. For example, generally, the exercise of Commissioner's discretion is not subject to review under Pt IVC (AAT 2011 ATC ¶20-248; [2011] FCAFC 37). Nevertheless, the Commissioner has a legal duty to act fairly when exercising an administrative discretion (Pickering 97 ATC 4893; [1997] FCA 890). It may therefore be arguable that, where the Commissioner exercises his discretion favourably in respect of one taxpayer, the Commissioner must exercise his discretion in the same way in respect of another taxpayer who is in a like situation. In practice, a taxpayer's ability to rely on this principle will, outside of family situations, depend largely on the extent to which the taxpayer can obtain information from the Commissioner (eg under the Freedom of Information Act 1982: ¶28-060) regarding the manner in which he has exercised his discretion in relation to other taxpayers. However, the Commissioner is not required to exercise diﬀerent discretions to bring about the same result for taxpayers in similar positions (Pickering 98 ATC 4977; [1998] FCA 1246).
+Certain decisions of the Commissioner may be reviewed by the Federal Court under the Administrative Decisions (Judicial Review) Act 1977 (ADJR Act), the Judiciary Act 1903, s 39B or, it appears, under general administrative law principles. For example, generally, the exercise of Commissioner's discretion is not subject to review under Pt IVC (AAT 2011 ATC ¶20-248; [2011] FCAFC 37). Nevertheless, the Commissioner has a legal duty to act fairly when exercising an administrative discretion (Pickering 97 ATC 4893; [1997] FCA 890). It may therefore be arguable that, where the Commissioner exercises his discretion favourably in respect of one taxpayer, the Commissioner must exercise his discretion in the same way in respect of another taxpayer who is in a like situation. In practice, a taxpayer's ability to rely on this principle will, outside of family situations, depend largely on the extent to which the taxpayer can obtain information from the Commissioner (eg under the Freedom of Information Act 1982: ¶28-060) regarding the manner in which he has exercised his discretion in relation to other taxpayers. However, the Commissioner is not required to exercise different discretions to bring about the same result for taxpayers in similar positions (Pickering 98 ATC 4977; [1998] FCA 1246).
 
-Some decisions may be either challenged under TAA Pt IVC or reviewed under the ADJR Act (eg the refusal to issue a certiﬁcate that a ﬁlm is a qualifying Australian ﬁlm for tax purposes). If a decision is reviewable by another tribunal, the court may refuse to exercise its review powers under the ADJR Act (eg Szajntop 93 ATC 4307; [1993] FCA 231).
+Some decisions may be either challenged under TAA Pt IVC or reviewed under the ADJR Act (eg the refusal to issue a certificate that a film is a qualifying Australian film for tax purposes). If a decision is reviewable by another tribunal, the court may refuse to exercise its review powers under the ADJR Act (eg Szajntop 93 ATC 4307; [1993] FCA 231).
 
 Reviewable decisions Decisions of the Commissioner which have been subject to judicial review include:
 
@@ -19,9 +19,9 @@ Reviewable decisions Decisions of the Commissioner which have been subject to ju
 
 - refusal to vary an amount of PAYE instalment deductions (Coco 93 ATC 4330; [1993] FCA 205)
 
-- refusal to issue a certiﬁcate that a ﬁlm is a qualifying Australian ﬁlm for the purposes of the special
+- refusal to issue a certificate that a film is a qualifying Australian film for the purposes of the special
 
-  concessions for ﬁlm investors (Willarra v Minister for Home Aﬀairs and Environment 84 ATC 4947;
+  concessions for film investors (Willarra v Minister for Home Affairs and Environment 84 ATC 4947;
 
 [1984] FCA 379)
 
@@ -61,7 +61,7 @@ The following decisions of the Commissioner should also be reviewable under the 
 
 - a decision to impose GIC under the PAYG anti-avoidance rules (¶27-600).
 
-The grounds on which judicial review may be sought include: (i) breach of natural justice; (ii) failure to follow proper procedures for making a decision; (iii) lack of jurisdiction to make a decision; (iv) improper exercise of power; (v) decision not justiﬁed on the evidence; (vi) decision involving an error of law or fraud; and (vii) unreasonable delay in making a decision.
+The grounds on which judicial review may be sought include: (i) breach of natural justice; (ii) failure to follow proper procedures for making a decision; (iii) lack of jurisdiction to make a decision; (iv) improper exercise of power; (v) decision not justified on the evidence; (vi) decision involving an error of law or fraud; and (vii) unreasonable delay in making a decision.
 
 In relation to certain types of tax decisions which may be subject to judicial review, the taxpayer is entitled to obtain a written statement of the reasons for the decision.
 
@@ -119,6 +119,6 @@ Decisions that are not reviewable can only be challenged (if at all) under the o
 
 Unless there are exceptional circumstances, the Federal Court will decline to review an alleged abuse of process in instituting a prosecution in a Local Court, because the Local Court has its own power to grant a permanent stay if an abuse of process is established (Smiles 92 ATC 4475; [1992] FCA 441, Bryant's case (No 2) 93 ATC 4833).
 
-## The following are speciﬁcally not reviewable under the ADJR Act:
+## The following are specifically not reviewable under the ADJR Act:
 
 ## Other decisions found by the courts to be not reviewable include:

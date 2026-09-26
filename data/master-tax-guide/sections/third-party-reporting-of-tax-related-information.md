@@ -9,29 +9,29 @@ paragraph: "¶33-220"
 
 A third party reporting regime requires certain entities to report information to the ATO about transactions that could have tax consequences for other entities.
 
-(i) government-related entities, other than local governing bodies, who are required to report on government grants (ii) government-related entities, who are required to report on ﬁnancial beneﬁts for services (iii) states and territories who are required to report on real property transfers (iv) ASIC, market participants, listed companies and trustees with an absolutely entitled beneﬁciary, who are required to report on security transactions (v) trustees of unit trusts, who are required to report on transactions relating to units in unit trusts (vi) administrators of payment systems — on electronic business transactions, and (vii) eligible community housing providers.
+(i) government-related entities, other than local governing bodies, who are required to report on government grants (ii) government-related entities, who are required to report on financial benefits for services (iii) states and territories who are required to report on real property transfers (iv) ASIC, market participants, listed companies and trustees with an absolutely entitled beneficiary, who are required to report on security transactions (v) trustees of unit trusts, who are required to report on transactions relating to units in unit trusts (vi) administrators of payment systems — on electronic business transactions, and (vii) eligible community housing providers.
 
-The entity must prepare a report in the approved form setting out information it has about any relevant transactions that happened during the ﬁnancial year (or other speciﬁed period) and give the report to the Commissioner within 31 days after the end of the ﬁnancial year (or other reporting period). For government- related entities ((i) and (ii) above), the report is the "taxable payments annual report" and the ATO has extended the date of lodgment to 28 August (ATO website: When a government entity must lodge a TPAR).
+The entity must prepare a report in the approved form setting out information it has about any relevant transactions that happened during the financial year (or other specified period) and give the report to the Commissioner within 31 days after the end of the financial year (or other reporting period). For government- related entities ((i) and (ii) above), the report is the "taxable payments annual report" and the ATO has extended the date of lodgment to 28 August (ATO website: When a government entity must lodge a TPAR).
 
-The reporting period for states and territories ((iii) above) has been varied to 3-month periods ending 30 September, 31 December, 31 March and 30 June (Legislative Instrument F2016L00541). Eligible community housing providers have until 31 July, immediately following the relevant income year, to notify the Commissioner of aﬀordable housing certiﬁcates issued during the prior ﬁnancial year, ie 31 July 2025 for certiﬁcates issued during the 2023–24 ﬁnancial year (ATO website: Community housing providers: reporting for aﬀordable housing).
+The reporting period for states and territories ((iii) above) has been varied to 3-month periods ending 30 September, 31 December, 31 March and 30 June (Legislative Instrument F2016L00541). Eligible community housing providers have until 31 July, immediately following the relevant income year, to notify the Commissioner of affordable housing certificates issued during the prior financial year, ie 31 July 2025 for certificates issued during the 2023–24 financial year (ATO website: Community housing providers: reporting for affordable housing).
 
-The information about the transaction must relate to the identiﬁcation, collection or recovery of a possible tax-related liability of the other entities involved in the transaction and may relate to the identiﬁcation of those other entities. Any possible tax exemption is disregarded as reporting entities may not know whether the entity they are reporting on is exempt from a taxation law.
+The information about the transaction must relate to the identification, collection or recovery of a possible tax-related liability of the other entities involved in the transaction and may relate to the identification of those other entities. Any possible tax exemption is disregarded as reporting entities may not know whether the entity they are reporting on is exempt from a taxation law.
 
 An administrative penalty may apply under TAA sch 1 s 284-75 to any false or misleading statements made in reporting.
 
 Exemptions from tax-related third party reporting Certain classes of electronic payment system transactions and other transactions have been exempted from the third party reporting regime:
 
-- companies listed on an Australian ﬁnancial market, trustees of a unit trust and trustees of other
+- companies listed on an Australian financial market, trustees of a unit trust and trustees of other
 
   trusts holding shares or units are not required to report in relation to transactions that relate to
 
-  shares listed on Australian ﬁnancial markets or transactions on that Australian ﬁnancial market
+  shares listed on Australian financial markets or transactions on that Australian financial market
 
   where data is not required to be delivered to the Australian Securities and Investments Commission
 
   under the market integrity rules (Legislative Instrument F2022L01194). The exemption also
 
-  applies to erroneous transactions and subsequent correction transactions as well as oﬀ-market
+  applies to erroneous transactions and subsequent correction transactions as well as off-market
 
   transactions relating to shares listed on foreign exchanges
 
@@ -87,7 +87,7 @@ Framework Participants (Legislative Instrument F2022L01557)
 
   ground; provision of consideration for the lease of goods; provision of consideration for the creation,
 
-  grant, transfer, assignment or use under licence of a right; provision of consideration for a ﬁnancial
+  grant, transfer, assignment or use under licence of a right; provision of consideration for a financial
 
   supply; provision of consideration for membership of a professional association or body; provision
 
@@ -101,7 +101,7 @@ Framework Participants (Legislative Instrument F2022L01557)
 
   group and the same GST group (Legislative Instrument F2022L01557), and
 
-- loan repayments, chattel mortgage repayments, hire purchase payments and ﬁnance lease
+- loan repayments, chattel mortgage repayments, hire purchase payments and finance lease
 
   payments (Legislative Instrument F2022L01557).
 
@@ -135,7 +135,7 @@ Further, the following government related entities are not required to give repo
 
 - water catchment authorities, catchment councils or natural resource management boards
 
-- trustees of trusts, or managers of funds, established for the public beneﬁt or in the public interest
+- trustees of trusts, or managers of funds, established for the public benefit or in the public interest
 
 - superannuation funds
 
@@ -153,7 +153,7 @@ Further, the following government related entities are not required to give repo
 
 - community-based volunteer emergency services including Country Fire Associations, volunteer
 
-  ﬁre brigades and State Emergency Services
+  fire brigades and State Emergency Services
 
 - entities with the primary purpose of promoting the arts
 
@@ -163,15 +163,15 @@ Further, the following government related entities are not required to give repo
 
 - seaports or airports
 
-- prisons, detention centres, remand centres or corrections oﬃces, and
+- prisons, detention centres, remand centres or corrections offices, and
 
-- embassies or consular oﬃces.
+- embassies or consular offices.
 
 For details of prior year exemptions, see previous editions of the Australian Master Tax Guide.
 
-institutions Subdivision 396-A gives eﬀect to the FATCA Agreement between Australia and the US under which Australian ﬁnancial institutions must give the Commissioner certain information about US reportable accounts (¶22-075).
+institutions Subdivision 396-A gives effect to the FATCA Agreement between Australia and the US under which Australian financial institutions must give the Commissioner certain information about US reportable accounts (¶22-075).
 
-Subdivision 396-C imposes obligations on Australian ﬁnancial institutions to report certain information about accounts of foreign residents under the OECD Common Reporting Standard (CRS: ¶23-500).
+Subdivision 396-C imposes obligations on Australian financial institutions to report certain information about accounts of foreign residents under the OECD Common Reporting Standard (CRS: ¶23-500).
 
 ## Subdivision 396-B of TAA sch 1 applies to:
 

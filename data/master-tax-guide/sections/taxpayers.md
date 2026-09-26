@@ -21,6 +21,6 @@ De minimis exemption The attributable income of a trust estate that is resident 
 
   Attributable income not assessable when distributed
 
-Attributable income of a trust estate that has been included in the assessable income of a transferor (other than a company) will be exempt from tax in the hands of a beneﬁciary to whom that income is subsequently distributed. Where the attributable income of a trust estate was included in the assessable income of a company transferor, subsequent distributions of that income to that company will be exempt from company tax.
+Attributable income of a trust estate that has been included in the assessable income of a transferor (other than a company) will be exempt from tax in the hands of a beneficiary to whom that income is subsequently distributed. Where the attributable income of a trust estate was included in the assessable income of a company transferor, subsequent distributions of that income to that company will be exempt from company tax.
 
 Temporary residents Individuals who qualify as "temporary residents" are not treated as residents for these purposes (¶22-125).

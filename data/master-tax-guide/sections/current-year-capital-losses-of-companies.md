@@ -7,7 +7,7 @@ paragraph: "¶11-090"
 ---
 # Current year capital losses of companies ¶11-090
 
-Special rules stop capital gains made by a company in one part of an income year when it was owned by one set of shareholders from being oﬀset by capital losses made by the company during another part of the income year when it was owned by a diﬀerent set of shareholders (¶3-065).
+Special rules stop capital gains made by a company in one part of an income year when it was owned by one set of shareholders from being offset by capital losses made by the company during another part of the income year when it was owned by a different set of shareholders (¶3-065).
 
 Where, in respect of an income year, a company fails both the continuity of ownership test (¶3-105) and the business continuity test (¶3-120), comprising of the same business test (¶3-123) or the alternative similar business test (¶3-125), it is required to work out its net capital gain or loss for that year under Subdiv 165-CB rather than under the usual rules.
 
@@ -17,4 +17,4 @@ In a case where there is no notional net capital loss for any of the periods, th
 
 In other cases, the company is taken to have made a net capital gain equal to the sum of the company's notional net capital gains for each period reduced by any prior year net capital losses that can be applied (¶11-080), and to have incurred a net capital loss equal to the sum of the company's notional net capital losses for each period.
 
-A net capital loss which is not able to be oﬀset in the current income year may be able to be oﬀset against capital gains in future years if it satisﬁes the tests for being carried forward (¶11-080).
+A net capital loss which is not able to be offset in the current income year may be able to be offset against capital gains in future years if it satisfies the tests for being carried forward (¶11-080).

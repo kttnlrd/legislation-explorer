@@ -11,7 +11,7 @@ A foreign resident's liability for CGT is based on whether the relevant asset is
 
 (1) taxable Australian real property (2) an indirect interest in Australian real property (3) a business asset of a permanent establishment in Australia (4) an option or right to acquire any of the CGT assets in items 1 to 3, or (5) a CGT asset that is deemed to be Australian taxable property where a taxpayer, on ceasing to be an Australian resident, makes an election under s 104-165 (¶11-330).
 
-The types of assets that foreign residents are subject to CGT are proposed to be clariﬁed and broadened to include assets with a close economic connection to Australian land and/or natural resources. This is proposed to include:
+The types of assets that foreign residents are subject to CGT are proposed to be clarified and broadened to include assets with a close economic connection to Australian land and/or natural resources. This is proposed to include:
 
 - leases or licences to use land in Australia
 
@@ -27,7 +27,7 @@ The types of assets that foreign residents are subject to CGT are proposed to be
 
   consultation paper, Strengthening the foreign resident capital gains tax regime).
 
-A non-ﬁnal withholding tax applies on the sale of taxable Australian property to increase the recovery of CGT from foreign residents (¶26-269).
+A non-final withholding tax applies on the sale of taxable Australian property to increase the recovery of CGT from foreign residents (¶26-269).
 
 Taxable Australian real property Taxable Australian real property not only includes real property situated in Australia, it also extends to a lease of Australian land and mining, quarrying or prospecting rights where the materials are situated in Australia (s 855-20; TD 2009/18). Resource Capital Fund IV LP 2019 ATC ¶20-691; [2019] FCAFC 51 provides detailed analysis of the meaning of "mining, quarrying or prospecting rights". In that decision the Full Court considered that the term "real property" included "rights to exploit or to explore for natural resources", hence the relevant shares and interests sold by the taxpayers were a mining, quarrying or prospecting right and constituted taxable Australian real property. However, mining information obtained through exploration expenditure is not taxable Australian real property (ID 2012/13).
 
@@ -55,7 +55,7 @@ Principal asset test A membership interest must also pass the principal asset te
 
 A membership interest held by a foreign resident (the holding entity) in another entity (the test entity) passes the principal asset test if more than 50% of the value of the test entity's assets is attributable to Australian real property (s 855-30). For these purposes an "asset" of an entity is anything recognised in commerce and business as having economic value to the entity at the time of the relevant CGT event for which a purchaser of the entity's membership interests would be willing to pay (ID 2012/14). The principal asset test is applied on an associate inclusive basis for foreign tax residents with indirect interests in Australian real property (s 855-30(4A)).
 
-The principal asset test was considered in detail in Resource Capital Fund IV LP 2018 ATC ¶20-647; [2018] FCA 41 (overturned on appeal), where it was held that the preferred method for valuation of ore before its further processing was a netback method, rather than the market approach. On appeal, the Full Court did not speciﬁcally consider the principal asset test. However, it is unlikely that the lower court's ﬁndings on such remain valid given that the Full Court, after concluding that the relevant assets were taxable Australian real property, appeared to reject the expert evidence of the taxpayer in favour of that of the Commissioner as to valuation.
+The principal asset test was considered in detail in Resource Capital Fund IV LP 2018 ATC ¶20-647; [2018] FCA 41 (overturned on appeal), where it was held that the preferred method for valuation of ore before its further processing was a netback method, rather than the market approach. On appeal, the Full Court did not specifically consider the principal asset test. However, it is unlikely that the lower court's findings on such remain valid given that the Full Court, after concluding that the relevant assets were taxable Australian real property, appeared to reject the expert evidence of the taxpayer in favour of that of the Commissioner as to valuation.
 
 Where the assets of 2 or more entities are included in the principal asset test, the test is amended to disregard the market value of non-taxable Australian real property assets arising from transactions between those 2 or more entities created before the CGT event (s 855-32). This is to ensure that non-taxable Australian real property assets cannot be counted multiple times to dilute the true asset value of the group.
 
@@ -63,15 +63,15 @@ TA 2008/19 and TA 2008/20 warn against foreign residents entering into certain a
 
 This point-in-time test is proposed to be changed for CGT events occurring on or after 1 July 2025 to be based on a 365-day testing period (2024–25 Budget Paper No 2, p 17; Treasury consultation paper, Strengthening the foreign resident capital gains tax regime).
 
-Permanent establishment in Australia Taxable Australian property also includes assets that a foreign resident has used at any time in carrying on a business through a permanent establishment in Australia as deﬁned under the relevant tax treaty, or if no treaty exists, the deﬁnition in ITAA36 s 6(1) (s 855-15).
+Permanent establishment in Australia Taxable Australian property also includes assets that a foreign resident has used at any time in carrying on a business through a permanent establishment in Australia as defined under the relevant tax treaty, or if no treaty exists, the definition in ITAA36 s 6(1) (s 855-15).
 
 A capital gain or loss made from an asset that was used in carrying on a business through a permanent establishment in Australia is proportionately reduced if it was used in this way for only part of the period from when the taxpayer acquired it to when the CGT event happened (s 855-35).
 
-Example A foreign resident acquired an asset on 1 January 2022 for $21,000. On 1 October 2022, it was ﬁrst used by the taxpayer in carrying on a business at the taxpayer's permanent establishment in Australia. The taxpayer sold the asset on 10 January 2024 for $10,000. The period of qualifying use is 467 days (ie 1 October 2022 to 10 January 2024). The ownership period is 740 days (ie 1 January 2022 to 10 January 2024). The capital loss is therefore $11,000 × 467/740 = $6,942.
+Example A foreign resident acquired an asset on 1 January 2022 for $21,000. On 1 October 2022, it was first used by the taxpayer in carrying on a business at the taxpayer's permanent establishment in Australia. The taxpayer sold the asset on 10 January 2024 for $10,000. The period of qualifying use is 467 days (ie 1 October 2022 to 10 January 2024). The ownership period is 740 days (ie 1 January 2022 to 10 January 2024). The capital loss is therefore $11,000 × 467/740 = $6,942.
 
-CGT exemption for foreign resident interests in ﬁxed trusts A CGT exemption is available under s 855-40 where a foreign resident makes a capital gain or loss on an interest in a ﬁxed trust (including a managed fund) and that interest is not taxable Australian property (¶12-725).
+CGT exemption for foreign resident interests in fixed trusts A CGT exemption is available under s 855-40 where a foreign resident makes a capital gain or loss on an interest in a fixed trust (including a managed fund) and that interest is not taxable Australian property (¶12-725).
 
-The object of the rule is to provide comparable tax treatment between indirect ownership of interests in ﬁxed trusts and direct ownership of such interests.
+The object of the rule is to provide comparable tax treatment between indirect ownership of interests in fixed trusts and direct ownership of such interests.
 
 *Refs: s 855-30), s
 855-30(4, s 855-32), s 855-15), s 855-35), s 855-40*
@@ -80,25 +80,25 @@ The object of the rule is to provide comparable tax treatment between indirect o
 
   that is:
 
-(i) the ﬁxed trust, or (ii) another ﬁxed trust in which that trust has an interest (directly, or indirectly through a chain of ﬁxed trusts), and
+(i) the fixed trust, or (ii) another fixed trust in which that trust has an interest (directly, or indirectly through a chain of fixed trusts), and
 
 - either:
 
 (i) the asset is not taxable Australian property for the CGT event trust at the time of the
 
-(ii) the asset is an interest in a ﬁxed trust which is taxable Australian property ("ﬁrst trust") and either of the following are satisﬁed: (A) at least 90% (by market value) of the underlying assets of the trust must not be taxable Australian property, or (B) at least 90% (by market value) of the assets held by other ﬁxed trusts in which the ﬁrst trust has an interest (directly or indirectly through a chain of ﬁxed trusts) must not be taxable Australian property.
+(ii) the asset is an interest in a fixed trust which is taxable Australian property ("first trust") and either of the following are satisfied: (A) at least 90% (by market value) of the underlying assets of the trust must not be taxable Australian property, or (B) at least 90% (by market value) of the assets held by other fixed trusts in which the first trust has an interest (directly or indirectly through a chain of fixed trusts) must not be taxable Australian property.
 
-This exemption does not apply to the capital gain of a foreign resident beneﬁciary from a non-ﬁxed resident trust, even if the gain is made in relation to non-taxable Australian property of the trust (TD 2022/13; Peter Greensill Family Co Pty Ltd (as trustee); Nicholas Martin & Anor 2021 ATC ¶20-794; [2021] FCAFC 99).
+This exemption does not apply to the capital gain of a foreign resident beneficiary from a non-fixed resident trust, even if the gain is made in relation to non-taxable Australian property of the trust (TD 2022/13; Peter Greensill Family Co Pty Ltd (as trustee); Nicholas Martin & Anor 2021 ATC ¶20-794; [2021] FCAFC 99).
 
 CGT event I2 which arises when a trust stops being an Australian resident trust (¶11-330) will constitute a CGT event happening to a CGT asset of a trust for these purposes (ID 2010/102).
 
-A trustee will not be liable to tax on an amount that is disregarded for a beneﬁciary.
+A trustee will not be liable to tax on an amount that is disregarded for a beneficiary.
 
-A distribution of foreign source income by the trustee of a trust to a foreign resident beneﬁciary will not trigger CGT event E4 (¶11-290).
+A distribution of foreign source income by the trustee of a trust to a foreign resident beneficiary will not trigger CGT event E4 (¶11-290).
 
 ## The following assets are taxable Australian property (s 855-15):
 
-## The test is satisﬁed if the interest passes the test either:
+## The test is satisfied if the interest passes the test either:
 
 ## The exemption applies where:
 

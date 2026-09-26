@@ -7,13 +7,13 @@ paragraph: "¶35-430"
 ---
 # Remote area accommodation ¶35-430
 
-A remote area housing beneﬁt is an exempt beneﬁt (s 58ZC). A "housing beneﬁt" arises where an employee is granted a right to occupy, as a usual place of residence, a unit of accommodation provided by an employer (s 25).
+A remote area housing benefit is an exempt benefit (s 58ZC). A "housing benefit" arises where an employee is granted a right to occupy, as a usual place of residence, a unit of accommodation provided by an employer (s 25).
 
-Four conditions must be satisﬁed for the remote area housing exemption to apply.
+Four conditions must be satisfied for the remote area housing exemption to apply.
 
 - The accommodation must be located in a remote area, ie not in, or adjacent to, an "eligible urban
 
-  area". An eligible urban area is generally deﬁned (s 140(1)) as a town or city with a 1981 census
+  area". An eligible urban area is generally defined (s 140(1)) as a town or city with a 1981 census
 
   population of at least 14,000 (or 28,000 if in Zone A or Zone B for income tax purposes). A location
 
@@ -21,13 +21,13 @@ Four conditions must be satisﬁed for the remote area housing exemption to appl
 
   route from the centre point of an eligible urban area with a 1981 census population of less than
 
-130,000, or is less than 100 km from an eligible urban area with a census population of 130,000 or more. A list of relevant towns is available on the ATO website at Fringe beneﬁts tax – remote areas.
+130,000, or is less than 100 km from an eligible urban area with a census population of 130,000 or more. A list of relevant towns is available on the ATO website at Fringe benefits tax – remote areas.
 
-Accommodation located at least 100 km from a town with a census population of 130,000 or more is treated as being in a remote area if the employer is the police service, a charitable institution, a hospital carried on by a non-proﬁt society or association, a public hospital, or a public ambulance service.
+Accommodation located at least 100 km from a town with a census population of 130,000 or more is treated as being in a remote area if the employer is the police service, a charitable institution, a hospital carried on by a non-profit society or association, a public hospital, or a public ambulance service.
 
 Where the shortest practicable route involves travel solely over water, the total kilometres of the surface route that are by water are doubled for the purposes of determining whether the location is remote. Where the shortest practicable route involves travel over both land and water, the total number of kilometres by water are doubled and added to the total number of kilometres by land.
 
-- The recipient of the beneﬁt must be employed by the employer for the whole tenancy period and
+- The recipient of the benefit must be employed by the employer for the whole tenancy period and
 
   the employee's usual place of employment must not have been at a location in or adjacent to an
 
@@ -37,7 +37,7 @@ Where the shortest practicable route involves travel solely over water, the tota
 
   for any of these reasons:
 
-– the employees are likely to move frequently from one residential location to another because of the nature of the employer's business – there is not suﬃcient suitable accommodation otherwise available in the employment area, or – it is customary in the employer's industry to provide free or subsidised housing to employees.
+– the employees are likely to move frequently from one residential location to another because of the nature of the employer's business – there is not sufficient suitable accommodation otherwise available in the employment area, or – it is customary in the employer's industry to provide free or subsidised housing to employees.
 
 - The arrangement must be an arm's length arrangement and not entered into for the purpose
 

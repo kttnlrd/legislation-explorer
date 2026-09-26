@@ -7,17 +7,17 @@ paragraph: "¶4-950"
 ---
 # Tainted share capital accounts ¶4-950
 
-The share capital tainting rules are designed to prevent a company transferring proﬁts to its share capital account and then distributing those proﬁts in the guise of a non-assessable capital distribution.
+The share capital tainting rules are designed to prevent a company transferring profits to its share capital account and then distributing those profits in the guise of a non-assessable capital distribution.
 
 Summary of the share capital tainting rules
 
 - the tainting rules apply if an Australian resident company transfers an amount to its share capital
 
-  account from another account, unless the amount transferred is share capital or another speciﬁed
+  account from another account, unless the amount transferred is share capital or another specified
 
   exception applies
 
-- the ﬁrst such transfer to an untainted share capital account taints the account. Subsequent
+- the first such transfer to an untainted share capital account taints the account. Subsequent
 
   transfers will increase the amount by which it is tainted
 
@@ -27,7 +27,7 @@ Summary of the share capital tainting rules
 
 - a distribution from a tainted share capital account is treated as an unfrankable distribution of
 
-  proﬁts (ITAA97 s 202-45(e))
+  profits (ITAA97 s 202-45(e))
 
 - a company can make an irrevocable choice to untaint its share capital account. This may cause
 
@@ -37,15 +37,15 @@ Further details are provided below. Note that consequential amendments were made
 
 What is a company's share capital account?
 
-For the purposes of ITAA97 Div 197, a share capital account is any account that the company keeps of its share capital, or any other account that was created after 30 June 1998 to which the ﬁrst amount credited was an amount of share capital (ITAA97 s 975-300). If a company has more than one account fulﬁlling this deﬁnition, they are taken to be a single account for the purposes of the Act.
+For the purposes of ITAA97 Div 197, a share capital account is any account that the company keeps of its share capital, or any other account that was created after 30 June 1998 to which the first amount credited was an amount of share capital (ITAA97 s 975-300). If a company has more than one account fulfilling this definition, they are taken to be a single account for the purposes of the Act.
 
-While the term "share capital" almost invariably refers to the capital contributed to a company in exchange for shares, this is not an exhaustive deﬁnition of the term (Aurizon Holdings Ltd 2022 ATC ¶20-824; [2022] FCA 368). The Commissioner has released a decision impact statement in relation to this decision.
+While the term "share capital" almost invariably refers to the capital contributed to a company in exchange for shares, this is not an exhaustive definition of the term (Aurizon Holdings Ltd 2022 ATC ¶20-824; [2022] FCA 368). The Commissioner has released a decision impact statement in relation to this decision.
 
 Tainting a share capital account An untainted share capital account becomes tainted when an amount to which Div 197 applies is transferred to the share capital account of an Australian resident company.
 
 Transferred amounts to which Div 197 applies Division 197 applies to an amount transferred to a company's share capital account from any other account of the company, unless the transfer is excluded under Subdiv 197-A (ss 197-5; 197-50). In general terms, Div 197 does not apply to transfers of the following:
 
-- amounts that could be identiﬁed as share capital (s 197-10)
+- amounts that could be identified as share capital (s 197-10)
 
 - amounts transferred under debt/equity swaps, within certain limits (s 197-15)
 
@@ -61,19 +61,19 @@ Transferred amounts to which Div 197 applies Division 197 applies to an amount t
 
   (ss 197-30 to 197-40).
 
-Amounts transferred to a company's share capital account under a dividend re-investment plan will also generally not taint its share capital account, due to the speciﬁc exclusion in ITAA36 s 6BA(5) — TD 2009/4.
+Amounts transferred to a company's share capital account under a dividend re-investment plan will also generally not taint its share capital account, due to the specific exclusion in ITAA36 s 6BA(5) — TD 2009/4.
 
 Tainting amount The "tainting amount" for a company's share capital account at a particular time is the sum of: (1) the transferred amount that most recently caused the account to be tainted; and (2) any other amounts to which Div 197 applies that have been transferred since the account became tainted (s 197-50(3)).
 
-Tainting changes nature of the account A tainted share capital account is deemed not to be a share capital account for the purposes of the Act, other than for the purposes of the tainting rules and the CGT anti-overlap provision in ITAA97 s 118-20(6) (ITAA97 s 975-300(3)). This means that a distribution out of the account is taxed as a distribution of proﬁts rather than a return of capital, and is unfrankable (ITAA97 s 202-45).
+Tainting changes nature of the account A tainted share capital account is deemed not to be a share capital account for the purposes of the Act, other than for the purposes of the tainting rules and the CGT anti-overlap provision in ITAA97 s 118-20(6) (ITAA97 s 975-300(3)). This means that a distribution out of the account is taxed as a distribution of profits rather than a return of capital, and is unfrankable (ITAA97 s 202-45).
 
 Example 1 A company transfers $1,000 to its share capital account from another account. The transfer is not one that is excluded from the application of Div 197 under ss 197-10 to 197-40. It subsequently transfers a further $3,000 from the other account to its share capital.
 
 The transfer of $1,000 taints the share capital account. The tainting amount at that point is $1,000. The additional transfer increases the tainting amount to $4,000.
 
-The account remains tainted until/unless the company makes a choice to untaint it. Any distribution from the tainted account will be treated as an unfrankable distribution of proﬁts, not a return of capital.
+The account remains tainted until/unless the company makes a choice to untaint it. Any distribution from the tainted account will be treated as an unfrankable distribution of profits, not a return of capital.
 
-Franking debit arising due to relevant transfer If an amount ("transferred amount") to which Div 197 applies is transferred to a company's share capital account, a franking debit arises in the company's franking account. This will be the case whether the amount is the ﬁrst amount to which the Division applies (ie the amount that taints a hitherto untainted account under s 197-50), or an additional transfer into an already tainted account. The debit arises immediately before the end of the franking period (¶4-670) in which the transfer of the amount occurs.
+Franking debit arising due to relevant transfer If an amount ("transferred amount") to which Div 197 applies is transferred to a company's share capital account, a franking debit arises in the company's franking account. This will be the case whether the amount is the first amount to which the Division applies (ie the amount that taints a hitherto untainted account under s 197-50), or an additional transfer into an already tainted account. The debit arises immediately before the end of the franking period (¶4-670) in which the transfer of the amount occurs.
 
 Amount of the franking debit The amount of the franking debit is calculated as follows (s 197-45): Applicable franking percentage Transferred amount × Applicable gross-up rate The "applicable franking percentage" is the benchmark franking percentage (¶4-660) for the franking period in which the transfer occurs, or (if no benchmark franking percentage has been set by the end of the franking period) 100%.
 
@@ -86,9 +86,9 @@ purposes of the entity for the income year For the meaning of the corporate tax 
 
 Example 2 Assume that the transfer of $1,000 in Example 1 takes place in August and that the transfer of $3,000 takes place in February of the same income year, which ends on 30 June. The company has 2 franking periods, ending on 31 December and 30 June.
 
-Assume that the company does not set a benchmark franking percentage for the ﬁrst franking period, and that the benchmark franking percentage for the second franking period is 80%.
+Assume that the company does not set a benchmark franking percentage for the first franking period, and that the benchmark franking percentage for the second franking period is 80%.
 
-Assuming a corporate tax rate for imputation purposes of 30%, a franking debit of $429 (ie $1,000 × 30/70 × 100%) will arise on 31 December in relation to the ﬁrst transfer. A franking debit of $1,029 (ie $3,000 × 30/70 × 80%) will arise on 30 June in relation to the second transfer.
+Assuming a corporate tax rate for imputation purposes of 30%, a franking debit of $429 (ie $1,000 × 30/70 × 100%) will arise on 31 December in relation to the first transfer. A franking debit of $1,029 (ie $3,000 × 30/70 × 80%) will arise on 30 June in relation to the second transfer.
 
 Untainting a share capital account Once tainted, a share capital account remains tainted until the company chooses to untaint the account.
 
@@ -104,7 +104,7 @@ Amount of each franking debit For each transferred amount that meets the above c
 
 Example 3 The company in Example 2 subsequently decides to untaint its share capital account. Assume that the applicable franking percentage at the end of the franking period in which the untainting takes place is 90%.
 
-In relation to the ﬁrst transfer ($1,000) the franking debit of $429 that arose under s 197-45 was based on a franking percentage of 100%. Therefore, no further franking debit can arise under s 197-65 in connection with the untainting.
+In relation to the first transfer ($1,000) the franking debit of $429 that arose under s 197-45 was based on a franking percentage of 100%. Therefore, no further franking debit can arise under s 197-65 in connection with the untainting.
 
 However, the franking debit of $1,029 that arose under s 197-45 in relation to the second transfer ($3,000) was based on a franking percentage of only 80%. Therefore, a further franking debit of $128 (ie ($3,000 × 30/70 × 90%) − $1,029) will arise under s 197-65.
 
@@ -188,6 +188,6 @@ Relevant transfers under debt/equity swaps, from option premium reserves, and in
 197-65(3), s 197-65, s
 197-70, s 197-60(3), ITAA97 s 197-55*
 
-## Brieﬂy, the share capital tainting rules in Div 197 operate as follows:
+## Briefly, the share capital tainting rules in Div 197 operate as follows:
 
 ## Corporate tax rate for imputation

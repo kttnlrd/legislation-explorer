@@ -7,29 +7,29 @@ paragraph: "¶31-040"
 ---
 # Commercial considerations ¶31-040
 
-As previously indicated (¶31-015), tax planning should not be conﬁned to taxation considerations, as commercial considerations and other legislative requirements may make an otherwise attractive tax plan impossible or at least inadvisable (eg the direct and indirect costs may outweigh the tax savings). Some of the possible pitfalls are mentioned below.
+As previously indicated (¶31-015), tax planning should not be confined to taxation considerations, as commercial considerations and other legislative requirements may make an otherwise attractive tax plan impossible or at least inadvisable (eg the direct and indirect costs may outweigh the tax savings). Some of the possible pitfalls are mentioned below.
 
-- Existing contractual relationships — regard must be had to the eﬀect of the tax plan on the taxpayer's
+- Existing contractual relationships — regard must be had to the effect of the tax plan on the taxpayer's
 
   continuing contractual relationships with, for example, suppliers, customers, tenants etc. Where a change
 
   in the operating vehicle is involved, as on the sale of a business, the other parties to these continuing
 
-  relationships must be advised; if they are not, there are not only the diﬃculties that may arise under contract
+  relationships must be advised; if they are not, there are not only the difficulties that may arise under contract
 
-  law, but also the possibility that the transfer may be treated as a sham or that any resulting tax beneﬁts may
+  law, but also the possibility that the transfer may be treated as a sham or that any resulting tax benefits may
 
-  be nulliﬁed by the general anti-avoidance provisions of ITAA36 Pt IVA. Diﬃculties may also arise in obtaining
+  be nullified by the general anti-avoidance provisions of ITAA36 Pt IVA. Difficulties may also arise in obtaining
 
 GST input tax credits (¶34-100) where the wrong party is invoiced.
 
 The approval of creditors, including suppliers, to the substitution of one entity for another in the course of a tax plan must be obtained. In this regard, it should be remembered that it is not possible to assign a liability; all that can be done is to obtain a release of an existing liability in consideration of the assumption of a similar liability by the substituted party, or to have the substituted entity covenant to reimburse the other entity for any amount paid pursuant to an obligation for which the other entity remains primarily liable. For further discussion, see ¶23-325.
 
-In certain instances, the costs associated with such practical problems may justify the implementation of a court approved scheme of arrangement. This would streamline asset transfers and avoid the need for the speciﬁc approval of contracting parties (although such parties may seek to approve such a scheme).
+In certain instances, the costs associated with such practical problems may justify the implementation of a court approved scheme of arrangement. This would streamline asset transfers and avoid the need for the specific approval of contracting parties (although such parties may seek to approve such a scheme).
 
-- Eﬀect on employees — where a business is transferred from one associated taxpayer to another, it will
+- Effect on employees — where a business is transferred from one associated taxpayer to another, it will
 
-  usually be desirable for the new proprietor to assume liability for employee beneﬁts such as annual leave,
+  usually be desirable for the new proprietor to assume liability for employee benefits such as annual leave,
 
   sick leave and long service leave payments, as the vendor will not, after ceasing to carry on business, be
 

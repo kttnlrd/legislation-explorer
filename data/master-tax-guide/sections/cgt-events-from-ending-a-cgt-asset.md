@@ -7,9 +7,9 @@ paragraph: "¶11-270"
 ---
 # CGT events from ending a CGT asset ¶11-270
 
-CGT event C1 — Loss or destruction of a CGT asset CGT event C1 happens if a CGT asset owned by a taxpayer is lost or destroyed (s 104-20). An asset cannot be lost voluntarily, but may be lost by conﬁscation. However, in a conﬁscation situation, it may be more appropriate to consider whether there has been a change of ownership or forfeiture of the asset. An asset may be destroyed through deliberate or involuntary destruction. CGT event C1 may apply to intangible assets (TD 1999/79). CGT event C1 arises where shares are sold without the owner's consent (ID 2010/116; ID 2010/124).
+CGT event C1 — Loss or destruction of a CGT asset CGT event C1 happens if a CGT asset owned by a taxpayer is lost or destroyed (s 104-20). An asset cannot be lost voluntarily, but may be lost by confiscation. However, in a confiscation situation, it may be more appropriate to consider whether there has been a change of ownership or forfeiture of the asset. An asset may be destroyed through deliberate or involuntary destruction. CGT event C1 may apply to intangible assets (TD 1999/79). CGT event C1 arises where shares are sold without the owner's consent (ID 2010/116; ID 2010/124).
 
-If the taxpayer receives compensation for the loss or destruction of the asset, the time of CGT event C1 is when the compensation is ﬁrst received. If the taxpayer does not receive any compensation, CGT event C1 happens when the loss is discovered or the destruction occurred. Roll-over may be available in such a case (¶12-260).
+If the taxpayer receives compensation for the loss or destruction of the asset, the time of CGT event C1 is when the compensation is first received. If the taxpayer does not receive any compensation, CGT event C1 happens when the loss is discovered or the destruction occurred. Roll-over may be available in such a case (¶12-260).
 
 A taxpayer makes a capital gain from CGT event C1 if the capital proceeds from the loss or destruction of the asset are more than its cost base. If the capital proceeds are less than the reduced cost base of the asset, a capital loss is made.
 
@@ -17,11 +17,11 @@ A capital gain or loss from CGT event C1 is disregarded if the asset was acquire
 
 *Refs: s 104-20)*
 
-endings CGT event C2 happens if a taxpayer's ownership of an intangible CGT asset ends because it is redeemed, cancelled, released, discharged, satisﬁed, abandoned, surrendered, forfeited or expired (s 104-25). For this purpose, a lease is taken to have expired even if it is extended or renewed. If an option is exercised or a convertible note or interest is converted, CGT event C2 happens at that time.
+endings CGT event C2 happens if a taxpayer's ownership of an intangible CGT asset ends because it is redeemed, cancelled, released, discharged, satisfied, abandoned, surrendered, forfeited or expired (s 104-25). For this purpose, a lease is taken to have expired even if it is extended or renewed. If an option is exercised or a convertible note or interest is converted, CGT event C2 happens at that time.
 
 As an asset comes to an end when CGT event C2 happens, there is no acquisition of the asset by another person at that time.
 
-An asset can expire by eﬄuxion or lapse of time but not as a result of a voluntary termination (TD 1999/76).
+An asset can expire by effluxion or lapse of time but not as a result of a voluntary termination (TD 1999/76).
 
 This means that, for example, the market value substitution rule (¶11-510) can apply to capital proceeds on the voluntary termination of a lease, but not where the lease goes to term and has no value at that time.
 
@@ -33,7 +33,7 @@ This means that, for example, the market value substitution rule (¶11-510) can 
 
 - when an option expires without being exercised
 
-- on the maturity or close-out of a ﬁnancial contract for diﬀerences (TR 2005/15)
+- on the maturity or close-out of a financial contract for differences (TR 2005/15)
 
 - when an investor's ownership of contractual rights under an investment product known as a
 
@@ -47,13 +47,13 @@ Deferred Purchase Agreement warrant comes to an end upon delivery of the deliver
 
   ¶10-375; [2014] AATA 622; 2015 ATC ¶20-508; [2015] FCAFC 71).
 
-However, CGT event C2 did not happen on maturity of an unsecured note when the company that issued the note defaulted on repayment (ID 2008/58). CGT event C2 did not occur where the taxpayer had an agreement to pay his friend the proﬁts from the sale of a property because there was no evidence of the payment being made to acquire a right (ZBFF 2021 ATC ¶10-562; [2021] AATA 275).
+However, CGT event C2 did not happen on maturity of an unsecured note when the company that issued the note defaulted on repayment (ID 2008/58). CGT event C2 did not occur where the taxpayer had an agreement to pay his friend the profits from the sale of a property because there was no evidence of the payment being made to acquire a right (ZBFF 2021 ATC ¶10-562; [2021] AATA 275).
 
 The rights which a company acquired against an assumption party under a debenture liability agreement were an asset for CGT purposes in Orica 98 ATC 4494; [1998] AATA 547. Further, the performance by the assumption party of its obligations under the agreement, and the discharge in part of those obligations by performance, was a disposal of an asset under the former provisions corresponding to CGT event C2. This decision is also discussed at ¶23-325.
 
 If a commercial debt is forgiven, the debtor's unrecouped prior year net capital losses may be reduced (¶16-910). Depending on the market value of the debt, the creditor may incur a capital loss from CGT event C2 (TD 2), except where the debt is a personal use asset (¶11-400).
 
-A payment made by a guarantor in relation to a debt guarantee following a debtor's default has no CGT consequences for the debtor (TR 96/23). If the guarantor pays the debt in full, the creditor's capital gain from the guarantee is oﬀset by the capital loss from the debt. If both the debtor and the guarantor default, the creditor makes a capital loss on the debt from CGT event C2, and if the guarantor is insolvent no capital gain arises from the guarantee. A capital loss is incurred by the guarantor if there is a shortfall in the amount repaid by the debtor under the guarantor's right of indemnity. Irrespective, a capital loss cannot be claimed if the debt is a personal use asset (¶11-400).
+A payment made by a guarantor in relation to a debt guarantee following a debtor's default has no CGT consequences for the debtor (TR 96/23). If the guarantor pays the debt in full, the creditor's capital gain from the guarantee is offset by the capital loss from the debt. If both the debtor and the guarantor default, the creditor makes a capital loss on the debt from CGT event C2, and if the guarantor is insolvent no capital gain arises from the guarantee. A capital loss is incurred by the guarantor if there is a shortfall in the amount repaid by the debtor under the guarantor's right of indemnity. Irrespective, a capital loss cannot be claimed if the debt is a personal use asset (¶11-400).
 
 Timing of CGT event C2 If the taxpayer enters into a contract that results in the asset ending, the time of CGT event C2 is when the taxpayer enters into that contract. If there is no such contract, CGT event C2 happens when the asset comes to an end.
 
@@ -67,7 +67,7 @@ Under the relevant provisions in Corporations Act 2001, the time of dissolution 
 
   court an order that the company be dissolved — the date of the order
 
-- where the company is wound up voluntarily — 3 months after the lodging of the return of the ﬁnal
+- where the company is wound up voluntarily — 3 months after the lodging of the return of the final
 
   meeting of members and/or creditors, or on such other date as the court may order, or
 
@@ -83,19 +83,19 @@ To the extent that a liquidator's distribution is assessable (¶4-300), relief f
 
 Where there is an in-specie distribution of an asset which has been subjected to an inter-company roll- over (¶12-490), a capital gain or loss arising on the cancellation of the liquidated company's shares may be adjusted to account for the notional gain or loss in respect of the distributed asset (¶12-530).
 
-On the surrender of a lease by the lessee, CGT event C2 happens when the lessor receives an amount for the discharge of its rights under the agreement (TR 2005/6). If the agreement to end the lease is made more than 12 months after the lease was granted, the 12-month rule for a discount capital gain (¶11-033) will be satisﬁed.
+On the surrender of a lease by the lessee, CGT event C2 happens when the lessor receives an amount for the discharge of its rights under the agreement (TR 2005/6). If the agreement to end the lease is made more than 12 months after the lease was granted, the 12-month rule for a discount capital gain (¶11-033) will be satisfied.
 
 If expenditure by a lessee on leasehold improvements which become owned by the lessor enhances the value of the lease, it is included in the cost base of the lease to the lessee and is considered when working out a capital gain or loss on expiry or termination of the lease. If any part of the expenditure is recouped, eg from the lessor on termination of the lease, it cannot be included in the cost base of the lease (TD 98/23).
 
-The renunciation by a beneﬁciary of an interest in a discretionary trust would give rise to CGT event C2, but no capital gain is likely to arise unless the beneﬁciary has a pre-existing interest in either the assets or the income of the trust. The renunciation would not normally have any CGT consequences for the trustee or the trust (TD 2001/26).
+The renunciation by a beneficiary of an interest in a discretionary trust would give rise to CGT event C2, but no capital gain is likely to arise unless the beneficiary has a pre-existing interest in either the assets or the income of the trust. The renunciation would not normally have any CGT consequences for the trustee or the trust (TD 2001/26).
 
-Capital proceeds A liquidator's ﬁnal distribution made in relation to the winding up of a company forms part of the capital proceeds from CGT event C2 happening to the share (TD 2001/27). This also applies where an interim distribution is made within 18 months before the company ceases to exist. However, if the company ceases to exist more than 18 months after the payment, CGT event G1 will apply instead (¶11-310). If the taxpayer acts on an incorrect assumption that the company will be dissolved within 18 months, any underpayment arising from failing to apply CGT event G1 should normally be corrected within a month after the 18 months expires, otherwise the general interest charge may be imposed. Conversely, the taxpayer may be entitled to interest on any overpayment if it applies CGT event G1 on the basis of a wrong assumption that the dissolution will not occur within 18 months (TD 2001/27).
+Capital proceeds A liquidator's final distribution made in relation to the winding up of a company forms part of the capital proceeds from CGT event C2 happening to the share (TD 2001/27). This also applies where an interim distribution is made within 18 months before the company ceases to exist. However, if the company ceases to exist more than 18 months after the payment, CGT event G1 will apply instead (¶11-310). If the taxpayer acts on an incorrect assumption that the company will be dissolved within 18 months, any underpayment arising from failing to apply CGT event G1 should normally be corrected within a month after the 18 months expires, otherwise the general interest charge may be imposed. Conversely, the taxpayer may be entitled to interest on any overpayment if it applies CGT event G1 on the basis of a wrong assumption that the dissolution will not occur within 18 months (TD 2001/27).
 
-The ﬁnal distribution of the exempt component of a capital gain that arose on the earlier disposal of the goodwill of a company forms part of the capital proceeds from CGT event C2 on winding up the company (TD 2001/14). Accordingly, the beneﬁt of the CGT small business concessions may be lost on winding up because the active asset test cannot be passed in relation to the shares (¶7-145). However, the CGT discount would generally still apply to the cancellation of the shares (except where the shareholder is a company) (¶11-033).
+The final distribution of the exempt component of a capital gain that arose on the earlier disposal of the goodwill of a company forms part of the capital proceeds from CGT event C2 on winding up the company (TD 2001/14). Accordingly, the benefit of the CGT small business concessions may be lost on winding up because the active asset test cannot be passed in relation to the shares (¶7-145). However, the CGT discount would generally still apply to the cancellation of the shares (except where the shareholder is a company) (¶11-033).
 
 The capital proceeds from the expiry, surrender or forfeiture of a lease under CGT event C2 include any payment made by the lessor to the lessee once the lease has ended for expenditure of a capital nature incurred by the lessee in making improvements to the leased property.
 
-Special rules apply to calculate the capital proceeds from the expiry of an exploration beneﬁt provided under a farm-in, farm-out arrangement (¶11-520).
+Special rules apply to calculate the capital proceeds from the expiry of an exploration benefit provided under a farm-in, farm-out arrangement (¶11-520).
 
 Exception for pre-CGT assets A capital gain or loss from CGT event C2 is disregarded if the asset was acquired before 20 September 1985. If the asset is a lease, the capital gain or loss is disregarded if it was granted before 20 September 1985 or, if it has been renewed or extended, the start of the last renewal or extension occurred before 20 September 1985. No CGT will be payable where consideration is received by a lessee for the surrender of a lease granted before 20 September 1985 (IT 2363).
 
@@ -113,12 +113,12 @@ The expenditure incurred in granting the option can include giving property (¶1
 
 A capital gain or loss from CGT event C3 is disregarded if the option was granted before 20 September 1985.
 
-CGT events involving bringing a CGT asset into existence CGT event D1 — Creating contractual or other rights CGT event D1 happens if a taxpayer creates a contractual right or other legal or equitable right in another entity, eg a restrictive covenant (s 104-35). However, CGT event D1 does not happen in any of the following circumstances: (i) the taxpayer created the right by borrowing money or obtaining credit from another entity (ii) the right requires the taxpayer to do something which gives rise to another CGT event for the taxpayer (iii) a company issues or allots equity interests such as shares (iv) a company grants an option to acquire equity interests or debentures in the company (v) the trustee of a unit trust issues units in the trust (vi) the trustee of a unit trust grants an option to acquire units or debentures in the trust, or (vii) a right created by creating in another entity a right to receive an exploration beneﬁt under a farm-in, farm-out arrangement.
+CGT events involving bringing a CGT asset into existence CGT event D1 — Creating contractual or other rights CGT event D1 happens if a taxpayer creates a contractual right or other legal or equitable right in another entity, eg a restrictive covenant (s 104-35). However, CGT event D1 does not happen in any of the following circumstances: (i) the taxpayer created the right by borrowing money or obtaining credit from another entity (ii) the right requires the taxpayer to do something which gives rise to another CGT event for the taxpayer (iii) a company issues or allots equity interests such as shares (iv) a company grants an option to acquire equity interests or debentures in the company (v) the trustee of a unit trust issues units in the trust (vi) the trustee of a unit trust grants an option to acquire units or debentures in the trust, or (vii) a right created by creating in another entity a right to receive an exploration benefit under a farm-in, farm-out arrangement.
 
 *Refs: s
 118-20(1, s 104-30), s 104-35)*
 
-- a person agrees not to compete with another person for a speciﬁed period or within a speciﬁed
+- a person agrees not to compete with another person for a specified period or within a specified
 
   area
 
@@ -158,15 +158,15 @@ CGT events involving bringing a CGT asset into existence CGT event D1 — Creati
 
 CGT event D1 will occur at the time of a breach of contract. As no consideration is generally paid at this time, there will be no capital gain or capital loss. However, where instalment moneys (other than deposits) are lawfully applied in satisfaction of damages for breach of contract, a capital gain normally arises because of either a disposal of the asset created by CGT event D1 or CGT event H2 happens (TR 94/29).
 
-The Commonwealth, a state or a territory is an entity which can create rights for the purposes of CGT event D1, ie it is a body politic for purposes of the deﬁnition of "entity" (TD 1999/77). However, a court is not an entity for these purposes (TD 1999/81).
+The Commonwealth, a state or a territory is an entity which can create rights for the purposes of CGT event D1, ie it is a body politic for purposes of the definition of "entity" (TD 1999/77). However, a court is not an entity for these purposes (TD 1999/81).
 
 The capital gain or loss from CGT event D1 happening from a look-through earnout right being created in another entity is disregarded (s 118-575; ¶11-675).
 
 Subsequent expiry In many of the above examples the asset created will eventually expire or otherwise be extinguished. When this occurs, CGT event C2 (¶11-270) happens in relation to the asset acquired as a result of CGT event D1.
 
-Easements, profits à prendre, licences CGT event D1 happens if a taxpayer grants an easement, proﬁt à prendre or licence over an asset (TD 2018/15). In cases where the sale of standing timber is associated with a right of the purchaser to remove timber in the future, the agreement must be considered to see if what is involved is the creation of a new interest in land (a proﬁt à prendre subject to CGT) or the sale of timber which forms part of the realty (exempt if the land is pre-CGT) (Ashgrove 94 ATC 4549; [1994] FCA 1297; TR 95/6; TD 2018/15).
+Easements, profits à prendre, licences CGT event D1 happens if a taxpayer grants an easement, profit à prendre or licence over an asset (TD 2018/15). In cases where the sale of standing timber is associated with a right of the purchaser to remove timber in the future, the agreement must be considered to see if what is involved is the creation of a new interest in land (a profit à prendre subject to CGT) or the sale of timber which forms part of the realty (exempt if the land is pre-CGT) (Ashgrove 94 ATC 4549; [1994] FCA 1297; TR 95/6; TD 2018/15).
 
-Sale of knowledge, know-how, information Diﬃculties may arise where an agreement is made to provide knowledge, know-how, information, etc.
+Sale of knowledge, know-how, information Difficulties may arise where an agreement is made to provide knowledge, know-how, information, etc.
 
 Knowledge is not property (United Aircraft Corporation (1943) 68 CLR 525; 7 ATD 318). Being neither property nor a right, it is not a CGT asset (¶11-380). However, a right to require the supply of information or knowledge is a CGT asset. Where such a right is created, CGT event D1 may happen.
 
@@ -174,9 +174,9 @@ Restrictive covenants and trade ties CGT event D1 happens if there is a transact
 
 A question may arise as to whether a particular amount is paid for a restrictive covenant, or as a payment for business goodwill eligible for concessional treatment or roll-over relief. If the parties are at arm's length and reasonably attribute an amount to the restrictive covenant, that allocation is accepted. In such a case, if a nil amount is allocated to the restrictive covenant, the giving of the restrictive covenant is treated as being ancillary to the disposal of the goodwill of the business and no part of the capital proceeds needs to be attributed to the grant of the restrictive covenant (TR 1999/16).
 
-A restrictive covenant may have a measurable beneﬁt in its own right where the vendor has signiﬁcant personal goodwill in the form of a loyal clientele, but not where the covenant is given merely as a matter of form by a vendor who is retiring from a particular business and does not wish to compete further. If a vendor has been fully remunerated for goodwill, based on normal industry valuation methods, any further amount must reasonably relate to the restrictive covenant. If a vendor of a business who is also an employee of that business receives a payment for a restrictive covenant on the sale of the business, the amount may be characterised as a component of the intangible elements that comprise goodwill (TR 95/3).
+A restrictive covenant may have a measurable benefit in its own right where the vendor has significant personal goodwill in the form of a loyal clientele, but not where the covenant is given merely as a matter of form by a vendor who is retiring from a particular business and does not wish to compete further. If a vendor has been fully remunerated for goodwill, based on normal industry valuation methods, any further amount must reasonably relate to the restrictive covenant. If a vendor of a business who is also an employee of that business receives a payment for a restrictive covenant on the sale of the business, the amount may be characterised as a component of the intangible elements that comprise goodwill (TR 95/3).
 
-The person entitled to the beneﬁt of a restrictive covenant normally incurs a capital loss when it expires (¶11-270). If, however, the covenant is part of business goodwill, there are no CGT consequences until a CGT event happens to that goodwill (TD 95/54).
+The person entitled to the benefit of a restrictive covenant normally incurs a capital loss when it expires (¶11-270). If, however, the covenant is part of business goodwill, there are no CGT consequences until a CGT event happens to that goodwill (TD 95/54).
 
 Timing of CGT event D1 The time of CGT event D1 is when the taxpayer enters into the contract or creates the other right. If a contractual or other right is acquired by a taxpayer as a result of CGT event D1, it is acquired at the time of that CGT event.
 
@@ -214,11 +214,11 @@ Special income tax arrangements apply to taxpayers who carry on mining operation
 
 CGT event D4 — Conservation covenants CGT event D4 happens if a taxpayer enters into a conservation covenant over land that it owns (s 104-47).
 
-The time of the event is when the taxpayer enters into the covenant. For the deﬁnition of a conservation covenant, see ¶16-972.
+The time of the event is when the taxpayer enters into the covenant. For the definition of a conservation covenant, see ¶16-972.
 
 If the capital proceeds from entering into the covenant are more than the part of the cost base of the land that is attributed to the covenant, the taxpayer makes a capital gain. If the capital proceeds are less than the part of the reduced cost base of the land attributable to the covenant, the taxpayer makes a capital loss.
 
-Where the taxpayer enters into the covenant for no material beneﬁt and is entitled to a deduction under s 31-5 (¶16-972), the capital proceeds are the amount of that deduction (s 116-105). If there are no capital proceeds and no deduction, CGT event D1 will apply instead of CGT event D4. There will be no capital gain or loss in any event if the taxpayer acquired the land before 20 September 1985.
+Where the taxpayer enters into the covenant for no material benefit and is entitled to a deduction under s 31-5 (¶16-972), the capital proceeds are the amount of that deduction (s 116-105). If there are no capital proceeds and no deduction, CGT event D1 will apply instead of CGT event D4. There will be no capital gain or loss in any event if the taxpayer acquired the land before 20 September 1985.
 
 *Refs: s 118-575, s 104-40), s 104-45), s 104-47), s
 31-5, s 116-105)*

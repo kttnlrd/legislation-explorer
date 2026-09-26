@@ -5,11 +5,11 @@ section: "death-benefit-termination-payments"
 title: "Death benefit termination payments"
 paragraph: "¶42-290"
 ---
-# Death beneﬁt termination payments ¶42-290
+# Death benefit termination payments ¶42-290
 
-A death beneﬁt termination payment (¶14-680) may have 2 components — a tax free component and a taxable component.
+A death benefit termination payment (¶14-680) may have 2 components — a tax free component and a taxable component.
 
-The table below summarises the tax treatment of death beneﬁt termination payments. Medicare levy is added to whichever rate of tax applies, except where the recipient is the trustee of the deceased estate. In this case, the tax payable, if any, depends on how beneﬁciaries will beneﬁt from the death beneﬁt payment.
+The table below summarises the tax treatment of death benefit termination payments. Medicare levy is added to whichever rate of tax applies, except where the recipient is the trustee of the deceased estate. In this case, the tax payable, if any, depends on how beneficiaries will benefit from the death benefit payment.
 
 Any tax payable is imposed on the trustee.
 
@@ -25,13 +25,13 @@ Component                                 Tax treatment Tax free component      
 
 - amount over the ETP cap amount is taxed at the top marginal rate
 
-- taxed in the estate, based on whether the beneﬁciary is a dependant or non-dependant
+- taxed in the estate, based on whether the beneficiary is a dependant or non-dependant
 
   as above
 
-ETP cap amount — death beneﬁt termination payment Income year                                                                      ETP cap amount 2022–23                                                                           $230,000 2023–24                                                                           $235,000 2024–25                                                                           $245,000 The ETP cap amount is increased by indexation in line with AWOTE each year, in increments of $5,000 rounded down (ITAA97 s 960-285). For the cap amount in pre-2022–23 years, see earlier editions of the Australian Master Tax Guide.
+ETP cap amount — death benefit termination payment Income year                                                                      ETP cap amount 2022–23                                                                           $230,000 2023–24                                                                           $235,000 2024–25                                                                           $245,000 The ETP cap amount is increased by indexation in line with AWOTE each year, in increments of $5,000 rounded down (ITAA97 s 960-285). For the cap amount in pre-2022–23 years, see earlier editions of the Australian Master Tax Guide.
 
-The cap amount is reduced for any death beneﬁt termination payment previously received in consequence of the same termination, whether in an earlier income year or the year of receipt. The cap amount is not reduced because of the receipt of a life beneﬁt termination payment in the same year.
+The cap amount is reduced for any death benefit termination payment previously received in consequence of the same termination, whether in an earlier income year or the year of receipt. The cap amount is not reduced because of the receipt of a life benefit termination payment in the same year.
 
 *Refs: ITAA97 s 960-285)*
 

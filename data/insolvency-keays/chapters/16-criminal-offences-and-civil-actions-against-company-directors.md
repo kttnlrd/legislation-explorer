@@ -10,7 +10,7 @@ slug: "16-criminal-offences-and-civil-actions-against-company-directors"
 
 [16.05] This chapter focuses principally on civil actions that may be initiated by
 liquidators against company officers and, in particular, directors of companies in
-liquidation. A signiﬁcant issue in this context is the potential liability of directors
+liquidation. A significant issue in this context is the potential liability of directors
 for insolvent trading, under s 588G of the Corporations Act, for which there is a
 defence under s 588H. The new safe harbour provision, s 588GA, is examined in the
 context of restructuring in Chapter 21. The chapter also deals with offences that
@@ -21,30 +21,30 @@ ETC
 [16.10] When liquidation occurs, the liquidator and the creditors often turn their
 attention to the company's officers as persons who may be liable for certain
 activities during the life of the company. Insolvency law can impose civil liabilities
-on company officers and this can provide an avenue of ﬁnancial recovery for the
+on company officers and this can provide an avenue of financial recovery for the
 liquidator. Depending on the circumstances of the company's demise, creditors
 may harbour feelings of ill-will towards the persons who presided over the
 company's insolvency and from which the creditors will suffer. While this may
-cause the creditors to agree to pursue those directors ﬁnancially, there may also be
-funds recovered from the directors for the beneﬁt of those creditors.
+cause the creditors to agree to pursue those directors financially, there may also be
+funds recovered from the directors for the benefit of those creditors.
 In this chapter we consider actions that may be taken against officers of an
 insolvent company. This is to be seen, in many ways, as an addendum to [14.05],
 because many of the actions are capable of being initiated by the liquidator in order
 to recover property or funds for the company and ultimately for the creditors.
-The term "officer" is deﬁned in s 9 of the Corporations Act as including a director,
-secretary and others in senior management as deﬁned. While we focus on the
+The term "officer" is defined in s 9 of the Corporations Act as including a director,
+secretary and others in senior management as defined. While we focus on the
 position of directors, much of what is discussed here also applies to other officers of
 the company.
 [16.20]                    16 Criminal Offences and Civil Actions Against Company Directors    627
 
 Shadow and de facto directors
 [16.15] It should be noted that it is not only those persons who are formally
-appointed as directors who are within the deﬁnition of "director". The deﬁnition of
+appointed as directors who are within the definition of "director". The definition of
 director in s 9 includes persons who are occupying or acting in the position of
 director even though not appointed as such (a de facto director), and those who
-have an inﬂuence over the board of directors such that the board is accustomed to
+have an influence over the board of directors such that the board is accustomed to
 act in accordance with their wishes or instructions (a shadow director).
-In DCT v Austin (1998) 28 ACSR 565; [1998] FCA 1034, Madgwick J identiﬁed
+In DCT v Austin (1998) 28 ACSR 565; [1998] FCA 1034, Madgwick J identified
 performance of top level management functions, acting as the company in matters
 of great importance and the reasonable perception by outsiders that a person was a
 de facto director of the company, as factors in determining whether the person was
@@ -57,11 +57,11 @@ other management roles which are not considered within the scope of the role of 
 director: see Re Akron Roads Pty Ltd (in liq) (No 3) [2016] VSC 657.
 A person may still be a de facto director, even if their services to the company are
 provided through an interposed entity such as a service company or consulting
-ﬁrm: Grimaldi v Chameleon Mining NL (No 2) [2012] FCAFC 6; (2012) 200 FCR 296.
+firm: Grimaldi v Chameleon Mining NL (No 2) [2012] FCAFC 6; (2012) 200 FCR 296.
 In Buzzle Operations Pty Ltd v Apple Computer Australia Pty Ltd [2010] NSWSC 233;
 (2010) 77 ACSR 410, the court said that a person may be a shadow director even
-where their inﬂuence does not extend to the entire board of directors, although
-their inﬂuence must be sufficient to exclude any residual discretion in the members
+where their influence does not extend to the entire board of directors, although
+their influence must be sufficient to exclude any residual discretion in the members
 of the board. In that case, claims by directors that they felt compelled to accept
 demands made by Apple Computer as the company's major supplier and creditor
 were not sufficient to make Apple a shadow director because the appointed
@@ -69,7 +69,7 @@ directors always had the option to say no to Apple, even if that would have
 destroyed the business.1
 
 Duties of directors to their company
-[16.20]    Directors owe duties to their companies as ﬁduciaries. This duty is
+[16.20]    Directors owe duties to their companies as fiduciaries. This duty is
 required because the company is in a relatively vulnerable position given that its
 affairs and assets are often within the almost total control of the directors. The
 company is necessarily a legal entity separate from its directors, with its own assets
@@ -96,7 +96,7 @@ A liquidator may investigate whether directors breached their duties to the
 company during its life because if they did so, the liquidator, acting on behalf of the
 company, could proceed against them for damages.
 A liquidator might be able to recover assets lost by the company as a consequence
-of a breach of duty by the directors, or obtain an account of proﬁts received by a
+of a breach of duty by the directors, or obtain an account of profits received by a
 director, or obtain compensation for the loss suffered by the company, as a result of
 the gain made by the director or because of the breach. Any recovery of property or
 award of damages would increase the pool of assets available to be distributed
@@ -108,39 +108,39 @@ Common law duties
 categories: duties of good faith and duties of care and skill.
 
 Duties of good faith
-[16.30] The duties of good faith may be deﬁned more speciﬁcally as including
+[16.30] The duties of good faith may be defined more specifically as including
 the following duties:3
 • to act honestly in the best interests of the company;
 • to exercise powers for a proper purpose; and
 • to act with an unfettered discretion.
 Traditionally, another duty has been included in this general category, namely the
-duty to avoid conﬂicts between the company's interests and the directors' personal
+duty to avoid conflicts between the company's interests and the directors' personal
 interests. This is not so much a duty owed by directors, although it does oblige
-them to make disclosure if they obtain a beneﬁt arising from a conﬂicted
-transaction and they wish to retain that beneﬁt.
-These are known as ﬁduciary duties, being duties also owed by liquidators and
+them to make disclosure if they obtain a benefit arising from a conflicted
+transaction and they wish to retain that benefit.
+These are known as fiduciary duties, being duties also owed by liquidators and
 trustees. Fiduciaries act on behalf of others who are in a position of dependence –
-in this case, the company – and trust is placed in ﬁduciaries, hence courts have
+in this case, the company – and trust is placed in fiduciaries, hence courts have
 formulated strict equitable principles regulating how they are required to act. While
 
 2 See further Austin and Ramsay, Ford, Austin and Ramsay's Principles of Corporations Law (16th ed, 2014,
   LexisNexis) Chs 8 and 9; Harris, Hargovan and Adams, Australian Corporate Law (5th ed, LexisNexis,
   2017) Chs 15-18.
 3 See the detailed review of directors' duties in The Bell Group Ltd v Westpac Banking Corp (No 9) [2008]
-  WASC 239; (2008) 39 WAR 1 at Chapter 20. This summary was largely conﬁrmed on appeal (Westpac
+  WASC 239; (2008) 39 WAR 1 at Chapter 20. This summary was largely confirmed on appeal (Westpac
   Banking Corp v The Bell Group Ltd (No 3) [2012] WASCA 157; (2012) 89 ACSR 1).
 [16.40]                     16 Criminal Offences and Civil Actions Against Company Directors      629
 
 the duties imposed on directors are not as strict as those placed on trustees or
 liquidators, the duties of directors are stringent, relatively speaking, and quite
 strictly enforced by the courts. It should be noted that corporate insolvency
-practitioners stand in a ﬁduciary position to the company, as well as being officers
+practitioners stand in a fiduciary position to the company, as well as being officers
 of the company under s 9 of the Corporations Act.
 
 Duties of care and skill
 [16.35] Until the past few years it is probably fair to say that the duties of care
 and skill are not regarded as strictly the duties of good faith. The law has, in the
-past, granted directors greater ﬂexibility in the manner in which they exercise
+past, granted directors greater flexibility in the manner in which they exercise
 management functions because, while they are not to take undue risks, carrying on
 business often involves some risk-taking and some uncertainty. The courts have
 been reluctant to judge the commercial decisions of directors.
@@ -158,8 +158,8 @@ principles on delegation of tasks and will require greater vigilance and attenti
 be given by directors.4
 
 Statutory duties
-[16.40] The Corporations Act provides statutory versions of the ﬁduciary and
-common law duties. These are not codiﬁcations of the general law duties however;
+[16.40] The Corporations Act provides statutory versions of the fiduciary and
+common law duties. These are not codifications of the general law duties however;
 they apply in addition to the general law: s 185.
 The duty of care, skill and diligence at common law is represented in s 180. It
 provides that directors must:
@@ -178,7 +178,7 @@ Economic Reform Program Bill 1998 (Cth)", at [4.1].
 630     Keay's Insolvency: Personal and Corporate Law and Practice                         [16.42]
 
 The business judgment rule
-[16.42] The duty is qualiﬁed by what is known as the business judgment rule, in
+[16.42] The duty is qualified by what is known as the business judgment rule, in
 s 180(2), that a director or other company officer who makes a business judgment is
 taken to meet the requirements of s 180(1), and their equivalent duties at common
 law and in equity, in respect of the judgment if they:5
@@ -202,9 +202,9 @@ two or more of the statutory duties.
 
 Consequences of a breach of duties
 [16.45] Breaches of duty by directors might give to a liquidator a number of
-avenues of ﬁnancial recovery. The breach of the duty of good faith may enable a
-liquidator to recover property or give the liquidator a right to an account of proﬁts.
-A director might have removed or misused company property or obtained beneﬁts
+avenues of financial recovery. The breach of the duty of good faith may enable a
+liquidator to recover property or give the liquidator a right to an account of profits.
+A director might have removed or misused company property or obtained benefits
 from company opportunities or information. The typical remedy for a breach of the
 duty to exercise care and skill is damages, and the liquidator must be able to show
 that the company suffered loss because of the alleged breach of duty: Permanent
@@ -212,7 +212,7 @@ Building Society v Wheeler (1994) 11 WAR 187.
 A breach of the duty of good faith by a director may render the transaction
 voidable by the company, through the liquidator, and it may take action against the
 defaulting director to rescind a contract entered into in breach of the duty, obtain an
-injunction to prevent further defaults, obtain an account of proﬁts or seek the
+injunction to prevent further defaults, obtain an account of profits or seek the
 imposition of a constructive trust on property gained by the director through the
 breach of the duty. Sometimes when a director misuses information or misapplies
 property, it is not the director who gains an advantage, but some third party. The
@@ -222,7 +222,7 @@ property, it is not the director who gains an advantage, but some third party. T
 
 liquidator can succeed against the third party if it can be proven that the third party
 knowingly participated in the breach by the director, or knowingly received the
-beneﬁt as a result of the breach.6
+benefit as a result of the breach.6
 Civil penalties
 [16.50] A person who contravenes ss 180 – 183 of the Corporations Act may be
 subject to a civil penalty order of up to $200,000 on the application of ASIC, once a
@@ -234,14 +234,14 @@ may be made if the contravention:
 • is serious: s 1317G(1).
 Section 1317E also lists insolvent trading under s 588G as a liability for which a civil
 penalty can be imposed.
-Applications for civil penalty and disqualiﬁcation orders may be initiated by ASIC.7
+Applications for civil penalty and disqualification orders may be initiated by ASIC.7
 In addition, the director may be ordered to pay compensation to the company if the
-court, which is hearing an application for a civil penalty order, is satisﬁed that the
+court, which is hearing an application for a civil penalty order, is satisfied that the
 corporation has suffered loss as a result of the director's breach: s 1317H. A
 liquidator may claim compensation in the name of the company from a director or
 other person who has contravened the statutory duties of directors and other
 officers: s 1317J.
-ASIC may also seek an order that the director be disqualiﬁed from being a
+ASIC may also seek an order that the director be disqualified from being a
 company director for a set period: s 206C.
 
 Misfeasance: s 598
@@ -261,7 +261,7 @@ performed by F for T's other company. White J said (at [84]):
 6 See Barnes v Addy (1874) LR 9 Ch App 244; Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 20 CLR
   89; 81 ALJR 1107; Kalls Enterprises Pty Ltd v Baloglow (2007) 63 ACSR 557; Hasler v Singtel Optus Pty Ltd
   [2014] NSWCA 266; (2014) 87 NSWLR 609.
-7 An order for disqualiﬁcation of a person to act as a director is a penalty: Rich v ASIC [2004] HCA 42;
+7 An order for disqualification of a person to act as a director is a penalty: Rich v ASIC [2004] HCA 42;
   (2004) 220 CLR 129. As a consequence of that decision, see the "Explanatory Memorandum to the
   Corporations Amendment (Insolvency) Bill 2007 (Cth)" at [5.38] ff as to removal of penalty privilege
   in relation to certain proceedings, and s 1349(1) of the Corporations Act. That privilege is removed in
@@ -339,13 +339,13 @@ offences under s 533.9
 
 Duty of directors to take into account the rights of creditors
 [16.70] The traditional view of directors' duties is, as explained earlier in this
-chapter, that they are owed to the company – so that directors are under a ﬁduciary
-obligation to exercise their powers bona ﬁde in the interests of the company as a
+chapter, that they are owed to the company – so that directors are under a fiduciary
+obligation to exercise their powers bona fide in the interests of the company as a
 whole.10
 However, in the last 30 years a substantial body of case law has developed which
 states that in certain circumstances directors, in discharging their duties to the
 company, must take into account the interests of its creditors.11 The Bell case
-suggests that such a duty is ﬁduciary in nature: Westpac Banking Corp v The Bell
+suggests that such a duty is fiduciary in nature: Westpac Banking Corp v The Bell
 Group Ltd (No 3) [2012] WASCA 157; (2012) 44 WAR 1.12
 Some earlier decisions had suggested that the duty is one owed directly to creditors
 but this is not the case.13 In Geneva Finance Ltd v Resource & Industry Ltd (2002) 20
@@ -360,7 +360,7 @@ ACLC 1427, 1438, the court said:
    Petrochemical Services Ltd [1983] Ch 258; Grove v Flavel (1986) 43 SASR 410; 11 ACLR 161, 166.
 11 See Keay, Company Directors' Responsibilities to Creditors (Routledge, 2007).
 12 The case was settled before being determined by the High Court of Australia. For a discussion of the
-   ﬁduciary duties issue in this case see Langford, "Solving the Fiduciary Puzzle – The Bona Fide and
+   fiduciary duties issue in this case see Langford, "Solving the Fiduciary Puzzle – The Bona Fide and
    Proper Purposes Duties of Company Directors" (2013) 41 ABLR 127.
 13 Spies v The Queen (2000) 201 CLR 603.
 634      Keay's Insolvency: Personal and Corporate Law and Practice                              [16.75]
@@ -373,20 +373,20 @@ Court of Appeal in Western Australia took a different approach. In particular,
 Drummond AJA (in the majority) suggested that the duty is to protect creditors
 once the company is insolvent: Westpac Banking Corp v The Bell Group Ltd (No 3)
 [2012] WASCA 157; (2012) 44 WAR 1 at [2031]. The other majority judge (Lee AJA)
-found that acting to beneﬁt one group of creditors over another during the
+found that acting to benefit one group of creditors over another during the
 company's insolvency constituted equitable fraud.14
 Unlawful phoenix conduct, whereby a company transfers all its assets to a new
 business for no consideration, leaving liabilities in the old company, will invariably
 involve a breach of directors' duties.15 In ASIC v Somerville [2009] NSWSC 934;
 (2009) 77 NSWLR 110, directors of several companies transferred all of the assets to
-new companies set up speciﬁcally to avoid paying debts incurred by the old
+new companies set up specifically to avoid paying debts incurred by the old
 companies. This conduct was found to be in breach of the duty to consider
-creditors' interests and the directors were disqualiﬁed from managing corporations
-and ﬁned. Signiﬁcantly, the lawyer who advised the directors to undertake this
+creditors' interests and the directors were disqualified from managing corporations
+and fined. Significantly, the lawyer who advised the directors to undertake this
 conduct was found to have been involved in his clients' breach of the law, under
-s 79 of the Corporations Act, and was also disqualiﬁed from managing corporations
-and ﬁned. In October 2017, the federal government announced several measures for
-consultation regarding illegal phoenix activity, which include Director Identiﬁcation
+s 79 of the Corporations Act, and was also disqualified from managing corporations
+and fined. In October 2017, the federal government announced several measures for
+consultation regarding illegal phoenix activity, which include Director Identification
 Numbers and a range of other potential reforms.16
 
 When is the duty to creditors triggered?
@@ -395,7 +395,7 @@ account the interests of creditors.17 But the directors must also consider the i
 of its creditors where the company is not insolvent but facing insolvency.18 The
 duty has been expressed to be triggered if the company is near insolvency or of
 doubtful solvency, or if there is a real risk of insolvency because the company is
-ﬁnancially unstable or in ﬁnancial difficulty.19 The directors must see a real and not
+financially unstable or in financial difficulty.19 The directors must see a real and not
 merely a remote risk that the creditors will be prejudiced by the dealing in
 question: Kalls Enterprises Pty Ltd v Baloglow [2007] NSWCA 191; (2007) 63 ACSR
 557. If the company is actually insolvent then conduct that takes away assets from
@@ -405,7 +405,7 @@ question: Kalls Enterprises Pty Ltd v Baloglow [2007] NSWCA 191; (2007) 63 ACSR
 15 See Matthew, "The Conundrum of Phoenix Activity: Is Further Reform Necessary?" (2015) 23
    Insolv LJ 116. See further Anderson, Ramsay, Welsh and Hedges, "Phoenix Activity:
    Recommendations on Detection, Disruption and Enforcement" (University of Melbourne, 2017),
-   available from https://ﬁndanexpert.unimelb.edu.au/display/publicationS1215510.
+   available from https://findanexpert.unimelb.edu.au/display/publicationS1215510.
 16 Hon Kelly O'Dwyer, Minister for Revenue and Financial Services, "A Comprehensive Package of
    Reforms to Address Illegal Phoenixing", MR 090/2017 (21 September 2017).
 17 Kinsela v Russell Kinsela Pty Ltd (1986) 4 NSWLR 722.
@@ -428,7 +428,7 @@ if the business fails. It would also raise moral hazard issues for creditors in
 reducing their incentive to themselves take protective measures by way of ensuring
 good credit and security arrangements in their business. Creditors might also be
 encouraged to place pressure on directors personally, which might then diminish
-the beneﬁts of limited liability and its encouragement of business risk. If directors
+the benefits of limited liability and its encouragement of business risk. If directors
 are required to focus on their own liability, their attention to the company's
 strategic and commercial aims might be lessened. The stronger creditors are also
 more likely to succeed in receiving payment from the directors at the expense of
@@ -440,7 +440,7 @@ public interest. That balance is weighted in the creditors' favour by the voidab
 transaction provisions (explained in Chapter 14) and insolvent trading liability
 ([16.85] –[16.140]). It might be said these are sufficient, at least in the retrospective
 focus of a liquidator, to protect the interests of creditors.
-However, a liquidator may now more readily ﬁnd that directors have breached
+However, a liquidator may now more readily find that directors have breached
 their duties to the company and bring proceedings in those cases where the more
 traditional voidable transaction provisions cannot be used. Indeed it has been
 suggested that, given the strict legal criteria for bringing voidable transaction
@@ -470,7 +470,7 @@ Liabilities to employees
 [16.80] Part 5.8A of the Corporations Act was introduced in 2002 following the
 public controversy concerning the Patrick Stevedores dispute with its workers in
 1998. It imposes liability on those who enter into a relevant agreement or
-transaction with the intention of either preventing or signiﬁcantly reducing the
+transaction with the intention of either preventing or significantly reducing the
 recovery of employee entitlements in the event of the company's insolvency. The
 offence under s 596AB attracts a penalty of 1,000 penalty units ($210,000) and/or
 imprisonment for 10 years. It can be committed by companies but is focused on the
@@ -488,7 +488,7 @@ been convicted of an offence under s 596AB. Proceedings must be commenced
 within six years of the date of the winding up: s 596AC(4).
 The merits of these provisions have been the subject of debate. Indeed Pt 5.8A has
 been described as "completely ineffective in providing a means of recovery of
-employee entitlements", and may even be counterproductive of a beneﬁcial
+employee entitlements", and may even be counterproductive of a beneficial
 restructuring.22 At the same time, insolvency law traditionally, and for stated policy
 reasons, has been protective of employees in the context of their employer's
 insolvency and these provisions are in accord with that protective emphasis. There
@@ -549,9 +549,9 @@ generally. The pari passu basis of distribution of moneys of a successful insolv
 trading claim among all creditors prevails.
 Insolvent trading is a liability of directors that is increasingly under focus, as
 liquidators, creditors and the public seek to have some explanation, and possible
-retribution, for the large ﬁnancial losses to creditors arising out of an insolvency.
+retribution, for the large financial losses to creditors arising out of an insolvency.
 The courts themselves speak harshly of directors who have allowed their company
-to trade whilst insolvent and warn others to avoid what can be serious ﬁnancial
+to trade whilst insolvent and warn others to avoid what can be serious financial
 consequences for directors personally. Thus, in Tourprint International Pty Ltd v Bott
 [1999] NSWSC 581; (1999) 32 ACSR 201 Austin J opened his judgment with these
 words:
@@ -567,7 +567,7 @@ words:
 Similar sentiments were expressed by Justice Barrett in Woodgate v Davis [2002]
 NSWSC 616; 20 ACLC 1,314, the judge referring to the "important social purpose"
 of insolvent trading laws in engendering in directors of companies experiencing
-ﬁnancial stress a proper sense of attentiveness and responsible conduct directed
+financial stress a proper sense of attentiveness and responsible conduct directed
 towards the avoidance of any increase in the company's debt burden. "The
 provisions are based on a concern for the welfare of creditors exposed to the
 operation of the principle of limited liability at a time when the prospect of that
@@ -578,21 +578,21 @@ an Insolvent Trading Program under which it investigated insolvent trading and
 took some action. While that program has ceased, liquidators are required to refer
 breaches of s 588G to ASIC in their reports under s 533 and other similar sections.
 Despite that, ASIC refers very few actions for insolvent trading, 24 with liquidators
-mainly bringing proceedings. One exception has been the signiﬁcant criminal
+mainly bringing proceedings. One exception has been the significant criminal
 convictions for offences under s 588G(3) arising out of the conduct of those
 involved in the failure of Kleenmaid, with one former director being sentenced to
 nine years imprisonment in respect of insolvent trading of debts exceeding $4
 million.25
 The insolvent trading provision has been controversial, with numerous insolvency
 stakeholder groups criticising the effect that potential insolvent trading liability can
-have on efforts to restructure a business in ﬁnancial distress. The Productivity
+have on efforts to restructure a business in financial distress. The Productivity
 Commission in 2015 recommended that a safe harbour be introduced to protect
 directors who try to restructure a company. The concern expressed was that
 directors may be reluctant to attempt a restructure for fear of incurring insolvent
 trading liability. The Government agreed and recommended the safe harbour in its
 National Innovation and Science Agenda released in December 2015, with draft
 legislation released in March 2016. After multiple rounds of consultation and
-review, the legislation ﬁnally passed on 12 September 2017, with the safe harbour
+review, the legislation finally passed on 12 September 2017, with the safe harbour
 provision, s 588GA of the Corporations Act, and related changes, commencing on 19
 September 2017. The safe harbour provisions will be discussed further in Chapter
 21.
@@ -615,7 +615,7 @@ the following criteria apply:
   circumstances would be aware of the company's insolvency.
 A director may be liable for insolvent trading even where the director was a
 non-executive director with no control over the day-to-day incurring of debts. In
-such a case the director must either ﬁnd a way to stop debts being incurred, or
+such a case the director must either find a way to stop debts being incurred, or
 resign: Elliott v ASIC [2004] VSCA 54; 10 VR 369.
 In making out a case against a director, a liquidator may need to prepare an
 insolvency report to show both the fact of the company having been insolvent and
@@ -630,7 +630,7 @@ evidence.27
 As an alternative, or supplementary to an insolvency report, the liquidator may be
 able to rely on the presumptions of the company's insolvency contained in
 s 588E(3) and (4) (s 588E(1)(e)), for example, if the company has failed to keep
-ﬁnancial records in terms of the requirements of s 286 of the Corporations Act.28 The
+financial records in terms of the requirements of s 286 of the Corporations Act.28 The
 civil standard of proof applies, namely on the balance of probabilities, but applied
 consistently with the stricter "Briginshaw" approach,29 that is, in light of the
 seriousness of the claim being made: Re Swan Services Pty Ltd (in liq) [2016] NSWSC
@@ -708,7 +708,7 @@ sale of goods can depend upon whether the goods are specially manufactured. For
 example, in the absence of contract provisions to the contrary, ordinary
 manufactured goods which may be sold to any purchaser will involve a debt being
 incurred when the purchaser accepts delivery. On the other hand, goods
-manufactured to the purchaser's speciﬁcations will incur a debt when the goods are
+manufactured to the purchaser's specifications will incur a debt when the goods are
 produced, because it is at this time that the seller could sue for substantial
 damages: Leigh-Mardon Pty Ltd v Wawn (1995) 17 ACSR 741; Playspace Playground
 Pty Ltd v Osborn [2009] FCA 1486. A tax debt will generally be incurred when the
@@ -719,10 +719,10 @@ employees in respect of their future wages, payroll and other tax liabilities: F
 Powell [2001] SASC 59; 159 FLR 433. Where the transaction involves the provision of
 services based on an agreed rate or price, the debt will arise when the amount
 owing is ascertainable: Smith v Boné [2015] FCA 319; (2015) 104 ACSR 528 at [35].
-Section 588G(1A) also deﬁnes when certain debts are incurred, including the
+Section 588G(1A) also defines when certain debts are incurred, including the
 paying of a dividend, making a reduction of share capital, and buying back shares
 in the company. A debt is also deemed to have been incurred when the company
-enters into an uncommercial transaction as deﬁned in s 588FB.
+enters into an uncommercial transaction as defined in s 588FB.
 
 Defences
 [16.105] If a director is in a position where all of the above criteria can be proved
@@ -736,7 +736,7 @@ successfully a director must prove one of the following:
   this requires more than a mere hope or possibility: Tourprint International Pty Ltd
   v Bott [1999] NSWSC 581; (1999) 32 ACSR 201; Commissioner of Taxation v
   Paditham [2010] FCA 334. The expectation must be that the debts will be paid
-  when due, not that funds will become available at some indeﬁnite time in the
+  when due, not that funds will become available at some indefinite time in the
   future: Hall v Poolman [2007] NSWSC 1330; (2007) 65 ACSR 123 at [265].
 • That when the debt was incurred the director had reasonable grounds to believe,
   and did believe, that a subordinate person was competent, reliable and
@@ -747,7 +747,7 @@ successfully a director must prove one of the following:
   of Taxation (2002) 42 ACSR 561, 579 said that the section is:
    "… directed primarily to the circumstance where directors must rely primarily upon other
    persons, particularly accountants and actuaries to prepare accounts which will disclose
-   the ﬁnancial position of a company. The section does not negate a director's duty to keep
+   the financial position of a company. The section does not negate a director's duty to keep
    himself informed, and to form his own judgment about the affairs of the company, of
    which he is a director."
 642      Keay's Insolvency: Personal and Corporate Law and Practice                                 [16.105]
@@ -757,17 +757,17 @@ Young CJ in Eq referred to a Harmer Committee discussion paper which said:34
    "The Commission considers that the defence is clearly necessary in the case of larger
    companies in which it cannot be expected that directors will have control over every
    action taken in the conduct of the company's business. Additionally, a defence of this
-   nature may encourage a proper system of ﬁnancial management."
+   nature may encourage a proper system of financial management."
 Young CJ continued:
    "Thus the prime thrust of the defence is to cover the situation where there is a large
    corporation with bulky accounts and where there is a system in place of competent
-   accountants, credit controllers and ﬁnancial management and the board has a regime
+   accountants, credit controllers and financial management and the board has a regime
    whereby those people, provided they are competent and responsible, will report to the
    board any problems that the board may pick up."
 Whether the defence is in fact limited to large companies may be a matter of some
 debate.35
 This defence contrasts with the broader scope of one of the safe harbour criteria,
-that a director was "obtaining advice from an appropriately qualiﬁed entity who
+that a director was "obtaining advice from an appropriately qualified entity who
 was given sufficient information to give appropriate advice": s 588GA(2)(d).
 • That when the debt was incurred the director, because of illness or for some
   other good reason, did not at that time take part in the management of the
@@ -802,7 +802,7 @@ court. Merely scaling back costs and monitoring operations is not sufficient to
 
 establish reasonable steps to stop the company incurring debts while it was
 insolvent: Smith v Boné [2015] FCA 319; (2015) 104 ACSR 528. A director who has no
-knowledge of the company's ﬁnancial affairs cannot establish that they took all
+knowledge of the company's financial affairs cannot establish that they took all
 reasonable steps to prevent the debts being incurred at a time when the company
 was insolvent: Re Matlic Pty Ltd [2014] NSWSC 1342; (2014) 102 ACSR 602 at [69].
 Although the defences appear to be fairly broad, the courts have interpreted them
@@ -827,7 +827,7 @@ requires proof that:
   company was insolvent or would become insolvent as a result of incurring that
   debt or other debts; and
 • their failure to prevent the company incurring the debt was dishonest: s 588G(3).
-The penalty is a ﬁne of up to $420,000 or ﬁve years imprisonment or both: Sch 3.
+The penalty is a fine of up to $420,000 or five years imprisonment or both: Sch 3.
 The principal liability for breach of s 588G is imposed under s 588M, whereby the
 director may be ordered to pay an amount of the loss or damage suffered by a
 creditor in respect of a debt incurred by the company in breach of s 588G which the
@@ -855,10 +855,10 @@ In Perrine v Carrello [2017] WASCA 151, the Court explained (at [36]):
   under s 588M the liquidator of a company is able to recover a loss that has not been
   suffered by the company, but rather was suffered by a creditor of the company in relation
   to a debt owed by the company to the creditor. To the extent that that might be thought to
-  produce a somewhat arbitrary result, it nevertheless reﬂects the plain intention of the
+  produce a somewhat arbitrary result, it nevertheless reflects the plain intention of the
   statute and is by no means novel in an insolvency context. The recovery of compensation
-  by a liquidator from a director for breach of s 588G is plainly for the beneﬁt of unsecured
-  creditors. That evidently reﬂects the view of the Harmer Report, that it is unsecured
+  by a liquidator from a director for breach of s 588G is plainly for the benefit of unsecured
+  creditors. That evidently reflects the view of the Harmer Report, that it is unsecured
   creditors who normally suffer the greatest loss as a result of a company's insolvent
   trading. The legislative scheme is designed to promote equal sharing between creditors of
   all sums recovered.
@@ -871,7 +871,7 @@ company's name, such as for breach of directors' duties), to a third party. This
 power is included in IPSC, s 100-5. Liquidators have always had the capacity to
 assign company rights to sue, or more typically, to assign the fruits of the action
 (for example, to a litigation funder in exchange for funding) under s 477(2)(c), but
-this new power applies to rights given speciﬁcally to the liquidator, with insolvent
+this new power applies to rights given specifically to the liquidator, with insolvent
 trading compensation and voidable transactions being the primary examples. The
 liquidator cannot assign the right if the action has already begun unless the court
 approves: IPSC, s 100-5(2). The liquidator must give notice to the creditors of the
@@ -883,10 +883,10 @@ relation to the action is taken to be a reference to the person to whom the righ
 been assigned": IPSC, s 100-5(4).
 The assignment power could provide a useful source of funds for liquidators.
 However, any thoughts that the liquidator may assign the right to sue and then
-ﬁnalise the liquidation and deregister the company to keep costs down is unlikely.
+finalise the liquidation and deregister the company to keep costs down is unlikely.
 The personal rights of action that are given to a liquidator speak of a company in a
-winding up (see for example s 588M(1)(d)) which will not be satisﬁed if the
-liquidator ﬁnalises the liquidation and deregisters the company. It may also be that,
+winding up (see for example s 588M(1)(d)) which will not be satisfied if the
+liquidator finalises the liquidation and deregisters the company. It may also be that,
 despite the absolute terms of the assignment, the records of the liquidator and his
 or her on-going involvement are required in order to bring and maintain the
 proceedings.
@@ -905,8 +905,8 @@ liquidator, it must be produced to the court in the action in which proceedings 
 been or are initiated: s 588T(3).
 In order for proceedings to be brought under s 588M the company must be in the
 process of "being wound up", which will not be the case where a liquidator has
-lodged the ﬁnal administration return and ASIC has proceeded to have the
-company deregistered: International Greetings UK Ltd v Stansﬁeld [2010] NSWSC
+lodged the final administration return and ASIC has proceeded to have the
+company deregistered: International Greetings UK Ltd v Stansfield [2010] NSWSC
 1357; 79 NSWLR 464 (decided under the former law). By then it is too late.
 A creditor is prevented from proceeding against a director where the company's
 liquidator:
@@ -928,7 +928,7 @@ sections of the Corporations Act or the common law.
 Group companies
 [16.125] The various provisions discussed relate to an individual company to
 which a director is appointed. It is to that single entity company which directors
-owe their duties, ensuring that its interests are not sacriﬁced to those related
+owe their duties, ensuring that its interests are not sacrificed to those related
 companies who may be part of a larger enterprise group. That can be a difficult
 issue for directors who may work within different companies in a group and may
 generally work in favour of the interests of the group as a whole. Some concession
@@ -956,18 +956,18 @@ Defences are contained in s 588X that are similar to those in s 588H with allowa
 made for the corporate nature of the defendant.
 When a subsidiary company is in liquidation, claims brought under Div 5 may
 often be more worthwhile for a liquidator than pursuing the directors of the
-subsidiary if the holding company is one of ﬁnancial substance. However, it
+subsidiary if the holding company is one of financial substance. However, it
 appears that claims under s 588V are rare.
 The new safe harbour protection for directors also applies to s 588V: see s 588WA.
 
 Order of application of compensation moneys
 [16.135] The outcome of a successful insolvent trading claim by a liquidator will
-generally be that compensation is paid to the company for the beneﬁt of its
+generally be that compensation is paid to the company for the benefit of its
 creditors. Indeed, the focus of the insolvent trading provisions is as much on
 compensating creditors for their losses as it is on deterring generally the breach by
 directors of s 588G of the Corporations Act. The particular focus is on compensating
 only the unsecured creditors of the company who are the ones who primarily suffer
-in a company's liquidation. Section 588Y(1) conﬁrms this by providing that moneys
+in a company's liquidation. Section 588Y(1) confirms this by providing that moneys
 recovered by a liquidator under the relevant sections "is not available to pay a
 secured debt of the company unless all of the company's unsecured debts have
 been paid in full". However, if a secured creditor has waived its security it could
@@ -986,7 +986,7 @@ court may order that all other unsecured creditors be paid in full before that
 
 creditor receives any dividend. This exception does not apply if the application was
 brought by a creditor (s 588Y(3)), nor if the debt in question was a tax liability
-deﬁned within s 588F: s 588Y(4).
+defined within s 588F: s 588Y(4).
 
 Conclusion
 [16.140] It has been some decades since directors were able to rely on passivity
@@ -1009,15 +1009,15 @@ possible reasons there have in fact been, relatively speaking, few s 588G cases
 reported. First, proceedings are often initiated but are settled; that in itself indicates
 that the section is a useful recovery device for liquidators. Secondly, the use of
 voluntary administrations under Pt 5.3A of the Corporations Act has meant that a
-signiﬁcant number of insolvent companies do not go into liquidation and claims
+significant number of insolvent companies do not go into liquidation and claims
 against directors are not able to be pursued, or that putting the company into
 administration has been the proper response by the directors to their company's
-insolvency. Signiﬁcantly, however, even if a company does enter a deed of company
+insolvency. Significantly, however, even if a company does enter a deed of company
 arrangement, ASIC may itself take insolvent trading proceedings against the
 directors: Elliott v ASIC [2004] VSCA 54; 10 VR 369. Finally, the point might be
 made that given the warnings about insolvent trading, from ASIC and the courts
 and in the business community, directors may in fact be taking heed and
-addressing the ﬁnancial problems of their company early to avoid trading whilst
+addressing the financial problems of their company early to avoid trading whilst
 insolvent. Section 588G has roles in both deterring insolvent trading and
 encouraging directors to act responsibly.
 However, despite these words, the reality is that insolvent trading by directors
@@ -1040,12 +1040,12 @@ Act and the Taxation Administration Act 1953 (Cth).41 The recently enacted safe
 harbour protection for directors (Corporations Act, s 588GA) does not extend to tax
 liabilities imposed on company directors.
 
-Directors' indemniﬁcation of the Commissioner in relation to voidable
+Directors' indemnification of the Commissioner in relation to voidable
 transactions
 Income Tax Assessment Act 1936 (Cth) (ITAA 1936)
 [16.150] Section 588FGA of the Corporations Act provides, inter alia, that if a
 court makes an order under s 588FF42 against the Commissioner of Taxation
-because the Commissioner received the beneﬁt of a voidable transaction, all of the
+because the Commissioner received the benefit of a voidable transaction, all of the
 persons who were directors at the time of the payment are liable to indemnify the
 Commissioner for any loss or damage suffered because of the order. This only
 applies where the voidable transaction was entered into in order to satisfy certain
@@ -1054,7 +1054,7 @@ obviously not a right of claim available to an ordinary creditor who has had to
 repay preference or other moneys to a liquidator. The "Explanatory Memorandum
 to the Insolvency Tax Priorities (Legislation) Amendment Bill 1993 (Cth)" explained
 a reason for the indemnity being that by virtue of the "Commissioner's possible
-possession of ﬁnancial details of the company's health (through the receipt of tax
+possession of financial details of the company's health (through the receipt of tax
 information etc)" the Commissioner may not be able to show that he or she was
 unaware of the insolvency of the taxpayer so that a defence to a voidable
 transaction claim would not be available. The Memorandum says, in respect of
@@ -1072,7 +1072,7 @@ The obligation to indemnify the Commissioner includes the costs liabilities paya
 by the Commissioner to the liquidators resulting from an order under s 588FF:
 
 40 See Browne v DCT [1998] FCA 187; (1998) 82 FCR 1.
-41 See further Sommer, Gates and Schoﬁeld, Tax and Insolvency (3rd ed, Thomson Reuters, 2013).
+41 See further Sommer, Gates and Schofield, Tax and Insolvency (3rd ed, Thomson Reuters, 2013).
 42 As to the relationship between ss 588FF and 588FGA see: Fletcher v Anderson [2014] NSWCA 450;
    (2014) 103 ACSR 236; FCT v Moodie [2014] NSWCA 59; (2014) 98 ACSR 274.
 [16.155]                    16 Criminal Offences and Civil Actions Against Company Directors     649
@@ -1080,12 +1080,12 @@ by the Commissioner to the liquidators resulting from an order under s 588FF:
 Commissioner of Taxation v Sims [2008] NSWCA 298; 72 NSWLR 716. Directors who
 indemnify the Commissioner are entitled to claim against the company
 (s 588FGA(5)(b)) and/or claim contribution from directors who did not pay
-towards the indemniﬁcation of the Commissioner.
+towards the indemnification of the Commissioner.
 The Commissioner may decide not to defend a claim by a liquidator under s 588FF;
 in such a case the court may accept consent orders in favour of the liquidator for
 the amount of the claim. Where this occurs, the directors should be joined to the
 proceedings and be given an opportunity to respond, for example, to challenge the
-ﬁnding of insolvency. This is particularly necessary if the Commissioner's decision
+finding of insolvency. This is particularly necessary if the Commissioner's decision
 not to defend the liquidator's claim is based upon the right of indemnity against
 the directors: Fletcher v Anderson [2014] NSWCA 450.
 Section 588FGA operates if the s 588FF order made against the Commissioner is
@@ -1115,13 +1115,13 @@ NSWCA 91.
 A number of defences have been raised by directors relying upon a claim that they
 did not, for good reason, take part in the management of the company. In DCT v
 Clark, Spigelman CJ noted that, as we have explained earlier, the expectation that
-directors will participate in management has intensiﬁed over time. One aspect of
+directors will participate in management has intensified over time. One aspect of
 the directors' duty of care and diligence is a "core, irreducible requirement of
 participation in the management of the company". Such a requirement is one of the
 factors underlying the scheme for insolvent trading under s 588G of which
 
-43 A typographical error in referring to "Court", identiﬁed in Scott v Commissioner of Taxation [2003]
-   VSC 50, was ﬁnally remedied in the ILRA.
+43 A typographical error in referring to "Court", identified in Scott v Commissioner of Taxation [2003]
+   VSC 50, was finally remedied in the ILRA.
 650      Keay's Insolvency: Personal and Corporate Law and Practice                             [16.160]
 
 s 588FGB is a part. The Chief Justice said that such participation is a "basal
@@ -1153,8 +1153,8 @@ penalties imposed personally on the directors; any penalty paid is applied towar
 meeting the company's tax obligation. The regime therefore serves to focus
 directors on their company's solvency and if the company is unable to pay the tax
 because it is insolvent, to address that situation.
-This power of the Commissioner is signiﬁcant in insolvency because non-payment
-of tax liabilities is often an early sign of a company's impending ﬁnancial demise. A
+This power of the Commissioner is significant in insolvency because non-payment
+of tax liabilities is often an early sign of a company's impending financial demise. A
 company in difficulty may try to use its limited funds, including taxes withheld
 from employees' wages, to pay suppliers and contractors who are essential for the
 company's ongoing trading, rather than to pay the Commissioner. Under s 269-15,
@@ -1175,7 +1175,7 @@ company to adopt one of three courses of action:
 • put the company into liquidation: s 269-15(2)(c).
 The directors become liable to a penalty if none of these three actions is taken:
 s 269-20. The penalty is the amount of tax that the company has failed to pay.
-Signiﬁcantly, the entry by the company into an arrangement with the Commissioner
+Significantly, the entry by the company into an arrangement with the Commissioner
 for the payment of the relevant liability (for example, by instalments) does not
 remit the director's obligations or penalty. Instead, such an arrangement merely
 precludes the Commissioner from commencing proceedings to enforce the
@@ -1237,15 +1237,15 @@ A particular defence applies under s 269-35(3A) in relation to unpaid employee
 superannuation. 48
 Again, as with s 588FGB of the Corporations Act, these defences have some
 comparison with those available against a claim for insolvent trading, although,
-since the 2010 amendments, there are some signiﬁcant differences. In ﬁnding that
+since the 2010 amendments, there are some significant differences. In finding that
 defences under former s 222AOJ(3) were not made out, the court in DCT v Solomon
 [2003] NSWCA 62; (2003) 52 ATR 729 said that the "directors have an obligation to
 ensure that moneys deducted from the salaries or wages of employees are remitted
-to the Commissioner and not misused as part of the ﬂoating capital of a
+to the Commissioner and not misused as part of the floating capital of a
 corporation". Where the director attempted to seek funds to pay the debt but took
 none of the steps capable of ensuring compliance by the company with one of the
 four requirements mandated by the section, the defence under former s 222AOJ(3)
-was struck out and liability conﬁrmed: DCT v Pejkovic [2000] NSWSC 1176.
+was struck out and liability confirmed: DCT v Pejkovic [2000] NSWSC 1176.
 These responsibilities under the Taxation Administration Act can interact with
 liabilities imposed under s 588FGA of the Corporations Act. A director who responds
 to a penalty notice by causing the company to pay the tax liability will be relieved
@@ -1256,7 +1256,7 @@ administration within the 14 days as required by the former s 222AOE notice, and
 who thereby avoided the penalty, was still convicted of taxation offences and
 ordered to make reparation of the unremitted penalties.
 
-47 There is also a speciﬁc defence against liability for the SGC under s 269-35(3A).
+47 There is also a specific defence against liability for the SGC under s 269-35(3A).
 48 A defence is available if the non-payment "resulted from the company treating the [superannuation
    liability] as applying to a matter or identical matters in a particular way that was reasonably
    arguable, if the company took reasonable care in connection with applying that Act …". See the
@@ -1268,15 +1268,15 @@ The obligations in respect of the moneys withheld by an employer from an
 employee's wages on account of tax or superannuation have been likened to those
 of a trustee.50 As with insolvent trading, courts regard seriously the misconduct of
 directors who fail to remit their employees' tax deductions in particular because it
-is usually for the reason that the retention of these moneys provides ﬂoating capital
+is usually for the reason that the retention of these moneys provides floating capital
 for the business, and often with a view to forestall the collapse of what is a failing
 enterprise. The difference in impact on a director between the insolvent trading
 regime and the director penalty notice regime is that while liability for insolvent
 trading is quite a distant threat for any director at the time, the penalty imposed on
 directors under Div 269 of the TAA 1953 is one that should cause directors to focus
-immediately on their company's ﬁnancial position, knowing that personal liability
+immediately on their company's financial position, knowing that personal liability
 may be imposed. The Commissioner's powers under this regime are therefore
-signiﬁcant in the regulation of insolvent companies.51
+significant in the regulation of insolvent companies.51
 Nevertheless, the government is considering, in the context of illegal phoenix
 activity, an extension of the DPN regime to GST liabilities and removing the 21 day
 period for compliance, among other reforms.52 Also, a "single touch payroll"
@@ -1297,8 +1297,8 @@ penalties as well as compensation.
 There is a range of both civil and criminal offences that can be committed during
 the formation, life and winding up of a company, apart from those already
 discussed, such as insolvent trading. This section considers the procedure that is
-speciﬁed by the Corporations Act for the prosecution of offences, and identiﬁes and
-brieﬂy discusses some of the offences against the Corporations Act that are related to,
+specified by the Corporations Act for the prosecution of offences, and identifies and
+briefly discusses some of the offences against the Corporations Act that are related to,
 and may be the subject of, prosecution.
 It needs to be said at the outset that there will always be many offences in the
 context of a company's insolvency which will be committed and which will not be
@@ -1334,18 +1334,18 @@ affairs (Corporations Act, s 475) and in providing company records etc (s 530A).
 ASIC believes that an offence has been committed, it may prosecute (s 1315), and
 advise the liquidator of its decision. If ASIC declines to prosecute, it will also
 inform the liquidator, and the liquidator is then permitted to launch a prosecution:
-s 534(1). Such action by liquidators is rare, because prosecutions rarely beneﬁt the
+s 534(1). Such action by liquidators is rare, because prosecutions rarely benefit the
 creditors and the costs of the prosecution are payable out of the assets of the
 company: see ASIC v Neolido Holdings Pty Ltd [2006] QCA 266. However, s 534(2)
 provides that ASIC may direct that all or part of the costs of the prosecution be paid
 by ASIC.
-Prosecutions may be brought within ﬁve years of the commission of the act alleged
+Prosecutions may be brought within five years of the commission of the act alleged
 to constitute the offence, or at any later time, where the Minister consents: s 1316.
 
 Types of offence
 [16.180] There are many offences in the Corporations Act that are included simply
 to encourage the proper functioning of the legislative scheme. They do not involve
-dishonesty, and if no other penalty is provided they attract a ﬁne of ﬁve penalty
+dishonesty, and if no other penalty is provided they attract a fine of five penalty
 units: s 1311(5). A penalty unit is $210 (indexed): Crimes Act 1914 (Cth), s 4AA.
 Breaches that are minor may be dealt with by way of a penalty notice under s 1313
 of the Corporations Act rather than by a hearing in court. In such cases, ASIC may
@@ -1363,7 +1363,7 @@ If payment of the penalty is made, the alleged offender is not regarded as admit
 guilt (s 1313(6)), and no proceedings may be instituted against that person:
 s 1313(5)(a). If no payment is made by the time prescribed in the notice,
 proceedings may be instituted: s 1313(5)(b).
-Some offences attract a ﬁne or a term of imprisonment and others, which are
+Some offences attract a fine or a term of imprisonment and others, which are
 indictable, are punishable with a term of imprisonment of more than six months.
 Offences of the latter type are, naturally, the most serious.
 The legislation also provides penalties for continuing offences; that is, where the

@@ -19,7 +19,7 @@ For entities that are carrying on an enterprise that does not constitute a busin
 
 In determining an entity's GST turnover, both the current year and the projected year are taken into account (Div 188). For example, an entity's GST turnover will be $75,000 or more — and it will therefore be required to register — if either:
 
-- its current GST turnover is $75,000 or more, and the ATO is not satisﬁed that the projected GST
+- its current GST turnover is $75,000 or more, and the ATO is not satisfied that the projected GST
 
   turnover is below $75,000, or
 
@@ -35,13 +35,13 @@ The turnover does not include the GST component of taxable supplies and also doe
 
 - supplies that are not made in connection with an enterprise
 
-- supplies that are not connected with Australia. You also disregard: (1) an oﬀshore supply of rights
+- supplies that are not connected with Australia. You also disregard: (1) an offshore supply of rights
 
   or options that is deemed to be connected with Australia, unless (from 1 July 2017) it is made to
 
   an "Australian consumer" (¶34-105), the underlying supply is not a supply of goods or real property
 
-  and the supply is not GST-free; and (2) oﬀshore supplies of rights or options to use commercial
+  and the supply is not GST-free; and (2) offshore supplies of rights or options to use commercial
 
   accommodation in Australia
 
@@ -57,15 +57,15 @@ If the supply is a loan of money, the value for turnover purposes is generally t
 
 In addition, projected turnover does not include transfers of capital assets, or any transfers associated with closing down the business or substantially and permanently reducing its size or scale (s 188-25). For guidelines on the meaning of GST turnover, see GSTR 2001/7. Whether the item being transferred is a capital asset is determined at the time the item is transferred (Collins 2022 ATC ¶10-627; [2022] AATA 628; ATO Decision Impact Statement).
 
-Offshore suppliers of hotel accommodation From 1 July 2019, oﬀshore suppliers of the right to use commercial accommodation (eg hotels) in Australia are required to include these supplies in working out their GST turnover in the same way as local sellers.
+Offshore suppliers of hotel accommodation From 1 July 2019, offshore suppliers of the right to use commercial accommodation (eg hotels) in Australia are required to include these supplies in working out their GST turnover in the same way as local sellers.
 
 *Refs: s 188-10), s 188-15, s
 188-35), s 188-25)*
 
-- for which any of the consideration is ﬁrst provided on or after 1 July 2019, or
+- for which any of the consideration is first provided on or after 1 July 2019, or
 
 - where the invoice is issued on or after 1 July 2019.
 
 If the supplier's GST turnover equals or exceeds the registration turnover threshold then GST must be remitted for supplies that are taxable supplies.
 
-## This aﬀects supplies:
+## This affects supplies:

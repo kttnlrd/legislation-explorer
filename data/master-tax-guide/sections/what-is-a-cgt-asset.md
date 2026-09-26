@@ -9,7 +9,7 @@ paragraph: "¶11-380"
 
 A CGT asset is any kind of property, or a legal or equitable right that is not property (s 108-5). CGT assets include: (i) part of, or an interest in, property or a legal or equitable right that is not property (ii) goodwill or an interest in it (iii) an interest in a partnership asset, and (iv) an interest in a partnership that is not an interest in a partnership asset.
 
-Examples of CGT assets include land and buildings, shares in a company, units in a unit trust, options, debts owed to a taxpayer, a right to enforce a contractual obligation and foreign currency, but not Australian currency when it is used as legal tender (TD 2002/25). Bitcoin is neither money nor a foreign currency, but it does constitute a CGT asset for which the disposal will give rise to a CGT event (TD 2014/25; TD 2014/26; s 995-1 deﬁnition of "foreign currency"). An individual using bitcoin with a cost base of less than A$10,000 for personal purposes will not have any CGT consequences due to the exclusion for personal use assets (¶11-400). A car (including an antique or vintage car) is a CGT asset, but any capital gain made from it is exempt (¶11-640). An athlete's entitlement to receive a dAIS sports grant is a CGT asset, but any capital gain or capital loss resulting from the receipt of a payment is disregarded.
+Examples of CGT assets include land and buildings, shares in a company, units in a unit trust, options, debts owed to a taxpayer, a right to enforce a contractual obligation and foreign currency, but not Australian currency when it is used as legal tender (TD 2002/25). Bitcoin is neither money nor a foreign currency, but it does constitute a CGT asset for which the disposal will give rise to a CGT event (TD 2014/25; TD 2014/26; s 995-1 definition of "foreign currency"). An individual using bitcoin with a cost base of less than A$10,000 for personal purposes will not have any CGT consequences due to the exclusion for personal use assets (¶11-400). A car (including an antique or vintage car) is a CGT asset, but any capital gain made from it is exempt (¶11-640). An athlete's entitlement to receive a dAIS sports grant is a CGT asset, but any capital gain or capital loss resulting from the receipt of a payment is disregarded.
 
 Where a taxpayer owns an interest in an asset and then acquires a further interest, the interests remain separate assets. This means that the interests have separate cost bases and the capital proceeds arising from a CGT event happening to the total interests would have to be apportioned (TD 2000/31).
 
@@ -17,7 +17,7 @@ In the case of stapled securities, the individual securities that are stapled ar
 
 A unitholder does not have an interest in the underlying property of a unit trust for CGT purposes. The unit in the unit trust is the relevant CGT asset (TD 2000/32).
 
-Property or a right can be a CGT asset even if it does not have a market value, ie there is no condition in the deﬁnition of a CGT asset requiring a market value before a CGT asset can be said to exist (TD 2000/34).
+Property or a right can be a CGT asset even if it does not have a market value, ie there is no condition in the definition of a CGT asset requiring a market value before a CGT asset can be said to exist (TD 2000/34).
 
 Property and rights If, before 26 June 1992, a taxpayer became the owner of something that is not a form of property, eg a legal or equitable right that is not property, it is not a CGT asset. For this CGT exception to apply, the asset must have commenced to be constructed or created before that date.
 
@@ -29,7 +29,7 @@ This means that a right created before 26 June 1992 is subject to the CGT rules 
 
 - rights of a sporting club under an agreement that requires a sportsperson to play for that club.
 
-A cause of action claiming damages for negligence and breach of contract is a CGT asset as it is either a kind of property for the purposes of s 108-5(1)(a) or, legal or equitable rights that is not property for the purposes of s 108-5(1)(b) (Coshott 2014 ATC ¶10-375; [2014] AATA 622; 2015 ATC ¶20-508; [2015] FCAFC 71). The argument that a payment of damages per se could not give rise to a proﬁt or gain was dismissed.
+A cause of action claiming damages for negligence and breach of contract is a CGT asset as it is either a kind of property for the purposes of s 108-5(1)(a) or, legal or equitable rights that is not property for the purposes of s 108-5(1)(b) (Coshott 2014 ATC ¶10-375; [2014] AATA 622; 2015 ATC ¶20-508; [2015] FCAFC 71). The argument that a payment of damages per se could not give rise to a profit or gain was dismissed.
 
 Personal rights such as the right to work are not CGT assets (Hepples 90 ATC 4497; 91 ATC 4808; 92 ATC 4013). Personal liberties and freedoms are not legal or equitable rights (recognised and protected by law) and are therefore not CGT assets. However, amounts received in relation to personal liberties and freedoms may be subject to CGT provisions where legal or equitable rights are created (¶11-280).
 

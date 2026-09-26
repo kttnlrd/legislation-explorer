@@ -11,7 +11,7 @@ Betting and gambling wins are not assessable (and losses not deductible) unless 
 
 - whether the betting or gambling is conducted in a systematic, organised and businesslike way
 
-— betting activities did not amount to a business where the taxpayer did not maintain an oﬃce, employ staﬀ, use a computer or keep detailed records (Evans 89 ATC 4540; [1989] FCA 205, Babka 89 ATC 4963; [1989] FCA 383)
+— betting activities did not amount to a business where the taxpayer did not maintain an office, employ staff, use a computer or keep detailed records (Evans 89 ATC 4540; [1989] FCA 205, Babka 89 ATC 4963; [1989] FCA 383)
 
 - the volume and size of the betting or gambling — these factors of themselves are seemingly not
 
@@ -33,12 +33,12 @@ In Shepherd's case 75 ATC 4244, however, a taxpayer with a "passion for horses" 
 
   business
 
-- whether the taxpayer is betting or gambling principally for proﬁt or for pleasure — merely indulging
+- whether the taxpayer is betting or gambling principally for profit or for pleasure — merely indulging
 
   in a passion or satisfying an addiction will not constitute a business (eg Martin (1953) 10 ATD 226;
 
 (1953) 90 CLR 470) and a pastime does not become a business merely because a person devotes considerable time to it (Babka 89 ATC 4963; [1989] FCA 383).
 
-The Commissioner will apply the above criteria in determining whether a business is being carried on, although ultimately each case turns on its own facts. There appears to be no Australian case in which the winnings of a mere punter or gambler have been held to be assessable (or the losses deductible). As stated in Babka 89 ATC 4963; [1989] FCA 383, "the intrusion of chance into the activity as a predominant ingredient" will usually preclude such a ﬁnding (IT 2655). However, a gambler's winnings may indirectly wind up as taxable income where the Commissioner issues amended assessments or default assessments on an assets betterment basis (see, for example, Cammarano 2022 ATC ¶10-656; [2022] AATA 3910 where 2 taxpayers failed to lead evidence to establish how their extensive gambling activities were being funded and thus could not establish that the amended assessments were excessive).
+The Commissioner will apply the above criteria in determining whether a business is being carried on, although ultimately each case turns on its own facts. There appears to be no Australian case in which the winnings of a mere punter or gambler have been held to be assessable (or the losses deductible). As stated in Babka 89 ATC 4963; [1989] FCA 383, "the intrusion of chance into the activity as a predominant ingredient" will usually preclude such a finding (IT 2655). However, a gambler's winnings may indirectly wind up as taxable income where the Commissioner issues amended assessments or default assessments on an assets betterment basis (see, for example, Cammarano 2022 ATC ¶10-656; [2022] AATA 3910 where 2 taxpayers failed to lead evidence to establish how their extensive gambling activities were being funded and thus could not establish that the amended assessments were excessive).
 
 Winnings from betting or other forms of gambling do not give rise to a capital gain under the CGT provisions (¶11-660), although the disposal of an asset constituting such winnings may give rise to a capital gain (or a capital loss) (¶11-660).

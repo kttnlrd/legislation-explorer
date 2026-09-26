@@ -7,9 +7,9 @@ paragraph: "¶45-100"
 ---
 # Key tax dates ¶45-100
 
-The Tax Calendar shows the key tax dates for satisfying various taxation obligations such as paying tax, ﬁling returns and lodging activity statements (¶24-200). The dates for lodgment and payment generally apply to taxpayers that balance at 30 June. Special rules apply to companies and superannuation funds with substituted accounting periods (¶24-060).
+The Tax Calendar shows the key tax dates for satisfying various taxation obligations such as paying tax, filing returns and lodging activity statements (¶24-200). The dates for lodgment and payment generally apply to taxpayers that balance at 30 June. Special rules apply to companies and superannuation funds with substituted accounting periods (¶24-060).
 
-Further, the ATO may grant extensions of time during the year which may not be reﬂected in these dates.
+Further, the ATO may grant extensions of time during the year which may not be reflected in these dates.
 
 Where the due date for lodgment or payment falls on a Saturday, Sunday or public holiday, it may be done on the next business day.
 
@@ -39,7 +39,7 @@ DUE DATES IN 2024
 
   deferred BAS payers (¶27-200), and
 
-- the ﬁrst FBT instalment for the year ending 31 March 2025 for employers that are not deferred BAS
+- the first FBT instalment for the year ending 31 March 2025 for employers that are not deferred BAS
 
   payers (¶35-050).
 
@@ -65,7 +65,7 @@ Due date for lodgment of activity statements (¶24-200) for reporting and paymen
 
   deferred BAS payers (¶27-200), and
 
-- the ﬁrst FBT instalment for the year ending 31 March 2025 for employers that are deferred BAS payers
+- the first FBT instalment for the year ending 31 March 2025 for employers that are deferred BAS payers
 
   (¶35-050).
 
@@ -75,11 +75,11 @@ Pay quarter 4, 2023–24 instalment notice. Lodge the notice only if the instalm
 
 Due date for most companies to pay 2023–24 franking tax and lodge franking account return, if required (¶4-980).
 
-Lodge venture capital deﬁcit tax return for June balancers.
+Lodge venture capital deficit tax return for June balancers.
 
 Lodge early stage innovation company report.
 
-14th        Due date for entities subject to PAYG withholding to forward annual report relating to: (a) work or services payments; (b) retirement payments and annuities or pensions; (c) beneﬁt and compensation payments; (d) alienated personal services payments; (e) non-cash beneﬁts; or (f) reportable fringe beneﬁts (¶26-620). 21st                   Due date for lodgment of activity statements (¶24-200) for reporting and payment of:
+14th        Due date for entities subject to PAYG withholding to forward annual report relating to: (a) work or services payments; (b) retirement payments and annuities or pensions; (c) benefit and compensation payments; (d) alienated personal services payments; (e) non-cash benefits; or (f) reportable fringe benefits (¶26-620). 21st                   Due date for lodgment of activity statements (¶24-200) for reporting and payment of:
 
 - GST, wine equalisation tax and luxury car tax by monthly GST reporters (¶34-150)
 
@@ -99,7 +99,7 @@ Due date for taxpayers in the building and construction, courier, cleaning, road
 
 - PAYG amounts withheld from payments during August 2024 by medium PAYG withholders (¶26-550).
 
-30th        Final day for lodgment of annual TFN withholding report for closely held trusts where a trustee has been required to withhold amounts from payments to beneﬁciaries during the previous ﬁnancial year (¶26-620).
+30th        Final day for lodgment of annual TFN withholding report for closely held trusts where a trustee has been required to withhold amounts from payments to beneficiaries during the previous financial year (¶26-620).
 
 Lodge PAYG withholding payment summary annual report if prepared by a BAS agent or tax agent.
 
@@ -117,7 +117,7 @@ Lodge PAYG withholding payment summary annual report if prepared by a BAS agent 
 
   (¶26-550)
 
-- the ﬁrst PAYG instalment for the 2023–24 year by quarterly PAYG instalment payers that are not
+- the first PAYG instalment for the 2023–24 year by quarterly PAYG instalment payers that are not
 
   deferred BAS payers (¶27-200), and
 
@@ -143,7 +143,7 @@ Lodge and pay quarter 1, 2024–25 PAYG instalment activity statement for head c
 
   payers (¶27-170, ¶27-200)
 
-- the ﬁrst PAYG instalment for the 2023–24 year by quarterly PAYG instalment payers that are not
+- the first PAYG instalment for the 2023–24 year by quarterly PAYG instalment payers that are not
 
   deferred BAS payers (¶27-200), and
 
@@ -155,7 +155,7 @@ Lodge and pay quarter 1, 2024–25 activity statement if electing to receive and
 
 Due date for superannuation guarantee contributions for July to September 2024 quarter (¶39-240).
 
-Lodge and pay annual activity statement for TFN withholding for closely held trusts where a trustee withheld amounts from payments to beneﬁciaries during the 2023–24 income year. 31st         Due date for entities subject to PAYG withholding to forward annual report relating to: (a) payments for a supply where the recipient does not quote an ABN; (b) dividend, interest and royalty payments; (c) payments to foreign residents; (d) departing Australia superannuation payments; (e) the seasonal labour mobility program; or (f) mining payments (¶26-620).
+Lodge and pay annual activity statement for TFN withholding for closely held trusts where a trustee withheld amounts from payments to beneficiaries during the 2023–24 income year. 31st         Due date for entities subject to PAYG withholding to forward annual report relating to: (a) payments for a supply where the recipient does not quote an ABN; (b) dividend, interest and royalty payments; (c) payments to foreign residents; (d) departing Australia superannuation payments; (e) the seasonal labour mobility program; or (f) mining payments (¶26-620).
 
 Due date for investment bodies to lodge annual investment income reports, together with a reconciliation statement, relating to the 2023–24 year under TFN arrangements (¶26-620).
 
@@ -181,11 +181,11 @@ Lodge tax returns for all entities if one or more prior year returns were outsta
 
 If all outstanding prior year returns have been lodged by 31 October 2024, the lodgment program due dates will apply to the 2024 tax return. SMSFs in this category must lodge their complete self-managed superannuation fund annual return by this date.
 
-Lodge and pay self-managed superannuation fund annual return for (taxable and non-taxable) new registrant SMSF if we have advised the SMSF that the ﬁrst year return has a 31 October 2024 due date.
+Lodge and pay self-managed superannuation fund annual return for (taxable and non-taxable) new registrant SMSF if we have advised the SMSF that the first year return has a 31 October 2024 due date.
 
 Lodge tax returns for all entities prosecuted for non-lodgment of prior year returns and advised of a lodgment due date of 31 October 2024.
 
-Some prosecuted clients may have a diﬀerent lodgment due date — refer to the letter you received for the applicable due date.
+Some prosecuted clients may have a different lodgment due date — refer to the letter you received for the applicable due date.
 
 Payment (if required) for individuals and trusts in this category is due as advised in their notice of assessment.
 
@@ -405,11 +405,11 @@ Note: This is not a lodgment due date but a concessional arrangement where failu
 
 - PAYG amounts withheld from payments during May 2025 by medium PAYG withholders (¶26-550).
 
-25th                   Lodge 2025 FBT annual return for tax agents if lodging electronically. 30th                   End of ﬁnancial year.
+25th                   Lodge 2025 FBT annual return for tax agents if lodging electronically. 30th                   End of financial year.
 
-Super guarantee contributions must be paid by this date to qualify for a tax deduction in the 2024–25 ﬁnancial year.
+Super guarantee contributions must be paid by this date to qualify for a tax deduction in the 2024–25 financial year.
 
-Note: If any of your clients receive Child Care Subsidy and Family Tax Beneﬁt payments from Services Australia, the client and their partners must lodge their 2023–24 tax return by 30 June 2025, regardless of any deferrals in place.
+Note: If any of your clients receive Child Care Subsidy and Family Tax Benefit payments from Services Australia, the client and their partners must lodge their 2023–24 tax return by 30 June 2025, regardless of any deferrals in place.
 
 ## JULY 2024
 

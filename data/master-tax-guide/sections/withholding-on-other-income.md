@@ -13,10 +13,10 @@ Further, a banker may be treated as the agent of a non-resident in respect of mo
 
 The Australian agent of an overseas shipper or charterer or the master of the ship is required to withhold and pay tax on the deemed taxable income (¶22-110) of the overseas principal. The same applies to an insured person in Australia, or the non-resident insurer's Australian agent (¶22-110).
 
-Employers of non-resident employees must generally withhold tax from wages or salary paid to those employees in a similar way to that for resident employees. However, if the employee will be present in Australia for no more than 183 days in the tax year and the employee's Australian earnings are exempt under a DTA, an application should be made to the ATO for a certiﬁcate exempting the salary or wages from tax deductions.
+Employers of non-resident employees must generally withhold tax from wages or salary paid to those employees in a similar way to that for resident employees. However, if the employee will be present in Australia for no more than 183 days in the tax year and the employee's Australian earnings are exempt under a DTA, an application should be made to the ATO for a certificate exempting the salary or wages from tax deductions.
 
 A special withholding tax applies to superannuation payments made to persons who originally entered Australia temporarily, on particular classes of visa, and who subsequently left Australia permanently (¶14-390, ¶26-260).
 
-PAYG withholding PAYG withholding applies to certain payments made to, or received for, foreign residents where the payment is made in the course of carrying on an enterprise. This aﬀects payments relating to casino junket tours, entertainment and sports activities, and building and construction contracts (¶26-265).
+PAYG withholding PAYG withholding applies to certain payments made to, or received for, foreign residents where the payment is made in the course of carrying on an enterprise. This affects payments relating to casino junket tours, entertainment and sports activities, and building and construction contracts (¶26-265).
 
-Non-resident individuals participating in the Seasonal Worker Programme are subject to a 15% withholding tax, which represents their ﬁnal liability to Australian tax on that income (¶26-275).
+Non-resident individuals participating in the Seasonal Worker Programme are subject to a 15% withholding tax, which represents their final liability to Australian tax on that income (¶26-275).

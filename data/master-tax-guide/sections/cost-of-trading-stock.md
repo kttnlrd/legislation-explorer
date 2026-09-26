@@ -7,7 +7,7 @@ paragraph: "¶9-190"
 ---
 # Cost of trading stock ¶9-190
 
-"Cost" refers to the full absorption cost of an item of trading stock (Philip Morris 79 ATC 4352; [1979] VicSC 321). This is not just the invoice or purchase price but also appropriate costs associated with bringing the stock into its existing condition and location. A number of rulings applicable to speciﬁc industries have been issued.
+"Cost" refers to the full absorption cost of an item of trading stock (Philip Morris 79 ATC 4352; [1979] VicSC 321). This is not just the invoice or purchase price but also appropriate costs associated with bringing the stock into its existing condition and location. A number of rulings applicable to specific industries have been issued.
 
 Retail and wholesale industries.
 
@@ -15,7 +15,7 @@ Full absorption cost of trading stock purchased ready for sale is the purchase p
 
 Work in progress and manufactured goods.
 
-Full absorption cost includes the cost of labour and materials, plus an appropriate proportion of variable and ﬁxed factory overheads, eg power, rent, rates and factory administration costs (IT 2350, IT 2402). The direct cost method is not acceptable for work in progress and manufactured goods as it does not reﬂect the full absorption cost (Philip Morris).
+Full absorption cost includes the cost of labour and materials, plus an appropriate proportion of variable and fixed factory overheads, eg power, rent, rates and factory administration costs (IT 2350, IT 2402). The direct cost method is not acceptable for work in progress and manufactured goods as it does not reflect the full absorption cost (Philip Morris).
 
 Land developers.
 

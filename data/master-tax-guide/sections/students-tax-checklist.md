@@ -25,9 +25,9 @@ paragraph: "¶44-140"
 
   age receiving full-time education at a school, college or university are exempt, unless otherwise
 
-  speciﬁed (¶10-740).
+  specified (¶10-740).
 
-- Concessional tax treatment may apply to certain educational scholarship plans oﬀered by friendly
+- Concessional tax treatment may apply to certain educational scholarship plans offered by friendly
 
   societies (¶3-470).
 
@@ -49,15 +49,15 @@ paragraph: "¶44-140"
 
 - Certain international scholarships are exempt (¶10-700).
 
-- Beneﬁts relating to placement in an approved student exchange program may be exempt from
+- Benefits relating to placement in an approved student exchange program may be exempt from
 
   FBT (¶35-645).
 
-- A death beneﬁt termination payment or superannuation death beneﬁt paid to a ﬁnancially
+- A death benefit termination payment or superannuation death benefit paid to a financially
 
   dependant student may be eligible for concessional tax treatment (¶14-270, ¶14-680).
 
-- The Higher Education Loan Program (HELP) oﬀers loans to assist students to pay their higher
+- The Higher Education Loan Program (HELP) offers loans to assist students to pay their higher
 
   education fees and to study overseas. The obligation to make repayments of HELP debt apply
 
@@ -103,7 +103,7 @@ Medicare levy or the Medicare levy surcharge (¶2-310).
 
   Open Learning course (¶33-000).
 
-- Secondary school students may use a simpliﬁed method of obtaining a TFN by applying under the
+- Secondary school students may use a simplified method of obtaining a TFN by applying under the
 
 ATO's Secondary Schools TFN program (¶33-000). Overseas students whose course of study is 6 months or longer can apply online.
 

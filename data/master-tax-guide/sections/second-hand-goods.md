@@ -35,11 +35,11 @@ Global accounting methods Dealers in second-hand goods may be entitled to use a 
 
   supply to the dealer's customers (s 66-40), or
 
-- where speciﬁed categories of second-hand goods are acquired from a registered or unregistered
+- where specified categories of second-hand goods are acquired from a registered or unregistered
 
   supplier, and the dealer exercises the option to apply the global method (s 66-70).
 
-Using the global basis, the dealer works out the input tax credits on all of its acquisitions of the relevant description and oﬀsets that amount against the total GST on everything it sells from that pool of purchases (s 66-65). This, however, does not aﬀect the GST position of the person to whom the dealer supplies the goods.
+Using the global basis, the dealer works out the input tax credits on all of its acquisitions of the relevant description and offsets that amount against the total GST on everything it sells from that pool of purchases (s 66-65). This, however, does not affect the GST position of the person to whom the dealer supplies the goods.
 
 Goods held at 1 July 2000 Both the special input tax credit and the global accounting method extend to second-hand goods that the dealer acquired as stock before 1 July 2000, provided that it still held them as stock at that date (A New Tax System (Goods and Services Tax Transition) Act 1999, s 18).
 

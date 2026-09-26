@@ -27,14 +27,14 @@ slug: "11-voluntary-and-compulsory-winding-up"
    [11.80] Comparisons with bankruptcy notices ..................................................................... 447
    [11.85] Form of a demand ....................................................................................................... 447
    [11.90] The creditor's debt ....................................................................................................... 448
-   [11.95] Demand not based on a judgment debt to be veriﬁed by affidavit ................... 449
+   [11.95] Demand not based on a judgment debt to be verified by affidavit ................... 449
    [11.100] Service .......................................................................................................................... 450
    [11.105] Compliance with the demand .................................................................................. 452
    [11.110] Date of failure to comply with the demand .......................................................... 453
    [11.115] Processes whereby a debtor company can apply to challenge a demand ...... 453
    [11.120] Application to the court – s 459G ........................................................................... 453
    [11.125] The Graywinter principle ......................................................................................... 454
-   [11.130] The 21 days is a deﬁnite time limit – David Grant & Co v Westpac ............... 454
+   [11.130] The 21 days is a definite time limit – David Grant & Co v Westpac ............... 454
    [11.135] Challenging the demand after 21 days .................................................................. 455
    [11.140] Extension of the 21 days may be granted ............................................................. 455
    [11.145] Grounds for setting aside demands: ss 459H and 459J ...................................... 456
@@ -46,7 +46,7 @@ slug: "11-voluntary-and-compulsory-winding-up"
     [11.180] Section 459J(1)(a): defect in the demand (leading to) substantial injustice or
              some other reason ...................................................................................................... 462
 [11.195] Consequences of demand being set aside .................................................. 465
-[11.200] Unsatisﬁed execution ..................................................................................... 465
+[11.200] Unsatisfied execution ..................................................................................... 465
 [11.205] WINDING UP PROCEDURES ...................................................................................... 466
 [11.210] Applicants for winding up ............................................................................ 466
     [11.215] Explanations of the various categories ................................................................... 466
@@ -105,7 +105,7 @@ ineffectual unless (s 494(3)):
 • it is made at a directors' meeting;
 • it is lodged with ASIC prior to the issue of notices calling the meeting of the
    company's members to consider the proposal to wind up; and
-• the resolution to wind up is passed within ﬁve weeks of the making of the
+• the resolution to wind up is passed within five weeks of the making of the
    declaration.
 It is an offence for a director to make a declaration without having reasonable
 grounds for the opinion as to solvency: s 494(4). A director has the burden of
@@ -130,7 +130,7 @@ If the last action is taken then the liquidator must lay before the meeting a
 statement of the assets and liabilities of the company. The notice convening the
 
 1 See also Re Grundy Organisation Pty Ltd [2010] NSWSC 1432.
-2 It should be noted that this deﬁnition of solvency differs from that in s 95(1).
+2 It should be noted that this definition of solvency differs from that in s 95(1).
 442    Keay's Insolvency: Personal and Corporate Law and Practice                [11.20]
 
 meeting must draw the attention of the creditors to their right to appoint some
@@ -199,7 +199,7 @@ court to set aside the winding up resolution. Procedural irregularities may be
 overlooked (see s 1322) but a deliberate failure to give notice to a person entitled to
 notice of a meeting may be considered to be more than a procedural irregularity: Re
 PW Saddington & Sons Pty Ltd (1990) 19 NSWLR 674, 675.3 The court in Mamouney v
-Soliman (1992) 9 ACSR 63, 72 said, "the more signiﬁcant the resolutions passed at
+Soliman (1992) 9 ACSR 63, 72 said, "the more significant the resolutions passed at
 the meeting, and the greater the procedural defects, the more ready the court will
 be to say that they have caused or may cause substantial injustice". A failure to
 advertise the meeting will only be fatal if it causes substantial injustice: Re John
@@ -290,7 +290,7 @@ such orders. These include the company, a creditor, ASIC and APRA. While a
 creditor can apply under s 459A, in some cases it may rely on the "just and
 equitable" ground for seeking to wind up the company: s 461(1)(k). This ground is
 used in circumstances where there is a lack of probity in the conduct of the
-company's affairs, leading to a justiﬁable lack of conﬁdence in the administration of
+company's affairs, leading to a justifiable lack of confidence in the administration of
 the company. This may be shown where directors cause the company to enter into
 highly irregular and potentially dishonest transactions or where the history of the
 company indicates a failure to abide by its obligations and by commercial morality
@@ -332,7 +332,7 @@ occurs:
 • the company failed to comply with a s 459E statutory demand; this is the most
    common ground;
 • an execution process issued on a judgment in favour of a creditor was returned
-   wholly or partly unsatisﬁed;
+   wholly or partly unsatisfied;
 • a receiver was appointed in respect of property of the company pursuant to a
    circulating security interest;
 • an order was made for the appointment of a receiver for the purpose of enforcing
@@ -341,23 +341,23 @@ occurs:
    security interest; or
 • a person was appointed to enter into possession or assume control of property of
    a company.
-The ﬁrst two grounds are comparable with acts of bankruptcy: see Bankruptcy Act, s
+The first two grounds are comparable with acts of bankruptcy: see Bankruptcy Act, s
 40. See [3.175].
 
 Application must be made within three months
-[11.70] Importantly, any application for winding up the company must be ﬁled
+[11.70] Importantly, any application for winding up the company must be filed
 with the court within three months of the last date for compliance with the
 demand, or other presumed insolvency event listed above: s 459C(2). If there are
 multiple events recognised under s 459C which span both during and after the
-3-month time period, events that occur after the ﬁling of the application and
+3-month time period, events that occur after the filing of the application and
 outside the 3-month time period may still be given consideration by the court and
 are not to be disregarded simply because they occur after the winding up
 application is made: Equititrust Ltd v Willaire Pty Ltd [2012] QSC 206; Re Plutus
 Payroll Pty Ltd [2017] NSWSC 1360.
-In a case involving the ﬁling of an application for winding up before the 21 day
+In a case involving the filing of an application for winding up before the 21 day
 period had expired, through a miscalculation, the court held that the creditor could
 still rely upon the presumption of insolvency as long as the demand remained
-unsatisﬁed at the time of the hearing: Re DG Haulage Pty Ltd [2017] VSC 780.
+unsatisfied at the time of the hearing: Re DG Haulage Pty Ltd [2017] VSC 780.
 Of course, if the sole ground to support the insolvency presumption was the failure
 to comply with the demand then the presumption could not arise until a failure to
 comply had actually occurred: see s 459Q.7 It should be noted that the equivalent
@@ -367,14 +367,14 @@ comply had actually occurred: see s 459Q.7 It should be noted that the equivalen
   [2017] NSWSC 1360.
 [11.85]                                         11 Voluntary and Compulsory Winding Up     447
 
-period in bankruptcy is that a petition must be ﬁled within six months of the date
+period in bankruptcy is that a petition must be filed within six months of the date
 of the commission of the act of bankruptcy: see [3.170].
 These presumptions, in general, apply to applications under ss 232, 459P, 462 or
 464. If any of the above presumptions can be invoked, the company is regarded as
 insolvent unless the company proves to the contrary: s 459C(3).
 
 Statutory demands – the most common way to prove insolvency
-[11.75] The ﬁrst ground available for proving insolvency is that of non-
+[11.75] The first ground available for proving insolvency is that of non-
 compliance with a statutory demand. It is the ground most used by creditors,
 because of its relative simplicity and convenience, and a substantial body of law
 has grown up in relation to demands. Similarly, in bankruptcy law, as we have
@@ -388,17 +388,17 @@ Comparisons with bankruptcy notices
 achieves the same purpose. Service of a demand sets in motion proceedings for a
 company's compulsory winding up; hence the procedure prescribed for demands
 must be strictly adhered to. Thus, it has been said that because creditors can gain
-the beneﬁt of presumed insolvency by way of the demand process, creditors should
+the benefit of presumed insolvency by way of the demand process, creditors should
 ensure that demands are expressed in clear, correct and unambiguous terms: Topfelt
 Pty Ltd v State Bank of NSW Ltd (1993) 47 FCR 226. In that decision, Lockhart J said:
-   "A creditor who issues a statutory demand under the Corporations Law gains the beneﬁt of
+   "A creditor who issues a statutory demand under the Corporations Law gains the benefit of
    the presumption of insolvency if the notice is not complied with: and the additional
-   beneﬁt that the company may not oppose the application to wind it up on a ground
+   benefit that the company may not oppose the application to wind it up on a ground
    relating to a defect in the statutory demand, without the leave of the court, because of the
    provisions of s 459S of the Corporations Law.
    It is not asking too much that creditors who issue statutory demands under the
    Corporations Law should ensure that the demands are expressed in clear, correct and
-   unambiguous terms. If the creditors wish to have the beneﬁt of the presumption of
+   unambiguous terms. If the creditors wish to have the benefit of the presumption of
    insolvency, the least they can do is to tell the debtor companies in clear terms what
    amounts are due, whether they include interest or not, and, if so, the amount."
 Similar comments have been made about bankruptcy notices: see [3.295].
@@ -417,7 +417,7 @@ following requirements:
 • it must specify the debt claimed and if it relates to two or more debts the
   demand must specify the total of the amounts. The creditor must at least indicate
   the nature of the debt relied upon, for example, goods supplied and delivered.8
-  But there are no mechanical rules as to whether the demand sufficiently speciﬁes
+  But there are no mechanical rules as to whether the demand sufficiently specifies
   the debt – it is a question of fact in each case. Failure to specify the nature of the
   debt is a defect in the demand, but it may not cause substantial injustice such
   that the demand is invalid (see s 459J(1)(a)). A failure to specify the amount of
@@ -434,11 +434,11 @@ following requirements:
   Regulations); and
 • it must be signed by or on behalf of the creditor.11
 While a demand is to be in accord with the prescribed form, strict compliance is not
-necessary provided there is substantial compliance. The deﬁnition of statutory
+necessary provided there is substantial compliance. The definition of statutory
 demand in s 9 of the Act includes anything that purports to be a statutory
 demand.12 Of course the document purporting to be a statutory demand may be so
 unclear, or may depart so far from the required form, that the document cannot
-properly be characterised as a statutory demand.13 Only deﬁciencies of a gross and
+properly be characterised as a statutory demand.13 Only deficiencies of a gross and
 exceptional character would deny a document the status of a statutory demand.14
 
 The creditor's debt
@@ -447,7 +447,7 @@ payable15 (Corporations Act, s 459E(1)(a)) and which are immediately recoverable
 
 8 Jarena Pty Ltd v Sholl Nicholson Pty Ltd (1996) 14 ACLC 531.
 9 Topfelt Pty Ltd v State Bank of NSW Ltd (1993) 47 FCR 226 (demand stated principal debt "plus interest"
-  from a speciﬁed day – it was held that the debtor should not be required to calculate the total amount
+  from a specified day – it was held that the debtor should not be required to calculate the total amount
   of interest in order to comply with the demand).
 10 Commonwealth Bank of Australia v Parform Pty Ltd (1995) 13 ACLC 1309.
 11 Where one creditor is bankrupt, s 62 of the Bankruptcy Act (as to the rights of a non-bankrupt
@@ -456,7 +456,7 @@ payable15 (Corporations Act, s 459E(1)(a)) and which are immediately recoverable
    half the amount on trust for the trustee in bankruptcy: Re Kevin McNamara & Son Pty Ltd [2014] VSC
    337.
 12 See further, Kalamunda Meat Wholesalers Pty Ltd v Reg Russell & Sons Pty Ltd (1994) 51 FCR 446;
-   Quitstar Pty Ltd v Cooline Paciﬁc Pty Ltd [2002] NSWCA 329; Re Lake Johnston Pty Ltd [2013] FCA 915.
+   Quitstar Pty Ltd v Cooline Pacific Pty Ltd [2002] NSWCA 329; Re Lake Johnston Pty Ltd [2013] FCA 915.
 13 Topfelt Pty Ltd v State Bank of NSW Ltd (1993) 47 FCR 226, 238.
 14 Crema (Vic) Pty Ltd v Land Mark Property Developments (Vic) Pty Ltd [2006] VSC 338; (2006) 58 ACSR
    631. See also Slap Corp Pty Ltd v Civil, Infrastructure & Logistics Pty Ltd (2017) 50 VR 542; [2017] VSC
@@ -469,7 +469,7 @@ or unliquidated.18 A quantum meruit may be relied upon to support a statutory
 demand, however, provided that the parties have agreed to the process of valuing
 the work done.19
 The debt or debts claimed in the demand must total at least "the statutory
-minimum" (s 459E(1)), presently set at $2,000: s 9. A demand that claims signiﬁcant
+minimum" (s 459E(1)), presently set at $2,000: s 9. A demand that claims significant
 amounts not due may be set aside: see [11.170]. A multiple number of creditors are
 not allowed to serve a single demand on one company – it is a defect which would
 cause a substantial injustice. However, separate demands can be issued for each
@@ -483,10 +483,10 @@ v Finance and Mortgage Corp (NSW) Pty Ltd (1997) 15 ACLC 76.20 Even a creditor's
 contemporaneous reliance on two different recovery means can give rise to "some
 other reason" to set the demand aside: Re Zarzar Pty Ltd [2017] NSWSC 93.
 
-Demand not based on a judgment debt to be veriﬁed by affidavit
+Demand not based on a judgment debt to be verified by affidavit
 [11.95] Importantly, and unlike a bankruptcy notice, a demand need not be
 based on a money judgment. In cases where there is no judgment,21 the demand
-must be accompanied by an affidavit which veriﬁes that the debt is due and
+must be accompanied by an affidavit which verifies that the debt is due and
 payable: s 459(3)(a). Even where there is a judgment, if the amount claimed in the
 demand is different from the judgment amount, an affidavit explaining this is
 required: Anderson Formrite Pty Ltd v CASC Hire Pty Ltd [2005] FCA 1424; (2005) 147
@@ -512,11 +512,11 @@ That person must have direct knowledge of the relevant indebtedness.22
 
 Form 7 requires the creditor to depose that they "believe that there is no genuine
 dispute about the existence or amount of the (debt)". If that statement is not made
-and veriﬁed, the demand will be invalid: Kisimul Holdings Pty Ltd v Clear Position
+and verified, the demand will be invalid: Kisimul Holdings Pty Ltd v Clear Position
 Pty Ltd [2014] NSWCA 262.
 In that case the Court (at [33]-[34]) emphasised that the "quality of the debt as
 undisputed is central to the proper working of Part 5.4", given the presumption of
-insolvency that follows from non-payment. A creditor seeking the beneﬁt of the
+insolvency that follows from non-payment. A creditor seeking the benefit of the
 statutory presumption of insolvency through service of a statutory demand:
    has a responsibility to ensure that, so far as it is aware, the debt relied on is owing, due,
    payable and undisputed – or, more accurately, a responsibility not to rely on the debt
@@ -526,7 +526,7 @@ statutory presumption of insolvency through service of a statutory demand:
    responsibility and has conscientiously formed a belief that the responsibility has been
    discharged.
    The statement by the deponent of the s 459E(3) affidavit of belief of absence of genuine
-   dispute therefore provides a signiﬁcant measure of assurance that the objectives of Part
+   dispute therefore provides a significant measure of assurance that the objectives of Part
    5.4 are being observed by the creditor. Absence of the statement means that that measure
    of assurance is lacking and puts the recipient company into a position of uncertainty from
    which the legislation intends that it should be protected.
@@ -538,7 +538,7 @@ aside, which is discussed below.
 The demand must correctly state the debtor company's name and its registered
 office. The demand can say that payment be made to the creditor's solicitors.23
 If the name of the creditor is incorrect the court will consider whether the demand
-correctly identiﬁes the party who claims to be entitled to be paid: Re Macro
+correctly identifies the party who claims to be entitled to be paid: Re Macro
 Constructions Pty Ltd [1994] 2 Qd R 31. The courts have generally not allowed minor
 errors to frustrate the purpose of the statutory demand regime. The grounds for
 setting aside statutory demands (including minor and major defects) are discussed
@@ -551,7 +551,7 @@ posting it to, its registered office; or delivering a copy of the document perso
 a director of the company who resides in Australia or in an external Territory
 (s 109X(1)).
 The date of service of a demand can be critical given that a company has 21 days
-after service to ﬁle any application to set it aside. When a demand is served by
+after service to file any application to set it aside. When a demand is served by
 
 23 Re Leac Engineering Pty Ltd [1991] FCA 937; (1991) 10 ACLC 74.
 [11.100]                                             11 Voluntary and Compulsory Winding Up         451
@@ -584,7 +584,7 @@ However, if the creditor had known of the change of registered office and sought
 gain advantage by posting the statutory demand to the old address, "fair notice"
 would not have been given to the company and in such a case the court would
 prevent the creditor from relying on literal compliance with the statutory
-provisions for service: Chief Commissioner of Stamp Duties v Paliﬂex Pty Ltd [1999]
+provisions for service: Chief Commissioner of Stamp Duties v Paliflex Pty Ltd [1999]
 NSWSC 15; (1999) 17 ACLC 467. Section 29(1) allows a company to prove that a
 demand properly addressed to its registered office was not delivered in the
 ordinary course of post; but mere proof of non-receipt of a document is not
@@ -666,7 +666,7 @@ the company seeks to set aside the demand under s 459G. The court may extend
 the time for compliance when hearing an application pursuant to s 459G:
 s 459F(2)(a)(i). If an application is made under s 459G and the court makes no order
 extending the time then the time for compliance ends seven days after the
-application is ﬁnally determined: s 459F(2)(a)(ii). The court may not extend time
+application is finally determined: s 459F(2)(a)(ii). The court may not extend time
 after it has expired: Aussie Vic Plant Hire Pty Ltd v Esanda Finance Corporation Ltd
 [2008] HCA 9; (2008) 232 CLR 314.
 
@@ -676,7 +676,7 @@ seeks to challenge the demand and have it set aside on the basis of some defect 
 the demand or its process of issue.30 Part 5.4 Div 3 of the Corporations Act seeks to
 provide "a complete code for the resolution of disputes involving statutory
 demands, and to do so on the basis of the commercial justice of the matter, rather
-than on the basis of technical deﬁciencies": "Explanatory Memorandum to the
+than on the basis of technical deficiencies": "Explanatory Memorandum to the
 Corporate Law Reform Bill 1992 (Cth)", [688]. The law purports to provide a means
 of dealing with disputes in such a way that an alleged defect does not cause
 proceedings, which are preliminary to the commencement of liquidation, to be
@@ -685,8 +685,8 @@ point when winding up proceedings are commenced: [689]. The process is similar,
 both in purpose and procedure, to the provisions of the Bankruptcy Act that deal
 with the setting aside of bankruptcy notices.
 The two sections which provide the grounds for setting aside demands are ss 459H
-and 459J of the Corporations Act. These will be discussed below. We ﬁrst examine
-the application that may be ﬁled by a debtor company under s 459G based on these
+and 459J of the Corporations Act. These will be discussed below. We first examine
+the application that may be filed by a debtor company under s 459G based on these
 grounds.
 
 Application to the court – s 459G
@@ -707,7 +707,7 @@ An application can generally be made to set aside multiple statutory demands
 though it will depend on whether there is a common underlying factual basis to
 them. For example, two demands may be served by the same creditor; or there may
 be statutory demands served by different defendants.32
-An order dismissing a s 459G application is interlocutory in nature and not ﬁnal, so
+An order dismissing a s 459G application is interlocutory in nature and not final, so
 leave to appeal is needed: MNWA Pty Ltd v Deputy Commissioner of Taxation (2016)
 117 ACSR 446; [2016] FCAFC 154.
 
@@ -726,21 +726,21 @@ support of an application to set aside a demand.33
 It will be sufficient if the grounds of challenge can be drawn by inference from the
 affidavit.34 However, the Graywinter principle also provides that an affidavit that is
 insufficient cannot be added to at a later date, after the expiry of the 21 days.35 An
-applicant may, however, ﬁle further affidavits to support the original grounds for
+applicant may, however, file further affidavits to support the original grounds for
 setting the demand aside. That is: "The court can act on supplementary affidavits
-ﬁled outside the 21 day period that expand on the grounds raised in an affidavit
-ﬁled within the 21 days, but the court cannot act on new grounds raised by an
-affidavit ﬁled outside the 21 day period": Jian Xing Knitting Factory v SCASA Pty Ltd
+filed outside the 21 day period that expand on the grounds raised in an affidavit
+filed within the 21 days, but the court cannot act on new grounds raised by an
+affidavit filed outside the 21 day period": Jian Xing Knitting Factory v SCASA Pty Ltd
 [2004] SASC 152 at [18]. As Black J explained in Re Rockwall Homes Pty Ltd [2017]
 NSWSC 223 at [33]:
-   "The balance of authority establishes that the Graywinter principle raises a fact-speciﬁc
+   "The balance of authority establishes that the Graywinter principle raises a fact-specific
    inquiry as to whether the affidavit in support of an application to set aside a creditor's
    statutory demand in fact supports that application, and the initial affidavit will sufficiently
    raise a relevant ground of dispute if that ground is raised by a necessary or reasonably
    available inference, including from documents exhibited to that affidavit."
 
-The 21 days is a deﬁnite time limit – David Grant & Co v Westpac
-[11.130]   If the debtor company fails to ﬁle and serve its application and affidavit
+The 21 days is a definite time limit – David Grant & Co v Westpac
+[11.130]   If the debtor company fails to file and serve its application and affidavit
 within 21 days of being served with the demand, s 1322 of the Corporations Act,
 
 32 See the discussion in Greenhills Securities Pty Ltd v Loire Consultants Pty Ltd [2015] NSWSC 13.
@@ -751,13 +751,13 @@ within 21 days of being served with the demand, s 1322 of the Corporations Act,
 35 See also Imagebuild Group Pty Ltd v Fokust Pty Ltd [2017] VSCA 131.
 [11.140]                                             11 Voluntary and Compulsory Winding Up        455
 
-cannot be used to extend the time for ﬁling because the time limit is fully
+cannot be used to extend the time for filing because the time limit is fully
 prescribed in s 459G(2): David Grant & Co Pty Ltd v Westpac Banking Corp (1995) 184
 CLR 265.
 If a company fails to apply in time, there is the safety net under s 459S in that if a
 company fails to comply with s 459G it may seek the leave of the court at any
 winding up hearing to, in effect, oppose the demand. However, the court may not
-grant leave unless it is satisﬁed that the ground is material to proving that the
+grant leave unless it is satisfied that the ground is material to proving that the
 company is solvent: s 459S(2). See [11.305].
 A company, or the creditor, may appeal from a judge's decision concerning the
 validity of the demand: see [11.205].
@@ -766,7 +766,7 @@ Challenging the demand after 21 days
 [11.135] Section 459S of the Corporations Act, refers to "a ground … that the
 company could have … relied on [in an application to set aside the statutory
 demand]". It presupposes that the company was in a position, at any time during
-the 21-day period speciﬁed by s 459S(2), to raise the relevant grounds in an
+the 21-day period specified by s 459S(2), to raise the relevant grounds in an
 application to set aside the demand. In Perpetual Nominees v Masri Apartments [2004]
 NSWSC 551; (2004) 22 ACLC 975, Austin J found that demands, though properly
 served by posting, were not received until after service of the originating processes,
@@ -782,7 +782,7 @@ procedure".36
 Austin J said that in such cases (Perpetual Nominees v Masri Apartments (No 2) [2004]
 NSWSC 551; (2004) 22 ACLC 975, 979):
    "fairness requires that the company be permitted to raise those issues at the only hearing
-   available to it, namely the ﬁnal hearing of the application for winding up, even though to
+   available to it, namely the final hearing of the application for winding up, even though to
    that extent one reverts to the old practice which the Harmer reforms were intended to
    reverse."37
 
@@ -791,7 +791,7 @@ Extension of the 21 days may be granted
 of time to comply with a demand is brought before the expiry of the time set for
 
 36 See also Re Tomic Industries Pty Ltd [2012] NSWSC 1478.
-37 An extension of that concession was identiﬁed in Shakespeares Pie Co Australia Pty Ltd v Multipye Pty
+37 An extension of that concession was identified in Shakespeares Pie Co Australia Pty Ltd v Multipye Pty
    Ltd [2006] NSWSC 100, as to the defendant company in a winding up application becoming aware
    after the s 459G challenge period had ended of new matters "previously not only unknown but also
    unascertainable".
@@ -806,7 +806,7 @@ Grounds for setting aside demands: ss 459H and 459J
 grounds which are found in ss 459H and 459J which specify the grounds as bases
 for the court deciding to set aside a demand:
 • if there is a genuine dispute about the existence of the debt (s 459H(1)(a));
-• if the company has an offsetting claim (as deﬁned, s 459H(1)(b));
+• if the company has an offsetting claim (as defined, s 459H(1)(b));
 • if there is a defect in the demand and substantial injustice will be caused if the
    demand is not set aside (s 459J(1)(a));
 • if there is some other reason why the demand should be set aside: s 459J(1)(b).
@@ -817,8 +817,8 @@ Section 459H(1)(a): genuine dispute about the debt
 aside on the basis that there is a genuine dispute about the existence of the debt.
 This issue may arise because a demand need not be based on a court judgment,
 where any issue of dispute might otherwise have been resolved. That being the
-case, courts will be concerned to ensure that creditors, who have the beneﬁt of the
-demand process without ﬁrst obtaining judgment, should not use that process as a
+case, courts will be concerned to ensure that creditors, who have the benefit of the
+demand process without first obtaining judgment, should not use that process as a
 debt collecting mechanism so as to coerce a party to pay a sum that is in dispute.40
 If the dispute has substance and is genuine, the company cannot be said to have
 failed to pay the sum demanded within the meaning of the deemed insolvency
@@ -854,7 +854,7 @@ The test that is often referred to is that given in Re Morris Catering (Australi
    "There is little doubt that Division 3 … prescribes a formula that requires the Court to
    assess the position between the parties, and preserve demands where it can be seen that
    there is no genuine dispute and no sufficient genuine offsetting claim. That is not to say
-   that the Court will examine the merits or settle the dispute. The speciﬁed limits of the
+   that the Court will examine the merits or settle the dispute. The specified limits of the
    court's examination are the ascertainment of whether there is a 'genuine dispute' or
    whether there is a 'genuine claim'.
    It is often possible to discern the spurious, and to identify mere bluster or assertion. But
@@ -865,7 +865,7 @@ The test that is often referred to is that given in Re Morris Catering (Australi
    the likely result of it) and to identify the genuine level of an offsetting claim (not the likely
    result of it)."
 The test has been variously described by other courts, that the court should be
-satisﬁed that there is a serious question to be tried (Scanhill Pty Ltd v Century 21
+satisfied that there is a serious question to be tried (Scanhill Pty Ltd v Century 21
 Australasia Pty Ltd (1993) 47 FCR 451, 467), or as on an application for an
 interlocutory injunction (Eyota Pty Ltd v Hanave Pty Ltd (1994) 12 ACSR 785, 787;
 Spencer Constructions Pty Ltd v G & M Aldridge Pty Ltd (1997) 76 FCR 452); that the
@@ -895,7 +895,7 @@ agreement (Re Litigation Insurance Pty Ltd [2017] NSWSC 334). Where there are su
 458    Keay's Insolvency: Personal and Corporate Law and Practice                  [11.160]
 
 matters of rational controversy and cogency of evidence, the court should exercise
-some restraint in ﬁnding there is no genuine dispute.
+some restraint in finding there is no genuine dispute.
 The Court in Litigation Insurance Pty Ltd explained this in saying that "the court
 dealing with a s 459G application is not compelled to determine questions of
 construction of documents ... s 459G proceedings are not ordinarily the occasion for
@@ -926,7 +926,7 @@ no debt to found the statutory demand. The ability to appeal against a tax debt
 does not give rise to a genuine dispute as the debt is established by statute and has
 legal effect: DCT v Broadbeach Properties Pty Ltd [2008] HCA 41; (2008) 237 CLR 473.
 Where there is a judgment or order which precludes a contention that there is a
-genuine dispute, but there is on foot a bona ﬁde appeal from that judgment or
+genuine dispute, but there is on foot a bona fide appeal from that judgment or
 order, the court may, under Corporations Act, s 459M, as a condition of setting aside
 the demand, order that the plaintiff company pay the money into court: Midas
 Management Pty Ltd v Equator Communications Pty Ltd [2007] NSWSC 759; (2007) 25
@@ -951,7 +951,7 @@ proceedings: Professional Advantage Pty Ltd v Australian Broadcasting Commission
 [2007] NSWSC 607; CGI Information Systems and Management Consultants Pty Ltd v
 APRA Consulting Pty Ltd [2003] NSWSC 728; (2003) 47 ACSR 100 at [18]-[22]. The
 creditor may also be liable to pay damages for abuse of process.44
-However, just because there is a bona ﬁde dispute on substantial grounds does not,
+However, just because there is a bona fide dispute on substantial grounds does not,
 necessarily, mean that there has been an abuse of process: Re Bond Corporation
 Holdings Ltd [1990] 1 WAR 465. Such an abuse would be found if the company
 brings proceedings to set aside a demand in circumstances where there is no
@@ -967,7 +967,7 @@ Demands used for debt recovery
 the creditor, case law indicates that demands should not be used as a fast-track
 alternative to taking action in the courts for recovery of alleged debts. It is said that
 winding up proceedings are to be used for the winding up of companies for the
-beneﬁt of all creditors (Intergraph Public Safety Pty Ltd v Tess Lawrence Media Services
+benefit of all creditors (Intergraph Public Safety Pty Ltd v Tess Lawrence Media Services
 Pty Ltd (1996) 14 ACLC 1234) and the liquidation process is not to be used for the
 simple pursuit of debts45 where normal court processes are to be used: CVC
 Investments Pty Ltd v PT Aviation (1989) 18 NSWLR 295; Radiancy (Sales) Pty Ltd v
@@ -987,7 +987,7 @@ inability to pay its debts as they fall due may be proved in liquidation
 460      Keay's Insolvency: Personal and Corporate Law and Practice                            [11.175]
 
 proceedings".47 The reality is that statutory demands are often served on
-companies by creditors who have no intention of ﬁling winding up proceedings, as
+companies by creditors who have no intention of filing winding up proceedings, as
 a strategy to persuade a company to pay a debt (often where all else has failed) by
 instilling apprehension (the creditor hopes) in the company that the creditor may
 succeed in having it wound up. The debtor company does not know, in most cases,
@@ -996,9 +996,9 @@ The fact that a demand, unlike a bankruptcy notice, is issued by the creditor it
 and need not be based on a money judgment, promotes its ready use. In any event,
 non-payment of a debt that is due may be an indicator of insolvency and the debtor
 company must take that into account.
-That debt recovery strategy may extend to the creditor then ﬁling a winding up
+That debt recovery strategy may extend to the creditor then filing a winding up
 application with the court. Although, as with bankruptcy, such an application is
-brought for the beneﬁt of all creditors, the reality is if that creditor is paid, its own
+brought for the benefit of all creditors, the reality is if that creditor is paid, its own
 purposes will have been served. If no other creditor seeks leave to be substituted
 and take over the winding up application, the court will readily dismiss the
 proceedings.
@@ -1034,9 +1034,9 @@ minimum then the demand will be set aside.
    ACSR 296.
 [11.175]                                             11 Voluntary and Compulsory Winding Up        461
 
-If an original demand was grossly inﬂated by the inclusion of matters which are
+If an original demand was grossly inflated by the inclusion of matters which are
 clearly genuinely in dispute, the court can decline to vary it under s 459H(4).49
-An offsetting claim is deﬁned in s 459H(5) and means a genuine counter-claim,
+An offsetting claim is defined in s 459H(5) and means a genuine counter-claim,
 set-off or cross-demand which the company has against, necessarily, the creditor
 who issued the demand.50 The claim must be made in good faith, meaning that it is
 arguable on the basis of facts that are asserted "with sufficient particularity to
@@ -1044,9 +1044,9 @@ enable the Court to determine that the claim is not fanciful": Macleay Nominees 
 Belle Property East Pty Ltd [2001] NSWSC 743.
 While an offsetting claim does not have to be for a liquidated amount (Classic
 Ceramic Importers (1994) 13 ACSR 263), "only a claim which is capable of being
-quantiﬁed as an amount of money can qualify as an 'offsetting claim'": Chase
+quantified as an amount of money can qualify as an 'offsetting claim'": Chase
 Manhattan Bank Australia Ltd v Oscty Pty Ltd (1995) 17 ACSR 128, 135. An offsetting
-claim is not conﬁned to a debt which is presently due and payable. For example, in
+claim is not confined to a debt which is presently due and payable. For example, in
 the case of costs that are yet to be taxed, the amount claimed may constitute an
 offsetting claim. In such a case the demand may be set aside but on conditions that
 the costs be taxed or assessed: Fleur De Lys Pty Ltd v Jarrett [2005] NSWSC 1357;
@@ -1058,8 +1058,8 @@ ACSR 170. See further Body Corporate Repairers Pty Ltd v Oakley Thompson & Co Pt
 Ltd [2017] VSC 435.
 In such cases, the question for the court is "whether there is a genuine
 counter-claim, set-off or cross-demand against the Defendant and if so, in what
-amount. In particular, how should it be quantiﬁed; at a nominal $1 or at a large
-ﬁgure and if the latter, how is the quantiﬁcation to be arrived at?"51
+amount. In particular, how should it be quantified; at a nominal $1 or at a large
+figure and if the latter, how is the quantification to be arrived at?"51
 As with the question whether there is a genuine dispute under para (a) of
 s 459H(1), in deciding whether there is an offsetting claim under para (b), it is not
 the court's task to seek to resolve the competing claims of the parties: Goldspar
@@ -1067,7 +1067,7 @@ Australia Pty Ltd v KWA Design Group Pty Ltd (1999) 17 ACLC 456, 462. However,
 there is some difference in approach between the two issues in the two paragraphs
 of s 459H(1).
 In determining whether there is a genuine dispute about a debt under s 459H(1)(a),
-the court asks, as we have seen, whether it is bona ﬁde, real and not spurious or
+the court asks, as we have seen, whether it is bona fide, real and not spurious or
 misconceived.
 In contrast, the question of whether there is an offsetting claim under s 459H(1)(b)
 involves a different and heavier test. It should raise "a serious question to be tried"
@@ -1093,7 +1093,7 @@ or "some other reason"
 [11.180]      Section 459J of the Corporations Act provides:
    459J Setting aside demand on other grounds:
    (1) On an application under section 459G, the Court may by order set aside the demand
-       if it is satisﬁed that:
+       if it is satisfied that:
        (a) because of a defect in the demand, substantial injustice will be caused unless the
             demand is set aside; or
        (b) there is some other reason why the demand should be set aside.
@@ -1109,14 +1109,14 @@ defect in the demand: Spencer Constructions Pty Ltd v G & M Aldridge Pty Ltd (19
 That is, a defective demand is only to be set aside if a substantial injustice would
 otherwise be caused; but if there is any other defect, including a defect in relation to
 the demand rather than in the demand itself, the demand may be set aside only if
-the court is satisﬁed that there is some reason for doing so going beyond that mere
+the court is satisfied that there is some reason for doing so going beyond that mere
 defect.
 
 Is there substantial injustice?: s 459J(1)(a)
 [11.185]    The question whether there is substantial injustice does often arise
 because of some defect in the demand itself. The presence of a defect will not cause
 a demand to be set aside unless it would lead to a substantial injustice: s 459J(1)(a).
-"Defect" is deﬁned in s 9 as including an irregularity, misstatement of an amount or
+"Defect" is defined in s 9 as including an irregularity, misstatement of an amount or
 total, a misdescription of either a debt or other matter on the one hand or a person
 or entity on the other. The primary ground upon which it may be established that a
 defect will give rise to injustice will be where the defect makes it difficult for the
@@ -1144,14 +1144,14 @@ But there must be shown an injustice for the company; a demand is not to be set
 aside simply as a way of punishing the creditor for being lax in not complying with
 the form: Hornet Aviation Pty Ltd v Ansett International Air Freight [1994] FCA 1533;
 (1995) 13 ACLC 613.
-Examples of situations where the court has refused to ﬁnd that a defect gives rise to
+Examples of situations where the court has refused to find that a defect gives rise to
 substantial injustice include:
 • failing to provide an address for service in the jurisdiction (Daewoo Australia v
   Suncorp Metway [2000] NSWSC 35; (2000) 48 NSWLR 692);
 • misdescription of statutory provisions (eg, referring to the Corporations Law
-  rather than Corporations Act) (Quitstar Pty Ltd v Cooline Paciﬁc Pty Ltd [2003]
+  rather than Corporations Act) (Quitstar Pty Ltd v Cooline Pacific Pty Ltd [2003]
   NSWCA 359; (2003) 48 ACSR 222);
-• where there is a minor deﬁciency in compliance with statutory requirements or
+• where there is a minor deficiency in compliance with statutory requirements or
   court rules: Dolvelle Pty Ltd v Australian Macfarms Pty Ltd (1998) 43 NSWLR 717.
 On the other hand, including debts that are not yet due in the statutory demand
 has been found to be a defect that results in substantial injustice: Portrait Express
@@ -1167,7 +1167,7 @@ Access Elevators Australia Pty Ltd [2016] NSWSC 739.
 
 "Some other reason": s 459J(1)(b)
 [11.190]    Section 459J(1)(b) of the Corporations Act states that a court may order a
-demand to be set aside if satisﬁed that there is some other reason for the setting
+demand to be set aside if satisfied that there is some other reason for the setting
 aside of the demand.
 The scope of s 459J(1)(b) as a remedial provision has been examined in several
 cases. For example, in Hoare Bros Pty Ltd v DCT (1996) 62 FCR 302, the Full Federal
@@ -1185,7 +1185,7 @@ Reform Bill 1992 (Cth)", which introduced the new provisions concerning statutor
 demands, noting its explanation at [687] that s 459J(1)(b) would enable the court to
 take into account matters such as improper or invalid service and mistakes or
 misstatements in the statutory demand, in circumstances where this would
-signiﬁcantly prejudice any party. The court noted another example54 where a
+significantly prejudice any party. The court noted another example54 where a
 creditor unreasonably refuses the company's offer to meet the debt. In Arcade Badge
 Embroidery Co Pty Ltd v Deputy Commissioner of Taxation [2005] ACTCA 3; 157 ACTR
 22, the creditor had agreed to withdraw the statutory demand but later reneged on
@@ -1196,7 +1196,7 @@ The need for the affidavit verifying the demand to be accurate given the
 responsibilities attaching to the officer swearing it was noted earlier. In Kezarne Pty
 Ltd v Sydney Asbestos Removal Services Pty Ltd (1998) 29 ACSR 11, the demand was
 set aside under s 459J(1)(b) where the affidavit verifying it had failed to comply
-with the rules in "at least ﬁve … respects".
+with the rules in "at least five … respects".
 The scope of s 459J(1)(b) has to be assessed within the strict statutory regime of
 Pt 5.4 Divs 2 and 3 and the purposes of the legislation. A demand has therefore
 been set aside because it was made for a purpose other than that contemplated by
@@ -1215,7 +1215,7 @@ ACSR 468.
 Solvency alone is not a sufficient "other reason" for setting aside the demand:
 Chippendale Printing Co Pty Ltd v DCT (1995) 55 FCR 562. This is because, amongst
 other things, the Corporations Act shows an intention that the issue of solvency is to
-be the subject of a ﬁnal determination in the winding up proceedings, whereas the
+be the subject of a final determination in the winding up proceedings, whereas the
 
 54 General Insolvency Inquiry, DP 32 (1987) at [114].
 55 DCT v Broadbeach Properties Pty Ltd (2008) 237 CLR 473; Meehan v Glazier Holdings Pty Ltd (2005) 53
@@ -1239,7 +1239,7 @@ unconscionability, abuse of process and substantial injustice are used, the real
 question is whether there is good reason to deny effect to a statutory demand as
 creating a ground for the winding up of the debtor company: Neutral Bay Pty Ltd v
 Deputy Commissioner of Taxation [2007] QCA 312; 25 ACLC 1341. Section 459J(1)(b) is
-not concerned with triﬂes: Plate Impressions Pty Ltd v JRL Consortium Group Pty Ltd
+not concerned with trifles: Plate Impressions Pty Ltd v JRL Consortium Group Pty Ltd
 [2016] QSC 274.
 
 Consequences of demand being set aside
@@ -1250,11 +1250,11 @@ may attach conditions (s 459M, such as payment of the money into court) and the
 court may, if it sets aside the demand, order the creditor who served the demand to
 pay the company's costs: s 459N.
 
-Unsatisﬁed execution
+Unsatisfied execution
 [11.200]    It remains to explain one other common way of securing a presumption
 of insolvency. A company will be deemed to be insolvent if execution or other
 processes issued on a judgment, decree or order of any court in favour of a creditor
-is returned unsatisﬁed in whole or in part: s 459C(2)(b). This is the equivalent of the
+is returned unsatisfied in whole or in part: s 459C(2)(b). This is the equivalent of the
 act of bankruptcy under s 40(1)(d)(ii) of the Bankruptcy Act: see [3.185].
 In certain circumstances, a court has the right to go behind the judgment on which
 the execution proceedings were based. As we have seen in bankruptcy law, courts
@@ -1281,17 +1281,17 @@ apply for the winding up of a company in insolvency:
    (a) the company;
    (b) a creditor (even if the creditor is a secured creditor or is only a contingent or
        prospective creditor);59
-   (c) a contributory (deﬁned in s 9 and generally means a past or present member);
+   (c) a contributory (defined in s 9 and generally means a past or present member);
    (d) a director;
    (e) a liquidator or provisional liquidator of the company;
    (f) ASIC;
    (g) a prescribed agency. Under Corporations Regulations, reg 5.4.01, the only agency
        prescribed is the Australian Prudential Regulation Authority (APRA) which regulates
        insurers, superannuation funds, banks and the like. In the case of some such entities,
-       there is speciﬁc legislation that gives APRA the right to apply for their winding up.
+       there is specific legislation that gives APRA the right to apply for their winding up.
 Some of these require leave of the court, under s 459P(2) – contingent60 or
 prospective creditors; a contributory;61 a director;62 and ASIC. The court may grant
-leave if it is "satisﬁed that there is a prima facie case that the company is insolvent,
+leave if it is "satisfied that there is a prima facie case that the company is insolvent,
 but not otherwise": s 459B(3).
 Leave may be given nunc pro tunc, that is, after the application has been brought:
 Masri Apartments v Perpetual Nominees [2004] NSWCA 471; (2004) 52 ACSR 136.
@@ -1304,7 +1304,7 @@ although it should be noted that persons with claims for unliquidated damages
 
 58 See further Assaf, Statutory Demands and Winding Up in Insolvency (2nd ed, LexisNexis Butterworths,
    2012).
-59 Thus a secured creditor is not conﬁned to relying upon its security, or is not required to surrender its
+59 Thus a secured creditor is not confined to relying upon its security, or is not required to surrender its
    security before being entitled to apply, as is the case in bankruptcy, under s 44 of the Bankruptcy Act:
    Re Gem Sapphires (Aust) Pty Ltd (1983) 8 ACLR 225; Masri Apartments Pty Ltd v Perpetual Nominees Ltd
    [2004] NSWCA 471; (2004) 52 ACSR 136.
@@ -1319,9 +1319,9 @@ As Santow J said in Roy Morgan Research Centre Pty Ltd v Wilson Market Research 
 Ltd (1996) 39 NSWLR 311, 322-323:
    "There is no compelling logic in making the class of those who can prove in a liquidation
    identical with those who can trigger it. There is a procedure in the winding up itself for
-   proof of debts and claims. This allows for the testing and ultimate quantiﬁcation of, for
+   proof of debts and claims. This allows for the testing and ultimate quantification of, for
    example, an unliquidated claim. This is absent at the initial point where application for
-   winding up is ﬁrst made.
+   winding up is first made.
    …
    Put shortly, insolvent companies, even if generally insolvent, are not to be put to the
    equivalent of citizens' arrest; particularly when the 'citizen' most likely to do this has yet
@@ -1347,7 +1347,7 @@ estimated. A prospective or future creditor is one who is owed a sum of money th
 is not immediately payable: Community Development Pty Ltd v Engwirda Construction
 Co (1969) 120 CLR 455.
 Section 459A states that the court may order the winding up of a company that is
-insolvent when an application under s 459P has been ﬁled. A court, in determining
+insolvent when an application under s 459P has been filed. A court, in determining
 whether a company is or is not insolvent, can take into account its contingent and
 prospective liabilities: s 459D. As we have seen, the wording of s 95A contemplates
 that in any event.
@@ -1413,19 +1413,19 @@ discussion.
 
 It remains to be said that there is no inherent jurisdiction of the court to make a
 winding up order even though no application has been made by a person within
-the speciﬁed categories of eligible applicants: Treadtel International Pty Ltd v Cocco
+the specified categories of eligible applicants: Treadtel International Pty Ltd v Cocco
 [2016] NSWCA 360; (2016) 316 FLR 318; Re IR Services (Qld) Pty Ltd [2017] NSWSC
 1823.
 
 Applying for winding up
 [11.220]    Winding up proceedings are initiated by an application – an originating
 process, Court Form 2 – and state the orders sought and the grounds upon which
-the application relies, supported by an affidavit.65 The date of ﬁling the application
-at the court registry is important because this date ﬁxes the relation-back day back
+the application relies, supported by an affidavit.65 The date of filing the application
+at the court registry is important because this date fixes the relation-back day back
 from which voidable transaction claims by the liquidator can be claimed (under
 Corporations Act, Pt 5.7B Div 2), if there is a subsequent winding up order made.
 The application must be served on the company within 14 days of the date the
-application is made and no later than ﬁve days before the date ﬁxed for hearing:
+application is made and no later than five days before the date fixed for hearing:
 s 465A(b); Courts' Corporations Rules, r 2.7(1). Under s 109X(1) of the Corporations
 Act, service can be effected by leaving the application at the company's registered
 office, sending it to that office by post, or delivering a copy of the document
@@ -1444,7 +1444,7 @@ must (s 459Q):
 
 Application must be determined within six months, or as extended
 [11.225]    An application must be determined by the court within six months of
-being made: s 459R(1). This time period may be extended by a court if it is satisﬁed
+being made: s 459R(1). This time period may be extended by a court if it is satisfied
 that special circumstances justify it and the order is made within the six months or
 any extension of time previously ordered: s 459R(2). In Expile Pty Ltd v Jabb's
 Excavations Pty Ltd [2002] NSWSC 851; (2002) 194 ALR 138 Hamilton J said (at [9]):
@@ -1483,7 +1483,7 @@ The exercise of the power to extend time is discretionary. Relevant factors incl
 whether the slip was accidental, how quickly an application was made to rectify it,
 whether the court itself was involved in the oversight and whether the application
 for winding up itself was of legal substance. It is also important to distinguish
-between the exercise of the discretion to correct an error so as to reﬂect the
+between the exercise of the discretion to correct an error so as to reflect the
 intention of the court and the existence of a statutory discretion which the earlier
 court omitted to exercise; the latter should not be the subject of exercise of the slip
 rule: Amorin Constructions Pty Ltd v Kamtech Electrical Services Pty Ltd [2008] NSWSC
@@ -1502,8 +1502,8 @@ grounds other than insolvency such as the "just and equitable" ground under s 46
 
 Consent of liquidator
 [11.235]     The applicant should obtain a signed "consent to act" of a registered
-liquidator before the hearing (s 532(9)) and ﬁle the consent (Court Form 8) with the
-court.67 That requires the liquidator to state that they are not aware of any conﬂict
+liquidator before the hearing (s 532(9)) and file the consent (Court Form 8) with the
+court.67 That requires the liquidator to state that they are not aware of any conflict
 of interest or duty that would make it improper for them to act as liquidator of the
 company.
 Publication
@@ -1511,7 +1511,7 @@ Publication
 opposing the application, notice of the application must be publicised, in
 accordance with Form 9, but only after at least three days after the originating
 process is served on the company (the "publication rule", see [11.250] and at least
-seven days before the date ﬁxed for hearing of the application: see Courts'
+seven days before the date fixed for hearing of the application: see Courts'
 Corporations Rules, r 5.6. Proof of publication of the notice is required: r 2.12.
 Publication is made on the Public Notices website: Corporations Regulations,
 reg 5.6.75.68
@@ -1520,12 +1520,12 @@ ASIC Form 519.
 
 Opposition to the winding up – s 465C
 [11.245]    If a person wishes to attend at the hearing of the application to support
-or oppose it there must be ﬁled at the court a notice of intention to appear, which
+or oppose it there must be filed at the court a notice of intention to appear, which
 must contain any grounds of opposition and must be accompanied by an affidavit:
 Courts' Corporations Rules, r 2.9(2). The notice and affidavit must be served on the
 applicant. These Rules merely supplement Corporations Act, s 465C which provides
-that a person may not appear and oppose an application without ﬁrst ﬁling a notice
-setting out the grounds of opposition, veriﬁed by an affidavit, unless leave of the
+that a person may not appear and oppose an application without first filing a notice
+setting out the grounds of opposition, verified by an affidavit, unless leave of the
 court is obtained. The court will grant leave where there is no prejudice to the
 applicant: Leslie v Howship Holdings Pty Ltd (1997) 15 ACLC 459.
 The company through its directors will be the one defending the winding up
@@ -1538,7 +1538,7 @@ application: Deangrove Pty Ltd v Commonwealth Bank of Australia [2001] FCA 173;
 Injunction to prevent winding up
 [11.250]   The three days delay on publication of the winding up application is
 meant to allow time for the company to seek an injunction order from the court to
-prevent the ﬁling and advertising of the winding up application, and thereby save
+prevent the filing and advertising of the winding up application, and thereby save
 it from adverse publicity and damage to its trading reputation. The winding up
 
 67 Courts' Corporations Rules, r 5.5, Form 8. See the ARITA Code for its recommended "Declaration of
@@ -1553,7 +1553,7 @@ disputed debt is regarded as an abuse of process where some more suitable means
 of determining the dispute is available and not pursued: Australian Beverage
 Distributors Pty Ltd v Evans and Tate Premium Wines Pty Ltd [2007] NSWCA 57;
 (2007) 69 NSWLR 374.
-Before the court can agree to grant an injunction it must be satisﬁed that there is a
+Before the court can agree to grant an injunction it must be satisfied that there is a
 serious question to be tried: Felkro Nominees Pty Ltd v DCT (1996) 21 ACSR 391. The
 court will also consider where the balance of convenience lies, that is, is it more
 convenient to allow the winding up application to proceed or not (ie depending
@@ -1584,21 +1584,21 @@ application that relies on the non-compliance with the terms of a statutory dema
 will not be dismissed merely because there was a defect in the demand: s 459J(2). A
 failure to advertise the winding up proceedings may be excused under s 467A,
 
-69 Williams v Spautz (1992) 174 CLR 509; Paciﬁc Communication Rentals Pty Ltd v Walker (1993) 12 ACSR
+69 Williams v Spautz (1992) 174 CLR 509; Pacific Communication Rentals Pty Ltd v Walker (1993) 12 ACSR
    287; David Grant & Co Pty Ltd v Westpac Banking Corp (1995) 184 CLR 265; House of Tan Pty Ltd v
    Beachiris Pty Ltd (1996) 21 ACSR 527. The last case indicated that the effect of Pt 5.4 of the
    Corporations Act is effectively to limit the exercise of the court's general jurisdiction to stay
    proceedings where there is an abuse of power (at 529).
-70 Argyll Park Thoroughbreds Pty Ltd v Glen Paciﬁc Pty Ltd (1992) 11 ACSR 1, 6; DCT v Peter Sleiman
+70 Argyll Park Thoroughbreds Pty Ltd v Glen Pacific Pty Ltd (1992) 11 ACSR 1, 6; DCT v Peter Sleiman
    Investments Pty Ltd [2016] NSWSC 1657.
 [11.260]                                    11 Voluntary and Compulsory Winding Up   473
 
 although the court may also adjourn the matter to allow advertising to proceed:
 Kozlowski v JSBG Developments Pty Ltd [2010] NSWSC 1022; Re DJG Securities Pty Ltd
 [2013] NSWSC 588.
-Frequently, companies do not ﬁle any notice of intention to appear and do not
+Frequently, companies do not file any notice of intention to appear and do not
 attend at the hearing. If this occurs, the applicant's lawyer will take the registrar
-through the documents ﬁled and seek the winding up order. Such uncontested
+through the documents filed and seek the winding up order. Such uncontested
 applications are usually disposed of on affidavit evidence. The registrar will raise
 any concerns about the documents and the circumstances surrounding the
 application.
@@ -1614,15 +1614,15 @@ of the company, the applicant or anyone who has given notice of their intention 
 appear at the hearing, the court may direct that notices be given or steps taken
 before or after the hearing; dispense with required steps; direct that oral evidence
 be taken on the application; direct a speedy hearing; permit the application to be
-amended or withdrawn; and otherwise give such directions as it sees ﬁt.
+amended or withdrawn; and otherwise give such directions as it sees fit.
 
 Adjournment
 [11.260]    The court may order an adjournment, but it is reluctant to allow lengthy
 adjournments, in particular, as s 459R of the Corporations Act requires applications
 to be determined within six months. While the court has the power to extend this
-time it must be satisﬁed of the existence of special circumstances before doing so:
+time it must be satisfied of the existence of special circumstances before doing so:
 s 459R(2)(a). Short adjournments are often permitted to enable formal defects to be
-attended to, to allow further affidavits to be ﬁled, and to permit time for
+attended to, to allow further affidavits to be filed, and to permit time for
 negotiations between the creditor and the company. Factors that a court is to take
 into account in deciding on an application for an adjournment are the period of
 time sought and the purpose of the adjournment: Waste Recycling and Processing
@@ -1653,14 +1653,14 @@ the application, for example, ill-will.73 However, if the company could establis
 that the real object was not to obtain a winding up order, but some other restraint
 upon the company, then a court might reject the application on the basis that it is an
 abuse of process.
-The court's right to refuse a winding up order is limited to some well-deﬁned
+The court's right to refuse a winding up order is limited to some well-defined
 principles. One potential new basis upon which to adjourn a matter is if the
 company puts on evidence that it is seeking to resolve its difficulties according to
 the safe harbour process outlined in s 588GA discussed in Chapter 21.
 
 Disputed debt
 [11.270]    Historically, the major reason for a court exercising its discretion and
-refusing to make a winding up order has been where there is a bona ﬁde dispute
+refusing to make a winding up order has been where there is a bona fide dispute
 based on some substantial ground concerning the debt which is the subject of the
 proceedings.74 The rationale for giving this opportunity is that a creditor should not
 be permitted to invoke winding up proceedings to compel the payment of a
@@ -1740,10 +1740,10 @@ when:78
   where the creditor's knowledge of the company is such that it knew that the
   company could rebut the presumption of insolvency: Paperlinx Ltd v Skidmore
   [2004] NSWSC 1624; (2004) 51 ACSR 614. In that case the company served with
-  the demand had a book value and operating proﬁt exceeding $100 million. The
+  the demand had a book value and operating profit exceeding $100 million. The
   court found that regardless of whether the plaintiff had discharged the judgment
   debt, the application to wind up was bound to fail. There may be abuse where
-  the winding up process is used in order to conduct a "ﬁshing expedition"80 or in
+  the winding up process is used in order to conduct a "fishing expedition"80 or in
   order to thwart family law proceedings of a wife being brought against the
   husband director: Roberts v Wayne Roberts Concrete Constructions Pty Ltd [2004]
   NSWSC 734; (2004) 50 ACSR 204;
@@ -1769,9 +1769,9 @@ cannot pay its debts:
 
 Tender of payment
 [11.280]    If the debtor company tenders payment of the applicant's debt after
-ﬁling of the application but before the hearing, and the tender is refused, those facts
+filing of the application but before the hearing, and the tender is refused, those facts
 may be relevant to the exercise of the court's discretion to decline to order a
-winding up. Tender and refusal of payment, even refusal without justiﬁcation, does
+winding up. Tender and refusal of payment, even refusal without justification, does
 not eliminate the debt, even though the availability of bank cheques for payment
 
 80 Re Kolback Group Ltd (1991) 4 ACSR 165.
@@ -1789,7 +1789,7 @@ Opposition to the order by creditors
 [11.285]      If the applicant is an unsecured creditor, the right to have a winding up
 belongs to the class of unsecured creditors, so all are entitled to be consulted.83 This
 is in line with the general principle that winding up is a collective process designed
-to beneﬁt the general body of creditors. The general policy of the law is to treat the
+to benefit the general body of creditors. The general policy of the law is to treat the
 creditors themselves as being in the best position to decide what is in their
 interests. Therefore, if a majority in value of the unsecured creditors oppose a
 winding up order the court can exercise its discretion and refrain from making an
@@ -1829,10 +1829,10 @@ well be discounted.89
 89 See McPherson's Law of Company Liquidation (Thomson Reuters, Westlaw AU), [3.1440].
 478      Keay's Insolvency: Personal and Corporate Law and Practice                             [11.295]
 
-No beneﬁt: s 467(2)
+No benefit: s 467(2)
 [11.295]   It is debatable whether the court has the right to refrain from making a
 winding up order on an application where it is clear that the making of an order
-would not be of any beneﬁt to the creditor who is the applicant. Old cases had held
+would not be of any benefit to the creditor who is the applicant. Old cases had held
 that an applicant creditor was not entitled to an order when it was impossible that
 it would obtain any dividend.90 Section 467(2) now provides that a winding up
 order should not be refused on the ground only that the assets of the company have
@@ -1876,7 +1876,7 @@ winding up.96
 [11.305]                                            11 Voluntary and Compulsory Winding Up       479
 
 Leave may be given retrospectively, nunc pro tunc.97 The power to grant leave is to
-be used sparingly, and only where the court is satisﬁed that the assent of the
+be used sparingly, and only where the court is satisfied that the assent of the
 creditors or at least the principal creditors is given.98
 There are two other restrictions on the ability of a company to proceed to a
 voluntary winding up. These are:
@@ -1897,7 +1897,7 @@ The company will require the court's leave to raise a ground of opposition, eith
    demand; or
 • that the company could have relied on, but refrained from relying on, when the
    application to set aside was heard (or a ground that could have been relied on
-   even though no application to set aside was ﬁled).
+   even though no application to set aside was filed).
 For example, where the debt owed to the creditor is genuinely disputed the court
 may grant leave under s 459S of the Corporations Act to raise the issue against the
 winding up application, provided that the disputed debt is material to proving the
@@ -1910,10 +1910,10 @@ under s 459S:
   application to set aside the demand, and the reasonableness of the party's
   conduct at that time; and
 • an investigation of whether the dispute about the debt is material to proving that
-  the company is solvent: Chief Commissioner of Stamp Duties v Paliﬂex Pty Ltd
+  the company is solvent: Chief Commissioner of Stamp Duties v Paliflex Pty Ltd
   [1999] NSWSC 889; (1999) 47 NSWLR 382. See also Re Vangory Holdings Pty Ltd
   [2015] NSWSC 546.
-As to the last issue, a court is not permitted to grant leave unless satisﬁed that the
+As to the last issue, a court is not permitted to grant leave unless satisfied that the
 ground is material to proving the solvency of the company. This means that the
 
 97 DCT v VFS Employment Services Pty Ltd [2016] FCA 1054.
@@ -1922,9 +1922,9 @@ ground is material to proving the solvency of the company. This means that the
 99 ASIC v Lanepoint Enterprises Pty Ltd [2011] HCA 18; (2011) 244 CLR 1 at [27].
 480      Keay's Insolvency: Personal and Corporate Law and Practice            [11.310]
 
-debt must, on the company's case, make the difference between a ﬁnding of
-solvency and a ﬁnding of insolvency; it is not enough that, depending on what
-other ﬁndings are made, the debt may be relevant to the question of solvency: Switz
+debt must, on the company's case, make the difference between a finding of
+solvency and a finding of insolvency; it is not enough that, depending on what
+other findings are made, the debt may be relevant to the question of solvency: Switz
 Pty Ltd v Glowbind Pty Ltd [2000] NSWCA 37; (2000) 48 NSWLR 661.
 Clearly leave is not granted automatically, and cases have held that the power to
 grant leave under the section "is to be used cautiously and even sparingly given the
@@ -1947,7 +1947,7 @@ not receive the demand because of a change of postal address. Contrast however,
 Hadley v Bethq Pty Ltd [2016] FCA 1263.
 
 Substituting creditor: s 465B
-[11.310]   Frequently, after the ﬁling of the application and before the hearing, the
+[11.310]   Frequently, after the filing of the application and before the hearing, the
 debtor company will pay the applicant the debt which is owed, and the applicant
 will consent to a dismissal of the application when it comes on for hearing. Other
 creditors of the company may seek permission from the court to apply to be
@@ -1971,16 +1971,16 @@ a creditor whose debt is subject to genuine dispute: South Eastern Water Ltd v K
 [11.315]                                           11 Voluntary and Compulsory Winding Up     481
 
 Pty Ltd (1996) 21 ACSR 465. Thus the court may not substitute another creditor if
-that creditor's alleged debt is in dispute,101 even if the court may not be satisﬁed of
+that creditor's alleged debt is in dispute,101 even if the court may not be satisfied of
 the solvency of the company: Tilley Air Conditioning Pty Ltd v Austruc Constructions
 Ltd [2009] NSWSC 757.
 
 The order
 [11.315]     If the court orders the winding up of the debtor company, it will
 appoint a registered liquidator to be the liquidator of the company (s 472) who is
-nominated by the creditor by way of ﬁling a consent of the liquidator to act.102
+nominated by the creditor by way of filing a consent of the liquidator to act.102
 There is some discretion reserved to the court to appoint another liquidator, for
-example if the court considers there is a conﬂict of interest in relation to the
+example if the court considers there is a conflict of interest in relation to the
 nominated liquidator. The three guiding principles are that the liquidator should be
 independent, that liquidators should not be chosen by the company itself, and that,
 if there are competing nominations for liquidator, the court will choose on the basis
@@ -2029,9 +2029,9 @@ McDonald v DCT [2005] NSWSC 2; (2005) 23 ACLC 324. This is remedied by
 s 556(1)(ba) which gives statutory priority to those costs. See Chapter 15.
 As we have seen, if a winding up order is made, the day on which it is made is
 generally the commencement of the winding up: s 513A(e). Importantly, the day on
-which the application to wind up was ﬁled, generally becomes the "relation-back
+which the application to wind up was filed, generally becomes the "relation-back
 day". This day may be important when the liquidator comes to the point of
-examining what property can be recovered for the beneﬁt of the creditors. This is
+examining what property can be recovered for the benefit of the creditors. This is
 discussed in detail later in Chapter 14.
 
 After the order
@@ -2051,7 +2051,7 @@ for the winding up process.
 After the order for winding up, the liquidator is authorised to get in the company's
 property: s 474. As we will see, the property does not vest in the liquidator; the
 liquidator is the agent of the company. It is then the role of the liquidator to
-administer the property and affairs of the company for the beneﬁt of the creditors.
+administer the property and affairs of the company for the benefit of the creditors.
 
 103 Despite the availability of ASIC's Public Notices Website, newspaper publication of the winding up
     order is still required: Courts' Corporations Rules, r 5.11; Form 11. The court can order that this rule

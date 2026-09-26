@@ -11,19 +11,19 @@ environmental protection Mining, quarrying and prospecting concessions Special t
 
 - exploration or prospecting expenditure (¶19-010)
 
-- "pooled project expenditure" incurred in the working of mine sites, petroleum ﬁelds and quarries
+- "pooled project expenditure" incurred in the working of mine sites, petroleum fields and quarries
 
   (¶19-050)
 
-- expenditure incurred in rehabilitating former mine sites, petroleum ﬁelds and quarries (¶19-100)
+- expenditure incurred in rehabilitating former mine sites, petroleum fields and quarries (¶19-100)
 
 - payments of PRRT (¶19-003).
 
-These deductions are in addition to those allowable for general operating expenses (¶16-000) and speciﬁed business capital expenditure ("blackhole expenditure": ¶16-156), assets used for taxable purposes (ie the purpose of producing assessable income, mining site rehabilitation, exploration or prospecting and environmental protection activities). For the uniform capital allowance (UCA) provisions dealing with assets see ¶17-005; see ¶43-015 for the most recent ATO list of eﬀective lives including assets used in the mining industry and ¶43-070 for mineral processing and metallurgical laboratory assets. Depreciating assets include mining, quarrying or prospecting rights or information (¶19-010). If expenditure is deductible under both speciﬁc and general deduction provisions, the general rule against double deductions applies (¶16-100).
+These deductions are in addition to those allowable for general operating expenses (¶16-000) and specified business capital expenditure ("blackhole expenditure": ¶16-156), assets used for taxable purposes (ie the purpose of producing assessable income, mining site rehabilitation, exploration or prospecting and environmental protection activities). For the uniform capital allowance (UCA) provisions dealing with assets see ¶17-005; see ¶43-015 for the most recent ATO list of effective lives including assets used in the mining industry and ¶43-070 for mineral processing and metallurgical laboratory assets. Depreciating assets include mining, quarrying or prospecting rights or information (¶19-010). If expenditure is deductible under both specific and general deduction provisions, the general rule against double deductions applies (¶16-100).
 
 The CGT roll-over for prospecting and mining entitlements is automatic where relevant conditions are met (¶12-420).
 
-If a commercial debt is forgiven, the debtor's deduction under the UCA provisions may be reduced under the rules discussed at ¶16-910. Special provisions apply if property is acquired under limited recourse ﬁnance and the debt is terminated without the debtor repaying the full amount of the debt (¶23-260).
+If a commercial debt is forgiven, the debtor's deduction under the UCA provisions may be reduced under the rules discussed at ¶16-910. Special provisions apply if property is acquired under limited recourse finance and the debt is terminated without the debtor repaying the full amount of the debt (¶23-260).
 
 Special rules apply to depreciating and exploration assets of consolidated entities (ITAA97 Subdiv 716-E).
 
@@ -35,7 +35,7 @@ Deductions covered in this chapter are subject to the application of the rules f
 
 The treatment of natural resource incomes and payments derived by non-residents is discussed at ¶21-070, ¶22-070 and ¶26-270.
 
-Other environmental initiatives In addition to the measures noted above, there are other signiﬁcant environmental protection initiatives:
+Other environmental initiatives In addition to the measures noted above, there are other significant environmental protection initiatives:
 
 - Carbon sink forests, ¶19-120
 

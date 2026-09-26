@@ -19,7 +19,7 @@ Where the CGT event involves the creation, transfer, variation or cessation of a
 
   in the partnership (s 152-10(2C)). This ensures that the concessions are only available for CGT events
 
-  involving a right or interest in a partnership if the right or interest would be suﬃcient to make the entity
+  involving a right or interest in a partnership if the right or interest would be sufficient to make the entity
 
   holding the right or interest a partner (eg the transfer of all or part of a partner's share in a partnership to
 

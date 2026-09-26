@@ -11,9 +11,9 @@ The use of transferred losses (which are not "concessional losses" (¶8-110)) is
 
 *Refs: ITAA97 s 707-320)*
 
-modiﬁed market value of the real loss-maker at the initial transfer time transferee's adjusted market value at the initial transfer time The result is rounded to 3 decimal places. However, where rounding would result in a "nil" available fraction, the result is rounded to the ﬁrst non-zero digit (ITAA97 s 707-320(4)).
+modified market value of the real loss-maker at the initial transfer time transferee's adjusted market value at the initial transfer time The result is rounded to 3 decimal places. However, where rounding would result in a "nil" available fraction, the result is rounded to the first non-zero digit (ITAA97 s 707-320(4)).
 
-Explanation of numerator In general terms, the "modiﬁed market value" of a joining entity (in this case, the real loss-maker) is its market value, ignoring any interests it has in other members of the group and assuming that:
+Explanation of numerator In general terms, the "modified market value" of a joining entity (in this case, the real loss-maker) is its market value, ignoring any interests it has in other members of the group and assuming that:
 
 - it has no losses and the balance of its franking account is nil, and
 
@@ -21,15 +21,15 @@ Explanation of numerator In general terms, the "modiﬁed market value" of a joi
 
   parts of the head company (ITAA97 s 707-325).
 
-The "real loss-maker" is the entity that makes the initial transfer of the loss upon joining a group. The "initial transfer time" is when the bundle comes into existence, ie the time when a loss is ﬁrst transferred to any group under ITAA97 Subdiv 707-A.
+The "real loss-maker" is the entity that makes the initial transfer of the loss upon joining a group. The "initial transfer time" is when the bundle comes into existence, ie the time when a loss is first transferred to any group under ITAA97 Subdiv 707-A.
 
-Preventing artificial inflation of modified market value There are special rules in ITAA97 s 707-325 to prevent artiﬁcial inﬂation of the modiﬁed market value through injections of capital or non-arm's length transactions in the 4 years prior to consolidation. The term "injection of capital" has its ordinary meaning for the purposes of ITAA97 s 707-325 (TR 2004/9). The purpose of the capital injection or transaction is irrelevant (ID 2004/182). Under a publicly listed share oﬀer, an injection of capital occurs when the company issues shares to the applicants (TD 2006/18).
+Preventing artificial inflation of modified market value There are special rules in ITAA97 s 707-325 to prevent artificial inflation of the modified market value through injections of capital or non-arm's length transactions in the 4 years prior to consolidation. The term "injection of capital" has its ordinary meaning for the purposes of ITAA97 s 707-325 (TR 2004/9). The purpose of the capital injection or transaction is irrelevant (ID 2004/182). Under a publicly listed share offer, an injection of capital occurs when the company issues shares to the applicants (TD 2006/18).
 
 Explanation of denominator The "transferee's adjusted market value at the initial transfer time" means the market value of the transferee at the initial transfer time, assuming that (at that time) the transferee had no losses in earlier years and its franking account was nil. The transferee is the head company to which the losses in the bundle were transferred at the initial transfer time.
 
 Planning point: available fraction A loss company that is heavily leveraged (funded by debt) is likely to have a low or nil market value, resulting in a very low or even nil available fraction such that its transferred losses cannot be utilised (unless the group consolidated before 1 July 2004 and the transitional loss provisions apply). In such instances, the loss subsidiary may be able to utilise its losses faster than the group.
 
-This may inﬂuence the head company to delay forming a consolidated group or to defer the loss company joining the consolidated group by selling part of its ownership to an outside party. In the latter case, the potential application of the ITAA36 Pt IVA general avoidance provisions (¶30-000) should be considered (¶8-950). Note however, losses of an insolvent entity may be utilised in certain circumstances if ITAA97 s 707-415 applies (see below).
+This may influence the head company to delay forming a consolidated group or to defer the loss company joining the consolidated group by selling part of its ownership to an outside party. In the latter case, the potential application of the ITAA36 Pt IVA general avoidance provisions (¶30-000) should be considered (¶8-950). Note however, losses of an insolvent entity may be utilised in certain circumstances if ITAA97 s 707-415 applies (see below).
 
 Adjustment of available fraction The available fraction for a bundle is adjusted or maintained (never increased) when one of the 5 adjustment events set out in the table in ITAA97 s 707-320(2) occurs. The adjusted available fraction is worked out by multiplying the existing available fraction for the bundle by the factor set out in the table. The adjustment events and relevant factors can be summarised as follows:
 
@@ -39,15 +39,15 @@ losses Once the available fraction is determined for a bundle of losses, the max
 
 Step 1 Work out the amount of each income or gain category from column 2 of the table in ITAA97 s 707-310(3).
 
-This is the group's total income or gains for each category, reduced by applicable deductions and grossed- up franking oﬀsets. The deductions include group losses (ie losses generated by the group) as well as transferred concessional losses, but not losses otherwise transferred (eg losses limited by their available fraction).
+This is the group's total income or gains for each category, reduced by applicable deductions and grossed- up franking offsets. The deductions include group losses (ie losses generated by the group) as well as transferred concessional losses, but not losses otherwise transferred (eg losses limited by their available fraction).
 
 *Refs: ITAA97 s 707-310(3)*
 
 - capital gains
 
-- exempt ﬁlm income
+- exempt film income
 
-- assessable ﬁlm income
+- assessable film income
 
 - other exempt income
 
@@ -61,9 +61,9 @@ Step 3 Based on the income or gains determined under step 2, work out a notional
 
 Example 1 Headco has a single loss bundle with an available fraction of 0.145, containing unused net capital losses of $80 and unused ordinary tax losses of $2,000. There are no group losses or concessional losses. For the year of income, Headco has capital gains of $1,000 (after deducting any capital losses) and taxable income of $9,000 (after deductions but before applying the bundled losses) (step 1).
 
-Headco can oﬀset a maximum of $145 (ie $1,000 × 0.145) of its capital gain and $1,305 (ie $9,000 × 0.145) of its other assessable income by the losses in the bundle (step 2).
+Headco can offset a maximum of $145 (ie $1,000 × 0.145) of its capital gain and $1,305 (ie $9,000 × 0.145) of its other assessable income by the losses in the bundle (step 2).
 
-Headco can oﬀset $145 of capital gains by the $80 capital loss in the bundle and the remainder by $65 ($145 − $80) of ordinary losses in the bundle. It can also oﬀset $1,305 of ordinary income by the remaining ordinary losses in the bundle (step 3).
+Headco can offset $145 of capital gains by the $80 capital loss in the bundle and the remainder by $65 ($145 − $80) of ordinary losses in the bundle. It can also offset $1,305 of ordinary income by the remaining ordinary losses in the bundle (step 3).
 
 Therefore, the total losses that Headco can utilise from the bundle for the year are the $80 capital loss and $1,370 of ordinary losses, leaving $630 of ordinary losses.
 
@@ -77,7 +77,7 @@ Part years Use of transferred losses is apportioned, ie limited to what is reaso
 
 *Refs: ITAA97 s 707-340), ITAA97 s 707-335(3)(, ITAA97 s 707-335)*
 
-group Where the head company of a consolidated group (the "old group") becomes a subsidiary member of another group (the "bigger group") and transfers losses to the bigger group, the ex-head company's modiﬁed market value or market value is worked out as if each subsidiary member of the old group were part of the ex-head company (ITAA97 s 707-330).
+group Where the head company of a consolidated group (the "old group") becomes a subsidiary member of another group (the "bigger group") and transfers losses to the bigger group, the ex-head company's modified market value or market value is worked out as if each subsidiary member of the old group were part of the ex-head company (ITAA97 s 707-330).
 
 Losses of an insolvent joining entity If an entity's liabilities exceed its assets at the joining time (ie it is insolvent), losses transferred to the head company will have a nil available fraction. In absence of transitional concessions, such losses cannot be utilised. However, such losses can be utilised in the following situations under ITAA97 s 707-415:
 

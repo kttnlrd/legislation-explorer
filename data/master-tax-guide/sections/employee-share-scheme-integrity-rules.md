@@ -7,7 +7,7 @@ paragraph: "¶10-091"
 ---
 # Employee share scheme integrity rules ¶10-091
 
-Division 83A contains a number of integrity rules, including employer reporting requirements and tax ﬁle number (TFN) withholding tax provisions, as discussed below.
+Division 83A contains a number of integrity rules, including employer reporting requirements and tax file number (TFN) withholding tax provisions, as discussed below.
 
 Employer reporting A company that provides an ESS interest (¶10-085) to an employee under an employee share scheme ("provider") during an income year must, at the end of the income year (and in certain cases, at the end of a later year) give a statement to the Commissioner and to the employee if:
 
@@ -23,7 +23,7 @@ Employer reporting A company that provides an ESS interest (¶10-085) to an empl
 
 The statement must be in the approved form and may require certain information, eg the provider's ABN, the employee's details, information about the ESS interests provided, the provider's estimate of the market value of the interests at the time of acquisition, the amount paid towards the acquisition and the amount of "TFN withholding tax (ESS)" (see below) paid or payable by the provider in respect of the interests.
 
-Further, the statements must be given by the provider to the employee no later than 14 July after the end of the year, and to the Commissioner no later than 14 August after the end of the year (TAA sch 1 s 392-5(5), (7)), although the Commissioner may defer the deadlines. For these purposes, the year is the ﬁnancial year in which the ESS deferred taxing point occurs.
+Further, the statements must be given by the provider to the employee no later than 14 July after the end of the year, and to the Commissioner no later than 14 August after the end of the year (TAA sch 1 s 392-5(5), (7)), although the Commissioner may defer the deadlines. For these purposes, the year is the financial year in which the ESS deferred taxing point occurs.
 
 The provider may disregard the 30-day rule for the ESS deferred taxing point for reporting purposes if they are not aware of when or whether the employee disposed of the ESS interest within 30 days of the ESS deferred taxing point (TAA sch 1 s 392-5(6)).
 
@@ -43,11 +43,11 @@ Other integrity rules
 
 83A-305)
 
-- employees with a beneﬁcial interest in an employee share trust are taxed as though they are
+- employees with a beneficial interest in an employee share trust are taxed as though they are
 
   the legal owners of those shares (s 83A-10). To overcome trust law restrictions, shares or rights
 
-  to acquire shares in a trust are treated as though they were beneﬁcially owned by particular
+  to acquire shares in a trust are treated as though they were beneficially owned by particular
 
   employees (s 83A-320)
 
@@ -75,11 +75,11 @@ In particular, Div 83A is taken never to have applied in relation to an ESS inte
 
   by the employee to cease that particular employment or, for ESS interests acquired on or after 1
 
-July 2015, a choice not to exercise a right or allow the right to be cancelled) nor of a condition of the scheme that has the direct eﬀect of wholly or partly protecting the employee from a fall in the market value of the ESS interest.
+July 2015, a choice not to exercise a right or allow the right to be cancelled) nor of a condition of the scheme that has the direct effect of wholly or partly protecting the employee from a fall in the market value of the ESS interest.
 
-Where these conditions are satisﬁed, the taxpayer can request that the Commissioner amend the assessment to remove an amount that has previously been assessed under Div 83A. There is no time limit on amending an assessment to exclude an amount for a share interest that is forfeited or a right that was lost without being exercised (ITAA36 s 170(10AA), item 28).
+Where these conditions are satisfied, the taxpayer can request that the Commissioner amend the assessment to remove an amount that has previously been assessed under Div 83A. There is no time limit on amending an assessment to exclude an amount for a share interest that is forfeited or a right that was lost without being exercised (ITAA36 s 170(10AA), item 28).
 
-Deduction for employers for employee share schemes A limited, speciﬁc deduction is available to employers that provide discounts on ESS interests (¶10-085) to employees under an employee share scheme. However, the employee must be eligible for the upfront exemption disregarding the income test (ss 83A-200; 83A-205(1)).
+Deduction for employers for employee share schemes A limited, specific deduction is available to employers that provide discounts on ESS interests (¶10-085) to employees under an employee share scheme. However, the employee must be eligible for the upfront exemption disregarding the income test (ss 83A-200; 83A-205(1)).
 
 The amount of the deduction for the employer is an amount equal to the discount on the ESS interest that the employee would not have to include in their assessable income (by operation of the upfront exemption but disregarding the income test); a maximum deduction of $1,000 is available (s 83A-205(2), (3)). Where 2 or more employers jointly provide the ESS interest, the deduction must be apportioned between them on a reasonable basis (s 83A-205(4)).
 

@@ -21,7 +21,7 @@ A stratum unit is a lot or unit (however described in an Australian or foreign l
 
 Consequences of roll-over The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (¶12-160).
 
-The ﬁrst element of the cost base and reduced cost base of the stratum unit is worked out under those general rules. In addition, the ﬁrst element of the cost base and reduced cost base of the new stratum unit includes any amount the taxpayer paid to get it.
+The first element of the cost base and reduced cost base of the stratum unit is worked out under those general rules. In addition, the first element of the cost base and reduced cost base of the new stratum unit includes any amount the taxpayer paid to get it.
 
 TR 97/4 considers strata title conversion roll-overs in relation to home unit companies, long-term leases of 99 years or more and tenancies in common.
 

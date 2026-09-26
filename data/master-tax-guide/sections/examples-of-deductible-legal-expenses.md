@@ -41,7 +41,7 @@ In addition to the expenses noted at ¶16-840, the following are examples of leg
 
 - costs of a landlord in ejectment proceedings against a rent-defaulting tenant (15 TBRD Case
 
-Q49), but not costs of evicting tenant to obtain virtually indeﬁnite occupancy of whole of premises for business purposes (5 TBRD Case E6)
+Q49), but not costs of evicting tenant to obtain virtually indefinite occupancy of whole of premises for business purposes (5 TBRD Case E6)
 
 - costs of opinion as to whether goods could be sold in another state ((1950) 1 TBRD Case 50)
 
@@ -65,7 +65,7 @@ Q49), but not costs of evicting tenant to obtain virtually indeﬁnite occupancy
 
 - cost of arbitration to settle a dispute between a solicitor and his partners as to his share of the
 
-  proﬁts and his subsequent purported expulsion from the partnership (Creer 94 ATC 4454; [1994]
+  profits and his subsequent purported expulsion from the partnership (Creer 94 ATC 4454; [1994]
 
 FCA 1228)
 

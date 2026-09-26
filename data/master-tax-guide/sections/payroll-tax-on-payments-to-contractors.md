@@ -11,15 +11,15 @@ Generally, payroll tax is a tax on "wages" paid or payable to an employee by an 
 
 Broadly, the contractor provisions deem payments to certain contractors to be "wages" for payroll tax purposes.
 
-(1) where a person, in the course of carrying on a business, supplies to another person services for or in relation to the performance of work (2) where a person, in the course of carrying on a business, is supplied with the services of another person for or in relation to the performance of work, and (3) where a person, in the course of carrying on a business, provides goods to persons who perform work and resupply the goods. This is intended to deal with the practice of a person in business providing goods to "outworkers" or "home workers" who perform speciﬁed work and return the goods.
+(1) where a person, in the course of carrying on a business, supplies to another person services for or in relation to the performance of work (2) where a person, in the course of carrying on a business, is supplied with the services of another person for or in relation to the performance of work, and (3) where a person, in the course of carrying on a business, provides goods to persons who perform work and resupply the goods. This is intended to deal with the practice of a person in business providing goods to "outworkers" or "home workers" who perform specified work and return the goods.
 
-Under the contractor provisions, the term "contract" includes an agreement, arrangement or undertaking, whether formal or informal and whether express or implied. Although the provisions relate to the supply of services, the term "services" is deﬁned to include "results (whether goods or services) of work performed".
+Under the contractor provisions, the term "contract" includes an agreement, arrangement or undertaking, whether formal or informal and whether express or implied. Although the provisions relate to the supply of services, the term "services" is defined to include "results (whether goods or services) of work performed".
 
 However, only the amount of the payment that relates to labour is liable to tax and not the cost of materials and equipment incurred by the contractor. Some states have issued guidelines on the deductions available for materials and equipment for particular types of contractors.
 
 Although the situations covered are very broad, at least one party to the contract must enter into the agreement while in the course of carrying on a business.
 
-The legislation also provides for speciﬁc exclusions from the contractor provisions, supplemented by rulings from the various state revenue oﬃces. Where any exclusions apply, the contract payments by the person engaging the contractor will be exempt from payroll tax. Contracts may be exempted if any of the following apply.
+The legislation also provides for specific exclusions from the contractor provisions, supplemented by rulings from the various state revenue offices. Where any exclusions apply, the contract payments by the person engaging the contractor will be exempt from payroll tax. Contracts may be exempted if any of the following apply.
 
 - The labour component of the contract is ancillary to the supply of materials or equipment.
 
@@ -27,11 +27,11 @@ The legislation also provides for speciﬁc exclusions from the contractor provi
 
   person supplying those services provides them to the general public.
 
-- The services provided are not required by the business for more than 180 days per ﬁnancial year
+- The services provided are not required by the business for more than 180 days per financial year
 
-  regardless of how many diﬀerent contractors provide the same service.
+  regardless of how many different contractors provide the same service.
 
-- Any one contractor is not engaged for more than 90 days in total per ﬁnancial year or provides
+- Any one contractor is not engaged for more than 90 days in total per financial year or provides
 
   one person or the same people for no more than 90 days in total to carry out the contract.
 

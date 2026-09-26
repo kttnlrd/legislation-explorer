@@ -15,7 +15,7 @@ As is the case with interest (Steele 97 ATC 4239; [1997] FCA 167: ¶16-740), it 
 
 A similar argument may suggest that a vacancy levy imposed on foreign owners of vacant residential property may be deductible under ITAA97 s 8-1. However, the ATO may take a view that as the levy is imposed for a property that is vacant or not genuinely available for rent, it is not incurred in gaining or producing assessable income or is capital in nature.
 
-The High Court has held that an adjustment paid by the purchaser to the vendor on settlement of the purchase of a block of rent-producing ﬂats representing the unexpired portion of municipal and water rates was deductible (Morgan (1961) 12 ATD 370; (1961) 106 CLR 517).
+The High Court has held that an adjustment paid by the purchaser to the vendor on settlement of the purchase of a block of rent-producing flats representing the unexpired portion of municipal and water rates was deductible (Morgan (1961) 12 ATD 370; (1961) 106 CLR 517).
 
 For the deductibility of annual rates and land taxes to entities receiving mutual income (eg clubs or professional associations), see ¶3-830 and TR 2015/3.
 

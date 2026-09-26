@@ -7,7 +7,7 @@ paragraph: "¶17-810"
 ---
 # Low-value depreciating asset pools ¶17-810
 
-Taxpayers may elect to claim deductions for the decline in value of depreciating assets ("low-cost assets") costing less than $1,000 through a low-value pool (ITAA97 ss 40-420 to 40-445). An asset ("low-value asset") whose decline in value was calculated using the diminishing value method can also be pooled where its adjustable value (¶17-485) is less than $1,000. An immediate write-oﬀ for low-cost depreciating assets and pooling of other depreciating assets is available under the special rules for small business entities (¶7-250).
+Taxpayers may elect to claim deductions for the decline in value of depreciating assets ("low-cost assets") costing less than $1,000 through a low-value pool (ITAA97 ss 40-420 to 40-445). An asset ("low-value asset") whose decline in value was calculated using the diminishing value method can also be pooled where its adjustable value (¶17-485) is less than $1,000. An immediate write-off for low-cost depreciating assets and pooling of other depreciating assets is available under the special rules for small business entities (¶7-250).
 
 Pooling low-cost and low-value assets The main rules for pooling of low-cost and low-value depreciating assets are as follows:
 
@@ -29,7 +29,7 @@ Pooling low-cost and low-value assets The main rules for pooling of low-cost and
 
   costs are immediately deductible (¶17-330); horticultural plants (¶18-070); depreciating assets
 
-  subject to the rules for small business taxpayers (¶7-250); assets subject to the R&D oﬀset rules
+  subject to the rules for small business taxpayers (¶7-250); assets subject to the R&D offset rules
 
 (¶17-420)
 
@@ -49,7 +49,7 @@ Pooling low-cost and low-value assets The main rules for pooling of low-cost and
 
 - once allocated to a low-value pool, an item must remain in the pool
 
-- ﬁrst and second element costs (¶17-080) are allocated to a low-value pool exclusive of input tax
+- first and second element costs (¶17-080) are allocated to a low-value pool exclusive of input tax
 
   credits relating to the acquisition of the asset allocated to the pool or to second element costs for
 
@@ -65,11 +65,11 @@ Pooling low-cost and low-value assets The main rules for pooling of low-cost and
 
 The Commissioner accepts the use of sampling methods to estimate the revenue/capital expenditure component of bulk purchases (¶16-153): the revenue component is immediately deductible while the capital component may be pooled (if it relates to depreciating assets).
 
-Expected private or exempt use When allocating an asset to a low-value pool, the taxpayer must estimate the percentage (if any) of the asset's usage (including past use) that will be for non-taxable purposes (¶17-010), ie generally purposes other than producing assessable income. The estimate must take into account the usage over the eﬀective life (for a low-cost asset) or the remaining eﬀective life (for a low-value asset). The cost that would otherwise have been allocated to the pool must be reduced by that percentage (s 40-435). Such percentage cannot be varied later to reﬂect actual usage (see ATO publication Guide to depreciating assets 2024).
+Expected private or exempt use When allocating an asset to a low-value pool, the taxpayer must estimate the percentage (if any) of the asset's usage (including past use) that will be for non-taxable purposes (¶17-010), ie generally purposes other than producing assessable income. The estimate must take into account the usage over the effective life (for a low-cost asset) or the remaining effective life (for a low-value asset). The cost that would otherwise have been allocated to the pool must be reduced by that percentage (s 40-435). Such percentage cannot be varied later to reflect actual usage (see ATO publication Guide to depreciating assets 2024).
 
 Example 1 Zoe, a computer programmer, acquires a printer for $600. She has elected to create a low-value pool, and estimates that the printer will be used 85% for income-producing purposes and 15% for private purposes. The amount to be allocated to the pool is $510, ie 85% of $600.
 
-In allocating assets to a low-value pool, a non-taxable purpose includes the use of assets in a residential rental property for certain taxpayers aﬀected by s 40-27 (¶17-012).
+In allocating assets to a low-value pool, a non-taxable purpose includes the use of assets in a residential rental property for certain taxpayers affected by s 40-27 (¶17-012).
 
 Decline in value of a low-value pool The decline in value of a low-value pool for an income year is the sum of 37.5% of:
 
@@ -81,7 +81,7 @@ Decline in value of a low-value pool The decline in value of a low-value pool fo
 
 Further deductions of half that rate (ie 18.75%) are allowed for the taxable use percentage of:
 
-- the ﬁrst and second element costs (¶17-080) of low-cost assets allocated to the pool during the
+- the first and second element costs (¶17-080) of low-cost assets allocated to the pool during the
 
   year, and
 
@@ -95,7 +95,7 @@ Further deductions of half that rate (ie 18.75%) are allowed for the taxable use
 
 - the closing pool balance for the previous income year
 
-- the taxable use percentage of the ﬁrst and second element costs of low-cost assets allocated to
+- the taxable use percentage of the first and second element costs of low-cost assets allocated to
 
   the pool during the current year
 
@@ -121,7 +121,7 @@ No roll-over relief applies (eg ID 2003/1133).
 
 The balancing adjustment event may also trigger CGT event K7 (¶17-670). In such case, the non-taxable use percentage (see above) of the excess of the termination value of the asset over its cost is a capital gain and the non-taxable use percentage of the excess of cost over termination value is a capital loss (ITAA97 s 104-245).
 
-A taxpayer can continue to deduct the pool balance attributable to the asset, even though the taxpayer no longer holds the asset, eg if the termination value is less than the amount still to be written oﬀ (s 40-25(5)).
+A taxpayer can continue to deduct the pool balance attributable to the asset, even though the taxpayer no longer holds the asset, eg if the termination value is less than the amount still to be written off (s 40-25(5)).
 
 Example 3 Zoe sells the printer that she pooled in Example 1 above. The disposal proceeds (termination value) are $200. The closing pool balance should be reduced by $170 (ie 85% of $200). There is a capital loss of $60 (ie 15% × [$600 − $200]).
 

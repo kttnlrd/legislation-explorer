@@ -7,23 +7,23 @@ paragraph: "¶38-030"
 ---
 # Queensland land tax ¶38-030
 
-The principal legislation governing the imposition and assessment of liability to land tax in Queensland is the Land Tax Act 2010 ("the principal Act"), supported by the Land Tax Regulation 2021. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are governed by the Taxation Administration Act 2001.
+The principal legislation governing the imposition and assessment of liability to land tax in Queensland is the Land Tax Act 2010 ("the principal Act"), supported by the Land Tax Regulation 2021. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general offences, are governed by the Taxation Administration Act 2001.
 
-Land tax for 2024–25 is levied on the taxable value of all freehold land owned in Queensland as at midnight on 30 June 2024. The taxable value is the lesser of the ratable land value and an averaged value of the land, usually calculated over a 3-year period. Diﬀerent rates and thresholds apply depending on whether the owner is an individual, a company or trust (including a superannuation fund), or an absentee individual or foreign owner. See below for tables of applicable rates.
+Land tax for 2024–25 is levied on the taxable value of all freehold land owned in Queensland as at midnight on 30 June 2024. The taxable value is the lesser of the ratable land value and an averaged value of the land, usually calculated over a 3-year period. Different rates and thresholds apply depending on whether the owner is an individual, a company or trust (including a superannuation fund), or an absentee individual or foreign owner. See below for tables of applicable rates.
 
-Assessment Land tax is assessed to the owner of a freehold estate in the land. In practice, this means individuals or companies registered as owners with Titles Queensland. An owner also includes persons entitled to receive rents and proﬁts from the land. Other persons may be deemed owners under the principal Act.
+Assessment Land tax is assessed to the owner of a freehold estate in the land. In practice, this means individuals or companies registered as owners with Titles Queensland. An owner also includes persons entitled to receive rents and profits from the land. Other persons may be deemed owners under the principal Act.
 
-Land held in trust is generally assessed to the trustee as registered owner of the land. Trustees of testamentary trusts can nominate an individual beneﬁciary, or the holder of a life estate, as an owner of trust land. A person appointed as a trustee in bankruptcy, or as a trustee for an incapacitated person, or in respect of various categories of special disability trust, is assessed at individual rates.
+Land held in trust is generally assessed to the trustee as registered owner of the land. Trustees of testamentary trusts can nominate an individual beneficiary, or the holder of a life estate, as an owner of trust land. A person appointed as a trustee in bankruptcy, or as a trustee for an incapacitated person, or in respect of various categories of special disability trust, is assessed at individual rates.
 
 Owners of jointly owned land are assessed separately on their respective interests in the land, aggregated with any other taxable land they own. There are no joint assessments.
 
 Concessions for build-to-rent residential development Special concessions apply to build-to-rent developments where construction commences after 1 July 2023.
 
-Eligible developments must include at least 10% of rental homes as aﬀordable housing. The taxable land value of the land is discounted by 50% and the land is exempt from the foreign ownership surcharge. The concessions last for 20 years or until 30 June 2050, whichever is sooner.
+Eligible developments must include at least 10% of rental homes as affordable housing. The taxable land value of the land is discounted by 50% and the land is exempt from the foreign ownership surcharge. The concessions last for 20 years or until 30 June 2050, whichever is sooner.
 
 Exemptions Each owner of jointly owned land must apply for exemption with respect to their particular share of the taxable value of the land.
 
-Land used as the home of an owner who is a natural person, whether alone or with another person, is exempt from land tax. The exemption can apply to land owned by a trustee where all the beneﬁciaries of the relevant trust so use the land. This applies to superannuation funds and testamentary trusts, but not to foreign trusts. A partial exemption is available where the land is used for both exempt and non-exempt purposes.
+Land used as the home of an owner who is a natural person, whether alone or with another person, is exempt from land tax. The exemption can apply to land owned by a trustee where all the beneficiaries of the relevant trust so use the land. This applies to superannuation funds and testamentary trusts, but not to foreign trusts. A partial exemption is available where the land is used for both exempt and non-exempt purposes.
 
 Generally, an owner can claim the exemption in respect of only one property. A person who is moving homes and owns both the new home and the old home on the taxing date can claim the exemption for both homes so long as the old home is sold prior to the next taxing date.
 
@@ -33,9 +33,9 @@ Generally, an owner can claim the exemption in respect of only one property. A p
 
   of plants, agriculture, dairy farming, pasturage and related activities
 
-- land owned by non-proﬁt clubs, associations, societies and charitable institutions, provided
+- land owned by non-profit clubs, associations, societies and charitable institutions, provided
 
-  qualifying criteria are satisﬁed
+  qualifying criteria are satisfied
 
 - land used predominantly as a caravan or residential park
 
@@ -55,7 +55,7 @@ A company is subject to foreign owner surcharge if it is incorporated outside Au
 
 A trust is subject to foreign owner surcharge if at least 50% of the trust interests in the trust are foreign interests. "Foreign interests" are interests held by individuals who are not Australian citizens or permanent residents, or by foreign companies, trustees of foreign trusts, or persons who are related to foreign interest holders. Special rules apply to discretionary trusts and superannuation funds.
 
-Foreign entities that make a signiﬁcant contribution to the Queensland economy and community can apply for ex gratia relief from the surcharge. Land held by a foreign owner merely as a landlord or property investor does not qualify for this relief.
+Foreign entities that make a significant contribution to the Queensland economy and community can apply for ex gratia relief from the surcharge. Land held by a foreign owner merely as a landlord or property investor does not qualify for this relief.
 
 Objections and appeals A taxpayer may lodge a written objection to an assessment within 60 days from date of service of the notice of assessment. Later lodgments may be allowed. Appeals may be lodged up to 60 days from the date of the objection decision.
 

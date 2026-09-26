@@ -7,13 +7,13 @@ paragraph: "¶34-165"
 ---
 # GST-free supplies ¶34-165
 
-If a supply is GST-free, this means that no GST is payable on it, but that the supplier is entitled to claim credits for the GST payable on its business inputs that relate to that supply (ss 9-5; 11-15). For this reason, it is quite diﬀerent from a supply which is outside the GST system altogether (¶34-160).
+If a supply is GST-free, this means that no GST is payable on it, but that the supplier is entitled to claim credits for the GST payable on its business inputs that relate to that supply (ss 9-5; 11-15). For this reason, it is quite different from a supply which is outside the GST system altogether (¶34-160).
 
 Example A registered greengrocer's business consists wholly of selling fresh food. The sale of that food is GST-free. The greengrocer therefore will not charge GST on the food it sells but will claim input tax credits for the GST it pays on goods and services it acquires in carrying on its business.
 
 Note that if the greengrocer used some of those goods for private, non-business purposes, only a proportion of the input tax credit for GST on those goods would be allowed.
 
-The greatest impact of GST-free status will normally be felt where the customer is a private consumer. It will not matter so much where the customer is a business that can get an input tax credit for any GST in any event, though there may be some cash ﬂow implications.
+The greatest impact of GST-free status will normally be felt where the customer is a private consumer. It will not matter so much where the customer is a business that can get an input tax credit for any GST in any event, though there may be some cash flow implications.
 
 The main types of GST-free supply, as set out in Div 38, are as follows.
 
@@ -73,11 +73,11 @@ Food Most food for human consumption is GST-free (Subdiv 38-A). However, GST app
 
 - alcohol, most soft drinks and certain other drinks (ss 38-3; 38-4; schs 1; 2).
 
-Food that consists of a combination of GST-free food and taxable prepared food, bakery products, confectionery, snacks, ice-cream or biscuits is itself taxable (s 38-3; sch 1). For example, the sale of ﬂavoured yoghurt in a plastic tub along with cookie pieces and chocolate chips in a separate compartment was held to be not GST-free (Chobani Pty Ltd 2023 ATC ¶10-669; [2023] AATA 1664). GSTD 2024/1 contains ATO's guidance on when a supply is a supply of "combination food".
+Food that consists of a combination of GST-free food and taxable prepared food, bakery products, confectionery, snacks, ice-cream or biscuits is itself taxable (s 38-3; sch 1). For example, the sale of flavoured yoghurt in a plastic tub along with cookie pieces and chocolate chips in a separate compartment was held to be not GST-free (Chobani Pty Ltd 2023 ATC ¶10-669; [2023] AATA 1664). GSTD 2024/1 contains ATO's guidance on when a supply is a supply of "combination food".
 
-For a comprehensive "Detailed food list" of food and drink items together with their GST status and relevant notes, see ATO website. A checklist for small to medium businesses and guide for medium to large businesses on self-reviewing GST classiﬁcation of food and health products are also available on the ATO website.
+For a comprehensive "Detailed food list" of food and drink items together with their GST status and relevant notes, see ATO website. A checklist for small to medium businesses and guide for medium to large businesses on self-reviewing GST classification of food and health products are also available on the ATO website.
 
-Simpliﬁed accounting methods apply to food retailers (including cafes and restaurants) with annual turnovers under speciﬁed levels (Div 123). They apply to:
+Simplified accounting methods apply to food retailers (including cafes and restaurants) with annual turnovers under specified levels (Div 123). They apply to:
 
 - a small business entity (¶7-001), or
 
@@ -89,7 +89,7 @@ Simpliﬁed accounting methods apply to food retailers (including cafes and rest
 
 From 1 July 2021, this concession available for small business entities has been extended to medium business entities (¶7-050).
 
-Charities, religions and gift-deductible bodies Certain activities of charities and related bodies are GST-free (Subdivs 38-G; 38-H). This will apply to sales for nominal consideration, sales of second-hand goods, raﬄes, bingo and religious services. For other special rules that apply, see ¶34-175.
+Charities, religions and gift-deductible bodies Certain activities of charities and related bodies are GST-free (Subdivs 38-G; 38-H). This will apply to sales for nominal consideration, sales of second-hand goods, raffles, bingo and religious services. For other special rules that apply, see ¶34-175.
 
 International transport and travel International travel is GST-free, but domestic travel is generally subject to GST except where it forms part of an overseas trip (Subdiv 38-K). The cost of transporting goods overseas is also GST-free.
 

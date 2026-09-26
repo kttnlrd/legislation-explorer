@@ -5,25 +5,25 @@ section: "exemptions-from-fringe-benefits-tax"
 title: "Exemptions from fringe benefits tax"
 paragraph: "¶35-645"
 ---
-# Exemptions from fringe beneﬁts tax ¶35-645
+# Exemptions from fringe benefits tax ¶35-645
 
-In addition to the exemptions applying to particular classes of beneﬁt, there are speciﬁc exemptions for a number of beneﬁts. FBT is not payable on an exempt beneﬁt and the beneﬁt does not form part of an employee's reportable fringe beneﬁts amount.
+In addition to the exemptions applying to particular classes of benefit, there are specific exemptions for a number of benefits. FBT is not payable on an exempt benefit and the benefit does not form part of an employee's reportable fringe benefits amount.
 
-Reimbursement of car expenses Where the beneﬁt is in the form of a reimbursement of car expenses (¶35-230) calculated on a cents per kilometre basis, it is eﬀectively exempt if the amount is within the prescribed rates (s 60A; 61; 61A; 61B; 61E; 61F) — the "basic car rate" (being the rate prescribed under the income tax substantiation provisions for the year ending on 30 June following the 31 March of the FBT year: ¶16-370) and the "supplementary car rate" (0.63 cents per kilometre: FBTAR s 15).
+Reimbursement of car expenses Where the benefit is in the form of a reimbursement of car expenses (¶35-230) calculated on a cents per kilometre basis, it is effectively exempt if the amount is within the prescribed rates (s 60A; 61; 61A; 61B; 61E; 61F) — the "basic car rate" (being the rate prescribed under the income tax substantiation provisions for the year ending on 30 June following the 31 March of the FBT year: ¶16-370) and the "supplementary car rate" (0.63 cents per kilometre: FBTAR s 15).
 
 Work-related items A portable electronic device, computer software, protective clothing, a briefcase and a tool of trade is exempt where it is primarily for use in the employee's employment (s 58X). Wireless broadband access to the internet provided as part of the use of a laptop could be exempt where it is subject to security requirements and policies as to private use (NTLG FBT Sub-committee meeting, 12 August 2010), but not home internet access. The use of a mobile phone, including internet access, will be exempt provided it is provided primarily for use in the employee's employment (NTLG FBT minutes, 12 August 2011).
 
 The exemption is restricted to one item per year for items that have a substantially identical function (s 58X(3)) but the exemption is available for an item that replaces another item acquired earlier in the FBT year (s 58X(4)). A replacement item is one that is required because the earlier item was lost, destroyed or needed to be replaced due to developments in technology. A second item provided as a back-up — eg because the earlier item is being washed — is not exempt (NTLG FBT Sub-committee meeting, 14 May 2009). A combination of a tablet PC and a laptop computer or a phablet and a tablet PC would be eligible for the exemption but not a combination of a smartphone and a phablet or a tablet PC hybrid and a laptop computer because they are considered to have "substantially identical functions" and an exemption would not be available for the second item provided to an employee in the same FBT year unless s 58X(3) or (4) applied (NTLG FBT Sub-committee meeting, 16 May 2013). Employees are also denied decline in value deductions for eligible work-related items exempt under s 58X.
 
-Small business entities (¶7-050) that provide their employees with more than one qualifying work-related portable electronic device can access the FBT exemption even if the additional items have substantially similar functions as the ﬁrst device (s 58X(4)(b)). Further, employers who are not small business entities but would be if the aggregated turnover test were $50 million (instead of $10 million) are also eligible. For these purposes, the employer must be a small business entity (or would be, based on $50 million aggregated turnover) for the year of income starting most recently after the start of the FBT year or the year of income ending most recently after the start of the FBT year.
+Small business entities (¶7-050) that provide their employees with more than one qualifying work-related portable electronic device can access the FBT exemption even if the additional items have substantially similar functions as the first device (s 58X(4)(b)). Further, employers who are not small business entities but would be if the aggregated turnover test were $50 million (instead of $10 million) are also eligible. For these purposes, the employer must be a small business entity (or would be, based on $50 million aggregated turnover) for the year of income starting most recently after the start of the FBT year or the year of income ending most recently after the start of the FBT year.
 
-Working from home Items primarily used by employees for work, including laptops, portable printers and other electronic devices will usually be exempt from FBT where an employer has provided them to employees to allow them to work from home (or from another location). In addition, the minor beneﬁts exemption or the otherwise deductible rule may apply if employees are allowed to use a monitor, mouse or keyboard they otherwise use in the workplace, are provided with stationery or computer consumables, or their phone and internet access is paid or reimbursed.
+Working from home Items primarily used by employees for work, including laptops, portable printers and other electronic devices will usually be exempt from FBT where an employer has provided them to employees to allow them to work from home (or from another location). In addition, the minor benefits exemption or the otherwise deductible rule may apply if employees are allowed to use a monitor, mouse or keyboard they otherwise use in the workplace, are provided with stationery or computer consumables, or their phone and internet access is paid or reimbursed.
 
-Fly-in fly-out (FIFO) arrangements The provision of transport to and from an employee's home base and a remote area worksite (including a ship, vessel or ﬂoating structure: TD 95/49) is an exempt beneﬁt (s 47(7)). The exemption applies even where the employee takes a rest day during the period at the worksite (TD 94/96). A full list is provided on the ATO website at Fringe beneﬁts tax — remote areas.
+Fly-in fly-out (FIFO) arrangements The provision of transport to and from an employee's home base and a remote area worksite (including a ship, vessel or floating structure: TD 95/49) is an exempt benefit (s 47(7)). The exemption applies even where the employee takes a rest day during the period at the worksite (TD 94/96). A full list is provided on the ATO website at Fringe benefits tax — remote areas.
 
-The exemption covers Australian residents working in remote overseas areas who are employed under FIFO arrangements. Whether an overseas location is "remote" is determined on a case-by-case basis, using a number of factors such as distance to, and population of, the nearest urban area, amenities and facilities, safety and health risks. A list of remote overseas areas is also available on the ATO website at FBT exemption for ﬂy-in/ﬂy-out arrangements remote and non-remote overseas locations.
+The exemption covers Australian residents working in remote overseas areas who are employed under FIFO arrangements. Whether an overseas location is "remote" is determined on a case-by-case basis, using a number of factors such as distance to, and population of, the nearest urban area, amenities and facilities, safety and health risks. A list of remote overseas areas is also available on the ATO website at FBT exemption for fly-in/fly-out arrangements remote and non-remote overseas locations.
 
-Relocation expenses Beneﬁts relating to the movement of an employee from one locality to another for employment purposes are exempt, including:
+Relocation expenses Benefits relating to the movement of an employee from one locality to another for employment purposes are exempt, including:
 
 - relocation travel costs (including meals and accommodation en route) of the employee and
 
@@ -35,7 +35,7 @@ Relocation expenses Beneﬁts relating to the movement of an employee from one l
 
 2008) but not the costs of a visa application for a non-resident employee to remain in Australia (ID 2013/35)
 
-- the cost of removal of furniture and personal eﬀects (including insurance and storage) (s 58B)
+- the cost of removal of furniture and personal effects (including insurance and storage) (s 58B)
 
 - costs of temporary accommodation, both at the old locality and the new (subject to time limits) (s
 
@@ -61,7 +61,7 @@ Relocation expenses Beneﬁts relating to the movement of an employee from one l
 
   Cancelled events
 
-Non-refundable costs for cancelled events which employees were due to attend do not give rise to an FBT liability where the arrangement was between the employer and event organisers. However, where the employee was required to pay for his/her attendance at the event and the non-refundable costs were reimbursed to the employee, then this will constitute an expense payment fringe beneﬁt — although the otherwise deductible rule may apply for work-related events (ATO website).
+Non-refundable costs for cancelled events which employees were due to attend do not give rise to an FBT liability where the arrangement was between the employer and event organisers. However, where the employee was required to pay for his/her attendance at the event and the non-refundable costs were reimbursed to the employee, then this will constitute an expense payment fringe benefit — although the otherwise deductible rule may apply for work-related events (ATO website).
 
 Items that protect employees from COVID-19 Items provided to employees to protect them from COVID-19 while at work (such as gloves, masks, sanitisers and anti-septic sprays) are exempt from FBT under s 58N if they are provided to employees who:
 
@@ -71,11 +71,11 @@ Items that protect employees from COVID-19 Items provided to employees to protec
 
 - are involved in cleaning premises.
 
-If the employees are not involved in these functions, the minor beneﬁts exemption under s 58P may apply if the beneﬁts have a value of less than $300 and are minor, infrequent and/or irregular (ATO website).
+If the employees are not involved in these functions, the minor benefits exemption under s 58P may apply if the benefits have a value of less than $300 and are minor, infrequent and/or irregular (ATO website).
 
 COVID-19 tests The cost of COVID-19 testing (including for Polymerase Chain Reaction and Rapid Antigen Tests) provided to employees for work-related purposes is exempt from FBT under the "otherwise deductible" rule (¶35-680).
 
-This applies both when an individual is required to attend a physical workplace or has the option to work remotely. Testing that does not satisfy these requirements may potentially be exempt as "minor beneﬁts" or "occupational health and counselling" (see below).
+This applies both when an individual is required to attend a physical workplace or has the option to work remotely. Testing that does not satisfy these requirements may potentially be exempt as "minor benefits" or "occupational health and counselling" (see below).
 
 Other FBT exemptions
 
@@ -87,13 +87,13 @@ Other FBT exemptions
 
   employee or close relative at times of serious illness or death in the family (s 58LA)
 
-- emergency assistance — beneﬁts such as food, clothing and shelter, provided to employees
+- emergency assistance — benefits such as food, clothing and shelter, provided to employees
 
   and family members at a time of emergency (s 58N). It can also include emergency relief cash
 
   payments (ID 2011/60). Payment for ongoing medical treatment is not exempt (ATO website)
 
-- employment interviews — beneﬁts relating to travel (including meals and accommodation en
+- employment interviews — benefits relating to travel (including meals and accommodation en
 
   route) by a current or future employee for the purpose of attending a job interview or selection test
 
@@ -105,11 +105,11 @@ Other FBT exemptions
 
 (ie aged over 60) or disadvantaged (s 58U), and food and drink provided to such employees who do not live in (s 58V) (¶35-380)
 
-- long service awards — awards for long service of at least 15 years, provided the beneﬁt is no
+- long service awards — awards for long service of at least 15 years, provided the benefit is no
 
   more than $1000 for 15 years service and $100 for each additional year (s 58Q). Prior year long
 
-  service award beneﬁts for which an exemption was not available must be taken into account in
+  service award benefits for which an exemption was not available must be taken into account in
 
   determining the availability of current year exemptions (NTLG meeting, 12 November 2009). For
 
@@ -123,15 +123,15 @@ $1,000. After a further 5 years, the employee is provided with a watch valued at
 
   primary production employers where the business is not located in or adjacent to an eligible urban
 
-  area (eg ID 2006/333). It is also necessary that the beneﬁt not be meal entertainment, as deﬁned
+  area (eg ID 2006/333). It is also necessary that the benefit not be meal entertainment, as defined
 
   in s 37AD. The reimbursement by the employer of an employee's car parking fees incurred when
 
   attending an entertainment venue is an expense incurred in providing the employee with travel
 
-  under s 37AD (ID 2014/15). The meal beneﬁt must be either a board beneﬁt, property beneﬁt,
+  under s 37AD (ID 2014/15). The meal benefit must be either a board benefit, property benefit,
 
-  expense beneﬁt or residual beneﬁt (s 58ZD)
+  expense benefit or residual benefit (s 58ZD)
 
 - membership fees and subscriptions — an employee's subscription to a trade or professional
 
@@ -139,19 +139,19 @@ $1,000. After a further 5 years, the employee is provided with a watch valued at
 
   membership (s 58Y)
 
-- military compensation and other beneﬁts — beneﬁts provided to Commonwealth employees
+- military compensation and other benefits — benefits provided to Commonwealth employees
 
   who receive payments under the Military Rehabilitation and Compensation Act 2004 and
 
-  health care and other beneﬁts provided to members of the Defence Force (Fringe Beneﬁts Tax
+  health care and other benefits provided to members of the Defence Force (Fringe Benefits Tax
 
 (Application to the Commonwealth) Act 1986)
 
-- minor beneﬁts — beneﬁts with a value of less than $300 if, having regard to various matters
+- minor benefits — benefits with a value of less than $300 if, having regard to various matters
 
-  such as infrequency and irregularity, it would be unreasonable to treat the beneﬁt as a fringe beneﬁt
+  such as infrequency and irregularity, it would be unreasonable to treat the benefit as a fringe benefit
 
-(s 58P). "Infrequent and irregular beneﬁts" is not to be equated with "isolated or rare" (Case 2/96 96 ATC 131). See TR 2007/12 and ID 2005/366 (gift jointly purchased by employer and employee)
+(s 58P). "Infrequent and irregular benefits" is not to be equated with "isolated or rare" (Case 2/96 96 ATC 131). See TR 2007/12 and ID 2005/366 (gift jointly purchased by employer and employee)
 
 - newspapers and periodicals — newspapers and periodicals provided to employees for use for
 
@@ -159,11 +159,11 @@ $1,000. After a further 5 years, the employee is provided with a watch valued at
 
 - occupational health and counselling — work-related medical tests (including pre-employment
 
-  tests: ID 2007/141 and COVID-19 testing carried out by a legally qualiﬁed medical practitioner or
+  tests: ID 2007/141 and COVID-19 testing carried out by a legally qualified medical practitioner or
 
   nurse and it is available to all employees: ATO website), preventive health care including certain
 
-  vaccinations (including ﬂu vaccinations for employees working from home provided they are oﬀered
+  vaccinations (including flu vaccinations for employees working from home provided they are offered
 
   to all employees) (ID 2002/963; ID 2004/301; ATO website), work-related counselling (including
 
@@ -215,7 +215,7 @@ $1,000. After a further 5 years, the employee is provided with a watch valued at
 
   a taxi, such as DiDi, Sheba and Uber
 
-- transport for police force — certain free public transport provided to police oﬃcers (s 47)
+- transport for police force — certain free public transport provided to police officers (s 47)
 
 - travel for medical treatment — travel (including necessary accommodation and meals) by an
 
@@ -231,7 +231,7 @@ $1,000. After a further 5 years, the employee is provided with a watch valued at
 
 (ss 58PA; 58PB). The payments into the fund must be made under an industrial instrument for the purpose of making leave payments or payments when an employee ceases employment.
 
-Funds must be either prescribed by regulation or be a long service leave fund established under a Commonwealth, state or territory law. Approved worker entitlement funds are listed on the Australian Business Register (www.abr.business.gov.au). Contributions made by an employer to an approved worker entitlement fund to provide income protection insurance to employees do not constitute exempt beneﬁts (ID 2012/95)
+Funds must be either prescribed by regulation or be a long service leave fund established under a Commonwealth, state or territory law. Approved worker entitlement funds are listed on the Australian Business Register (www.abr.business.gov.au). Contributions made by an employer to an approved worker entitlement fund to provide income protection insurance to employees do not constitute exempt benefits (ID 2012/95)
 
 - workers compensation — provision of workers compensation insurance coverage and provision
 
@@ -239,6 +239,6 @@ Funds must be either prescribed by regulation or be a long service leave fund es
 
 - worksite medical facilities — work-related and incidental medical services and health care
 
-  beneﬁts provided at a worksite, ﬁrst aid post or medical clinic (s 58K).
+  benefits provided at a worksite, first aid post or medical clinic (s 58K).
 
-## Other beneﬁts covered by exemptions are:
+## Other benefits covered by exemptions are:

@@ -11,17 +11,17 @@ When a consolidated group is formed, the cost values of the assets of the head c
 
 However, any debt interests or membership interests held by the head company in the subsidiary members are ignored for tax purposes.
 
-Each entity becoming a subsidiary member of the consolidated group at the time it is formed is treated in the same way as an entity joining an existing consolidated group, subject to the following modiﬁcations to working out the allocable cost amount (ACA) for the entity.
+Each entity becoming a subsidiary member of the consolidated group at the time it is formed is treated in the same way as an entity joining an existing consolidated group, subject to the following modifications to working out the allocable cost amount (ACA) for the entity.
 
-- Where an entity (the "ﬁrst level entity") holds membership interests (including non-membership
+- Where an entity (the "first level entity") holds membership interests (including non-membership
 
   equity interests) in another entity that becomes a subsidiary member at the formation time, the tax
 
   cost setting amounts for the entities' assets are worked out "from the top down". First, the tax costs
 
-  for the ﬁrst level entity's assets are set according to the usual rules for a joining entity, including
+  for the first level entity's assets are set according to the usual rules for a joining entity, including
 
-  setting the cost base of the ﬁrst level entity's membership interests in the other entity. That cost
+  setting the cost base of the first level entity's membership interests in the other entity. That cost
 
   base is then used in step 1 in working out the ACA for the other entity and the tax costs for its
 
@@ -29,11 +29,11 @@ Each entity becoming a subsidiary member of the consolidated group at the time i
 
 - The step 3A amount (ie the deferred rollover gain or loss) is apportioned among the entity and
 
-  any "ﬁrst level entities" interposed between the entity and the head company (ITAA97 s 705-147).
+  any "first level entities" interposed between the entity and the head company (ITAA97 s 705-147).
 
-- The reduction under step 4 for pre-formation distributions is only made for proﬁts that have been
+- The reduction under step 4 for pre-formation distributions is only made for profits that have been
 
-  eﬀectively distributed to the head company in respect of its direct interests in the joining entities
+  effectively distributed to the head company in respect of its direct interests in the joining entities
 
 (ITAA97 s 705-155).
 
@@ -41,11 +41,11 @@ Each entity becoming a subsidiary member of the consolidated group at the time i
 
   value of its membership interests in another entity that becomes a subsidiary member at the
 
-  formation time is increased by the ﬁrst entity's interest in any loss of the other entity that reduces
+  formation time is increased by the first entity's interest in any loss of the other entity that reduces
 
-  its ACA under step 5 or 5A (or increased by its interest in any proﬁt that increases its ACA under
+  its ACA under step 5 or 5A (or increased by its interest in any profit that increases its ACA under
 
-  step 3) (ITAA97 s 705-160). The intention is to prevent a distortion in the apportionment of the ﬁrst
+  step 3) (ITAA97 s 705-160). The intention is to prevent a distortion in the apportionment of the first
 
   entity's ACA.
 

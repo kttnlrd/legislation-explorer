@@ -15,7 +15,7 @@ An entity cannot be a subsidiary member of the same consolidated group or consol
 
 The single entity rule (¶8-010) is disregarded to recognise intra-group transactions when determining the taxable income of consolidated groups that have life insurance company members. The rule remains valid for tax cost setting rules when a subsidiary member (ie a life insurance company) joins or leaves the consolidated group (ITAA97 s 713-510A).
 
-There are modiﬁcations to the cost setting rules (ITAA97 s 713-515) and rules for valuing certain liabilities (ITAA97 s 713-520).
+There are modifications to the cost setting rules (ITAA97 s 713-515) and rules for valuing certain liabilities (ITAA97 s 713-520).
 
 The joining time and leaving time when a life insurance company becomes or ceases to be a subsidiary member of a consolidated group are valuation times for the purposes of ITAA97 ss 320-175 (¶3-515) and 320-230 (¶3-520).
 

@@ -31,10 +31,10 @@ For more details on these special rules, see earlier editions of the Australian 
 
 - redeemable vouchers (GST Transition Act, ss 11; 24A)
 
-- oﬀshore supplies of intangibles to Australian consumers (¶34-250).
+- offshore supplies of intangibles to Australian consumers (¶34-250).
 
 Separate credit rules applied to pre-GST stocks of alcoholic beverages (GST Transition Act, ss 16A; 16AB; 16B) and petroleum products (GST Transition Act, s 16C).
 
-## The general rule is modiﬁed in various ways:
+## The general rule is modified in various ways:
 
 ## Various other transitional rules apply. These include:

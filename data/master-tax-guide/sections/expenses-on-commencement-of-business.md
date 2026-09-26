@@ -7,9 +7,9 @@ paragraph: "¶16-154"
 ---
 # Expenses on commencement of business ¶16-154
 
-Expenses associated with the purchase or establishment of a business are generally incurred at a point too soon to be regarded as being incurred in carrying on the business, although certain start-up costs may be written oﬀ as "blackhole expenditure" (¶16-156).
+Expenses associated with the purchase or establishment of a business are generally incurred at a point too soon to be regarded as being incurred in carrying on the business, although certain start-up costs may be written off as "blackhole expenditure" (¶16-156).
 
-Preliminary expenses on feasibility studies and tests in connection with establishing a paper production mill were held not to be deductible in the Softwood Pulp & Paper case 76 ATC 4439. Similarly, expenses incurred by a coal mining company in assessing the feasibility of participating in a project to construct an aluminium smelter were not deductible as they were part of the cost of establishing a new source of income (Griﬃn Coal Mining 90 ATC 4870; [1990] FCA 343, Balestra 2007 ATC 2662; [2007] AATA 1845). A similar result was reached in Case 62/94 94 ATC 520; [1994] AATA 358, but the mining company was allowed a deduction for permanent employees' salary and wages costs that had been allocated to the project.
+Preliminary expenses on feasibility studies and tests in connection with establishing a paper production mill were held not to be deductible in the Softwood Pulp & Paper case 76 ATC 4439. Similarly, expenses incurred by a coal mining company in assessing the feasibility of participating in a project to construct an aluminium smelter were not deductible as they were part of the cost of establishing a new source of income (Griffin Coal Mining 90 ATC 4870; [1990] FCA 343, Balestra 2007 ATC 2662; [2007] AATA 1845). A similar result was reached in Case 62/94 94 ATC 520; [1994] AATA 358, but the mining company was allowed a deduction for permanent employees' salary and wages costs that had been allocated to the project.
 
 Expenditure on feasibility studies may, of course, qualify for a general deduction if they are a normal part of a taxpayer's existing business (eg a taxpayer already in the mining industry; TR 2017/1).
 

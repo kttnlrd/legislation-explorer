@@ -5,21 +5,21 @@ section: "financial-benefits"
 title: "Financial benefits"
 paragraph: "¶23-110"
 ---
-# Financial beneﬁts ¶23-110
+# Financial benefits ¶23-110
 
-A "ﬁnancial beneﬁt" means anything of economic value and includes property and services (ITAA97 s 974-160).
+A "financial benefit" means anything of economic value and includes property and services (ITAA97 s 974-160).
 
-For the purposes of the debt and equity rules, a ﬁnancial beneﬁt is taken to be provided to an entity if it is provided: (a) to the entity; (b) on the entity's behalf; or (c) for the entity's beneﬁt.
+For the purposes of the debt and equity rules, a financial benefit is taken to be provided to an entity if it is provided: (a) to the entity; (b) on the entity's behalf; or (c) for the entity's benefit.
 
-Neither the issue of an equity interest by an entity or connected entity, nor an amount that is to be applied in respect of the issue, constitutes the provision of a ﬁnancial beneﬁt.
+Neither the issue of an equity interest by an entity or connected entity, nor an amount that is to be applied in respect of the issue, constitutes the provision of a financial benefit.
 
-Valuation of financial benefits Financial beneﬁts in relation to debt interests having a term up to 10 years are valued in nominal terms.
+Valuation of financial benefits Financial benefits in relation to debt interests having a term up to 10 years are valued in nominal terms.
 
-Where the term of the debt interest is, may or must exceed 10 years, they are valued in present value terms using the methodology provided in ITAA97 s 974-50 or in the regulations (ITAA97 s 974-35). Where a ﬁnancing arrangement consists of a redeemable preference share having eﬀectively non-contingent obligations and a term of 10 years, stapled to a perpetual ordinary share which has no eﬀectively non- contingent obligations, the relevant performance period that is used to value the ﬁnancial beneﬁts provided and received under the related scheme is that of the instrument with eﬀectively non-contingent obligations (ID 2006/103).
+Where the term of the debt interest is, may or must exceed 10 years, they are valued in present value terms using the methodology provided in ITAA97 s 974-50 or in the regulations (ITAA97 s 974-35). Where a financing arrangement consists of a redeemable preference share having effectively non-contingent obligations and a term of 10 years, stapled to a perpetual ordinary share which has no effectively non- contingent obligations, the relevant performance period that is used to value the financial benefits provided and received under the related scheme is that of the instrument with effectively non-contingent obligations (ID 2006/103).
 
-Where a future ﬁnancial beneﬁt is based on a variable factor such as a variable interest rate that cannot be accurately anticipated, the value of the ﬁnancial beneﬁt is calculated as if the factor's value retains its starting value over time.
+Where a future financial benefit is based on a variable factor such as a variable interest rate that cannot be accurately anticipated, the value of the financial benefit is calculated as if the factor's value retains its starting value over time.
 
-Where all the ﬁnancial beneﬁts provided and received under a scheme are denominated in a particular foreign currency, commodity or other unit of account, they are not converted into Australian currency for the purpose of comparing their relative values.
+Where all the financial benefits provided and received under a scheme are denominated in a particular foreign currency, commodity or other unit of account, they are not converted into Australian currency for the purpose of comparing their relative values.
 
 Where a party to a scheme has a right or option to terminate the scheme early and has a non-contingent obligation to exercise that right or option, the life of the interest ends at the earliest time at which the party will have to exercise the right or option. Otherwise, the right or option is disregarded in working out the life of the interest (ITAA97 s 974-40).
 

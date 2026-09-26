@@ -111,7 +111,7 @@ moratorium provisions.
 Moratorium provisions: Pt IV Div 2A
 [3.10] The Bankruptcy Act provides a breathing space for debtors contemplating
 bankruptcy in order to allow them to consider the various options for dealing with
-their ﬁnancial predicament. A 21 day moratorium is available against any civil debt
+their financial predicament. A 21 day moratorium is available against any civil debt
 recovery processes that are being taken against them by their creditors. The
 moratorium recognises that going bankrupt is a serious step and that some debtors
 go bankrupt without understanding that there may be viable alternatives to
@@ -127,7 +127,7 @@ Declaration of Intention to Present a Debtor's Petition: s 54A
 Official Receiver a Declaration of Intention to Present a Debtor's Petition accompanied
 by a statement of the debtor's affairs: s 54A, AFSA Form 5. The name of this
 declaration is something of a misnomer, as the policy behind the procedure is to
-give the debtor a chance to avoid bankruptcy. The debtor must be ﬁrst given
+give the debtor a chance to avoid bankruptcy. The debtor must be first given
 
 1 AFSA administration statistics 2016-2017. The proportion varies around the States and Territories. In
   Tasmania, 96% of bankruptcies were voluntary.
@@ -160,19 +160,19 @@ thereby trying to defeat that petition.
 
 Effect of a declaration for 21 days on "frozen debts"
 [3.35] Once a declaration is accepted and signed by the Official Receiver, the
-creditors disclosed in the debtor's statement of affairs are notiﬁed (s 54C) and the
+creditors disclosed in the debtor's statement of affairs are notified (s 54C) and the
 debtor can use the declaration for the purposes of s 54E – for example, it can be
 produced to creditors who were intending to execute on their court judgments, or
 to the sheriff. Both must take note of the declaration and put any action on hold
 during the 21-day period.
-The period of the stay is deﬁned in s 5(1). The period will end when the ﬁrst in time
+The period of the stay is defined in s 5(1). The period will end when the first in time
 of the following events occur:
    (a) the period of 21 days ends;
    (b) a creditor's petition is presented against the debtor or the debtor presents his or her
        own petition;
    (c) the debtor signs an authority under s 188; or
    (d) a sequestration order is made against the debtor.
-The declaration is effective in respect of "frozen debts" (s 54E(1)) which are deﬁned
+The declaration is effective in respect of "frozen debts" (s 54E(1)) which are defined
 in general terms as a debt that would be provable in any bankruptcy: s 5. This does
 not include liability under a family law maintenance arrangement.
 
@@ -180,7 +180,7 @@ not include liability under a family law maintenance arrangement.
 [3.50]                              3 Going Bankrupt – Voluntary and Compulsory Bankruptcy         103
 
 A creditor to whom a frozen debt is owed is unable to apply for the issue of
-"enforcement process" (as deﬁned in s 5(1)) or to enforce a remedy against the
+"enforcement process" (as defined in s 5(1)) or to enforce a remedy against the
 debtor's person or property: s 54E(2). But a creditor is not prevented from initiating
 or from taking a fresh step in legal proceedings in respect of the debt that are not
 connected with enforcing a judgment: s 54E(3). And importantly, the creditor is still
@@ -205,7 +205,7 @@ permits non-Australian citizens, members of Parliament and persons under
 A petition must be presented personally; for example, a petition may not be
 presented on behalf of a debtor under a power of attorney: Orix Australia
 Corporation Ltd v McCormick (2005) 145 FCR 244; [2005] FCA 1032. Some State laws
-allow administrators appointed to look after the affairs of mentally inﬁrm or
+allow administrators appointed to look after the affairs of mentally infirm or
 cognitively impaired persons to make those persons voluntarily bankrupt.3
 A debtor presenting a debtor's petition needs to show a connection with Australia.
 Section 55(2A) requires the Official Receiver to reject a petition unless, at the time
@@ -214,15 +214,15 @@ when it is presented, the debtor:
    (b) had a dwelling-house or place of business in Australia; or
    (c) was carrying on business in Australia, either personally or by means of an agent or
        manager; or
-   (d) was a member of a ﬁrm or partnership carrying on business in Australia by means of
+   (d) was a member of a firm or partnership carrying on business in Australia by means of
        a partner or partners or of an agent or manager.
 Thus, an overseas resident without that residential connection may not present a
 petition in Australia in respect of their Australian liabilities.
 
 3 In SAL and JGL [2016] WASAT 63, administration orders were made under the Guardianship and
   Administration Act 1990 (WA) allowing a son to present a debtors petition on behalf of his father, who
-  had suffered a stroke leaving him with signiﬁcant cognitive impairment. The father had signiﬁcant
-  debts and limited assets. See also NSW Trustee and Guardian Act 2009 (NSW) and "Mental Inﬁrmity
+  had suffered a stroke leaving him with significant cognitive impairment. The father had significant
+  debts and limited assets. See also NSW Trustee and Guardian Act 2009 (NSW) and "Mental Infirmity
   and Bankruptcy" (2011) 23 A Insol J 44.
 104    Keay's Insolvency: Personal and Corporate Law and Practice                   [3.55]
 
@@ -233,7 +233,7 @@ developed and is discussed shortly in that context. See [3.160].
 
 Debtors' petitions of individual debtors
 [3.55] Voluntary bankruptcy involves not only the debtor presenting a debtor's
-petition (s 55(1), AFSA Form 6) but also ﬁling a "statement of affairs" and a copy:
+petition (s 55(1), AFSA Form 6) but also filing a "statement of affairs" and a copy:
 s 55(2). The statement of affairs is a statutory form – AFSA Form 3 – in which the
 debtor is required to list all their assets and liabilities and give other information
 required under the Act.
@@ -244,7 +244,7 @@ with the approved form; it is not accompanied by a statement of affairs, or the
 Official Receiver is of the view that the statement of affairs is inadequate. In
 practice, petitions are rarely rejected.
 A debtor must also provide the Official Receiver with sufficient information to
-conﬁrm their identity, for example a passport and driver's licence. The simple
+confirm their identity, for example a passport and driver's licence. The simple
 process of entry into bankruptcy would otherwise be open to serious abuse.
 The Official Receiver is not acting judicially in accepting and endorsing a petition,
 and thereby making a person bankrupt; the process is purely administrative in
@@ -260,7 +260,7 @@ to reject the petition can be exercised where it appears from the statement of a
 that the debtor would be likely (either immediately or within a reasonable time) to
 be able to pay all their debts and it appears the debtor is simply unwilling to pay a
 particular creditor, or the debtor had previously presented their petition at least
-three times, or at least once in the previous ﬁve years. The Official Receiver is not
+three times, or at least once in the previous five years. The Official Receiver is not
 required to consider in each case whether there is a discretion to reject the petition:
 s 55(3AB). Even if the statement of affairs shows that the debtor would be able to
 pay all their debts, the Official Receiver need not reject the petition: Dubow v Official
@@ -293,7 +293,7 @@ a petition unless he or she obtains the leave of the court: s 55(6), (5A).
 Stay imposed for farmers and rural producers
 [3.75] Finally – and this is rare – a debtor may be unable to present a petition
 without the leave of the court where a stay under a proclaimed law applies to the
-debtor: ss 55(6A), 56A(6), 57(8). Section 5 deﬁnes "a proclaimed law" and includes
+debtor: ss 55(6A), 56A(6), 57(8). Section 5 defines "a proclaimed law" and includes
 laws providing for the protection of farmers and other rural producers: see Pt XIA
 – Farmers' Debts Assistance and ss 253E and 253F.
 
@@ -308,7 +308,7 @@ the debtor's petition is of no effect: Orix Australia Corporation Ltd v McCormic
 
 When a person becomes bankrupt
 [3.85] At the moment that the Official Receiver "endorses" the petition the debtor
-is bankrupt (s 55(4A)) and is deemed to be bankrupt "at the ﬁrst instant" of that
+is bankrupt (s 55(4A)) and is deemed to be bankrupt "at the first instant" of that
 day: s 57A. When a bankruptcy actually "commences" is determined, as we have
 seen, by s 115(2): see [2.80].
 
@@ -321,7 +321,7 @@ their bankruptcy, in which instance the debtor must obtain the trustee's consent
   the Official Receiver could not reject an overseas petition: Official Receiver v Walia [1997] FCA 1190.
 106      Keay's Insolvency: Personal and Corporate Law and Practice                              [3.95]
 
-writing (s 156A, AFSA Form 12), which must be ﬁled with the petition: reg 4.12.6
+writing (s 156A, AFSA Form 12), which must be filed with the petition: reg 4.12.6
 The Official Receiver must give that trustee a copy of the debtor's statement of
 affairs: s 55(5).
 If there is no consent of a trustee, the Official Trustee automatically becomes the
@@ -356,7 +356,7 @@ both of the following has occurred:
   in which case the Official Receiver must give notice to all those who did not join
   in;
 
-6 A consent may be revoked by the trustee before the hearing, for example if a potential conﬂict of
+6 A consent may be revoked by the trustee before the hearing, for example if a potential conflict of
   interest arises, and may be impliedly revoked: see, for example, Osborne v Gangemi (No 2) (2011) 9
   ABC(NS) 273; [2011] FCA 1278.
 7 A petition cannot be presented by a partnership registered under a law providing for its winding up
@@ -378,19 +378,19 @@ accept the petition it must specify the date of commencement of bankruptcy of ea
 of the persons who became bankrupt as a result of the acceptance: s 56C(5).
 If a person did not join in the presentation of the petition but became a bankrupt as
 a result of the acceptance of the petition (following a court direction) that person
-must, within 14 days of being notiﬁed of the bankruptcy, give the Official Receiver
+must, within 14 days of being notified of the bankruptcy, give the Official Receiver
 a statement of his or her affairs and a statement of the partnership's affairs: s 56F(1).
 Copies of the documents must be given to the trustee of the member's bankrupt
 estate: s 56F(3).
 
 Petitions by joint debtors: s 57
-[3.105] Section 57 enables joint debtors who are not in partnership to ﬁle a joint
+[3.105] Section 57 enables joint debtors who are not in partnership to file a joint
 petition against themselves. This often applies in practice to married couples. As
 with an individual debtor, in addition to a petition, a statement of affairs for each
 debtor must be presented together with a statement of their joint affairs: s 57(2). The
 provisions governing joint petitions are largely the same as those governing
 individual petitions: s 57(3) – (7).
-A trustee may be the trustee of both estates, subject to any conﬂict of interest.
+A trustee may be the trustee of both estates, subject to any conflict of interest.
 
 Referral of a petition to the court: s 55(3B)
 [3.110] Under s 55(3B) of the Act, the Official Receiver must refer a debtor's
@@ -404,7 +404,7 @@ that case that the Official Receiver must refer the debtor's petition to the cou
 the court directs the Official Receiver to accept the petition, s 55(3C) requires the
 court to state the date of commencement of the bankruptcy that results from that
 acceptance. The section leaves the discretion of the court unfettered, "but perhaps
-with an eye on the possibility that the ﬁling of the debtor's petition (in such
+with an eye on the possibility that the filing of the debtor's petition (in such
 circumstances) is an abuse": Greater Building Society Ltd v Hill [2012] FMCA 431 at
 [9]. The court directed the Official Receiver to reject a debtor's voluntary petition in
 circumstances of a pending creditors' petition and where there was a real likelihood
@@ -423,13 +423,13 @@ Improper purpose etc
 (NS) 70, the debtors were facing the prospect of a large damages claim against them
 being brought by BWK. They presented their own petitions, although they were
 then solvent, with their only debts being to their respective spouses. On the
-creditor's application, the court annulled their bankruptcies, ﬁrstly, because they
+creditor's application, the court annulled their bankruptcies, firstly, because they
 were in fact solvent, and second because it was an abuse for a debtor to "present a
 petition for the purpose of placing his estate beyond the reach of a person who will
 imminently become a creditor". While BWK was not a creditor with a provable
 debt when the petitions were presented, the object of the debtors was to thwart or
 override the effect of the judgment that was about to be obtained by BWK.
-In Re Moncada [1986] FCA 138; (1986) 11 FCR 205, the bankrupt husband had ﬁled
+In Re Moncada [1986] FCA 138; (1986) 11 FCR 205, the bankrupt husband had filed
 "a grossly untrue affidavit" purporting to show his insolvency to thwart a claim by
 his former wife as his only substantial creditor. He was in fact solvent. The court
 found that the petition was an abuse of process and it annulled the bankruptcy.
@@ -482,12 +482,12 @@ may choose to commence proceedings to bankrupt the debtor. The proceedings are
 commenced by the creditor presenting an application to the court called a
 "creditor's petition". The petition will seek a "sequestration order" against the
 debtor's estate. If such an order is made then the debtor becomes bankrupt and a
-trustee will take over the estate of the bankrupt and administer it for the beneﬁt of
+trustee will take over the estate of the bankrupt and administer it for the benefit of
 creditors. Before commencing bankruptcy proceedings, a creditor is likely to have
 obtained a civil money judgment against the debtor and to have attempted to
 enforce its judgment. However, a creditor need not pursue enforcement of a
 judgment before commencing bankruptcy proceedings.
-Although signiﬁcant in the bankruptcy process, and in case law, only 10% of
+Although significant in the bankruptcy process, and in case law, only 10% of
 bankruptcies result from court orders, the remainder being voluntary
 bankruptcies.11
 
@@ -528,9 +528,9 @@ Hickie [2016] FCAFC 101; (2016) 246 FCR 532; Kimber v The Owners Strata Plan No
 The Federal Court's website has a useful Creditor's Petition Checklist for both
 courts. This covers acts of bankruptcy, affidavits necessary for the petition,
 adjournments and costs.
-The Act requires a creditor to "present" a petition to the court and to "ﬁle"
+The Act requires a creditor to "present" a petition to the court and to "file"
 applications and affidavits and other documents. The date of presentation of the
-petition to the court is signiﬁcant in determining the date of commencement of the
+petition to the court is significant in determining the date of commencement of the
 bankruptcy under s 115 of the Act.
 In hearing bankruptcy applications, in particular in relation to challenges to
 bankruptcy notices and petitions, the courts have regard to the serious nature of
@@ -547,7 +547,7 @@ petition: Australian Workers' Union v Bowen (No 1) [1964] HCA 24; (1946) 72 CLR
 575.
 
 12 See Supreme Court Rules 1970 (NSW), r 55.13(2) that "where the contemnor is a corporation, the
-   Court may punish contempt by sequestration or ﬁne or both".
+   Court may punish contempt by sequestration or fine or both".
 13 See Kimber v The Owners Strata Plan No 48216 [2017] FCAFC 226, referring to the lawyers' duty under
    s 37N of the Federal Court of Australia Act 1976.
 [3.155]                        3 Going Bankrupt – Voluntary and Compulsory Bankruptcy   111
@@ -600,11 +600,11 @@ FCR 149).
 112     Keay's Insolvency: Personal and Corporate Law and Practice                   [3.160]
 
 The $5,000 threshold imposed under s 44(1) is in respect of any debt owing and is
-independent of the ﬁnal judgment or order required for the issue of a bankruptcy
+independent of the final judgment or order required for the issue of a bankruptcy
 notice under s 41(1): Autron Pty Ltd v Benk [2011] FCAFC 93; (2011) 195 FCR 404.15
 
 Australian connection
-[3.160]   The debtor must have a speciﬁc connection with Australia at the time of
+[3.160]   The debtor must have a specific connection with Australia at the time of
 the commission of the act of bankruptcy relied on by the creditor. The connections
 which satisfy this requirement are listed in s 43(1)(b) and are the same as those that
 apply under s 55(2A) in respect of a debtor's petition, see [3.50]. These include
@@ -615,7 +615,7 @@ Australia or is ordinarily resident here: s 43(1)(b)(i). It is not sufficient if
 owns a house in Australia but does not use it as a residence, but temporary absence
 with an intent to return – a place where the debtor "may repair at his whim at any
 time" – will be: Mathai v Kwee [2005] FCA 932. It is much dependent on the
-particular facts but the ﬁnding is ultimately a question of law for the court: Levene v
+particular facts but the finding is ultimately a question of law for the court: Levene v
 IRC [1928] AC 217. A person can be ordinarily resident in more than one country at
 a time – see Re Taylor; Ex parte Natwest Australia Bank Ltd [1992] FCA 296; (1992) 37
 FCR 194, 198; Battenberg v Restom [2007] FCAFC 195; 5 ABC (NS) 533.
@@ -624,7 +624,7 @@ own business. It is not sufficient that the debtor was merely engaged as an empl
 in someone else's business; nor is it sufficient if the debtor merely controls a
 company which itself carries on the business: Turner v Trevorrow [1995] FCA 1091,
 (1994) 49 FCR 566. But if debts connected with the debtor's business remain owing
-in Australia, the requirement of carrying on business is satisﬁed even if the
+in Australia, the requirement of carrying on business is satisfied even if the
 business is ended and the debtor has left the country: Re Vassis [1996] FCA 21,
 (1986) 9 FCR 518.
 
@@ -663,17 +663,17 @@ six months which immediately precede the presentation of the petition: ss 43,
 44(1)(c); put another way, the petition must be presented to the court within
 six months of the date of act of bankruptcy. That time period cannot be extended or
 abridged pursuant to the court's powers under s 33(1) of the Act: Shephard v
-Chiquita Brands (South Paciﬁc) Ltd [2004] FCAFC 76; (2004) 1 ABC (NS) 610, 623-624.
+Chiquita Brands (South Pacific) Ltd [2004] FCAFC 76; (2004) 1 ABC (NS) 610, 623-624.
 An act of bankruptcy is an indicator of a person's insolvency. It is said that
 bankruptcy law is not to be used as a debt collecting procedure against those who
 owe money but who are solvent; before a petition may be brought there must be
 that indication of the debtor's insolvency within the statutory period of six
 months.16
-At [2.05] we noted the signiﬁcance of the date of commencement of the bankruptcy.
+At [2.05] we noted the significance of the date of commencement of the bankruptcy.
 While an act of bankruptcy is required in order to initiate a creditor's petition, it can
 also mark the date of commencement of the bankruptcy for the purposes of the
 doctrine of relation back and recovery of property. Thus, the date of commencement
-of the bankruptcy has a dual signiﬁcance and relevance.
+of the bankruptcy has a dual significance and relevance.
 
 Acts of bankruptcy: s 40(1)
 [3.175]    Section 40(1) lists the actions or inactions which may constitute an act of
@@ -696,7 +696,7 @@ act of bankruptcy. This is subject to the reality that a bankruptcy notice is no
 public document and creditors other than the one who had the notice issued may
 not be aware that a notice has been issued and served.
 The creditor relying upon a bankruptcy notice will have had to have obtained a
-ﬁnal judgment against their debtor. The other act of bankruptcy which requires the
+final judgment against their debtor. The other act of bankruptcy which requires the
 creditor to have obtained a judgment against the debtor is the failure of execution
 process issued against the debtor's assets: s 40(1)(d). The problem with not
 obtaining a judgment is, as raised earlier, that it opens the way for a debtor to argue
@@ -708,7 +708,7 @@ should go behind the judgment and reopen the matter, which is difficult (see
 [3.165]), the creditor will have proved that a debt is owed.
 About 95% of petitions are founded on the failure to comply with a bankruptcy
 notice. As this is the most important act of bankruptcy, it will be dealt with in more
-detail than any other. We do, however, ﬁrst examine some of the other acts of
+detail than any other. We do, however, first examine some of the other acts of
 bankruptcy which are of practical importance.
 
 Particular acts of bankruptcy
@@ -745,13 +745,13 @@ bankruptcy of "absenting" oneself: In re Alice Alderson; Ex parte Jackson [1895]
 Execution against the debtor
 [3.185]     A debtor commits an act of bankruptcy if execution under court process
 has been issued against the debtor's property and has been returned by the sheriff
-"unsatisﬁed"; if execution has resulted in a sale of the debtor's property by the
+"unsatisfied"; if execution has resulted in a sale of the debtor's property by the
 sheriff; or if the debtor's property has been held by the sheriff for 21 days:
 s 40(1)(d). Failure to satisfy the court process suggests that the debtor does not have
 sufficient property which can be realised easily to pay debts. The act of bankruptcy
 is complete when property is sold, or at the end of the 21 days (if property was
-held), or (if the process was unsatisﬁed) from the date of the return of the process.
-To establish that execution has been returned unsatisﬁed the creditor must prove
+held), or (if the process was unsatisfied) from the date of the return of the process.
+To establish that execution has been returned unsatisfied the creditor must prove
 that the warrant of execution was physically brought back to the court registry: Re
 Ousley [1994] FCA 883, (1994) 48 FCR 131; Lewis v Lamb [2012] FMCA 392.
 
@@ -787,16 +787,16 @@ not to constitute an act of bankruptcy in Lawry v Mitrou [2009] FMCA 258.
 116      Keay's Insolvency: Personal and Corporate Law and Practice                              [3.195]
 
 Section 40(1)(o) was introduced in 2005 to create an act of bankruptcy if the debtor
-becomes insolvent as a result of a transfer of property under a family law ﬁnancial
-agreement or a Pt VIIIAB ﬁnancial agreement, both under the Family Law Act, to
-which the debtor is a party. The aim is to prevent or deter the use of ﬁnancial
+becomes insolvent as a result of a transfer of property under a family law financial
+agreement or a Pt VIIIAB financial agreement, both under the Family Law Act, to
+which the debtor is a party. The aim is to prevent or deter the use of financial
 agreements to transfer assets for the purpose of defeating or delaying creditors see
 Official Trustee in Bankruptcy & Galanis [2017] FamCAFC 20.
 The Harmer Report recommended the repeal of many of these "ancient" acts of
-bankruptcy as being ﬁxed in 16th century concepts of acts of notoriety indicating
+bankruptcy as being fixed in 16th century concepts of acts of notoriety indicating
 insolvency. In fact those related to Part X agreements are a disincentive to pursuing
 that option.18 They no longer exist under English law. But while they remain, it can
-be that a trustee, on examining the bankrupt's records, will ﬁnd a letter from the
+be that a trustee, on examining the bankrupt's records, will find a letter from the
 then debtor to a creditor stating that "I have no money and cannot pay you". If that
 was written at a date earlier than the act of bankruptcy relied upon by the creditor,
 but still within the 6 month period, it can usefully serve to extend out the date of
@@ -806,16 +806,16 @@ Act of bankruptcy must be committed in Australia
 [3.195] The act of bankruptcy relied on must be committed within Australia
 unless the Bankruptcy Act indicates that it can be committed elsewhere; for example,
 the act of bankruptcy in s 40(1)(a) is – "in Australia or elsewhere" conveying or
-assigning property for the beneﬁt of creditors; or remaining out of Australia with
+assigning property for the benefit of creditors; or remaining out of Australia with
 the intent to defeat or delay creditors under s 40(1)(c)(i).
 
 The most common act of bankruptcy – failure to comply with a
 bankruptcy notice
 [3.200]   A bankruptcy notice is a document issued by the Official Receiver19 upon
-the application of a creditor who has obtained against the debtor a ﬁnal judgment
+the application of a creditor who has obtained against the debtor a final judgment
 or order for payment of money which has not been stayed. The notice calls on the
 debtor to pay or secure the payment of the amount claimed in the notice within the
-time speciﬁed. The notice states the consequences of non-compliance (s 40(1)(g)),
+time specified. The notice states the consequences of non-compliance (s 40(1)(g)),
 including that an act of bankruptcy may be committed.20
 In considering the law on bankruptcy notices, it must be remembered that their
 purpose is to convey to the debtor the amount claimed by the creditor and to give
@@ -847,20 +847,20 @@ had originally taken no action to contest the notice.22
 
 Final judgment or order that has not been stayed
 [3.205] To have a bankruptcy notice issued, it is necessary for a creditor to
-ensure that it has a "ﬁnal judgment or order" in money terms against the debtor
-(s 40(1)(g)), that is, one which ﬁnally disposes of the matter in dispute or one by
-which the rights of the parties are ﬁnally determined even if it may not dispose of
+ensure that it has a "final judgment or order" in money terms against the debtor
+(s 40(1)(g)), that is, one which finally disposes of the matter in dispute or one by
+which the rights of the parties are finally determined even if it may not dispose of
 the action or the proceeding in which it was made: Gardiner v Gardiner [1992] FCA
 328; (1992) 39 FCR 259.23 The fact that the court's order may be later varied or
-become the subject of a successful appeal does not prevent it from being ﬁnal: Re
+become the subject of a successful appeal does not prevent it from being final: Re
 Pannowitz; Ex parte Wilson (1975) 38 FLR 184.
-There can be difficulties in determining whether some orders are in fact ﬁnal.
-Section 40(3) assists by deeming certain orders or judgments as being ﬁnal. Thus,
+There can be difficulties in determining whether some orders are in fact final.
+Section 40(3) assists by deeming certain orders or judgments as being final. Thus,
 where leave is given by a court to enforce an award of money made pursuant to
-arbitration, the award is deemed to be a ﬁnal order: s 40(3)(a). Also, certain orders
+arbitration, the award is deemed to be a final order: s 40(3)(a). Also, certain orders
 involving arrears of maintenance made under the Family Law Act 1975 (Cth) are
-deemed to be ﬁnal orders: s 40(3)(f). A costs order is a ﬁnal order and if the costs
-have been quantiﬁed or subsequently taxed in a ﬁxed amount, a bankruptcy notice
+deemed to be final orders: s 40(3)(f). A costs order is a final order and if the costs
+have been quantified or subsequently taxed in a fixed amount, a bankruptcy notice
 can be issued: Gibbs v Triscott [1995] FCA 1723;(1995) 65 FCR 80.
 Execution of the judgment or order must not be stayed for any period: s 40(1)(g),
 see Ritson v Commissioner of Police, New South Wales Police Force [2018] FCCA 916 in
@@ -903,7 +903,7 @@ Forge (2003) 133 FCR 487; 1 ABC (NS) 429, the Full Federal Court upheld the
 validity of a bankruptcy notice based on civil penalty orders under the then
 Corporations Law. Such orders are not, by virtue of s 82(3AA) of the Bankruptcy Act,
 provable debts.25 The court noted that an act of bankruptcy is more than "a mere
-trigger" to allow a creditor to present a creditor's petition; its wider signiﬁcance lies
+trigger" to allow a creditor to present a creditor's petition; its wider significance lies
 in the timing of the application of the doctrine of relation back that may potentially
 assist all creditors.
 The relevant date for the determination of the amount owing is the date of the issue
@@ -914,7 +914,7 @@ Procedures
 online and must include a completed form of the notice itself.27 A copy of the
        26
 
-sealed or certiﬁed judgment, order or award must be provided. A fee of $470 (in
+sealed or certified judgment, order or award must be provided. A fee of $470 (in
 2018) is payable. A creditor should search the NPII (National Personal Insolvency
 Index) beforehand to see if the debtor is already subject to bankruptcy proceedings.
 If so, the creditor may wish to await the outcome of those, or support them.
@@ -930,7 +930,7 @@ can inspect the notice: reg 4.03.
 [3.225]                              3 Going Bankrupt – Voluntary and Compulsory Bankruptcy           119
 
 An issued notice that is ready for service will therefore be endorsed and dated by
-the Official Receiver and will have attached to it a copy of the sealed or certiﬁed
+the Official Receiver and will have attached to it a copy of the sealed or certified
 judgment, order or award.28
 
 Service
@@ -954,7 +954,7 @@ post to her address; but if proof of posting is shown, the debtor's proof that s
 not in fact receive the notice will not be enough, she will be regarded as having
 been properly served.
 A bankruptcy notice, or any debt process, must be served properly, with the debtor
-clearly identiﬁed, and with some consideration given to the circumstances of the
+clearly identified, and with some consideration given to the circumstances of the
 debtor; for example, service at the debtor's workplace would generally not be
 appropriate.31 This will depend on any difficulties the debtor imposes, for example,
 by way of avoiding service. All the necessary documents must be served – both a
@@ -966,7 +966,7 @@ order.32
    fn 1. But in the context of the electronic issue of bankruptcy notices by the Official Receiver, see
    Curtis v Singtel Optus Pty Ltd [2014] FCAFC 144.
 29 Skalkos v T & S Recoveries Pty Ltd [2004] FCAFC 321; (2004) 141 FCR 107. See also Napiat Pty Ltd v
-   Salﬁnger (No 7) [2011] FCA 1322; (2011) 202 FCR 264; appeal dismissed in Salﬁnger v Napiat [2012]
+   Salfinger (No 7) [2011] FCA 1322; (2011) 202 FCR 264; appeal dismissed in Salfinger v Napiat [2012]
    FCAFC 77.
 30 Issues with the date and place of service under reg 16.01 were raised in Fuller, in the matter of Alford
    v Alford [2017] FCA 782 and in American Express Australia Ltd v Michaels [2010] FMCA 103.
@@ -1007,7 +1007,7 @@ Determination of the date of the act of bankruptcy
 [3.240] The time allowed to a debtor for compliance with a bankruptcy notice
 served in Australia is 21 days,33 or such period ordered by the court if leave to
 serve the notice outside Australia is granted: s 40(1)(g)(i) – (ii). If a debtor fails to
-comply with the terms of a notice within the speciﬁed time, that is, by the end of
+comply with the terms of a notice within the specified time, that is, by the end of
 the 21st day after the day of service (the day of service is excluded), the debtor
 commits an act of bankruptcy on that day: Swarbrick v Burge [2009] FMCA 985. The
 time for compliance with a bankruptcy notice may be extended under s 41(6A) or
@@ -1015,7 +1015,7 @@ s 41(7). How an extension is obtained is discussed at [3.260].
 
 Challenging bankruptcy notices
 [3.245]   The proper response of a debtor served with a valid notice is either to
-pay within the time speciﬁed, or to take steps to assess whether any challenge to
+pay within the time specified, or to take steps to assess whether any challenge to
 the notice can be made. If the debtor does not comply, an act of bankruptcy is
 committed.
 
@@ -1024,7 +1024,7 @@ committed.
 [3.260]                             3 Going Bankrupt – Voluntary and Compulsory Bankruptcy        121
 
 Debtor must act within the 21 days
-[3.250]    A debtor who wishes to challenge a notice should ﬁle court process34
+[3.250]    A debtor who wishes to challenge a notice should file court process34
 within the time for compliance, in particular if the basis of setting the notice aside is
 to challenge the money judgment on which it is based. The debtor can challenge the
 notice later, which may prevent the creditor obtaining a sequestration order on a
@@ -1034,7 +1034,7 @@ The debtor can take one of a number of courses of action to contest the notice w
 a view to the notice being set aside.
 
 Application to set aside judgment
-[3.255] As a bankruptcy notice must be founded upon a ﬁnal judgment, it may
+[3.255] As a bankruptcy notice must be founded upon a final judgment, it may
 be that the debtor can challenge that judgment. An example would be where a
 default judgment in the Victorian County Court was obtained and the debtor
 maintains that she was not served with the court process. In such a case, the debtor
@@ -1052,7 +1052,7 @@ courts' jurisdiction to consider and determine applications to set aside bankrup
 notices, otherwise the application would be negated by the debtor's commission of
 an act of bankruptcy. An extension order cannot be made under s 33; s 41(6A) is the
 sole source of power to extend time for compliance with a bankruptcy notice.35
-Given the signiﬁcance of the act of bankruptcy that is being deferred by an
+Given the significance of the act of bankruptcy that is being deferred by an
 extension, an extension order should not be made without notice to the creditor
 who should have the opportunity to be heard on whether time should be extended
 at all, or at least further extended.36 The deferral of an act of bankruptcy may have
@@ -1070,7 +1070,7 @@ reasons for no stay of judgment having been obtained, the debtors' solvency, the
    54 FCR 403.
 122      Keay's Insolvency: Personal and Corporate Law and Practice                                [3.265]
 
-prospects of appeal, the prejudice to the debtors, the signiﬁcance of the relation
+prospects of appeal, the prejudice to the debtors, the significance of the relation
 back period, and whether there has been any undertaking given in respect of the
 outstanding judgment: see Prins v Body Corporate For The Wave CTS [2012] FMCA
 148; Council of the City of Sydney v Obeid [2013] FCA 149.
@@ -1089,7 +1089,7 @@ An application for an extension of time for compliance may conceivably be made
 under s 41(6A) by a creditor, for example in circumstances where a debtor succeeds
 in having a notice set aside at trial and the creditor is successful in its appeal.37
 The affidavit in support of any application to set aside a bankruptcy notice must
-generally be ﬁled before the time for compliance with the notice has expired: La
+generally be filed before the time for compliance with the notice has expired: La
 Pegna v Commissioner of Taxation [2006] FMCA 1643; (2006) 204 FLR 364.
 
 If time has already expired, time may still be extended
@@ -1106,14 +1106,14 @@ Application for extension may be refused: s 41(6C)
 cannot meet s 41(6C), which lists matters of which the court must take account in
 exercising its discretion to extend time in circumstances where the debtor is taking
 
-37 Shephard v Chiquita Brands (South Paciﬁc) Ltd [2004] FCAFC 76; (2004) 1 ABC (NS) 610, 623-624. In
+37 Shephard v Chiquita Brands (South Pacific) Ltd [2004] FCAFC 76; (2004) 1 ABC (NS) 610, 623-624. In
    that case, the creditor unsuccessfully applied to extend time so as to seek a later act of bankruptcy to
    validate its petition, which had been presented outside the six-month period.
 38 Streimer v Tamas (1981) 54 FLR 253; accepted by the High Court in Guss v Johnstone [2000] HCA 26;
    (2000) 74 ALJR 884; further explained in Coshott v Prentice (No 2) [2016] FCA 1531.
 39 It is not enough for the debtor to make an application which is dismissed before the time for
    compliance with the bankruptcy notice has expired: Re Udowenko; Ex parte Mitchell (1996) 69 FCR
-   299; Shephard v Chiquita Brands (South Paciﬁc) Ltd [2004] FCAFC 76; (2004) 1 ABC (NS) 610. However,
+   299; Shephard v Chiquita Brands (South Pacific) Ltd [2004] FCAFC 76; (2004) 1 ABC (NS) 610. However,
    an appellate court may be able to extend time if the debtor's challenge to the validity of a notice is
    ultimately upheld, despite an act of bankruptcy having been committed: Guss v Johnstone [2000]
    HCA 26; (2000) 74 ALJR 884 at [62]-[63]; Coshott v Prentice (No 2) [2016] FCA 1531.
@@ -1121,7 +1121,7 @@ exercising its discretion to extend time in circumstances where the debtor is ta
 
 separate proceedings to set aside the judgment on which the notice is based. That
 is, an extension of time is not to be granted where the debtor's proceedings have
-not been instituted bona ﬁde or are not being prosecuted diligently.
+not been instituted bona fide or are not being prosecuted diligently.
 
 Act of bankruptcy remains even if judgment is set aside
 [3.275] Once an act of bankruptcy has been committed because of a failure to
@@ -1174,7 +1174,7 @@ A bankruptcy notice is a nullity in two circumstances, namely, "if it fails to m
 requirement made essential by the Act, or if it could reasonably mislead a debtor as
 to what is necessary to comply with the notice": Kleinwort Benson v Crowl [1988]
 HCA 34; (1988) 165 CLR 71; Adams v Lambert [2006] HCA 10; (2006) 228 CLR 409.
-As to the ﬁrst, the question has to be answered in light of the general purpose of
+As to the first, the question has to be answered in light of the general purpose of
 the bankruptcy notice provisions, so that if the error could reasonably mislead a
 debtor as to what is necessary to comply with the notice it is essential and cannot
 be said to be merely a formal defect or irregularity in terms of s 306.
@@ -1222,7 +1222,7 @@ consequent stay of execution at the time of the application for the issue of the
 notice, it will be invalid: s 41(3)(b). The time for consideration whether a judgment
 has not been stayed is the time of issue, or at the latest, service of the bankruptcy
 notice.43
-[3.295] Even if the identiﬁed defects in the bankruptcy notice are not matters
+[3.295] Even if the identified defects in the bankruptcy notice are not matters
 made "essential" by the Act, they may still invalidate the bankruptcy notice if they
 are matters which "could reasonably mislead a debtor". In that regard, it is
 irrelevant whether the debtor is in fact misled. The court must apply an objective
@@ -1250,8 +1250,8 @@ Overstatement: s 41(5)
 amount claimed in it exceeds the correct sum due.44 However, the debtor can give
 notice to the creditor that he or she disputes the notice on the basis of misstatement.
 In Croker v Commissioner of Taxation [2005] FCA 127; (2005) 145 FCR 150, the amount
-of the court fee for registering a costs certiﬁcate was incorrectly included in the
-certiﬁcate of judgment and also in the notice, which was set aside.
+of the court fee for registering a costs certificate was incorrectly included in the
+certificate of judgment and also in the notice, which was set aside.
 
 43 Schekeloff; Ex parte Schekeloff v The Hopkins Group Pty Ltd (1989) 22 FCR 407; compare Murdaca v
    Accounts Control Management Services Pty Ltd [2007] FCA 964. But see Girgis v Gells Lawyers Pty Ltd
@@ -1290,16 +1290,16 @@ which voidable transactions may be challenged.
 Counter-claim, set-off or cross-demand: s 41(7)
 [3.310] After receipt of a bankruptcy notice the debtor may, before the 21 days
 expires and pursuant to s 41(7), apply to the court for an order setting aside the
-notice on the basis that the court is satisﬁed that the debtor has a counter-claim,
+notice on the basis that the court is satisfied that the debtor has a counter-claim,
 set-off or cross-demand referred to in s 40(1)(g). In contrast to an application
 granted on s 41(6A), an application under s 41(7) extends the time for compliance
 with the notice "until and including the day on which the Court determines
-whether" it is satisﬁed that the counter-claim, set off or cross-demand exists.
+whether" it is satisfied that the counter-claim, set off or cross-demand exists.
 Under s 40(1)(g), the counter-claim, set-off or cross-demand, which must be a
 monetary claim – Re Brink; Ex parte Commercial Banking Company of Sydney Ltd
 (1980) 44 FLR 135, 138:
 • must be equal to or exceed the amount of the judgment debt or amount of the
-   ﬁnal order – that must be the case at the time when the debtor's application is
+   final order – that must be the case at the time when the debtor's application is
    heard, even on appeal: Patane v Asteron Life Ltd [2004] FCA 232; (2004) 2 ABC
    (NS) 85; and
 • it must be shown that it could not have been set up in the proceedings in which
@@ -1309,10 +1309,10 @@ monetary claim – Re Brink; Ex parte Commercial Banking Company of Sydney Ltd
 The purpose of the provision is to allow the debtor to raise matters concerning the
 debt claimed by the creditor that the debtor could not have previously raised,
 before any bankruptcy proceedings against the debtor continue further.
-Initially, for the court to be "satisﬁed that the debtor has" such a claim, it is not
-necessary for the debtor to prove, as on a ﬁnal hearing, the asserted entitlement to
+Initially, for the court to be "satisfied that the debtor has" such a claim, it is not
+necessary for the debtor to prove, as on a final hearing, the asserted entitlement to
 recover as against the creditor, only that the debtor "has a claim deserving to be
-ﬁnally determined": Glew v Harrowell [2003] FCA 373. But the debtor cannot satisfy
+finally determined": Glew v Harrowell [2003] FCA 373. But the debtor cannot satisfy
 the court by simply showing that a claim is made and how the claim is made out.
 [3.315] In relation to the meaning of the three terms, "cross-demand" has a
 wider meaning than set-off and counter-claim. A set-off provides a defence to a
@@ -1320,7 +1320,7 @@ claim, in that it diminishes or wipes out the amount claimed. A counter-claim is
 a defence but because it directly answers the claim, it can result in relief being
 ordered in favour of the counter-claimant against the claimant. A cross-demand is
 neither a set-off nor a counter-claim, but a more general term describing a claim
-which can be speciﬁed and which equals or exceeds the amount of the judgment
+which can be specified and which equals or exceeds the amount of the judgment
 debt.45
 [3.320] Given the width of the term cross-demand, it can be a claim for
 unliquidated damages for breach of contract or a tort. It need not have any
@@ -1331,7 +1331,7 @@ money that may be found owing by the Industrial Relations Commission: Re
 Zakrzewski [2000] FCA 1187; (2000) 178 ALR 694. But an application to the High
 Court for special leave to appeal against the judgment debt is not a relevant
 cross-demand: Re Thompson (1995) 61 FCR 544.
-A signiﬁcant issue is whether the cross-claim "could not have been set up" in the
+A significant issue is whether the cross-claim "could not have been set up" in the
 proceeding in which judgment was obtained. This depends on whether it could not
 have been set up as a matter of law, not on whether it could not have been set up as
 a matter of practicality: Tzovaras v Nufeno Pty Ltd [2003] FCA 1152; (2003) 1 ABC
@@ -1358,10 +1358,10 @@ But:
   basis for a bankruptcy notice, then any counter-claim or cross-demand that the
   debtor had in the substantive proceedings is one that could not have been set up
   in interlocutory proceedings.47
-The ﬁling of an affidavit under s 41(7) is not an application to set aside the
+The filing of an affidavit under s 41(7) is not an application to set aside the
 bankruptcy notice. But it does operate as an automatic extension of time for
 compliance with the bankruptcy notice until the court can determine whether it is
-satisﬁed by the debtor that he or she has a claim or demand of the requisite kind. It
+satisfied by the debtor that he or she has a claim or demand of the requisite kind. It
 is therefore unnecessary, in those circumstances, for an application to be made for
 the time for compliance with the notice to be extended: James v Abrahams (1981) 34
 ALR 657.
@@ -1372,8 +1372,8 @@ asserted to make it one which the debtor should, in justice, be permitted to hav
 heard and determined in the usual way, rather than be forced to comply with the
 bankruptcy notice by payment or to commit an act of bankruptcy": Glew v
 Harrowell [2003] FCA 373; Guss v Johnstone [2000] HCA 26; (2000) 74 ALJR 884.
-Necessarily, if the court is satisﬁed that the debtor has a counter-claim etc, within
-either the time originally ﬁxed for compliance by the notice or the extended time
+Necessarily, if the court is satisfied that the debtor has a counter-claim etc, within
+either the time originally fixed for compliance by the notice or the extended time
 resulting from the operation of s 41(7), then the failure to comply with the
 requirements of the notice does not constitute an act of bankruptcy: Re Brink; Ex
 parte Commercial Banking Company of Sydney Ltd (1980) 44 FLR 135.
@@ -1392,7 +1392,7 @@ that they should pay just in case the creditor decides to issue bankruptcy proce
 In Brunninghausen v Glavanics [1998] FCA 230, the court said that the service of a
 bankruptcy notice in such circumstances where there was no intention of pursuing
 bankruptcy was an abuse of process, or where the debtor's solvency is either
-obvious or susceptible of reliable veriﬁcation.
+obvious or susceptible of reliable verification.
 
 47 Chesson v Smith [1992] FCA 64; (1992) 35 FCR 594; Bradbrook v Farrow Mortgage Services Pty Ltd [1994]
    FCA 896.
@@ -1401,12 +1401,12 @@ obvious or susceptible of reliable veriﬁcation.
 49 Sarina v Council of the Shire of Wollondilly (1980) 48 FLR 372. See [3.395].
 [3.340]                             3 Going Bankrupt – Voluntary and Compulsory Bankruptcy       129
 
-In a case where the judgment debt was over ﬁve years old, was for a relatively
+In a case where the judgment debt was over five years old, was for a relatively
 small amount and the creditor knew the debtor owned assets which greatly
 exceeded the debts, it was inferred that the creditor's purpose in issuing the
 bankruptcy notice was to put pressure to pay the debt rather than to genuinely
 invoke the court's bankruptcy jurisdiction. In the absence of evidence from the
-creditor explaining the delay or demonstrating that the debtor's ﬁnancial position
+creditor explaining the delay or demonstrating that the debtor's financial position
 had deteriorated, the bankruptcy notice was set aside as an abuse of process:
 Maxwell-Smith v S & E Hall Pty Ltd [2006] FCA 825; see also Cavoli v Etl [2007] FCA
 1191. However there must be evidence above a mere assertion of unreasonable
@@ -1439,7 +1439,7 @@ order should be made even though an act of bankruptcy exists.50 In ASIC v Forge
 
 Creditor's petition
 [3.340] Once an act of bankruptcy has occurred, and if the other prerequisites
-discussed earlier in this chapter can be satisﬁed, a creditor may present a petition
+discussed earlier in this chapter can be satisfied, a creditor may present a petition
 seeking a sequestration order. A creditor has six months from the date of the act of
 bankruptcy in which to present a petition; that time cannot be extended.
 The petition must be in the court Form 6.51 It must establish a debt of at least $5,000
@@ -1454,14 +1454,14 @@ added to the judgment debt in order to raise it to a sufficient amount to obtain
 sequestration order.52
 The creditor must show the debtor's Australian connection. Also, and most
 importantly, the petition must establish and disclose a valid act of bankruptcy.
-A person or persons operating under a ﬁrm or business name can take proceedings
+A person or persons operating under a firm or business name can take proceedings
 under the Act, or be proceeded against, in that name: s 307. The court may order
-that the names behind the ﬁrm name be disclosed. The ﬁrm may be one person or
+that the names behind the firm name be disclosed. The firm may be one person or
 several, and person may include a company: All Saints v Tahatos [2004] FMCA 477.
-If a partnership petitions in its ﬁrm name, and the partnership changes composition
+If a partnership petitions in its firm name, and the partnership changes composition
 after the date of the judgment on which the petition is based and before the date of
 the presentation of the petition, then a sequestration order can still be obtained by
-the ﬁrm: Anderson Rice v Bride [1995] FCA 1627; (1995) 61 FCR 529.
+the firm: Anderson Rice v Bride [1995] FCA 1627; (1995) 61 FCR 529.
 The petition must be presented at the relevant court registry – "presentation" refers
 to a petition being delivered by the creditor to the appropriate court officer and
 being received by that officer.53 The date of presentation of the petition is important
@@ -1476,7 +1476,7 @@ Service
 an act of bankruptcy. That necessarily requires the creditor to prove the bankruptcy
 notice was properly served. In one case, while the petition was found to have been
 properly served, the petition was dismissed because the court was unable to be
-reasonably satisﬁed that the bankruptcy notice itself was properly served.54
+reasonably satisfied that the bankruptcy notice itself was properly served.54
 Although reg 16.01 allows non-personal service of the bankruptcy notice, that
 regulation does not apply to a creditor's petition: Skalkos v T & S Recoveries Pty Ltd
 [2004] FCAFC 321; (2004) 141 FCR 107; de Robillard v Carver [2007] FCAFC 73; (2007)
@@ -1495,8 +1495,8 @@ that the debtor is aware of the proceedings, and personal service, or substitute
 [3.350]                             3 Going Bankrupt – Voluntary and Compulsory Bankruptcy          131
 
 service, ensures that. As with a bankruptcy notice,55 the petition must be properly
-served, in particular because it notiﬁes the debtor of the date of the sequestration
-hearing and the debtor clearly identiﬁed.
+served, in particular because it notifies the debtor of the date of the sequestration
+hearing and the debtor clearly identified.
 Lapse of petition after 12 months – this may be extended to 24 months
 [3.350] The petition lapses "at the expiration of … the period of twelve months
 commencing on the date of presentation of the petition": s 52(4). For example, a
@@ -1509,10 +1509,10 @@ In some cases, the court can invoke the "slip rule" and extend a petition after 
 12 months period has expired, despite s 52(4). The slip rule is a rule of court that
 allows a court to remedy clerical or accidental omissions in orders made by the
 court.57 Its essential purpose is to avoid injustice to litigants by ensuring that the
-court's order reﬂects its intention at the time the order was made, or reﬂects the
+court's order reflects its intention at the time the order was made, or reflects the
 intention that the court would have had but for the failure that caused the
 accidental slip. It may be exercised to prevent unintended consequences of the
-order and in this way give effect to the court's intentions. It is not conﬁned to errors
+order and in this way give effect to the court's intentions. It is not confined to errors
 or omissions of the court; it extends to errors or omissions resulting from the
 inadvertence of a party's lawyer, or from the court itself: Flint v Richard Busuttil &
 Co Pty Limited [2013] FCAFC 131.
@@ -1549,7 +1549,7 @@ If the life of the petition is extended, the petitioning creditors must give a c
 the court's order to the Official Receiver within two business days: reg 4.05(3).
 
 Hearing of the petition
-[3.355]    A debtor may oppose the petition, and is required to ﬁle a notice of
+[3.355]    A debtor may oppose the petition, and is required to file a notice of
 opposition at least three days before the date of the hearing.62 The notice will
 disclose the bases upon which the debtor challenges the petition, for example as to
 its service, or the existence of the act of bankruptcy, or whether the debt is in fact
@@ -1564,7 +1564,7 @@ Dismissal and withdrawal
 [3.360] The court will dismiss the petition if it is defective in such a way that the
 defect(s) cannot be remedied, for example, if the debt is below $5,000. However, the
 practice is also that a petition will be dismissed, by consent, if the creditor has been
-paid its debt or has otherwise been satisﬁed such that it does not wish to proceed to
+paid its debt or has otherwise been satisfied such that it does not wish to proceed to
 a hearing.
 Section 47(2) provides that leave of the court is required for "withdrawal" of a
 petition but in practice this is not generally sought or determined. Historically, a
@@ -1590,7 +1590,7 @@ debt recovery by creditors. However, the courts also say that a bankruptcy court
 [3.370]                            3 Going Bankrupt – Voluntary and Compulsory Bankruptcy        133
 
 not there to facilitate the collection of debts from a solvent debtor who simply
-refuses to pay: Re Stubberﬁeld [1995] FCA 1735; (1995) 134 ALR 169. In any event,
+refuses to pay: Re Stubberfield [1995] FCA 1735; (1995) 134 ALR 169. In any event,
 while it can be legitimate for a creditor to take bankruptcy proceedings to recover a
 debt, that does not mean that bankruptcy should be seen merely as part of the
 process of execution of judgment debts. "It is the changing of the status of an
@@ -1602,7 +1602,7 @@ recorded on the NPII.
 Adjournment
 [3.365] Although debt recovery is not in theory a purpose of bankruptcy, many
 petitions are in fact adjourned, and on several occasions, to give the debtor time to
-pay. That process in itself is consistent with the deﬁnition of insolvency, which does
+pay. That process in itself is consistent with the definition of insolvency, which does
 not necessarily require a debtor to have funds immediately on hand to pay a debt.
 On the other hand, many such cases may involve the debtor paying the petitioning
 creditor's debt in preference to other creditors whose debt may remain unpaid
@@ -1637,7 +1637,7 @@ Games v Daly [2000] FCA 1286. Thus s 49 is available where the petitioning
    problematic.
 134      Keay's Insolvency: Personal and Corporate Law and Practice                            [3.375]
 
-creditor's judgment is set aside after the petition has been ﬁled: O'Meara v Hitwise
+creditor's judgment is set aside after the petition has been filed: O'Meara v Hitwise
 Pty Ltd [2007] FCAFC 114; (2007) 160 FCR 518.
 If there is an order of substitution, the petition proceeds as if the substituted
 creditor had been the petitioning creditor from the commencement of proceedings.
@@ -1653,8 +1653,8 @@ evidence.
 Court's discretion: s 52
 [3.380]    Section 52(2) of the Act is an important provision concerning the court's
 discretion in deciding whether to make a sequestration order. It provides:
-   If the Court is not satisﬁed with the proof of any of those matters (referred to in 52(1)), or
-   is satisﬁed by the debtor:
+   If the Court is not satisfied with the proof of any of those matters (referred to in 52(1)), or
+   is satisfied by the debtor:
    (a) that he or she is able to pay his or her debts; or
    (b) that for other sufficient cause a sequestration order ought not to be made;
    it may dismiss the petition.
@@ -1671,12 +1671,12 @@ legal status which it brings.67
 The debtor therefore has the onus of proving that there is a sufficient reason for a
 sequestration order not being made.68
 Apart from any issue of discretion, the court may dismiss a petition because it is
-technically deﬁcient.
+technically deficient.
 
 Technical defects
 [3.385] Most petitions are founded on the debtor's failure to comply with the
 requirements of a bankruptcy notice, and often a defence to a petition is that there
-is some fatal ﬂaw in that notice; this has been dealt with earlier. In that regard, it
+is some fatal flaw in that notice; this has been dealt with earlier. In that regard, it
 
 66 Dean v QUF Industries Ltd [1981] FCA 71; (1981) 51 FLR 317.
 67 Russell v ANZ Bank [1987] FCA 63, (1987) 14 FCR 72, 75.
@@ -1686,7 +1686,7 @@ is some fatal ﬂaw in that notice; this has been dealt with earlier. In that re
 
 should be noted that even if a debtor does not contest the validity of the
 bankruptcy notice at an earlier stage, he or she is entitled to do so at the hearing of
-the petition. If the notice is ﬂawed, the petition must be dismissed as there is no act
+the petition. If the notice is flawed, the petition must be dismissed as there is no act
 of bankruptcy on which to found it; the court has no jurisdiction upon which to
 proceed: National Australia Bank Ltd v Westbrook [2000] FCA 246; Re Pollard; Ex parte
 Lensing Management Pty Ltd [1991] FCA 640; (1991) 33 FCR 284. But the appropriate
@@ -1696,7 +1696,7 @@ debtor has waited until the petition hearing before raising the matter. In such 
 although the debtor may succeed in having the petition dismissed, there may be a
 costs penalty against the debtor. If the debtor obtains an instalment order, but after
 the act of bankruptcy has occurred, this is no defence to the petition proceeding.69
-Other defences available to a debtor relate to ﬂaws in the petition itself – as to
+Other defences available to a debtor relate to flaws in the petition itself – as to
 omissions or defects in the form of the petition, or defects in its execution or its
 service: Australia and New Zealand Banking Group Ltd v Elferkh [1999] FCA 1049;
 (2000) 92 FCR 195; Burrell v Connell [1998] FCA 829; (1998) 84 FCR 383.
@@ -1734,10 +1734,10 @@ circumstances of the compromise such suspicion of unfairness or impropriety as t
 
 justify the court inquiring into the consideration for the debt or the propriety of the
 compromise: Re Longo (1995) 57 FCR 523. In going behind the judgment, the court
-may ﬁnd that only some of the judgment debt is not in fact payable but that the
+may find that only some of the judgment debt is not in fact payable but that the
 remainder is sufficient in amount – that is, under $5000 – to found the bankruptcy:
 Re Seghabi [1994] FCA 1178; (1994) 52 FCR 303.
-It is important to note that even in the case of a matter determined by a ﬁnal
+It is important to note that even in the case of a matter determined by a final
 hearing against the debtor, the discretion of a court hearing a bankruptcy petition
 to go behind that judgment remains: Ramsay Health Care Australia Pty Ltd v Compton
 [2017] HCA 28.
@@ -1748,13 +1748,13 @@ view that the appeal should be allowed to proceed and be determined, rather than
 make the debtor bankrupt: Ahern v DCT [1987] FCA 312; (1987) 76 ALR 137, a
 principle described as one of enduring importance: Culleton v Balwyn Nominees Pty
 Ltd [2017] FCAFC 8. However, the appeal must be based on genuine and
-substantial grounds and the debtor must be pursuing the appeal bona ﬁde. The
+substantial grounds and the debtor must be pursuing the appeal bona fide. The
 onus is on the debtor to show this. If this onus is not discharged, an adjournment
 will not be allowed and a sequestration order will be made. It may then be a matter
 for the trustee to assess whether the appeal should proceed.73
 
 Solvency as a defence
-[3.395] Section 52(2)(a) of the Act provides that if the court is satisﬁed that the
+[3.395] Section 52(2)(a) of the Act provides that if the court is satisfied that the
 debtor is "able to pay his or her debts … then the Court may dismiss the petition".
 That is, even if the debtor can show they are solvent, this does not entitle the debtor
 to the dismissal of the petition; it simply allows the court the discretion whether it
@@ -1768,7 +1768,7 @@ debt. As the court said in Australia and New Zealand Banking Group Ltd v Foyster
    "the respondent is perfectly entitled to adopt the role of a recalcitrant debtor, and to
    decline to pay a judgment debt if he wishes."
 This was the defence in Sarina v Council of the Shire of Wollondilly [1980] FCA 138;
-(1980) 48 FLR 372 where the debtor showed he was ﬁnancially able to pay the
+(1980) 48 FLR 372 where the debtor showed he was financially able to pay the
 Council but was simply refusing to pay. The Full Federal Court in that case
 emphasised the distinction between inability and unwillingness to pay. In
 situations like this, creditors may resort to other remedies, such as execution
@@ -1781,16 +1781,16 @@ at [43]:
 
    Re Sarina demonstrates the centrality of the question of solvency to the jurisdiction of
    bankruptcy. Whilst one must recognise the permissive "may" in s 52(2), the circumstances
-   where a sequestration order would be made if the debtor satisﬁed the Court of his or her
+   where a sequestration order would be made if the debtor satisfied the Court of his or her
    solvency are difficult to imagine.
 In such cases, the debtor necessarily has the onus of proving their solvency, and
 this must generally be on an ability to pay all their debts falling due, rather than on
-an excess of assets over liabilities on a cash ﬂow basis. The Full Court in Trojan v
+an excess of assets over liabilities on a cash flow basis. The Full Court in Trojan v
 Corporation of the Town of Hindmarsh [1987] FCA 276; (1987) 16 FCR 37 said (at 48):
-   "the principle laid down in the Sarina case would not necessarily be satisﬁed by a sterile
+   "the principle laid down in the Sarina case would not necessarily be satisfied by a sterile
    demonstration of an ability to achieve a payment which was not in reality at all likely to
    be compelled. Section 52(2)(a) envisages a situation which will probably bear fruit in
-   payment. It is not easy to see any other reason why the legislature saw ﬁt to make a
+   payment. It is not easy to see any other reason why the legislature saw fit to make a
    demonstration of ability to pay only a discretionary ground of dismissal of a petition, and
    not an absolute bar to its success."
 A court may therefore make a sequestration order if the debtor cannot show that
@@ -1809,7 +1809,7 @@ creditors in the reasonably immediate future and the debtor's anticipated abilit
 meet those: Australia and New Zealand Banking Group Ltd v Foyster [2000] FCA 400.
 
 "Other sufficient cause"
-[3.400] The court may also dismiss a petition if it is satisﬁed by the debtor "that
+[3.400] The court may also dismiss a petition if it is satisfied by the debtor "that
 for other sufficient cause a sequestration order ought not to be made": s 52(2)(b).
 The circumstances which may constitute "other sufficient cause" are extremely
 variable, and it is not appropriate to catalogue or circumscribe them: Clyne v DCT
@@ -1840,11 +1840,11 @@ a state of insolvency likely to be of only short duration, that is, if the debto
 were to succeed: Ling v Enrobook Pty Ltd [1997] FCA 226; (1997) 74 FCR 19. The
 court's decision will depend on whether the debtor's claim has sufficient merit to
 justify either the adjournment or the dismissal of the creditor's petition. If the court
-is satisﬁed that the debtor has a real claim, but is unable to be satisﬁed that the
+is satisfied that the debtor has a real claim, but is unable to be satisfied that the
 claim is one likely to succeed, then it may be more appropriate to adjourn the
 creditor's petition in order to give the debtor an opportunity to fully litigate their
 claim. But there may be cases in which the court may still decide to dismiss the
-creditor's petition even though it is not satisﬁed that the debtor's claim will most
+creditor's petition even though it is not satisfied that the debtor's claim will most
 likely succeed. Apart from the interests of the petitioning creditor and the debtor,
 the court should also consider the interests of any other creditors, and the public
 generally, arising out of the debtor's insolvency.75 Proof of sufficient cause may be
@@ -1856,7 +1856,7 @@ that person is a creditor. And the court will not defer the hearing of the petit
 simply to allow the debtor to pursue such claims: Ling v Enrobook Pty Ltd (1997) 74
 FCR 19. Nevertheless, "sufficient cause" may be found under this head in two sorts
 of cases.
-The ﬁrst is where the debtor's claim is so intimately associated with the debt on
+The first is where the debtor's claim is so intimately associated with the debt on
 which the petition is founded as to require it to be regarded as substantially a claim
 against the petitioner.76 The second is where a debtor, although not solvent, is able
 to establish that there is a claim being diligently litigated, that it has good prospects
@@ -1905,7 +1905,7 @@ Megarry VC said:
 Many other varied pleas have been raised by debtors to avoid a sequestration
 order. A debtor's illness is not necessarily a reason for a sequestration order not to
 be made; Collett v DCT [2001] FCA 426, in fact, bankruptcy may be seen as
-beneﬁting the bankrupt in such a situation. Nor is the effect of bankruptcy on the
+benefiting the bankrupt in such a situation. Nor is the effect of bankruptcy on the
 debtor's reputation in the community relevant: Stedman v DCT [2000] FCA 336.
 Many debtors are self-represented in their attempt to resist bankruptcy. Particular
 duties arise for lawyers acting against litigants in person, and for the court.79
@@ -1937,7 +1937,7 @@ sequestration order is at the expense of the petitioning creditor: s 51. However
 when the court makes a sequestration order it will normally award costs in favour
 of the petitioner, although this is discretionary. These costs, as taxed, will be a
 priority debt under s 109(1)(a) when the trustee arrives at the point of making
-distributions to creditors. A ﬁxed amount of costs may be set by the court, or an
+distributions to creditors. A fixed amount of costs may be set by the court, or an
 amount claimed by way of a short form bill of costs under the court rules.81
 On the day the sequestration order is made, the petitioning creditor must advise
 the trustee of his or her appointment and send the order – Court Form 7 – to the
@@ -1945,7 +1945,7 @@ trustee and the Official Receiver.82
 
 Stay of a sequestration order
 [3.430] If an order is made the court may stay all proceedings under it for a
-period of up to 21 days: s 52(3).83 The words "all proceedings under" are signiﬁcant
+period of up to 21 days: s 52(3).83 The words "all proceedings under" are significant
 because the subsection does not allow the order itself to be stayed. A sequestration
 order is not an ordinary court order, nor is a proceeding in bankruptcy merely a
 matter between the debtor and the creditor. It is therefore "conceptually incoherent
@@ -1953,7 +1953,7 @@ to contemplate a judicial stay order as being available to countermand" the
 automatic operation of the Bankruptcy Act.84
 There is also power under court rules85 for a court to grant an extended stay (with
 no limit) where there is an appeal against the sequestration order.86 Stays are
-granted only reluctantly by the courts because of the legal signiﬁcance of the
+granted only reluctantly by the courts because of the legal significance of the
 making of a sequestration order, and for a short period.87 They are often made
 
 80 Similar protection is provided to other payments under Commonwealth law, for example s 46A of
@@ -1995,9 +1995,9 @@ sequestration order can be obtained and a trustee appointed. The Act provides fo
 certain procedures which can prevent the scheme of the Act from being thwarted
 by debtors. While voidable transaction powers in bankruptcy may allow those
 assets to be recovered, the purpose of a warrant, or an order under s 50, is to try to
-prevent their disposal in the ﬁrst place, in anticipation of a sequestration order
+prevent their disposal in the first place, in anticipation of a sequestration order
 being made; or, in some cases, where the debtor's property is deteriorating or
-perishable. The trustee in bankruptcy will assume the beneﬁt of the assets having
+perishable. The trustee in bankruptcy will assume the benefit of the assets having
 already been seized or placed under their control and of inquiries having been
 made into the bankrupt's affairs.
 
@@ -2026,7 +2026,7 @@ any other orders.90 The trustee will be either the Official Trustee or a registe
 trustee. In making a s 50 order, the court must specify when the control is to end:
 s 50(1B).
 The section goes on to say that such directions or orders may only be made on the
-application of a creditor, where the court is satisﬁed that it is in the interests of
+application of a creditor, where the court is satisfied that it is in the interests of
 creditors to do so, and where "the debtor has not complied with the bankruptcy
 notice". The latter requirement appears to require service of the notice and
 contradicts s 50(1), which refers to the "issue" of the notice: some doubt has been
@@ -2038,7 +2038,7 @@ order and service of the summons.
 The applicant for the s 50 order may be required to deposit moneys with a trustee
 to cover the anticipated "fees and expenses" of acting as interim receiver. The
 trustee can apply for a court order requiring further moneys: see reg 4.07.
-Section 50 lays down no speciﬁc criteria for determining what particular
+Section 50 lays down no specific criteria for determining what particular
 circumstances must exist before a control order is made, save that they must be of
 such a kind as to make the appointment necessary in the interests of creditors:
 s 50(1A)(b). A trustee will be appointed when there is a strong likelihood that the
@@ -2051,7 +2051,7 @@ Drake [2014] FCA 1445 in circumstances where the debtor had "presided over a
 spectacular corporate collapse which resulted in the loss of many millions of dollars
 by investors in funds supposedly managed by him", not all of which had been
 accounted for. The court also ordered, under s 30, that the debtor be prevented
-from leaving the country. Nevertheless, the section allows a signiﬁcant intrusion
+from leaving the country. Nevertheless, the section allows a significant intrusion
 into a debtor's affairs and s 50 and related orders are not made lightly. In matters of
 urgency, where the debtor is in the process of removing assets, an order will be
 made ex parte, with orders then made for the debtor to be served: Axess Debt
@@ -2096,7 +2096,7 @@ suffered from the property having been under the trustee's control.94
                     Part 12 – Warrants – rr 12.01 – 12.02
 
 BANKRUPTCY OF ESTATES OF DECEASED INSOLVENTS
-[3.450] Part XI of the Bankruptcy Act contains speciﬁc provisions dealing with
+[3.450] Part XI of the Bankruptcy Act contains specific provisions dealing with
 deceased debtors or bankrupts, although these are largely based on the standard
 processes for living persons.95
 At the outset it should be understood that the estate of an insolvent debtor who is
@@ -2119,10 +2119,10 @@ liabilities provable" and so on. See also Administration and Probate Act 1919 (S
 s 61.
 Generally, administration under the Bankruptcy Act is preferred where there are
 potential voidable transactions or the affairs are more complex, and which may
-require an independent and qualiﬁed trustee in bankruptcy, rather than an executor
+require an independent and qualified trustee in bankruptcy, rather than an executor
 under a will, and there is need to protect the creditors' interests.96
 Part XI administrations are not that common, averaging about 20 each year. Those
-that have occurred tend to be signiﬁcant in terms of proﬁle of the deceased and
+that have occurred tend to be significant in terms of profile of the deceased and
 complexity of the issues. The estates of the entrepreneurs the late Lang Hancock
 and René Rivkin are two examples.
 Either a creditor or the legal personal representative of the deceased estate may
@@ -2142,7 +2142,7 @@ petitions presented by creditors pursuant to s 244 do not apply.
 
 Petitions by the creditor
 [3.460] A creditor may present a petition against a deceased estate: s 244.
-Ostensibly the same prerequisites need to be fulﬁlled as with the presentation of a
+Ostensibly the same prerequisites need to be fulfilled as with the presentation of a
 petition against a living person. The debt must not be less than $5,000 and the
 territorial connection with Australia must have existed at the time of the debtor's
 death: s 244(6)(b). In Rushton v Kaney (Executor), in the matter of Rushton (Dec'd)
@@ -2176,7 +2176,7 @@ As to timing issues:
   under Pt XI;
 • but if a creditor's petition was presented and served before the debtor died, the
   court may make an order for the administration of the estate under Pt XI: s 245.98
-At the hearing, the court must be satisﬁed that the matters stated in the petition are
+At the hearing, the court must be satisfied that the matters stated in the petition are
 true; that the petition has been served (unless service is dispensed with – see
 Bendigo & Adelaide Bank Ltd v Feldman [2013] FCCA 241); and the debt on which the
 petition is based is still owing: s 244(11). The onus is then on the administrator to

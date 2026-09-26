@@ -15,7 +15,7 @@ Step 2: Determine the actual percentage level of superannuation support that is 
 
 (a) if the actual percentage level of support provided (step 2) equals or exceeds the charge percentage (step 1), the employer has no SG shortfall in respect of that employee, or (b) if the actual percentage level of support provided is less than the charge percentage, the employer has an SG shortfall in respect of the employee as calculated in step 4.
 
-Step 4: The individual SG shortfall of the employee for the quarter is calculated as the diﬀerence between the percentage levels in steps 1 and 2 (as reﬂected in step 3(b)) multiplied by the "quarterly salary or wages base" of the employee in the relevant quarter (see further below) (SGAA s 19).
+Step 4: The individual SG shortfall of the employee for the quarter is calculated as the difference between the percentage levels in steps 1 and 2 (as reflected in step 3(b)) multiplied by the "quarterly salary or wages base" of the employee in the relevant quarter (see further below) (SGAA s 19).
 
 The SG shortfall amount in Step 4 forms part of the SG charge payable in respect of the employee (¶39-400).
 
@@ -23,15 +23,15 @@ An employer that has an SG shortfall in a quarter is required to lodge an SG sta
 
 The Commissioner may also require an employer to lodge a statement stating whether the employer has an SG shortfall (SGAA s 34).
 
-PS LA 2006/14 provides guidelines when assessing an employer's SG compliance where the ATO identiﬁes one or more individuals engaged under a contract that is wholly or principally for their labour.
+PS LA 2006/14 provides guidelines when assessing an employer's SG compliance where the ATO identifies one or more individuals engaged under a contract that is wholly or principally for their labour.
 
-Quarterly salary or wages base in Step 4 An employee's "quarterly salary or wages base" in Step 4 is the sum of the salary or wages paid by the employer to the employee for the quarter and the employee's sacriﬁced salary or wages amounts (if any) for the quarter. This ensures that the SG shortfall and charge is calculated on the pre-salary sacriﬁce base. An employee's quarterly salary or wages base for a quarter is also limited to the maximum contribution base for the quarter (s 19(4)) (¶39-220).
+Quarterly salary or wages base in Step 4 An employee's "quarterly salary or wages base" in Step 4 is the sum of the salary or wages paid by the employer to the employee for the quarter and the employee's sacrificed salary or wages amounts (if any) for the quarter. This ensures that the SG shortfall and charge is calculated on the pre-salary sacrifice base. An employee's quarterly salary or wages base for a quarter is also limited to the maximum contribution base for the quarter (s 19(4)) (¶39-220).
 
-The meaning of "salary or wages" is discussed in ¶39-026; salary sacriﬁce arrangements are discussed in ¶39-250.
+The meaning of "salary or wages" is discussed in ¶39-026; salary sacrifice arrangements are discussed in ¶39-250.
 
 An employee's salary or wages in Step 4 does not include payments while the employee is "exempt" under the SGAA (¶39-030). These payments (referred to as "excluded salary or wages") are salary or wages that, under SGAA s 27 or 28, are not to taken into account for the purpose of calculating an SG shortfall under s 19 (s 15A(3), (4)).
 
-non-acceptance by stapled fund The stapled fund rules under the choice of fund regime are discussed in ¶39-260. The Commissioner has a discretion to reduce an employer's individual SG shortfall for an employee (including to nil) if the employee's stapled fund as notiﬁed by the Commissioner did not accept the employer's contributions and the employer had to make a late contribution to another fund for the employee. This applies only where there is no chosen fund for the employee at the time the employer attempted to make the contribution (s 19(2F) and note, (2G)). The Commissioner must have regard to the written guidelines made under s 21(2) when deciding whether to reduce the employer's individual SG shortfall under s 19(2F) (SPR 2021/2: see F2021L01451).
+non-acceptance by stapled fund The stapled fund rules under the choice of fund regime are discussed in ¶39-260. The Commissioner has a discretion to reduce an employer's individual SG shortfall for an employee (including to nil) if the employee's stapled fund as notified by the Commissioner did not accept the employer's contributions and the employer had to make a late contribution to another fund for the employee. This applies only where there is no chosen fund for the employee at the time the employer attempted to make the contribution (s 19(2F) and note, (2G)). The Commissioner must have regard to the written guidelines made under s 21(2) when deciding whether to reduce the employer's individual SG shortfall under s 19(2F) (SPR 2021/2: see F2021L01451).
 
 The guidelines do not apply to any part of the shortfall where the contributions do not reduce the charge percentage to nil under SGAA s 22 or 23 (¶39-230), or to an increase in an employer's choice shortfall because the employer did not make the SG contributions in compliance with choice of fund rules (¶39-260).
 
@@ -39,7 +39,7 @@ If an employer's individual SG shortfall is reduced in the above circumstances, 
 
 Former employees Employers have an SG obligation in respect of a former employee in a quarter following the termination of employment as salary or wages paid to, and contributions made for, the former employee are treated as if the former employee was still an employee (SGAA s 15B). This ensures that employer SG contributions are payable on wages or salary paid in a quarter following the termination of an employment relationship.
 
-The term "former employee" is not deﬁned in the SGAA and it has its common law meaning. It is therefore possible for a deceased employee to meet the common law meaning of former employee. An employer will have an individual SG shortfall under s 19(1) where an amount of salary and wages owing to a deceased employee at the time of the employee's death is paid to the employee's estate, and the employer does not make suﬃcient SG contributions in respect of the payment by the relevant quarterly due date (ID 2014/31).
+The term "former employee" is not defined in the SGAA and it has its common law meaning. It is therefore possible for a deceased employee to meet the common law meaning of former employee. An employer will have an individual SG shortfall under s 19(1) where an amount of salary and wages owing to a deceased employee at the time of the employee's death is paid to the employee's estate, and the employer does not make sufficient SG contributions in respect of the payment by the relevant quarterly due date (ID 2014/31).
 
 Example Barry, an employee, dies on 10 April and the accrued salary or wages for the fortnightly pay period of 1 April to 14 April is unpaid at time of Barry's death.
 

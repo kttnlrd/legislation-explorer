@@ -53,15 +53,15 @@ Pay As You Go (PAYG)
 
 - Superannuation guarantee is not required for an employee if an employer shortfall exemption
 
-  certiﬁcate is received for an applicable quarter (¶39-030). This applies in limited circumstances.
+  certificate is received for an applicable quarter (¶39-030). This applies in limited circumstances.
 
-Ensure superannuation guarantee is not reduced because of an employee's salary sacriﬁce (¶39-240).
+Ensure superannuation guarantee is not reduced because of an employee's salary sacrifice (¶39-240).
 
 - Pay appropriate superannuation contributions for employee within 28 days of end of quarter
 
   (¶39-240).
 
-- Pass on employee's tax ﬁle number to fund (¶33-025).
+- Pass on employee's tax file number to fund (¶33-025).
 
 - Where there is a shortfall in the contributions made, lodge a superannuation guarantee statement
 
@@ -77,11 +77,11 @@ Ensure superannuation guarantee is not reduced because of an employee's salary s
 
 - Keep the necessary records (¶39-510).
 
-- Determine if there is a beneﬁt to be provided to an employee or employee's associate (¶35-060).
+- Determine if there is a benefit to be provided to an employee or employee's associate (¶35-060).
 
-- Determine if the beneﬁt is a taxable fringe beneﬁt (¶35-060 – ¶35-120).
+- Determine if the benefit is a taxable fringe benefit (¶35-060 – ¶35-120).
 
-- Where there is a salary sacriﬁce arrangement, check eﬀectiveness under ATO requirements
+- Where there is a salary sacrifice arrangement, check effectiveness under ATO requirements
 
   (¶31-120, ¶35-057).
 
@@ -93,7 +93,7 @@ Ensure superannuation guarantee is not reduced because of an employee's salary s
 
   ¶35-050).
 
-- Include reportable fringe beneﬁts in employee's annual payment summary (¶35-055).
+- Include reportable fringe benefits in employee's annual payment summary (¶35-055).
 
 - Keep the necessary records (¶35-690).
 
@@ -111,13 +111,13 @@ Ensure superannuation guarantee is not reduced because of an employee's salary s
 
 - Pay payroll tax as required (¶36-010).
 
-- Include the details of any ﬁnal payments made to the employee in the PAYG payment summary
+- Include the details of any final payments made to the employee in the PAYG payment summary
 
   (or employment income statement) (¶26-640).
 
 - Forward payment summary to the employee by 14 July, or earlier if requested (¶26-640).
 
-- Calculate and pay any ﬁnal SG contributions (¶39-240).
+- Calculate and pay any final SG contributions (¶39-240).
 
 - Determine whether there is an employment termination payment (ETP), and the amount to be
 

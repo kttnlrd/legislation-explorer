@@ -43,11 +43,11 @@ paragraph: "¶44-110"
 
 - Where the lessee of a car that was used for income-producing purposes subsequently purchases
 
-  the car, and then disposes of it, the lessee is assessable if a proﬁt is made on the disposal
+  the car, and then disposes of it, the lessee is assessable if a profit is made on the disposal
 
 (¶10-380).
 
-- In certain situations, proﬁts made on the trade-in of a previously leased vehicle may be
+- In certain situations, profits made on the trade-in of a previously leased vehicle may be
 
   assessable as income under ordinary concepts, or may give rise to depreciation balancing
 
@@ -61,7 +61,7 @@ paragraph: "¶44-110"
 
   business, the vehicles are treated as non-depreciable trading stock. This extends to vehicles
 
-  acquired under a ﬂoor plan ﬁnancing arrangement (¶9-150).
+  acquired under a floor plan financing arrangement (¶9-150).
 
 - For valuation purposes, the cost of a vehicle includes dealer delivery and other charges (¶9-190).
 
@@ -77,7 +77,7 @@ paragraph: "¶44-110"
 
   disposed of (¶17-210, ¶17-640).
 
-- Simpliﬁed depreciation rules may apply to a small business which purchases a vehicle (¶7-250).
+- Simplified depreciation rules may apply to a small business which purchases a vehicle (¶7-250).
 
 However, taxpayers who are subject to the alienation of personal services income provisions (¶30-600) cannot allocate more than one vehicle with a private use component to a small business pool (¶7-250).
 
@@ -91,7 +91,7 @@ However, taxpayers who are subject to the alienation of personal services income
 
 - Depreciation on leased luxury cars is allowed to the lessee, not the lessor (¶17-220).
 
-- Limited eﬀective lives apply to certain vehicles (¶43-105).
+- Limited effective lives apply to certain vehicles (¶43-105).
 
 - In general, travel expenses incurred as part of a business are deductible as normal business
 
@@ -125,9 +125,9 @@ However, taxpayers who are subject to the alienation of personal services income
 
   substantiation treatment (¶16-210, ¶16-320).
 
-- Tax beneﬁts can be achieved through salary packaging (¶31-120, ¶35-057).
+- Tax benefits can be achieved through salary packaging (¶31-120, ¶35-057).
 
-- An FBT exemption applies to cars that are zero or low emissions vehicles and ﬁrst held and used
+- An FBT exemption applies to cars that are zero or low emissions vehicles and first held and used
 
   on or after 1 July 2022 (provided luxury car tax has never been paid on the sale or importation of
 
@@ -185,11 +185,11 @@ However, taxpayers who are subject to the alienation of personal services income
 
 - Businesses can claim fuel tax credits for fuel used in heavy vehicles used on public roads and
 
-  vehicles used in oﬀ-road business activities. The rate varies according to the type of vehicle and
+  vehicles used in off-road business activities. The rate varies according to the type of vehicle and
 
   the use to which the fuel is put (¶40-200).
 
-- Duty is imposed by the states and territories where new vehicles are being registered for the ﬁrst
+- Duty is imposed by the states and territories where new vehicles are being registered for the first
 
   time, or registration is being transferred to another person (¶37-020).
 

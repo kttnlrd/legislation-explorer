@@ -7,7 +7,7 @@ paragraph: "¶25-230"
 ---
 # Guidelines on access to accountants' papers ¶25-230
 
-While the Commissioner considers that he has the power to request access to most documents (¶25-220), he also recognises that there are certain classes of documents that should generally remain within the conﬁdence of taxpayers and their professional accounting advisers. This concession by the ATO is known as the accountants' concession, as set out in its webpage, "Guidelines to accessing professional accounting advisers' papers". The guidelines apply not only to documents sought under the access power (¶25-220), but also to requests to external accountants to furnish information and produce papers (¶25-240). The main features of the guidelines are as follows.
+While the Commissioner considers that he has the power to request access to most documents (¶25-220), he also recognises that there are certain classes of documents that should generally remain within the confidence of taxpayers and their professional accounting advisers. This concession by the ATO is known as the accountants' concession, as set out in its webpage, "Guidelines to accessing professional accounting advisers' papers". The guidelines apply not only to documents sought under the access power (¶25-220), but also to requests to external accountants to furnish information and produce papers (¶25-240). The main features of the guidelines are as follows.
 
 - The Commissioner will exercise his right of access without restriction to "source" documents, ie
 
@@ -19,7 +19,7 @@ While the Commissioner considers that he has the power to request access to most
 
   records such as ledgers, journals and balance sheets, documents comprising the permanent audit
 
-  ﬁle held by a professional adviser performing a statutory audit and certain tax working papers. The
+  file held by a professional adviser performing a statutory audit and certain tax working papers. The
 
 Commissioner regards documents prepared before the completion of a tax return, and showing an analysis of shareholdings to establish continuity of ownership, as source documents (TD 93/222).
 
@@ -29,11 +29,11 @@ Commissioner regards documents prepared before the completion of a tax return, a
 
   and, as a last resort, where other avenues through the taxpayer have been exhausted. Non-
 
-  source documents include papers on the current audit ﬁle and papers prepared in the course of a
+  source documents include papers on the current audit file and papers prepared in the course of a
 
   prudential tax audit. They also include advisings provided after a transaction has been completed
 
-  where the advisings do not aﬀect the recording of the transaction or arrangement in the books of
+  where the advisings do not affect the recording of the transaction or arrangement in the books of
 
   account or tax return.
 
@@ -47,11 +47,11 @@ Commissioner regards documents prepared before the completion of a tax return, a
 
   element. In White Industries 2007 ATC 4441; [2007] FCA 511, a taxpayer sought to challenge a
 
-  decision of a senior ATO oﬃcer granting access to such documents and the court ruled that the
+  decision of a senior ATO officer granting access to such documents and the court ruled that the
 
   taxpayer was entitled to challenge that decision under s 39B of the Judiciary Act 1903 (¶28-180).
 
-- Documents may maintain their conﬁdential status when disclosed to nominated independent third
+- Documents may maintain their confidential status when disclosed to nominated independent third
 
   parties only where both the taxpayer and their advisers agreed to such disclosure.
 
@@ -59,15 +59,15 @@ Commissioner regards documents prepared before the completion of a tax return, a
 
   written approval of a Deputy Commissioner (or another appropriate ATO Senior Executive Service
 
-(SES) oﬃcer).
+(SES) officer).
 
 - The ATO may request a taxpayer for further information if relevant source documents do not
 
-  provide suﬃcient information. If the taxpayer fails to comply with this request on time, the ATO may
+  provide sufficient information. If the taxpayer fails to comply with this request on time, the ATO may
 
   seek access in accordance with the guidelines.
 
-- ATO oﬃcers will not seek access to papers prepared by an accountant solely for the purpose of
+- ATO officers will not seek access to papers prepared by an accountant solely for the purpose of
 
   representing a taxpayer in legal proceedings under a tax law (eg objections, reviews, appeals). See
 

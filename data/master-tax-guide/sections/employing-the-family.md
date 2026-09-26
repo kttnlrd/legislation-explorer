@@ -9,7 +9,7 @@ paragraph: "¶31-380"
 
 In many cases the simplest way of diverting income is to employ family members, eg the spouse or older children may act as receptionists, gardeners, secretaries, etc. However, the Commissioner has the power (under ITAA97 s 26-35) to reduce the amount of the deduction claimed by the employer for salary or wages paid to a relative to an amount that, in the Commissioner's opinion, is reasonable (¶16-530). In practice, it is advisable to keep records of the duties performed by the family employee and to have regard to the award rates for work of a similar type.
 
-In some cases employing the family is not a good idea because family members may lose access to other forms of government assistance such as the family tax beneﬁt which is exempt from income tax (¶10-197).
+In some cases employing the family is not a good idea because family members may lose access to other forms of government assistance such as the family tax benefit which is exempt from income tax (¶10-197).
 
 For the application of these rules to partnerships, see ¶5-100.
 

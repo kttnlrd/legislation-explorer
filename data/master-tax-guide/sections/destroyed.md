@@ -25,17 +25,17 @@ A replacement-asset roll-over may be available to a taxpayer if an involuntary d
 
   be compulsorily acquired by the entity under a statutory power (as above)
 
-- the taxpayer disposes of land (and any depreciating asset ﬁxed to the land) to an entity, other
+- the taxpayer disposes of land (and any depreciating asset fixed to the land) to an entity, other
 
   than a foreign government agency, where a mining lease was compulsorily granted over the land
 
-  and the lease signiﬁcantly aﬀected the taxpayer's use of the land, or
+  and the lease significantly affected the taxpayer's use of the land, or
 
-- the taxpayer disposes of land (and any depreciating asset ﬁxed to the land) to an entity, other
+- the taxpayer disposes of land (and any depreciating asset fixed to the land) to an entity, other
 
   than a foreign government agency, where a mining lease would have been compulsorily granted
 
-  if the taxpayer had not disposed of the land and the lease would have signiﬁcantly aﬀected the
+  if the taxpayer had not disposed of the land and the lease would have significantly affected the
 
   taxpayer's use of the land.
 
@@ -45,7 +45,7 @@ For the roll-over to be available, the entity acquiring the asset must be the Co
 
 An asset acquired by a taxpayer before an Australian government agency has given formal notice of an intention to compulsorily acquire the asset can be a replacement asset provided it is acquired no earlier than one year before (or such longer period as allowed by the Commissioner) the original asset is compulsorily acquired (TD 2000/37).
 
-Where a taxpayer satisﬁes the conditions for applying both the replacement-asset roll-over in Subdiv 124-B and the small business roll-over pursuant to Subdiv 152-E, the taxpayer may choose which roll-over to apply (ID 2009/147).
+Where a taxpayer satisfies the conditions for applying both the replacement-asset roll-over in Subdiv 124-B and the small business roll-over pursuant to Subdiv 152-E, the taxpayer may choose which roll-over to apply (ID 2009/147).
 
 *Refs: s 124-70)*
 

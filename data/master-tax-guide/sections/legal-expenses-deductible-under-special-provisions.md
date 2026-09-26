@@ -7,7 +7,7 @@ paragraph: "¶16-830"
 ---
 # Legal expenses deductible under special provisions ¶16-830
 
-Certain kinds of legal expenses are speciﬁcally made deductible, even though they might not be deductible under the general deduction provisions because of their capital, private or domestic nature. These are legal expenses associated with:
+Certain kinds of legal expenses are specifically made deductible, even though they might not be deductible under the general deduction provisions because of their capital, private or domestic nature. These are legal expenses associated with:
 
 - certain borrowings of money (¶16-800)
 
@@ -19,4 +19,4 @@ Certain kinds of legal expenses are speciﬁcally made deductible, even though t
 
   professional tax advice (¶16-850).
 
-Certain capital legal expenses of a business may also qualify for a 5-year write-oﬀ (¶16-156).
+Certain capital legal expenses of a business may also qualify for a 5-year write-off (¶16-156).

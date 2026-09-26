@@ -21,11 +21,11 @@ A payment received by a taxpayer in respect of a foreign resident period is not 
 
   country
 
-- it is not a superannuation beneﬁt (ie it is not a superannuation fund payment: ¶14-100)
+- it is not a superannuation benefit (ie it is not a superannuation fund payment: ¶14-100)
 
 - it is not a payment of a pension or an annuity (whether or not the payment is a superannuation
 
-  beneﬁt — this ensures that only lump sum payments are covered), and
+  benefit — this ensures that only lump sum payments are covered), and
 
 - it relates only to a period of employment when the taxpayer was not an Australian resident
 
@@ -49,11 +49,11 @@ For the payment to be non-assessable non-exempt income, the following conditions
 
 - the payment relates only to the period of that employment or engagement
 
-- the payment is not a superannuation beneﬁt
+- the payment is not a superannuation benefit
 
 - the payment is not a payment of a pension or an annuity (whether or not the payment is a
 
-  superannuation beneﬁt)
+  superannuation benefit)
 
 - the taxpayer was an Australian resident during the period of the employment or engagement
 

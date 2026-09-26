@@ -28,11 +28,11 @@ or control all the property to which the company is entitled. The liquidator doe
 this as the company's agent.
 A voluntary winding up is usually "taken to have begun or commenced" on the
 date on which the special resolution for winding up was passed: s 513B(e). As we
-have explained at [10.100] the legislation also speciﬁes situations where a different
+have explained at [10.100] the legislation also specifies situations where a different
 date of commencement of the winding up applies: see s 513B(a) – (da).
 Where there is a compulsory liquidation ordered by the court under ss 232, 459A,
 459B or 461, the winding up is usually taken to have begun or commenced on the
-day of the court's order: s 513A(e). Other commencement dates are speciﬁed in the
+day of the court's order: s 513A(e). Other commencement dates are specified in the
 legislation, depending on the circumstances (see s 513A(a) – (d)) and notably where
 the company had previously commenced to be wound up voluntarily. The
 commencement date in such a case is the earlier date when the voluntary
@@ -44,16 +44,16 @@ known as a "trading trust", which can give rise to complex issues if the company
 enters liquidation.1 The Corporations Act does not specify what assets may fall
 outside of the liquidator's power and control on the grounds that they are not the
 "property of the company". At general law, a trustee holds the legal interest in
-property held in trust for another, and the beneﬁciaries hold an equitable (beneﬁcial
+property held in trust for another, and the beneficiaries hold an equitable (beneficial
 interest), which means that the trustee is not able to deal with the property as the
-full owner: see Re Stansﬁeld DIY Wealth Pty Ltd [2014] NSWSC 1484; (2014) 103
+full owner: see Re Stansfield DIY Wealth Pty Ltd [2014] NSWSC 1484; (2014) 103
 ACSR 401. This has the result that the liquidator of a company that is (or was)
 acting as a trustee cannot rely upon the power to deal with the trust assets under
 s 477: Re Aced Kang Investments Pty Ltd [2017] FCA 476. If the company has not been
 replaced as trustee of the trust, then the liquidator may exercise the same rights that
 the trustee has, such as the right to sell trust property under the terms of the trust
 deed, and will need to administer the trust property in the interests of the
-beneﬁciaries: Re Crest Realty Pty Ltd [1977] 1 NSWLR 664.
+beneficiaries: Re Crest Realty Pty Ltd [1977] 1 NSWLR 664.
 However, it is common for companies acting as trustee to be removed from their
 trustee office by ipso facto (ejection) clauses in trust deeds.2 Where this occurs, the
 company may continue to hold the trust assets, but will do so as a bare trustee, and
@@ -77,13 +77,13 @@ the liquidator to pay debts properly incurred on behalf of the trust: Octavo
 Investments Pty Ltd v Knight (1979) 144 CLR 360. However, the fact that the right of
 indemnity is property of the company does not allow the liquidator to simply sell
 trust assets in order to realise the indemnity; the trustee company may not have a
-full beneﬁcial interest in them and its lien to protect its indemnity does not provide
+full beneficial interest in them and its lien to protect its indemnity does not provide
 a power of sale: Killarnee.
 While there remains some debate about the application of the liquidator's powers
 under s 477 to trust property,3 the preferable view is that the liquidator should seek
 court directions (either as liquidator or through the company as trustee under the
 State and Territory Trustee Acts) and if necessary to seek appointment as a receiver
-for sale: Killarnee; Stansﬁeld DIY Wealth.
+for sale: Killarnee; Stansfield DIY Wealth.
 
 Retention of title
 [14.20] Naturally, any assets to which the company does not have title are not
@@ -129,7 +129,7 @@ Pty Ltd (admin apptd) [2017] NSWSC 21.
 A supplier may also lose priority over the "collateral" (PPSA, s 10) to another
 secured creditor who has properly perfected their security interest over the same
 collateral: see PPSA Pt 2.6. The changes introduced by the PPSA regime have
-signiﬁcantly enhanced the position of a liquidator who may be able to increase the
+significantly enhanced the position of a liquidator who may be able to increase the
 extent of assets available for all creditors by relying upon the vesting rules.7 It
 should be noted that a secured creditor, such as a ROT supplier, may be vulnerable
 even where it has attempted to perfect its security interest, for example by
@@ -141,9 +141,9 @@ unperfected: PPSA, s 165.10 See further Re OneSteel Manufacturing Pty Ltd (admin
 apptd) [2017] NSWSC 21.
 Retention of title arrangements can be characterised as purchase money security
 interests (PMSIs) which, when properly perfected, enjoy "super-priority" over most
-other security interests, provided that certain notiﬁcation requirements are met:
+other security interests, provided that certain notification requirements are met:
 PPSA, s 62.11
-One of the signiﬁcant points for insolvency practitioners concerning ROT supplies
+One of the significant points for insolvency practitioners concerning ROT supplies
 is the fact that PPSA security interests can extend to "proceeds": PPSA, s 31. Prior
 to the PPSA it was common for retention of title clauses to include trust provisions
 requiring proceeds to be held on trust to give greater protection for the supplier
@@ -162,7 +162,7 @@ account, a cheque or compensation for loss of the collateral: s 33(1)(c).
 7 Corporations Act, s 513AA further provides that the property of the company (for the purposes of
   Pt 5.6 of the Act) includes PPSA ROT property that has vested in the company.
 8 http://www.ppsr.gov.au.
-9 Vehicle Identiﬁcation Number, a unique serial number used by the car industry to identify individual
+9 Vehicle Identification Number, a unique serial number used by the car industry to identify individual
   vehicles.
 10 Certain types of collateral may be perfected by control or by possession, but ROT arrangements will
    not involve these situations.
@@ -171,7 +171,7 @@ account, a cheque or compensation for loss of the collateral: s 33(1)(c).
 518    Keay's Insolvency: Personal and Corporate Law and Practice                 [14.25]
 
 For liquidators, this means that where the ROT supplier has perfected its security
-interest, and where s 33 is satisﬁed (to obtain perfection of the security interest in
+interest, and where s 33 is satisfied (to obtain perfection of the security interest in
 the proceeds), the supplier will have the same priority in the proceeds themselves.
 The proceeds from the sale of trading stock (which is usually supplied under ROT
 arrangements) will usually be the funds that liquidators will want to use to fund
@@ -198,13 +198,13 @@ third persons, particularly during the time immediately before the commencement
 of the winding up. During this period the controllers of a company may well be
 aware that the company is insolvent and that liquidation is imminent. Realising
 this, they may attempt to favour associated parties or so order the affairs of the
-company that they themselves are beneﬁted at the expense of the general body of
-creditors. Sometimes third parties are beneﬁted without any intention on the part of
-the controllers of the company to act improperly or unfairly; the beneﬁts are
+company that they themselves are benefited at the expense of the general body of
+creditors. Sometimes third parties are benefited without any intention on the part of
+the controllers of the company to act improperly or unfairly; the benefits are
 bestowed randomly. However, as far as the law of liquidation is concerned the
-reason for providing a beneﬁt does not matter; the law in this area is preoccupied
+reason for providing a benefit does not matter; the law in this area is preoccupied
 with a concern for a fair and rateable distribution amongst the creditors. The giving
-of beneﬁts by the company before liquidation is likely, generally speaking, to affect
+of benefits by the company before liquidation is likely, generally speaking, to affect
 the fair distribution principle.
 As mentioned previously, the law of liquidation is based on bankruptcy law, and
 this is clearly seen in the area under discussion. Like bankruptcy, the law of
@@ -213,7 +213,7 @@ creditors in relation to the assets of the company that are realised and distrib
 among creditors. The process is supported by the pari passu principle of
 bankruptcy and liquidation law of an equal distribution of assets among the
 general body of creditors.
-The collective process, in effect, restricts individual creditors for the beneﬁt of the
+The collective process, in effect, restricts individual creditors for the benefit of the
 whole body of creditors by prohibiting certain transactions before liquidation. The
 legislature has taken the view, and it is a long-established one, that transactions by
 [14.35]                                                 14 Assets Available to the Liquidator   519
@@ -234,7 +234,7 @@ Part 5.7B Div 2: the avoidance regime
 liquidation are not, in general, voidable, even if the company was insolvent.
 Consequently it has been left to the legislature to construct some parameters as to
 the kinds of transactions that a company can enter into if it is later the subject of
-liquidation. Part 5.7B Div 2 of the Corporations Act contains provisions deﬁning
+liquidation. Part 5.7B Div 2 of the Corporations Act contains provisions defining
 these parameters.12
 The provisions contained within the Division may be referred to collectively as the
 avoidance or clawback provisions as the thrust of the Division is to specify what
@@ -242,7 +242,7 @@ pre-liquidation transactions are voidable on the application of the liquidator.
 Similar terminology is used in bankruptcy.
 The Division, in effect, constitutes an avoidance code in relation to pre-liquidation
 transactions. Division 2 sets out the transactions which are voidable, in what
-circumstances, and ﬁxes the time zones within which the transactions must have
+circumstances, and fixes the time zones within which the transactions must have
 occurred if they are to be set aside, together with indicating when transactions,
 which are voidable prima facie, are protected from being set aside.
 Division 2 represents something of a departure from the situation that formerly
@@ -273,7 +273,7 @@ Categories 1-3 are only voidable where they are also "insolvent transactions":
 s 588FC. That is, the insolvency of the company must be proved in order to set
 aside the transaction. There are differing time periods within which such
 transactions can be set aside, including if the transactions were with a related entity.
-This is summarised in the following ﬁgure.
+This is summarised in the following figure.
 Timeline D: Time period within which a transaction can be voidable under
 Pt 5.7B of the Corporations Act
 
@@ -283,25 +283,25 @@ administration or deed: s 588FE(2A), (2B).
 
 Relation-back day
 [14.40] The term "relation-back day" is obviously crucial to these timelines. The
-ILRA changed the prior deﬁnition of relation-back day in s 9 to insert a new
-detailed deﬁnition comprising a table with 15 scenarios to determine the
+ILRA changed the prior definition of relation-back day in s 9 to insert a new
+detailed definition comprising a table with 15 scenarios to determine the
 relation-back day in each. Many of these refer back to commencement times as
 determined by Pt 5.6 Div 1A of the Corporations Act – ss 513A, 513B and 513C. Some
 of the common scenarios are:
 • When the court orders the winding up of the company where there is no prior
   administration or liquidation: the relation-back day is the day that the court
-  application was ﬁled (s 91 table item 14);
+  application was filed (s 91 table item 14);
 [14.50]                                                   14 Assets Available to the Liquidator   521
 
 • When the court orders the winding up where the company entered administration
-  after the application for winding up was ﬁled: the relation-back day is the day
-  the application was ﬁled (s 91 table item 2);
+  after the application for winding up was filed: the relation-back day is the day
+  the application was filed (s 91 table item 2);
 • When the company enters voluntary liquidation and there was no prior
   liquidation or administration: the relation-back day is the day that the special
   resolution was passed (s 91 table item 15; s 513B)
 The chief importance of the relation-back day is that it is the point which is used for
 measuring the time periods prior to winding up within which transactions must be
-entered into if they are to be classiﬁed as subject to review by the liquidator. It
+entered into if they are to be classified as subject to review by the liquidator. It
 should be remembered, however, that the words "relation-back" bear no real
 comparison to the concept of relation-back in bankruptcy. The importance of the
 relation-back day has been explained14 as relating:
@@ -313,10 +313,10 @@ relation-back day has been explained14 as relating:
    company's debts and liabilities (see s 588Z)."
 Related entity
 [14.45] Another term that is of importance is "related entity". It is a broad term
-that is deﬁned in s 9 which provides that certain persons and entities are to be
+that is defined in s 9 which provides that certain persons and entities are to be
 regarded as related to a body corporate. In relation to a company these persons and
 entities include a promoter, a director or a relative of a director, a director of a
-related corporation, a related corporation itself and a beneﬁciary of a trust of which
+related corporation, a related corporation itself and a beneficiary of a trust of which
 the company under examination is or has at any time been a trustee.
 The rationale for the inclusion of the term is to widen the application of the
 avoidance provisions and provide a liquidator with greater opportunities to recover
@@ -327,21 +327,21 @@ six months prior to the relation-back day, but if the preference was given to a
 related entity then a liquidator can attack it if it was given at any time during the
 four years prior to the relation-back day: s 588FE(2), (4). This implements the view
 of the Harmer Report that related creditors should not be treated equally because
-they are more likely to be aware of a company's ﬁnancial affairs and may be able to
-exert inﬂuence on the owners of the company (if they are not themselves the
+they are more likely to be aware of a company's financial affairs and may be able to
+exert influence on the owners of the company (if they are not themselves the
 owners) to obtain an advantage, and experience suggests that when a company is
-suffering ﬁnancial difficulties related creditors are favoured: Harmer Report, at
+suffering financial difficulties related creditors are favoured: Harmer Report, at
 [636].
 Transaction
 [14.50] Naturally, as the Division is about voidable transactions the meaning of
-"transaction" is crucial. The word is deﬁned in broad terms in s 9 of the
+"transaction" is crucial. The word is defined in broad terms in s 9 of the
 
 14 CBA Corporate Services (NSW) Pty Ltd v Walker and Moloney, in the matter of ZYX Learning Centres Ltd
    [2013] FCAFC 74; (2013) 212 FCR 444 at [16]. See also Assaf, Shields and Kincaid, Voidable
    Transactions in Company Insolvency (LexisNexis Butterworths, 2015) Ch 2.
 522      Keay's Insolvency: Personal and Corporate Law and Practice                             [14.55]
 
-Corporations Act and does not purport to be exhaustive. The deﬁnition sets out a
+Corporations Act and does not purport to be exhaustive. The definition sets out a
 number of examples such as conveyances, transfers, charges, payments and loans.
 It includes a transaction that has been completed or given effect to or that has
 terminated. Most of the types of transactions referred to are mentioned in s 122 of
@@ -404,7 +404,7 @@ indemnity the liquidators can obtain from the company in liquidation. But it is
 unlikely that an order for security for costs will be made in avoidance actions.18
 Section 588FF goes on to state that the court that hears an application by a
 liquidator for the setting aside of a transaction has the right to make one or more of
-10 orders. This provides ﬂexibility in that justice can be done between all of the
+10 orders. This provides flexibility in that justice can be done between all of the
 parties involved in voidable transactions: "Explanatory Memorandum to the
 Corporate Law Reform Bill 1992 (Cth)", at [1056]. The range of orders that can be
 made is discussed in detail at the conclusion of the review of the various voidable
@@ -422,7 +422,7 @@ of the Bankruptcy Act, can be applied, in general, to the comparable company
 provision, s 588FA of the Corporations Act. Nevertheless there are some differences
 in wording between the respective preference provisions.
 As we earlier explained, the trustee or liquidator's power to recover preferential
-payments reﬂects one of the purposes of any insolvency law – to ensure that the
+payments reflects one of the purposes of any insolvency law – to ensure that the
 assets of the insolvent person or company are distributed equally among the
 creditors and that no one creditor receives preferential treatment unless permitted
 by law.
@@ -442,7 +442,7 @@ company, for example by threatening to discontinue the supply of crucial goods o
 by serving a s 459E demand, so that the company feels that it must pay that
 creditor rather than the others. It is also common for the Australian Taxation Office
 to pressure companies into paying tax obligations by issuing a director penalty
-notice, which is discussed in Chapter 16. Often companies that are in ﬁnancial
+notice, which is discussed in Chapter 16. Often companies that are in financial
 difficulty, particularly where their books and records are poorly kept or where there
 is a lack of competent corporate management, may pay creditors haphazardly and
 creditors are inadvertently granted preferences.
@@ -450,7 +450,7 @@ In contrast to bankruptcies,19 preference recoveries are often pursued by liquid
 The business environment in which a trading company operates will often mean
 that demanding creditors are paid in the period leading up to insolvency in
 circumstances where those creditors know or reasonably suspect that the company
-is in ﬁnancial trouble to the point of insolvency. It is relatively straightforward for a
+is in financial trouble to the point of insolvency. It is relatively straightforward for a
 liquidator to threaten recovery proceedings against a creditor with the matter then
 settling by agreement and the creditor paying a lesser sum to the liquidator than
 may be claimed in settlement of the dispute.
@@ -486,8 +486,8 @@ What are the conditions for a preference to exist?
 
 Transaction
 [14.80] First, a liquidator will have to prove that the alleged preference is a
-"transaction" within the deﬁnition of that term. This term is deﬁned in s 9 of the
-Corporations Act very broadly. The deﬁnition sets out a number of examples and
+"transaction" within the definition of that term. This term is defined in s 9 of the
+Corporations Act very broadly. The definition sets out a number of examples and
 does not purport to be exhaustive; notably it encompasses more types of
 transaction than those mentioned in s 122 of the Bankruptcy Act.
 The transaction must be one to which both the company and the creditor are
@@ -534,19 +534,19 @@ illustrated:
    "by a number of cases in which a series of steps over a period, involving several parties
    and not always contractual consequences, have been held to be a 'transaction'.
    'Transaction' includes an arrangement giving rise to an estoppel under which one party
-   may not resile from a position. And, as the deﬁnition itself makes clear (for example, by
+   may not resile from a position. And, as the definition itself makes clear (for example, by
    referring to a disposition of property), a 'transaction' may be unilateral in character."
 A transaction has been found to exist in circumstances where the creditor agreed to
 pay the debtor company for its business and its goodwill and the creditor was to
 set-off the payment for goodwill against amounts owing to it by the company.
-There was found to be a transaction under which the creditor received beneﬁts
+There was found to be a transaction under which the creditor received benefits
 greater than it would receive in a liquidation. The term "transaction" is sufficiently
 broad to cover such an arrangement.30
 If there is a payment made to a company for a particular purpose and that purpose
 fails, such that the money must be refunded, there may be no preference. The funds
 would be impressed with a Quistclose trust such that they are not property of the
 company.31 See Chapter 5 at [5.150].
-Finally, it should be noted that the term is not conﬁned to transactions that are
+Finally, it should be noted that the term is not confined to transactions that are
 lawful or enforceable.
 
 Receiver's liability for repaying preferences
@@ -600,10 +600,10 @@ preference, that is, that it is an insolvent transaction pursuant to s 588FC. Ag
 onus is on the liquidator to prove insolvency.37
 
 Within the relevant six-month time period
-[14.95] Thirdly, the transaction must have occurred within a speciﬁc time zone,
+[14.95] Thirdly, the transaction must have occurred within a specific time zone,
 that is, within six months of the relation-back day or between that day and the
 commencement of the winding up: s 588FE(2). In most cases the transaction will be
-conﬁned enough in time for this requirement to be determined. In other cases,
+confined enough in time for this requirement to be determined. In other cases,
 where the transaction may be a "multi-stepped arrangement", it may be less clear
 when some parts of the transaction occur outside the six-month period. The section
 does not require all acts giving effect to the transaction to have occurred in the
@@ -633,8 +633,8 @@ As we discussed earlier (see [14.45]), the reason for the longer time zone for r
 parties recognises that directors and persons associated with the directors may
 have the foresight to see liquidation as a distinct probability well in advance of
 others. Where such foresight occurs, it may be tempting for directors to take action
-or exert inﬂuence on the company in order to safeguard their own interests or the
-interests of associates. Because of inside knowledge and inﬂuence, related entities
+or exert influence on the company in order to safeguard their own interests or the
+interests of associates. Because of inside knowledge and influence, related entities
 may obtain satisfaction of the debts owed to them outside the six-month time zone
 which generally applies.
 
@@ -688,7 +688,7 @@ Section 588E is designed to facilitate proof of facts and so avoid the time and 
 expended in establishing in later actions what has already been established by facts
 proved at a hearing before a court which has pronounced judgment: Dean-Willcocks
 v Air Transit International Pty Ltd [2002] NSWSC 525; (2002) 55 NSWLR 64. While
-the beneﬁts conferred by s 588E are available to liquidators, a defendant can also
+the benefits conferred by s 588E are available to liquidators, a defendant can also
 rely on the presumptions; see s 588E(8) which also creates presumptions where a
 defence has been established.
 Broadly, presumptions of insolvency can apply:
@@ -698,7 +698,7 @@ Broadly, presumptions of insolvency can apply:
   within the 12 months immediately preceding the relation-back day. In that case,
   the company is presumed to be insolvent from that point of time until the
   relation-back day: s 588E(3). This in effect provides for a continuing presumption
-  of insolvency in the period speciﬁed;43
+  of insolvency in the period specified;43
 • if a company has breached s 286(1) by failing to keep adequate accounting
   records44 (s 588E(4)(a)) or it has breached s 286(2) by failing to retain such
   records for a period of seven years (s 588E(4)(b)) it is presumed to be insolvent
@@ -711,7 +711,7 @@ Broadly, presumptions of insolvency can apply:
 
 41 Keay, Avoidance Provisions in Insolvency Law (LBC, 1997), pp 170-172.
 42 McKern v Minister Administering Mining Act 1978 (WA) [2010] VSCA 140; (2010) 28 VR 1.
-43 See, for example, Tolhurst Druce & Emmerson (a ﬁrm) v Maryvell Investments Pty Ltd [2007] VSC 271
+43 See, for example, Tolhurst Druce & Emmerson (a firm) v Maryvell Investments Pty Ltd [2007] VSC 271
    where this presumption applied in a s 588FB application.
 44 This requires not only completeness but also accuracy of records: Gordon v Leon Plant Hire Pty Ltd
    [2015] NSWSC 397.
@@ -738,7 +738,7 @@ insolvency was in fact proved in the earlier court proceedings and the presumpti
 applied. That view may also be taken of s 588E(8A).
 
 Running accounts
-[14.120] It is important to note that s 588FA(3) of the Corporations Act codiﬁes the
+[14.120] It is important to note that s 588FA(3) of the Corporations Act codifies the
 running account principle developed by the courts in relation to preferences in
 bankruptcy.48 Running accounts occur, for example, where a supplier of goods
 supplies goods on credit to a company and the price of the goods and payments
@@ -749,7 +749,7 @@ all payments would be considered to be preferences. The courts have said,49 and
 the legislature has obviously agreed, that this would be too harsh a consequence.
 The running account principle is not a defence to an action under s 588FA(1) but
 rather acts as an alternative cause of action that is used where its elements are
-satisﬁed.50
+satisfied.50
 The running account principle was explained in Re Employ (No 96) Pty Ltd [2013]
 NSWSC 61; (2013) 93 ACSR 48 at [43] as follows:
    "[s 588FA(3)] provides that transactions that are an integral part of a continuing business
@@ -772,7 +772,7 @@ NSWSC 61; (2013) 93 ACSR 48 at [43] as follows:
    amount owing on the last day of the period."
 
 The calculation of the preference amount is based on the "peak indebtedness" of
-the company to the creditor during the relevant period compared with the ﬁnal
+the company to the creditor during the relevant period compared with the final
 amount, if any, owing, thus allowing a liquidator to choose the highest amount in
 order to maximise the amount of the preference recovery.51
 Thus in Air Services Australia v Ferrier (1996) 185 CLR 483 the running account
@@ -797,10 +797,10 @@ In Wily v Eastern Elevators [2003] NSWSC 377; (2003) 45 ACSR 261 the court found
 there was no running account for reasons that included that although it was
 claimed that the payments were made to secure the provision of future services,
 those future services were not of greater value than the amount of the impugned
-payments; and the "transactions between the parties did not result in a ﬂuctuating
+payments; and the "transactions between the parties did not result in a fluctuating
 balance with payments made from time to time against services provided and to be
 provided, that is, to the general balance of the account, but each payment was
-speciﬁcally related to a speciﬁc invoice representing a particular 'progress payment'
+specifically related to a specific invoice representing a particular 'progress payment'
 for past work". Conversely, in Sutherland v Lofthouse [2007] VSCA 197; (2007) 214
 
 51 The validity of the peak indebtedness rule has been questioned. See Russell and Russell, "Unfair
@@ -831,16 +831,16 @@ step taken by a customer to ensure the availability of continued supply: Sutherl
 v Eurolinx [2001] NSWSC 230; (2001) 19 ACLC 633.
 
 Defences
-[14.125] A creditor who has been the recipient of a beneﬁt under a transaction
-that can be classiﬁed as an unfair preference might be able to rely upon s 588FG of
+[14.125] A creditor who has been the recipient of a benefit under a transaction
+that can be classified as an unfair preference might be able to rely upon s 588FG of
 the Corporations Act which protects the transaction in certain circumstances. This
 section is discussed at [14.185] after all of the different types of voidable
 transactions have been examined because s 588FG may be invoked in any action
 involving any voidable transaction.
 
-Effect of a ﬁnding that a preference was given
+Effect of a finding that a preference was given
 [14.130] If a transaction is held to constitute a preference, the recipient will be
-required to repay the beneﬁt received to the liquidator for the beneﬁt, if there are
+required to repay the benefit received to the liquidator for the benefit, if there are
 sufficient funds, for the general body of creditors. There may not in fact be sufficient
 funds. Recovery of a small amount from a creditor may only serve to reimburse the
 liquidator for his or her remuneration and expenses of the liquidation, including
@@ -857,7 +857,7 @@ the review of the authorities in Hussain v CSR Building Products Ltd [2016] FCA 
 53 See Hall v Poolman (2007) 65 ACSR 123; [2007] NSWSC 1330; on appeal Hall v Poolman [2009]
    NSWCA 64; (2009) 75 NSWLR 99.
 54 Keay suggests that this provision serves only to encourage creditors to receive and retain, even in
-   the face of legal proceedings, the beneﬁt of preferential transactions: see Keay, "An Exposition and
+   the face of legal proceedings, the benefit of preferential transactions: see Keay, "An Exposition and
    Assessment of Unfair Preferences" (1994) 19 MULR 545.
 55 See also Derham, "Set-off against Statutory Avoidance and Insolvent Trading Claims in Company
    Liquidation" (2015) 89 ALJ 459.
@@ -871,7 +871,7 @@ relation-back day if a related entity is a party to it – s 588FE(4)) they are 
 transactions within s 588FE.
 An uncommercial transaction is a transaction of the company that a reasonable
 person in the place of the company would not have entered into, taking into
-account the beneﬁts and the detriments to the company, the respective beneﬁts to
+account the benefits and the detriments to the company, the respective benefits to
 the other parties involved and any other relevant matter. It is equivalent to s 120 of
 the Bankruptcy Act, and was introduced, in part, to allow liquidators to avoid
 settlements entered into by companies before liquidation where the settlement did
@@ -881,7 +881,7 @@ Section 588FB of the Corporations Act applies, inter alia, where a company:
 • gives a gift of its property, that is, for no consideration;
 • undertakes a burden for no consideration;
 • sells property at an amount below market value; or
-• agrees to pay for services or property in an amount that is signiﬁcantly greater
+• agrees to pay for services or property in an amount that is significantly greater
   than the market value.
 The legislature, in introducing s 588FB, was obviously concerned to prevent
 transactions that involve clear inequality of exchange, for example, the company
@@ -890,7 +890,7 @@ with undervalue, undervalue is at the heart of the section, that is, if the comp
 received less than what is reasonable from the transaction the liquidator may attack
 it. In many cases courts will need to compare the value of what the company
 received in exchange for what it gave or vice versa. For example, an arrangement
-whereby an accounting ﬁrm charged double its normal rates was found to be an
+whereby an accounting firm charged double its normal rates was found to be an
 uncommercial transaction as there was no apparent need for the increased charges:
 Re Employ (No 96) Pty Ltd [2013] NSWSC 61; (2013) 93 ACSR 48. The court rejected
 the contention that the work was especially complex and found that the purpose of
@@ -912,8 +912,8 @@ Full Federal Court decision in Capital Finance Australia Ltd v Tolcher [2007] FC
 
    1. as the express words of s 588FB make clear, it is an objective standard to determine if a
       transaction is uncommercial;
-   2. four criteria are to be considered – the beneﬁts enjoyed by the company (s 588FB(1)(a)),
-      the detriment to the company (s 588FB(1)(b)), the respective beneﬁts others received
+   2. four criteria are to be considered – the benefits enjoyed by the company (s 588FB(1)(a)),
+      the detriment to the company (s 588FB(1)(b)), the respective benefits others received
       (s 588FB(1)(c)) and any other relevant matters (s 588FB(1)(d));58
    3. the objective criteria are not considered in some vacuum but by reference to "the
       company's circumstances" which must include the state of knowledge of those who
@@ -924,11 +924,11 @@ Full Federal Court decision in Capital Finance Australia Ltd v Tolcher [2007] FC
       commercial practice" or where "the consideration … lacks a 'commercial quality'".59
 The test is not as high as requiring proof that no reasonable board of directors
 would have entered into the transaction60 and reasonableness must be assessed at
-the time of the transaction and without the beneﬁt of hindsight.
+the time of the transaction and without the benefit of hindsight.
 In the case of directors whose decision to settle the company's monetary claim was
 challenged under s 588FB, the court found it was "difficult to see why a reasonable
 person in the company's circumstances would not have entered into the
-[settlement] transaction", given the lack of reliability of the company's ﬁnancial
+[settlement] transaction", given the lack of reliability of the company's financial
 records, and the risks of commercial litigation and the associated costs: Shot One Pty
 Ltd (in liq) v Day [2017] VSC 741. The liquidator's claim was accordingly dismissed.
 Where the transaction involves family or related entities the court will scrutinise
@@ -941,7 +941,7 @@ Ltd (in liq) v Featherstone [2016] QSC 121; (2016) 309 FLR 321 (appeal dismissed
 This is not to say that good faith and valuable consideration are not important –
 they are aspects of the defence to a s 588FB claim in the defence provision: s 588FG.
 Good faith was in issue in the case of a lease of company property to a director on
-terms very favourable to the director: Tolhurst Druce & Emmerson (a ﬁrm) v Maryvell
+terms very favourable to the director: Tolhurst Druce & Emmerson (a firm) v Maryvell
 Investments Pty Ltd [2007] VSC 271.
 The problem that s 588FB often provokes is ascertaining what is the correct
 valuation of property that was either conveyed by or to the company in the
@@ -950,9 +950,9 @@ valuation of property that was either conveyed by or to the company in the
    assessment: 640 Elizabeth Street Pty Ltd (in liq) v Maxcon Pty Ltd [2015] VSC 22 at [37].
 59 See also the leading decision in Demondrille Nominees Pty Ltd v Shirlaw (1997) 25 ACSR 535, 548. See
    further Re Ashington Bayswater Pty Ltd [2013] NSWSC 1008 (grant of charge to secure pre-existing
-   debt conferred little beneﬁt on the company and was uncommercial); Campbell Street Theatre Pty Ltd
+   debt conferred little benefit on the company and was uncommercial); Campbell Street Theatre Pty Ltd
    v Commercial Mortgage Trade Pty Ltd [2012] NSWSC 669 (agreeing to pay a large up-front fee in
-   exchange for vague commitment to provide unspeciﬁed services was uncommercial).
+   exchange for vague commitment to provide unspecified services was uncommercial).
 60 Cussen v Sultan [2009] NSWSC 1114; (2009) 74 ACSR 496 at [22].
 61 Welcome Homes Real Estate Pty Ltd v Ziade Investments Pty Ltd [2007] NSWCA 167 at [56]; Old Kiama
    Wharf Company Pty Ltd v Betohuwisa Investments Pty Ltd [2011] NSWSC 823; (2011) 85 ACSR 87.
@@ -963,14 +963,14 @@ evidence of how the transaction affected the company and its assets. Merely
 asserting detriment will not be sufficient: Rafeletos v Great Wall Resources Pty Ltd
 (No 4) [2012] FCA 1168.
 In construing s 588FB courts should be inclined to favour that construction which
-beneﬁts the unsecured creditors in whose interests the liquidator is acting in
+benefits the unsecured creditors in whose interests the liquidator is acting in
 bringing the proceedings for recovery: Demondrille Nominees Pty Ltd v Shirlaw [1997]
 FCA 1220; (1997) 25 ACSR 535.
 In that case, C contracted to sell a residential unit to D for $180,000 but to forgo
 $120,000 of this amount which represented a debt due by V to D. Subsequently, C
 and D entered into a deed by which the agreement for sale was rescinded on
 payment of the $120,000 by C to D. C then went into liquidation. The court found
-this to be an uncommercial transaction (s 588FB) because it conferred no beneﬁt on
+this to be an uncommercial transaction (s 588FB) because it conferred no benefit on
 C or, indirectly, on its creditors and D had obtained, at C's expense, a bargain of
 such magnitude that it could not be explained by normal commercial practice. It
 was also an insolvent transaction within s 588FC because the acts of C and D in
@@ -1000,7 +1000,7 @@ case with preferences: cf Prentice v St George Bank Ltd [2002] NSWSC 358; (2002)
 ACLC 923 at [24]. This will depend on the facts and involves more than simply
 being a party to the transaction: Kalls Enterprises Pty Ltd v Baloglow [2007] NSWCA
 
-62 The case of Kitay v Strathﬁeld Holdings Pty Ltd (1998) 27 ACSR 716 shows the difficulties with
+62 The case of Kitay v Strathfield Holdings Pty Ltd (1998) 27 ACSR 716 shows the difficulties with
    valuations.
 63 Demondrille Nominees Pty Ltd v Shirlaw [1997] FCA 1220; (1997) 25 ACSR 535.
 536      Keay's Insolvency: Personal and Corporate Law and Practice                            [14.140]
@@ -1009,7 +1009,7 @@ being a party to the transaction: Kalls Enterprises Pty Ltd v Baloglow [2007] NS
 (2007) 164 FCR 83. Where a transaction is entered into by a person under a power
 of attorney, that can still be a transaction "of the company": Great Investments Ltd v
 Warner [2016] FCAFC 85; (2016) 243 FCR 516 at [136].
-One particular issue identiﬁed with s 588FB is that there is no allowance for a
+One particular issue identified with s 588FB is that there is no allowance for a
 person ordered to repay the amount of an uncommercial transaction to be able to
 prove as a creditor in the liquidation for that amount. The court in Employ (No 96)
 Pty Ltd [2013] NSWSC 61 said that if the defendant were to be ordered under
@@ -1050,7 +1050,7 @@ because the concept has overtones of criminality, even though the fraud referred
 66 For a more detailed discussion, see Keay, "Challenging Fraudulent Transactions and Unfair Loans as
    Voidable Pre-liquidation Transactions" (1995) 2 Deakin Law Review 53, 54-60.
 67 For a case in which a transaction was supposedly covered by s 588FE(5)(b) of the Corporations Act,
-   see Re Solﬁre Pty Ltd [1998] 2 Qd R 92.
+   see Re Solfire Pty Ltd [1998] 2 Qd R 92.
 [14.145]                                                  14 Assets Available to the Liquidator   537
 
 here does not mean deceit in the criminal sense.68 In many ways the fraudulent
@@ -1073,7 +1073,7 @@ Chapter 5 in the context of s 121 of the Bankruptcy Act, and that section, and
 s 588FE(5) of the Corporations Act, are broadly founded on that 16th century
 provision in English law.
 
-Recovering related-entity beneﬁts from insolvent transactions
+Recovering related-entity benefits from insolvent transactions
 [14.145] The precursors of the Corporations Act, s 588FH (see, for instance
 s 567(5), (6) of the Corporations Law) were introduced in an attempt to recover
 indirect preferences – payments made to a principal creditor, prior to liquidation
@@ -1112,7 +1112,7 @@ the liquidator successfully claimed, under s 588FH, the payment of the residual
 from the director.
 In making any order a court must take into account any sum recovered from the
 related entity: s 588FH(3). If the liquidator demands payment under this section
-and the related entity satisﬁes that demand, then the related entity has the same
+and the related entity satisfies that demand, then the related entity has the same
 rights of indemnity or contribution against the company or some other party as it
 would have had, had it discharged the relevant liability: s 588FH(4).
 While the section is likely to apply where a preference has been given it is not
@@ -1120,7 +1120,7 @@ limited to situations involving preferences; the section applies to any insolven
 transaction that is voidable under s 588FE. Consequently, the transaction that
 precipitates the use of s 588FH could occur in the period of six months, two years,
 four years or 10 years before the relation-back day.
-A beneﬁt for a liquidator in taking proceedings under s 588FH is that the defendant
+A benefit for a liquidator in taking proceedings under s 588FH is that the defendant
 is unable to rely on the protective provisions in s 588FG.
 
 UNFAIR LOANS
@@ -1172,18 +1172,18 @@ UNREASONABLE DIRECTOR-RELATED TRANSACTIONS
 (Repayment of Directors' Bonuses) Act 2003 (Cth). The intent is to permit liquidators
 to reclaim unreasonable payments made to directors, in particular by way of a
 bonus, by companies prior to a liquidation.
-The provisions relate to transactions made to, on behalf of, or for the beneﬁt of a
+The provisions relate to transactions made to, on behalf of, or for the benefit of a
 director or "close associate" of a director. To fall within the scope of the
 amendments, the transaction must have been unreasonable, and entered into
-during the four years leading up to a company's liquidation. Signiﬁcantly, liability
+during the four years leading up to a company's liquidation. Significantly, liability
 is determined regardless of the company's solvency at the time the transaction
 occurred. Furthermore, the defences under s 588FG of the Corporations Act are not
 available for this category of voidable transaction.
-Section 9 deﬁnes "close associate" as a relative of the director, or a relative of a
+Section 9 defines "close associate" as a relative of the director, or a relative of a
 spouse of the director. In both cases, de facto spouses are included. "Relative" is
-separately deﬁned under s 9. But the beneﬁt obtained by that third person that will
+separately defined under s 9. But the benefit obtained by that third person that will
 bring a close associate of a director within the statutory provision must be a direct
-beneﬁt: thus a sole shareholder of a company does not relevantly beneﬁt by a
+benefit: thus a sole shareholder of a company does not relevantly benefit by a
 disposition of property to that company. It was not the intention of the legislature
 
 71 Insolvency Act 1986 (UK), s 244; see Goode, The Principles of Corporate Insolvency Law (4th ed, Sweet
@@ -1196,13 +1196,13 @@ company: Ziade Investments Pty Ltd v Welcome Homes Real Estate Pty Ltd [2006]
 NSWSC 457; (2006) 57 ACSR 693.72
 In Vasudevan v Becon Constructions (Australia) Pty Ltd [2014] VSCA 14; (2014) 97
 ACSR 627 at [19], Nettle JA explained the purpose of the provision and what scope
-of beneﬁts it was intended to apply to:
+of benefits it was intended to apply to:
    "s 588FDA is self-evidently an anti-avoidance provision aimed at preventing errant
-   directors from stripping beneﬁts out of companies to their own advantage. It is to be
+   directors from stripping benefits out of companies to their own advantage. It is to be
    presumed, therefore, that Parliament deployed the language of the section with the
-   intention of achieving that objective. According to ordinary acceptation, 'beneﬁt' includes
-   both direct and indirect beneﬁts and, prima facie, that accords with the apparent objective
-   of the section. If so, why should the notion of beneﬁt be conﬁned to direct beneﬁt for the
+   intention of achieving that objective. According to ordinary acceptation, 'benefit' includes
+   both direct and indirect benefits and, prima facie, that accords with the apparent objective
+   of the section. If so, why should the notion of benefit be confined to direct benefit for the
    purposes of the section?"
 This was applied in Pearce v Gulmohar Pty Ltd [2017] FCA 660.
 Section 588FDA provides that a transaction of a company is an "unreasonable
@@ -1211,25 +1211,25 @@ reasonable person in the company's circumstances would not have entered into the
 transaction. In Weaver v Harburn [2014] WASCA 227; (2014) 103 ACSR 416, the court
 explained (at [91]):
    "The 'company's circumstances' encompass all relevant matters, starting with its status as
-   a company and what ﬂows from that; its controllers, shareholders, business and other
+   a company and what flows from that; its controllers, shareholders, business and other
    activities; and the facts and circumstances of, and surrounding, the transaction."
 The reasonableness of the transaction is determined with regard to the respective
-costs and beneﬁts to the company,73 and beneﬁts to the recipient,74 of entering into
+costs and benefits to the company,73 and benefits to the recipient,74 of entering into
 the transaction.75 All the circumstances of the transaction should be examined:
 Crowe-Maxwell v Frost [2016] NSWCA 46; (2016) 91 NSWLR 414. In that case,
 Beazley P stated (at [89]):
    "A common thread in the uncommercial transaction cases is that, where there is limited
    evidence of the nature or purpose of a transaction, but the surrounding circumstances
    show it to be a departure from normal commercial practice and to raise inferences as to a
-   lack of beneﬁt to the company, detriment caused to the company, or beneﬁt accruing to
+   lack of benefit to the company, detriment caused to the company, or benefit accruing to
    other parties, absent some commercial explanation, courts may infer the transaction was
    uncommercial, without requiring the liquidator to prove its precise uncommercial nature.
-   The same may be said with respect to the identiﬁcation of unreasonable director-related
+   The same may be said with respect to the identification of unreasonable director-related
    transactions."
 In Merrag Pty Ltd v Khoury [2009] NSWSC 915 the court held that the sale of real
 property for less than half of the market price was an unreasonable director-related
 transaction (as well as being an uncommercial transaction) in circumstances where
-the director made a signiﬁcant proﬁt out of the transaction. Transferring funds to a
+the director made a significant profit out of the transaction. Transferring funds to a
 
 72 Applied in Re Great Wall Resources Pty Ltd [2013] NSWSC 354.
 73 For a discussion of the concept of consideration and s 588FDA see: Golden Heritage Golf Pty Ltd (in
@@ -1259,13 +1259,13 @@ dispositions of property; the issue of securities (including options); and the
 incurring of an obligation to enter into these arrangements. A mortgage of property
 is a disposition under s 588FDA(1)(a)(ii) (Ziade Investments Pty Ltd v Welcome Homes
 Real Estate Pty Ltd [2006] NSWSC 457; (2006) 57 ACSR 693) as is the creation of a
-ﬂoating charge (now called a circulating security interest): Re Helmar Pty Ltd (1992)
+floating charge (now called a circulating security interest): Re Helmar Pty Ltd (1992)
 8 ACSR 301.
 Section 588FDA(2) provides that the reasonableness of entering into the transaction
 is determined at the time the company actually enters into the transaction,
 regardless of its reasonableness at the time the company incurred the obligation to
 enter the transaction. The court will take into account whether the company was
-able to obtain commercial ﬁnance before entering into a loan transaction with a
+able to obtain commercial finance before entering into a loan transaction with a
 close associate.76
 Under s 588FDA(3), a transaction may be caught regardless of whether a creditor of
 the company is a party to the transaction, or if the payment was made pursuant to
@@ -1278,7 +1278,7 @@ OF COMPANY ARRANGEMENT
 of administration or under a DOCA, and then later enters liquidation, those
 transactions may not be voidable because of the requirement that an uncommercial
 transaction is also an insolvent transaction. Under s 588FC of the Corporations Act
-the company's own insolvency is an element of the deﬁnition of an insolvent
+the company's own insolvency is an element of the definition of an insolvent
 transaction. In contrast, unfair loans and unreasonable director-related transactions
 are voidable under s 588FE(6) and (7) respectively, regardless of whether they are
 also insolvent transactions.
@@ -1307,7 +1307,7 @@ the extent that it secures the following (s 588FJ(1), (2)):
 • an advance paid to the company (or at its direction) as consideration for the
   charge or interest paid on such an advance;
 • an amount of a liability under a guarantee or other obligation undertaken at or
-  after that time on behalf of, or for the beneﬁt of, the company;79
+  after that time on behalf of, or for the benefit of, the company;79
 • an amount payable for property or services supplied to the company after the
   charge's creation; and
 • interest payable on any of the above amounts.
@@ -1337,10 +1337,10 @@ circulating security interests to secure past debts.81 As noted above (at [14.13
 conferral of a security interest to secure the repayment of a pre-existing debt may
 also be an unfair preference and/or an uncommercial transaction. In Lucas v Currie
 [2013] FCA 1404 at [59] the court explained (in pre-PPSA terms):
-   "Broadly speaking, s 588FJ seeks to ensure that a ﬂoating charge created in the six months
+   "Broadly speaking, s 588FJ seeks to ensure that a floating charge created in the six months
    before the relation-back day secures against the liquidator, only advances made on or
    after the date of the creation of the charge and from which the company derives a tangible
-   beneﬁt. However the section does not invite an overall comparison of the company's
+   benefit. However the section does not invite an overall comparison of the company's
    position with and without the purportedly secured advance. Rather, the section directs
    attention to the way in which any advance has been applied. Such a charge will not
    secure an advance which has been applied in discharge, directly or indirectly, of an
@@ -1348,12 +1348,12 @@ also be an unfair preference and/or an uncommercial transaction. In Lucas v Curr
 A circulating security interest is void to the extent that it secures an amount in
 excess of the market value of the property or services as consideration for it:
 s 588FJ(5). The rationale for this is to ensure that security is not obtained in relation
-to prior debts owing to the secured party by inﬂating the value of the consideration
+to prior debts owing to the secured party by inflating the value of the consideration
 for the security interest.
 Section 588FJ(6) provides that if in the period covered by s 588FJ a debt secured by
 a circulating security interest encompassed by the section was discharged out of
 company money or property, the liquidator may recover from the secured party as
-a debt due an amount equal to an amount set out in a speciﬁed formula.
+a debt due an amount equal to an amount set out in a specified formula.
 In determining whether a company was solvent for the purposes of s 588FJ(3), the
 secured party has the onus of proving solvency in s 588FJ, whereas under s 588FA
 the liquidator has to prove insolvency.
@@ -1365,7 +1365,7 @@ v Cosmas Fish Processors International Pty [1983] 1 VR 349. Whether there has, i
 been money advanced by the secured party within s 588FJ will depend on the
 circumstances. In considering the circumstances the courts will examine substance
 and not form and ask: "Is the transaction to be regarded as one which was intended
-bona ﬁde for the beneﬁt of the company or was it intended only to beneﬁt certain
+bona fide for the benefit of the company or was it intended only to benefit certain
 creditors to the prejudice of others?": Re Matthew Ellis Ltd [1933] Ch 458. Only the
 former type of transaction is safe from attack. In the latter case, the security interest
 is invalid. In other words, the courts will not necessarily be persuaded by the fact
@@ -1380,7 +1380,7 @@ s 588FJ. For instance, in Re Orleans Motor Co [1911] 2 Ch 41, directors who had
    Pty Ltd (1992) 6 ACSR 447, 452.
 544      Keay's Insolvency: Personal and Corporate Law and Practice                           [14.170]
 
-guaranteed the company's overdraft with a bank, took a ﬂoating charge (security
+guaranteed the company's overdraft with a bank, took a floating charge (security
 interest) over the company's assets to secure an advance made to the company. The
 advance was subsequently used to satisfy the guarantee. This exercise was held to
 be a transparent subterfuge; in effect no money was paid to the company. The
@@ -1402,7 +1402,7 @@ COURT ORDERS: S 588FF
 would simply ask the court for a declaration that a particular transaction was a
 preference or some other voidable transaction and hence void, and that a sum be
 paid or property be returned by the defendant. However, now Corporations Act,
-s 588FF83 provides a court with the power to be far more ﬂexible, so that it can do
+s 588FF83 provides a court with the power to be far more flexible, so that it can do
 justice between the parties involved. A court can make 10 different types of orders.
 Most orders made by courts fall within s 588FF(1)(a), (b) or (c). The court may:
 • direct a person to pay to the company in liquidation an amount equal to some or
@@ -1415,10 +1415,10 @@ Most orders made by courts fall within s 588FF(1)(a), (b) or (c). The court may:
   transaction has been entered into or an unfair preference has been given,
   whereby company property was transferred – s 588FF(1)(b);
 • order a person to pay to the company in liquidation an amount which fairly
-  represents some or all of the beneﬁts received by the person under the voidable
+  represents some or all of the benefits received by the person under the voidable
   transaction – s 588FF(1)(c).
 While some paragraphs in s 588FF(1) are included primarily to give relief in
-relation to speciﬁc voidable transactions – for example, para (a) will apply to most
+relation to specific voidable transactions – for example, para (a) will apply to most
 transactions which are unfair preferences, para (f) is directed at unfair loans and
 
 82 In relation to that, and consequential issues, see CBA Corporate Services (NSW) Pty Ltd v Walker and
@@ -1434,12 +1434,12 @@ transactions.84 For instance, para (b) can be used in making orders where either
 unfair preference or an uncommercial transaction is found to have been entered
 into.
 It is uncertain whether the court's discretion extends to declining to make an order
-under s 588FF in favour of the company even if it ﬁnds that a transaction is
+under s 588FF in favour of the company even if it finds that a transaction is
 voidable.85 Nevertheless, the courts generally accept that the section can be used
-ﬂexibly in order to give effect to the statutory scheme under Pt 5.7B.
+flexibly in order to give effect to the statutory scheme under Pt 5.7B.
 As noted earlier ([14.130]), a court should not refrain from making an order
 pursuant to s 588FF simply because any payment ordered to be made by the
-defendant to an avoidance action will not beneﬁt the creditors although in those
+defendant to an avoidance action will not benefit the creditors although in those
 circumstances there may be wider issues as to the conduct of the liquidator in
 bringing the proceedings.
 A particular provision that assists is s 588FF(4) which provides that, in the case of
@@ -1458,7 +1458,7 @@ payment by the liquidator to the date of judgment.87
 Time within which an application should be made
 [14.175] An application for an order pursuant to s 588FF must be made during
 the period beginning on the relation-back day and ending three years after that day,
-or, 12 months after the ﬁrst appointment of the liquidator, whichever is the later:
+or, 12 months after the first appointment of the liquidator, whichever is the later:
 s 588FF(3)(a).88 A court may order an extension of that time, on an application by
 
 84 See for example, Re Employ (No 96) Pty Ltd [2013] NSWSC 61; (2013) 93 ACSR 48.
@@ -1482,7 +1482,7 @@ Pty Ltd (in liq) [2016] NSWCA 329; (2016) 93 NSWLR 251. In that case, it was als
 held that the time limit is not applied to each of the transactions impugned by the
 liquidation, but rather to the application to the court for orders.
 An application may be made for an extension of time to bring proceedings against
-unspeciﬁed creditors. In Fortress Credit Corporation (Australia) II Pty Ltd v Fletcher
+unspecified creditors. In Fortress Credit Corporation (Australia) II Pty Ltd v Fletcher
 [2015] HCA 10; (2015) 106 ACSR 38 at [24], the High Court accepted the use of so
 called "shelf orders" and stated:
    "There is, however, no independent basis for the assertion that any extension of time
@@ -1492,7 +1492,7 @@ called "shelf orders" and stated:
    Questions of what is a reasonable or an unreasonable prolongation of uncertainty and the
    scope of such uncertainty are more appropriately considered case-by-case in the exercise
    of judicial discretion than globally in judicial interpretation of the provision."
-If there is a speciﬁed proposed defendant, that person should, as a matter of
+If there is a specified proposed defendant, that person should, as a matter of
 procedural fairness, be given the opportunity to be heard on the extension
 application.90
 
@@ -1500,10 +1500,10 @@ PROTECTIVE PROVISIONS
 [14.180] As in bankruptcy, persons against whom a liquidator has succeeded in
 establishing the necessary elements to invoke the avoidance provisions have the
 right to avail themselves, in some circumstances, of protective provisions in the
-Corporations Act. Section 588FG is designed to protect certain recipients of beneﬁts
+Corporations Act. Section 588FG is designed to protect certain recipients of benefits
 from a company which has subsequently gone into liquidation.
 The rationale for the protections in the section is to prevent what could be harsh
-and unjustiﬁed consequences for some persons who were unaware of the
+and unjustified consequences for some persons who were unaware of the
 company's insolvency at the time of the challenged transaction.
 
 Section 588FG
@@ -1523,7 +1523,7 @@ everything which is required under Pt 5.7B Div 2 and the person who is under
 attack wishes to defend the liquidator's claim.
 The section distinguishes between:
 • a person other than someone involved in the voidable transaction receiving the
-  beneﬁt of the transaction (s 588FG(1));92 and
+  benefit of the transaction (s 588FG(1));92 and
 • a person who was a party to the voidable transaction being involved: s 588FG(2).
   This latter protection is not available where the voidable transaction was an
   unfair loan or unreasonable director-related transaction.
@@ -1536,13 +1536,13 @@ prejudicial way.
 
 Non-party
 [14.190] A person who is defending a liquidator's claim and who was not a
-party to the voidable transaction must prove that he or she did not receive a beneﬁt
-as a result of the transaction,93 or if there was a beneﬁt received, it was received in
+party to the voidable transaction must prove that he or she did not receive a benefit
+as a result of the transaction,93 or if there was a benefit received, it was received in
 good faith and at the time of receipt the person had no reasonable grounds for
 suspecting that the company was insolvent and a reasonable person in the
 recipient's circumstances would have had no such grounds for so suspecting:
-s 588FG(1). This is designed to safeguard innocent parties who received a beneﬁt
-from someone who directly or indirectly received the beneﬁt because of a voidable
+s 588FG(1). This is designed to safeguard innocent parties who received a benefit
+from someone who directly or indirectly received the benefit because of a voidable
 transaction. In Buzzle Operations Pty Ltd v Apple Computer Australia Pty Ltd [2011]
 NSWCA 109; (2011) 81 NSWLR 47, it was held that payments made by one
 company (Buzzle) through its related entities to Apple (its creditor) was a
@@ -1561,9 +1561,9 @@ he or she ("the recipient"):
   insolvent; and that
 
 92 For an example of a case where a person who was not a party to a voidable transaction was able to
-   rely on s 588FG(1), see Re Paciﬁc Hardware Brokers (Qld) Pty Ltd (1998) 16 ACLC 442.
-93 See Re Employ (No 96) Pty Ltd [2013] NSWSC 61; (2013) 93 ACSR 48 (merely being beneﬁciaries of a
-   trust was not a direct causal beneﬁt for the purposes of s 588FG(1)(a)).
+   rely on s 588FG(1), see Re Pacific Hardware Brokers (Qld) Pty Ltd (1998) 16 ACLC 442.
+93 See Re Employ (No 96) Pty Ltd [2013] NSWSC 61; (2013) 93 ACSR 48 (merely being beneficiaries of a
+   trust was not a direct causal benefit for the purposes of s 588FG(1)(a)).
 548      Keay's Insolvency: Personal and Corporate Law and Practice                                [14.200]
 
 • a reasonable person in the recipient's circumstances would have had no such
@@ -1581,7 +1581,7 @@ in the sense that there was no reason why the person should have questioned the
 transaction.94 In cases involving uncommercial transactions it is important to
 consider the knowledge of the transaction and motivations for entering into the
 transaction.95
-Failure to make inquiries about a debtor may be of signiﬁcance when good faith is
+Failure to make inquiries about a debtor may be of significance when good faith is
 being determined: Cussen v Commissioner of Taxation [2004] NSWCA 383; (2004) 22
 ACLC 1,528. If the defendant was a related entity or closely associated with a
 related entity, the task of establishing "good faith" is often more difficult. The test of
@@ -1629,7 +1629,7 @@ follows:97
    have grounds for suspicion whereas the particular creditor, acting reasonably in its
    perception and analysis (if any) of the circumstances (subpara (b)(i)) may not, and vice
    versa."
-A concern with the defence is that the recipient of the beneﬁt as defendant is
+A concern with the defence is that the recipient of the benefit as defendant is
 obliged to prove, in effect, a negative. In Pegulan Floor Coverings Pty Ltd v Carter
 [1997] SASC 6299; (1997) 24 ACSR 651, 658 Doyle CJ said that s 588FG(2)(b) is:
    "cast in a demanding form. It requires a creditor, in the position of the present defendant,
@@ -1645,7 +1645,7 @@ that the words "a reasonable person in the person's circumstances" in s 588FG(b)
 require an objective "reasonable business person" test to be applied; the words do
 not require the court to take into account the acumen, perspicacity and resources of
 the particular creditor.98 But evidence of the defendant's knowledge and business
-qualiﬁcations may be relied upon in a limited manner to establish the circumstances
+qualifications may be relied upon in a limited manner to establish the circumstances
 that are to be considered in applying the test: Sims v Celcast Pty Ltd (1998) 71 SASR
 142.
 In Tamaya Resources Ltd v Claymore Capital Pty Ltd [2015] FCA 357 at [34], the court
@@ -1716,7 +1716,7 @@ the creditor was prepared to apply for winding up contributed to a reasonable
 suspicion of insolvency.
 
 Valuable consideration
-[14.220] Recipients of beneﬁts under voidable transactions must, in addition,
+[14.220] Recipients of benefits under voidable transactions must, in addition,
 prove that they gave either valuable consideration or that they "changed their
 position in reliance on the transaction": s 588FG(2)(c). This is not a requirement to
 show that "full consideration" was given: Buzzle Operations Pty Ltd v Apple
@@ -1725,7 +1725,7 @@ Those recipients who are creditors and in receipt of an unfair preference will, 
 general, have no difficulty with the requirement to show that consideration was
 given. In respect of tax liabilities, s 588FG(3) – (5) makes provision for consideration
 to be assumed if the moneys are paid in discharge of tax or other liabilities to the
-Commonwealth. Persons who will have difficulty are those who receive beneﬁts
+Commonwealth. Persons who will have difficulty are those who receive benefits
 pursuant to uncommercial transactions because in insolvency law valuable
 consideration usually means consideration which is real and substantial and has a
 commercial quality to it.101
@@ -1779,7 +1779,7 @@ to an action for the purposes of a foreign main proceeding in the same way they
 would apply if the action were for the purposes of a proceeding in relation to a
 company.
 When the foreign proceeding is a foreign non-main proceeding, the court must be
-satisﬁed that the action relates to assets that, under Australian law, should be
+satisfied that the action relates to assets that, under Australian law, should be
 administered in the foreign non-main proceeding: Cross-Border Insolvency Act 2008
 (Cth), s 17; Art 23(2) of the Model Law. Article 18 imposes an obligation on a foreign
 representative to notify the court if there is a substantial change in circumstances:
@@ -1802,7 +1802,7 @@ request.
     Australia, Great Britain and the United States" (2010) 18 Insolv LJ 63; Wade, "Avenues for
     Assistance to Administrators in Australia: Part 1" (2010) 31 Company Lawyer 298; Butler, Mason and
     Murray, "Maritime Law and Insolvency Law: Averting Collisions" (2016) 24 Insolv LJ 70; Mason
-    and Wellard, "Global Rules on Conﬂict-of-Laws Matters in International Insolvency Cases: An
+    and Wellard, "Global Rules on Conflict-of-Laws Matters in International Insolvency Cases: An
     Australian Perspective" (2015) 23 Insolv LJ 5. See the Federal Court (Corporations) Rules 2016,
     Div 15A.
 [14.239]                                                   14 Assets Available to the Liquidator    553
@@ -1812,7 +1812,7 @@ and be auxiliary to, each other in all external administration matters" and in
 relation to, among others, "prescribed" countries that have jurisdiction in external
 administration matters; and that Australian courts may act in aid of, and be
 auxiliary to, courts of other countries with that jurisdiction. Where a letter of
-request from another court requesting aid is ﬁled, the Australian court may exercise
+request from another court requesting aid is filed, the Australian court may exercise
 such powers with respect to the matter as it could exercise if the matter had arisen
 in its own state or federal jurisdiction: s 581(3).
 
@@ -1837,7 +1837,7 @@ territories and prescribed countries.108 In relation to other foreign courts, th
 is permitted to exercise its discretion as to whether it should provide assistance.109
 Another area of inconsistency arises in relation to Pt 5.7 of the Corporations Act
 which concerns the winding up of bodies other than companies. A "Part 5.7 body"
-is deﬁned in s 9 to mean, in respect of a registrable body that is a foreign company,
+is defined in s 9 to mean, in respect of a registrable body that is a foreign company,
 one that is also either registered under Pt 5B.2, Div 2 or is unregistered but carries
 on business in Australia. Thus an unregistered foreign company that does not carry
 on business in Australia cannot be wound up under s 583, which provides for the
@@ -1881,7 +1881,7 @@ insolvency. After repaying the recovered amount, the creditor is entitled to pro
 for the debt as an unsecured creditor in the winding up: s 569(2).
 Section 569(3) provides that it is not competent for a creditor to take any or further
 action to attach a debt or enforce a charge against company property if the creditor
-has been notiﬁed in writing of an application for winding up or of the convening of
+has been notified in writing of an application for winding up or of the convening of
 a meeting of the company to consider a resolution to wind up voluntarily.
 Third parties who purchase property in good faith from a sale conducted by a
 sheriff as a result of execution or as a result of the enforcement of a charge are not
@@ -1896,7 +1896,7 @@ principles.
 Section 570(1) is designed to deal with the situation where a creditor has issued a
 process of execution or has taken steps to attach a debt due to the debtor. If the
 
-111 This is deﬁned as a charge created by a law upon registration of a judgment in a registry:
+111 This is defined as a charge created by a law upon registration of a judgment in a registry:
     Corporations Act, s 569(7).
 112 See also Bruton Holdings Pty Ltd v Commissioner of Taxation [2009] HCA 32; (2009) 239 CLR 346 for a
     discussion of the history of s 569 in the context of considering s 500.
@@ -1915,7 +1915,7 @@ Where a company has been wound up, the liquidator can serve written notice on
 the sheriff or registrar. The holder of any company property under execution
 process, or of any proceeds of sale under such process, is then to deliver the
 property or moneys to the liquidator: s 570(5), (6). In such a case, the costs of
-execution are a ﬁrst charge on the property or proceeds of sale and the sheriff or
+execution are a first charge on the property or proceeds of sale and the sheriff or
 registrar may retain, on behalf of the creditor who issued the process, such amount
 from the proceeds of sale as is necessary to cover the costs: s 570(7), (8).
 
@@ -1925,11 +1925,11 @@ Void dispositions
 by the court are void, unless the court otherwise orders. This is one of a group of
 provisions (including the avoidance provisions) the purpose of which is to ensure
 that the assets are divided rateably among the creditors. The previous s 468 covered
-only disposals of property between the date of the ﬁling of the winding up
+only disposals of property between the date of the filing of the winding up
 application and the date of the winding up order.113 The court is given a wide
 discretion in being able to "otherwise order" that a disposition is void.114
 Dispositions caught by s 468 are void, not voidable. Transactions which can be
-classiﬁed as unfair preferences or uncommercial transactions, for instance, are
+classified as unfair preferences or uncommercial transactions, for instance, are
 voidable, in that they are only void, in effect, if the liquidator takes action and the
 court makes the appropriate order under s 588FF. The effect of s 468 is that the
 transaction is void for all purposes related and incidental to the administration of
@@ -1944,28 +1944,28 @@ liquidators and voluntary and deed administrators, and certain payments by banks
 
 113 While this period is still retained in s 468(3), allowing the court to validate transactions occurring
     during that time period, it is difficult to see how that would apply because a disposition made after
-    the ﬁling of the application but before the order was made is not caught by s 468(1).
+    the filing of the application but before the order was made is not caught by s 468(1).
 114 Tellsa Furniture Pty Ltd v Glendave Nominees (1987) 9 NSWLR 254; 5 ACLC 662; Jordanlane Pty Ltd v
     Kitching [2008] VSC 426; (2008) 222 FLR 14.
 556     Keay's Insolvency: Personal and Corporate Law and Practice                          [14.255]
 
 Transactions by receivers are not subject to s 468, given that a company in
-receivership no longer has a beneﬁcial interest in the relevant property.115
+receivership no longer has a beneficial interest in the relevant property.115
 There is no terminating point for the operation of the section, but one would
-assume that it is the ﬁnalisation of the liquidation.
+assume that it is the finalisation of the liquidation.
 
 Disposition of property
 [14.255] The phrase "disposition of property" has been held to have the widest
-signiﬁcance; it should not be restrictively interpreted: Re Mal Bower's Macquarie
+significance; it should not be restrictively interpreted: Re Mal Bower's Macquarie
 Electrical Centre Pty Ltd (in liq) (1974) CLC ¶40-109; (1974) 1 NSWLR 254. It includes
 sale, encumbrance, payment, transfer, and alienation: Re Loteka Pty Ltd [1990] 1 Qd
 R 322; (1989) 7 ACLC 998, 1001. However, it only operates in respect of property in
-which the company has a beneﬁcial interest, that is, property which would be
+which the company has a beneficial interest, that is, property which would be
 available in the winding up and only to the extent of that interest; the company
 must have been free to deal with that property: Wily v Commonwealth (1996) 66 FCR
 206; Pilmer v HIH Casualty and General Insurance Ltd (No 2) [2004] SASC 389; (2004)
 90 SASR 465. There must be some change that removes from the company at least
-that beneﬁcial ownership in an asset of the company and gives it to some other
+that beneficial ownership in an asset of the company and gives it to some other
 person: Re Loteka Pty Ltd. A disposition is covered by s 468 whether or not it was
 made by the company or by a third person on its behalf: Brinhaven Pty Ltd v Roticil
 Pty Ltd (1988) 6 ACLC 503. Therefore a tax garnishee notice – issued by the ATO
@@ -2004,13 +2004,13 @@ NSWSC 128; (2003) 44 ACSR 661. In Carter, the voluntary liquidator obtained an
 order that the company be wound up by the court, so that the section could apply.
 However there must be valid reasons for making such an order; typically, the
 possibility that a court-appointed liquidator will be able to realise additional assets
-not available to a voluntary liquidator will provide such justiﬁcation: Re Evcorp
+not available to a voluntary liquidator will provide such justification: Re Evcorp
 Grains Pty Ltd (No 2) [2014] NSWSC 155.
 
 Invalidation of security interests
 Unperfected security interests
 [14.270] Where a company has given security, it is the liquidator's task to be
-satisﬁed that it is enforceable against the assets held or used by the company as
+satisfied that it is enforceable against the assets held or used by the company as
 collateral. A liquidator will therefore carefully examine any security interests that
 were granted by the company in favour of secured creditors. This will include both
 security interests under the PPSA and other security interests not covered by the
@@ -2020,7 +2020,7 @@ If a security interest is enforceable, the secured creditor who holds it will be
 to have its debt discharged from the assets in which the secured creditor holds a
 security interest before the liquidator can have recourse to those assets for the
 unsecured creditors.117 Consequently, if a liquidator can establish that a security
-interest is invalid, it will beneﬁt the unsecured creditors as they will not have to
+interest is invalid, it will benefit the unsecured creditors as they will not have to
 wait until the holder of the security interest is paid. In fact, the secured creditor will
 simply join the general body of unsecured creditors. There are a number of ways
 that a security interest may be rendered invalid.
@@ -2032,14 +2032,14 @@ One of the main tasks that a liquidator will undertake upon appointment is an
 assessment of the perfected status of each security interest claimed in the
 company's property. Prior to the introduction of the PPSA on 30 January 2012
 company charges (now called security interests) were required to be registered, and
-could be invalidated if not registered within a speciﬁed period of time. Both the
+could be invalidated if not registered within a specified period of time. Both the
 PPSA and the Corporations Act have a requirement that the security interest be
 perfected within a particular time prior to the liquidation commencing. Perfection
 occurs under the rules of the PPSA, which may involve the registration of a valid
-ﬁnancing statement on the PPS Register (PPSR), but may also involve taking
+financing statement on the PPS Register (PPSR), but may also involve taking
 
 116 Corporations Act, ss 51A, 51B.
-117 As noted in Chapter 15, there is a qualiﬁcation for circulating security interests.
+117 As noted in Chapter 15, there is a qualification for circulating security interests.
 558      Keay's Insolvency: Personal and Corporate Law and Practice                           [14.270]
 
 possession or control of the collateral (for certain types of collateral only). However,
@@ -2048,26 +2048,26 @@ unlikely that the liquidator will have access to it or be able to sell it to rec
 funds for creditors, unless there are defects in the underlying security document
 between the company (now in liquidation) and the secured creditor: see PPSA, s 20.
 The liquidator is therefore likely to focus on the perfected status of the security
-interest by examining the registration of the ﬁnancing statement on the PPSR to see
+interest by examining the registration of the financing statement on the PPSR to see
 if it can be invalidated. This may be done by establishing that there is a seriously
 misleading defect or, for serial numbered property, there is an error in recording the
-serial number on the ﬁnancing statement. For example, a company that has granted
+serial number on the financing statement. For example, a company that has granted
 security interests in motor vehicles to a secured creditor goes into liquidation. Prior
 to the company's liquidation the secured party executes a valid security agreement
-(for PPSA purposes) and registers their security interest through a ﬁnancing
+(for PPSA purposes) and registers their security interest through a financing
 statement on the PPSR. However, if there are defects in the registration, such as
-incorrect Vehicle Identiﬁcation Numbers, or inclusion of the grantor's ABN instead
+incorrect Vehicle Identification Numbers, or inclusion of the grantor's ABN instead
 of its ACN, there will be an ineffective registration and the secured party will have
 an unperfected security interest that will vest on liquidation under PPSA, s 267 if
 not corrected before liquidation.
 Third parties who acquire the collateral for new value from the secured party or
 from a receiver without knowledge of the liquidation are protected by PPSA
-s 267(3). There are a small number of speciﬁc exceptions to this vesting rule: see
+s 267(3). There are a small number of specific exceptions to this vesting rule: see
 PPSA, s 268. Certain secured party consignors and lessors and bailors whose
 security interest vests in the company in liquidation as grantor have a right to seek
 compensation from the company: PPSA, s 269.
 Section 588FL of the Corporations Act contains a further vesting rule,118 which is
-concerned with late registration of a ﬁnancing statement on the PPSR.119 This rule
+concerned with late registration of a financing statement on the PPSR.119 This rule
 differs from the PPSA vesting rule which is concerned with a failure to register
 (whereas s 588FL is concerned with late registration): Re OneSteel Manufacturing Pty
 Ltd (admin apptd) [2017] NSWSC 21; (2017) 93 NSWLR 611; KJ Renfrey Nominees Pty

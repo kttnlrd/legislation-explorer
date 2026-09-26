@@ -9,11 +9,11 @@ paragraph: "¶21-033"
 
 A special rate of income tax applies to income earned by some working holiday makers (also known as the "backpacker tax"). A working holiday maker is an individual who holds a Subclass 417 (Working Holiday) visa, a Subclass 462 (Work and Holiday) visa or a bridging visa granted in relation to an application for one of the above visas. The rate applies regardless of the status of the individual as either a resident of Australia for income tax purposes or a non-resident.
 
-Amendments were enacted to ensure the working holiday maker rules apply as intended despite disruptions caused by COVID-19. More speciﬁcally, Income Tax Rates Act 1986 s 3A has been amended so that the deﬁnition of a working holiday maker includes holders of a Pandemic Event 408 visa if that visa was granted to allow a holder to remain in Australia following the expiry of a Subclass 417 visa, Subclass 462 visa or certain bridging visas. The amendments apply retrospectively from 1 July 2019 to taxpayers who are non- residents and from 1 July 2022 to taxpayers who are residents.
+Amendments were enacted to ensure the working holiday maker rules apply as intended despite disruptions caused by COVID-19. More specifically, Income Tax Rates Act 1986 s 3A has been amended so that the definition of a working holiday maker includes holders of a Pandemic Event 408 visa if that visa was granted to allow a holder to remain in Australia following the expiry of a Subclass 417 visa, Subclass 462 visa or certain bridging visas. The amendments apply retrospectively from 1 July 2019 to taxpayers who are non- residents and from 1 July 2022 to taxpayers who are residents.
 
 A 15% income tax rate applies to working holiday maker taxable income on amounts up to $45,000, with ordinary tax rates for taxable income exceeding this amount. For a table with the working holiday maker income tax rates, see ¶42-018.
 
-Working holiday maker taxable income is assessable income earned by a working holiday maker from Australian sources, less relevant deductions. Before the introduction of the new rate, working holiday makers could be taxed at diﬀerent rates, depending on whether they had established residency for income tax purposes or they were a non-resident.
+Working holiday maker taxable income is assessable income earned by a working holiday maker from Australian sources, less relevant deductions. Before the introduction of the new rate, working holiday makers could be taxed at different rates, depending on whether they had established residency for income tax purposes or they were a non-resident.
 
 - the rate of departing Australia superannuation payments tax for working holiday makers is 95%
 
@@ -31,7 +31,7 @@ Backpacker tax only applies to some foreign nationals The backpacker tax applies
 
 The backpacker tax does not apply to working holiday makers who are nationals of those countries because of the non-discrimination article in the Double Tax Agreements (DTA) between Australia and those countries.
 
-The non-applicability of the tax to nationals of those countries was established by the High Court in the Addy 2021 ATC ¶20-803; [2021] HCA 34 case. The ATO has published guidance for working holiday makers dealing with the ﬁling of returns for the 2021–22 and future tax years, and the amendment of returns lodged for the 2020–21 and prior years. Employers should continue to follow the PAYG rates in the published withholding tables for working holiday makers, but aﬀected working holiday makers can vary their PAYG withholding.
+The non-applicability of the tax to nationals of those countries was established by the High Court in the Addy 2021 ATC ¶20-803; [2021] HCA 34 case. The ATO has published guidance for working holiday makers dealing with the filing of returns for the 2021–22 and future tax years, and the amendment of returns lodged for the 2020–21 and prior years. Employers should continue to follow the PAYG rates in the published withholding tables for working holiday makers, but affected working holiday makers can vary their PAYG withholding.
 
 Individuals whose income has been subjected to the backpacker tax incorrectly may be entitled to obtain a refund of overpaid tax from the ATO.
 

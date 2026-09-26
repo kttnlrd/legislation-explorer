@@ -7,17 +7,17 @@ paragraph: "¶9-000"
 ---
 # Tax accounting ¶9-000
 
-Tax accounting refers to the accounting methodology and practices required for the purposes of taxation law. Although the accounting requirements of taxation law sometimes reﬂect ﬁnancial accounting principles, taxation accounting requirements are distinct and include fundamental diﬀerences from ﬁnancial accounting (see below). Taxation accounting rules may aﬀect the treatment and timing [of recognition] of an item or transaction.
+Tax accounting refers to the accounting methodology and practices required for the purposes of taxation law. Although the accounting requirements of taxation law sometimes reflect financial accounting principles, taxation accounting requirements are distinct and include fundamental differences from financial accounting (see below). Taxation accounting rules may affect the treatment and timing [of recognition] of an item or transaction.
 
 Rules dealing with the translation of foreign currency amounts into Australian currency are discussed at ¶23-070.
 
-Accounting profits vs taxable income The net proﬁt (or loss) shown in a taxpayer's ﬁnancial accounts is generally not the same as taxable income.
+Accounting profits vs taxable income The net profit (or loss) shown in a taxpayer's financial accounts is generally not the same as taxable income.
 
-This is because the basis for recognising income and expenditure, assets and liabilities is determined by accounting standards (the requirements of which are incorporated into the Corporations legislation by reference) applicable to ﬁnancial reporting which diﬀer from the requirements of the taxation legislation.
+This is because the basis for recognising income and expenditure, assets and liabilities is determined by accounting standards (the requirements of which are incorporated into the Corporations legislation by reference) applicable to financial reporting which differ from the requirements of the taxation legislation.
 
-Treatment of these diﬀerences is referred to as tax-eﬀect accounting. Notwithstanding, an entity reporting signiﬁcant accounting proﬁt in comparison to taxable income is likely to attract ATO attention. Speciﬁc issues arise for trusts (¶6-085).
+Treatment of these differences is referred to as tax-effect accounting. Notwithstanding, an entity reporting significant accounting profit in comparison to taxable income is likely to attract ATO attention. Specific issues arise for trusts (¶6-085).
 
-Tax-effect accounting For tax-eﬀect accounting purposes, the diﬀerences that give rise to a diﬀerence between net proﬁt and taxable income can be broadly categorised as temporary (or timing) diﬀerences — those where the diﬀerence between the tax and accounting treatment is one of timing, such that when multiple periods are aggregated there is no net diﬀerence in the treatment; and permanent diﬀerences — where this "reversal" does not occur. Examples include:
+Tax-effect accounting For tax-effect accounting purposes, the differences that give rise to a difference between net profit and taxable income can be broadly categorised as temporary (or timing) differences — those where the difference between the tax and accounting treatment is one of timing, such that when multiple periods are aggregated there is no net difference in the treatment; and permanent differences — where this "reversal" does not occur. Examples include:
 
 - certain capital expenditure for which an immediate deduction or deduction over a certain period,
 
@@ -25,7 +25,7 @@ Tax-effect accounting For tax-eﬀect accounting purposes, the diﬀerences that
 
   purposes
 
-- trading stock may be valued in the accounts on a basis diﬀerent from that adopted for tax
+- trading stock may be valued in the accounts on a basis different from that adopted for tax
 
   purposes (¶9-180), particularly in relation to obsolescence
 
@@ -35,23 +35,23 @@ Tax-effect accounting For tax-eﬀect accounting purposes, the diﬀerences that
 
 "incurred" for tax purposes (¶9-120)
 
-- diﬀerent depreciation rates used for tax and accounting purposes should generate a timing
+- different depreciation rates used for tax and accounting purposes should generate a timing
 
-  diﬀerence, although any accelerated (over 100%) depreciation component for certain expenses for
+  difference, although any accelerated (over 100%) depreciation component for certain expenses for
 
-  tax purposes would be a permanent diﬀerence
+  tax purposes would be a permanent difference
 
-- the prohibition against claiming tax deductions for ﬁnes and penalties (permanent diﬀerence)
+- the prohibition against claiming tax deductions for fines and penalties (permanent difference)
 
 - sale of capital assets may give rise to timing (revenue recognition) and permanent (capital gains
 
-  discount) diﬀerences.
+  discount) differences.
 
-The following pronouncements of the Australian Accounting Standards Board (AASB) apply to the determination of tax balances in ﬁnancial reports:
+The following pronouncements of the Australian Accounting Standards Board (AASB) apply to the determination of tax balances in financial reports:
 
-- AASB 112: Income taxes prescribes the accounting treatment for income taxes in ﬁnancial reports
+- AASB 112: Income taxes prescribes the accounting treatment for income taxes in financial reports
 
-  of for-proﬁt Australian entities, adopting a balance sheet approach incorporating International
+  of for-profit Australian entities, adopting a balance sheet approach incorporating International
 
 - UIG Interpretation 125: Changes in the Tax Status of an Entity or its Shareholders
 

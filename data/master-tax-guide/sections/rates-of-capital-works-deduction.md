@@ -21,11 +21,11 @@ September 1987 (or under a contract entered into before 16 September 1987, even 
 
 Post-26 February 1992 capital works If capital works on which construction started after 26 February 1992 are used in a deductible way during an income year (¶20-490), there is a basic entitlement to a capital works deduction rate of 2.5% of the construction expenditure (s 43-25).
 
-Use for which special 4% deduction rate is available Expenditure on certain post-26 February 1992 capital works qualiﬁes for a capital works deduction rate of 4% of the construction expenditure (ITAA97 s 43-145) if the capital works are assessable income-producing buildings:
+Use for which special 4% deduction rate is available Expenditure on certain post-26 February 1992 capital works qualifies for a capital works deduction rate of 4% of the construction expenditure (ITAA97 s 43-145) if the capital works are assessable income-producing buildings:
 
 - used mainly for: (a) industrial activities (see below); (b) the provision of employee amenities
 
-  for workers (or their immediate supervisors) carrying out industrial activities; or (c) oﬃce
+  for workers (or their immediate supervisors) carrying out industrial activities; or (c) office
 
   accommodation for the immediate supervisors of those workers
 
@@ -35,7 +35,7 @@ Use for which special 4% deduction rate is available Expenditure on certain post
 
   or
 
-- consisting of at least 10 apartments, units or ﬂats that are for use wholly to provide short-term
+- consisting of at least 10 apartments, units or flats that are for use wholly to provide short-term
 
   traveller accommodation, ie apartment buildings. The 4% rate is still available if the buildings
 
@@ -64,7 +64,7 @@ s 43-25), s 43-25), ITAA97 s 43-145)*
 
   pasteurising) involved in processing primary products, as well as the separation of a metal or the
 
-  treatment or processing of a metal after separation, the reﬁning of petroleum and the production of
+  treatment or processing of a metal after separation, the refining of petroleum and the production of
 
   various energy sources (other than from natural gas) for sale or use in other core activities
 
@@ -74,9 +74,9 @@ s 43-25), s 43-25), ITAA97 s 43-145)*
 
   carrying on a business as a publisher, printer, lithographer or engraver
 
-- the preparation of foodstuﬀs in a factory or brewery (but not the preparation of food or drink in a
+- the preparation of foodstuffs in a factory or brewery (but not the preparation of food or drink in a
 
-  hotel, motel, boarding house, restaurant, cafe, milk bar, coﬀee shop, retail shop, catering place or
+  hotel, motel, boarding house, restaurant, cafe, milk bar, coffee shop, retail shop, catering place or
 
   similar establishment, for consumption on the premises or elsewhere)
 
@@ -98,7 +98,7 @@ Build-to-rent developments
 
   and
 
-- the ﬁnal withholding tax rate on eligible fund payments (distributions of rental income and capital
+- the final withholding tax rate on eligible fund payments (distributions of rental income and capital
 
   gains) from managed investment trusts for active BTR developments is reduced from 30% to 15%
 
@@ -106,7 +106,7 @@ Build-to-rent developments
 
 The Capital Works (Build to Rent Misuse Tax) Act 2024 imposes a BTR development misuse tax to prevent abuse of the system.
 
-A BTR development will be an active BTR development if it fulﬁls the following eligibility criteria:
+A BTR development will be an active BTR development if it fulfils the following eligibility criteria:
 
 - the development consists of 50 or more dwellings made available to the public to be tenanted by
 
@@ -124,15 +124,15 @@ A BTR development will be an active BTR development if it fulﬁls the following
 
   instrument (at the time of writing, no such instrument exists), and
 
-- at least 10% of the dwellings in the BTR development must be aﬀordable dwellings, which is to be
+- at least 10% of the dwellings in the BTR development must be affordable dwellings, which is to be
 
   determined by legislative instrument (at the time of writing, no such instrument exists).
 
-The dwellings in a BTR development and common areas for those dwellings will commence to be an active BTR development on and after the ﬁrst day the eligibility criteria are satisﬁed upon the single entity owner choosing to form a BTR development. Where there is an active BTR development and the entity has another 50 or more dwellings that satisfy the eligibility criteria, the entity can choose to expand the existing active BTR development or create a separate active BTR development.
+The dwellings in a BTR development and common areas for those dwellings will commence to be an active BTR development on and after the first day the eligibility criteria are satisfied upon the single entity owner choosing to form a BTR development. Where there is an active BTR development and the entity has another 50 or more dwellings that satisfy the eligibility criteria, the entity can choose to expand the existing active BTR development or create a separate active BTR development.
 
-The tax beneﬁts only apply to BTR developments that remain continuously active for the 15-year compliance period. Where a BTR tax concession is claimed for a particular year and the development subsequently becomes ineligible during the 15-year compliance period, then the tax beneﬁt is clawed back from the entity that owned the BTR development immediately before that development ceased to be an active BTR development.
+The tax benefits only apply to BTR developments that remain continuously active for the 15-year compliance period. Where a BTR tax concession is claimed for a particular year and the development subsequently becomes ineligible during the 15-year compliance period, then the tax benefit is clawed back from the entity that owned the BTR development immediately before that development ceased to be an active BTR development.
 
-Entities who wish to participate in active BTR developments will be required to use a speciﬁc reporting mechanism. demolition, destruction or disposal
+Entities who wish to participate in active BTR developments will be required to use a specific reporting mechanism. demolition, destruction or disposal
 
 ## Industrial activities are (ITAA97 s 43-150):
 

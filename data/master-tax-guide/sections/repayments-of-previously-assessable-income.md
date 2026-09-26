@@ -11,7 +11,7 @@ The converse of a recoupment is where income derived during an income year is re
 
 Under this provision, an amount received by a taxpayer is not assessable income for an income year if: (a) the taxpayer is required to repay it and does so in a later income year; and (b) the repayment is not deductible in any income year. The assessment for the earlier income year may therefore be amended, irrespective of whether the normal time for amendment of assessments has expired (ITAA36 s 170(10AA) item 22). It is irrelevant whether the amount repaid had originally been received as part of a larger amount, or whether the obligation to repay arose before or after the amount was received.
 
-This provision may apply, for example, where a Defence Force member who has received a lump sum retention bonus is later required to make a pro rata repayment on early resignation. However, it does not apply where a taxpayer who has received instalments of workers compensation or sickness allowance has to repay them after receiving a lump sum payment of compensation or damages for a wrong or injury suﬀered in their occupation (ITAA97 s 59-30(3)).
+This provision may apply, for example, where a Defence Force member who has received a lump sum retention bonus is later required to make a pro rata repayment on early resignation. However, it does not apply where a taxpayer who has received instalments of workers compensation or sickness allowance has to repay them after receiving a lump sum payment of compensation or damages for a wrong or injury suffered in their occupation (ITAA97 s 59-30(3)).
 
 An amount received by a taxpayer that is subject to a repayment arrangement but has not yet been repaid is not treated as "not assessable income" under s 59-30 (ID 2004/274).
 

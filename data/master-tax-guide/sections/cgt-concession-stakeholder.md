@@ -7,9 +7,9 @@ paragraph: "¶7-156"
 ---
 # CGT concession stakeholder ¶7-156
 
-- a signiﬁcant individual in the company or trust (¶7-155), or
+- a significant individual in the company or trust (¶7-155), or
 
-- the spouse of a signiﬁcant individual who has a small business participation percentage in the
+- the spouse of a significant individual who has a small business participation percentage in the
 
   company or trust that is greater than zero (s 152-60).
 

@@ -13,7 +13,7 @@ Capital gain or loss disregarded One of the special rules is that a capital gain
 
 Special acquisition rules A taxpayer is taken to have acquired the shares or units as a result of the conversion at the time that the conversion happened.
 
-Cost base modifications In addition, the general rules for working out the cost base and reduced cost base of the share or unit are modiﬁed (s 130-60(1)). The cost base modiﬁcations apply where:
+Cost base modifications In addition, the general rules for working out the cost base and reduced cost base of the share or unit are modified (s 130-60(1)). The cost base modifications apply where:
 
 - shares in a company or units in a trust are acquired by converting a convertible interest that is a
 
@@ -27,7 +27,7 @@ Cost base modifications In addition, the general rules for working out the cost 
 
   that was issued by the trustee of the unit trust after 28 January 1988.
 
-In each of these situations, the ﬁrst element of the taxpayer's cost base and reduced cost base for the shares or units is the sum of:
+In each of these situations, the first element of the taxpayer's cost base and reduced cost base for the shares or units is the sum of:
 
 - the cost base of the convertible interest at the time of conversion
 

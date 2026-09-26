@@ -25,7 +25,7 @@ The provisions are designed to alleviate unintended tax consequences that might 
 
   and pre-10 December 1984 immediate annuity policies, where the transferee issues a substitute
 
-  policy that is not materially diﬀerent
+  policy that is not materially different
 
 - ensure that notionally segregated assets continue to be treated as separate assets after their
 

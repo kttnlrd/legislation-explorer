@@ -11,15 +11,15 @@ An annual basis of taxation involves the computation of income derived during a 
 
 The question of when income is derived depends on the nature of the income and, in some cases, on the nature of the income-earning activities of the taxpayer who derived the income. Constructive receipt of income is considered at ¶9-080 and prepaid income is discussed at ¶9-090.
 
-Trading income Trading income is generally derived when the right to receive it arises as a debt due and owing (Case 39/96 96 ATC 406; [1996] AATA 675). Income from the sale of goods for a speciﬁed sum is generally derived when the goods are delivered.
+Trading income Trading income is generally derived when the right to receive it arises as a debt due and owing (Case 39/96 96 ATC 406; [1996] AATA 675). Income from the sale of goods for a specified sum is generally derived when the goods are delivered.
 
 Bona fide dispute.
 
-In BHP Billiton 2002 ATC 5169; [2002] FCAFC 433 the full Federal Court unanimously held where part of the consideration for a supply was subject to a bona ﬁde dispute and not paid on invoice, the disputed income was derived when the dispute was settled and not when the commodity was supplied. However, the court also observed that, where consideration received is under dispute, income may be derived at the time of receipt.
+In BHP Billiton 2002 ATC 5169; [2002] FCAFC 433 the full Federal Court unanimously held where part of the consideration for a supply was subject to a bona fide dispute and not paid on invoice, the disputed income was derived when the dispute was settled and not when the commodity was supplied. However, the court also observed that, where consideration received is under dispute, income may be derived at the time of receipt.
 
 Commission income.
 
-The derivation of commission by an insurance agent or broker is a question of fact, a signiﬁcant consideration of which being the terms of the contract as between agent or broker, and the insurance company. Timing of derivation of commission income by travel agents is considered in TD 93/149 and real estate agent commissions in TR 97/5.
+The derivation of commission by an insurance agent or broker is a question of fact, a significant consideration of which being the terms of the contract as between agent or broker, and the insurance company. Timing of derivation of commission income by travel agents is considered in TD 93/149 and real estate agent commissions in TR 97/5.
 
 Conditional contracts.
 
@@ -31,7 +31,7 @@ See IT 2663 for the Commissioner's views on treatment of premiums arising from g
 
 Lay-by.
 
-See TR 95/7. Although less common than in the past, in the absence of speciﬁc ATO guidance, the ruling may oﬀer some guidance regarding treatment of more contemporary "post-pay" arrangements.
+See TR 95/7. Although less common than in the past, in the absence of specific ATO guidance, the ruling may offer some guidance regarding treatment of more contemporary "post-pay" arrangements.
 
 Manufacturers' credits on aircraft purchases.
 
@@ -43,7 +43,7 @@ For guidelines on the point in time when holdback receipts and warranty indemnit
 
 Pharmacists.
 
-Where a pharmacist returns income on an accruals basis, income from the supply of products under the Pharmaceutical Beneﬁts Scheme (PBS) is assessable in the year in which it is derived — the time the product is dispensed to the customer (TR 96/19).
+Where a pharmacist returns income on an accruals basis, income from the supply of products under the Pharmaceutical Benefits Scheme (PBS) is assessable in the year in which it is derived — the time the product is dispensed to the customer (TR 96/19).
 
 Primary production income.
 
@@ -51,13 +51,13 @@ Where a primary producer delivers produce for disposal under a marketing scheme 
 
 Trading stock discounts.
 
-Where trading stock is sold under an arrangement that provides for a prompt payment discount (eg 5% discount on invoice price if paid within 30 days), income is assessable to the seller at the time of sale for the full invoice price. If the discount is subsequently accepted, then the diﬀerence between the invoice price and the discounted price is deductible at the time payment is received. Where the discount is taken up at the time of sale, such as cash discounts, trade discounts and quantity or bulk discounts, only the discounted price is assessable at that time (TR 96/20). This treatment of trading stock discount still applies where the discount is dealt with at the buyer's instruction (TD 96/45). The High Court decision in Ballarat Brewing (1951) 9 ATD 254; (1951) 82 CLR 364 suggests that only the discounted price should be recognised at the time of sale where receipt of the discount is virtually certain.
+Where trading stock is sold under an arrangement that provides for a prompt payment discount (eg 5% discount on invoice price if paid within 30 days), income is assessable to the seller at the time of sale for the full invoice price. If the discount is subsequently accepted, then the difference between the invoice price and the discounted price is deductible at the time payment is received. Where the discount is taken up at the time of sale, such as cash discounts, trade discounts and quantity or bulk discounts, only the discounted price is assessable at that time (TR 96/20). This treatment of trading stock discount still applies where the discount is dealt with at the buyer's instruction (TD 96/45). The High Court decision in Ballarat Brewing (1951) 9 ATD 254; (1951) 82 CLR 364 suggests that only the discounted price should be recognised at the time of sale where receipt of the discount is virtually certain.
 
 Salary and wages Salary and wages are generally derived when received, whether the amount is payment for current or past services. Back pay, arrears of pay that accrue during a period of suspension, retrospective award increases, lump sum workers compensation arrears and special bonuses are all assessable in the year of receipt (but a special rebate operates to limit the tax payable on such payments: ¶15-350).
 
-An employee cannot apportion a lump sum leave payment between the 2 ﬁnancial years straddled by the leave period (Hannavy 2001 ATC 2162_A; [2001] AATA 370), nor can derivation of back pay be deferred to a later ﬁnancial year by an employee refusing the tender of a cheque (Case D62 72 ATC 376). A former employee in Blank 2016 ATC ¶20-587; [2016] HCA 42 derived amounts for relinquishing claims with respect to an employee proﬁt participation plan as and when they are paid to him or applied on his behalf.
+An employee cannot apportion a lump sum leave payment between the 2 financial years straddled by the leave period (Hannavy 2001 ATC 2162_A; [2001] AATA 370), nor can derivation of back pay be deferred to a later financial year by an employee refusing the tender of a cheque (Case D62 72 ATC 376). A former employee in Blank 2016 ATC ¶20-587; [2016] HCA 42 derived amounts for relinquishing claims with respect to an employee profit participation plan as and when they are paid to him or applied on his behalf.
 
-Where an employee agrees to forgo a portion of normal annual salary in return for paid leave in a later period, the deferred salary component is not assessable until received, except where the amount is applied, accumulated or invested beforehand for the beneﬁt of the employee (TD 93/242). See also ¶9-080.
+Where an employee agrees to forgo a portion of normal annual salary in return for paid leave in a later period, the deferred salary component is not assessable until received, except where the amount is applied, accumulated or invested beforehand for the benefit of the employee (TD 93/242). See also ¶9-080.
 
 Professional fees A professional person returning income on the accruals basis (¶9-030) derives fee income where a recoverable debt is created and the taxpayer is not obliged to take any further steps before becoming entitled to payment (Henderson 70 ATC 4016; [1970] HCA 62). Subject to the terms of the contract or arrangement with the client, the same is generally true for disbursements on-charged to clients (TR 97/6). Most commonly, a recoverable debt is created when the taxpayer invoices the client, even if the invoice allows time for payment. Fees paid in advance are derived in the year the person completes the work to which the fees relate (¶9-090). A statutory impediment to a professional person commencing legal proceedings for the recovery of professional fees does not defer the time when income is derived (Barratt 92 ATC 4275; [1992] FCA 271; TR 93/11). A professional person assessed on a cash basis derives fees and recouped disbursements at the time they are received.
 
@@ -85,27 +85,27 @@ Cash on deposit.
 
 Where a business actively manages its funds on deposit in the ordinary course of carrying on that business, and the business income is properly assessable on an accruals basis.
 
-Banks and other ﬁnancial institutions generally derive interest income as it accrues (Australian Guarantee Corporation 84 ATC 4642; [1984] FCA 240, Alliance Holdings 81 ATC 4637). See further TR 94/32 (non-accrual loans), TR 93/27 (assessment of interest derived and incurred by ﬁnancial institutions), TR 93/28 (assessment of income derived from securities purchased and sold cum interest) and TR 1999/11 (assessment of interest paid in advance and received in advance by ﬁnancial institutions).
+Banks and other financial institutions generally derive interest income as it accrues (Australian Guarantee Corporation 84 ATC 4642; [1984] FCA 240, Alliance Holdings 81 ATC 4637). See further TR 94/32 (non-accrual loans), TR 93/27 (assessment of interest derived and incurred by financial institutions), TR 93/28 (assessment of income derived from securities purchased and sold cum interest) and TR 1999/11 (assessment of interest paid in advance and received in advance by financial institutions).
 
-A ﬁnance company entering into a debt defeasance arrangement is assessable on the diﬀerence between the face value of the debt and the amount paid to assign the debt only at the time when the debt matures and not at the time of entering the arrangement (Unilever 95 ATC 4117; [1995] FCA 1086).
+A finance company entering into a debt defeasance arrangement is assessable on the difference between the face value of the debt and the amount paid to assign the debt only at the time when the debt matures and not at the time of entering the arrangement (Unilever 95 ATC 4117; [1995] FCA 1086).
 
-See also ¶23-030 on the taxation of various types of ﬁnancial arrangements; TR 93/6 (¶10-470) regarding interest oﬀset arrangements.
+See also ¶23-030 on the taxation of various types of financial arrangements; TR 93/6 (¶10-470) regarding interest offset arrangements.
 
 Income from long-term construction projects The ascertainment of taxable income is an annual exercise. A long-term construction project straddles more than one income year (although it need not be more than 12-months in duration). The only acceptable methods (TR 2018/3) for bringing income from long-term constructions projects to account are: Basic method.
 
-Bringing of all progress and ﬁnal payments (including upfront payments or advance progress payments) received in a year into assessable income and the claiming of deductions for losses and outgoings as they are incurred (Grollo Nominees 97 ATC 4585; [1997] FCA 659), or Estimated profits method.
+Bringing of all progress and final payments (including upfront payments or advance progress payments) received in a year into assessable income and the claiming of deductions for losses and outgoings as they are incurred (Grollo Nominees 97 ATC 4585; [1997] FCA 659), or Estimated profits method.
 
-Permits the spreading of ultimate proﬁt or loss on a long-term project over the years taken to complete the contract. Tender costs and unspeciﬁed expenses set aside as a management reserve cannot be taken into account.
+Permits the spreading of ultimate profit or loss on a long-term project over the years taken to complete the contract. Tender costs and unspecified expenses set aside as a management reserve cannot be taken into account.
 
 Where an amount under a contract is retained under a retention clause such that the taxpayer is not entitled to receive the payment, the income is not derived until the taxpayer receives or is entitled to receive the payment. Outgoings are deductible as they are incurred, also meaning that amounts retained by a taxpayer from a subcontractor are not deductible until due to the subcontractor (TR 2018/3).
 
-Neither the completed contracts basis (under which the bringing of proﬁts or losses into account is deferred until completion of the contract) nor the emerging proﬁts basis are acceptable methods of tax accounting for long-term construction contracts (Grollo Nominees 97 ATC 4585; [1997] FCA 659; TR 2018/3).
+Neither the completed contracts basis (under which the bringing of profits or losses into account is deferred until completion of the contract) nor the emerging profits basis are acceptable methods of tax accounting for long-term construction contracts (Grollo Nominees 97 ATC 4585; [1997] FCA 659; TR 2018/3).
 
 Rent Rent is generally derived for tax purposes when it is received. Where "rent" for a whole term is payable in advance, reference is required to be made to the lease agreement (and any other relevant factors) to determine whether it is derived when received, or week-by-week over the term of the lease.
 
 Taxable income from chattel leases.
 
-Should be calculated in accordance with the asset method, ie gross rentals less deductions by way of depreciation and balancing adjustment on disposal (IT 2594). Use of the ﬁnance method to return income from leasing luxury cars (thereby avoiding the car depreciation limit) was rejected in Citibank 93 ATC 4691; [1993] FCA 436.
+Should be calculated in accordance with the asset method, ie gross rentals less deductions by way of depreciation and balancing adjustment on disposal (IT 2594). Use of the finance method to return income from leasing luxury cars (thereby avoiding the car depreciation limit) was rejected in Citibank 93 ATC 4691; [1993] FCA 436.
 
 Income from transfer of land Generally, if the income from the transfer of land is of a revenue nature it will be treated as derived when the income is received. In Tagget 2010 ATC ¶20-210; [2010] FCAFC 109, the full Federal Court upheld the assessment of market value income from an agreement to transfer land as not derived until the actual transfer (in 2005 when the market value was $1,200,000) rather than when a deed of agreement to transfer the land was entered into (7 years previously when the market value was $450,000).
 

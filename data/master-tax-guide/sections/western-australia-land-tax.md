@@ -7,7 +7,7 @@ paragraph: "¶38-050"
 ---
 # Western Australia land tax ¶38-050
 
-Provisions governing the imposition and calculation of liability to land tax in Western Australia, including concessions and exemptions, are provided in the Land Tax Assessment Act 2002 (the principal Act) and the Land Tax Assessment Regulations 2003. Rates are contained in the Land Tax Act 2002. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 2003.
+Provisions governing the imposition and calculation of liability to land tax in Western Australia, including concessions and exemptions, are provided in the Land Tax Assessment Act 2002 (the principal Act) and the Land Tax Assessment Regulations 2003. Rates are contained in the Land Tax Act 2002. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general offences, are covered by the Taxation Administration Act 2003.
 
 Land tax for 2024–25 is levied on the taxable value of land held by owners on 30 June 2024. The taxable value of land is the unimproved value capped at 150% of the value on which land tax was charged in the previous year.
 
@@ -25,7 +25,7 @@ Exemptions Land which is the sole or principal place of residence (PPR) of an ow
 
 - owned and used by sports associations to provide facilities for members to engage in sports
 
-- owned by other non-proﬁt associations where it is used solely for association purposes
+- owned by other non-profit associations where it is used solely for association purposes
 
 - owned by a charitable or religious body, provided it is used for those purposes
 
@@ -35,7 +35,7 @@ Exemptions Land which is the sole or principal place of residence (PPR) of an ow
 
   Home construction delays caused by COVID-19
 
-Generally, an owner who is building or refurbishing a home can claim the exemption for up to 2 years. Delays in residential building caused by the COVID-19 pandemic exposed owners in this situation to land tax liability where construction extended beyond the 2-year period. To ameliorate this, amendments to the principal Act introduced by Act No 9 of 2024 temporarily extend the exemption where residential development is aﬀected by construction delay.
+Generally, an owner who is building or refurbishing a home can claim the exemption for up to 2 years. Delays in residential building caused by the COVID-19 pandemic exposed owners in this situation to land tax liability where construction extended beyond the 2-year period. To ameliorate this, amendments to the principal Act introduced by Act No 9 of 2024 temporarily extend the exemption where residential development is affected by construction delay.
 
 Building must have started between 1 July 2020 and 30 June 2023 inclusive. The concession applies to the unoccupied land:
 
@@ -53,7 +53,7 @@ Building must have started between 1 July 2020 and 30 June 2023 inclusive. The c
 
 Build-to-rent concession From 1 July 2023 amendments to the principal Act introduced by Act No 22 of 2024 provide a 50% land tax reduction for land used for build-to-rent developments.
 
-The concession starts from the ﬁrst year a build-to-rent development meets eligibility requirements, and can be retrospectively disallowed if the development ceases to qualify in the ﬁrst 15 years. Dwellings in the development must become able to be lawfully occupied between 12 May 2022 and 30 June 2032. Other eligibility requirements include producing at least 40 dwellings which comply with requirements relating to planning and building, retention of a uniﬁed ownership structure, and minimum lease terms.
+The concession starts from the first year a build-to-rent development meets eligibility requirements, and can be retrospectively disallowed if the development ceases to qualify in the first 15 years. Dwellings in the development must become able to be lawfully occupied between 12 May 2022 and 30 June 2032. Other eligibility requirements include producing at least 40 dwellings which comply with requirements relating to planning and building, retention of a unified ownership structure, and minimum lease terms.
 
 Where parts of a development are used for unrelated purposes, such as commercial activities or unrelated residential accommodation, the concession is proportionally reduced.
 

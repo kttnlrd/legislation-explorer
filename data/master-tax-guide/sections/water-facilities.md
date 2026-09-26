@@ -53,11 +53,11 @@ This requirement is also designed to ensure that the 3-year water facilities ded
 
 Example The taxpayer incurs expenditure on constructing a dam primarily and principally for the purpose of holding water for irrigation.
 
-The dam also serves, to some degree, as a retention dam to prevent excessive water run-oﬀ that could lead to soil erosion. The expenditure is properly deductible over 3 years as a water facility expenditure rather than as a cost of landcare operation.
+The dam also serves, to some degree, as a retention dam to prevent excessive water run-off that could lead to soil erosion. The expenditure is properly deductible over 3 years as a water facility expenditure rather than as a cost of landcare operation.
 
 As long as the requisite purpose exists, it is irrelevant if, for example, a bore or well actually fails to produce the required quality or quantity of water (TD 96/41).
 
-The installation costs of an in-ground swimming pool would not be eligible, even though the pool may occasionally be used to draw water for ﬁre-ﬁghting purposes. However, if the pool was equipped with an extra pump to be used solely for ﬁre- ﬁghting purposes, the cost of that pump would qualify (TD 92/190).
+The installation costs of an in-ground swimming pool would not be eligible, even though the pool may occasionally be used to draw water for fire-fighting purposes. However, if the pool was equipped with an extra pump to be used solely for fire- fighting purposes, the cost of that pump would qualify (TD 92/190).
 
 Other conditions and rules If one taxpayer has already been eligible for a water facilities deduction for the acquisition, construction of manufacture of the facility, another taxpayer cannot claim the water facilities deduction for the cost of subsequently acquiring the facility (s 40-555).
 
@@ -71,6 +71,6 @@ The rules that apply to expenditure incurred by partnerships, to expenditure und
 
 *Refs: s 40-555), s 104-235*
 
-## For the deduction to apply, the following conditions must be satisﬁed:
+## For the deduction to apply, the following conditions must be satisfied:
 
 ## A water facility means:

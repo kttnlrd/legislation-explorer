@@ -45,7 +45,7 @@ Australian funds Transfers between KiwiSaver schemes and Australian funds The Ar
 
   funds and New Zealand KiwiSaver schemes
 
-- retirement savings from an Australian untaxed source, or an Australian deﬁned beneﬁt scheme,
+- retirement savings from an Australian untaxed source, or an Australian defined benefit scheme,
 
   cannot be transferred to a KiwiSaver scheme
 
@@ -57,15 +57,15 @@ Australian funds Transfers between KiwiSaver schemes and Australian funds The Ar
 
 - the transferred savings are generally subject to the superannuation and tax rules of the host
 
-  country, with limited and speciﬁed exceptions
+  country, with limited and specified exceptions
 
-- the transferred savings must be separately identiﬁable within the account established in the host
+- the transferred savings must be separately identifiable within the account established in the host
 
   country to allow the application of certain source country rules (SISR regs 12A.06(3); 12A.07(4);
 
 12A.08(3))
 
-- any decrements are ﬁrst applied to host country retirement savings, before being applied to
+- any decrements are first applied to host country retirement savings, before being applied to
 
   retirement savings transferred from the source country (SISR regs 12A.06(2); 12A.07(7)), and
 
@@ -79,7 +79,7 @@ ITAA97 Div 312 provides for the tax treatment of transactions under the Arrangem
 
 - amounts transferred from KiwiSaver schemes to complying superannuation funds
 
-- superannuation beneﬁts paid to KiwiSaver scheme providers by complying superannuation funds,
+- superannuation benefits paid to KiwiSaver scheme providers by complying superannuation funds,
 
   and by the ATO, and
 
@@ -91,29 +91,29 @@ A "KiwiSaver scheme" has the meaning given by s 4 of the KiwiSaver Act 2006 of N
 
 - that was originally accrued in a complying superannuation fund, which is subsequently paid to a
 
-- that is paid by a KiwiSaver scheme provider to a complying superannuation fund and is identiﬁed
+- that is paid by a KiwiSaver scheme provider to a complying superannuation fund and is identified
 
   by the receiving fund as an amount that was originally accrued in a complying superannuation fund
 
 - that is paid to the Commissioner under the Superannuation (Unclaimed Money and Lost
 
-Members) Act 1999 (SUMLMA) and is identiﬁed by the Commissioner as an amount that was originally accrued in a complying superannuation fund, or
+Members) Act 1999 (SUMLMA) and is identified by the Commissioner as an amount that was originally accrued in a complying superannuation fund, or
 
 - that is paid by the Commissioner to a complying superannuation fund under the SUMLMA
 
-  and is identiﬁed by the receiving fund as an amount that was originally accrued in a complying
+  and is identified by the receiving fund as an amount that was originally accrued in a complying
 
   superannuation fund (SISR reg 12A.02).
 
-Likewise, a "New Zealand-sourced amount" means an amount that was originally accrued in a KiwiSaver scheme, which is subsequently paid to a complying superannuation fund and identiﬁed as such by the receiving fund, or an amount paid by a complying superannuation fund to a KiwiSaver scheme or paid to the Commissioner under the SUMLMA or paid by the Commissioner to a KiwiSaver scheme provider, and is identiﬁed by the Commissioner or receiving KiwiSaver scheme provider as an amount that was originally
+Likewise, a "New Zealand-sourced amount" means an amount that was originally accrued in a KiwiSaver scheme, which is subsequently paid to a complying superannuation fund and identified as such by the receiving fund, or an amount paid by a complying superannuation fund to a KiwiSaver scheme or paid to the Commissioner under the SUMLMA or paid by the Commissioner to a KiwiSaver scheme provider, and is identified by the Commissioner or receiving KiwiSaver scheme provider as an amount that was originally
 
-accrued in a KiwiSaver scheme (SISR reg 12A.02). The matters that must be satisﬁed for the Commissioner to make a payment of an amount in respect of a person to a KiwiSaver scheme provider are set out in Pt 8 of the SUMLM Regulations.
+accrued in a KiwiSaver scheme (SISR reg 12A.02). The matters that must be satisfied for the Commissioner to make a payment of an amount in respect of a person to a KiwiSaver scheme provider are set out in Pt 8 of the SUMLM Regulations.
 
-The separate identiﬁcation of source country amounts in the host country fund or scheme is required by the Arrangement to allow the source country's rules to be applied to the amounts that are transferred to the host country in certain circumstances (see below).
+The separate identification of source country amounts in the host country fund or scheme is required by the Arrangement to allow the source country's rules to be applied to the amounts that are transferred to the host country in certain circumstances (see below).
 
-- may not be withdrawn to purchase a ﬁrst home
+- may not be withdrawn to purchase a first home
 
-- may be accessed when the individual reaches age 60 and satisﬁes the "retirement" deﬁnition in
+- may be accessed when the individual reaches age 60 and satisfies the "retirement" definition in
 
   the SISR at that age, and
 
@@ -125,13 +125,13 @@ The separate identiﬁcation of source country amounts in the host country fund 
 
 - may not be transferred to a third country, and
 
-- may be accessed when the member reaches the age of retirement as deﬁned in the New Zealand
+- may be accessed when the member reaches the age of retirement as defined in the New Zealand
 
   Superannuation and Retirement Income Act 2001 (currently 65).
 
-A "returning New Zealand-sourced amount" is a New Zealand-sourced amount that was paid from a complying superannuation fund to a KiwiSaver scheme, and subsequently received by a complying superannuation fund. The returning New Zealand-sourced amount may be received by the same fund which held the New Zealand-sourced amount originally or by a diﬀerent fund which is receiving the returning New Zealand-sourced amount for the ﬁrst time (SISR reg 12A.02). A returning New Zealand-sourced amount is therefore always a New Zealand-sourced amount as deﬁned, and a New Zealand-sourced amount becomes a returning New Zealand-sourced amount when it re-enters the Australian superannuation system for the second (or subsequent) time.
+A "returning New Zealand-sourced amount" is a New Zealand-sourced amount that was paid from a complying superannuation fund to a KiwiSaver scheme, and subsequently received by a complying superannuation fund. The returning New Zealand-sourced amount may be received by the same fund which held the New Zealand-sourced amount originally or by a different fund which is receiving the returning New Zealand-sourced amount for the first time (SISR reg 12A.02). A returning New Zealand-sourced amount is therefore always a New Zealand-sourced amount as defined, and a New Zealand-sourced amount becomes a returning New Zealand-sourced amount when it re-enters the Australian superannuation system for the second (or subsequent) time.
 
-covered by SISR Pt 12A Part 12A sets out the rules for New Zealand-sourced amounts in a complying superannuation fund to be subject to the SISR (as modiﬁed) in relation to various matters, namely SISR Pt 1 (preliminary matters), Pt 6 (beneﬁt protection standards), Pt 7 (payments standards) and Pt 8 (contribution and beneﬁt accrual standards).
+covered by SISR Pt 12A Part 12A sets out the rules for New Zealand-sourced amounts in a complying superannuation fund to be subject to the SISR (as modified) in relation to various matters, namely SISR Pt 1 (preliminary matters), Pt 6 (benefit protection standards), Pt 7 (payments standards) and Pt 8 (contribution and benefit accrual standards).
 
 - payments made between a complying superannuation fund and a New Zealand KiwiSaver
 
@@ -145,15 +145,15 @@ covered by SISR Pt 12A Part 12A sets out the rules for New Zealand-sourced amoun
 
 Zealand-sourced amount (SISR reg 12A.03(1)(a) to (c)).
 
-- a deﬁned beneﬁt interest in a deﬁned beneﬁt fund, an unfunded public sector superannuation
+- a defined benefit interest in a defined benefit fund, an unfunded public sector superannuation
 
   scheme or an SMSF, or
 
 - payments made by a complying superannuation fund that contain an element untaxed in the fund
 
-  and beneﬁts that are being paid as a pension (SISR reg 12A.03(2), (3)).
+  and benefits that are being paid as a pension (SISR reg 12A.03(2), (3)).
 
-Fund members, or members with interests that are excluded from the Pt 12A scheme, who wish to move their retirement savings to a KiwiSaver scheme, can therefore roll over or transfer their beneﬁts to a
+Fund members, or members with interests that are excluded from the Pt 12A scheme, who wish to move their retirement savings to a KiwiSaver scheme, can therefore roll over or transfer their benefits to a
 
 complying superannuation fund covered by Pt 12A (subject to the fund rules) or commute their pension interests before moving them to a KiwiSaver scheme.
 
@@ -163,23 +163,23 @@ Not assessable contribution of Australian superannuation fund An amount transfer
 
 Non-concessional contribution Except for certain amounts, an amount transferred from a KiwiSaver scheme to a complying superannuation fund (the contribution) is treated as a non-concessional contribution on initial entry into the Australian superannuation system and is subject to the non-concessional contributions cap arrangements in ITAA97 Subdiv 292-C (¶13-860).
 
-Transferred amounts which are excluded as non-concessional contributions are the "Australian-sourced amount" (an amount that was originally contributed to an Australian superannuation fund before its transfer to a KiwiSaver scheme) and a "returning New Zealand-sourced amount" (an amount that was originally contributed to a KiwiSaver scheme before its initial transfer to an Australian superannuation fund) of the contribution. These amounts are excluded as they have already been counted towards the non-concessional contributions cap in the year in which they were ﬁrst contributed to an Australian superannuation fund (s 312-10(3)).
+Transferred amounts which are excluded as non-concessional contributions are the "Australian-sourced amount" (an amount that was originally contributed to an Australian superannuation fund before its transfer to a KiwiSaver scheme) and a "returning New Zealand-sourced amount" (an amount that was originally contributed to a KiwiSaver scheme before its initial transfer to an Australian superannuation fund) of the contribution. These amounts are excluded as they have already been counted towards the non-concessional contributions cap in the year in which they were first contributed to an Australian superannuation fund (s 312-10(3)).
 
-Information about amounts previously contributed to an Australian superannuation fund is provided to the KiwiSaver scheme provider and to the member on the statement about beneﬁts paid to KiwiSaver schemes (see below). This information will assist the KiwiSaver scheme provider or the member to provide evidence of the returning amounts' status to the receiving fund, so that the amounts are not subject to the contributions cap again.
+Information about amounts previously contributed to an Australian superannuation fund is provided to the KiwiSaver scheme provider and to the member on the statement about benefits paid to KiwiSaver schemes (see below). This information will assist the KiwiSaver scheme provider or the member to provide evidence of the returning amounts' status to the receiving fund, so that the amounts are not subject to the contributions cap again.
 
 Acceptance of contributions rules — amounts received from KiwiSaver scheme For SISR purposes, an amount received by a complying superannuation fund from a KiwiSaver scheme is treated as a contribution and a "member contribution" (SISR reg 12A.08(5)).
 
-Non-assessable income and CGT treatment The contribution is non-assessable non-exempt income of the member (consistent with the treatment of roll-over superannuation beneﬁts between Australian superannuation funds under ITAA97 s 306-5: see "Assessable roll-over superannuation beneﬁts" in ¶13-125) (ITAA97 s 312-10(4)).
+Non-assessable income and CGT treatment The contribution is non-assessable non-exempt income of the member (consistent with the treatment of roll-over superannuation benefits between Australian superannuation funds under ITAA97 s 306-5: see "Assessable roll-over superannuation benefits" in ¶13-125) (ITAA97 s 312-10(4)).
 
 As with other superannuation contributions, the contribution is not subject to CGT on entry into the Australian superannuation system. Also, ITAA97 s 118-305 (about disregarding capital gain or capital loss) applies in relation to the amount transferred as if the KiwiSaver scheme were a superannuation fund (¶11-880) (ITAA97 s 312-10(5)).
 
-Australian funds Components of superannuation interest A "tax free component of an Australian-sourced amount" is an Australian-sourced amount that previously formed part of the tax free component of the member's former superannuation beneﬁts in a complying superannuation fund before being paid to a KiwiSaver scheme (SISR reg 12A.02).
+Australian funds Components of superannuation interest A "tax free component of an Australian-sourced amount" is an Australian-sourced amount that previously formed part of the tax free component of the member's former superannuation benefits in a complying superannuation fund before being paid to a KiwiSaver scheme (SISR reg 12A.02).
 
 When an amount is transferred from a KiwiSaver scheme to a complying superannuation fund (the contribution), a New Zealand-sourced amount and any tax free component of an Australian-sourced amount of the contribution are included in the contributions segment of the member's superannuation interest in the fund (¶14-140) (s 312-10(6)(a), (b)).
 
-This means that those amounts (if any) form part of the tax free component of the member's interest in the Australian superannuation fund while the balance of the contribution will be part of the taxable component (as the tax free component is used to work out the components of any beneﬁts subsequently paid from the member's interest: ¶14-150).
+This means that those amounts (if any) form part of the tax free component of the member's interest in the Australian superannuation fund while the balance of the contribution will be part of the taxable component (as the tax free component is used to work out the components of any benefits subsequently paid from the member's interest: ¶14-150).
 
-The receiving Australian fund must be advised of the New Zealand-sourced amount and any tax free component of an Australian-sourced amount of the contribution for those amounts to be included in the contributions segment. Information about the tax free and taxable components of the member's former interest in an Australian superannuation fund is provided to KiwiSaver scheme providers and members on the statement about beneﬁts paid to KiwiSaver schemes. This information enables the KiwiSaver scheme provider or member to provide evidence of any tax free component of an Australian-sourced amount to a receiving Australian superannuation fund so the tax free component maintains its status in the member's current interest in the fund (see below).
+The receiving Australian fund must be advised of the New Zealand-sourced amount and any tax free component of an Australian-sourced amount of the contribution for those amounts to be included in the contributions segment. Information about the tax free and taxable components of the member's former interest in an Australian superannuation fund is provided to KiwiSaver scheme providers and members on the statement about benefits paid to KiwiSaver schemes. This information enables the KiwiSaver scheme provider or member to provide evidence of any tax free component of an Australian-sourced amount to a receiving Australian superannuation fund so the tax free component maintains its status in the member's current interest in the fund (see below).
 
 *Refs: ITAA97 s 312-10(1)), ITAA97 s 295-200, s 312-10(1), s
 312-10(3)), ITAA97 s 306-5, ITAA97 s 312-10(4)), ITAA97 s 118-305, ITAA97
@@ -187,17 +187,17 @@ s 312-10(5)), s 312-10(6)(*
 
 scheme ITAA97 Div 290 (about tax concessions for superannuation contributions) does not apply to an amount transferred from a KiwiSaver scheme to a complying superannuation fund (s 312-10(2)).
 
-Consequently, the contribution is not a deductible personal contribution under ITAA97 Subdiv 290-C (¶13-730) and is not eligible for the spouse contribution oﬀset under ITAA97 Subdiv 290-D (¶13-770).
+Consequently, the contribution is not a deductible personal contribution under ITAA97 Subdiv 290-C (¶13-730) and is not eligible for the spouse contribution offset under ITAA97 Subdiv 290-D (¶13-770).
 
 An amount transferred from a KiwiSaver scheme to a complying superannuation fund under s 312-10 is not an eligible personal superannuation contribution for the purposes of entitlement to the government co- contribution (¶13-760). This is consistent with the treatment of lump sums paid from foreign superannuation funds.
 
-Payment of benefits to KiwiSaver schemes by Australian funds or the Commissioner A superannuation beneﬁt paid to a KiwiSaver scheme provider by a complying superannuation fund in respect of a member is non-assessable non-exempt income of the member (ITAA97 s 312-15). This is consistent with the income tax treatment of roll-over superannuation beneﬁts between Australian superannuation funds and the CGT treatment superannuation fund beneﬁt payments (see "Non-assessable income and CGT treatment" above).
+Payment of benefits to KiwiSaver schemes by Australian funds or the Commissioner A superannuation benefit paid to a KiwiSaver scheme provider by a complying superannuation fund in respect of a member is non-assessable non-exempt income of the member (ITAA97 s 312-15). This is consistent with the income tax treatment of roll-over superannuation benefits between Australian superannuation funds and the CGT treatment superannuation fund benefit payments (see "Non-assessable income and CGT treatment" above).
 
-The Commissioner can make payments of superannuation money held by the ATO in respect of a person directly to a KiwiSaver scheme provider if prescribed matters are satisﬁed (Superannuation (Unclaimed Money and Lost Members) Regulations 2019, s 20).
+The Commissioner can make payments of superannuation money held by the ATO in respect of a person directly to a KiwiSaver scheme provider if prescribed matters are satisfied (Superannuation (Unclaimed Money and Lost Members) Regulations 2019, s 20).
 
 *Refs: s 312-10(2)), s 312-10, ITAA97 s 312-15)*
 
-schemes Australian funds The trustee of a complying superannuation fund which pays a member's superannuation beneﬁt to a KiwiSaver scheme provider must provide a statement in the approved form to the provider and to the member in respect of the member's beneﬁts paid to the KiwiSaver scheme (TAA sch 1 s 390-12).
+schemes Australian funds The trustee of a complying superannuation fund which pays a member's superannuation benefit to a KiwiSaver scheme provider must provide a statement in the approved form to the provider and to the member in respect of the member's benefits paid to the KiwiSaver scheme (TAA sch 1 s 390-12).
 
 The information given in the statement will enable the KiwiSaver scheme provider or member to provide evidence of the tax status of any returning amounts if the amounts re-enter the Australian superannuation system as noted above. For example, this will enable the receiving Australian fund to determine whether the amounts were previously counted towards the non-concessional contributions cap or were included in the taxable or tax free components of the member's superannuation interest.
 
@@ -209,7 +209,7 @@ Departing Australian superannuation payments An amount transferred from a comply
 
 ## An "Australian-sourced amount" means an amount:
 
-## KiwiSaver scheme and is identiﬁed as such by the receiving KiwiSaver scheme
+## KiwiSaver scheme and is identified as such by the receiving KiwiSaver scheme
 
 ## Australian funds
 

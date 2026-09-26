@@ -23,9 +23,9 @@ Interest earned on a child's savings account may in some circumstances be treate
 
   instalments have been withheld: ¶24-010)
 
-- where a parent operates an account on behalf of a child, but the Commissioner is satisﬁed that
+- where a parent operates an account on behalf of a child, but the Commissioner is satisfied that
 
-  the child beneﬁcially owns the money in the account, the parent can include the interest in a tax
+  the child beneficially owns the money in the account, the parent can include the interest in a tax
 
   return lodged for the child. The lodgment of a trust tax return will not be necessary
 

@@ -13,4 +13,4 @@ For example, in Ilbery's case 81 ATC 4661; [1981] FCA 188, the taxpayer was deni
 
 The prepayment was made solely to reduce tax and there was no legal obligation on the taxpayer to make the payment in order to obtain the loan. In addition, at the time the prepayment was made, the property had not yet been acquired and the income-producing activity had not begun.
 
-In relation to prepayment schemes, reference should be made to the speciﬁc anti-avoidance provisions noted at ¶16-110. Special rules also aﬀect the timing of otherwise allowable deductions for prepaid interest (¶16-045).
+In relation to prepayment schemes, reference should be made to the specific anti-avoidance provisions noted at ¶16-110. Special rules also affect the timing of otherwise allowable deductions for prepaid interest (¶16-045).

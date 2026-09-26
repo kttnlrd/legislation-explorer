@@ -19,21 +19,21 @@ A taxpayer's "adjusted assessed taxable income" for a particular income year is 
 
 Calculation of the "adjusted assessed tax" on adjusted assessed taxable income for a particular year is a 4- step process (TAA s 45-375).
 
-Step 1: Calculate the income tax payable on the adjusted assessed taxable income. The following tax oﬀsets are disregarded:
+Step 1: Calculate the income tax payable on the adjusted assessed taxable income. The following tax offsets are disregarded:
 
-- private health insurance oﬀset (¶15-330)
+- private health insurance offset (¶15-330)
 
-- tax oﬀset arising from franking deﬁcit tax liabilities (¶4-780)
+- tax offset arising from franking deficit tax liabilities (¶4-780)
 
-- low income rebate/tax oﬀset (¶15-300)
+- low income rebate/tax offset (¶15-300)
 
-- an oﬀset for superannuation contributions made on behalf of the taxpayer's spouse (¶13-770)
+- an offset for superannuation contributions made on behalf of the taxpayer's spouse (¶13-770)
 
-- oﬀset for Medicare levy surcharge (lump sum payments in arrears) (¶15-350)
+- offset for Medicare levy surcharge (lump sum payments in arrears) (¶15-350)
 
-- oﬀset for early stage investors in innovation companies (¶20-700), and
+- offset for early stage investors in innovation companies (¶20-700), and
 
-- the junior minerals exploration incentive tax oﬀset (¶19-010).
+- the junior minerals exploration incentive tax offset (¶19-010).
 
 Step 2: Calculate the Medicare levy payable on the adjusted assessed taxable income, disregarding the Medicare levy surcharge.
 
@@ -41,7 +41,7 @@ Step 3: Calculate the amount of any tertiary education assessment debt that woul
 
 Step 4: Add up the amounts determined for steps 1, 2 and 3.
 
-The application of s 45-365 is modiﬁed when working out a superannuation or RSA provider's benchmark tax to ensure that no-TFN contributions income and the tax oﬀset for no-TFN contributions income are not taken into account.
+The application of s 45-365 is modified when working out a superannuation or RSA provider's benchmark tax to ensure that no-TFN contributions income and the tax offset for no-TFN contributions income are not taken into account.
 
 Benchmark instalment rate A taxpayer's benchmark instalment rate for an income year is calculated using the following formula (calculated to 2 decimal places, rounded up if the third decimal place is 5 or more) (TAA s 45-360): taxpayer's benchmark tax for the income year ×100 instalment income for that income year The "instalment income for that income year" is so much of the taxpayer's assessable income for that income year that the Commissioner determines is instalment income for that year (¶27-260).
 

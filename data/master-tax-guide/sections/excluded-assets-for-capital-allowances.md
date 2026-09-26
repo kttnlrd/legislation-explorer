@@ -7,7 +7,7 @@ paragraph: "¶17-030"
 ---
 # Excluded assets for capital allowances ¶17-030
 
-The following assets are speciﬁcally excluded from the operation of the uniform capital allowance system (ITAA97 s 40-45; ITTPA s 40-47):
+The following assets are specifically excluded from the operation of the uniform capital allowance system (ITAA97 s 40-45; ITTPA s 40-47):
 
 - capital works for which an amount is deductible under ITAA97 Div 43 (¶20-470) or would have
 
@@ -19,11 +19,11 @@ The following assets are speciﬁcally excluded from the operation of the unifor
 
 "plant" (¶17-040) are excluded from Div 43, deductions for the decline in value of plant are available under ITAA97 Div 40 (¶17-015)
 
-- certain assets provided by an employer as expense payment beneﬁts or property beneﬁts that are
+- certain assets provided by an employer as expense payment benefits or property benefits that are
 
-  exempt from FBT under Fringe Beneﬁts Tax Assessment Act 1986, s 58X (¶35-645)
+  exempt from FBT under Fringe Benefits Tax Assessment Act 1986, s 58X (¶35-645)
 
-- an asset for which the taxpayer could deduct an amount under the former ﬁlm concession
+- an asset for which the taxpayer could deduct an amount under the former film concession
 
   provisions in ITAA36 Divs 10B; 10BA of Pt III.
 
@@ -31,7 +31,7 @@ The following assets are speciﬁcally excluded from the operation of the unifor
 
 - no deduction for the decline in value of an R&D depreciating asset if expenditure on the asset has
 
-  given rise to an R&D tax oﬀset (ITAA97 s 355-715; ¶17-420)
+  given rise to an R&D tax offset (ITAA97 s 355-715; ¶17-420)
 
 - no deduction for the decline in value of cars if car expense deductions are calculated using the
 
@@ -53,7 +53,7 @@ The following assets are speciﬁcally excluded from the operation of the unifor
 
   separate depreciating asset (s 40-53).
 
-Small business entities can choose to calculate depreciating assets deductions using the simpliﬁed capital allowance regime under Div 328, instead of Div 40 (¶7-250).
+Small business entities can choose to calculate depreciating assets deductions using the simplified capital allowance regime under Div 328, instead of Div 40 (¶7-250).
 
 *Refs: ITAA97 s 355-715, ITAA97 s 40-55, s 40-53)*
 

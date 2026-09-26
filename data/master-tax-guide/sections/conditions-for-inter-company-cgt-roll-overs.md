@@ -19,7 +19,7 @@ In addition, both the originating company and the recipient company must choose 
 
 The roll-over can only take place if an asset is disposed of because CGT event A1 or B1 happens or if an asset is created because CGT event D1, D2, D3 or F1 happens (s 126-45). However, the roll-over does not happen in the case of CGT event B1 if title in the asset does not pass to the recipient company at or before the end of the hire purchase or other agreement.
 
-Where the conditions for roll-over relief are satisﬁed, balancing adjustment roll-over relief is also available (¶17-710).
+Where the conditions for roll-over relief are satisfied, balancing adjustment roll-over relief is also available (¶17-710).
 
 Where assets are transferred between companies under common ownership, the value shifting provisions (¶12-800) may apply.
 
@@ -33,7 +33,7 @@ If the originating company is a non-resident and the asset has already been roll
 
 The roll-over is also available where the asset is transferred from the head company of a MEC group (¶8-610) to its non-resident parent, then subsequently transferred back to the head company of the same MEC group (s 126-50). See also ID 2004/459.
 
-Interaction with Subdiv 170-D Subdivision 170-D (¶11-120) provides for deferral of capital losses or deductions which would otherwise be realised where a CGT asset is disposed of or created within a wholly-owned group. As Subdiv 126-B has no application where Subdiv 170-D applies, this eﬀectively conﬁnes the roll-over to situations where the originating company:
+Interaction with Subdiv 170-D Subdivision 170-D (¶11-120) provides for deferral of capital losses or deductions which would otherwise be realised where a CGT asset is disposed of or created within a wholly-owned group. As Subdiv 126-B has no application where Subdiv 170-D applies, this effectively confines the roll-over to situations where the originating company:
 
 - would otherwise make a capital gain
 
@@ -43,7 +43,7 @@ Interaction with Subdiv 170-D Subdivision 170-D (¶11-120) provides for deferral
 
 Subdivision 126-B thus provides a standard roll-over concession allowing for the retention of the pre-CGT status of assets (including on "loss assets" otherwise subject to deferral) and for the roll-over of gain assets.
 
-If the asset would have generated a capital loss or deduction, it cannot be rolled over under Subdiv 126-B unless it is a pre-CGT asset, in which case the eﬀect of the roll-over is to preserve that pre-CGT status.
+If the asset would have generated a capital loss or deduction, it cannot be rolled over under Subdiv 126-B unless it is a pre-CGT asset, in which case the effect of the roll-over is to preserve that pre-CGT status.
 
 *Refs: s
 126-55), s 126-45), s 126-50)*

@@ -9,9 +9,9 @@ paragraph: "¶12-445"
 
 CGT roll-over relief applies to capital gains or losses arising from the ending of one or more water entitlements and the issue of one or more replacement water entitlements (including transformations) (Subdiv 124-R). For these purposes a water entitlement is a legal or equitable right that an entity owns that relates to water, including a right to receive water, take water from a water resource, have water delivered or deliver water (s 124-1105(4)).
 
-Automatic roll-over relief applies where a taxpayer replaces a single water entitlement with one or more new water entitlements (replacement roll-over) (s 124-1105(1)). A taxpayer can choose to apply roll-over relief on a bundled basis where the taxpayer holds more than one water entitlements and replaces the entitlements with one or more diﬀerent water entitlements (s 124-1105(2)).
+Automatic roll-over relief applies where a taxpayer replaces a single water entitlement with one or more new water entitlements (replacement roll-over) (s 124-1105(1)). A taxpayer can choose to apply roll-over relief on a bundled basis where the taxpayer holds more than one water entitlements and replaces the entitlements with one or more different water entitlements (s 124-1105(2)).
 
-A water entitlement that is a statutory licence and that qualiﬁes for the roll-over in Subdiv 124-C will not qualify for the water entitlement roll-over (s 124-1105(3)). Where roll-over relief applies the following consequences apply:
+A water entitlement that is a statutory licence and that qualifies for the roll-over in Subdiv 124-C will not qualify for the water entitlement roll-over (s 124-1105(3)). Where roll-over relief applies the following consequences apply:
 
 - the capital gain or loss arising to both the taxpayer and the operator from the transformation of the
 
@@ -21,7 +21,7 @@ A water entitlement that is a statutory licence and that qualiﬁes for the roll
 
   licence and any other assets received) is treated as a pre-CGT asset (s 124-1125)
 
-- where the water right was a post-CGT asset, the ﬁrst element of the cost base of the
+- where the water right was a post-CGT asset, the first element of the cost base of the
 
   water access entitlement is equal to the cost base of the water right immediately before the
 

@@ -27,7 +27,7 @@ paragraph: "¶12-340"
 
 The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (¶12-160).
 
-The ﬁrst element of the cost base and reduced cost base of the new units is worked out under those general rules.
+The first element of the cost base and reduced cost base of the new units is worked out under those general rules.
 
 CGT roll-over for exchange of rights or option of company
 
@@ -59,7 +59,7 @@ CGT roll-over for exchange of rights or option of company
 
 The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (¶12-160).
 
-The ﬁrst element of the cost base and reduced cost base of the new rights or option is worked out under those general rules.
+The first element of the cost base and reduced cost base of the new rights or option is worked out under those general rules.
 
 CGT roll-over for exchange of rights or option of unit trust
 
@@ -93,7 +93,7 @@ CGT roll-over for exchange of rights or option of unit trust
 
 The consequences of the roll-over are those that generally apply for replacement-asset roll-overs (¶12-160).
 
-The ﬁrst element of the cost base and reduced cost base of the new rights or option is worked out under those general rules.
+The first element of the cost base and reduced cost base of the new rights or option is worked out under those general rules.
 
 ## A taxpayer can choose to obtain a roll-over if (s 124-245):
 

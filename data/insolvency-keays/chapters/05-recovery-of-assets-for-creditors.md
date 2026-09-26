@@ -73,7 +73,7 @@ AVOIDANCE PROVISIONS
 [5.05] An important aspect of insolvency law is its ability to recover assets
 disposed of before the date of the formal insolvency. Insolvency law would not be
 effective if, in contemplation of a person's bankruptcy or a company's liquidation,
-assets could be transferred for nil or limited payment, to the beneﬁt of the
+assets could be transferred for nil or limited payment, to the benefit of the
 recipients and to the disadvantage of the creditors. The law provides redress for
 such situations so that such assets can be recovered and be made available for all
 creditors.
@@ -84,30 +84,30 @@ determined by the nature and moral blameworthiness of the transaction. So, in th
 context of bankruptcy, a preference paid to a creditor by the debtor can be set aside
 if it occurred in the six-month period before the presentation of the petition against
 the debtor. A transfer of property at an undervalue can be set aside in the prior
-two-year period, but within ﬁve years prior if insolvency can be proved. Transfers
+two-year period, but within five years prior if insolvency can be proved. Transfers
 [5.05]                                                        5 Recovery of Assets for Creditors        187
 
 to related parties are allowed four years. Transfers to defeat creditors occurring
-indeﬁnitely into the past can be set aside.
+indefinitely into the past can be set aside.
 While insolvency law allows such transactions to be challenged – to the
 disadvantage of the recipient who may have to hand back the property – it is
 important to note that such transactions do not necessarily involve unlawful
 conduct on the part of the recipient. The success of the trustee's claim to set aside a
 transaction will often depend on whether the recipient knew of or suspected the
-debtor's insolvency, or did not pay full consideration. Such a ﬁnding implies that
+debtor's insolvency, or did not pay full consideration. Such a finding implies that
 the conduct of the recipient was contrary to the general interests of creditors. But a
 person buying property at an undervalue from a debtor before bankruptcy, or
 accepting payment of their debt is not necessarily acting unlawfully, even if the
-person may have known of the ﬁnancial difficulties of the debtor when the property
+person may have known of the financial difficulties of the debtor when the property
 was received or the payment was taken. In both cases, they are simply transactions
 that are liable to be set aside if bankruptcy occurs. It is different if criminal intent to
 defraud creditors is involved by either party, but such prosecutions for such
 offences are rare: see s 263 of the Act, and Chapter 4.
 There is also an element of deterrence in the provisions, that a person engaging in
-transactions with an insolvent debtor is liable to have the payment or beneﬁt they
+transactions with an insolvent debtor is liable to have the payment or benefit they
 receive taken back by the trustee should bankruptcy occur. In reality, that
 deterrence impact would be minimal.
-While not diminishing the signiﬁcance and usefulness of these provisions for a
+While not diminishing the significance and usefulness of these provisions for a
 trustee, a reality is that trustees recover far more from the administratively efficient
 contributions regime, discussed at [6.265] than from taking legal or administrative
 action to challenge voidable transactions.1
@@ -123,20 +123,20 @@ are to be regarded as void as against the trustee. They comprise:
 Each provision enables the trustee to challenge the relevant types of transactions,
 and if successful, the transactions are set aside and orders can be made to enable
 the trustee to recover property or money.
-For policy reasons, ﬁnes or penalties paid to the government by the debtor are
+For policy reasons, fines or penalties paid to the government by the debtor are
 generally not recoverable by a trustee: s 123(4).2 At the same time, they are often
 not provable debts (s 82(3)), and the bankrupt can remain personally liable to pay
 them.
 
 1 By a factor of over three to one. See AFSA – Administration of personal insolvencies for 2016-2017.
-2 There is no equivalent protection afforded to payment of such ﬁnes or penalties under the
+2 There is no equivalent protection afforded to payment of such fines or penalties under the
   Corporations Act.
 188     Keay's Insolvency: Personal and Corporate Law and Practice                           [5.10]
 
 Corporate insolvency equivalents
 [5.10] In corporate insolvency, the equivalent provisions of the Corporations Act
 originally relied upon the bankruptcy avoidance provisions but, since 1993, Pt 5.7B
-of the Corporations Act provides speciﬁc provisions for corporate insolvency. This
+of the Corporations Act provides specific provisions for corporate insolvency. This
 explains why much of the case law on the bankruptcy provisions comes from
 corporate insolvency law. The Part 5.7B provisions are different in form but in
 substance the requirements for unfair preferences under s 588FA and uncommercial
@@ -151,11 +151,11 @@ and their legal history is extensive.3
 The nature of a voidable transaction
 [5.15] The term "void against the trustee" in relation to these provisions means
 "voidable",4 not void ab initio. That is, on bankruptcy, the trustee assumes the right
-to apply to a court for a ﬁnding that the transaction is void: Westpac Banking Corp v
+to apply to a court for a finding that the transaction is void: Westpac Banking Corp v
 The Bell Group Ltd (No 3) [2012] WASCA 157; (2012) 44 WAR 1 at [2534]. But the
 transaction is not affected in any way until the trustee takes action to avoid it, both
 before bankruptcy and up until the time a trustee obtains such an order during the
-bankruptcy. Until a court ﬁnds in the trustee's favour, the transaction remains
+bankruptcy. Until a court finds in the trustee's favour, the transaction remains
 operative. Ordinarily, the action taken by a trustee is by way of an application to
 the court for a declaration that the transaction is void.
 Even then, the transaction is avoided only so far as the trustee has an interest, that
@@ -177,7 +177,7 @@ focusing on the type of transaction. It is not necessary to show that the bankru
 4 Anscor Pty Ltd v Clout [2004] FCAFC 71; (2004) 135 FCR 469; 1 ABC (NS) 558, Lindgren J, and cases
   there cited.
 5 Houvardas v Zaravinos (2003) 202 ALR 535; affirmed Zaravinos v Houvardas (2004) 32 Fam LR 490;
-  [2004] NSWCA 421. See also Grainger & Bloomﬁeld [2015] FamCAFC 221.
+  [2004] NSWCA 421. See also Grainger & Bloomfield [2015] FamCAFC 221.
 [5.25]                                                       5 Recovery of Assets for Creditors     189
 
 had any purpose of avoiding creditors: Re Woods & Lombe as Trustees of the Bankrupt
@@ -185,27 +185,27 @@ Estate of Ulusoylu v Ulusoylu [2017] FCCA 935 at [135].
 The section uses the term "transfer" to cover all of the transactions that are able to
 be challenged by a trustee. The same term is also used in ss 121 and 122.
 Section 120 provides that such a transfer of property is void, meaning voidable on
-the court's order, if it took place in the period beginning ﬁve years before the date
+the court's order, if it took place in the period beginning five years before the date
 of "commencement of the bankruptcy" up to the "date of the bankruptcy" and the
 transferee gave no consideration or less than market value for the property. The
-section then provides some qualiﬁcations as to time and as to the nature of the
+section then provides some qualifications as to time and as to the nature of the
 transferee.6
 
 The time periods
 [5.25] The time period in which the trustee is able to challenge transactions is
-from ﬁve years before the commencement of bankruptcy to the actual date of
+from five years before the commencement of bankruptcy to the actual date of
 bankruptcy; these terms were explained in Chapter 2. The trustee has the onus of
 proof. But in the period over two years prior and, in the cases of related entities,
 over four years prior, the onus is on the transferee to show that the transferor/
 bankrupt was solvent at the time in order to avoid liability.
 The timelines are summarised as follows:
 • A transfer is not void if the transfer took place more than two years and up to
-  ﬁve years before the commencement of the bankruptcy, and the transferee proves
+  five years before the commencement of the bankruptcy, and the transferee proves
   that the bankrupt/transferor was solvent at the time of the transfer: s 120(3)(b).
 • But the solvency of the transferor is not a relevant issue in relation to any
   transfers occurring within two years; the trustee can still recover: s 120(1).
 • A transfer is not void, in the case of a transfer to a related entity of the transferor,
-  if the transfer took place more than four years and up to ﬁve years before the
+  if the transfer took place more than four years and up to five years before the
   commencement of the bankruptcy, and the transferee proves that the transferor/
   bankrupt was solvent at the time of the transfer.
 • Again, the solvency of the transferor is not a relevant issue in defence of a
@@ -226,7 +226,7 @@ matters.
 In practical terms, although the onus is on the transferee to prove the transferor's
 solvency in the relevant periods, if the state of insolvency is apparent, a transferee
 will have no defence to a claim by the trustee on that ground. The main challenge
-may be conﬁned to the market value of the property and the consideration paid.
+may be confined to the market value of the property and the consideration paid.
 
 Transfer of property
 [5.30] The transfer must have taken place in the relevant time period.
@@ -263,7 +263,7 @@ but not anxious, to sell.8 In the context of s 120, it is:
    unrelated purchaser bidding in a market on an ordinary commercial basis for property of
    the kind disposed of, without any sort of discount of incentive for purchase being offered
    … [it] is not intended to include a situation where the property was being disposed of at
-   a 'ﬁre sale', at discounted prices because of some immediate need on the part of the
+   a 'fire sale', at discounted prices because of some immediate need on the part of the
    owner to liquidate his or her assets."9
 In actions brought by trustees under s 120, market valuations of assets can often be
 subject to challenge. Valuation evidence from the parties or from a court-appointed
@@ -276,15 +276,15 @@ arisen in relation to the assessment of consideration given by a superannuation
 fund on transfers of money into the fund by the debtor prior to bankruptcy. In Cook
 v Benson [2003] HCA 36; (2003) 214 CLR 370, in relation to the previous s 120, the
 High Court considered that superannuation payments into a fund were made in
-return for rights and beneﬁts provided by the fund which constituted valuable
+return for rights and benefits provided by the fund which constituted valuable
 consideration; hence the payments were protected from recovery by the trustee.
-This has now been addressed by the introduction of speciﬁc provisions dealing
+This has now been addressed by the introduction of specific provisions dealing
 with recovery of superannuation contributions, where consideration is not required
 to be provided.10
 
 What is not consideration: s 120(5)
-[5.37] In bankruptcy cases involving family law, a spouse's ﬁnancial and
-non-ﬁnancial contributions to a marriage, in family law terms, do not comprise
+[5.37] In bankruptcy cases involving family law, a spouse's financial and
+non-financial contributions to a marriage, in family law terms, do not comprise
 relevant consideration in bankruptcy: Combis v Jensen (No 2) [2009] FCA 1383; (2009)
 181 FCR 178; 7 ABC (NS) 465. Further, s 120(5) sets out six items which are not to be
 regarded as consideration for the purposes of the section:
@@ -321,23 +321,23 @@ application of s 120(1):
 • a transfer where the costs of recovery of the transferred property would be likely
   to exceed the value to the creditors of the property: see reg 6.09.
 While s 120(2)(b) protects transfers pursuant to "maintenance agreements",
-transfers pursuant to "ﬁnancial agreements" under the Family Law Act are not
+transfers pursuant to "financial agreements" under the Family Law Act are not
 protected. Financial agreements are those made under ss 90B, 90C or 90D of the
-Family Law Act (agreements between partners as to ﬁnancial support etc made
+Family Law Act (agreements between partners as to financial support etc made
 before, during or after marriage). See also [4.50].
 
 A defence
 [5.45] While there is no initial defence for someone receiving property
 transferred where the trustee can prove the elements contained in s 120(1),
 s 120(3)(a) does provide a possible defence if the transfer was made within a two-
-to ﬁve-year period prior to the commencement of bankruptcy, or between four and
-ﬁve years in the case of a related party transferee. A defence is available if the
+to five-year period prior to the commencement of bankruptcy, or between four and
+five years in the case of a related party transferee. A defence is available if the
 transferee can establish that at the time of the transfer the debtor was solvent.12
 A defendant to a s 120 claim may also resist the claim on the basis that he or she
 has an interest in the property, usually an equitable interest by virtue of there being
 a constructive or resulting trust in that defendant's favour.13 This is not so much a
 
-11 As to the consequence of the deﬁnition of "love or affection" as "having no value as consideration",
+11 As to the consequence of the definition of "love or affection" as "having no value as consideration",
    rather than "no consideration", see Mogilevsky v Leroy (Trustee) [2017] FCAFC 52; Combis (Trustee) v
    Spottiswood (No 2) [2013] FCA 240.
 12 The time of transfer is the date of registration on the title, although an equitable interest is
@@ -348,13 +348,13 @@ a constructive or resulting trust in that defendant's favour.13 This is not so m
 [5.60]                                                       5 Recovery of Assets for Creditors    193
 
 defence to a s 120 claim as a response that the property, the subject of the
-challenged transfer, was not in fact held beneﬁcially by the bankrupt at the time.14
+challenged transfer, was not in fact held beneficially by the bankrupt at the time.14
 The equitable principle of exoneration can also provide a defence to a s 120 claim. It
 recognises that effect should be given to what can be the intention of the parties in
 some cases that, as between them, the burden of a debt should be borne by one
 only, and the other should be "exonerated". A simple example is found in Dickson v
 Reidy [2004] NSWSC 1200 where jointly owned property of a married couple was
-mortgaged to secure a loan wholly for the beneﬁt of the wife. On her bankruptcy,
+mortgaged to secure a loan wholly for the benefit of the wife. On her bankruptcy,
 the doctrine of exoneration applied so that her half interest in the property, which
 vested in the trustee, was held to be subject to a charge to secure her husband's
 right of exoneration from liability for the loan.
@@ -371,7 +371,7 @@ concerned: Verge v Devere Holdings Pty Ltd (No 4) [2010] FCA 653; (2010) 8 ABC (
 211.
 
 Money back for the transferee: s 120(4)
-[5.55]    Even if a court ﬁnds in favour of a trustee and the transferee is required to
+[5.55]    Even if a court finds in favour of a trustee and the transferee is required to
 return the property, the trustee is required to pay the transferee a sum equal to the
 value of any consideration given to the debtor/bankrupt for the property:
 s 120(4).16 Thus, if the transferee paid $100,000 for a property with a market value
@@ -437,7 +437,7 @@ transaction are within the knowledge of persons other than the trustee in
    [2010] FCA 653; (2010) 8 ABC (NS) 211; Whitton v Regis Towers Real Estate Pty Ltd (2007) 161 FCR 20;
    [2007] FCAFC 125.
 18 Lo Pilato v Kamy Saeedi Lawyers Pty Ltd [2017] FCA 34; (2017) 249 FCR 69 at [185]: "Although the
-   deﬁnition of 'property' in the Act includes an equitable interest and, on exchange of contracts, an
+   definition of 'property' in the Act includes an equitable interest and, on exchange of contracts, an
    equitable interest was created, the transfer of property which [the trustee] seeks to have set aside is
    the transfer of the legal title".
 19 See Mathai v Nelson [2012] FCA 1448; 208 FCR 165; Mathai v Nelson [2013] HCASL 115.
@@ -459,14 +459,14 @@ Taxation Office which could be pursued at any time, that he divested himself
 voluntarily of virtually all his substantial assets in 1987, and that he thought the
 transfers would increase the chances that his assets would be protected from any
 ATO claims. The High Court said that the trustee needed to show that the evidence
-gave rise to a reasonable and deﬁnite inference, not merely to conﬂicting inferences
+gave rise to a reasonable and definite inference, not merely to conflicting inferences
 of equal degree of probability, that, in making the transactions, the debtor had the
 main purpose required. In determining those inferences, regard was had to the
 substantial amount claimed and the seriousness of the consequences of his actions.
 Section 121(2) assists a trustee by way of allowing an inference of the main purpose
 to be drawn. It provides that a transferor is taken to have the necessary purpose if
 it can be reasonably inferred from all the circumstances that, at the time of the
-transfer, the transferor was, or was about to become, insolvent. The beneﬁt to a
+transfer, the transferor was, or was about to become, insolvent. The benefit to a
 trustee in relying upon this inference has been explained this way:
    "If reliance is placed on s 121(2), the transferor's subjective intention is likely to be
    irrelevant: in other words if it can be reasonably inferred that the transferor was insolvent
@@ -481,7 +481,7 @@ be more than a matter of mere speculation: Whitton v Regis Towers Real Estate Pt
 borrowings to continue with a business venture involving the management of
 serviced apartments within a residential and commercial building complex. After
 an investor withdrew from the project the bankrupt relied on short-term
-borrowings secured through a family arrangement and ﬁnances provided on the
+borrowings secured through a family arrangement and finances provided on the
 security of apartments purchased. The court found that at the relevant time these
 circumstances did not lead to an inference of his insolvency as there was no
 evidence that the borrowings were repayable at the relevant time.
@@ -506,11 +506,11 @@ The concepts of consideration and market value were discussed earlier in this
 chapter in the context of s 120 and undervalued transactions.
 Also, as mentioned in the earlier section on s 120, a transferee defendant to a s 120
 or s 121 action may resist the claim if they can show that the property was not in
-fact owned beneﬁcially by the bankrupt at the time of the transfer: Parsons v McBain
+fact owned beneficially by the bankrupt at the time of the transfer: Parsons v McBain
 [2001] FCA 376; (2001) 109 FCR 120; 1 ABC (NS) 188. That claim may go to the
 whole of the property or to a lesser interest in it: Prentice v Cummins (No 6) [2003]
 FCA 1002; (2003) 134 FCR 449.
-Section 121(6) accords with s 120(5) in that it sets out what is speciﬁcally excluded
+Section 121(6) accords with s 120(5) in that it sets out what is specifically excluded
 as being consideration for the purposes of the provision. This also extends to de
 facto partners of the bankrupt. See [5.35].
 
@@ -518,12 +518,12 @@ Exemptions: s 121(7)
 [5.80] The only particular transfers that are exempt from the potential application
 of s 121 are those made pursuant to a debt agreement under Pt IX of the Act:
 s 121(7). Transfers under family law "maintenance agreements", "maintenance
-orders" and "ﬁnancial agreements" (s 5(1)) are not protected. A trustee was
-therefore able to apply under s 121 to set aside a ﬁnancial agreement under s 90C of
+orders" and "financial agreements" (s 5(1)) are not protected. A trustee was
+therefore able to apply under s 121 to set aside a financial agreement under s 90C of
 the Family Law Act without the need to apply to the Family Court to set aside the
-ﬁnancial agreement under s 90K of that Act: Combis v Jensen [2009] FCA 778; (2009)
+financial agreement under s 90K of that Act: Combis v Jensen [2009] FCA 778; (2009)
 179 FCR 150; 7 ABC (NS) 189. In contrast, s 120(2)(b) does protect transfers pursuant
-to maintenance agreements or orders; a trustee would have to ﬁrst apply to the
+to maintenance agreements or orders; a trustee would have to first apply to the
 Family Court, for example, under s 79A of the Family Law Act, to set aside those
 agreements or orders: see [5.40].
 
@@ -537,7 +537,7 @@ the property is protected: s 121(8).
 [5.95]                                                     5 Recovery of Assets for Creditors    197
 
 Money back for the transferee: s 121(5)
-[5.90] If a court ﬁnds in favour of a trustee and the transferee is required to
+[5.90] If a court finds in favour of a trustee and the transferee is required to
 return the property, then the trustee is required to pay to the transferee a sum equal
 to the value of any consideration paid for the property: s 121(5). As with s 120(4),
 this allows the trustee to recover only the amount of the shortfall in consideration
@@ -545,7 +545,7 @@ so as not to require the transferee to pay more for the property than its market
 value: Schmierer v Smith (No 2) [2004] FMCA 856.
 However, while s 121 refers to a transfer being void, it is effective until set aside in
 court proceedings brought by the trustee. The transferee may deal with the
-property as owner and is not required to account for any proﬁt made from it in the
+property as owner and is not required to account for any profit made from it in the
 meantime. If the property is sold and the proceeds of sale are dissipated by the
 transferee before the trustee obtains orders avoiding the transfer, the transferee is
 not personally liable: Official Trustee in Bankruptcy v Alvaro (1996) 66 FCR 372; Lo
@@ -587,7 +587,7 @@ If a trustee does not proceed under s 121, it is open to a creditor to apply und
 provisions such as s 37A. Such a situation occurred in Green v Schneller [2002]
 NSWSC 671; (2002) 29 Fam LR 346 where the court gave leave to the creditor under
 s 58(3) of the Bankruptcy Act to continue his proceedings against the bankrupt on
-condition that any recoveries were to be held for the trustee for the beneﬁt of all
+condition that any recoveries were to be held for the trustee for the benefit of all
 creditors.23 A creditor may not necessarily be given leave (McNamara v San (No 3)
 [2010] FCA 227) and if the trustee has already proceeded under s 121, a creditor has
 no standing to bring such intent to defraud proceedings.
@@ -604,7 +604,7 @@ party (instead of to the transferor who subsequently becomes the bankrupt), and
 the third party does not provide market value consideration to the transferor, the
 trustee would be able to use s 120 to recover the consideration received by the third
 party. Similarly, a transfer made to defeat creditors would not be protected from
-s 121 where s 121(4)(a) is not satisﬁed, that is, where the third party did not give
+s 121 where s 121(4)(a) is not satisfied, that is, where the third party did not give
 market value consideration for the property that constituted the consideration.
 
 RECOVERY OF SUPERANNUATION CONTRIBUTIONS
@@ -621,7 +621,7 @@ Bankruptcy law now enables the recovery by the trustee of superannuation
 contributions before bankruptcy that were made to defeat the bankrupt's creditors.
 There are two types of recoverable contributions:
 (a) contributions made by a person who later becomes a bankrupt (see s 128B);
-(b) contributions made by a third party for the beneﬁt of a person who later
+(b) contributions made by a third party for the benefit of a person who later
     becomes a bankrupt: see s 128C.
 Superannuation accounts may be frozen for up to 180 days pending a trustee taking
 recovery action under ss 139ZQ or 139ZU.
@@ -638,7 +638,7 @@ on s 121 (transfers to defeat creditors).
 The regimes under each of ss 128B and 128C are similar.
 Section 128B(1) is essentially the same as s 121(1) but it applies only to a transfer
 which is made by way of a contribution to an "eligible superannuation plan", that
-term being deﬁned in s 128N.
+term being defined in s 128N.
 Section 128B(2), (3) and (4) deal with ways of showing that the transferor's main
 purpose in making the contribution was to defeat creditors. Section 128B(2) allows
 that purpose to be shown if it can reasonably be inferred from all the circumstances
@@ -664,7 +664,7 @@ line with existing s 121(4A).
 Section 128B(6) seeks to protect the rights of another person who acquires property
 from the transferee in good faith and for at least market value consideration. This is
 in line with existing s 121(8).
-The deﬁnitions of "transfer of property" and "market value" in s 128B(7) are in line
+The definitions of "transfer of property" and "market value" in s 128B(7) are in line
 with existing s 121(9).
 Therefore, a payment by a person of all or most of their cash into their
 superannuation fund in circumstances where creditors are pressing for payment,
@@ -674,28 +674,28 @@ fund by the trustee on the person's bankruptcy.
 
 Section 128C: contributions by another person for the bankrupt
 [5.115] Section 128C describes when a superannuation contribution made by
-another person for the beneﬁt of a person who later becomes bankrupt is void
+another person for the benefit of a person who later becomes bankrupt is void
 against a trustee. This is designed largely to cover arrangements under which the
 person agrees that money which would ordinarily be paid directly to them should
-instead be paid to a superannuation plan for that person's beneﬁt. The most
+instead be paid to a superannuation plan for that person's benefit. The most
 common example would be payments made by that person's employer, such as
-under a salary sacriﬁce arrangement.
+under a salary sacrifice arrangement.
 The conditions for such a contribution are similar to those in s 128B but
 subsection (c) provides that the transferor made the contribution "under a scheme
-to which the beneﬁciary was a party".
-Section 128C(2) provides that a beneﬁt that is payable in the event of the death of
+to which the beneficiary was a party".
+Section 128C(2) provides that a benefit that is payable in the event of the death of
 someone is to be disregarded, for example to the deceased's spouse. This is
-potentially a contingent beneﬁt to the bankrupt at the time the contribution is
-made. That contingent beneﬁt is disregarded for the purposes of s 128C(1); the
-trustee cannot recover the contributions made for the beneﬁt of the spouse. Also,
+potentially a contingent benefit to the bankrupt at the time the contribution is
+made. That contingent benefit is disregarded for the purposes of s 128C(1); the
+trustee cannot recover the contributions made for the benefit of the spouse. Also,
 and from another perspective, if an employer makes a contribution to a
-superannuation fund for the beneﬁt of the bankrupt, whatever contingent beneﬁt is
+superannuation fund for the benefit of the bankrupt, whatever contingent benefit is
 available to the spouse/children is disregarded and the trustee is entitled to rely on
-the fact that the contribution was made to provide a beneﬁt to the bankrupt only.24
+the fact that the contribution was made to provide a benefit to the bankrupt only.24
 Section 128C(3), (4), (5) and (6) all follow a similar regime to s 128B, but in this
-scenario, in showing the beneﬁciary's main purpose in entering into the scheme; as
+scenario, in showing the beneficiary's main purpose in entering into the scheme; as
 well as a rebuttable presumption of insolvency and protection of the rights of third
-party acquirers. Section 128C(9) contains deﬁnitions of "transfer of property" and
+party acquirers. Section 128C(9) contains definitions of "transfer of property" and
 "market value" and is in line with s 121(9).
 
 Account-freezing notices and other remedies: ss 128E – 128L
@@ -710,7 +710,7 @@ other dealings with the fund, despite a notice being in force: s 128H. Superannu
 fund trustees are protected if they act in good faith in relation to their failure to
 comply with an account freezing or s 139ZQ notice: s 128L.
 To what extent these provisions have allowed recoveries of moneys or deter
-payments to defeat creditors is not known, but the provisions serve to ﬁll what was
+payments to defeat creditors is not known, but the provisions serve to fill what was
 an obvious gap in the legislation that gave too much protection to superannuation
 payments.
 
@@ -724,7 +724,7 @@ s 122 of the Bankruptcy Act which allows trustees to recover moneys paid by the
 debtor to his or her creditors before bankruptcy as "preferences". That section also
 applied to company insolvency up until 1993, when a differently worded provision
 – s 588FA of the Corporations Act – was introduced.25
-The trustee's power to recover preferential payments reﬂects one of the purposes of
+The trustee's power to recover preferential payments reflects one of the purposes of
 any insolvency law – to ensure that the assets of a person who is insolvent are
 distributed equally among the creditors.
 When a preference is paid by a debtor, whether the debtor is motivated by
@@ -737,7 +737,7 @@ American commentary has said that the purpose of the preference provisions:
    "… is two-fold. First, by permitting the trustee to avoid pre-bankruptcy transfers that
    occur within a short period before bankruptcy, creditors are discouraged from racing to
    the courthouse to dismember the debtor during his slide into bankruptcy. The protection
-   thus afforded the debtor often enables him to work his way out of a difficult ﬁnancial
+   thus afforded the debtor often enables him to work his way out of a difficult financial
    situation through cooperation with all of his creditors. Second, and more important, the
    preference provisions facilitate the prime bankruptcy policy of equality of distribution
    among creditors of the debtor. Any creditor that received a greater payment than others of
@@ -767,7 +767,7 @@ common than in the context of a trading relationship that typically exists in
    Meaning?" (2010) 18 Insolv LJ 77 at 79-81.
 202    Keay's Insolvency: Personal and Corporate Law and Practice                   [5.130]
 
-corporate insolvency. The base personal motivations of an individual in ﬁnancial
+corporate insolvency. The base personal motivations of an individual in financial
 difficulties are often more focused on transferring property to their relatives, rather
 than paying creditors back the moneys owing to them. That may explain why s 122
 has not been the subject of much law reform review, unlike ss 120 and 121 and
@@ -783,7 +783,7 @@ presently stands.
 
 Reasons for paying preferences
 [5.130] The usual situation facing a trustee recovering a preference arises where
-a debtor has been in ﬁnancial difficulty and the debtor chooses to pay one or more
+a debtor has been in financial difficulty and the debtor chooses to pay one or more
 creditors fully, often because of pressure having been put on the debtor to pay, for
 example, by threatening legal action. Also, on occasions debtors have paid creditors
 haphazardly because their records are in disarray or because they had the money
@@ -800,11 +800,11 @@ As we explained earlier, the demand and receipt by a creditor of what is later f
 to be a preference, even if with full knowledge of the debtor's insolvency, is not
 unlawful. It is simply a payment liable to be set aside when, or if, the person goes
 bankrupt within the requisite time period and when other requirements of the law
-are satisﬁed by the trustee.
+are satisfied by the trustee.
   "There is nothing compelling a creditor somehow to remain pure by shunning a payment
   in respect of which there exists some theoretical future possibility of its proving to be
   preferential. A normally motivated creditor would be inclined to accept such a payment
-  conscious of any risk of disgorgement, and with ﬁngers crossed to the extent indicated by
+  conscious of any risk of disgorgement, and with fingers crossed to the extent indicated by
   the circumstances": Nationwide v Franklins [2001] NSWSC 1120.
 Indeed, the creditor from whom the trustee recovers a preference is then permitted
 to lodge a proof of its debt in the bankruptcy: s 122(5).
@@ -822,7 +822,7 @@ required to establish:
 • that the effect of the transaction was to give the creditor, who was a party to the
   transaction, a preference priority or advantage over the other creditors; and
 • that the transfer occurred within the requisite time period mentioned in s 122(1).
-All ﬁve elements must be proved by a trustee who seeks to challenge a preference.
+All five elements must be proved by a trustee who seeks to challenge a preference.
 
 What a creditor must prove in its defence
 [5.140] However, even if a trustee can prove all of these elements, the creditor
@@ -841,7 +841,7 @@ is related to the discharge of a maintenance order or maintenance agreement is
 protected from the trustee: s 122(1)(c).
 
 Necessary elements of voidable preferences
-[5.145] Each of the ﬁve elements which need to be proven for a trustee to
+[5.145] Each of the five elements which need to be proven for a trustee to
 succeed in an action to recover a preference is examined below.
 
 i A transfer of property
@@ -864,7 +864,7 @@ of time commencing six months before the date of presentation of the relevant
 creditor's petition and ending on the date of the bankruptcy; this may be a
 considerable period. Insolvency is frequently the most difficult fact for a trustee to
 establish in recovering a preference payment.
-The trustee may need to reconstruct the debtor's ﬁnancial position at the date of the
+The trustee may need to reconstruct the debtor's financial position at the date of the
 preference payment by way of examination of bank statements, cash receipts and
 payments, computer-based records, and any correspondence between the debtor
 and banks and other creditors. The trustee may also need to assess whether the
@@ -875,11 +875,11 @@ The trustee can give expert evidence of the debtor's insolvency based on
 information and documents and transcript of any examination. Such insolvency
 evidence may be contested by the debtor. Admissions of insolvency by the debtor
 may be obtained from a prior public examination. Insolvency ultimately involves a
-ﬁnding of fact by the court.
+finding of fact by the court.
 
 iii The payment was in favour of a creditor
 [5.160] Payment of money may be made by any commercial transfer of funds,
-including payment in cash. It may include a mere transfer of ﬁgures in an account
+including payment in cash. It may include a mere transfer of figures in an account
 without any money passing (Re Hardman (1932) 4 ABC 207, 210) including
 electronically.
 In establishing a payment transaction to be a preference, the trustee must prove
@@ -1010,7 +1010,7 @@ some wider set of transactions.35 In determining this, and whether there is a
 running account, the courts look at the business purpose or character of the
 payments in the particular case, rather than the legal form.
 If the creditor can show that a running account operated, the law permits a
-quantiﬁcation of the net advantage, if any, which has been received by the creditor
+quantification of the net advantage, if any, which has been received by the creditor
 during the relevant period, rather than the gross payments received; and the
 consequent decrease in the net value of the pool of assets available for other
 creditors. If at the end of the series of transactions the creditor has in fact supplied
@@ -1027,7 +1027,7 @@ payment to protect the debtor's assets or to prevent harm to the debtor's busine
 of itself not sufficient to protect the payment: McKern v Minister Administering
 Mining Act 1978 (WA) [2010] VSCA 140; (2010) 28 VR 1.
 As we discuss at [14.120], this doctrine of the common law of bankruptcy is
-codiﬁed in s 588FA(3) of the Corporations Act. It refers to a running account as
+codified in s 588FA(3) of the Corporations Act. It refers to a running account as
 arising from a continuing business relationship where the level of the debtor's net
 indebtedness to the creditor is increased and reduced from time to time as the
 result of a series of transactions forming part of the relationship; if that is shown,
@@ -1035,7 +1035,7 @@ then all those transactions are treated as if they were a single transaction. Th
 outcome, if any, in favour of the creditor from that single transaction is the amount
 of the preference. This is calculated by way of determining the difference between
 the peak indebtedness of the debtor during the relevant preference period and the
-amount ﬁnally owed at the date of bankruptcy, this giving the trustee the
+amount finally owed at the date of bankruptcy, this giving the trustee the
 maximum amount recoverable.
 
 34 See generally Ferrier v Civil Aviation Authority (1994) 48 FCR 163; Rees v Bank of NSW (1964) 111 CLR
@@ -1052,9 +1052,9 @@ should properly apply, is the subject of some debate.37
 The defences to a preference claim
 [5.190] There are defences to preference claims in s 122(2). The defendant will
 only need to rely upon these defences if the trustee can make out a case and
-establish the ﬁve elements in s 122(1). However, once those ﬁve elements are
+establish the five elements in s 122(1). However, once those five elements are
 proved, under s 122(3), anyone who seeks to rely on any of the defences has the
-burden of establishing the matters speciﬁed in them.
+burden of establishing the matters specified in them.
 Before dealing with the main defence provision, s 122(2)(a), other particular
 protections are discussed.
 
@@ -1096,11 +1096,11 @@ negated if the circumstances are such as to lead to the inference that the credi
 knew, or had reason to suspect, that the debtor was insolvent and that the effect of
 the transaction would be to give the creditor a preference over other creditors. Such
 a creditor is regarded as having constructive knowledge of the debtor's insolvency
-and that the payment was preferential. Debtors' banks and ﬁnanciers, because of
-their knowledge or constructive knowledge of the ﬁnancial affairs of their debtors,
-ﬁnd it harder to establish good faith, compared with other creditors, and this can
+and that the payment was preferential. Debtors' banks and financiers, because of
+their knowledge or constructive knowledge of the financial affairs of their debtors,
+find it harder to establish good faith, compared with other creditors, and this can
 also be the case with the Commissioner of Taxation. But if the court is otherwise
-satisﬁed of good faith and has no or insufficient material from which to draw the
+satisfied of good faith and has no or insufficient material from which to draw the
 inference in s 122(4), then the creditor should remain protected from recovery of the
 preference: Clout v Sing [2005] FCA 1058; 3 ABC (NS) 121.
 
@@ -1118,7 +1118,7 @@ invariably operating a business.40 It remains as a concept, less relevantly, for
 bankruptcy purposes.41
 After reviewing the various authorities, the court in Re Cummins42 accepted the
 correct meaning of the term as that "the transaction must fall into place as part of
-the undistinguished common ﬂow of business done … calling for no remark and
+the undistinguished common flow of business done … calling for no remark and
 arising out of no special or particular situation".43 In contrast to other decisions, the
 court said that issues of fairness and absence of indicators of insolvency are not so
 relevant; a fair transaction may be out of the ordinary course, and vice versa.
@@ -1175,13 +1175,13 @@ McVeigh v Long [2002] FMCA 53.
 Only a trustee is permitted to take preference proceedings because the transaction
 is void only as against that trustee. Proceedings can be commenced either in the
 Federal Court or the Federal Circuit Court or in some cases the Family Court: s 27.
-Speciﬁc remedies are not given by the Bankruptcy Act (compare s 588FF of the
+Specific remedies are not given by the Bankruptcy Act (compare s 588FF of the
 Corporations Act: see [14.170]) so the trustee must rely on common law remedies.
 Orders sought by a trustee in successful proceedings invariably are to the effect that
 there is a declaration that the transfer is void, with consequential orders that
 property be transferred back to the trustee, or that money be repaid. In the case of
 
-45 Harkness v Partnership Paciﬁc Ltd (1997) 41 NSWLR 204; Re Stecca; Ex parte Scott v Stevens Sheet Metal
+45 Harkness v Partnership Pacific Ltd (1997) 41 NSWLR 204; Re Stecca; Ex parte Scott v Stevens Sheet Metal
    Pty Ltd [1994] FCA 1542
 46 Court v Hewett [1982] WAR 151; (1983) 1 ACLC 768; Yeomans v Lease Industrial Finance Ltd (1987) 5
    ACLC 103. As to when a partial payment is made to a creditor when the debt is secured, but the
@@ -1239,12 +1239,12 @@ unemployed, but their lifestyle and activities are quite inconsistent with such
 claims. Usually in such circumstances, all the income generated by the bankrupt's
 activities is channelled into another entity …".53 Division 4A of Pt VI attempts to
 allow a trustee in bankruptcy to treat this as income of the bankrupt despite the
-attempt to disguise it as income of an "entity", deﬁned in s 5(1) as a "natural
+attempt to disguise it as income of an "entity", defined in s 5(1) as a "natural
 person, company, partnership or trust". Its provisions allow recovery of assets or
-money from an entity that has beneﬁted from such an arrangement.
+money from an entity that has benefited from such an arrangement.
 Division 4A applies where a person, prior to bankruptcy, worked for an entity
 which that person controlled and from which he or she received no income or less
-than a reasonable income. To the extent that the entity proﬁted from the person's
+than a reasonable income. To the extent that the entity profited from the person's
 lack of remuneration, the trustee has a claim against that entity if the person
 became a bankrupt during the four years subsequent to the work done for it. A
 person is in control of an entity if no act, omission or decision of substantial
@@ -1255,7 +1255,7 @@ grant an injunction to the trustee protecting assets that might be the subject o
 application by the trustee under s 139D on the basis of evidence which indicated
 that the debtor was paid project management fees of $7,000 per annum by a
 company controlled by him that was engaged in property developments involving
-millions of dollars and produced a proﬁt of at least $1 million in the relevant
+millions of dollars and produced a profit of at least $1 million in the relevant
 period. The court found there was a serious issue to be tried as to whether
 remuneration of $7,000 was less than would have been received in an arm's length
 transaction.
@@ -1287,30 +1287,30 @@ acquisition of property by the entity, s 139E requires the trustee to prove that
 time during the examinable period the entity's net worth exceeded, by a substantial
 amount, what its net worth would have been had the bankrupt's services not been
 supplied.
-"Net worth" is therefore crucial to the application of s 139E and it is deﬁned in
+"Net worth" is therefore crucial to the application of s 139E and it is defined in
 s 5(1). In respect of a trust, "net worth" means the amount by which the total value
 of the trust property at the relevant time exceeds the total of the liabilities of the
-trust (not including what might be owed to beneﬁciaries). With those entities which
+trust (not including what might be owed to beneficiaries). With those entities which
 are not trusts the net worth is the amount by which the value of the entity's assets
-exceeds the total of the entity's liabilities. A court would need to be satisﬁed that
+exceeds the total of the entity's liabilities. A court would need to be satisfied that
 the entity's net worth changed during the time when the bankrupt provided
 services.
 The "examinable period" is the period beginning either two years before the
 commencement of the bankruptcy or from the time the bankrupt became insolvent
 during the four years preceding the commencement of the bankruptcy: s 5(1).
-"Personal services" are deﬁned broadly in s 5(1) as services of a physical,
+"Personal services" are defined broadly in s 5(1) as services of a physical,
 intellectual or other kind supplied by the bankrupt whether or not as an employee
-and whether or not the services served to fulﬁl the entity's obligations to supply
-services. "Property" is also deﬁned broadly in s 5(1), and may include loans to third
+and whether or not the services served to fulfil the entity's obligations to supply
+services. "Property" is also defined broadly in s 5(1), and may include loans to third
 parties and remuneration: Sheahan v Birdseye [2002] FMCA 41. In that case,
-remuneration was found to include the proﬁt which the sole principal of a ﬁrm
+remuneration was found to include the profit which the sole principal of a firm
 obtained from the services of his employees whom he was responsible for
 managing and in respect of whom he took an entrepreneurial risk.
 Although these provisions were introduced in 1987, trustees have not used ss 139D
 and 139E to any great effect. This, it appears, is due in part to the difficulty of
 proving some of the elements in the two sections: see Re Crawford; Ex parte Adcock v
 Tanalaw Pty Ltd [1992] FCA 611. In Donnelly v Edelsten [1994] FCA 992, (1994) 49 FCR
-384, the court suggested that the deﬁciencies contained in Pt VI, Div 4A led to the
+384, the court suggested that the deficiencies contained in Pt VI, Div 4A led to the
 enactment of Div 4B under which a bankrupt can be required to make income
 contributions and also under which a trustee may recover property by
 administrative means. That latter avenue is now explained.
@@ -1349,7 +1349,7 @@ the Official Trustee and by registered trustees. In the latter case, the trustee
 apply to the Official Receiver for the notice to be issued: s 139ZQ(1)(a), (b). A fee of
 $480 is payable.
 A notice sent pursuant to s 139ZQ must set out the facts and circumstances which
-have satisﬁed the Official Receiver that the transaction referred to in the notice is
+have satisfied the Official Receiver that the transaction referred to in the notice is
 void against the trustee: s 139ZQ(2).
 As penal sanctions (s 139ZT) are provided if there is non-compliance with the terms
 of the notice, the Official Receiver must ensure that the notice is prepared carefully
@@ -1363,7 +1363,7 @@ state the effect of non-compliance.
 A s 139ZQ notice may require the recipient to pay the amount claimed at a time or
 within a certain period or by instalments: s 139ZQ(3). That time may be extended:
 Polgar v Official Receiver [2015] FCCA 1840.
-For the purposes of Pt VI, Div 4B (which includes s 139ZQ), s 139K deﬁnes value, in
+For the purposes of Pt VI, Div 4B (which includes s 139ZQ), s 139K defines value, in
 relation to property referred to in a notice, as the "market value of the property
 when the notice is given". Therefore the "amount equal to the value … of the
 property received" for the purposes of s 139ZQ is to be determined as at the date of
@@ -1381,7 +1381,7 @@ Effect of the notice
 charged with the liability of the recipient of the notice to make the required
 payments to the trustee: s 139ZR(1)(a). The charge has priority over any existing or
 subsequent mortgage, lien, charge or other encumbrance over the property which is
-in favour of an associated entity of the bankrupt (as deﬁned in s 5(1) and
+in favour of an associated entity of the bankrupt (as defined in s 5(1) and
 ss 5B – 5E), and this priority applies regardless of any provision in laws of the
 Commonwealth or a State or Territory: s 139ZR(2). The charge does not operate
 with priority if the associated entity can show that an encumbrance resulted from
@@ -1410,10 +1410,10 @@ Setting aside a s 139ZQ notice
 court to set it aside (s 139ZS). The application must be made within 60 days:
 s 139ZS(1A); that time may be extended: Radnor Enterprises Pty Ltd v Nicholls [2017]
 FCCA 2313.
-The court needs to be satisﬁed that the alleged facts and circumstances set out in
+The court needs to be satisfied that the alleged facts and circumstances set out in
 the notice are not adequate, in light of facts raised by the person in their defence: Re
 McLernon; ex parte SWF Hoists & Industrial Equipment Pty Ltd v Prebble [1995] FCA
-1408; (1995) 58 FCR 391. Even if the court is satisﬁed that the facts and
+1408; (1995) 58 FCR 391. Even if the court is satisfied that the facts and
 circumstances contained in the notice are true, it will set aside the notice if it does
 not justify a conclusion that the transaction is void: Re Lucera; Ex parte Official
 216      Keay's Insolvency: Personal and Corporate Law and Practice                                [5.270]
@@ -1438,7 +1438,7 @@ Tsakirakis v Official Receiver [2013] FCCA 106; and in some circumstances, it ma
 ordered to pay costs: Tsakirakis v Official Receiver [2014] FCCA 517.
 Although a s 139ZQ notice is issued on the decision of the Official Receiver, a
 government officer, that decision is not subject to administrative law review: Kiem
-Dang Investment Pty Ltd v Mansﬁeld [2017] FCCA 725; (2017) 320 FLR 14. The court
+Dang Investment Pty Ltd v Mansfield [2017] FCCA 725; (2017) 320 FLR 14. The court
 there declined to review the Official Receiver's decision on the basis of s 10(2)(b)(ii)
 of the Administrative Decisions (Judicial Review) Act 1977 (Cth) because the
 Bankruptcy Act itself makes adequate provision for the review of the issue of
@@ -1490,7 +1490,7 @@ to be quickly made on the title to the property, under s 139ZR.
 CONCLUSION
 [5.280] We have examined the property of the bankrupt that is available to
 creditors in a bankruptcy, as well as the property that has been disposed of prior to
-bankruptcy which the trustee can seek to recover for the beneﬁt of those creditors.
+bankruptcy which the trustee can seek to recover for the benefit of those creditors.
 On recovering and realising those assets, and having a pool of funds available, the
 trustee must then go through the processes under the Bankruptcy Act of calling in
 and assessing creditors' claims and paying out dividends to them. This represents a

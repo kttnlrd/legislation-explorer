@@ -7,7 +7,7 @@ paragraph: "¶3-065"
 ---
 # Deductibility of current year losses ¶3-065
 
-Current year losses The current year loss rules (ITAA97 Subdiv 165-B: ss 165-23 to 165-90) are designed to stop income derived by a company in one part of an income year when the company is owned by one set of shareholders from being oﬀset by losses incurred by the company during another part of the income year when the company is owned by a diﬀerent set of shareholders. This restricts the exploitation of current year loss companies for tax minimisation purposes.
+Current year losses The current year loss rules (ITAA97 Subdiv 165-B: ss 165-23 to 165-90) are designed to stop income derived by a company in one part of an income year when the company is owned by one set of shareholders from being offset by losses incurred by the company during another part of the income year when the company is owned by a different set of shareholders. This restricts the exploitation of current year loss companies for tax minimisation purposes.
 
 Application of the current year loss rules
 
@@ -19,7 +19,7 @@ Application of the current year loss rules
 
 - a person begins to control, or becomes able to control, the voting power in the company where
 
-  one purpose of obtaining that control is to get a tax beneﬁt or advantage for any person (s 165-40).
+  one purpose of obtaining that control is to get a tax benefit or advantage for any person (s 165-40).
 
 Effect of the current year loss rules If these rules apply, current year losses are not taken into account in working out taxable income for an income year. Instead, s 165-65 applies for the purpose of working out the taxable income of the company for the income year and a tax loss is worked out by applying s 165-90.
 
@@ -33,15 +33,15 @@ Step 3: The taxable income for the year of change is worked out by adding up: (a
 
 A company's tax loss is the total of each notional loss and excess full year deductions of particular kinds (s 165-70).
 
-The eﬀect of the current year loss rules is that a company may be treated as having both a taxable income and a tax loss for the same income year. In some circumstances, the tax loss may be oﬀset against the company's taxable income in later income years.
+The effect of the current year loss rules is that a company may be treated as having both a taxable income and a tax loss for the same income year. In some circumstances, the tax loss may be offset against the company's taxable income in later income years.
 
-Current year deductions Special anti-avoidance rules relating to current year deductions aim to prevent the manipulation of deductions and income to produce a favourable tax result, while denying the beneﬁt to continuing shareholders. ITAA97 Subdiv 175-B (ss 175-20 to 175-35) covers 3 situations. These are: (1) where income (called "injected income") is channelled into a company to get the beneﬁt of a deduction incurred in the same income year (2) where deductions are channelled through a company to shelter income derived by the company in the same income year (3) where the company has entered into a scheme under which the company shelters income (because it has an "available expense") or takes the beneﬁt of a deduction (because it has "available income") and, as a result, a person (other than the company) obtains a tax beneﬁt.
+Current year deductions Special anti-avoidance rules relating to current year deductions aim to prevent the manipulation of deductions and income to produce a favourable tax result, while denying the benefit to continuing shareholders. ITAA97 Subdiv 175-B (ss 175-20 to 175-35) covers 3 situations. These are: (1) where income (called "injected income") is channelled into a company to get the benefit of a deduction incurred in the same income year (2) where deductions are channelled through a company to shelter income derived by the company in the same income year (3) where the company has entered into a scheme under which the company shelters income (because it has an "available expense") or takes the benefit of a deduction (because it has "available income") and, as a result, a person (other than the company) obtains a tax benefit.
 
-Similar rules apply if capital gains are channelled into a company or if it has capital gains available for oﬀset against deductions (¶11-090).
+Similar rules apply if capital gains are channelled into a company or if it has capital gains available for offset against deductions (¶11-090).
 
-Current year deductions may be disallowed in any of the above situations. However, the deductions cannot be disallowed if the shareholders of the company obtain a tax beneﬁt that is fair and reasonable, having regard to their shareholdings in the company.
+Current year deductions may be disallowed in any of the above situations. However, the deductions cannot be disallowed if the shareholders of the company obtain a tax benefit that is fair and reasonable, having regard to their shareholdings in the company.
 
-Disallowed deductions may give rise to a tax loss that can be carried forward to oﬀset against taxable income in later income years.
+Disallowed deductions may give rise to a tax loss that can be carried forward to offset against taxable income in later income years.
 
 *Refs: s 165-40), s 165-65, s 165-90, s 165-45), s 165-50), s 165-65), s
 165-70), s 175-20*

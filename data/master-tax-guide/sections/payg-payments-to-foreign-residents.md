@@ -9,7 +9,7 @@ paragraph: "¶26-265"
 
 TAA sch 1 ss 12-315 to 12-319 requires that an entity making a payment to a foreign resident, or receiving a payment for a foreign resident, must withhold an amount in certain situations.
 
-In order for a payment made to a foreign resident to be subject to PAYG withholding, the following conditions must be satisﬁed:
+In order for a payment made to a foreign resident to be subject to PAYG withholding, the following conditions must be satisfied:
 
 - the payment must have been made by the entity in the course of carrying on an enterprise
 
@@ -29,7 +29,7 @@ In order for a payment made to a foreign resident to be subject to PAYG withhold
 
   a particular foreign resident where it would not necessarily be exempt for other foreign residents.
 
-In order for an entity that receives a payment on behalf of a foreign resident to be required to withhold an amount from that payment, the following conditions must be satisﬁed:
+In order for an entity that receives a payment on behalf of a foreign resident to be required to withhold an amount from that payment, the following conditions must be satisfied:
 
 - the recipient (the intermediary) is a person in Australia or an Australian government agency
 
@@ -63,13 +63,13 @@ In order for an entity that receives a payment on behalf of a foreign resident t
 
 - the recipient must not have been granted an exemption by the Commissioner (see below).
 
-The Commissioner may grant an exemption from withholding by notice where the Commissioner is satisﬁed that the foreign resident has an established compliance history and that he/she/it is likely to continue to comply with his/her/its taxation obligations. This exemption applies for the speciﬁc period stated in the exemption notice. The Commissioner's power to vary the amount withheld under TAA sch 1 s 15-15 may be exercised in favour of a foreign resident where the relevant income is not assessable in Australia, or to reduce the rate of withholding to a more appropriate level, where the prescribed withholding rates are excessive in comparison to the amount of tax which will ultimately be payable by the foreign entity (PS LA 2006/10).
+The Commissioner may grant an exemption from withholding by notice where the Commissioner is satisfied that the foreign resident has an established compliance history and that he/she/it is likely to continue to comply with his/her/its taxation obligations. This exemption applies for the specific period stated in the exemption notice. The Commissioner's power to vary the amount withheld under TAA sch 1 s 15-15 may be exercised in favour of a foreign resident where the relevant income is not assessable in Australia, or to reduce the rate of withholding to a more appropriate level, where the prescribed withholding rates are excessive in comparison to the amount of tax which will ultimately be payable by the foreign entity (PS LA 2006/10).
 
 This withholding obligation applies to a payment made to a partnership or joint venture if one or more of the partners or venturers is a foreign resident. However, where a payment is received on behalf of such a partnership or joint venture, the obligation to withhold only extends to those partners or venturers who are foreign residents. Distributions from trusts to foreign residents are subject to ITAA36 s 98(3) and (4) (¶6-220).
 
 All other withholding obligations have priority over this withholding obligation, except for voluntary agreement withholding (which only applies if no other withholding obligation applies).
 
-The foreign resident withholding rules extend to alienated personal services payments (¶26-280) (TAA sch 1 s 12-7). Amounts must be withheld from payments that are included in an individual's assessable income under ITAA97 Div 86 (¶30-600) and payments which are speciﬁed under the regulations.
+The foreign resident withholding rules extend to alienated personal services payments (¶26-280) (TAA sch 1 s 12-7). Amounts must be withheld from payments that are included in an individual's assessable income under ITAA97 Div 86 (¶30-600) and payments which are specified under the regulations.
 
 Prescribed foreign resident withholding The following foreign resident withholding obligations are prescribed in TAR ss 31, 32 and 33. Withholding is required from:
 
@@ -77,13 +77,13 @@ Prescribed foreign resident withholding The following foreign resident withholdi
 
   (TAR s 49)
 
-- payments for entertainment and sports activities, including payments to support staﬀ. Withholding
+- payments for entertainment and sports activities, including payments to support staff. Withholding
 
   is required at individual non-resident marginal tax rates or the company tax rate, as appropriate
 
 (TAR s 50)
 
-- payments for the construction, installation and upgrading of buildings, plant and ﬁxtures, and
+- payments for the construction, installation and upgrading of buildings, plant and fixtures, and
 
   related activities. Withholding is required at a rate of 5% (TAR s 51). See further TR 2006/12.
 
@@ -91,11 +91,11 @@ Any amount to be withheld is to be reduced by any amount already withheld (TAR s
 
 Variation to nil The Commissioner has varied the withholding rate to nil for the following payments:
 
-- payments that relate to entertainment activities carried on in Australia made to support staﬀ who
+- payments that relate to entertainment activities carried on in Australia made to support staff who
 
   are residents of a country with which Australia has an international tax agreement and who are
 
-  present in Australia for a period not exceeding 183 days in the ﬁnancial year (Legislative Instrument
+  present in Australia for a period not exceeding 183 days in the financial year (Legislative Instrument
 
 *Refs: s 15-15, s 12-7)*
 

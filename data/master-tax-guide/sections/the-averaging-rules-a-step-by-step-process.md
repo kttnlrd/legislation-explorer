@@ -7,29 +7,29 @@ paragraph: "¶18-210"
 ---
 # The averaging rules: a step-by-step process ¶18-210
 
-The process set out in the steps below can be followed to determine: (a) whether the averaging adjustment applicable to a primary producer is a tax oﬀset or extra income tax; and (b) how to calculate an averaging primary producer's overall tax liability taking into account whichever adjustment is applicable.
+The process set out in the steps below can be followed to determine: (a) whether the averaging adjustment applicable to a primary producer is a tax offset or extra income tax; and (b) how to calculate an averaging primary producer's overall tax liability taking into account whichever adjustment is applicable.
 
-year "Basic taxable income" is the primary producer's taxable income: (a) excluding certain superannuation beneﬁts and employment termination payments (payments under ITAA97 s 82-65, 82-70 or 302-145) and any net capital gains; and (b) reduced by any amounts of above-average special professional income (¶2-140). Deductions excluded under the non-commercial loss provisions (¶16-020) are excluded from the calculation of basic taxable income.
+year "Basic taxable income" is the primary producer's taxable income: (a) excluding certain superannuation benefits and employment termination payments (payments under ITAA97 s 82-65, 82-70 or 302-145) and any net capital gains; and (b) reduced by any amounts of above-average special professional income (¶2-140). Deductions excluded under the non-commercial loss provisions (¶16-020) are excluded from the calculation of basic taxable income.
 
 Step 2: Calculate the comparison rate of tax The comparison rate of tax is the rate of tax that a primary producer would pay in the current year at "basic rates of tax" (see below) on the producer's average income.
 
 Average income A primary producer's "average income" is the producer's basic taxable income averaged over the current year and a maximum of 4 previous years. This means that for a well-established primary producer, average income is calculated over a 5-year period.
 
-Example 1 Jack is a primary producer whose basic taxable income for the current year is $10,000. For the 4 previous years he had a basic taxable income of $12,000, $18,000, $15,000 and $20,000. His average income in the current year is: ($10,000 + $12,000 + $18,000 + $15,000 + $20,000) ÷ 5 = $15,000 For the ﬁrst averaging calculation, a minimum period of 2 years is required in which the basic taxable income of the second year must be no less than the ﬁrst year.
+Example 1 Jack is a primary producer whose basic taxable income for the current year is $10,000. For the 4 previous years he had a basic taxable income of $12,000, $18,000, $15,000 and $20,000. His average income in the current year is: ($10,000 + $12,000 + $18,000 + $15,000 + $20,000) ÷ 5 = $15,000 For the first averaging calculation, a minimum period of 2 years is required in which the basic taxable income of the second year must be no less than the first year.
 
-Example 2 Fiona commenced business as a primary producer on 1 July of Year 1. Her basic taxable income was $18,000 in Year 1, $12,000 in Year 2 and $22,000 in Year 3. As her Year 2 income was less than her Year 1 income, Year 1 cannot be used as the ﬁrst average year. Her ﬁrst average year is Year 2 in which her income was less than in Year 3. Her average income for Year 3 is: ($12,000 + $22,000) ÷ 2 = $17,000 Provided a taxpayer carried on a primary production business in the current year, the fact that the producer had no taxable income for that year will not exclude the producer, even temporarily, from the averaging system and such a year can count as the ﬁrst average year. An average year in which there is a tax loss is treated as a nil year.
+Example 2 Fiona commenced business as a primary producer on 1 July of Year 1. Her basic taxable income was $18,000 in Year 1, $12,000 in Year 2 and $22,000 in Year 3. As her Year 2 income was less than her Year 1 income, Year 1 cannot be used as the first average year. Her first average year is Year 2 in which her income was less than in Year 3. Her average income for Year 3 is: ($12,000 + $22,000) ÷ 2 = $17,000 Provided a taxpayer carried on a primary production business in the current year, the fact that the producer had no taxable income for that year will not exclude the producer, even temporarily, from the averaging system and such a year can count as the first average year. An average year in which there is a tax loss is treated as a nil year.
 
 Example 3 Last year, Anton (a primary producer) incurred a tax loss of $2,500 due to non-primary production activities. This year, his taxable income, prior to the deduction of the previous year's loss, was $16,900. For calculating the average income for averaging purposes, his taxable income is nil for the previous year and $14,400 (ie $16,900 − $2,500) for the current year.
 
-After the ﬁrst year in which a primary producer uses the income averaging system, averaging will continue to be available in each year after the primary production business ceases, provided the producer either derives assessable income from having carried on that original business or carries on another primary production business within Australia.
+After the first year in which a primary producer uses the income averaging system, averaging will continue to be available in each year after the primary production business ceases, provided the producer either derives assessable income from having carried on that original business or carries on another primary production business within Australia.
 
 Comparison rate of tax
 
 *Refs: ITAA97 s 82-65*
 
-income tax at basic rates on average income average income The basic rates of tax for a resident are the normal marginal rates of tax speciﬁed for residents (¶42-000).
+income tax at basic rates on average income average income The basic rates of tax for a resident are the normal marginal rates of tax specified for residents (¶42-000).
 
-The Medicare levy is ignored for averaging purposes. Similarly, the basic rates of tax for a non-resident are the normal marginal rates of tax speciﬁed for non-residents (¶42-015).
+The Medicare levy is ignored for averaging purposes. Similarly, the basic rates of tax for a non-resident are the normal marginal rates of tax specified for non-residents (¶42-015).
 
 Example 4 Jessica is a primary producer with an average income of $36,000 in the 2024–25 income year. Her comparison rate would be calculated as follows: $36,000 × basic rates of tax                                                           $2,848 =                             =   7.9% $36,000                                                                       $36,000 Step 3: Work out the averaging component The averaging component is simply that part of a primary producer's basic taxable income that can be subject to an averaging adjustment.
 
@@ -66,11 +66,11 @@ He also has taxable non-primary production income of $7,000. This means that he 
 *Refs: ITAA97 s
 392-80), ITAA97 s 392-85)*
 
-(a) the tax payable on the basic taxable income for the current year at the comparison rate of tax with (b) the tax payable on the basic taxable income for the current year at basic rates of tax. This amount of tax is calculated without taking into account the Medicare levy, the availability of any rebates, oﬀsets or credits, and without applying the provisions governing uncontrolled partnership income (¶5-180) or the unearned income of minors (¶2-160).
+(a) the tax payable on the basic taxable income for the current year at the comparison rate of tax with (b) the tax payable on the basic taxable income for the current year at basic rates of tax. This amount of tax is calculated without taking into account the Medicare levy, the availability of any rebates, offsets or credits, and without applying the provisions governing uncontrolled partnership income (¶5-180) or the unearned income of minors (¶2-160).
 
 - where (a) is less than (b) (because basic taxable income exceeds average income) the primary
 
-  producer is entitled to an "averaging adjustment" in the form of a tax oﬀset
+  producer is entitled to an "averaging adjustment" in the form of a tax offset
 
 - where (a) is greater than (b) (because average income exceeds basic taxable income) the
 
@@ -80,13 +80,13 @@ He also has taxable non-primary production income of $7,000. This means that he 
 
 Step 5: Calculate the averaging adjustment
 
-averaging component gross averaging amount                                         × basic taxable income A primary producer's "gross averaging amount" is the diﬀerence between the tax payable at the comparison rate and the tax payable at basic rates calculated at Step 4.
+averaging component gross averaging amount                                         × basic taxable income A primary producer's "gross averaging amount" is the difference between the tax payable at the comparison rate and the tax payable at basic rates calculated at Step 4.
 
-Where tax payable at the comparison rate is less than tax payable at basic rates, the averaging adjustment will be a tax oﬀset. In the reverse situation, the averaging adjustment will generally be extra income tax.
+Where tax payable at the comparison rate is less than tax payable at basic rates, the averaging adjustment will be a tax offset. In the reverse situation, the averaging adjustment will generally be extra income tax.
 
-Step 6: Calculate the tax payable The amount of tax payable is calculated after taking into account the averaging adjustment (tax oﬀset or extra tax) calculated at Step 5.
+Step 6: Calculate the tax payable The amount of tax payable is calculated after taking into account the averaging adjustment (tax offset or extra tax) calculated at Step 5.
 
-Note: The formula for calculating the rate of tax payable where the averaging provisions apply is set out in Income Tax Rates Act 1986 (ITRA), s 12A. The averaging provisions of ITRA can operate even though their application to a primary producer in a given case does not produce either a tax oﬀset or extra tax (Case 40/93 93 ATC 447; [1993] AATA 233).
+Note: The formula for calculating the rate of tax payable where the averaging provisions apply is set out in Income Tax Rates Act 1986 (ITRA), s 12A. The averaging provisions of ITRA can operate even though their application to a primary producer in a given case does not produce either a tax offset or extra tax (Case 40/93 93 ATC 447; [1993] AATA 233).
 
 Trustees Where a trustee is liable to be assessed and to pay tax in respect of the net income, or a share of the net income, of a trust estate to which the averaging provisions apply (¶18-200), the averaging system is calculated as for ordinary individuals with one exception. The exception is that the rates scale set out at ¶42-030 should be used where the trustee is assessed in respect of the net income of a trust estate other than the estate of a person who died less than 3 years before the end of the year of income.
 

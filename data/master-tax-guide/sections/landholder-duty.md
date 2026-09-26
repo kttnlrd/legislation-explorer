@@ -15,13 +15,13 @@ Accordingly, duty is imposed on the acquisition of certain interests in landhold
 
 Details of the landholder provisions in each state and territory are as follows:
 
-- New South Wales: landholder duty is payable where there is an acquisition of a signiﬁcant
+- New South Wales: landholder duty is payable where there is an acquisition of a significant
 
-  interest, or an acquisition which results in a signiﬁcant interest, in a landholder which has land
+  interest, or an acquisition which results in a significant interest, in a landholder which has land
 
   holdings in NSW with a value of $2 million or more. A landholder includes a unit trust scheme, a
 
-  listed company and a private company. A signiﬁcant interest is a 50% or greater interest in a private
+  listed company and a private company. A significant interest is a 50% or greater interest in a private
 
   landholder that is a company, or a 90% interest in a public landholder. From 1 February 2024,
 
@@ -31,25 +31,25 @@ Details of the landholder provisions in each state and territory are as follows:
 
 "wholesale unit trust".
 
-- Victoria: landholder duty is payable where there is an acquisition of a signiﬁcant interest, or an
+- Victoria: landholder duty is payable where there is an acquisition of a significant interest, or an
 
-  interest which results in a signiﬁcant interest, in a landholder. A landholder is a company or unit
+  interest which results in a significant interest, in a landholder. A landholder is a company or unit
 
   trust scheme (whether private or public) that has land holdings in Victoria with an unencumbered
 
-  value of $1 million or more. The thresholds for a "signiﬁcant interest" are: 20% for a private unit
+  value of $1 million or more. The thresholds for a "significant interest" are: 20% for a private unit
 
   trust scheme; 50% for a private company or wholesale unit trust scheme; and 90% for a listed
 
   company or public unit trust scheme.
 
-- Queensland: landholder duty is payable where there is an acquisition of a signiﬁcant interest, or
+- Queensland: landholder duty is payable where there is an acquisition of a significant interest, or
 
-  an acquisition which results in a signiﬁcant interest, in a landholder. A landholder is a listed unit
+  an acquisition which results in a significant interest, in a landholder. A landholder is a listed unit
 
   trust, a listed corporation or an unlisted corporation that has landholdings in Queensland with an
 
-  unencumbered value of $2 million or more. A signiﬁcant interest is a 50% or greater interest in a
+  unencumbered value of $2 million or more. A significant interest is a 50% or greater interest in a
 
   private landholder, or a 90% or greater interest in a public landholder. Where the trust is not a listed
 
@@ -65,27 +65,27 @@ Details of the landholder provisions in each state and territory are as follows:
 
 Australia from 1 July 2011.
 
-- Western Australia: landholder duty is payable where there is an acquisition of a signiﬁcant
+- Western Australia: landholder duty is payable where there is an acquisition of a significant
 
-  interest, or an acquisition which results in a signiﬁcant interest, in a landholder. A landholder is any
+  interest, or an acquisition which results in a significant interest, in a landholder. A landholder is any
 
   corporation or unit trust scheme that has an entitlement to land in Western Australia, either directly
 
-  or through a linked entity, with an unencumbered value of $2 million or more. A signiﬁcant interest
+  or through a linked entity, with an unencumbered value of $2 million or more. A significant interest
 
-  is a 50% or greater interest in a landholder that is not on the oﬃcial list of a prescribed ﬁnancial
+  is a 50% or greater interest in a landholder that is not on the official list of a prescribed financial
 
-  market, or a 90% or greater interest in a landholder that is on the oﬃcial list of a prescribed
+  market, or a 90% or greater interest in a landholder that is on the official list of a prescribed
 
-  ﬁnancial market and whose shares are quoted.
+  financial market and whose shares are quoted.
 
-- Tasmania: landholder duty is payable where there is an acquisition of a signiﬁcant interest,
+- Tasmania: landholder duty is payable where there is an acquisition of a significant interest,
 
-  or an interest which results in a signiﬁcant interest, in a landholder. A landholder is a company
+  or an interest which results in a significant interest, in a landholder. A landholder is a company
 
   or unit trust scheme (whether private or public) that has land holdings in Tasmania with an
 
-  unencumbered value of $500,000 or more. The thresholds for a "signiﬁcant interest" are: 50% for
+  unencumbered value of $500,000 or more. The thresholds for a "significant interest" are: 50% for
 
   a private company or unit trust scheme and 90% for a listed company or public unit trust scheme.
 
@@ -93,15 +93,15 @@ Landholder duty replaced land-rich duty in Tasmania from 6 December 2016.
 
 - Australian Capital Territory: landholder duty is payable where there is an acquisition of a
 
-  signiﬁcant interest, or an acquisition which results in a signiﬁcant interest, in an entity that has a
+  significant interest, or an acquisition which results in a significant interest, in an entity that has a
 
-  landholding in the ACT. A person holds a signiﬁcant interest in a landholder where, in the event of
+  landholding in the ACT. A person holds a significant interest in a landholder where, in the event of
 
   a distribution of all of the property of the landholder, they are entitled to at least 50% of the property
 
   distributed.
 
-- Northern Territory: landholder duty is payable where there is an acquisition of a signiﬁcant or a
+- Northern Territory: landholder duty is payable where there is an acquisition of a significant or a
 
   further interest in a land-holding corporation or a unit trust scheme that is entitled to an interest in
 

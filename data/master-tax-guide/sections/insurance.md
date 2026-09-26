@@ -17,6 +17,6 @@ If the TPB considers it appropriate to do so, the TPB may impose one or more con
 
 On an application being duly made, the TPB may vary a condition of registration (TASA s 20-40).
 
-If the TPB grants an application for registration, the TPB may give a written notice requiring the maintenance of professional indemnity insurance as speciﬁed in the notice (TASA s 20-30(3)). Such a notice may be given at the same time as the giving of the notiﬁcation of registration, or subsequently. The TPB requires registered tax agents to maintain professional indemnity insurance cover and has released an explanatory paper on what is required to satisfy its requirements in relation to professional indemnity insurance (TPB(EP) 03/2010).
+If the TPB grants an application for registration, the TPB may give a written notice requiring the maintenance of professional indemnity insurance as specified in the notice (TASA s 20-30(3)). Such a notice may be given at the same time as the giving of the notification of registration, or subsequently. The TPB requires registered tax agents to maintain professional indemnity insurance cover and has released an explanatory paper on what is required to satisfy its requirements in relation to professional indemnity insurance (TPB(EP) 03/2010).
 
 *Refs: s 20-25(5), s 20-40), s 20-30(3))*

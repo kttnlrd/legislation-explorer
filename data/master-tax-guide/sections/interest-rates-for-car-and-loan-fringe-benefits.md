@@ -5,11 +5,11 @@ section: "interest-rates-for-car-and-loan-fringe-benefits"
 title: "Interest rates for car and loan fringe benefits"
 paragraph: "¶42-405"
 ---
-# Interest rates for car and loan fringe beneﬁts ¶42-405
+# Interest rates for car and loan fringe benefits ¶42-405
 
-The taxable value of most loan fringe beneﬁts is determined by reference to a notional amount of interest called the statutory interest rate for the year for which the beneﬁt is being valued (¶35-290).
+The taxable value of most loan fringe benefits is determined by reference to a notional amount of interest called the statutory interest rate for the year for which the benefit is being valued (¶35-290).
 
-In calculating the taxable value of a car fringe beneﬁt, an imputed interest cost equal to the statutory benchmark interest rate is included in the operating cost of the car where the provider owns the car (¶35-230).
+In calculating the taxable value of a car fringe benefit, an imputed interest cost equal to the statutory benchmark interest rate is included in the operating cost of the car where the provider owns the car (¶35-230).
 
 The statutory benchmark interest rates for recent years are as follows.
 

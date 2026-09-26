@@ -15,7 +15,7 @@ The following items are "non-assessable non-exempt income" (¶10-890) of a life 
 
   protected superannuation funds) (ITAA97 s 320-37(1)(a)). Franked dividends derived on such
 
-  assets are eligible for tax oﬀsets (ITAA97 s 207-110). Capital gains derived from this business are
+  assets are eligible for tax offsets (ITAA97 s 207-110). Capital gains derived from this business are
 
   disregarded under ITAA97 s 118-315
 
@@ -33,7 +33,7 @@ The following items are "non-assessable non-exempt income" (¶10-890) of a life 
 
   policies and most scholarship plans issued before 1 January 2003 (¶3-470: s 320-37(1)(d)). Where
 
-  the income consists of franked distributions, it is eligible for tax oﬀsets (s 207-110).
+  the income consists of franked distributions, it is eligible for tax offsets (s 207-110).
 
 *Refs: ITAA97 s 320-37(1)(, ITAA97 s 207-110), ITAA97 s 118-315, s 320-37(1)(, ITAA97 s 118-350, s
 320-37(1)(, s 320-37(2), s 207-110)*

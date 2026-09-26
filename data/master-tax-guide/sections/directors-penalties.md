@@ -11,11 +11,11 @@ Special regimes enable the Commissioner to recover from the directors of compani
 
 Estimates of liabilities Under Div 268, the Commissioner may make a reasonable estimate of a person's liability for unpaid and overdue amount of PAYG under TAA sch 1 s 16-70, SGC for a quarter (to the extent that the charge has not already been assessed), and/or a net amount for a tax period under the GST Act relating to GST, LCT and WET (to the extent that the net amount has not been assessed), having regard to anything that the Commissioner considers is relevant (s 268-10).
 
-When the Commissioner makes such an estimate, the person must be notiﬁed in writing of the estimate, and that the estimate may be reduced if the person makes a statutory declaration or aﬃdavit specifying the actual amount of liability or declaring that no amounts had to be withheld or paid (TAA sch 1 ss 268-40(1), item 1; 268-90). Where an estimate remains unpaid after 7 days, GIC is payable (TAA sch 1 s 268-75).
+When the Commissioner makes such an estimate, the person must be notified in writing of the estimate, and that the estimate may be reduced if the person makes a statutory declaration or affidavit specifying the actual amount of liability or declaring that no amounts had to be withheld or paid (TAA sch 1 ss 268-40(1), item 1; 268-90). Where an estimate remains unpaid after 7 days, GIC is payable (TAA sch 1 s 268-75).
 
-Once an estimate has been made, the Commissioner may commence recovery proceedings based on that estimated liability (TAA sch 1 s 268-20(2)). The person liable may defend the recovery proceedings by proving, by means of an aﬃdavit, that the actual liability never existed, has been discharged or is less than the Commissioner's estimate (TAA sch 1 ss 268-40(1), items 2 and 3; 268-90; Mandalinic v Stone (Liquidator) & Ors 2023 ATC ¶20-879; [2023] FCAFC 146).
+Once an estimate has been made, the Commissioner may commence recovery proceedings based on that estimated liability (TAA sch 1 s 268-20(2)). The person liable may defend the recovery proceedings by proving, by means of an affidavit, that the actual liability never existed, has been discharged or is less than the Commissioner's estimate (TAA sch 1 ss 268-40(1), items 2 and 3; 268-90; Mandalinic v Stone (Liquidator) & Ors 2023 ATC ¶20-879; [2023] FCAFC 146).
 
-Company directors personally liable In conjunction with the regime for the recovery of unremitted amounts, the director of a non-remitting company may be personally liable to pay an amount equal to the company's tax liabilities (TAA sch 1 Div 269). The regime applies where a company is required to remit an amount in respect of PAYG withheld; an alienated personal services payment received; a non-cash beneﬁt provided; SGC for the relevant quarter; an assessed net amount under the GST Act for the relevant tax period; or a GST instalment for the relevant GST instalment quarter (TAA sch 1 s 269-10).
+Company directors personally liable In conjunction with the regime for the recovery of unremitted amounts, the director of a non-remitting company may be personally liable to pay an amount equal to the company's tax liabilities (TAA sch 1 Div 269). The regime applies where a company is required to remit an amount in respect of PAYG withheld; an alienated personal services payment received; a non-cash benefit provided; SGC for the relevant quarter; an assessed net amount under the GST Act for the relevant tax period; or a GST instalment for the relevant GST instalment quarter (TAA sch 1 s 269-10).
 
 *Refs: s 16-70, s 268-10), s 268-40(1), s 268-75), s 268-20(2)), s 269-10)*
 
@@ -47,9 +47,9 @@ A director will also remain liable for penalty in certain cases, even if there i
 
   underlying liability.
 
-In these cases, the subsequent appointment of an administrator or a small business restructuring practitioner, or the beginning of the winding up of the company, will not have the eﬀect of remitting the directors penalty. That penalty will therefore continue to be payable. However, remission may continue to be applicable to the extent that the company has:
+In these cases, the subsequent appointment of an administrator or a small business restructuring practitioner, or the beginning of the winding up of the company, will not have the effect of remitting the directors penalty. That penalty will therefore continue to be payable. However, remission may continue to be applicable to the extent that the company has:
 
-- for withheld amounts, notiﬁed the Commissioner within the 3-month period of the amount of its
+- for withheld amounts, notified the Commissioner within the 3-month period of the amount of its
 
   liability
 
@@ -61,7 +61,7 @@ In these cases, the subsequent appointment of an administrator or a small busine
 
 The Commissioner must give 21 days' notice before instituting proceedings to recover, by way of penalty, the unpaid amount of the company's liability or the unpaid amount of the estimate of that liability (TAA sch 1 s 269-25(1)).
 
-The notice must set out what the Commissioner thinks is the unpaid amount (s 269-25(2); Snell 2020 ATC ¶20-734; [2020] NSWCA 29). The person to whom a notice is sent does not have to be a current director. It is suﬃcient if the person is in oﬃce for at least some of the period before the due date when the company became liable to make the payment (Canty 2005 ATC 4470; [2005] NSWCA 84).
+The notice must set out what the Commissioner thinks is the unpaid amount (s 269-25(2); Snell 2020 ATC ¶20-734; [2020] NSWCA 29). The person to whom a notice is sent does not have to be a current director. It is sufficient if the person is in office for at least some of the period before the due date when the company became liable to make the payment (Canty 2005 ATC 4470; [2005] NSWCA 84).
 
 Penalties imposed on directors are not subject to GIC (¶29-510), but may be subject to pre-judgment interest (Canty 2005 ATC 4470; [2005] NSWCA 84).
 
@@ -78,17 +78,17 @@ Defences to personal liability
 
 (1) because of illness or for some other good reason, it would have been unreasonable to expect the person to take part, and the person did not take part, in the management of the company at any time when the person was a director and the directors were under a duty to comply (2) the person took all reasonable steps to ensure that the directors complied or there were no reasonable steps that could have been taken (3) in relation to the SGC or assessed net amounts under the GST Act, the company treated the SGC legislation or GST Act as applying to a matter in a way that was "reasonably arguable" and the company took reasonable care in applying the legislation (TAA sch 1 s 269-35).
 
-A defence will be established if the Commissioner is satisﬁed of the relevant matters on the basis of the information provided by the director. If the Commissioner fails to pay due regard to such information, the Commissioner's decision could be declared invalid (Brown 2020 ATC ¶20-749; [2020] FCA 817).
+A defence will be established if the Commissioner is satisfied of the relevant matters on the basis of the information provided by the director. If the Commissioner fails to pay due regard to such information, the Commissioner's decision could be declared invalid (Brown 2020 ATC ¶20-749; [2020] FCA 817).
 
-In practice, it can be diﬃcult to meet the requirements of these defences. In Saunig 2002 ATC 5135; [2002] NSWCA 390, a director who had concerns about the management of a company was unable to rely on the second defence that he had taken all reasonable steps to ensure compliance. The court noted that, although he had tried unsuccessfully to convince the other directors to comply, as a single director he could have caused the company to begin to be wound up and should have obtained professional advice at an earlier stage. The need to seek legal advice as soon as a director becomes aware of the true state of a company's ﬁnancial obligations was also underscored in Solomon 2003 ATC 4474; [2003] NSWCA 62.
+In practice, it can be difficult to meet the requirements of these defences. In Saunig 2002 ATC 5135; [2002] NSWCA 390, a director who had concerns about the management of a company was unable to rely on the second defence that he had taken all reasonable steps to ensure compliance. The court noted that, although he had tried unsuccessfully to convince the other directors to comply, as a single director he could have caused the company to begin to be wound up and should have obtained professional advice at an earlier stage. The need to seek legal advice as soon as a director becomes aware of the true state of a company's financial obligations was also underscored in Solomon 2003 ATC 4474; [2003] NSWCA 62.
 
-A person who, 2 months after the unremitted amounts were due, became a director of a company for 17 days and who received a notice nearly 3 months after ceasing to be a director was also unable to rely on the defences (Fitzgerald 95 ATC 4587). Although the director had not been aware of the company's ﬁnancial position or the amounts due while he was a director, this was not suﬃcient to provide a defence. The court warned that it was the responsibility of new directors at the time of, or before taking up, their appointments to make inquiries of the relevant oﬃcers of the company as to whether there were any moneys owing. If incorrect information was given to such an inquiry, a defence may be available.
+A person who, 2 months after the unremitted amounts were due, became a director of a company for 17 days and who received a notice nearly 3 months after ceasing to be a director was also unable to rely on the defences (Fitzgerald 95 ATC 4587). Although the director had not been aware of the company's financial position or the amounts due while he was a director, this was not sufficient to provide a defence. The court warned that it was the responsibility of new directors at the time of, or before taking up, their appointments to make inquiries of the relevant officers of the company as to whether there were any moneys owing. If incorrect information was given to such an inquiry, a defence may be available.
 
 A director who fails to make out the defence that he has taken reasonable steps to ensure compliance is also unable to obtain relief under the s 1318 of the Corporations Act 2001 (TAA sch 1 s 269-35(5)).
 
-A director is entitled to be indemniﬁed by the company, and any other persons from whom the Commissioner is entitled to recover, for any payment made by way of penalty under these provisions (TAA sch 1 s 269-45).
+A director is entitled to be indemnified by the company, and any other persons from whom the Commissioner is entitled to recover, for any payment made by way of penalty under these provisions (TAA sch 1 s 269-45).
 
-PAYG withholding non-compliance tax Directors and their associates who are entitled to a credit attributable to a payment made by a company that has failed to pay amounts withheld under PAYG withholding to the Commissioner, can be liable to pay a new PAYG withholding non-compliance tax. This tax eﬀectively reverses any PAYG credit to which the director was entitled (¶26-710).
+PAYG withholding non-compliance tax Directors and their associates who are entitled to a credit attributable to a payment made by a company that has failed to pay amounts withheld under PAYG withholding to the Commissioner, can be liable to pay a new PAYG withholding non-compliance tax. This tax effectively reverses any PAYG credit to which the director was entitled (¶26-710).
 
 *Refs: s 269-35), s 269-35(5)), s 269-45)*
 

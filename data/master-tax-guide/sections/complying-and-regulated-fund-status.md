@@ -7,7 +7,7 @@ paragraph: "¶13-100"
 ---
 # Complying and regulated fund status ¶13-100
 
-A superannuation fund must be a "complying superannuation fund" to be eligible for concessional tax treatment under ITAA97 Div 295. This requires the fund to have received a notice under SISA from APRA (or the Commissioner) stating that it is a complying superannuation fund. A fund remains a complying superannuation fund for tax purposes until it is notiﬁed that its complying status has changed.
+A superannuation fund must be a "complying superannuation fund" to be eligible for concessional tax treatment under ITAA97 Div 295. This requires the fund to have received a notice under SISA from APRA (or the Commissioner) stating that it is a complying superannuation fund. A fund remains a complying superannuation fund for tax purposes until it is notified that its complying status has changed.
 
 By virtue of its status, an exempt public sector superannuation scheme (¶13-300) is a complying superannuation fund.
 
@@ -61,7 +61,7 @@ The CMC of a superannuation fund is ordinarily in Australia at a time even if th
 
 A member is an "active member" at a particular time if they contribute to the fund at that time, or is an individual for whom contributions have been made. However, a member is not an active member at the relevant time if they are foreign residents and are not contributors at that time and the only contributions made to the fund for the member since becoming a foreign resident were made in respect of a time when they were Australian residents (s 295-95(3)).
 
-Guidelines on the 3 tests to be an Australian superannuation fund are set out in TR 2008/9, including the application of the CMC test in situations where an individual trustee or a director of a corporate trustee of a superannuation fund delegates their duties and powers. For commentary on the residence tests for individuals and companies generally, see ¶21-010ﬀ.
+Guidelines on the 3 tests to be an Australian superannuation fund are set out in TR 2008/9, including the application of the CMC test in situations where an individual trustee or a director of a corporate trustee of a superannuation fund delegates their duties and powers. For commentary on the residence tests for individuals and companies generally, see ¶21-010ff.
 
 *Refs: ITAA97 s 295-95(2)), s 295-95(4), s 295-95(3))*
 
@@ -71,9 +71,9 @@ Loss of complying fund status A superannuation fund automatically loses its comp
 
 A fund may lose its complying fund status if it breaches one or more regulatory provisions in a year and fails the culpability test in SISA s 42(1A) or, for an SMSF, the compliance test in SISA s 42A(5) (Case 7/2009 2009 ATC ¶1-011; [2009] AATA 522, Re JNVQ 09 ESL 08; [2009] AATA 522, ZDDD 11 ESL 01; [2011] AATA 3, Sutherland v Woods [2011] NSWSC 13, Triway 11 ESL 12; [2011] AATA 302, Shail 2011 ATC ¶10-228; [2011] AATA 940, Montgomery Wools 12 ESL 02; [2012] AATA 61, Re-Ali 2012 ATC ¶10-231; [2012] AATA 44).
 
-When determining a fund's complying status, a contravention of a regulatory provision is ignored unless the contravention is an oﬀence, a contravention of a civil penalty provision, or a contravention of certain TAA provisions (applicable to SMSFs only) (SISA s 39).
+When determining a fund's complying status, a contravention of a regulatory provision is ignored unless the contravention is an offence, a contravention of a civil penalty provision, or a contravention of certain TAA provisions (applicable to SMSFs only) (SISA s 39).
 
-PS LA 2006/19 outlines the factors the Commissioner will consider when deciding whether a notice of non- compliance should be given to an SMSF which has breached the regulatory provisions (XPMX 08 ESL 10; [2008] AATA 981; Decision Impact Statement VRN 3265 of 2007, 3633 of 2007: alternative options available to the ATO for breaches). The Commissioner's decision to issue a notice of non-compliance to a fund was set aside in Pabian Park 2012 ATC ¶10-253; [2012] AATA 375. According to the AAT, the case was "ﬁnely balanced" and "weighing up all the factors", it would not be inconsistent with the objects of SISA to exercise the discretion in favour of the fund. The ATO accepted that it was open to the AAT to reach its decision on the facts but noted that, in doing so, the AAT has accepted and followed the general approach taken in PS LA 2006/19 (Decision Impact Statement VRN 2004 of 2010).
+PS LA 2006/19 outlines the factors the Commissioner will consider when deciding whether a notice of non- compliance should be given to an SMSF which has breached the regulatory provisions (XPMX 08 ESL 10; [2008] AATA 981; Decision Impact Statement VRN 3265 of 2007, 3633 of 2007: alternative options available to the ATO for breaches). The Commissioner's decision to issue a notice of non-compliance to a fund was set aside in Pabian Park 2012 ATC ¶10-253; [2012] AATA 375. According to the AAT, the case was "finely balanced" and "weighing up all the factors", it would not be inconsistent with the objects of SISA to exercise the discretion in favour of the fund. The ATO accepted that it was open to the AAT to reach its decision on the facts but noted that, in doing so, the AAT has accepted and followed the general approach taken in PS LA 2006/19 (Decision Impact Statement VRN 2004 of 2010).
 
 In certain circumstances, the Commissioner may accept an enforceable undertaking from fund trustees to rectify contraventions (PS LA 2006/18). The court's powers to grant orders in relation to enforceable undertakings under s 262A(4)(d) of the SISA include deeming a fund to be complying in an appropriate case (Interhealth Energies 12 ESL 09; [2012] FCA 516).
 

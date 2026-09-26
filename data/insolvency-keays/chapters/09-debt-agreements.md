@@ -12,7 +12,7 @@ Debt Agreements
                                                             9
 [9.10] INTRODUCTION ................................................................................................................ 356
 [9.15] PROPOSING AND PROCESSING A DEBT AGREEMENT ........................................ 357
-[9.25] Debtors disqualiﬁed from using a debt agreement ...................................... 360
+[9.25] Debtors disqualified from using a debt agreement ...................................... 360
 [9.30] Giving of a proposal is an act of bankruptcy ................................................ 361
 [9.35] Accepting a proposal for processing: s 185E ................................................. 361
     [9.42] Assigned and secured debts ........................................................................................ 362
@@ -59,7 +59,7 @@ insolvency, separate from bankruptcy, for those debtors with relatively small de
 low incomes and little property.1 The policy reason for these is that bankruptcy is
 seen as too strict and serious a regime for those who are usually consumer debtors
 with few assets and liabilities, who are unable to meet their commitments. The
-ﬁnancial affairs of these debtors are better suited to a more informal type of
+financial affairs of these debtors are better suited to a more informal type of
 insolvency administration.
 As with Pt X agreements, it is a decision for the creditors, and the court does not
 have to be involved, unless there is some challenge to the agreement.
@@ -77,9 +77,9 @@ being regarded as an important "gateway" issue in the area of consumer credit; t
 commercialisation and marketing of agreements; and the gradual extension of the
 period of payment arrangements under debt agreements, among other issues.2
 Part IX was introduced into the Bankruptcy Act in 1996. The regime was
-substantially reﬁned in July 2007 by the Bankruptcy Legislation Amendment (Debt
+substantially refined in July 2007 by the Bankruptcy Legislation Amendment (Debt
 Agreements) Act 2007 (Cth), which served to tighten up the process, to improve the
-success rate of agreements and give creditors more conﬁdence in the system.
+success rate of agreements and give creditors more confidence in the system.
 Regulation of administrators was another aspect of these reforms, including the
 process whereby the Inspector-General can issue practice guidelines.3 This
 guidance and other directions are referred to throughout this chapter.
@@ -96,59 +96,59 @@ guidance and other directions are referred to throughout this chapter.
 
 At the time of publication, further reforms are proposed by way of the Bankruptcy
 Amendment (Debt Agreement Reform) Bill 2018 (in this chapter called the 2018 Bill)
-which would impose new qualiﬁcation and registration requirements on
+which would impose new qualification and registration requirements on
 administrators, new provisions relating to the content, length, variation, termination
 and voiding of debt agreements; and introducing new offences and functions and
 powers of the Inspector General. Aspects of these proposed changes are referred to
 in this chapter.
 There were 13,597 debt agreements in 2016-2017, the highest number on record, an
-increase of 11.9% from the previous ﬁnancial year. Debt agreements now account
+increase of 11.9% from the previous financial year. Debt agreements now account
 for well over a third of all personal insolvencies. In comparison, bankruptcies
 totalled only 16,320 in 2016-17, a fall of 5.1%. And despite bankruptcies remaining
 higher in number, over $163 million in dividends were paid to creditors under debt
 agreements in 2013-2014, compared with around $75 million paid out in
 bankruptcies.
 Creditors generally have accepted debt agreement proposals put to them. On the
-latest ﬁgures, of around 12,000 proposals in 2014-2015, around 9,500 – or just under
+latest figures, of around 12,000 proposals in 2014-2015, around 9,500 – or just under
 80% – were accepted, the remainder being either rejected or were not the subject of
 a vote by any creditor.
-Apart from minor deﬁnitional changes, the signiﬁcant reforms introduced by the
+Apart from minor definitional changes, the significant reforms introduced by the
 ILRA do not apply to Pt IX debt agreements. The changes comparable to the ILRA
 reforms in the registration and regulation of bankruptcy trustees are found in the
 2018 Bill.
-One signiﬁcant change under the ILRA is to include a debtor subject to a debt
+One significant change under the ILRA is to include a debtor subject to a debt
 agreement as an "insolvent under administration" under Corporations Act s 9, along
 with those who are bankrupt and subject to Pt X agreements. That term is used in
 Commonwealth, the States and Territories legislation to exclude a person from
 some activity or role.
-A signiﬁcant change proposed under the 2018 Bill is to double the threshold of the
+A significant change proposed under the 2018 Bill is to double the threshold of the
 value of the debtor's property, from around $113,000 to $227,000, under s
 185C(4)(c). The Explanatory Memorandum4 explains that this is because of the
 "recent rises in Australian property prices, particularly in capital and major cities"
 and seeks to "ensure a greater proportion of debtors have access to the debt
 agreement system".
 The 2018 Bill would also limit the period of time for payments under a debt
-agreement to three years; at present, many agreements extend beyond ﬁve years:
+agreement to three years; at present, many agreements extend beyond five years:
 proposed s 185H.
 
 PROPOSING AND PROCESSING A DEBT AGREEMENT
 [9.15]    Putting forward a debt agreement, having it approved and then signing
 up to it is a straightforward process, assuming that the debtor's information is in
-order and that the debtor's ﬁnancial position comes within the relevant thresholds.
+order and that the debtor's financial position comes within the relevant thresholds.
 The debt agreement process is as follows:
 
 4 "Explanatory Memorandum to the Bankruptcy Amendment (Debt Agreement Reform) Bill 2018", at
   [70].
 358    Keay's Insolvency: Personal and Corporate Law and Practice                 [9.20]
 
-• A debtor prepares and ﬁles a debt agreement proposal with AFSA, with relevant
-  consent and certiﬁcation by an administrator, and the lodgement fee of $200:
+• A debtor prepares and files a debt agreement proposal with AFSA, with relevant
+  consent and certification by an administrator, and the lodgement fee of $200:
   s 185C;
 • AFSA checks the debtor's eligibility and the content of the agreement and must
   give the debtor information about alternatives and consequences;
 • AFSA may then accept the proposal for processing: s 185E;
 • Restrictions are then imposed on creditors: s 185F;
-• AFSA notiﬁes the creditors, asking if they wish to accept the agreement: s 185EA;
+• AFSA notifies the creditors, asking if they wish to accept the agreement: s 185EA;
 • The creditors may accept the agreement within the "applicable deadline" (s 185),
   or reject it, in which case the agreement will lapse;
 • The parties to a debt agreement then become the debtor and the creditors owed
@@ -175,20 +175,20 @@ explanatory statement, being AFSA's Debt Agreement Proposal and Explanatory
 Statement: s 185C(2)(2B). The proposal must identify the debtor's property to be
 dealt with under the agreement and how the property will be applied; and must
 authorise a nominated person (usually the Registered Debt Agreement
-Administrator) to deal with the identiﬁed property in terms of the proposal: s 185C.
+Administrator) to deal with the identified property in terms of the proposal: s 185C.
 This explanation is provided to creditors: s 185EA.
 Before submitting a proposal, a debtor will usually have been to see a debt
 agreement administrator. They must ultimately certify, among other things, that
 they have "reasonable grounds for believing" that the debtor will be able to
 discharge their obligations under the agreement and that the information in the
 debtor's statement of affairs and explanatory statement is correct, including the list
-of creditors and the amounts owed: s 185C(2D). See AFSA Form, Certiﬁcate for Debt
+of creditors and the amounts owed: s 185C(2D). See AFSA Form, Certificate for Debt
 Agreement Administrator.
 [9.20]                                                             9 Debt Agreements    359
 
 To avoid debtors entering agreements that might cause them undue hardship, new
 paragraph 185C(4)(e) under the 2018 Bill would limit the total payments under an
-agreement to a percentage ﬁgure based on the debtor's income, to be prescribed:
+agreement to a percentage figure based on the debtor's income, to be prescribed:
 new subs 185C(4B).
 Also, as earlier explained, payments under a debt agreement would be limited to
 three years under proposed s 185H. According to the Explanatory Memorandum,
@@ -201,7 +201,7 @@ The Explanatory Memorandum says that this power of the Minister under
 proposed new subs 185C(4B) is a key consumer-protection safeguard, which the
 Minister cannot delegate.
 At present Inspector-General Practice Direction IGPD 13 – Debt agreement
-administrators' guidelines to certiﬁcation requirements, sets out in detail the expectations
+administrators' guidelines to certification requirements, sets out in detail the expectations
 of the Inspector-General in respect of the duty of an administrator under
 s 185C(2D) to certify, in effect, the viability and worth of the proposed agreement,
 and also the expected knowledge and experience of the administrator. For example,
@@ -236,29 +236,29 @@ transfers are not used to avoid the operation of provisions dealing with
 remuneration and the payment of the interest and the realisations charge.
 There cannot be joint debt agreement proposals: s 185C(2E).
 There may be conditional proposals, as opposed to conditional agreements:
-s 185C(2F). That is, a proposal may specify a condition that must be satisﬁed within
+s 185C(2F). That is, a proposal may specify a condition that must be satisfied within
 seven days of the deadline for approval by creditors of the proposal. If a proposal is
 conditional then, even if creditors have purported to accept the proposal, an
 agreement will not come into effect if the condition is not met. For example,
 spouses with joint liabilities may each offer a debt agreement, each proposal saying
 that it is conditional upon the other's proposal being accepted by creditors.
 The proposal may provide for the administrator's remuneration (s 185C(3)) and it
-must be expressed as a ﬁxed percentage of the total amounts payable by the debtor
-under the agreement. The administrator may take as remuneration the speciﬁed
+must be expressed as a fixed percentage of the total amounts payable by the debtor
+under the agreement. The administrator may take as remuneration the specified
 percentage of each regular payment made by the debtor: s 185C(3A).5
 Proposed subs 185C(3B) would provide that a debt agreement proposal must detail
 the types of expenses the debt agreement administrator can recover. This is meant
 to ensure that both creditors and debtors have an opportunity to assess the
 reasonableness of an administrator's expenses. Administrators have a duty to not
-reimburse themselves for expenses that are not speciﬁed: proposed s 185LA(2). The
+reimburse themselves for expenses that are not specified: proposed s 185LA(2). The
 inclusion of this requirement as a duty would allow the Inspector-General, under
 paras 186K(3)(b) for an individual, or 186L(3)(b) for a company, to seek a written
 explanation from an administrator, following an apparent failure to perform their
 duties, with a view to possibly cancelling their registration.
 As under Pt X, State stamp duty is not payable on a debt agreement: s 185X.
 
-Debtors disqualiﬁed from using a debt agreement
-[9.25] A debtor is disqualiﬁed from giving a proposal if they fall within
+Debtors disqualified from using a debt agreement
+[9.25] A debtor is disqualified from giving a proposal if they fall within
 s 185C(4), that is, if:
 • at any time during the past 10 years they were bankrupt, were a party to a debt
   agreement or gave a s 188 authority under Pt X: s 185C(4)(a);
@@ -269,12 +269,12 @@ s 185C(4), that is, if:
 • the debtor's after-tax income in the year beginning at the time of the proposal is
   likely to be more than half of the threshold amount: s 185C(4)(d). This indexed
   amount exceeds $85, 012.2000.
-The "threshold amount" is deﬁned in s 185C(5) and the formula is similar to that
+The "threshold amount" is defined in s 185C(5) and the formula is similar to that
 used in determining the "base income threshold amount" in calculating income
-contributions of bankrupts: s 139K.6 "After tax income" is also deﬁned in s 185C(5).
+contributions of bankrupts: s 139K.6 "After tax income" is also defined in s 185C(5).
 
 5 See also IGPD 3 – What constitutes an expense recoverable in a debt agreement by an administrator.
-6 The threshold amount means seven times the amount that, at that time, is speciﬁed in column 3, item
+6 The threshold amount means seven times the amount that, at that time, is specified in column 3, item
   2, Table B, point 1064 B1 of Pension Rate Calculator A, in the Social Security Act 1991.
 [9.40]                                                         9 Debt Agreements   361
 
@@ -291,11 +291,11 @@ exists on which a creditor's petition may be presented, within six months.
 
 Accepting a proposal for processing: s 185E
 [9.35]   Section 185E sets out various preliminary matter about which the Official
-Receiver must be satisﬁed before proceeding to process the debt agreement
+Receiver must be satisfied before proceeding to process the debt agreement
 proposal – as to timing and eligibility and information having been given. This is
 the same information provided to a debtor contemplating bankruptcy (reg 4.11).
 See [3.25] and [3.80]. The Official Receiver may accept a proposal for processing if it
-contains the necessary details set out in s 185C(3), the debtor is not disqualiﬁed
+contains the necessary details set out in s 185C(3), the debtor is not disqualified
 from giving a proposal and the statement of affairs is in order: s 185E(2). The
 proposal cannot be more than 14 days old from the date of the debtor signing it:
 s 185E(2AA)). It must be administered by a RDAA or a trustee in bankruptcy,
@@ -317,7 +317,7 @@ The quantum of creditors' individual claims is their value as at the time that t
 acceptance of the debt agreement proposal is registered on the NPII: s 185EC(4).
 Proposed new subs 185E(2AB) under the 2018 Bill would allow the Official Receiver
 to reject a proposal that would impose undue hardship to the debtor. Given the
-signiﬁcant protections proposed, including the payment to income ratio test, the
+significant protections proposed, including the payment to income ratio test, the
 Explanatory Memorandum says that this discretion of the Official Receiver would
 be exercised only in exceptional circumstances. A similar discretion applies when
 the Official Receiver is considering whether a proposal should be varied: proposed
@@ -329,7 +329,7 @@ Assigned and secured debts
 for the amount of consideration actually paid for the debt: s 185EC(3). This is the
 same as in bankruptcy, under IPRB, s 75-110(4), and likewise balances the need to
 prevent manipulation of voting through the purchase of debts by parties associated
-with the debtor, while minimising the effect on bona ﬁde arm's length creditors
+with the debtor, while minimising the effect on bona fide arm's length creditors
 who may assign debts for other commercial reasons.
 A secured creditor may only vote for the unsecured portion of their claim:
 s 185EC(5).
@@ -341,15 +341,15 @@ in value of the creditors who reply to the Official Receiver before the deadline
 saying that the proposal should be accepted: s 185EC(1). Thus, the creditors with
 the greatest commercial interest will determine the outcome of the proposal
 approval process.
-Creditors will generally vote according to their ﬁnancial interest and the timing of
+Creditors will generally vote according to their financial interest and the timing of
 payment, in particular in comparison with bankruptcy. The ATO has stated what
 considerations it takes into account as a creditor, including the projected returns
 under bankruptcy and the impact that bankruptcy would have on the debtor. It
 considers what is an appropriate outcome for the debtor rather than simply
-preferring an outcome providing the greatest ﬁnancial return. The ATO may vote
+preferring an outcome providing the greatest financial return. The ATO may vote
 against a proposal, preferring bankruptcy, where a debtor's tax compliance history
 is poor, or the debtor cannot demonstrate future ability to comply with their tax
-obligations, or a cost-beneﬁt analysis determines bankruptcy is the more appropriate
+obligations, or a cost-benefit analysis determines bankruptcy is the more appropriate
 outcome.7
 Once accepted by creditors, the parties to a debt agreement then become the debtor
 and the creditors to whom the debtor owed provable debts: s 185I.
@@ -374,7 +374,7 @@ moratorium continues until the applicable deadline for the acceptance of the
 proposal occurs, the proposal lapses or other nominated events occur:
 s 185F(1)(d) – (i).
 A "frozen debt" was discussed at [3.35] in the context of Declarations of Intention
-to Present a Debtor's Petition. It is deﬁned in s 185(1) as a debt that is both owed by
+to Present a Debtor's Petition. It is defined in s 185(1) as a debt that is both owed by
 a debtor proposing a debt agreement accepted by the Official Receiver and one that
 would have been provable in a bankruptcy where the debtor had become a
 bankrupt on the date when the debt agreement was recorded on the NPII. Debts
@@ -442,9 +442,9 @@ the life of the agreement. A secured creditor's entitlement to a distribution is
 limited to the unsecured portion of their claim.
 
 Variation of a debt agreement
-[9.75]   There is some ﬂexibility with debt agreements; like arrangements under
+[9.75]   There is some flexibility with debt agreements; like arrangements under
 Pt X, they can be varied. The procedure to be followed for variation is the same as
-that speciﬁed for acceptance of the original proposal: see ss 185M – 185MD; and
+that specified for acceptance of the original proposal: see ss 185M – 185MD; and
 AFSA's Claim and Vote form (s 185MA), and its s 185M(1A) Proposal to Vary a Debt
 Agreement and Explanatory Statement. As earlier explained [9.40], the 2018 Bill would
 allow the Official Receiver to refuse the variation if it would impose undue
@@ -483,16 +483,16 @@ Ending or termination of the agreement without court involvement
 
 Ending of a debt agreement: s 185N
 [9.85] The Act envisages that a debt agreement will, ordinarily, end when all
-obligations under it have been fulﬁlled, that is, the debtor has made all the required
+obligations under it have been fulfilled, that is, the debtor has made all the required
 payments: s 185N(1). On such ending, if there is any property which was subject to
 the agreement but was not required to be distributed to creditors under the
 agreement, the debtor can retain it: s 185N(2). The debtor is entitled to obtain from
-the Official Receiver a certiﬁcate certifying that the obligations pursuant to the
+the Official Receiver a certificate certifying that the obligations pursuant to the
 agreement have been discharged – Notice of Completion of Debt Agreement:
 s 185N(3) – (4). The effect of the end of the agreement is to release the debtor from
 all provable debts: s 185NA.
 The administrator has a duty (s 185LG(3)) to notify the Official Receiver of the
-ending of the agreement within ﬁve business days: s 185N(5).
+ending of the agreement within five business days: s 185N(5).
 However, an agreement may terminate earlier under ss 185P, 185QA and 185R.
 
 Termination by accepting a proposal: s 185P
@@ -510,9 +510,9 @@ s 185PC: see AFSA's Claim and Vote form.
 The debt agreement is terminated when the termination proposal is accepted:
 s 185P(3).
 Termination – designated six-month arrears default: s 185QA
-[9.95] Section 185QA provides that, if an administrator notiﬁes the Official
+[9.95] Section 185QA provides that, if an administrator notifies the Official
 Receiver pursuant to s 185LC of a designated six-month arrears default,9 and the
-Official Receiver is satisﬁed that such a default has occurred, the Official Receiver
+Official Receiver is satisfied that such a default has occurred, the Official Receiver
 must declare in writing that the agreement is terminated and record the
 termination on the NPII. Upon the termination being recorded on the NPII the
 agreement is terminated.
@@ -536,7 +536,7 @@ explained at [8.05].
 Declaring a debt agreement void: ss 185T, 185U
 [9.110] A court can order that an agreement or part of it is void on the
 application of a creditor or the Official Receiver if either, on the one hand, there is
-doubt on a speciﬁed ground that all or part of the agreement was not made
+doubt on a specified ground that all or part of the agreement was not made
 according to Pt IX or contravenes the Part; or, alternatively, the statement of affairs
 of the debtor lodged with the proposal for the agreement was defective in that it
 omitted a material particular or it was incorrect in a material particular: ss 185T(1)
@@ -547,11 +547,11 @@ A court must not declare that an agreement is void in two situations, namely:
 • on the ground that it does not comply with Pt IX, where it substantially complies
   with that Part: s 185U(2);
 
-9 As deﬁned in s 185, read in conjunction with s 185LC; and see AFSA's Notiﬁcation of Six Months
+9 As defined in s 185, read in conjunction with s 185LC; and see AFSA's Notification of Six Months
   Arrears Default of Debt Agreement.
 [9.115]                                                       9 Debt Agreements   367
 
-• on the ground of the deﬁciency of the statement of affairs where the court is not
+• on the ground of the deficiency of the statement of affairs where the court is not
   convinced that it is in the creditors' interest that the agreement be declared void:
   s 185U(3).
 An application for an order that the agreement is void can only be made before the
@@ -580,9 +580,9 @@ s 185V.
 
 Termination by court orde: s 185Q
 [9.115] The court may terminate an agreement on the application of the debtor, a
-creditor or the Official Receiver: s 185Q(1). The court must be satisﬁed of one of the
+creditor or the Official Receiver: s 185Q(1). The court must be satisfied of one of the
 following (s 185Q(4)):
-• the debtor has failed to fulﬁl one of the terms of the agreement and that it is in
+• the debtor has failed to fulfil one of the terms of the agreement and that it is in
   the interest of creditors to terminate;
 • carrying out the terms of the agreement would cause injustice or undue delay to
   the creditors or the debtor; or
@@ -631,7 +631,7 @@ DEBT AGREEMENT ADMINISTRATORS
 Registration of administrators
 [9.120] Division 8 of Pt IX sets out the process for a person becoming registered
 as an administrator. At present, someone who administers only a small number of
-agreements – no more than ﬁve at any one time -need not be registered.10
+agreements – no more than five at any one time -need not be registered.10
 That option is being removed by the 2018 Bill.
 Section 186A provides for a "basic eligibility test" for an applicant applying to be
 registered. The criteria are set out in IGPS 9 – Involuntary cancellation of registration of
@@ -656,7 +656,7 @@ limit debt agreements.11
 Application for registration as an administrator: s 186B
 [9.125] The process of applying to be registered as a debt agreement
 administrator differs from that applying to the registration of trustees. Although
-certain qualiﬁcations and experience are required, the applications can be dealt
+certain qualifications and experience are required, the applications can be dealt
 with "on the papers" and no interview is required, although in practice they are
 usually conducted. Under the 2018 Bill an interview will be required.
 An application may be made by an individual or a company.12 The application fee
@@ -666,7 +666,7 @@ Under s 186C the Inspector-General must approve or refuse to approve a
 registration application within 60 days of receiving it. Approval will be given
 where the applicant passes the basic eligibility test, has the ability and knowledge
 to satisfactorily perform the duties of a RDAA, and has the prescribed accounting
-or related qualiﬁcations: see reg 9.02. Otherwise, the Inspector-General must refuse
+or related qualifications: see reg 9.02. Otherwise, the Inspector-General must refuse
 to approve the application. In deciding whether to approve an application for
 registration, the Inspector-General must have regard to any relevant guidelines in
 force under s 186Q: s 186C(6). See [9.118].
@@ -691,9 +691,9 @@ Registration as an administrator: s 186D
 [9.130] The consequences of the Inspector-General approving an application for
 registration are based on the system already in place for registered trustees. The
 Inspector-General must register the applicant as a RDAA on the NPII and a
-certiﬁcate of registration may be issued to the applicant: s 186D.
+certificate of registration may be issued to the applicant: s 186D.
 Proposed s 186HA under the 2018 Bill would require debt agreement administrators
-to maintain adequate and appropriate professional indemnity and ﬁdelity
+to maintain adequate and appropriate professional indemnity and fidelity
 insurance. This is comparable with the requirement for bankruptcy trustees with
 the same high penalty – up to 1000 penalty units – for intentional or reckless
 default.
@@ -701,11 +701,11 @@ Initial registration lasts for three years, beginning when the person's details 
 entered on the NPII. Renewal of registration remains in force for three years
 beginning immediately after the administrator's existing renewal expires: s 186E.
 An on-gong registration fee of $1,700 is payable every three years.
-Under s 186F, the Inspector-General can impose speciﬁed conditions on a person's
+Under s 186F, the Inspector-General can impose specified conditions on a person's
 registration. These may be imposed as a result of a review of the administrator's
 practice by AFSA. This may be as to the need for further training in a particular
-area in which the administrator's conduct is deﬁcient, a bar on administering new
-debt agreements whilst remedial action is being taken to address any deﬁciencies,
+area in which the administrator's conduct is deficient, a bar on administering new
+debt agreements whilst remedial action is being taken to address any deficiencies,
 or providing regular information to the Inspector-General about the progress of
 debt agreements.14
 In relation to a company, s 186G provides that it must be a condition of registration
@@ -727,7 +727,7 @@ Cancellation of an individual's registration as an administrator: s 186K
 [9.135] Section 186K sets out when and how an individual's registration as an
 administrator can be cancelled. The Inspector-General must cancel the registration
 if the person no longer passes the basic eligibility test and other similar grounds set
-out in s 186K(3), including the proposed insurance requirements, and a "ﬁt and
+out in s 186K(3), including the proposed insurance requirements, and a "fit and
 
 14 See the "Explanatory Memorandum to the Bankruptcy Legislation Amendment (Debt Agreements)
    Bill 2007".
@@ -747,22 +747,22 @@ s 186M
 [9.140] The Inspector-General can declare that an administrator who is not
 registered and is not a registered trustee is ineligible to administer debt agreements.
 This may occur in relation to an administrator who is not required to be registered
-because he or she is administering not more than ﬁve debt agreements. The process
+because he or she is administering not more than five debt agreements. The process
 to be followed in these cases mirrors that which applies in relation to cancellation
 of a registered administrator's registration. A person (being an individual or a
-company) must return their certiﬁcate of registration to the Inspector-General
+company) must return their certificate of registration to the Inspector-General
 where they have surrendered their registration or their registration is cancelled.
-Failure to return the certiﬁcate is an offence: s 186N.
+Failure to return the certificate is an offence: s 186N.
 Given the proposed change in the law under the 2018 Bill, this section would be
 repealed.
 
 Duties of administrators: Div 3A
-[9.145] Division 3A of Pt IX deﬁnes the general duties of administrators
-(s 185LA); and speciﬁc duties in respect of notifying creditors of three-month
+[9.145] Division 3A of Pt IX defines the general duties of administrators
+(s 185LA); and specific duties in respect of notifying creditors of three-month
 arrears default by the debtor (s 185LB),16 notifying the Official Receiver of a
 designated six-month arrears default by the debtor (s 185LC), the banking of debt
 agreement funds (s 185LD) and the keeping and transfer of records: ss 185LE and
-185LF. The division also clariﬁes that certain other duties are considered to be
+185LF. The division also clarifies that certain other duties are considered to be
 duties of an administrator in relation to a debt agreement: s 185LG.
 Sections 185ZCA and 185ZCB provide that a party adversely affected by
 misconduct or a breach of duty of an administrator can apply to the courts for a
@@ -785,12 +785,12 @@ Action required when debtor defaults
 [9.148] There are two levels of action required if the debtor defaults under the
 debt agreement, usually by not paying required instalments:
 i) the administrator must notify creditors of the debtor's "three-month arrears
-   default": s 185LB. This is a minimum statutory notiﬁcation requirement and does
+   default": s 185LB. This is a minimum statutory notification requirement and does
    not prevent administrators from keeping creditors informed more regularly.17
 ii) the administrator must notify the Official Receiver of a designated six-month
     arrears default by the debtor (s 185LC), within 10 business days. Such a default
     will occur if a debtor has made no payments for a period of six months or has
-    failed to complete the agreement within six months of the time speciﬁed in the
+    failed to complete the agreement within six months of the time specified in the
     agreement for its completion. Creditors would also need to be informed.
 Administrators must give the Inspector-General an annual estate return similar to
 that required by trustees: s 185LEA. The return is lodged through AER Online: see
@@ -812,12 +812,12 @@ provide an incoming administrator with an account of the receipts and payments i
 each administration. This section is modelled on s 164 which applies to trustees in
 bankruptcy.
 As to the conduct of administrators, their duties include any duties that do not
-relate to a speciﬁc agreement: s 185LG(1). This seeks to ensure that "breaches of
+relate to a specific agreement: s 185LG(1). This seeks to ensure that "breaches of
 such duties attract the consequences of breaching the duties of an administrator in
 relation to a debt agreement, such as possible deregistration and the making of
 orders pursuant to s 185ZCA".18
 Under s 185LG(2), an administrator is explicitly required to ensure that any
-s 185C(2D) certiﬁcate they sign is correct and that this is also considered to be a
+s 185C(2D) certificate they sign is correct and that this is also considered to be a
 duty of an administrator in relation to a debt agreement, notwithstanding that an
 
 17 See the "Explanatory Memorandum to the Bankruptcy Legislation Amendment (Debt Agreements)
@@ -844,11 +844,11 @@ wishing to be registered as debt agreement administrators.
 To assist the Inspector-General, powers are given to regulate debt agreements and
 administrators.19 Sections 186LA – 186LE assist the Inspector-General to determine
 whether debt agreement funds have been properly dealt with and, if necessary, to
-safeguard any funds held at a ﬁnancial institution pending the outcome of any
+safeguard any funds held at a financial institution pending the outcome of any
 process to determine whether to declare ineligible or deregister an administrator.
 Section 186LA provides the Inspector-General with the power to direct a bank or
-other ﬁnancial institution at which debt agreement moneys are held to provide
-relevant information. The Inspector-General must ﬁrst issue a "show cause" notice
+other financial institution at which debt agreement moneys are held to provide
+relevant information. The Inspector-General must first issue a "show cause" notice
 to the administrator pursuant to ss 186K or 186ML, or, in the case of a trustee,
 under IPSB, s 40-40(1)(m).
 If the information obtained is of concern, the Inspector-General can direct the bank
@@ -872,13 +872,13 @@ Inspector-General Practice Guideline 1 IGPG 1 –Guidelines relating to advertis
 19 See IGPS 11 – Monitoring and inspection of bankruptcy trustees & debt agreement administrators.
 374      Keay's Insolvency: Personal and Corporate Law and Practice                         [9.160]
 
-marketing of debt agreements. This is a signiﬁcant issue given the vulnerability of
-many consumer debtors in ﬁnancial difficulties. Concern has been expressed by the
-Inspector-General at "lead generating ﬁrms" who offered to sell to administrators
-lists of prospective debtors who have been "cold called" by the ﬁrms to see
+marketing of debt agreements. This is a significant issue given the vulnerability of
+many consumer debtors in financial difficulties. Concern has been expressed by the
+Inspector-General at "lead generating firms" who offered to sell to administrators
+lists of prospective debtors who have been "cold called" by the firms to see
 whether they are interested in entering a debt agreement or other form of
 insolvency. AFSA has directed administrators to cease any engagements with such
-ﬁrms, based on IGPG 1.20
+firms, based on IGPG 1.20
 
 The Personal Insolvency Professionals Association
 [9.160] The Personal Insolvency Professionals Association (PIPA) is the
@@ -887,7 +887,7 @@ members comprise trustees and liquidators. PIPA offers guidance and assistance t
 its members to assist with their compliance with the legal and practice
 requirements, including the guidance issued by AFSA. It seeks to promote best
 practice of registered RDAAs through its Code of Professional Practice and to
-educate consumers generally on the beneﬁts and advantages of proposing a debt
+educate consumers generally on the benefits and advantages of proposing a debt
 agreement. See http://www.pipa.net.au.
 
 CONCLUSION
@@ -902,7 +902,7 @@ adjusted.
 At the same time, the higher level of regulation the 2018 Bill would appear to be
 necessary. As one commentator has said "what was intended as an informal and
 cheaper way to deal with essentially consumer debtors, has burgeoned into a
-signiﬁcant sector of the consumer debt management industry", needing to be
+significant sector of the consumer debt management industry", needing to be
 regulated not only by AFSA, but also through thenational consumer protection
 laws regulated by ASIC.21
 Since then, an evaluation of the debt agreement framework has recommended that
@@ -919,7 +919,7 @@ dispute resolution processes.22 This raises the potential for the new Australian
 [9.165]                                                                  9 Debt Agreements     375
 
 Financial Complaints Authority23 to be given a role in the regulation of debt
-agreements and more broadly, debt management ﬁrms.
+agreements and more broadly, debt management firms.
 
                                Chapter 9 – Debt Agreements
  Bankruptcy       Part IX – Debt Agreements – ss 185 – 186Q
@@ -931,7 +931,7 @@ agreements and more broadly, debt management ﬁrms.
                   IGPD 3 – What constitutes an expense recoverable in a debt agreement by an
                   administrator
                   IGPD 10 – Treatment of secured creditors in a Part IX debt agreement
-                  IGPD 13 – RDAAs' guidelines to certiﬁcation requirements
+                  IGPD 13 – RDAAs' guidelines to certification requirements
                   IGPD 15 – RDAAs' guidelines relating to keeping proper accounts
                   IGPD 16 – Guidelines relating to administrators' duty to notify the Official
                   Receiver of 6 month arrears default

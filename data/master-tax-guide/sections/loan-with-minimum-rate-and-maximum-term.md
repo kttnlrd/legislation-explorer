@@ -17,7 +17,7 @@ A loan by a private company is not taken to be a Div 7A dividend in the income y
 
 Variable/Banks/Standard" rate last published by the Reserve Bank of Australia before the start of the company's income year, and
 
-- the loan term does not exceed the speciﬁed "maximum term".
+- the loan term does not exceed the specified "maximum term".
 
 The elements of the agreement that need to be in writing for these purposes are: (a) the names of the parties; (b) the terms of the loan (ie the amount of the loan, the date that the loan amount is drawn, the requirement to repay the loan amount, the period of the loan and the interest rate payable); (c) that the parties have agreed to the terms; and (d) when the written agreement was made, eg the date it was signed or executed. These essential elements may be contained in a formal written loan agreement or, for example, in an exchange of letters, emails, faxes or other means of communication, if they are dated, and provide written evidence of the terms of the loan agreement and the parties' acceptance of those terms (TD 2008/8).
 
@@ -35,7 +35,7 @@ Maximum term The maximum term is 25 years if the loan is fully secured by a regi
 
 Example In 2023–24 Private Co makes an unsecured loan of $50,000 to its majority shareholder, Henry. The loan is covered by a signed and dated agreement which is entered into before Private Co's lodgment day for 2023–24 and states that the loan is for a term of 5 years with interest calculated at the benchmark interest rate applicable to the relevant year.
 
-As the requirements for documentation, minimum interest rate and maximum term have been fulﬁlled, the loan will not be treated as a deemed dividend in 2023–24.
+As the requirements for documentation, minimum interest rate and maximum term have been fulfilled, the loan will not be treated as a deemed dividend in 2023–24.
 
 However, the loan will form all or part of an amalgamated loan (see below) to Henry for 2023–24. If Henry fails to make the minimum yearly repayment for the amalgamated loan in 2024–25 or a later year, a deemed dividend will arise in that year (¶4-240).
 

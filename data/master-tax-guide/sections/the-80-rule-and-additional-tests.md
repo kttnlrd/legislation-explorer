@@ -7,7 +7,7 @@ paragraph: "¶30-670"
 ---
 # The 80% rule and additional tests ¶30-670
 
-If the results test is not satisﬁed, it is necessary to consider the 80% rule (ITAA97 s 87-15). This rule operates in the following way:
+If the results test is not satisfied, it is necessary to consider the 80% rule (ITAA97 s 87-15). This rule operates in the following way:
 
 - if 80% or more of an individual's personal services income (PSI) in the income year is from one
 
@@ -17,13 +17,13 @@ If the results test is not satisﬁed, it is necessary to consider the 80% rule 
 
 - if 80% or more of the PSI is not from one entity, the income will be exempt from the PSI regime if
 
-  the individual satisﬁes any of the following tests:
+  the individual satisfies any of the following tests:
 
 – the unrelated clients test – the employment test, or – the business premises test.
 
-The 80% rule does not apply to income earned by an employee or, after the 2001–02 year, payments to an individual as an oﬃceholder or as a religious practitioner. Special rules apply to commission-based agents that make it easier for them to show that their income is from more than one source (¶30-675).
+The 80% rule does not apply to income earned by an employee or, after the 2001–02 year, payments to an individual as an officeholder or as a religious practitioner. Special rules apply to commission-based agents that make it easier for them to show that their income is from more than one source (¶30-675).
 
-The source of the PSI is determined by referring to the entity that has the contractual obligation to pay the service provider. Where a contract to provide services is entered into with a labour hire ﬁrm or similar arrangement, the labour hire ﬁrm is the source of the income for the purposes of the 80% rule as it is the labour hire ﬁrm that has the contractual obligation to pay the individual sole trader or personal services entity (PSE) (TR 2022/3).
+The source of the PSI is determined by referring to the entity that has the contractual obligation to pay the service provider. Where a contract to provide services is entered into with a labour hire firm or similar arrangement, the labour hire firm is the source of the income for the purposes of the 80% rule as it is the labour hire firm that has the contractual obligation to pay the individual sole trader or personal services entity (PSE) (TR 2022/3).
 
 Unrelated clients test An individual or PSE (service provider) meets the unrelated clients test in an income year if:
 
@@ -31,21 +31,21 @@ Unrelated clients test An individual or PSE (service provider) meets the unrelat
 
   associates of each other and are not associates of the service provider, and
 
-- the services are provided as a direct result of the service provider making oﬀers or invitations
+- the services are provided as a direct result of the service provider making offers or invitations
 
-(eg by advertising) to the public at large or to a section of the public (ITAA97 s 87-20). Oﬀers or invitations may also be made by public tenders or word of mouth referrals. They are less likely to be made to a "section of the public" if they are made to a limited number of entities or to related entities (TR 2022/3).
+(eg by advertising) to the public at large or to a section of the public (ITAA97 s 87-20). Offers or invitations may also be made by public tenders or word of mouth referrals. They are less likely to be made to a "section of the public" if they are made to a limited number of entities or to related entities (TR 2022/3).
 
-The second limb of the test is not satisﬁed by the service provider merely being available to provide the services through an entity that conducts a business of arranging for persons to provide services directly for its clients (eg an agent or labour hire ﬁrm).
+The second limb of the test is not satisfied by the service provider merely being available to provide the services through an entity that conducts a business of arranging for persons to provide services directly for its clients (eg an agent or labour hire firm).
 
 Example At the instigation of her employer (Appliances), an engineer has her employment contract terminated and replaced by a contract for the provision of engineering services. The engineer provides services to Appliances and to Products, an associate of Appliances. She also, as a result of placing advertisements in industry journals, provides services to another company (Metals) that is not related to any other relevant parties.
 
-The engineer will not satisfy the unrelated clients test as she only has one unrelated client (Metals). Appliances does not qualify because the services are provided to it as a result of its own actions, rather than the engineer making an oﬀer or invitation to the public. Products does not qualify because it is an associate of Appliances.
+The engineer will not satisfy the unrelated clients test as she only has one unrelated client (Metals). Appliances does not qualify because the services are provided to it as a result of its own actions, rather than the engineer making an offer or invitation to the public. Products does not qualify because it is an associate of Appliances.
 
-If the engineer had a second eligible unrelated client, she would have satisﬁed the unrelated clients test. In that event, and assuming that 80% or more of her income was not from one source, she would not be subject to the PSI regime. (Based on TR 2022/3.) In Yalos Engineering 2010 ATC ¶10-139; [2010] AATA 408, the taxpayer's sole income in the 2003–04 and 2004–05 income years was from the one labour hire ﬁrm under a contract for services as an oﬀshore installation engineer for BHP Billiton. The taxpayer's expertise was relevant only to a very small number of companies engaged in oﬀshore petroleum exploration and mining. It had regular personal contact with the companies to assess their needs and learned of work opportunities by word of mouth and personal recommendations. It did not advertise in newspapers, brochures or other media which would have been inappropriate in the circumstances. The court found the taxpayer satisﬁed the unrelated clients test. The taxpayer's clients constituted "a section of the public". The services were provided either as a direct result of the taxpayer having made oﬀers or invitations to the public or to a section of the public.
+If the engineer had a second eligible unrelated client, she would have satisfied the unrelated clients test. In that event, and assuming that 80% or more of her income was not from one source, she would not be subject to the PSI regime. (Based on TR 2022/3.) In Yalos Engineering 2010 ATC ¶10-139; [2010] AATA 408, the taxpayer's sole income in the 2003–04 and 2004–05 income years was from the one labour hire firm under a contract for services as an offshore installation engineer for BHP Billiton. The taxpayer's expertise was relevant only to a very small number of companies engaged in offshore petroleum exploration and mining. It had regular personal contact with the companies to assess their needs and learned of work opportunities by word of mouth and personal recommendations. It did not advertise in newspapers, brochures or other media which would have been inappropriate in the circumstances. The court found the taxpayer satisfied the unrelated clients test. The taxpayer's clients constituted "a section of the public". The services were provided either as a direct result of the taxpayer having made offers or invitations to the public or to a section of the public.
 
 A taxpayer who provided drafting services to a small number of personal contacts and relationships, but did not advertise the services, failed the unrelated clients test (Cameron 2012 ATC ¶20-320; [2012] FCAFC 76).
 
-The one-oﬀ approaches to or from the taxpayer's clients were not oﬀers or invitations to the public at large or a section of the public. A taxpayer did not satisfy the unrelated clients test just by having a LinkedIn proﬁle which, it was argued, was an advertisement of his services to the public. None of the taxpayer's clients made their decision to engage the taxpayer's services as a direct result of an oﬀer or invitation constituted by the taxpayer's LinkedIn proﬁle (Fortunatow 2020 ATC ¶20-758; [2020] FCAFC 139).
+The one-off approaches to or from the taxpayer's clients were not offers or invitations to the public at large or a section of the public. A taxpayer did not satisfy the unrelated clients test just by having a LinkedIn profile which, it was argued, was an advertisement of his services to the public. None of the taxpayer's clients made their decision to engage the taxpayer's services as a direct result of an offer or invitation constituted by the taxpayer's LinkedIn profile (Fortunatow 2020 ATC ¶20-758; [2020] FCAFC 139).
 
 Special rules apply to commission-based agents that make it easier to comply with the unrelated clients test (¶30-675).
 
@@ -73,6 +73,6 @@ Business premises test An individual or a PSE (service provider) meets the busin
 
 It is not necessary to use the same premises for the entire year.
 
-In Dixon Consulting 2007 ATC 2550; [2007] AATA 1786, the AAT held that a building consisting of an oﬃce and a garage adjacent to residential premises occupied by a director of the taxpayer and his family did not satisfy the business premises test because the taxpayer did not have exclusive use of the garage.
+In Dixon Consulting 2007 ATC 2550; [2007] AATA 1786, the AAT held that a building consisting of an office and a garage adjacent to residential premises occupied by a director of the taxpayer and his family did not satisfy the business premises test because the taxpayer did not have exclusive use of the garage.
 
 *Refs: ITAA97 s 87-15), ITAA97 s 87-20), ITAA97 s 87-25), ITAA97 s 87-30)*

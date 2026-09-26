@@ -89,16 +89,16 @@ chapter on restructuring (Ch 21).
 
 As we explained in Chapter 19, voluntary administration can be an effective tool
 for permitting an investigation of options for the insolvent company, allowing the
-creditors to see what might best beneﬁt them given the company's position and
+creditors to see what might best benefit them given the company's position and
 prospects. It also provides breathing space for the company, with protection from
 its creditors whilst it is under the control of an experienced administrator.
-However, voluntary administration itself does not purport to ﬁnally address the
+However, voluntary administration itself does not purport to finally address the
 company's insolvency. Voluntary administration is a conduit to the company's
 future rather than an end in itself. To be seen as a corporate rescue measure,
 administration is only preparatory to another insolvency administration, namely a
 deed of company arrangement ("DOCA" or "deed"). If the creditors' approve the
 company entering into a deed, it may be that the deed will see a successful
-restructuring of the company and the business may return to proﬁtability.
+restructuring of the company and the business may return to profitability.
 Alternatively, the deed may act simply as a means to maximise the outcomes for
 the creditors of the company, by way of a dividend return from a more structured
 sale of the company's assets in its winding up. This outcome does not represent a
@@ -141,24 +141,24 @@ administration has ended.
 The efficacy of deeds in actually achieving the goals set out for voluntary
 administration in s 435A has been a topic of considerable public debate in recent
 times. There is little quantitative data on outcomes of deeds but a 2013 study3
-produced these key ﬁndings:
+produced these key findings:
 • 77% of deeds involves less than $1.5 million in unsecured debts;
 • the median duration of deeds was 11 months;
 • 75% of deeds involved the return of control of the company to its existing
   management;
 • 72% of deeds were used for "quasi-liquidations" with only 28% resulting in
   continued trading of the business.
-Perhaps the most signiﬁcant ﬁnding of this study is the paltry return to creditors:
+Perhaps the most significant finding of this study is the paltry return to creditors:
 less than six cents in the dollar. However, this is still more than the vast majority of
 liquidations which return no funds to creditors. Also, deeds more often allow a
-continuation of the business and of staff employment. It is also signiﬁcant that the
+continuation of the business and of staff employment. It is also significant that the
 government safety net scheme for employees, the Fair Entitlements Guarantee
 (FEG), is not available for companies going through deeds; there is an expectation
 that the deed will properly attend to payment of the employees.
 
 Types of deeds
 [20.10] There are few restrictions on the types of deeds that can be executed. The
-idea of the legislation is to permit ﬂexibility so that the contents of any deed are
+idea of the legislation is to permit flexibility so that the contents of any deed are
 able to meet the particular circumstances of the company and its creditors. The
 types of arrangement made can often bear similarity to those entered into under
 Pt 5.1 of the Act. The arrangement may involve:
@@ -169,7 +169,7 @@ Pt 5.1 of the Act. The arrangement may involve:
   over a longer period of time;
 • a restructuring of the company's debts whereby some or all of the creditors agree
   to accept assets, shares or other securities in exchange for some or all of their
-  debts being satisﬁed; or
+  debts being satisfied; or
 • a mixture of these arrangements.
 In some cases, creditors may agree to a deed whereby the administrator simply
 sells the business of the company over a period in an orderly way, with the
@@ -200,14 +200,14 @@ in respect of the receipt of dividends from the deed: see for example, Brooke v 
 Lorac Avenue Pty Ltd (1994) 14 ACSR 717 (related party creditors were subordinated).
 Creditors may agree to accept differing dividend rates for different creditors or
 classes of creditors.
-It is important to note that the signiﬁcance of obtaining majority creditor approval
+It is important to note that the significance of obtaining majority creditor approval
 for the execution of a deed is that the terms of the deed will bind all creditors, even
 those who did not vote or did not vote in favour of the deed: s 444D(1). Secured
 creditors are given limited protection under s 444D(2).
 
 Pooling arrangements
 [20.15] The concept of the pooling of assets and liabilities of a corporate group
-was discussed in the context of liquidations, where there are now speciﬁc pooling
+was discussed in the context of liquidations, where there are now specific pooling
 provisions – see [15.310] – [15.325]. There are no provisions in Pt 5.3A that allow
 pooling in administrations but there is a history of cases where deeds of company
 arrangement have been used for this purpose.4
@@ -228,7 +228,7 @@ Dean-Willcocks v Soluble Solution Hydroponics Pty Ltd (1997) 42 NSWLR 209.5
   needed as the creditors had the power to implement pooling deeds without court sanction.
 840     Keay's Insolvency: Personal and Corporate Law and Practice                           [20.20]
 
-The court needs to be satisﬁed that creditors have been fully informed about the
+The court needs to be satisfied that creditors have been fully informed about the
 implications of the pooling arrangement and that they raise no objections. This
 cannot be demonstrated merely by the fact that no creditor voices an objection – a
 vote by the creditors must be conducted: Re Tayeh [2005] NSWSC 475; (2005) 53
@@ -263,9 +263,9 @@ under a deed of company arrangement: see for example Re Bluenergy Group Ltd
 case, the court removed the administrators as it was considered that their
 continued appointment would frustrate the operation of the DOCA.
 However, many companies, having had their debts compromised after a period of
-insolvency, often trade out of their difficulties and continue proﬁtably after the
+insolvency, often trade out of their difficulties and continue profitably after the
 period of the deed's operation concludes. In such cases, an important object of
-Pt 5.3A, the survival of the company, has been fulﬁlled. The success or failure of
+Pt 5.3A, the survival of the company, has been fulfilled. The success or failure of
 voluntary administration is not judged solely by the continued operation of the
 company via a deed of company arrangement however.
 
@@ -277,13 +277,13 @@ company via a deed of company arrangement however.
 [20.35]                                                 20 Deeds of Company Arrangement      841
 
 ADVANTAGES OF DEEDS
-[20.25] The advantages of a successful deed ﬂow to the creditors and the
+[20.25] The advantages of a successful deed flow to the creditors and the
 company and its directors, the expressed aim of Pt 5.3A being to produce a better
 outcome for all parties than a liquidation of the company.
 
 For the company and its directors
 [20.30] Often the advantage for a company is that it can continue to trade,
-generally with its usual customers, and survive its ﬁnancial difficulties by relying
+generally with its usual customers, and survive its financial difficulties by relying
 upon the compromise effects implemented by the deed on existing creditor claims.
 It is usual for existing unsecured debts, including leasing costs and tax obligations,
 to be extinguished by the deed. However, if the company trades on under a deed, it
@@ -292,20 +292,20 @@ is generally required to disclose this fact in its public documents – XYZ Pty 
 creditors from dealing with it: s 450E. Hence, there is some incentive to offer a deed
 that involves early payment of an agreed amount to creditors so that the deed
 administration terminates quickly.
-Some of the more particular potential beneﬁts of a deed of company arrangement
+Some of the more particular potential benefits of a deed of company arrangement
 for the company's directors are:
 • the avoidance of the stigma of being seen as those who managed a company to
    liquidation;
 • the end of pressure from creditors;
-• the potential to remove damaging contractual obligations, such as unproﬁtable
+• the potential to remove damaging contractual obligations, such as unprofitable
    leases, from the company's ongoing obligations;
 • that there are no investigations pursued by a liquidator;
-• tax beneﬁts – carrying forward past losses as deductions against future proﬁts;8
-• obtaining potential beneﬁts from the advice of the deed administrator in
+• tax benefits – carrying forward past losses as deductions against future profits;8
+• obtaining potential benefits from the advice of the deed administrator in
    restoring and developing the company's business.
 
 For the creditors
-[20.35] The beneﬁt for the creditors is the potential for a better dividend than
+[20.35] The benefit for the creditors is the potential for a better dividend than
 would be received if the company went into liquidation. A higher dividend may be
 paid because:
 • directors and others associated with the company might be willing to contribute
@@ -320,14 +320,14 @@ paid because:
   orders/work from customers.
 Other possible advantages include:
 
-8 See Sommer, Schoﬁeld and Gates, Tax & Insolvency (3rd ed, Thomson Reuters, 2011), Ch 12.
+8 See Sommer, Schofield and Gates, Tax & Insolvency (3rd ed, Thomson Reuters, 2011), Ch 12.
 842    Keay's Insolvency: Personal and Corporate Law and Practice                [20.40]
 
 • selection of the deed administrator, on the basis of their experience in a
   particular industry in which the company operates – for example
   telecommunications or hospitality – or the extent of resources available to the
   administrator, for example in a large corporate restructuring. This can help to
-  strengthen creditor conﬁdence in the ability of the management team to
+  strengthen creditor confidence in the ability of the management team to
   resuscitate the struggling business;
 • creditors who supplied goods and services to the company in the past are able to
   retain a customer for future trading;
@@ -348,7 +348,7 @@ A deed of company arrangement may be proposed by any interested party,
 including the directors, shareholders or creditors. A deed must, however, be
 approved by the company's creditors at the second meeting that occurs in a
 voluntary administration: s 439A.
-The meeting is required to be held within ﬁve business days before or after the end
+The meeting is required to be held within five business days before or after the end
 of the convening period, which is itself 20 or 25 business days in duration
 (depending on public holidays). At this meeting the administrator is required to
 propose one of three courses of action to the creditors concerning the future of the
@@ -378,7 +378,7 @@ administrator mentioned the sale of assets verbally at the creditors' meeting th
 court held that the deed formally executed was not one approved by the creditors
 because it included key information that was not disclosed to them in the report.
 This resulted in a declaration that no valid deed existed and that the failure of the
-company, within the 15 business days period speciﬁed in s 444B(2), to execute a
+company, within the 15 business days period specified in s 444B(2), to execute a
 deed in conformity with the resolution of the creditors had the effect that, under
 s 446A(1)(b), the company entered into a creditors' winding up with the
 administrators becoming the liquidators. The court held in the alternative that
@@ -405,11 +405,11 @@ s 448A.
 As with voluntary administrators, the appointment of a deed administrator is not
 able to be revoked: s 449A. The court has the power under IPSC, s 90-15 to remove
 an administrator of a deed of company arrangement on the application of (IPSC,
-s 90-20) a person with a ﬁnancial interest in the administration (which includes the
+s 90-20) a person with a financial interest in the administration (which includes the
 company, a creditor, or an external administrator: see IPSC, s 5-30) ASIC or the
 committee of inspection; the same section applies to voluntary administrators: see
 [19.155].
-Also, and as with voluntary administrators, the court is permitted to ﬁll vacancies
+Also, and as with voluntary administrators, the court is permitted to fill vacancies
 in the office of administrator (s 449C) and, like voluntary administrators, two or
 more persons may be appointed as joint deed administrators: s 451B.
 844      Keay's Insolvency: Personal and Corporate Law and Practice                             [20.50]
@@ -426,16 +426,16 @@ matters must be included in the deed. These are listed in s 444A(4) and include:
   the deed; and
 • the order in which the proceeds of the property of the company are to be
   distributed amongst creditors.
-Certain provisions will apply to a deed unless speciﬁcally excluded: s 444A(5). The
-Corporations Regulations, reg 5.3A.06 provides that these provisions are speciﬁed
+Certain provisions will apply to a deed unless specifically excluded: s 444A(5). The
+Corporations Regulations, reg 5.3A.06 provides that these provisions are specified
 in Sch 8A of the regulations.9 There is no indication in the legislation to what extent
-the prescribed provisions in Sch 8A may be excluded or modiﬁed before the deed
+the prescribed provisions in Sch 8A may be excluded or modified before the deed
 can be set aside. Nevertheless, as indicated above, deeds may take a variety of
 forms and depending on the purpose of the deed, many of the provisions in Sch 8A
 may not be necessary. For example, under many deeds an administrator is only
 required to collect payments periodically from the company and distribute them to
 the creditors according to the terms of the deed. In other deeds the administrator is
-required to control the company's business. Although deeds are ﬂexible instruments,
+required to control the company's business. Although deeds are flexible instruments,
 their binding effect cannot extend beyond the terms of, Pt 5.3A Div 10: Lehman
 Brothers Holdings Inc v City of Swan [2010] HCA 11; (2010) 240 CLR 509 (where
 releases involving creditor rights against third parties were held to sit outside the
@@ -500,7 +500,7 @@ company.
 The obligations on all parties involved with a deed, including the creditors, stem
 from the combined operation of the deed and the relevant provisions of the
 Corporations Act. The combined effect of ss 444A and 444D is that a deed binds all
-creditors of the company that existed prior to the date speciﬁed in the deed,
+creditors of the company that existed prior to the date specified in the deed,
 
 11 Section 447A uses the word "claims" to mean the same thing as the phrase "debts and claims" as
    used in s 556: Re Baseline Constructions Pty Ltd (Subject to DOCA) [2017] NSWSC 1018.
@@ -520,7 +520,7 @@ bound by it during the period between the creditors' meeting and execution of th
 deed: s 444C. The administrator is also entitled, prior to the execution of the deed,
 to seek an order of the court that a secured creditor not be permitted to realise or
 deal with its security in order to protect the property used by the company for the
-beneﬁcial operation of the deed: s 444F.
+beneficial operation of the deed: s 444F.
 
 Notice and lodgement
 [20.60] The deed administrator must send to each creditor of the company
@@ -568,7 +568,7 @@ not triggered by the company's entry into a deed of company arrangement. Indeed,
 the stay against ipso facto clauses will end when the deed is executed (ie "when the
 administration ends"): s 451E(2)(a). However, s 451E(4) provides that such rights as
 are caught in the stay period during administration remain unenforceable
-indeﬁnitely after the end of the stay. The protection against ipso facto clauses
+indefinitely after the end of the stay. The protection against ipso facto clauses
 during administration is discussed in Chapter 19.
 
 "Subject to deed of company arrangement"
@@ -577,7 +577,7 @@ company arrangement" must be inserted in brackets after the company name on
 every public document and eligible negotiable instrument of the company: s 450E,
 subject to leave of the court to dispense with these words. Application to the court
 for leave can be made by the administrator or any interested person. The court may
-only grant leave if it is satisﬁed that to do so will not result in any signiﬁcant risk to
+only grant leave if it is satisfied that to do so will not result in any significant risk to
 the interest of the company's creditors, including contingent or prospective
 creditors, as a whole.
 Such an application was refused under the previous law (using s 447A) in
@@ -593,8 +593,8 @@ NSWSC 836; (2003) 21 ACLC 1,661, 1,665 Bryson J said that:
    workings of the law persons who come to deal with the company in the future would
    have."
 
-The section now speciﬁcally permits such applications to be made but there still
-needs to be evidence that there will be no "signiﬁcant risk" to the company's
+The section now specifically permits such applications to be made but there still
+needs to be evidence that there will be no "significant risk" to the company's
 creditors as a whole.
 848      Keay's Insolvency: Personal and Corporate Law and Practice                               [20.80]
 
@@ -602,7 +602,7 @@ Creditors' trusts
 [20.80] One mechanism that has been developed to address these concerns is the
 use of a creditors' trust by which the company is quickly moved out of the deed of
 company arrangement regime and the stigma involved. This typically involves
-changing creditor rights against the company into rights as a beneﬁciary of a trust
+changing creditor rights against the company into rights as a beneficiary of a trust
 whose funds are set up by the deed (usually from asset sales as required under the
 deed). The company's debts are extinguished by the deed and the deed can be
 terminated as having achieved its purpose (which is to establish the trust fund) and
@@ -612,7 +612,7 @@ creditors' trust device can be achieved very quickly, even within a day or two a
 executing the deed. Creditors must appreciate, however, that such a device
 fundamentally changes their legal rights as they stop being creditors under a deed
 of company arrangement and thereby lose the rights and protection of the Act.
-Creditors who become beneﬁciaries under a creditors' trust deed will, however,
+Creditors who become beneficiaries under a creditors' trust deed will, however,
 have rights and remedies under State-based trust law. In that respect, concerns
 have been expressed regarding the operation of creditors' trust deeds.13 But as the
 court said in Re Bevillesta Pty Ltd [2011] NSWSC 417, whatever might be the
@@ -640,7 +640,7 @@ change a company's name without the need for a special resolution of members,
 
 13 See Parkview Constructions Pty Ltd v Tayeh [2009] NSWSC 186; (2009) 71 ACSR 65; see ASIC
    Regulatory Guide (RG 82) – External Administration: Deeds of Company Arrangement Involving a
-   Creditors' Trust, May 2005. That Guide is being updated by ASIC to reﬂect judicial criticism of an
+   Creditors' Trust, May 2005. That Guide is being updated by ASIC to reflect judicial criticism of an
    aspect of it in Re Bevillesta Pty Ltd [2011] NSWSC 417; see ASIC Corporate Insolvency Update, Issue 6,
    December 2017.
 14 "Explanatory Memorandum to the Corporations Amendment (Insolvency) Bill 2007 (Cth)", at
@@ -649,7 +649,7 @@ change a company's name without the need for a special resolution of members,
 
 where it is in the interests of creditors as a whole to do so. Given that a company
 name is an asset that may have some value as part of a business sale, facilitating a
-change of name may serve to maximise the value of that asset for the beneﬁt of
+change of name may serve to maximise the value of that asset for the benefit of
 creditors.15
 
 On the directors
@@ -705,14 +705,14 @@ the security interest" unless the DOCA so provides, and the secured creditor vot
 in its favour. Subsection 444D(2)(b) also recognises that a court may make an order
 restricting the secured creditor's rights under s 444F.
 The deed would not bind a creditor whose debt is not provable, even if it arose
-before the date in the deed, for example, a ﬁne or penalty that came within s 553B
+before the date in the deed, for example, a fine or penalty that came within s 553B
 of the Act.18
 
 Winding up
 [20.100] Once a deed is executed, a creditor who is bound by a deed is unable to
 apply for a winding up order against the company; nor can it proceed with such an
 application that was pending: s 444E(2). Where such a pending application was
-ﬁled before the commencement of the voluntary administration, a costs order can
+filed before the commencement of the voluntary administration, a costs order can
 be made against the company where the application is dismissed and the creditor
 who applied for the winding up is bound by the deed.
 Section 444E(2) does not have the effect of terminating a winding up application –
@@ -770,7 +770,7 @@ On secured creditors
 its security interest are not limited by the operation of the deed unless the secured
 creditor voted in favour of the deed or it was prevented by court order: s 444D(2).
 This provision is necessary because otherwise secured creditors would be bound by
-the deed as they ﬁt within the term "all creditors" in s 444D(1). Of course, it is
+the deed as they fit within the term "all creditors" in s 444D(1). Of course, it is
 possible for the terms of the deed to exclude particular creditors, and it is common
 to explicitly provide in a deed that nominated secured creditors are excluded. The
 right to realise or otherwise deal with a security interest includes the power to
@@ -778,7 +778,7 @@ appoint a voluntary administrator under s 436C if the nature of the security int
 is over the whole or substantially the whole of the company's assets: Re Bluenergy
 Group Ltd [2015] NSWSC 977; (2015) 107 ACSR 373 at [72] per Black J.
 In that case, a company with two secured creditors entered into administration
-followed by a deed. The ﬁrst secured creditor entered into a debt for equity swap
+followed by a deed. The first secured creditor entered into a debt for equity swap
 which left the second secured creditor as the only remaining secured creditor over
 "all present and after-acquired property of the company" (ALLPAP).23 The deed
 extinguished the debts of the company, including the debt (a right in personam)
@@ -789,18 +789,18 @@ s 444D(2). There is nothing in Pt 5.3A that prevents a company operating under a
 deed from entering voluntary administration. However, in this case the voluntary
 
 22 See J & B Records Ltd v Brashs Pty Ltd (1995) 36 NSWLR 172.
-23 "ALLAP" is the PPSA equivalent of a ﬁxed and ﬂoating charge under pre-PPSA law.
+23 "ALLAP" is the PPSA equivalent of a fixed and floating charge under pre-PPSA law.
 852     Keay's Insolvency: Personal and Corporate Law and Practice                           [20.120]
 
 administration effectively frustrated the operation of the deed and the court
 terminated the voluntary administration under s 447A. The court noted that there
 was nothing to prevent the secured creditor from appointing a receiver.
-Secured creditor is deﬁned in s 51E as meaning a creditor of the corporation whose
-debt is secured by a "security interest". A security interest is deﬁned in s 51A as
+Secured creditor is defined in s 51E as meaning a creditor of the corporation whose
+debt is secured by a "security interest". A security interest is defined in s 51A as
 either a PPSA security interest, or a charge, lien or pledge.24 This includes suppliers
-with retention of title rights and ﬁnance lessors and long-term lessors of personal
+with retention of title rights and finance lessors and long-term lessors of personal
 property. Prior to 30 January 2012 these parties had been covered by s 444D(3) as
-owners and lessors, but are now classiﬁed as "secured creditors". Non-PPSA
+owners and lessors, but are now classified as "secured creditors". Non-PPSA
 secured parties (ie, owners and lessors without PPSA security interests) may be
 covered by s 444(3).
 Secured creditors may have a security interest that includes ALLPAP ("all present
@@ -817,7 +817,7 @@ provided by the default deed provisions in Sch 8A, item 6 of the regulations. A
 deed may extinguish a secured debt so that there is no longer any debt owed
 following the execution of the deed: Re Bluenergy Group Ltd [2015] NSWSC 977;
 (2015) 107 ACSR 373. This includes a right to receive future rent: Lam Soon Australia
-Pty Ltd v Molit (No 55) Pty Ltd (1996) 70 FCR 34; Henaford v Strathﬁeld Group Ltd
+Pty Ltd v Molit (No 55) Pty Ltd (1996) 70 FCR 34; Henaford v Strathfield Group Ltd
 [2009] NSWSC 539; (2009) 72 ACSR 240.
 Similarly, the deed may extinguish a contingent liability owed to the secured
 creditor under a guarantee arising under a pre-administration contract that has not
@@ -831,11 +831,11 @@ JJA; Re Bluenergy Group Ltd [2015] NSWSC 977; (2015) 107 ACSR 373 at [49], [66] 
 Black J.
 In order to stop a dissenting secured creditor from threatening the viability of the
 entire deed, the court has the power to order that a creditor not realise or deal with
-the security (s 444F(2)) if satisﬁed that such an exercise would have a material
+the security (s 444F(2)) if satisfied that such an exercise would have a material
 adverse effect on achieving the purposes of the deed and that the creditor's
 interests will be adequately protected under the deed: s 444F(3). The applicant for
 
-24 That is, a security interest recognised under the PPSA: Corporations Act, s 51. The deﬁnition of
+24 That is, a security interest recognised under the PPSA: Corporations Act, s 51. The definition of
    security interest under s 51 does not require that the security interest be "perfected" within the
    meaning of the PPSA.
 [20.125]                                                   20 Deeds of Company Arrangement          853
@@ -848,7 +848,7 @@ proceedings in order to enforce their rights, they are required to obtain the le
 the court under s 444E, even if they did not vote in favour of the deed: J & B Records
 Ltd v Brashs Pty Ltd (1995) 36 NSWLR 172. According to the court in that case, this
 occurs because ss 444D, 444E and 444F set up a code relating to court proceedings
-in respect of claims arising on or before the day speciﬁed in the deed, with the
+in respect of claims arising on or before the day specified in the deed, with the
 result that the court will have general control of such proceedings by way of
 deciding whether leave to proceed should be granted.
 
@@ -867,7 +867,7 @@ rights, assuming that they arise under circumstances that exist prior to the
 appointment of the administrator (the "relevant day" for the purposes of ss 444A,
 444D), may be compromised or even extinguished by the deed: see the discussion
 in Re Baseline Constructions Pty Ltd (Subject to DOCA) [2017] NSWSC 1018.
-An example of this occurred in Henaford Pty Ltd v Strathﬁeld Group Ltd [2009]
+An example of this occurred in Henaford Pty Ltd v Strathfield Group Ltd [2009]
 NSWSC 539; (2009) 72 ACSR 240, where a deed proposed a creditors' trust that
 would allow the business to continue trading. The deed also extinguished the
 lessor's rights to future rents, which the lessor challenged as being unfair given
@@ -890,7 +890,7 @@ administration commences.
 
 It should be noted that an administrator will have personal liability for rental
 obligations during the administration (not including the DOCA) unless they give
-notice to the owner or lessor under s 443B within ﬁve business days of their
+notice to the owner or lessor under s 443B within five business days of their
 appointment that states that the company does not propose to exercise rights in
 relation to it. Such a notice does not necessarily repudiate the lease and the lessee
 (debtor) company may continue to accrue liabilities under the lease; however, these
@@ -906,7 +906,7 @@ under administration did not mean that it was not required to obtain leave under
 s 444E, when the company was subject to the deed. The administration under the
 deed represented a different administration from the voluntary administration.
 The court will only order an owner or lessor not to take possession of its property if
-it is satisﬁed that taking possession would have a materially adverse effect on
+it is satisfied that taking possession would have a materially adverse effect on
 achieving the purposes of the deed, and having regard to the terms of the deed, the
 terms of the order and any relevant matter, the interests of the owner or lessor
 would be adequately protected: s 444F(5). The use of the term "adequate
@@ -933,7 +933,7 @@ Lander J held that the interests that require protection should be assessed as a
 [20.130]                                                     20 Deeds of Company Arrangement           855
 
 time just before the company enters administration, rather than by reference to the
-commercial advantages that the lessor sought to beneﬁt from due to the company's
+commercial advantages that the lessor sought to benefit from due to the company's
 administration.28
 As with the situation facing secured creditors, owners or lessors of property who
 voted in favour of a deed may later need to initiate legal proceedings to enforce
@@ -956,10 +956,10 @@ under a guarantee or indemnity given by a third party, whose liability remains:
 s 444J. This had been the conclusion of case law (see, for example, Re Andersens
 Home Furnishing Co Pty Ltd (1996) 14 ACLC 1,710) but s 444J was introduced in 2007
 in order to provide certainty.30 In Lehman Brothers Holdings Inc v City of Swan [2010]
-HCA 11; (2010) 240 CLR 509, the High Court conﬁrmed that deeds which
+HCA 11; (2010) 240 CLR 509, the High Court confirmed that deeds which
 purported to obtain releases by creditors of rights they may have against third
 parties were not permitted. Even where a deed provides that a guaranteed debt is
-deemed to be fully satisﬁed, this will not affect the creditors' rights against the third
+deemed to be fully satisfied, this will not affect the creditors' rights against the third
 party guarantor.31
 
 28 See also Re Hi-Fi Sydney Pty Ltd [2015] NSWSC 1312, where a landlord also terminated a long-term
@@ -994,7 +994,7 @@ s 181.33 A deed administrator is also an "external administrator" under the IPSC
 s 5-20, which means that Pt 3 of the IPSC will apply to deeds of company
 arrangements and deed administrators.
 In carrying out the duties arising under the deed, the administrator is acting as the
-agent of the company (Sch 8A, cl 134), and has the beneﬁt of the powers contained
+agent of the company (Sch 8A, cl 134), and has the benefit of the powers contained
 in cl 2 of that Schedule. This clause grants to the administrator an extensive and
 broad range of powers necessary for the administration of the deed. These include
 powers of sale, to sue and be sued, to call for and assess proofs of debt, to conduct
@@ -1003,8 +1003,8 @@ instead insert appropriate provisions in the deed as needed for the particular
 circumstances of the company.
 The continued independence of the deed administrator remains important. If any
 issue arises during the administration of the deed in which the administrator has a
-conﬂict of interest, he or she may need to be replaced. Any such issues should
-properly be anticipated before being appointed as deed administrator. If a conﬂict
+conflict of interest, he or she may need to be replaced. Any such issues should
+properly be anticipated before being appointed as deed administrator. If a conflict
 nevertheless arises, the court may decide to appoint a "special purpose
 administrator" under s 447A to deal with the particular issue in hand.35 The court
 may also use s 447A orders to remove a deed administrator, to appoint an
@@ -1014,7 +1014,7 @@ Liability for tax
 [20.140] The administrator of a deed has a potential liability for relevant tax
 instalment deductions due, but unremitted, to the Commissioner of Taxation, in
 relation to the earlier administration of the company: s 443BA. The administrator's
-right to be indemniﬁed from company property extends to that liability but not
+right to be indemnified from company property extends to that liability but not
 
 32 See Hill v David Hill Electrical Discounts Pty Ltd [2001] NSWSC 271; (2001) 37 ACSR 617.
 33 See Glover and Duns, "Insolvency Administrations at General Law: Fiduciary Obligations of
@@ -1022,7 +1022,7 @@ right to be indemniﬁed from company property extends to that liability but not
    "Miracle Workers or Ambulance Chasers? The Role of Administrators in the Part 5.3A Process"
    (2004) 12 Insolv LJ 238.
 34 As we have explained, s 444A(5) makes Sch 8A of the regulations applicable to all deeds unless it is
-   speciﬁcally excluded: see [20.50].
+   specifically excluded: see [20.50].
 35 See the summary in Hughes v Receivers and Managers of Westgem Investments Pty Ltd (No 3) [2012]
    WASC 360 at [18].
 [20.150]                                                 20 Deeds of Company Arrangement     857
@@ -1043,7 +1043,7 @@ provided for under a remuneration determination approved by a resolution of the
 creditors, or committee of inspection (if not approved by a resolution of the
 creditors) or if there is no such agreement or resolution, by the court: IPSC, ss 60-5,
 60-10.37 The court can also review any remuneration that has already been
-determined, on the application of a person with a ﬁnancial interest in the external
+determined, on the application of a person with a financial interest in the external
 administration (see IPSC, s 5-30), or ASIC: IPSC, s 60-11.38 In exercising those
 powers, the court must take into account the factors listed in IPSC, s 60-12, such as
 the extent to which the work done was reasonably necessary, the complexity and
@@ -1079,14 +1079,14 @@ an application for the examination will have to be made to the court under s 596
 The court has a discretion whether or not to permit a s 596B examination. In
 Flanders v Beatty (1995) 16 ACSR 324, the administrators of a deed executed by
 Brashs successfully applied to the court for the issue of a summons to examine the
-members of an accounting ﬁrm which acted as auditors of the company, as well as
+members of an accounting firm which acted as auditors of the company, as well as
 seeking the production of documents relating to professional negligence insurance
-policies of the ﬁrm. The court said that in enacting Pt 5.3A the legislature was of the
+policies of the firm. The court said that in enacting Pt 5.3A the legislature was of the
 view that administrators should have the same power to engage in examining
 persons as liquidators. Administrators are permitted to examine where the object of
 the examination is to advance the administration of the deed. The court rejected the
 argument that the examination was improper because only designated creditors,
-and not the company as a whole, would beneﬁt.
+and not the company as a whole, would benefit.
 The deed administrator was also supported in Re Italo-Australian Centre [2002] 1 Qd
 R 254, the court declining to limit the questions able to be asked in an examination
 only to those matters that the deed authorised the administrators to investigate.
@@ -1105,7 +1105,7 @@ ASIC can only authorise an examination during the term of the deed: Ariff v Fong
 ADMINISTRATION OF THE DEED
 [20.155] What actually needs to be done in the administration of the deed
 depends almost totally on the terms of the deed. The tasks required where there is
-a compromise will obviously differ from those required where a major ﬁnancial and
+a compromise will obviously differ from those required where a major financial and
 operational restructuring is envisaged. The following discussion focuses principally
 on the standard powers and responsibilities of an administrator contained in
 Sch 8A of the Corporations Regulations. It should be noted that if the tasks required
@@ -1121,7 +1121,7 @@ call for proofs of debt from those creditors who are subject to the deed, and ma
 [20.165]                                         20 Deeds of Company Arrangement   859
 
 decision whether to accept or reject them. At that point, a creditor has the right to
-seek court orders under IPSC, s 90-15 if dissatisﬁed with the administrator's
+seek court orders under IPSC, s 90-15 if dissatisfied with the administrator's
 decision.
 
 What claims are provable?
@@ -1135,7 +1135,7 @@ admissible to proof. Most often, this date will be the date of the voluntary
 administrator's appointment.
 A starting point in considering the effect of this section is to see what is meant by
 the word "creditor" as it is used in Pt 5.3A. In s 444D(1), it is not limited merely to
-those who had debts that were presently due and payable by the date speciﬁed in
+those who had debts that were presently due and payable by the date specified in
 the deed. The Appeal Division of the Supreme Court of Victoria in Brash Holdings
 Ltd v Katile Pty Ltd [1996] 1 VR 24 preferred a broad interpretation on the basis that
 the purpose of s 444D(1) was to ensure all creditors with claims arising on or before
@@ -1144,7 +1144,7 @@ word "creditors" in Pt 5.3A does not differ substantially from its use elsewhere
 the Corporations Act in relation to winding up. Thus, the term "creditors" for the
 purposes of Pt 5.3A should be interpreted in the same way as if the company had
 gone into liquidation and the "relevant date" for the purposes of s 553 for the
-determination of provable debts was the date speciﬁed in the deed. In that respect,
+determination of provable debts was the date specified in the deed. In that respect,
 s 553 provides that all debts payable by, and all claims against, a company in
 liquidation (present or future, certain or contingent, ascertained or sounding only
 in damages) are admissible in the winding up, conditional on the circumstances
@@ -1160,7 +1160,7 @@ not a claim for the purposes of a deed. The nature of the purported creditor's r
 under that Act was distinguished from claims for compensation under the Trade
 Practices Act 1974 (Cth) (now the Australian Consumer Law) or s 1041H of the
 Corporations Act for misleading or deceptive conduct. Those statutes provide for
-compensation once loss ﬂowing from the misleading conduct is established. In
+compensation once loss flowing from the misleading conduct is established. In
 contrast, the Industrial Relations Act only allows compensation following the
 exercise of judicial discretion; it is not concerned with compensation as an
 enforcement of legal rights. The purported creditor did not have a claim that arose
@@ -1198,7 +1198,7 @@ claim is not ascertained (either in accordance with the terms of the lease or as
 damages at law) until after the administrator's appointment as a result of either the
 administrator's repudiation (accepted by the lessor) or the termination of the lease
 by the lessor (exercising a contractual right to do so) would be a claim arising on or
-before the speciﬁed date, being the date of the deed.
+before the specified date, being the date of the deed.
 The Full Court also said that where a lender lends money on the security of a
 mortgage given by the borrowing company, the claims of the lender for principal
 and interest are claims arising on or before the date of appointment even though
@@ -1206,7 +1206,7 @@ the contract of loan provides that payments are to be made by periodic instalmen
 It has been argued that lessors should not be bound in respect of future breaches of
 covenant; if a repudiation of a lease occurred after the date of the voluntary
 administrator's appointment then it is arguable that the claim is not admissible as it
-did not arise until after that date.40 However, there is justiﬁcation for saying that a
+did not arise until after that date.40 However, there is justification for saying that a
 lessor should be bound in respect of liability of the company for payment of future
 rent.
 
@@ -1229,7 +1229,7 @@ in Re Motor Group Australia Pty Ltd [2005] FCA 985; (2005) 54 ACSR 389, the cour
 saying that even if the claims were "mere expectancies", s 447A of the Corporations
 Act could be used to include them as creditors. However, the court in BE Australia
 WD Pty Ltd v Sutton [2011] NSWCA 414; (2011) 82 NSWLR 336 read down this
-decision in ﬁnding that warranty claimants are in fact contingent creditors,
+decision in finding that warranty claimants are in fact contingent creditors,
 suggesting that if Re Motor Group held otherwise, it was incorrect: at [206]. In ACCC
 v Phoenix Institute of Australia, it was held that the ACCC was a contingent creditor
 under a DOCA in respect of claims for relief under the ACL for misleading or
@@ -1238,7 +1238,7 @@ In summary, the courts determine whether a claim is admissible or not according 
 the principles that have become reasonably settled in relation to liquidations.43
 Under those principles, most claims against a company (provided they are based
 on an existing legal obligation owed by the company at the time of the voluntary
-administrator's appointment, the usual date speciﬁed in the deed) will be subject to
+administrator's appointment, the usual date specified in the deed) will be subject to
 the deed, thus allowing the company to continue to trade with no past claims
 surviving.
 
@@ -1334,7 +1334,7 @@ to be maintained in a deed, subject to employees agreeing that it not apply. Thi
 statutory priority was introduced as a result of the 2007 changes. Previously,
 employees had themselves to "initiate potentially expensive court proceedings to
 challenge a DOCA that treat[ed] them unfairly". The legislature considered that
-"[t]he ﬂexibility of the voluntary administration procedure and the policy of
+"[t]he flexibility of the voluntary administration procedure and the policy of
 encouraging business rescues are not unduly compromised" by this priority.47
 Section 444DA(1) requires all deeds to include a provision to the effect that the
 assets of the company are applied such that eligible employee creditors are entitled
@@ -1344,7 +1344,7 @@ not apply if, by resolution, eligible employee creditors consent to the non-incl
 of such a provision at a meeting which is held before the s 439A meeting. The
 administrator must convene the meeting by giving written notice of the meeting to
 as many of the company's eligible employee creditors as reasonably practicable at
-least ﬁve business days before the meeting, together with a statement setting out
+least five business days before the meeting, together with a statement setting out
 the administrator's opinion about whether it would be in the eligible employee
 creditors' interests to not include the provision in s 444DA(1) in the deed, the
 reasons for that opinion and other information that will enable the employee
@@ -1358,7 +1358,7 @@ creditors to make an informed decision.49
 864     Keay's Insolvency: Personal and Corporate Law and Practice                          [20.195]
 
 Section 444DA(5) allows the court to approve an alteration of the employee
-priorities in a deed, if the court is satisﬁed the alteration is likely to result in the
+priorities in a deed, if the court is satisfied the alteration is likely to result in the
 same or a better outcome for eligible employee creditors than would result from an
 immediate winding up of the company.50 An application may be made by the
 administrator of the deed, any eligible employee creditor or any interested person.
@@ -1373,7 +1373,7 @@ to unpaid superannuation entitlements of an employee, with proofs lodged by both
 the employee and the ATO, in relation to the superannuation guarantee charge
 (SGC), because the two classes of debt were see as legally distinct. Section 444DB
 now provides that only the SGC should be admitted. It includes an interest
-component, which provides employees a greater beneﬁt.
+component, which provides employees a greater benefit.
 There is a similar provision for liquidations: s 553AB.
 
 Payment of dividends
@@ -1394,7 +1394,7 @@ Other procedural requirements
 Sch 8A of the Corporations Regulations.
 There may be a committee of inspection which will assist and advise the
 administrator: cl 11. The provisions in the Corporations Act that address committees
-of inspection in liquidations are to apply, with the necessary modiﬁcations.
+of inspection in liquidations are to apply, with the necessary modifications.
 
 50 See Re Vouris and Tonks as Deed Administrators of Good Impressions Offset Printers Pty Ltd [2012]
    NSWSC 603.
@@ -1411,7 +1411,7 @@ VARIATION OF THE DEED
 
 Section 445F
 [20.215] Importantly, the deed of company arrangement regime allows for
-ﬂexibility in that deeds may be varied, under Corporations Act, s 445A (by a
+flexibility in that deeds may be varied, under Corporations Act, s 445A (by a
 creditors' meeting convened under Div 75 of the IPSC and ), rather than simply
 being terminated or avoided in the case of some unanticipated circumstance.
 A meeting to consider a variation of the terms of a deed may be convened by the:
@@ -1472,18 +1472,18 @@ It is convenient to examine these out of the order in s 445C.
 
 Termination in accordance with the deed: s 445C(c)
 [20.230]    At the time a deed is approved and executed, it is hoped that the deed
-is administered properly, the company is able to fulﬁl the terms of the deed and the
+is administered properly, the company is able to fulfil the terms of the deed and the
 circumstances in the deed providing for the termination of the deed duly occur,
 namely the achievement of the aims of the deed, including the survival of the
 company and the payment out of the expected dividend to creditors; in that case,
 s 445C(c) applies. The deed must state the circumstances in which the deed is to
-end (s 444A(4)(g)) which will often be when the ﬁnal payment is made: see DCT v
+end (s 444A(4)(g)) which will often be when the final payment is made: see DCT v
 BE100 Property Investments Pty Ltd [2016] FCA 597. The company will then continue
 as a solvent company with no restrictions remaining from its time in administration,
 and with the claims of all past creditors covered by the deed extinguished.
 
 Termination by notice: s 445FA
-[20.235] It is important that the public record formally reﬂect that the company
+[20.235] It is important that the public record formally reflect that the company
 has come out of external administration and that control of the company has
 reverted to directors. Section 445FA therefore requires a deed administrator to
 notify ASIC when the deed administrator has applied all of the proceeds of the
@@ -1493,7 +1493,7 @@ full sum determined by creditors to be received under the deed, or all the
 54 See Re GIGA Investments Pty Ltd (1995) 17 ACSR 547; Erol v Cavus [2012] QSC 371.
 [20.245]                                                 20 Deeds of Company Arrangement        867
 
-obligations under the deed have been fulﬁlled. Notice of termination of the deed
+obligations under the deed have been fulfilled. Notice of termination of the deed
 must be lodged with ASIC within 28 days.
 
 Termination by a meeting of creditors: ss 445C(b), 445E
@@ -1511,7 +1511,7 @@ wound up.
 Thus, the deed may specify that certain goals are to be achieved, for example, on a
 monthly basis, and if this does not occur then the creditors' meeting can be held at
 which they can decide to end the deed: s 445C(b). However, creditors may only do
-this if there has been a breach of the deed and the breach has not been rectiﬁed
+this if there has been a breach of the deed and the breach has not been rectified
 before the resolution is passed: s 445CA.55 According to the "Explanatory
 Memorandum to the Corporations Amendment (Insolvency) Bill 2007 (Cth)", at
 [7.22], the breach need not be material but minor or technical breaches should be
@@ -1533,14 +1533,14 @@ terminate a deed. The section is as follows:
    Section 445D
    When Court may terminate deed
    (1) The Court may make an order terminating a deed of company arrangement if
-       satisﬁed that:
+       satisfied that:
 
 55 See Whittingham; Re The Spanish Club Ltd [2009] NSWSC 1426. Directors have an obligation to inform
    the deed administrator if they become aware that the deed has been or is likely to be materially
    contravened: s 445HA.
 868     Keay's Insolvency: Personal and Corporate Law and Practice                       [20.250]
 
-       (a) information about the company's business, property, affairs or ﬁnancial
+       (a) information about the company's business, property, affairs or financial
             circumstances that:
             (i) was false or misleading; and
             (ii) can reasonably be expected to have been material to creditors of the company
@@ -1569,19 +1569,19 @@ of s 445D are discussed further at [20.255].57
 
 Voiding or validating a deed: s 445G
 [20.250] In addition, the deed may be voided or validated under s 445G when
-there is "doubt, on a speciﬁc ground, whether a deed of company arrangement was
+there is "doubt, on a specific ground, whether a deed of company arrangement was
 entered into in accordance with" Pt 5.3A or complies with it. This section says:
    Section 445G
    When Court may void or validate deed
-   (1) Where there is doubt, on a speciﬁc ground, whether a deed of company arrangement
+   (1) Where there is doubt, on a specific ground, whether a deed of company arrangement
        was entered into in accordance with this Part or complies with this Part, the
        administrator of the deed, a member or creditor of the company, or the Commission,
        may apply to the Court for an order under this section.
    (2) On an application, the Court may make an order declaring the deed, or a provision of
-       it, to be void or not to be void, as the case requires, on the ground speciﬁed in the
+       it, to be void or not to be void, as the case requires, on the ground specified in the
        application or some other ground.
    (3) On an application, the Court may declare the deed, or a provision of it, to be valid,
-       despite a contravention of a provision of this Part, if the Court is satisﬁed that:
+       despite a contravention of a provision of this Part, if the Court is satisfied that:
 
 56 Allatech Pty Ltd v Construction Management Group Pty Ltd [2002] NSWSC 293; (2002) 41 ACSR 587;
    approved by the NSW Court of Appeal in BE Australia WD Pty Ltd v Sutton [2011] NSWCA 414;
@@ -1596,7 +1596,7 @@ entered into in accordance with" Pt 5.3A or complies with it. This section says:
    (4) Where the Court declares a provision of a deed of company arrangement to be void,
        the Court may by order vary the deed, but only with the consent of the deed's
        administrator.
-Section 445G generally applies to situations where there has been some deﬁciency
+Section 445G generally applies to situations where there has been some deficiency
 in or non-compliance with the statutory processes leading up to the deed being
 approved and executed; such as the adequacy of execution of the deed,58 or the use
 or validity of proxies (Employers' Mutual Indemnity (Workers' Compensation) Ltd v JST
@@ -1627,7 +1627,7 @@ Section 445G is to be applied strictly but at the same time s 445G(3) is a "safe
 valve" to allow an arrangement to proceed despite some defect: FCT v Comcorp
 Australia Ltd (1996) 70 FCR 356; (1996) 14 ACLC 1616.
 The power under s 445G(2) to declare a deed void includes the power to declare
-part of the deed void as against a speciﬁed person: Winterton Constructions Pty Ltd v
+part of the deed void as against a specified person: Winterton Constructions Pty Ltd v
 M A Coleman Joinery Co Pty Ltd (1996) 132 FLR 247.
 
 58 For a discussion of the execution requirements, see MYT Engineering Pty Ltd v Mulcon Pty Ltd (1999)
@@ -1650,10 +1650,10 @@ creditors, that alone was not enough to warrant orders under s 445D where
 liquidation would not produce a more favourable result for creditors than
 continuing with the deed. Similarly, in DCT v Pddam Pty Ltd (1996) 14 ACLC 659,
 the court declined to set aside a deed under s 445G because this would not confer
-any practical beneﬁt on any creditor; the loss of beneﬁts under the deed would not
+any practical benefit on any creditor; the loss of benefits under the deed would not
 impose real hardship on employees (who were being paid fully under the deed);
 and no other creditor, save for the applicant, opposed the deed.
-The onus of proving the justiﬁcation for such orders is on the applicant. For
+The onus of proving the justification for such orders is on the applicant. For
 example, it is not incumbent on the administrator to prove the sufficiency of their
 s 439A report: Mediterranean Olives Financial Pty Ltd v Loaders Traders Pty Ltd (No 2)
 [2011] FCA 178; (2011) 82 ACSR 300.
@@ -1661,12 +1661,12 @@ Applications under s 445D will often plead a number of the grounds set out in th
 section, and there will be overlap between them based on the particular facts that
 have occurred, in addition to any grounds under s 445G.61 Thus, in Australian
 Guarantee Corporation v Lawrence (1999) 17 ACLC 1,226, the creditor's application
-was based on alleged deﬁciencies in proxies and the meeting process (s 445G), as
+was based on alleged deficiencies in proxies and the meeting process (s 445G), as
 well as on lack of information given to the creditors: s 445D. Resort may also be
 had to the court's broad power under s 447D: DCT v Woodings (1995) 13 WAR 189.
-Section 445D is most often used by a dissatisﬁed creditor who seeks to challenge
+Section 445D is most often used by a dissatisfied creditor who seeks to challenge
 the deed. In JA Pty Ltd v Jonco Holdings [2000] NSWSC 147; (2000) 33 ACSR 691, the
-court made a ﬁnding of dishonest conduct by the company, its directors and its
+court made a finding of dishonest conduct by the company, its directors and its
 related creditors in the way the deed was put forward as a means to defeat the
 plaintiff creditor's claims. The administrator had been deprived of the necessary
 books and records, he had been misled as to the right of the company to pursue
@@ -1685,7 +1685,7 @@ and (c), and there was injustice and oppression and unfair prejudice under
 [20.255]                                                20 Deeds of Company Arrangement        871
 
 s 445D(1)(e) and (f).62 In terms of the objects of Pt 5.3A, the court considered that
-the creditors would beneﬁt more from a liquidation of the company than through a
+the creditors would benefit more from a liquidation of the company than through a
 deed, in particular because of a liquidator's access to the $3 million trust property.
 Further, in reliance on s 445D(1)(g), the fact that related creditors who did not claim
 under the deed would remain be in a better position than those the creditors who
@@ -1709,14 +1709,14 @@ a better return than the proposed deed: DCT v TMPL Pty Ltd (No 3) [2011] FCA
 1403; (2011) 289 ALR 69.
 A creditor will often apply under s 445D(1)(c) on the basis of omission of relevant
 information from the statement or report of the administrator. However, the court
-must ﬁnd that it would have been material to the creditor's decision. In
+must find that it would have been material to the creditor's decision. In
 determining whether the information was material, the Full Federal Court in DCT v
 Comcorp Australia Pty Ltd (1996) 70 FCR 356; 14 ACLC 1616 said that if creditors had
 requested further information from the administrator, which had not been
 provided, then the omission of that material from the statement would support the
 view that the information was material to the creditors in making their decision.
 But if it is considered by the court that the creditors acting on that information may
-have approved a modiﬁed deed, then the court can order that the deed be so
+have approved a modified deed, then the court can order that the deed be so
 varied.63 In determining the materiality of any missing or incorrect information,
 evidence can be led that the creditors would not in fact have voted any differently,
 or the court may adjourn the proceedings and invite the administrator to obtain
@@ -1739,7 +1739,7 @@ allow more information to be obtained, or whether an extension of the convening
 period under s 439A should be sought in order to allow more time to prepare and
 gather information for the meeting, or whether the meeting should simply
 proceed.65
-Lack of notiﬁcation of a creditor, or creditors, of the meeting, and hence their
+Lack of notification of a creditor, or creditors, of the meeting, and hence their
 non-attendance, can be a ground for termination of a deed.66 In JA Pty Ltd v Jonco
 Holdings [2000] NSWSC 147, (2000) 33 ACSR 691, the court rejected the argument
 that the vote would not have been different had all creditors attended the meeting;
@@ -1790,9 +1790,9 @@ creditor there will be no basis to impugn such arrangements": Hayes v Doran (No 
 12, 38.
 There must be reasonable grounds for that differentiation that are in accord with
 the object and spirit of Pt 5.3A: Lam Soon Australia Pty Ltd v Molit (No 55) Pty Ltd
-(1996) 70 FCR 34 (where the lessor creditor of an unproﬁtable business that was
-closed down was paid less than those creditors of the proﬁtable business that
-continued to operate under a deed). A deed can provide for different beneﬁts to
+(1996) 70 FCR 34 (where the lessor creditor of an unprofitable business that was
+closed down was paid less than those creditors of the profitable business that
+continued to operate under a deed). A deed can provide for different benefits to
 different creditors provided that all creditors receive as far as possible no less than
 the amount they would receive in a winding up of the company: Lam Soon. Thus,
 circumstances may apply where certain creditors must be paid in full to ensure
@@ -1804,18 +1804,18 @@ Oppression, a ground under s 445D(1)(f), may arise where there is an unfair
 distinction made between creditors, such as terms in favour of a related creditor:
 BGC Contracting Pty Ltd v Kimberly Gold Pty Ltd (2000) 35 ACSR 633. It has also been
 used as a basis of a creditor's application in circumstances where the shareholder of
-a company associated with a director had obtained a collateral beneﬁt, and the
+a company associated with a director had obtained a collateral benefit, and the
 deed served to force the company to continue a trading relationship with people in
-whom it had no conﬁdence. This happens particularly when there is no advantage
+whom it had no confidence. This happens particularly when there is no advantage
 for the creditors in the third party obtaining the collateral advantage: Kalon Pty Ltd
 v Sydney Land Corp Pty Ltd (No 2) (1998) 26 ACSR 593. Oppression may also arise
 where personal guarantees given to a creditor are sought to be extinguished: M & S
 Butler Investments Pty Ltd v Granny May's Franchising Pty Ltd (1997) 15 ACLC 1501.68
 But mere advantage to third parties, even directors, is no ground for setting aside a
-deed if there is good reason for that ﬁnancial arrangement: Employers' Mutual
+deed if there is good reason for that financial arrangement: Employers' Mutual
 Indemnity (Workers' Compensation) Ltd v JST Transport Services Pty Ltd (1997) 70 FCR
 450; [1997] FCA 66. The fact that a deed may only operate for a short period before
-the company is expected to again become proﬁtable is a factor against a deed being
+the company is expected to again become profitable is a factor against a deed being
 terminated: Employers' Mutual Indemnity v JST.
 In Commonwealth v Rocklea Spinning Mills Pty Ltd [2005] FCA 902; (2005) 145 FCR
 220, the Commonwealth had distributed moneys to employees of the insolvent
@@ -1897,7 +1897,7 @@ Commissioner of State Revenue v Rafferty's Resort Management Pty Ltd [2008] NSWS
 452; (2008) 66 ACSR 199 where, despite what the court saw as an abuse of process
 in relation to the available relation-back provisions in a liquidation, following on
 from a voluntary administration, the terms of s 447A were not broad enough to
-allow the section to be used. Section 447A is conﬁned to being used in relation to
+allow the section to be used. Section 447A is confined to being used in relation to
 Pt 5.3A administrations, an order under the section cannot affect accrued rights,
 and it is to be used only for future events in an administration.72
 
@@ -1909,7 +1909,7 @@ Deputy Commissioner applied to set aside the deed based on, inter alia, the
 claimed inadequacy of investigations by the voluntary administrator. Austin J, in
 noting that the Deputy Commissioner had not indicated any willingness to fund
 further inquiries by the administrator, said that:
-   "if the principal external creditor, presented with a report which reﬂects an adequate
+   "if the principal external creditor, presented with a report which reflects an adequate
    though preliminary investigation, wishes to have further investigations made, and the
    administrator is willing to conduct an additional investigation if costs and expenses are
    met, and no arrangements are made for costs and expenses to be covered, there is no
@@ -1966,7 +1966,7 @@ Supervision by the court
 [20.290]    As explained at [19.175] in relation to voluntary administrators, deed
 administrators are also subject to the supervision of the court, under IPSC, Div
  45 (as registered liquidators) and Div 90 (as external administrators). The court
-can make "such order as it thinks ﬁt", and prior to making orders can take into
+can make "such order as it thinks fit", and prior to making orders can take into
 account the conduct of the deed administrator and whether their conduct has
 
 73 Similar issues arise in relation to Pt X agreements under the Bankruptcy Act: see Chapter 8.
@@ -1975,7 +1975,7 @@ account the conduct of the deed administrator and whether their conduct has
 
 caused loss or damage to any other person. An application under IPSC, s 45-1 may
 be made by ASIC or by the deed administrators, while an application for orders
-under IPSC, s 90-15 may be made by a person with a ﬁnancial interest in the
+under IPSC, s 90-15 may be made by a person with a financial interest in the
 external administration (see IPSC, s 5-30), the committee of inspection, an officer of
 the company or ASIC.
 
@@ -1993,13 +1993,13 @@ held under s 439A: s 446A(2)(a).
 Section 446A(2) says that in those circumstances, a resolution to wind up is deemed
 to have been passed under s 491 and there is deemed to be no declaration of
 solvency as required by s 494. Hence, the administrator/liquidator is obliged to
-lodge, within ﬁve business days of the date of the deemed passing of the resolution
+lodge, within five business days of the date of the deemed passing of the resolution
 to wind up, a written notice stating that the company is taken to have passed a
 resolution to wind up.
 Section 499(2A) – (2C) allows the creditors to appoint a new person as deed
 administrator of the company; if they do not, the existing voluntary administrator
 remains deed administrator.
-If a court orders a deed to be terminated under s 445D, or where the deed speciﬁes
+If a court orders a deed to be terminated under s 445D, or where the deed specifies
 an event of termination and those circumstances exist, the company will move into
 a voluntary liquidation: s 446AA.
 
@@ -2012,7 +2012,7 @@ authorities and others. In the continued conduct of the company's business under
 the deed, such creditors will expect their full debts to be paid on normal trade
 terms. They will know that the company is under a deed because of the prescribed
 words after the company's name in its public documents. While under the deed,
-the company may ﬁnd that it is again unable to pay those liabilities, and may again
+the company may find that it is again unable to pay those liabilities, and may again
 become insolvent, even though it operates under the deed. As we have discussed,
 the further insolvency of a company subject to a deed may be dealt with by way of
 its liquidation, or its further entry into another deed. In such a case, it is open to the
@@ -2026,7 +2026,7 @@ If a deed administrator continues to trade the business of the company while it
 cannot pay its current liabilities to post-deed creditors as they fall due, the
 administrator may be liable for insolvent trading under s 588G if it can be shown
 that he or she acted as a shadow director of the company. Alternatively, the
-administrator may be liable for breach of his or her ﬁduciary duties in those
+administrator may be liable for breach of his or her fiduciary duties in those
 circumstances: Hill v David Hill Electrical Discounts Pty Ltd [2001] NSWSC 271;
 (2001) 19 ACLC 1,000.
 In such a situation where a company that is trading subject to a deed becomes
@@ -2041,7 +2041,7 @@ be dealt with equally in the course of the winding up.
 CONCLUSION
 [20.305] The deed of company arrangement represents an initial successful
 outcome of the process that commenced when the company entered voluntary
-administration. That success is conﬁrmed when the administration of the deed is
+administration. That success is confirmed when the administration of the deed is
 completed, the creditors receive their dividend payments, and the company
 continues on successfully. There will, however, be cases where the deed does not
 allow the company to succeed and its termination will serve to have the company,
@@ -2049,13 +2049,13 @@ and the creditors, face a liquidation that may or may not have been inevitable f
 the beginning. The acceptance of a deed that is not in the interests of creditors,
 through misrepresentation or withholding of information, will also result in a
 failure of the process. Ultimately, the deed represents the attempt by the company
-and its creditors to resolve their joint ﬁnancial predicament; such attempts will
+and its creditors to resolve their joint financial predicament; such attempts will
 succeed or fail depending on many factors, but informed decisions by creditors and
 open disclosure by the company may ensure that the ultimate purpose of Pt 5.3A,
 the survival of the company, will result. It is, however, an expensive process, in
 terms of the necessary involvement of administrators and their staff, who are
 expected to take charge of a company business and produce an intensive and useful
-report for creditors that in the end result may only conﬁrm, after remaining
+report for creditors that in the end result may only confirm, after remaining
 company funds have been expended, that the insolvency of the company cannot be
 remedied other than through liquidation.
 [20.305]                                         20 Deeds of Company Arrangement   879

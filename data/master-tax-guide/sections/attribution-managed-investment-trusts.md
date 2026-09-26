@@ -9,11 +9,11 @@ paragraph: "¶6-405"
 
 An eligible managed investment trust may elect into an attribution regime for the taxation of what are known as attribution managed investment trusts (AMITs). The relevant provisions are contained in ITAA97 Div 276.
 
-For an election to be available, the interests of the members of the trust need to be clearly deﬁned at all times during which the trust is in existence in the income year.
+For an election to be available, the interests of the members of the trust need to be clearly defined at all times during which the trust is in existence in the income year.
 
-An AMIT for an income year is treated as a ﬁxed trust and a member of the AMIT in respect of the income year is treated as having a vested and indefeasible interest in a share of the income and capital of the AMIT throughout the income year. In addition:
+An AMIT for an income year is treated as a fixed trust and a member of the AMIT in respect of the income year is treated as having a vested and indefeasible interest in a share of the income and capital of the AMIT throughout the income year. In addition:
 
-- amounts related to income and tax oﬀsets of an AMIT, determined by the trustee to be of a
+- amounts related to income and tax offsets of an AMIT, determined by the trustee to be of a
 
   particular tax character, are attributed to members, generally retaining that tax character
 
@@ -27,9 +27,9 @@ An AMIT for an income year is treated as a ﬁxed trust and a member of the AMIT
 
   discovered
 
-- the trustee of an AMIT is liable to pay income tax on certain amounts reﬂecting under attribution of
+- the trustee of an AMIT is liable to pay income tax on certain amounts reflecting under attribution of
 
-  income or over attribution of tax oﬀsets
+  income or over attribution of tax offsets
 
 - there are special rules that apply to a trust that ceases to be an AMIT.
 
@@ -47,7 +47,7 @@ Other changes
 
   and overs" regime, and
 
-- clariﬁcation in relation to operation of CGT event E10 (AMIT — cost base reduction exceeds cost
+- clarification in relation to operation of CGT event E10 (AMIT — cost base reduction exceeds cost
 
   base) (¶11-290).
 

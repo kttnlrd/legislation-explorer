@@ -11,13 +11,13 @@ Any gains or losses arising from receipt of the following are disregarded for CG
 
 - winnings or losses from gambling, a game or a competition with prizes. This exempts winnings
 
-  from, for example, race bets, Tattslotto, Lotto, raﬄes and quiz shows. An asset won is taken to be
+  from, for example, race bets, Tattslotto, Lotto, raffles and quiz shows. An asset won is taken to be
 
   acquired at its market value and a subsequent CGT event may give rise to a capital gain or loss (IT
 
 2584)
 
-- a right or entitlement to a tax oﬀset, deduction, or other similar beneﬁt
+- a right or entitlement to a tax offset, deduction, or other similar benefit
 
 - payments or property received in connection with persecution or property lost during the Second
 

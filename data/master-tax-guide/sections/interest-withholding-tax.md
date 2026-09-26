@@ -23,7 +23,7 @@ In addition, to avoid a possible loophole, interest derived by a resident in the
 
 Interest is not treated as incurred by a resident in carrying on business through an overseas permanent establishment unless it is paid in gaining income derived by that establishment. A similar rule applies to non- residents carrying on business in Australia through a permanent establishment.
 
-Interest withholding tax is imposed at a ﬂat rate of 10% on the gross amount of interest paid (ie without deducting expenses incurred in deriving that interest, etc). With some exceptions, this rate is unaﬀected by Australia's double taxation agreements (DTAs) (¶26-130). A special rate of 45% may apply to interest not subject to the ordinary withholding tax provisions which is paid in respect of certain bearer debentures where the company has failed to disclose the names and addresses of the debenture holders to the Commissioner (ITAA36 s 126). For this purpose, the "holder" of the debenture is the person in possession of it (TD 2001/19). A concessional rate equal to half the normal rate may apply to interest notionally paid to a foreign bank by its Australian branch (ITAA36 s 160ZZZJ).
+Interest withholding tax is imposed at a flat rate of 10% on the gross amount of interest paid (ie without deducting expenses incurred in deriving that interest, etc). With some exceptions, this rate is unaffected by Australia's double taxation agreements (DTAs) (¶26-130). A special rate of 45% may apply to interest not subject to the ordinary withholding tax provisions which is paid in respect of certain bearer debentures where the company has failed to disclose the names and addresses of the debenture holders to the Commissioner (ITAA36 s 126). For this purpose, the "holder" of the debenture is the person in possession of it (TD 2001/19). A concessional rate equal to half the normal rate may apply to interest notionally paid to a foreign bank by its Australian branch (ITAA36 s 160ZZZJ).
 
 For guidelines on the application of the interest withholding tax provisions to interest paid to non-residents by resident authorised deposit-taking institutions, see TR 2006/9.
 
@@ -53,35 +53,35 @@ Where a United States limited liability company with Australian resident members
 
   on or after 21 March 2005 (ITAA36 s 128A(1AB)).
 
-In Century Yuasa Batteries 98 ATC 4380; [1998] FCA 269, amounts paid under a "grossing-up" tax indemniﬁcation clause in a loan agreement were held not to be amounts in the nature of interest (¶22-040).
+In Century Yuasa Batteries 98 ATC 4380; [1998] FCA 269, amounts paid under a "grossing-up" tax indemnification clause in a loan agreement were held not to be amounts in the nature of interest (¶22-040).
 
 They would also not be interest under any of the statutory extensions noted above.
 
-Forward exchange transactions, forward rate agreements, swaps and reciprocal purchase agreements do not generally fall within the interest withholding tax provisions as they do not involve the provision of ﬁnance.
+Forward exchange transactions, forward rate agreements, swaps and reciprocal purchase agreements do not generally fall within the interest withholding tax provisions as they do not involve the provision of finance.
 
 In most circumstances, income derived by non-residents on building society share accounts is treated as interest, not dividend, income and is subject to interest withholding tax (IT 2468).
 
-The operation of the general anti-avoidance provisions of ITAA36 Pt IVA includes schemes which have the sole or dominant purpose of avoiding the payment of interest withholding tax (¶30-160). The ATO is reviewing arrangements which use oﬀshore related entities to facilitate the avoidance of interest withholding tax (TA 2020/3).
+The operation of the general anti-avoidance provisions of ITAA36 Pt IVA includes schemes which have the sole or dominant purpose of avoiding the payment of interest withholding tax (¶30-160). The ATO is reviewing arrangements which use offshore related entities to facilitate the avoidance of interest withholding tax (TA 2020/3).
 
 Where one or more tax-exempt bodies are interposed between an Australian resident payer and a non- resident recipient of interest, withholding tax is payable as if the interest had been paid directly to the non- resident recipient. Accordingly, withholding tax is payable unless the non-resident recipient is itself exempt.
 
-Discounted and deferred interest securities Withholding tax may apply to certain discounted and deferred interest securities. Where a person transfers certain qualifying securities (¶23-320) and the transfer price exceeds the issue price, the excess is deemed to be interest. The same applies where the security has been partially redeemed and the transfer price exceeds the reduced issue price. In each case, the excess may therefore be subject to interest withholding tax (ITAA36 s 128AA). However, this does not apply in the case of debentures that satisfy the "public oﬀer" test (¶22-022).
+Discounted and deferred interest securities Withholding tax may apply to certain discounted and deferred interest securities. Where a person transfers certain qualifying securities (¶23-320) and the transfer price exceeds the issue price, the excess is deemed to be interest. The same applies where the security has been partially redeemed and the transfer price exceeds the reduced issue price. In each case, the excess may therefore be subject to interest withholding tax (ITAA36 s 128AA). However, this does not apply in the case of debentures that satisfy the "public offer" test (¶22-022).
 
 Hire purchase contracts The withholding tax provisions also extend to hire purchase and similar arrangements involving Australian entities purchasing plant and equipment from non-residents. The withholding tax provisions apply to the "interest" component of such arrangements (ie the excess of the total payments made under the arrangements over the cost price of the goods). Further, where payments made under a cross-border equipment lease contain an implicit interest component, the interest is subject to interest withholding tax (ITAA36 s 128AC). The Commissioner will apply Pt IVA where lease transactions are structured to avoid withholding tax in such situations (TR 98/21).
 
-Bills of exchange and promissory notes Withholding tax is also payable on the discount element of a bill of exchange where a resident indemniﬁes or reimburses a non-resident acceptor for the face value of the bill at maturity. Any amount that constitutes the discount or interest factor under the bill is within the withholding tax provisions. A similar provision applies to promissory notes (ITAA36 s 128AD).
+Bills of exchange and promissory notes Withholding tax is also payable on the discount element of a bill of exchange where a resident indemnifies or reimburses a non-resident acceptor for the face value of the bill at maturity. Any amount that constitutes the discount or interest factor under the bill is within the withholding tax provisions. A similar provision applies to promissory notes (ITAA36 s 128AD).
 
 Interest payments not subject to withholding tax
 
 - interest derived by a non-resident carrying on business in Australia at or through a permanent
 
-  establishment. The rule that deems certain non-resident beneﬁciaries to be carrying on business in
+  establishment. The rule that deems certain non-resident beneficiaries to be carrying on business in
 
 Australia through a branch (¶22-150) does not apply in this context (GE Capital Finance 2007 ATC 4487; [2007] FCA 558)
 
-- interest on certain publicly oﬀered debentures (¶22-022)
+- interest on certain publicly offered debentures (¶22-022)
 
-- interest paid to certain foreign charitable institutions, public hospitals and non-proﬁt cultural,
+- interest paid to certain foreign charitable institutions, public hospitals and non-profit cultural,
 
   sporting and friendly societies whose income is exempt from Australian tax and from tax in the non-
 
@@ -89,13 +89,13 @@ Australia through a branch (¶22-150) does not apply in this context (GE Capital
 
   which apply when dividends are paid to such entities (¶22-010)
 
-- interest paid to certain oﬀshore testamentary charitable trusts established before 1 July 1997
+- interest paid to certain offshore testamentary charitable trusts established before 1 July 1997
 
-- interest paid to certain foreign non-proﬁt aviation, tourism, agricultural and manufacturing
+- interest paid to certain foreign non-profit aviation, tourism, agricultural and manufacturing
 
   associations
 
-- gold fees paid by an OBU in respect of an oﬀshore gold borrowing (ITAA36 s 128GB). Gold fees
+- gold fees paid by an OBU in respect of an offshore gold borrowing (ITAA36 s 128GB). Gold fees
 
   are an additional amount of gold paid by a borrower under a gold loan contract. The Commissioner
 
@@ -111,7 +111,7 @@ Australia through a branch (¶22-150) does not apply in this context (GE Capital
 
 - interest on which family trust distribution tax has been paid (¶6-268)
 
-- interest paid to non-residents from certain "nostro" accounts held by banks and other ﬁnancial
+- interest paid to non-residents from certain "nostro" accounts held by banks and other financial
 
   institutions that conduct banking business
 
@@ -127,11 +127,11 @@ Australia through a branch (¶22-150) does not apply in this context (GE Capital
 
   Twenty20 to be held in Australia in 2022 (¶10-605).
 
-Withholding tax does not apply to interest paid to US and UK resident ﬁnancial institutions that is not taxable by Australia under the relevant DTAs, eg because it is not eﬀectively connected with an Australian branch of the institution (¶22-160). The scope of this exemption is discussed in TR 2005/5 and ID 2005/260: see also Deutsche Asia Paciﬁc Finance Inc 2008 ATC ¶20-058; [2008] FCA 1570. TR 2005/5 has been updated to clarify certain aspects of the deﬁnition of "ﬁnancial institution" as used in Australia's DTAs with the US and the UK. The update provides further guidance on when an enterprise is substantially deriving its proﬁts from carrying on a business of "spread activities" and whether certain activities constitute the provision of ﬁnance.
+Withholding tax does not apply to interest paid to US and UK resident financial institutions that is not taxable by Australia under the relevant DTAs, eg because it is not effectively connected with an Australian branch of the institution (¶22-160). The scope of this exemption is discussed in TR 2005/5 and ID 2005/260: see also Deutsche Asia Pacific Finance Inc 2008 ATC ¶20-058; [2008] FCA 1570. TR 2005/5 has been updated to clarify certain aspects of the definition of "financial institution" as used in Australia's DTAs with the US and the UK. The update provides further guidance on when an enterprise is substantially deriving its profits from carrying on a business of "spread activities" and whether certain activities constitute the provision of finance.
 
-The updated ruling also applies to ﬁnancial institutions of other countries with DTAs that include a ﬁnancial institution interest withholding tax rates exemption or reduction on identical terms as the US or UK DTAs.
+The updated ruling also applies to financial institutions of other countries with DTAs that include a financial institution interest withholding tax rates exemption or reduction on identical terms as the US or UK DTAs.
 
-Exemption for government bonds Interest paid on state and territory government bonds issued in Australia is eligible for exemption from interest withholding tax. Interest paid on debentures and debt interests issued in Australia by the Commonwealth Government or its authorities is also eligible for exemption. In each case, the public oﬀer test (¶22-022) must be satisﬁed where applicable. debentures
+Exemption for government bonds Interest paid on state and territory government bonds issued in Australia is eligible for exemption from interest withholding tax. Interest paid on debentures and debt interests issued in Australia by the Commonwealth Government or its authorities is also eligible for exemption. In each case, the public offer test (¶22-022) must be satisfied where applicable. debentures
 
 *Refs: ITAA97 s 768-980)*
 

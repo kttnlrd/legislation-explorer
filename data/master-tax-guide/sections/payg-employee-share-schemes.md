@@ -13,4 +13,4 @@ The withholding tax is payable on the amount of employee share scheme discount i
 
 Withholding tax is payable 21 days after the end of the income year in which the ESS interest is included in the employee's assessable income. This will be the year that the shares or rights were provided in the case of upfront taxation schemes, or the year of the ESS deferred taxing point for deferred tax schemes.
 
-Employers can recover the amount of withholding tax that they have paid from the employee to whom the amount of tax relates by oﬀsetting the amount they can recover from the employee against an amount they otherwise owed the employee, such as the employee's salary. The employee is given a credit for any withholding tax that has been paid (¶26-660).
+Employers can recover the amount of withholding tax that they have paid from the employee to whom the amount of tax relates by offsetting the amount they can recover from the employee against an amount they otherwise owed the employee, such as the employee's salary. The employee is given a credit for any withholding tax that has been paid (¶26-660).

@@ -15,7 +15,7 @@ An amount must be withheld from salary, wages, commission, bonuses or allowances
 
 - a Special Program Visa (subclass 416).
 
-- the Paciﬁc Australia Labour Mobility scheme (from 1 July 2022), and
+- the Pacific Australia Labour Mobility scheme (from 1 July 2022), and
 
 - each program prescribed by regulation (there are currently no such regulations).
 

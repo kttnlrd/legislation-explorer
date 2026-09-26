@@ -25,7 +25,7 @@ A payer who makes a dividend, interest or royalty payment to an "overseas person
 
 The meaning of "royalty" is discussed at ¶10-640.
 
-No deduction will be allowed for an amount of interest or royalty unless the withholding obligations have been fulﬁlled (ITAA97 s 26-25).
+No deduction will be allowed for an amount of interest or royalty unless the withholding obligations have been fulfilled (ITAA97 s 26-25).
 
 Payment to an overseas person A resident company that pays a dividend to a shareholder who has an address outside Australia must withhold an amount (TAA sch 1 s 12-210). The address of the shareholder is determined according to the register of the company's members. If shares are held by more than one entity and one of the entities has an address outside Australia, the paying company must also withhold an amount.
 

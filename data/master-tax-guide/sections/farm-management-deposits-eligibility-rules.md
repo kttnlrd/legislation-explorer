@@ -7,15 +7,15 @@ paragraph: "¶18-293"
 ---
 # Farm management deposits eligibility rules ¶18-293
 
-A deposit qualiﬁes as an FMD only if it complies with the conditions aﬀecting the agreement under which the relevant ﬁnancial institution accepts money from a depositor. The conditions (ITAA97 ss 393-20 to 393-35) include the following:
+A deposit qualifies as an FMD only if it complies with the conditions affecting the agreement under which the relevant financial institution accepts money from a depositor. The conditions (ITAA97 ss 393-20 to 393-35) include the following:
 
 - the owner of the FMD must be a primary producer when the deposit is made. The owner of an
 
-FMD can carry on a primary production business through a variety of structures including a sole trader, in partnership, with the owner being a partner, or through a trust, with the owner being either a beneﬁciary that is presently entitled to some or all of the net income of the trust or a unit holder in a ﬁxed trust
+FMD can carry on a primary production business through a variety of structures including a sole trader, in partnership, with the owner being a partner, or through a trust, with the owner being either a beneficiary that is presently entitled to some or all of the net income of the trust or a unit holder in a fixed trust
 
 - a deposit cannot be made by 2 or more persons jointly or be made on behalf of 2 or more persons
 
-- a trustee acting as such can make a deposit only on behalf of a beneﬁciary who is presently
+- a trustee acting as such can make a deposit only on behalf of a beneficiary who is presently
 
   entitled to a share of a trust estate and is under a legal disability
 

@@ -11,13 +11,13 @@ This checklist sets out, in chronological order, the respective ages at which va
 
 - the person becomes a potential taxpayer (or dependant)
 
-- the birth may entitle care givers to claim the tax-free Family Tax Beneﬁt and/or the assessable
+- the birth may entitle care givers to claim the tax-free Family Tax Benefit and/or the assessable
 
   parental leave payment (¶2-133)
 
 - if the person is a dependant of the taxpayer, this may entitle the taxpayer's entitlement to a
 
-  higher threshold for the Medicare levy (¶2-330). It may also aﬀect the taxpayer's liability for the
+  higher threshold for the Medicare levy (¶2-330). It may also affect the taxpayer's liability for the
 
 Medicare levy surcharge (¶2-335) and, if the taxpayer is a prescribed person, their entitlement to levy exemption (¶2-340)
 
@@ -25,15 +25,15 @@ Medicare levy surcharge (¶2-335) and, if the taxpayer is a prescribed person, t
 
 - the person becomes a potential recipient of diverted income (¶30-900)
 
-- the person becomes a potential eligible recipient of tax-free superannuation death beneﬁt
+- the person becomes a potential eligible recipient of tax-free superannuation death benefit
 
   (¶14-270)
 
 - for FBT purposes, the determination of a taxpayer's reasonable living-away-from-home allowance
 
-  (¶35-470) or the taxable value of a board beneﬁt (¶35-630) may be aﬀected.
+  (¶35-470) or the taxable value of a board benefit (¶35-630) may be affected.
 
-- if the person is a child of the taxpayer, this may aﬀect the taxpayer's calculation of standard
+- if the person is a child of the taxpayer, this may affect the taxpayer's calculation of standard
 
   values of goods taken from trading stock (¶9-245).
 
@@ -41,7 +41,7 @@ Medicare levy surcharge (¶2-335) and, if the taxpayer is a prescribed person, t
 
   for FBT purposes (¶35-470)
 
-- a higher amount may apply in determining the taxable value of a board beneﬁt for FBT purposes
+- a higher amount may apply in determining the taxable value of a board benefit for FBT purposes
 
   (¶35-630).
 
@@ -59,7 +59,7 @@ Medicare levy surcharge (¶2-335) and, if the taxpayer is a prescribed person, t
 
 - the person may lose their exemption from quoting a TFN (¶26-350)
 
-- if the person is a child of the taxpayer, this may aﬀect the taxpayer's calculation of standard
+- if the person is a child of the taxpayer, this may affect the taxpayer's calculation of standard
 
   values of goods taken from trading stock (¶9-245).
 
@@ -67,11 +67,11 @@ Medicare levy surcharge (¶2-335) and, if the taxpayer is a prescribed person, t
 
   that year (¶2-170, ¶2-250) and standard thresholds for lodgment of returns apply (¶24-010)
 
-- the person is not aﬀected by the restriction on claiming the low income tax oﬀset in relation to
+- the person is not affected by the restriction on claiming the low income tax offset in relation to
 
   "unearned" income (¶15-300)
 
-- the person can qualify as public oﬃcer for tax purposes (¶3-030)
+- the person can qualify as public officer for tax purposes (¶3-030)
 
 - the person can register as a tax agent (¶32-020)
 
@@ -81,17 +81,17 @@ Medicare levy surcharge (¶2-335) and, if the taxpayer is a prescribed person, t
 
 - a lower threshold for exemption from ABN quotation applies (¶33-130)
 
-- the person ceases to be under the "legal disability" of infancy and, if a beneﬁciary of a trust,
+- the person ceases to be under the "legal disability" of infancy and, if a beneficiary of a trust,
 
   may become assessable on the share of net trust income to which it is presently entitled (¶6-210,
 
 ¶42-030)
 
-- the person may lose their eligibility as a "death beneﬁts dependant" (¶14-270). This may mean
+- the person may lose their eligibility as a "death benefits dependant" (¶14-270). This may mean
 
-  that they lose their entitlement to concessional treatment of superannuation death beneﬁts
+  that they lose their entitlement to concessional treatment of superannuation death benefits
 
-(¶14-280) or death beneﬁt termination payments received on the death of their parent (¶14-680)
+(¶14-280) or death benefit termination payments received on the death of their parent (¶14-680)
 
 - if the birthday is before the end of the income year, the person may become eligible for a
 
@@ -105,11 +105,11 @@ Medicare levy surcharge (¶2-335) and, if the taxpayer is a prescribed person, t
 
 - if a non-student, the person loses dependant status for purposes of the Medicare levy (¶2-310).
 
-This may aﬀect the low income earner's levy exemption (¶2-330) and, if the taxpayer is a prescribed person, their entitlement to levy exemption (¶2-340), but means the person no longer has to be covered for parent to avoid levy surcharge (¶2-335).
+This may affect the low income earner's levy exemption (¶2-330) and, if the taxpayer is a prescribed person, their entitlement to levy exemption (¶2-340), but means the person no longer has to be covered for parent to avoid levy surcharge (¶2-335).
 
 - if a student, the person loses dependant status for purposes of Medicare levy (¶2-310). This may
 
-  aﬀect the low income earner's levy exemption (¶2-330) and, if the taxpayer is a prescribed person,
+  affect the low income earner's levy exemption (¶2-330) and, if the taxpayer is a prescribed person,
 
   their entitlement to levy exemption (¶2-340), but means the person no longer has to be covered for
 
@@ -119,13 +119,13 @@ This may aﬀect the low income earner's levy exemption (¶2-330) and, if the ta
 
   lost (¶35-655)
 
-- if receiving a death beneﬁt superannuation income stream, the person may be required to have
+- if receiving a death benefit superannuation income stream, the person may be required to have
 
   commuted the stream to a lump sum by the date of the birthday (¶14-310)
 
 - the person would normally lose their entitlement to exemption on a superannuation lump sum that
 
-  has been commuted from a superannuation income stream in speciﬁed circumstances (¶14-310).
+  has been commuted from a superannuation income stream in specified circumstances (¶14-310).
 
 - the person may become entitled to the CGT small business 15-year exemption (¶7-165)
 
@@ -141,7 +141,7 @@ This may aﬀect the low income earner's levy exemption (¶2-330) and, if the ta
 
   make withdrawals from their SHASA account (¶39-650).
 
-- the person qualiﬁes as an "elderly person" for FBT purposes, eg the exemption for residential care
+- the person qualifies as an "elderly person" for FBT purposes, eg the exemption for residential care
 
   workers or for live-in help (¶35-380, ¶35-630)
 
@@ -151,31 +151,31 @@ This may aﬀect the low income earner's levy exemption (¶2-330) and, if the ta
 
 - the person reaches their superannuation "preservation age". This means that they may access
 
-  preserved superannuation beneﬁts on retirement (¶13-900) or may access their superannuation
+  preserved superannuation benefits on retirement (¶13-900) or may access their superannuation
 
   as a non-commutable income stream without having to retire (¶13-025). They may be entitled to
 
-  concessional tax oﬀsets on superannuation beneﬁts that they receive (¶14-220, ¶14-240) and may
+  concessional tax offsets on superannuation benefits that they receive (¶14-220, ¶14-240) and may
 
-  also be entitled to a concessional oﬀset in determining tax on employment termination payments
+  also be entitled to a concessional offset in determining tax on employment termination payments
 
 (¶14-620). For persons born before 30 June 1964, see ¶42-250 for transitional rules
 
-- superannuation beneﬁts received from taxed funds are normally tax-free (¶14-220)
+- superannuation benefits received from taxed funds are normally tax-free (¶14-220)
 
-- superannuation beneﬁts received from untaxed funds are normally assessable, but the person
+- superannuation benefits received from untaxed funds are normally assessable, but the person
 
-  can claim certain tax oﬀsets (¶14-240)
+  can claim certain tax offsets (¶14-240)
 
-- the taxation of a superannuation death beneﬁt income stream will be aﬀected where the person is
+- the taxation of a superannuation death benefit income stream will be affected where the person is
 
   either the deceased or the recipient (¶14-280).
 
-- if the person is the oldest person covered by the policy, the private health insurance oﬀset
+- if the person is the oldest person covered by the policy, the private health insurance offset
 
   increases (¶2-335, ¶15-330)
 
-- the person becomes entitled to access superannuation beneﬁts without restriction (¶13-025,
+- the person becomes entitled to access superannuation benefits without restriction (¶13-025,
 
   ¶13-900)
 
@@ -189,9 +189,9 @@ This may aﬀect the low income earner's levy exemption (¶2-330) and, if the ta
 
 (¶15-310). The "age pension age" has gradually increased to 67 years from 1 July 2017
 
-- a work test starts to apply in determining eligibility to claim the superannuation spouse oﬀset for
+- a work test starts to apply in determining eligibility to claim the superannuation spouse offset for
 
-  contributions made for the person's beneﬁt (¶13-600, ¶13-770)
+  contributions made for the person's benefit (¶13-600, ¶13-770)
 
 - a work test applies to an individual who wants to claim a tax deduction for personal
 
@@ -201,7 +201,7 @@ This may aﬀect the low income earner's levy exemption (¶2-330) and, if the ta
 
   (¶14-700) or early retirement scheme payments (¶14-710).
 
-- if the person is the oldest person covered by the policy, the private health insurance oﬀset
+- if the person is the oldest person covered by the policy, the private health insurance offset
 
   increases (¶2-335, ¶15-330).
 
@@ -225,7 +225,7 @@ This may aﬀect the low income earner's levy exemption (¶2-330) and, if the ta
 
   person's age on 1 July in year of payment or on commencement of stream (¶14-125)
 
-- the superannuation spouse oﬀset ceases to apply for contributions made for the person's beneﬁt
+- the superannuation spouse offset ceases to apply for contributions made for the person's benefit
 
   (¶13-600, ¶13-770).
 

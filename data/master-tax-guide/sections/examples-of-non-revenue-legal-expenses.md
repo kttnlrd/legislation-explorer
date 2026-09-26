@@ -7,7 +7,7 @@ paragraph: "¶16-844"
 ---
 # Examples of non-revenue legal expenses ¶16-844
 
-In addition to the examples given at ¶16-840, the following are examples of legal expenses that have been held not to be deductible under the general provisions of ITAA97 s 8-1. Note, however, that some may be deductible under the more speciﬁc provisions noted at ¶16-830:
+In addition to the examples given at ¶16-840, the following are examples of legal expenses that have been held not to be deductible under the general provisions of ITAA97 s 8-1. Note, however, that some may be deductible under the more specific provisions noted at ¶16-830:
 
 - where a taxpayer was issued with a PAYG director penalty notice in respect of his paid role
 
@@ -31,7 +31,7 @@ In addition to the examples given at ¶16-840, the following are examples of leg
 
 - costs incurred in administering a class action settlement fund even though funds for distribution
 
-  were held in an interest-bearing account (Watson as trustee for the Murrindindi Bushﬁre Class
+  were held in an interest-bearing account (Watson as trustee for the Murrindindi Bushfire Class
 
 Action Settlement Fund 2020 ATC ¶20-748; [2020] FCAFC 92)
 
@@ -79,7 +79,7 @@ V140 88 ATC 875; [1988] AATA 638)
 
 - costs incurred by a salesman in obtaining a restricted driver's licence to enable him to drive for
 
-  business purposes during speciﬁed hours while his driver's licence was cancelled (Case P54 82
+  business purposes during specified hours while his driver's licence was cancelled (Case P54 82
 
 ATC 249)
 
@@ -99,7 +99,7 @@ ATC 249)
 
 - legal expenses in relation to an ASIC investigation incurred by a company director who did not
 
-  receive any director's fees or share of proﬁts (ID 2003/801)
+  receive any director's fees or share of profits (ID 2003/801)
 
 - costs incurred in seeking registration as a tax agent (Case Y49 91 ATC 444; [1991] AATA 614)
 

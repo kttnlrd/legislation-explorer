@@ -7,11 +7,11 @@ paragraph: "¶17-480"
 ---
 # Choice of method to calculate decline in value ¶17-480
 
-A depreciating asset starts to decline in value from its "start time", ie from when the taxpayer ﬁrst uses it or has it installed ready for use for any purpose (ITAA97 s 40-60). However, deductions for the decline in value of the asset are only available in respect of the taxpayer's use of the asset for taxable purposes (¶17-010). A tangible depreciating asset does not start to decline if it is held in anticipation of being used in a business that has not commenced to be carried on (TD 2007/5).
+A depreciating asset starts to decline in value from its "start time", ie from when the taxpayer first uses it or has it installed ready for use for any purpose (ITAA97 s 40-60). However, deductions for the decline in value of the asset are only available in respect of the taxpayer's use of the asset for taxable purposes (¶17-010). A tangible depreciating asset does not start to decline if it is held in anticipation of being used in a business that has not commenced to be carried on (TD 2007/5).
 
 There are 2 methods of calculating the decline in value of a depreciating asset (ITAA97 s 40-65): the prime cost (or straight line) method (¶17-490) and the diminishing value (or reducing balance) method (¶17-500).
 
-The taxpayer must choose which method is to be used before lodging the income tax return for the income year to which the choice relates (ITAA97 s 40-130). The choice does not have to be made formally or in writing and is normally self-evident from the taxpayer's capital allowances schedule (¶17-880). The choice is exercised on an asset-by-asset basis and on a year-by-year basis. This means, eg, that a choice made for a depreciating asset that is ﬁrst held in the 2024–25 year does not aﬀect the choice for any other depreciating asset that is ﬁrst held in that income year. Nor does it aﬀect the choice for any depreciating asset that is ﬁrst held in a later income year, ie a separate choice is made for each depreciating asset that is ﬁrst held in a particular year.
+The taxpayer must choose which method is to be used before lodging the income tax return for the income year to which the choice relates (ITAA97 s 40-130). The choice does not have to be made formally or in writing and is normally self-evident from the taxpayer's capital allowances schedule (¶17-880). The choice is exercised on an asset-by-asset basis and on a year-by-year basis. This means, eg, that a choice made for a depreciating asset that is first held in the 2024–25 year does not affect the choice for any other depreciating asset that is first held in that income year. Nor does it affect the choice for any depreciating asset that is first held in a later income year, ie a separate choice is made for each depreciating asset that is first held in a particular year.
 
 However, the choice of method for a particular asset applies for that income year and all later years in which the taxpayer claims a deduction for the decline in value of that asset (s 40-130).
 
@@ -33,7 +33,7 @@ However, the choice of method for a particular asset applies for that income yea
 
   used by the former holder. Examples of cases where this might apply are sale and leaseback
 
-  arrangements. If the former holder did not use a method, or if the taxpayer cannot readily ﬁnd out
+  arrangements. If the former holder did not use a method, or if the taxpayer cannot readily find out
 
   the method used by the former holder, the taxpayer must use the diminishing value method
 
@@ -49,7 +49,7 @@ However, the choice of method for a particular asset applies for that income yea
 
 - if the cost of the depreciating asset is the decline in value (¶17-330), or
 
-- the decline in value of an asset that was used for R&D and which is subject to the R&D oﬀset
+- the decline in value of an asset that was used for R&D and which is subject to the R&D offset
 
   provisions (¶17-420), must be calculated using the same method that was used to calculate the
 

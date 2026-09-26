@@ -19,7 +19,7 @@ Commissioner's powers relating to PAYG withholding
 
 - give information
 
-- attend and give evidence before the Commissioner or an authorised oﬃcer
+- attend and give evidence before the Commissioner or an authorised officer
 
 - produce any documents in the person's custody or control,
 

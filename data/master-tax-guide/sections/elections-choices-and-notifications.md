@@ -5,13 +5,13 @@ section: "elections-choices-and-notifications"
 title: "Elections, choices and notifications"
 paragraph: "¶24-040"
 ---
-# Elections, choices and notiﬁcations ¶24-040
+# Elections, choices and notifications ¶24-040
 
 As part of the process of determining the taxpayer's taxable income, the tax law allows a taxpayer to make various elections/choices and requests, and to give notice of certain matters (together, "elections"). Many elections are not required to be in writing and/or lodged with the Commissioner. For example, ITAA97 generally does not require choices made for CGT purposes to be lodged with the Commissioner.
 
 Even though an election may not have to be in writing, it should be obvious from the return, and the taxpayer's records verifying the calculation of the relevant component of taxable income, whether the election was made.
 
-Where an election has to be in writing, the taxpayer must retain it with his/her records (to be produced, for example, if the relevant return is selected for audit). In some cases an election, etc, must be lodged with the Commissioner by the time speciﬁed in the relevant provision, usually the due date for lodging the relevant return. In many cases, however, the Commissioner has a discretion to grant an extension of time. The Commissioner's current policy where he has such a discretion is that the election does not have to be lodged until speciﬁcally requested by him, except in the case of a speciﬁc election identiﬁed in IT 2624, the tax return instructions and other published ATO instructions (IT 2624; IT 2662). Before lodging a return, a taxpayer should check with the ATO whether an election is also required to be lodged.
+Where an election has to be in writing, the taxpayer must retain it with his/her records (to be produced, for example, if the relevant return is selected for audit). In some cases an election, etc, must be lodged with the Commissioner by the time specified in the relevant provision, usually the due date for lodging the relevant return. In many cases, however, the Commissioner has a discretion to grant an extension of time. The Commissioner's current policy where he has such a discretion is that the election does not have to be lodged until specifically requested by him, except in the case of a specific election identified in IT 2624, the tax return instructions and other published ATO instructions (IT 2624; IT 2662). Before lodging a return, a taxpayer should check with the ATO whether an election is also required to be lodged.
 
 Elections constituted by a written agreement between taxpayers do not have to be lodged with the Commissioner but must be retained by the taxpayers.
 
@@ -32,15 +32,15 @@ Elections constituted by a written agreement between taxpayers do not have to be
 *Refs: ITAA97 s
 295-400*
 
-- Election to adopt operating cost method to determine the taxable value of car fringe beneﬁts
+- Election to adopt operating cost method to determine the taxable value of car fringe benefits
 
   (FBTAA s 10(1): ¶35-170).
 
 - Election to adopt current year as base year for the purpose of determining the taxable value of
 
-  non-remote housing fringe beneﬁts (FBTAA s 26(3)(aa): ¶35-420).
+  non-remote housing fringe benefits (FBTAA s 26(3)(aa): ¶35-420).
 
-- Request for Commissioner not to apply ITAA36 s 99A to income to which no beneﬁciary is
+- Request for Commissioner not to apply ITAA36 s 99A to income to which no beneficiary is
 
   presently entitled. Such a request may only be made by trustees of certain trusts (s 99A(2):
 
@@ -94,7 +94,7 @@ include …
 
   his/her main residence (ITAA97 s 118-145: ¶11-740).
 
-- Election that speciﬁes "CGT exempt amount" in relation to a small business retirement disposal
+- Election that specifies "CGT exempt amount" in relation to a small business retirement disposal
 
   (ITAA97 s 152-300: ¶7-185).
 
@@ -106,7 +106,7 @@ include …
 
   contributions to the fund or RSA (ITAA97 s 290-170: ¶13-730).
 
-- Election to treat all or part of a transfer of overseas superannuation beneﬁts to an Australian
+- Election to treat all or part of a transfer of overseas superannuation benefits to an Australian
 
   superannuation fund as assessable contributions (ITAA97 s 305-80: ¶14-420).
 
@@ -124,7 +124,7 @@ include …
 
 - Election to adopt either the statutory formula method or 12-week record-keeping method to
 
-  determine the taxable value of car parking fringe beneﬁts (FBTAA s 39FA(1) or 39GA(1): ¶35-256).
+  determine the taxable value of car parking fringe benefits (FBTAA s 39FA(1) or 39GA(1): ¶35-256).
 
 - Family agreement allocating dependants for purposes of Medicare levy (ITAA36 s 251R(6D):
 

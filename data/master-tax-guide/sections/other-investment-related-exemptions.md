@@ -15,7 +15,7 @@ A number of other investment-related exemptions are discussed in other chapters.
 
   a company is a PDF and income from the sale of PDF shares. A capital gain realised by a PDF
 
-  on a qualifying SME investment is also eﬀectively exempt to the extent that it is distributed to a
+  on a qualifying SME investment is also effectively exempt to the extent that it is distributed to a
 
   complying superannuation fund (or similar entity) other than a self managed superannuation fund.
 

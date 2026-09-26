@@ -16,14 +16,14 @@ debtor remains known, in legal terms, as a bankrupt. Being in this position has 
 far-reaching impact upon the bankrupt, the bankrupt's family, as well as on the
 bankrupt's affairs and property. The bankruptcy will also of course have major
 consequences for the bankrupt's creditors.
-As each bankrupt's ﬁnancial affairs and personal position are different, including
+As each bankrupt's financial affairs and personal position are different, including
 the items and range of property owned, the impact and effects of bankruptcy will
 differ for each person. Deceased bankrupt estates also present different issues.
 
 EFFECT OF BANKRUPTCY ON THE BANKRUPT
 [4.10]  Chief Justice Allsop has emphasised1 two things "which are central to
 every application in the bankruptcy jurisdiction almost without exception".
-The ﬁrst is that "the jurisdiction is not about debt collection; it is about the change
+The first is that "the jurisdiction is not about debt collection; it is about the change
 of status of insolvent persons. The question of solvency or insolvency is at the root
 of the jurisdiction. That said, however, insolvency can arise from a whole raft of
 reasons, and those reasons have a connection with the second matter which attends
@@ -66,7 +66,7 @@ on the bankrupt:
   discharge from bankruptcy.
 • The bankrupt must attend any meeting of creditors the trustee requires:
   s 77(1)(c). At such meetings the bankrupt must answer questions concerning
-  their conduct, property and ﬁnancial dealings, including of their associated
+  their conduct, property and financial dealings, including of their associated
   entities (other persons, companies, trusts and partnerships): s 77(1)(d). Apart
   from the time consumed, such meetings can be demanding and sometimes
   demeaning for the bankrupt.
@@ -85,7 +85,7 @@ on the bankrupt:
    reasonable access to their premises and records: s 77A. Section 81 allows a trustee
    to have the bankrupt examined before a registrar in open court under which
    process the bankrupt is asked questions, under oath, by the trustee about their
-   ﬁnancial affairs. Creditors may also ask questions. Prevarication or evasion by
+   financial affairs. Creditors may also ask questions. Prevarication or evasion by
    the bankrupt under questioning in an examination is an offence (s 264D) and if
    the bankrupt fails to attend they may be arrested and brought in for the
    examination: s 264B. More generally, bankrupts may be arrested and imprisoned
@@ -98,7 +98,7 @@ on the bankrupt:
   reaches a certain threshold level. Non-payment is likely to preclude the bankrupt
   from obtaining an automatic discharge from bankruptcy (s 149D) and it is an
   offence: s 139ZO.
-• Banks, building societies and other ﬁnancial institutions where the bankrupt
+• Banks, building societies and other financial institutions where the bankrupt
   holds accounts must inform the trustee in writing of those accounts: s 125(1). The
   bank must not allow further payments out of the account except when ordered
   by the court unless the bank has not received any instructions from the trustee or
@@ -119,7 +119,7 @@ on the bankrupt:
 
 4 Under proposed new s 80, the bankrupt must tell the trustee, within 10 business days, of any change
   in their name, their main residential and business address, and their phone number. The penalty is
-  imprisonment for 6 months. This obligation would extend for deﬁned periods beyond the end of the
+  imprisonment for 6 months. This obligation would extend for defined periods beyond the end of the
   bankruptcy: Bankruptcy Amendment (Enterprise Incentives) Bill 2017.
 5 For more detail, see OTPS 2 – Application of Section 125 of the Bankruptcy Act 1966 where an estate is
   administered by the Official Trustee.
@@ -140,12 +140,12 @@ on the bankrupt:
   terms of the trust deed or by the court.11
 • If the bankrupt was a member of a partnership which continues to do business
   the bankruptcy will automatically dissolve the partnership unless the partnership
-  agreement speciﬁes the contrary.12
+  agreement specifies the contrary.12
 Despite the apparent severity of bankruptcy, the obligations of most bankrupts are
 limited, if only because their assets are minimal or their affairs are not complex.
 There are also positive outcomes, the main one being the relief from responsibility
 for their provable debts and from the claims and pursuit by creditors. This can of
-course be a signiﬁcant source of personal and ﬁnancial relief which is one of the
+course be a significant source of personal and financial relief which is one of the
 main outcomes of bankruptcy. Whether the debts be $20,000 or $20 million, the
 bankrupt is ultimately discharged from them by bankruptcy. In the case of a
 bankrupt who has no divisible assets and limited income, and who is of limited
@@ -156,7 +156,7 @@ IMPACT OF BANKRUPTCY ON THE BANKRUPT'S PROPERTY
 estate is to ascertain what property is owned by the bankrupt and recovered and
 sold.
 In many estates this process will be relatively simple. It may involve the trustee
-taking custody of the certiﬁcate of title to real estate or share certiﬁcates and then
+taking custody of the certificate of title to real estate or share certificates and then
 proceeding with a sale. However, the trustee must also ascertain whether the
 bankrupt improperly or unfairly disposed of property before bankruptcy and
 whether that property should be recovered back from the persons to whom it was
@@ -229,15 +229,15 @@ Property vests under s 58 of the Bankruptcy Act subject to:
 "The property of the bankrupt" referred to in s 58(1)(a) means both the property
 divisible among the bankrupt's creditors and any rights and powers in relation to
 that property that would have been exercisable by the bankrupt if bankruptcy had
-not occurred: s 5(1). "Property" itself is separately deﬁned in s 5(1) very broadly, to
+not occurred: s 5(1). "Property" itself is separately defined in s 5(1) very broadly, to
 mean "real or personal property of every description, whether situate in Australia
-or elsewhere, and includes any estate, interest or proﬁt, whether present or future,
+or elsewhere, and includes any estate, interest or profit, whether present or future,
 vested or contingent, arising out of or incident to any such real or personal
 property".
 Property overseas
 [4.35] Property located overseas is therefore included, and is recoverable
 depending on the law of the foreign country. A bankrupt in Australia may therefore
-ﬁnd that their overseas assets and interests, perhaps deliberately sent or kept there
+find that their overseas assets and interests, perhaps deliberately sent or kept there
 by the bankrupt to avoid detection, can be investigated and recovered.
 There are two statutory processes available to an Australian trustee to investigate
 and recover property overseas:
@@ -255,7 +255,7 @@ ii. to apply directly to a court in the overseas jurisdiction for "recognition" 
     permission under the Model Law to pursue investigations and proceedings in
     any of those jurisdictions.
 Overseas bankruptcies
-[4.40] Similarly, a person bankrupt overseas may ﬁnd that their assets and
+[4.40] Similarly, a person bankrupt overseas may find that their assets and
 interests can be investigated in, and recovered from, Australia, far away from their
 home country. The same two remedies are available:
 • one under s 29(3) of the Bankruptcy Act, whereby a foreign trustee can request an
@@ -316,7 +316,7 @@ in the trustee: Trustee of the Property of O'Reilly v Law Society of NSW [2001] 
 
 Property held on trust
 [4.50] Property held by the bankrupt as trustee on trust is not divisible amongst
-the creditors of the bankrupt: s 116(2)(a). A bankruptcy trustee may often ﬁnd that
+the creditors of the bankrupt: s 116(2)(a). A bankruptcy trustee may often find that
 property that appears to be owned by the bankrupt is in fact held on trust for
 others. There may or may not be a formal trust deed evidencing the trust. If there is
 a deed, it may provide that a trustee's role ceases on their bankruptcy but pending
@@ -332,18 +332,18 @@ assets are available under the indemnity for payment of the bankrupt's individua
 creditors. In Lane (Trustee), in the matter of Lee (Bankrupt) v DCT [2017] FCA 953, the
 Federal Court sought to "succinctly identify some general principles which ought
 to guide a bankruptcy trustee when dealing with a bankrupt trustee's right of
-indemnity out of trust assets". Those principles are the subject of conﬂicting
+indemnity out of trust assets". Those principles are the subject of conflicting
 decisions in relation to corporate trading trusts, which are a more common type of
 business arrangement, and are discussed in detail at [14.15] and [15.350]. In Lane,
 the court held that trust funds from the operation of the bankrupt's business were
 available only to meet trust creditors, and were not available for the personal
 non-trust creditors of the bankrupt, in that case, the DCT.18 The s 109 priorities did
 therefore not apply.
-Where the bankrupt is the beneﬁciary of a trust, it will often be a discretionary
+Where the bankrupt is the beneficiary of a trust, it will often be a discretionary
 trust, whereby the decision to distribute income or capital to the bankrupt is at the
 absolute discretion of the trustee. A trustee of the trust might well be reluctant to
-exercise that discretion in favour of a bankrupt beneﬁciary – which would in effect
-be a distribution for the beneﬁt of the creditors. However, in cases where the
+exercise that discretion in favour of a bankrupt beneficiary – which would in effect
+be a distribution for the benefit of the creditors. However, in cases where the
 bankrupt is both the appointor of the trust and the trustee, there had been some
 developing case law that the right of the bankrupt to exercise that discretion is
 property that vests in the bankruptcy trustee, thereby entitling the trustee to
@@ -414,14 +414,14 @@ year, as proposed). This would typically include any bequests to the bankrupt, f
 example from a deceased relative, or money paid to the bankrupt that is not
 income.23 It may also include any windfall, such as a lottery win, or a bequest
 under a will. This extends to the receipt during bankruptcy by a bankrupt of an
-equitable interest in a business; such an interest comes within the deﬁnition of
+equitable interest in a business; such an interest comes within the definition of
 "property": Official Receiver v Delaton Pty Ltd [1996] VSC 85; (1996) 130 FLR 207;
 Donnelly v McIntyre [1999] FCA 450.
 Assets acquired by a bankrupt after his or her discharge from bankruptcy do not
 vest and they remain the bankrupt's own property. This is an aspect of the "fresh
 start" offered by bankruptcy, that a discharged bankrupt can resume their business,
 keep their full income, and again start acquiring assets, and try to restore their
-ﬁnancial position.24
+financial position.24
 
 Income received during bankruptcy
 [4.60] The assessment of income contributions on income received during
@@ -435,7 +435,7 @@ she is entitled to keep that money: Re Gillies; Ex parte Official Trustee [1993]
 asset becomes after-acquired property that vests in the trustee.25
 There is some perceived injustice in such an outcome and the courts at times have
 raised the question whether the law is that strict. Judicial consideration has been
-given to ﬁnding that certain classes of assets might be able to be retained, or
+given to finding that certain classes of assets might be able to be retained, or
 whether the right of the trustee to sell property under s 134(1)(a) prevails over the
 vesting of after-acquired property in s 58, and whether the trustee might exercise
 their authority under s 134(1)(ma) to make an allowance out of the estate as the
@@ -495,7 +495,7 @@ Property used in earning income
 [4.85] Section 116(2)(c) permits bankrupts to retain property used "in earning
 income by personal exertion", formerly the "tools of the trade" exemption. There is
 a prescribed limit to the value of the property, which is around $3,700 (2018,
-indexed): reg 6.03B. The property must have a readily identiﬁable connection with
+indexed): reg 6.03B. The property must have a readily identifiable connection with
 the income-producing activities.
 This exemption supports the policy of allowing the bankrupt to continue to earn an
 income, including to a level at which income contributions may have to be paid. A
@@ -543,7 +543,7 @@ funds are not protected: Section 116(2)(iv).
 The protection given to a bankrupt's interest in a superannuation fund does not
 extend to contributions which are void: s 116(2)(d) which is expressed to be subject
 
-26 "RSA" and see s 5(1) Bankruptcy Act for deﬁnition.
+26 "RSA" and see s 5(1) Bankruptcy Act for definition.
 160      Keay's Insolvency: Personal and Corporate Law and Practice                             [4.100]
 
 to ss 128B and 128C, and s 139ZU. These sections were introduced in 2007 to
@@ -554,9 +554,9 @@ Funds in self-managed superannuation funds (SMSFs) are also protected as long as
 the fund is properly established and is compliant with its regulatory obligations.
 These funds raise issues when the trustee of the fund becomes insolvent. An
 individual trustee of a SMSF who becomes bankrupt or enters into a personal
-insolvency agreement is automatically disqualiﬁed from acting as a trustee.
+insolvency agreement is automatically disqualified from acting as a trustee.
 Similarly a corporate trustee of a SMSF that enters external administration is also
-disqualiﬁed, as is any director.28 A fund trustee who is faced with bankruptcy may
+disqualified, as is any director.28 A fund trustee who is faced with bankruptcy may
 transfer the assets into a complying fund, for example an industry or retail super
 fund, so that the fund trustee no longer controls the running of the fund or its
 investments.
@@ -567,7 +567,7 @@ fund over a number of years and there were no "one-off" lump sum contributions
 which were made shortly before going bankrupt.
 
 Protected money
-[4.100] Certain moneys paid for the personal beneﬁt of a person who is
+[4.100] Certain moneys paid for the personal benefit of a person who is
 bankrupt are protected.
 Bankrupts may, before or during their bankruptcy, have been awarded damages for
 personal injury or other personal wrongs done to them (such as being defamed), or
@@ -578,10 +578,10 @@ damages, then the property is protected and the bankrupt is entitled to retain i
 bring his or her own legal proceedings in respect of that property.
 The Act provides that "the whole, or substantially the whole" of any money used in
 the purchase of particular property is protected money (s 116(2)(n), 116(3)) and is
-not divisible property. "Protected money" is deﬁned in s 116(2D) as exempt money
+not divisible property. "Protected money" is defined in s 116(2D) as exempt money
 or exempt loan money. "Exempt money" (s 116(2D)) includes certain life policy and
 superannuation payments, and damages or compensation moneys, and moneys
-paid under rural support schemes. "Exempt loan money" is deﬁned in s 116(2D) as
+paid under rural support schemes. "Exempt loan money" is defined in s 116(2D) as
 the principal sum of a loan to the bankrupt or to the bankrupts and another person
 and which was repaid from exempt money.
 Where a trustee realises property which was acquired using partly protected
@@ -606,10 +606,10 @@ the property. However, it is not sufficient for the bankrupt to show that the
 contribution of protected money could be in general terms described as
 "substantial" – the money must represent "substantially the whole": Turner v
 Official Trustee [1996] FCA 1074; (1996) 71 FCR 418.
-Other moneys protected include any ﬁnancial support paid to the bankrupt from
-the National Disability Insurance Scheme (as deﬁned in the National Disability
+Other moneys protected include any financial support paid to the bankrupt from
+the National Disability Insurance Scheme (as defined in the National Disability
 Insurance Scheme Act 2013 (Cth)) or a "NDIS amount", being the amount payable to
-a disabled person and as deﬁned in that Act. A proposed new law aims to protect
+a disabled person and as defined in that Act. A proposed new law aims to protect
 compensation paid to eligible survivors of institutional child sexual abuse.29
 
 Property transferred under Pt VIII of the Family Law Act
@@ -624,15 +624,15 @@ ss 35, 35A of the Bankruptcy Act.30
 
 Property held in trust
 [4.110] This is not so much an exemption as a recognition that the bankrupt has
-no beneﬁcial interest in property which he or she holds on trust for another person:
-s 116(2)(a). The property must be able to be identiﬁed as trust property and be
+no beneficial interest in property which he or she holds on trust for another person:
+s 116(2)(a). The property must be able to be identified as trust property and be
 distinguished from the bankrupt's property: Re Grey (1900) 26 VLR 214. It can often
-be a signiﬁcant issue for a trustee to determine whether claims that property is held
+be a significant issue for a trustee to determine whether claims that property is held
 on trust are valid. In particular this is so in relation to claims made by spouses or
 partners of the bankrupt.31 Trust records may be minimal.
 If there is a formal trust deed, it may require termination of the trust on the
 trustee's bankruptcy, in which case the trustee in bankruptcy holds the property on
-constructive trust for the beneﬁciaries: Bastion v Gideon Investments Pty Ltd (No 2)
+constructive trust for the beneficiaries: Bastion v Gideon Investments Pty Ltd (No 2)
 [2000] NSWSC 959.
 
 29 Commonwealth Redress Scheme for Institutional Child Sexual Abuse Bill 2017.
@@ -670,7 +670,7 @@ a percentage of any proceeds recovered: see Meriton Apartments Pty Ltd v Industr
 Court of New South Wales [2008] FCAFC 172; (2008) 171 FCR 380. The trustee is not
 generally required to give reasons for the decision to discontinue: Gray v Clout
 (1990) 27 FCR 141. Whether there is a decision to abandon or a deemed
-abandonment is not of signiﬁcance, the trustee should make clear the terms of any
+abandonment is not of significance, the trustee should make clear the terms of any
 decision to abandon the proceedings: Cole v Challenge Bank Ltd [2002] FCAFC 200.33
 An "action" in s 60(2) is construed broadly. It is not necessary that the action or its
 subject matter be divisible property; a connection between the action and the estate
@@ -680,7 +680,7 @@ Commissioner of Taxation [2015] FCA 665. It includes a right of appeal (Cummings
 32 The trustee can apply to the court under s 33 for an extension of time, even if the time has expired:
    Brien v P&E Phontos Pty Ltd [1999] FCA 1072; (1999) 91 FCR 209. Relevant factors include: (1) the
    reason for the trustee's delay in making an election; (2) in light of the merits of the litigation, any
-   prejudice to the trustee; (3) the reasonable expectation of ﬁnality in the trustee's decision-making by
+   prejudice to the trustee; (3) the reasonable expectation of finality in the trustee's decision-making by
    other parties to the litigation, and (4) the prejudice to the interests of other parties to the litigation by
    further uncertainty: Newman v Bain [2013] FCA 558; (2013) 213 FCR 370.
 33 Although s 60(2) and 60(3) serve to impose restraints on proceedings in State courts, they are not
@@ -701,7 +701,7 @@ The trustee has to take a number of factors into account, typical ones being not
 Haskins v Official Trustee in Bankruptcy [1996] FCA 242 where the court upheld the
 trustee's decision not to pursue a right of action, based on the facts that:
    "there are no funds in the estates with which to pay for an application for leave to appeal;
-   that the applicants have no assets with which to ﬁnance further proceedings; that other
+   that the applicants have no assets with which to finance further proceedings; that other
    creditors are most unlikely to provide the Trustee with an indemnity in relation to the
    costs of further proceedings which the Trustee has been advised not to pursue, and the
    risk that the court might order the Trustee personally to pay the costs of an unsuccessful
@@ -729,7 +729,7 @@ WAR 47. There is no bar to the trustee commencing a fresh proceeding on the same
 cause of action; or a bankrupt, on discharge, where there has been no determination
 of the issues: Freeman v Joiner [2005] FCAFC 149; (2005) 3 ABC (NS) 332. For that
 
-34 The High Court held that a bankrupt has no ﬁnancial interest which would confer standing to
+34 The High Court held that a bankrupt has no financial interest which would confer standing to
    appeal against a judgment for a provable debt; see also Jackson v Health Services Union [2015] FCAFC
    188. The right of a bankrupt to continue with an appeal commenced before bankruptcy is stayed
    under s 60(2).
@@ -747,7 +747,7 @@ outcome, there is a danger of the trustee being held liable for costs if the act
 fails. A court has a discretion to order that costs be paid by non-parties to an
 unsuccessful action if they support it and stand to gain from it: Knight v FP Special
 Assets Ltd (1992) 174 CLR 178. Alternatively, a court with insolvency jurisdiction
-might consider that the litigation claim should not to have been assigned in the ﬁrst
+might consider that the litigation claim should not to have been assigned in the first
 place and make orders against the practitioner accordingly.
 While such an assignment may have once been against the law of champerty and
 maintenance, such a sale by a trustee is excepted.35 However, a trustee should not
@@ -809,7 +809,7 @@ trustee: Geia v Palm Island Aboriginal Council [2001] 1 Qd R 245; Fitzpatrick v 
 (2008) 5 ABC (NS) 560. A bankrupt may be able to bring an environmental objection
 to a proposed property development as being a "personal right" vested in the
 public at large, but not if the proposed development affects property vested in the
-bankrupt estate: Stubberﬁeld v Paradise Grove [2000] QCA 299.
+bankrupt estate: Stubberfield v Paradise Grove [2000] QCA 299.
 A bankrupt has a right to sue for unpaid income, given that income is not divisible
 property: Davey v Dessco Pty Ltd & Anor (Bankruptcy) [2017] VSC 744.
 While a bankrupt person's claim under state family provision laws, invariably
@@ -826,7 +826,7 @@ Public examinations
 for example, transactions that might be challenged as voidable, the trustee, the
 Official Receiver or a creditor can apply to the court for the issue of a summons to
 have nominated persons attend for a public examination to be asked questions
-concerning the bankrupt's ﬁnancial dealings: s 81.
+concerning the bankrupt's financial dealings: s 81.
 166     Keay's Insolvency: Personal and Corporate Law and Practice                            [4.132]
 
 Those who may be called for examination include the bankrupt's spouse, family
@@ -840,7 +840,7 @@ represented and there is provision for the lawyers' costs to be paid (s 81(14)):
 Scott (Trustee), in the matter of Price (Bankrupt) [2011] FCA 1478.
 
 The family home
-[4.132] The family home is often the subject of conﬂict between the trustee and
+[4.132] The family home is often the subject of conflict between the trustee and
 the bankrupt's family. The home is often the only major asset owned by the
 bankrupt from the sale of which creditors may receive a dividend payment, subject
 to any mortgage. In many cases the amount payable under the mortgage may
@@ -860,7 +860,7 @@ vested in the bankrupt estate. If the non-bankrupt spouse cannot purchase that
 share, and does not consent to a joint sale, the trustee can obtain a "partition and
 sale" order from a court – that is an order that the whole property be sold and the
 separate interest of the trustee in the property be realised. From the proceeds of sale
-any mortgage will be satisﬁed and expenses of sale paid, and the balance will be
+any mortgage will be satisfied and expenses of sale paid, and the balance will be
 divided between the non-bankrupt spouse and the trustee in bankruptcy: see for
 example Yeo v Collings [2012] FMCA 1060.
 
@@ -889,7 +889,7 @@ debtors, a joint bankrupt estate is created and there is no severance of the joi
 tenancy – the property retains the character as jointly owned property that vests: Re
 Weber (2006) 154 FCR 80; [2009] FCA 636.
 Generally, in the case of a traditional matrimonial relationship it is presumed that
-the couple intended that each of them has a beneﬁcial one half interest in the
+the couple intended that each of them has a beneficial one half interest in the
 matrimonial home irrespective of the amounts contributed by each of them to the
 purchase price. Where the title is in the joint names of the spouses that principle is
 reinforced, such that there is no reason to assume that any different proportions
@@ -908,7 +908,7 @@ party, including a company or trust. This may have been by way of a straight gif
 property or the property may be sold for a low price. Bankruptcy law can allow the
 trustee to recover property transferred in those circumstances. Any family member
 or associate of the bankrupt who received property from the bankrupt during the
-ﬁve-year period immediately preceding the commencement of the bankruptcy may
+five-year period immediately preceding the commencement of the bankruptcy may
 have to return the property (s 120), and this may include the family home. If the
 property was given by the bankrupt with the purpose of defeating or delaying their
 creditors then s 121 of the Act may also apply. Such conduct can also involve a
@@ -946,9 +946,9 @@ Nevertheless, the interests of creditors are but one factor among many, includin
 the needs of the non-bankrupt spouse and the children: see for example Trustee for
 the Bankrupt Estate of N Lasic & Lasic [2010] FamCA 682; Debrossard v Official Trustee
 in Bankruptcy [2011] FamCA 648.
-Where a party to a ﬁnancial agreement has become bankrupt, a creditor of that
+Where a party to a financial agreement has become bankrupt, a creditor of that
 party retains standing as a creditor to apply to set aside the agreement under
-s 90K(1)(aa) of the Family Law Act: Grainger & Bloomﬁeld [2015] FamCAFC 221.
+s 90K(1)(aa) of the Family Law Act: Grainger & Bloomfield [2015] FamCAFC 221.
 To allow for the powers of the Family Court or the Federal Circuit Court, s 59A of
 the Bankruptcy Act provides that vesting of property of a spouse under s 58 has
 effect subject to an order of the Family Court for property, spousal maintenance and
@@ -964,7 +964,7 @@ family law claims, claims in equity can be made.
 41 Sarmas, "Trusts, Third Parties and the Family Home: Six Years since Cummins and Confusion Still
    Reigns" (2012) 36 MULR 216 – offering "a very useful and insightful discussion of these issues":
    Turner as Trustee of the Bankrupt Estate of Wallace v Wallace [2017] FCCA 3044 at [63].
-42 Matrimonial cause is deﬁned in s 4, and de facto relationship is deﬁned in s 4AA, of the Family Law
+42 Matrimonial cause is defined in s 4, and de facto relationship is defined in s 4AA, of the Family Law
    Act. As to the varied interpretations of "de facto" relationships in other laws, see Baker v Landon
    [2010] FMCAfam 280. As to other courts that may exercise family law jurisdiction, including the
    Federal Circuit Court, see Pt V of the Family Law Act.
@@ -995,7 +995,7 @@ individual contributions: Trustees of the Property of Cummins (a Bankrupt) v Cum
 [2006] HCA 6; (2006) 227 CLR 278.
 A constructive trust is ordinarily determined to exist and imposed by a court in
 circumstances where it would be unfair of the party owning the property to deny
-the ﬁnancial or other contributions to the property made by another party. Such a
+the financial or other contributions to the property made by another party. Such a
 trust will be imposed upon the property owner only if there is neither an express
 nor a resulting trust, or some other remedy to assist the other party is not suitable
 or available: Farah Constructions Pty Ltd v Say-Dee Pty Ltd [2007] HCA 22; (2007) 230
@@ -1003,15 +1003,15 @@ CLR 89. Its existence therefore does not depend on the intention of the parties,
 as is necessary for an express trust. The court assesses the circumstances of the
 parties existing at the time when the property is acquired although later events can
 be relevant: see Draper v Official Trustee in Bankruptcy [2006] FCAFC 157; (2006) 156
-FCR 53. A ﬁnding that there is a constructive trust, necessarily in the absence of any
-express trust, is signiﬁcant and mere repayment of the bankrupt's mortgage debt
+FCR 53. A finding that there is a constructive trust, necessarily in the absence of any
+express trust, is significant and mere repayment of the bankrupt's mortgage debt
 does not give rise to a constructive trust.
 Such interests are often raised against a trustee in bankruptcy who must assess and
 respond to the claims that the other party makes to the property of the bankrupt.43
 These claims can present problems for a trustee, particularly because they are not
 necessarily evident to the creditors or the trustee, and their proof, or disproof, can
 be difficult. In one bankruptcy case,44 the Queensland Supreme Court said, in
-ﬁnding in favour of the spouse's interest in the bankrupt's property and against the
+finding in favour of the spouse's interest in the bankrupt's property and against the
 trustee, that:
 
 43 Parsons v McBain [2001] FCA 376; (2001) 109 FCR 120.
@@ -1127,15 +1127,15 @@ or commence such an action, because the property transferred has vested in the
 trustee: McNamara v San (No 3) [2010] FCA 227; (2010) 183 FCR 328; 8 ABC(NS) 161.
 In some cases, a creditor has been given leave to proceed under such provisions, in
 effect in place of any action by the trustee under s 120 or s 121, but on condition
-that any recoveries are for the beneﬁt of the bankrupt estate, and thus available for
+that any recoveries are for the benefit of the bankrupt estate, and thus available for
 all creditors: Green v Official Trustee in Bankruptcy, in the matter of Schneller (Bankrupt)
 [2001] FCA 1644; DCT v Yeo (2007) 66 ATR 428; [2007] VSC 29.
 Family law claims can be an exception. Bankruptcy does not stay proceedings being
 brought by a spouse, de facto or other person who is entitled to claim non-divisible
 property from the bankrupt pursuant to a maintenance agreement or maintenance
 order: s 58(5A)(a). The term "maintenance agreement" includes an agreement for
-the provision of ﬁnancial maintenance of another person within the meaning of the
-Family Law Act but does not include ﬁnancial agreements under ss 90B, 90C or 90D
+the provision of financial maintenance of another person within the meaning of the
+Family Law Act but does not include financial agreements under ss 90B, 90C or 90D
 of that Act – agreements before, during and after marriage. A "maintenance order"
 includes an assessment under the Child Support (Assessment) Act 1989 (Cth).
 
@@ -1169,10 +1169,10 @@ Recoveries from creditors
 
 Voidable transactions
 [4.170] An often inevitable impact of bankruptcy can be on those who have in
-some way beneﬁted in their dealings with the bankrupt before bankruptcy.
+some way benefited in their dealings with the bankrupt before bankruptcy.
 Creditors, family members and others are liable to be pursued by the trustee under
 the voidable transaction sections of the Act, in particular s 120 or s 121. Although
-such proceedings brought by the trustee have a signiﬁcant impact on the parties
+such proceedings brought by the trustee have a significant impact on the parties
 concerned, the topic warrants its own separate chapter: see Chapter 5
 Beyond those types of recovery proceedings, the impacts of bankruptcy on other
 activities or actions by creditors are discussed here.
@@ -1263,7 +1263,7 @@ do so or pay six months' interest in lieu of notice. The mortgagee is then bound
 execute such documents as are necessary in consequence of the payment. In reality,
 this provision is little used, in particular given that cash in the amount generally
 required is not usually available.
-The deﬁnition of "secured creditor" in s 5 of the Bankruptcy Act means, in the case
+The definition of "secured creditor" in s 5 of the Bankruptcy Act means, in the case
 of a debt secured by a "PPSA security interest", the "PPSA secured party" if the
 interest is "perfected". In the case of any other debt, secured creditor means a
 person holding a mortgage, charge or lien on property of the debtor as a security
@@ -1277,7 +1277,7 @@ unperfected security interest, vests in the trustee on the debtor's bankruptcy: 
 s 267.
 This has the serious consequence that the secured creditor would therefore become
 an unsecured creditor in the bankruptcy and their secured personal property can be
-sold to beneﬁt all creditors.
+sold to benefit all creditors.
 
 Property of a bankrupt subject to criminal or penalty orders
 [4.195] If property of a bankrupt is covered by a "restraining order" or a
@@ -1285,7 +1285,7 @@ Property of a bankrupt subject to criminal or penalty orders
 bankruptcy, such property does not vest in the trustee under s 58(1). The same
 applies to property subject to a pecuniary penalty order: s 58A.
 The policy here is that property gained by criminal means should not be available
-to creditors. Such property may be conﬁscated under the proceeds of crime
+to creditors. Such property may be confiscated under the proceeds of crime
 legislation. Sections 114A, 114B and 114C of the Bankruptcy Act concern proceeds of
 crime orders made on or after the date of the bankruptcy, as well as applications for
 such orders. Proceeds of crime orders are handled by the Australian Federal Police.
@@ -1300,7 +1300,7 @@ relation back and what protections there are for those holding such property.
 
 As explained at [2.05], the trustee can claim all property of the bankrupt at the
 earlier date of "commencement" of the bankruptcy under s 115. This period is
-generally the most signiﬁcant in the case of bankruptcies occurring on creditors'
+generally the most significant in the case of bankruptcies occurring on creditors'
 petitions where the bankrupt committed an act of bankruptcy in the six months
 preceding the presentation of the creditor's petition and the sequestration order is
 then made some months later.
@@ -1323,14 +1323,14 @@ transfers or assignments by the debtor for valuable consideration and contracts
 with the debtor for valuable consideration.
 In the context of s 123,51 "good faith" connotes honesty and requires proof of more
 than a lack of dishonesty. The person, usually a creditor, must not subjectively seek
-to beneﬁt at the expense of other creditors or to collude with the debtor in
+to benefit at the expense of other creditors or to collude with the debtor in
 prejudicing them. The requirement of good faith is often of little importance in
 view of the requirement for market value to have been paid.
 The phrase "in the ordinary course of business" is one that is common in law, and
 in insolvency law. It refers to regular transactions and activity that take place
 without any particular comment or issue arising. It does not refer to the particular
 business conducted by the parties but to a transaction which it would be usual for
-the parties to enter as a matter of business, uninﬂuenced by any apprehension that
+the parties to enter as a matter of business, uninfluenced by any apprehension that
 the debtor might be insolvent.52
 For example, payments made as a result of certain pressures applied to the debtor,
 such as the sending of a solicitor's letter of demand53 or the issuing of a
@@ -1340,7 +1340,7 @@ such as the sending of a solicitor's letter of demand53 or the issuing of a
    context of s 120(6).
 52 See Downs Distributing Co Pty Ltd v Associated Blue Star Stores Pty Ltd (1948) 76 CLR 463, 480; Taylor
    v White (1964) 110 CLR 129, 136. For the historical development of the phrase, see Harkness v
-   Partnership Paciﬁc Ltd (1997) 41 NSWLR 204.
+   Partnership Pacific Ltd (1997) 41 NSWLR 204.
 53 Re Bird; Ex parte Azzopardi [1979] FCA 95; (1979) 39 FLR 277.
 [4.215]                                                              4 Impact of Bankruptcy    177
 
@@ -1353,7 +1353,7 @@ Merely being aware that the debtor has committed an act of bankruptcy does not
 necessarily mean that the transaction was not in the ordinary course of business,
 nor that it constituted a lack of good faith: s 123(3).
 Section 123(4) protects from recovery from the government, a debtor's payment of a
-ﬁne or penalty before bankruptcy. The protection extends only to a ﬁne or penalty
+fine or penalty before bankruptcy. The protection extends only to a fine or penalty
 imposed by a court in respect of an offence: see also [5.05].
 It is important to understand that s 123 is subject to ss 118 – 122 and ss 128B and
 128C. Therefore, while a transaction may not be set aside under the doctrine of
@@ -1411,10 +1411,10 @@ criminal action: Moore-McQuillan v Scot [2006] FCA 63.
 A protective order under s 60(1) may be made at any time after the presentation of
 a petition against a bankrupt: Storey v Lane [1981] HCA 47; (1981) 147 CLR 549.
 Otherwise, a bankrupt remains liable for the consequences of their criminal conduct
-– that is, to pay a penalty or ﬁne that is not a provable debt, or to be subject to
-imprisonment. A bankrupt's limited capacity to pay non-provable penalties or ﬁnes
-does not necessarily stop a court ordering that a ﬁne be paid and ordering
-imprisonment for default: ACCC v Hartwich [2002] FCA 273. However, a ﬁne should
+– that is, to pay a penalty or fine that is not a provable debt, or to be subject to
+imprisonment. A bankrupt's limited capacity to pay non-provable penalties or fines
+does not necessarily stop a court ordering that a fine be paid and ordering
+imprisonment for default: ACCC v Hartwich [2002] FCA 273. However, a fine should
 not be imposed as, in effect, a de facto order for imprisonment. In Australian
 Securities Commission v Forem-Freeway Enterprises Pty Ltd [1999] FCA 179; 30 ACSR
 339 the court had regard to potential rehabilitation of the defendant bankrupt,
@@ -1427,7 +1427,7 @@ can be subject to criminal liability arising from their conduct as a bankrupt, o
 conduct prior to bankruptcy. Prior conduct may only become an offence once
 bankruptcy has later occurred; one example is gambling: s 271.
 Most of the offences are contained in Pt XIV of the Act, ss 263 to 277B – though
-more speciﬁc ones are found throughout. The offences under the Act can be
+more specific ones are found throughout. The offences under the Act can be
 categorised in terms of conduct prior to bankruptcy and conduct during
 bankruptcy.
 
@@ -1446,17 +1446,17 @@ transfers of property, which offences are punishable by imprisonment for one yea
 In Rodway v White [2009] WASC 201, the bankrupt was convicted of an offence
 under s 265(1)(a) in failing to declare after-acquired property in the nature of shares
 purchased.57 Section 78 makes it an offence to conceal property.
-A signiﬁcant criminal provision that serves to protect the business community is
+A significant criminal provision that serves to protect the business community is
 that a bankrupt is not permitted to obtain credit of over $5,61358 without disclosing
 to the credit provider that he or she is an undischarged bankrupt: s 269. Carrying
 on business under another name without disclosure of bankruptcy is an offence, as
 is paying a creditor with a cheque without such disclosure. Breach can lead to
 imprisonment for three years. This offence also applies to Pt IX debt agreements.
-Failure to ﬁle a statement of affairs is an offence under s 54; although that breach is
+Failure to file a statement of affairs is an offence under s 54; although that breach is
 also regulated by the fact that the three-year (or, as proposed, one year) period of
-bankruptcy does not commence until that statement is ﬁled: s 149. See [7.115]. A
+bankruptcy does not commence until that statement is filed: s 149. See [7.115]. A
 related and more serious offence is committed under s 267B if the bankrupt fails to
-ﬁle a statement of affairs in response to a s 77CA notice issued by the Official
+file a statement of affairs in response to a s 77CA notice issued by the Official
 Receiver: see [6.30].59
 Failure of a bankrupt to comply with a court order can render the bankrupt liable
 to arrest and committal to prison: s 78(1)(f). The court also has general contempt
@@ -1472,7 +1472,7 @@ only imposed in serious instances, again indicative of the retention, within the
 terms of the law itself, of the stigma of bankruptcy.60
 
 57 See also R v Owen-Pearse [1996] SASC 5420; (1996) 66 SASR 344.
-58 As at 2018. The ﬁgure of $3,000 in the section is subject to indexation, under s 304A.
+58 As at 2018. The figure of $3,000 in the section is subject to indexation, under s 304A.
 59 See Commonwealth Director of Public Prosecutions – Bankruptcy Prosecutions, Instruction No 8,
    November 2017; and "Choice of Charge – Revised CDPP Guidelines for Prosecuting a Failure to File
    Statement of Affairs" (2018) 16(1) Personal Insolvency Regulator 4.
@@ -1542,9 +1542,9 @@ s 80 of the Bankruptcy Act – or not punishable by imprisonment at all – such
 of the Bankruptcy Act – are summary offences, in respect of both sections, unless the
 contrary intention appears.
 A person may be prosecuted for an offence against the Bankruptcy Act even though
-their particular personal insolvency arrangement is ﬁnalised: s 275.
+their particular personal insolvency arrangement is finalised: s 275.
 The time limit for prosecution of most bankruptcy offences is one year, where the
-maximum penalty is less than six months' imprisonment or is merely a ﬁne. Where
+maximum penalty is less than six months' imprisonment or is merely a fine. Where
 the offence involves a penalty of over six months imprisonment, there is no time
 limit. See s 15B(1) of the Crimes Act 1914.
 Chapter 2 of the Commonwealth Criminal Code, which sets out the general principles
@@ -1575,7 +1575,7 @@ a suspected offence is too trivial to refer. In 2016-17, 568 PREs were received 
 assessed by AFSA of which approximately 418 (74%) did not require a detailed
 offence referral from the practitioner.
 AFSA also encourages public "tip-offs", being information given to AFSA (either on
-a discrete/conﬁdential basis or not) that is not usually part of a complaint or
+a discrete/confidential basis or not) that is not usually part of a complaint or
 alleged offence referral but which may facilitate AFSA to administer the personal
 insolvency system or the operations of the PPSR.
 AFSA also publishes regular statistics on the number of offence referrals (in
@@ -1585,27 +1585,27 @@ in relation to 126 charges, involving $1.3 million). One example66 is the case o
 bankrupt who failed to declare his interest in a property owned with his wife, and
 to declare the sale of three properties within 12 months of his bankruptcy. He had
 also travelled overseas on eight occasions without obtaining written consent from
-his trustee. He pleaded guilty and was ﬁned $3,000, plus ordered to pay court costs.
+his trustee. He pleaded guilty and was fined $3,000, plus ordered to pay court costs.
 Another withdrew $50,000 from his personal bank account, apparently gambling
-the amount away over six weeks. He was ﬁned $2,500 plus costs, the Magistrate
+the amount away over six weeks. He was fined $2,500 plus costs, the Magistrate
 saying that had he any prior convictions, a community corrections order would
 have been imposed. Suspended sentences are imposed, imprisonment infrequently,
 but a bankrupt was sentenced to nine months jail for failing to account for cash
 proceeds of $164,000 following the sale of his home just before bankruptcy and
-other related offences, as well as a failure to ﬁle his statement of affairs; he was to
-be released after 3 months conditional upon his good behaviour and his ﬁling of a
+other related offences, as well as a failure to file his statement of affairs; he was to
+be released after 3 months conditional upon his good behaviour and his filing of a
 statement of affairs.67
 The bankrupt's conduct both before and during the period of their bankruptcy
 therefore comes under review by the trustee.
-Most offences relate to the failure to ﬁle a statement of affairs68 or omissions from
-the statement of affairs ﬁled, along with false declarations and disposing of
+Most offences relate to the failure to file a statement of affairs68 or omissions from
+the statement of affairs filed, along with false declarations and disposing of
 property before bankruptcy.69
 
 CONCLUSION
 [4.250] We have explained what immediate and long-term impacts there are on a
 person when bankruptcy occurs, and on the property that the bankrupt owns or in
 which he or she has an interest. But in many cases, on being appointed, the trustee
-will ﬁnd that property has been disposed of prior to bankruptcy, and lies in the
+will find that property has been disposed of prior to bankruptcy, and lies in the
 hands of third parties; or that some creditors have been paid their debts, such that
 there is little or nothing for the remaining creditors. Bankruptcy law, and
 insolvency law generally, addresses these issues by giving powers to a trustee to

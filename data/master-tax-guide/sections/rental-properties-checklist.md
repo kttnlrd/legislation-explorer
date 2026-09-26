@@ -21,7 +21,7 @@ paragraph: "¶44-107"
 
   the property was not pre-CGT (¶10-340, ¶11-250).
 
-- If the purpose of purchasing a rental property is to make a one-oﬀ speculative proﬁt on buying and
+- If the purpose of purchasing a rental property is to make a one-off speculative profit on buying and
 
   selling the property within a relatively short time-frame, any gain on that sale will be assessable and
 
@@ -59,7 +59,7 @@ paragraph: "¶44-107"
 
 - The initial expenses associated with borrowing money to purchase a rental property may be
 
-  written oﬀ over a period of years (¶16-800).
+  written off over a period of years (¶16-800).
 
 - A deduction is available for the expense of discharging a mortgage over a property that has been
 
@@ -71,17 +71,17 @@ paragraph: "¶44-107"
 
 (¶11-760). However, this exemption is not available if the individual is a non-resident at the time of sale (¶11-750).
 
-- An additional CGT discount of up to 10% is available for individuals who invest in aﬀordable
+- An additional CGT discount of up to 10% is available for individuals who invest in affordable
 
   housing from 1 January 2018 (¶11-036). Generally, the property is required to be rented to
 
-  aﬀordable housing tenants for an aggregate period of 3 years.
+  affordable housing tenants for an aggregate period of 3 years.
 
 - The mere receipt of a bond by a taxpayer does not constitute assessable income. However, to
 
   the extent that the bond is actually retained in lieu of unpaid rent, the amount retained may be
 
-  assessable income (¶10-020). Bond moneys retained to pay for deductible repairs may be oﬀset
+  assessable income (¶10-020). Bond moneys retained to pay for deductible repairs may be offset
 
   against the deduction (¶16-700). Amounts received from the lessee for non-compliance with a
 
@@ -115,9 +115,9 @@ paragraph: "¶44-107"
 
   upgrading a property (¶16-740).
 
-- In appropriate circumstances, negative gearing can provide tax beneﬁts (¶16-740, ¶31-170). A
+- In appropriate circumstances, negative gearing can provide tax benefits (¶16-740, ¶31-170). A
 
-  taxpayer may also be able to apply for reduced levels of PAYG instalments to reﬂect the reduction
+  taxpayer may also be able to apply for reduced levels of PAYG instalments to reflect the reduction
 
   in taxable income resulting from the accruing rental loss (¶26-130).
 
@@ -151,15 +151,15 @@ paragraph: "¶44-107"
 
   an annual rate of 2.5% (¶20-470).
 
-- A taxpayer can claim a deduction for the decline in value of furniture and ﬁttings purchased and
+- A taxpayer can claim a deduction for the decline in value of furniture and fittings purchased and
 
-  installed in the rental property. However, no deduction is allowable for furniture and ﬁttings that
+  installed in the rental property. However, no deduction is allowable for furniture and fittings that
 
   were purchased and installed by a previous owner (¶17-040, ¶16-650).
 
 - A "balancing adjustment" may be required when the taxpayer stops holding a depreciating asset.
 
-The adjustment is generally based on the diﬀerence between the value of the asset when the taxpayer stops holding it and its adjustable value (¶17-630).
+The adjustment is generally based on the difference between the value of the asset when the taxpayer stops holding it and its adjustable value (¶17-630).
 
 - Tax concessions may be available for eligible build-to-rent developments (¶20-520, ¶26-267).
 
@@ -177,9 +177,9 @@ The adjustment is generally based on the diﬀerence between the value of the as
 
   family trust (¶31-540) or a unit trust (¶31-560).
 
-- A refundable tax oﬀset may be available where the investor participates in the National Rental
+- A refundable tax offset may be available where the investor participates in the National Rental
 
-  Aﬀordability Scheme (¶20-605).
+  Affordability Scheme (¶20-605).
 
 ## Acquiring and selling a rental property
 

@@ -7,7 +7,7 @@ paragraph: "¶44-105"
 ---
 # Small business tax concessions checklist ¶44-105
 
-The checklist below identiﬁes special tax exemptions and concessions that apply to small businesses, and provides cross-references to further detail.
+The checklist below identifies special tax exemptions and concessions that apply to small businesses, and provides cross-references to further detail.
 
 - Small business companies are taxed at a lower corporate rate of 25%. The lower tax rate is
 
@@ -25,7 +25,7 @@ The checklist below identiﬁes special tax exemptions and concessions that appl
 
 - Small business entities can immediately deduct assets costing $20,000 or less. To be eligible
 
-  for the instant asset write oﬀ, the asset must be ﬁrst used or installed between 1 July 2023 and 30
+  for the instant asset write off, the asset must be first used or installed between 1 July 2023 and 30
 
 June 2025. Various other limits apply for previous time periods (¶7-250).
 
@@ -51,7 +51,7 @@ $5,000 need not bring their stock to account, and any change in the value of tra
 
 - A 20% bonus deduction is available for businesses with less than $50 million in aggregated
 
-  turnover for expenditure supporting electriﬁcation and energy eﬃciency between 1 July 2023 and
+  turnover for expenditure supporting electrification and energy efficiency between 1 July 2023 and
 
 30 June 2024 (¶7-270, ¶16-152).
 
@@ -87,7 +87,7 @@ $5,000 need not bring their stock to account, and any change in the value of tra
 
   million can elect to lodge returns annually and pay GST by quarterly instalments (¶34-150).
 
-- Small business (¶7-050) and non-proﬁt entities that are voluntarily registered for GST have the
+- Small business (¶7-050) and non-profit entities that are voluntarily registered for GST have the
 
   option of reporting and paying their GST on an annual basis (¶34-150).
 
@@ -111,13 +111,13 @@ $5,000 need not bring their stock to account, and any change in the value of tra
 
   than $20 million (¶34-150).
 
-- Simpliﬁed accounting methods apply to small food retailers and certain other businesses with
+- Simplified accounting methods apply to small food retailers and certain other businesses with
 
   aggregated turnover less than $50 million (¶34-165).
 
-- Input tax credits can be claimed on certain acquisitions related to making ﬁnancial supplies if the
+- Input tax credits can be claimed on certain acquisitions related to making financial supplies if the
 
-  credits do not exceed a speciﬁed threshold (¶34-190).
+  credits do not exceed a specified threshold (¶34-190).
 
 - Entities with aggregated turnover less than $50 million are eligible to pay PAYG instalments
 
@@ -127,7 +127,7 @@ $5,000 need not bring their stock to account, and any change in the value of tra
 
   and have an exemption from FBT (¶35-254).
 
-- Employers with average wage bills below speciﬁed thresholds, varying from state to state, are not
+- Employers with average wage bills below specified thresholds, varying from state to state, are not
 
   liable for payroll tax (¶36-030).
 

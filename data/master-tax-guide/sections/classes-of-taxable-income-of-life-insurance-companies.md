@@ -11,7 +11,7 @@ paragraph: "¶3-490"
 
 Alternatively, the company may have a tax loss of each class, or a taxable income of one class and a tax loss of the other class (ITAA97 s 320-135). The company's tax losses of a particular class can be deducted only from its income in respect of that class (ITAA97 s 320-134).
 
-The company's basic income tax liability (before tax oﬀsets) is worked out separately for each class. The company's tax oﬀsets are then deducted from the sum of these amounts to arrive at the company's income tax on its taxable income for the income year (s 320-134).
+The company's basic income tax liability (before tax offsets) is worked out separately for each class. The company's tax offsets are then deducted from the sum of these amounts to arrive at the company's income tax on its taxable income for the income year (s 320-134).
 
 Ordinary class of taxable income The "ordinary class" of taxable income of a life insurance company is worked out on the basis of only:
 
@@ -25,7 +25,7 @@ Ordinary class of taxable income The "ordinary class" of taxable income of a lif
 
 Tax losses of the ordinary class are worked out on the basis of the relevant assessable income and deductions (above) and net exempt income of the company that is not attributable to exempt income derived from the company's complying superannuation assets (while they were complying superannuation assets).
 
-Tax loss adjustments under ITAA97 s 36-55 (converting excess franking oﬀsets to tax loss: ¶3-075) aﬀect only tax losses of the ordinary class. Similarly, a life insurance company that fails to meet the continuity of ownership and business continuity tests for deducting losses will need to recalculate the ordinary class of its taxable income and tax loss under ITAA97 Subdiv 165-B. Its complying superannuation class will not be aﬀected (ITAA97 s 320-149).
+Tax loss adjustments under ITAA97 s 36-55 (converting excess franking offsets to tax loss: ¶3-075) affect only tax losses of the ordinary class. Similarly, a life insurance company that fails to meet the continuity of ownership and business continuity tests for deducting losses will need to recalculate the ordinary class of its taxable income and tax loss under ITAA97 Subdiv 165-B. Its complying superannuation class will not be affected (ITAA97 s 320-149).
 
 A tax loss of the ordinary class can be deducted from: (i) net exempt income of the company that is not attributable to exempt income derived from the company's complying superannuation assets (while they were complying superannuation assets); and (ii) assessable income of the ordinary class, reduced by deductions of the ordinary class (ITAA97 s 320-143).
 
@@ -65,7 +65,7 @@ The items of assessable income that are attributed to the complying superannuati
 
 - amounts that are included in the company's assessable income under ITAA97 s 115-280(4),
 
-  which deals with distributions that ﬂow indirectly from a listed investment company
+  which deals with distributions that flow indirectly from a listed investment company
 
 - assessable income attributable to RSAs.
 
@@ -95,7 +95,7 @@ Relevant deductions The deductions that are attributed to the complying superann
 
   attributable to capital gains that the company is taken to have under s 115-215(3) in respect of
 
-  complying superannuation assets. This deduction ensures that a beneﬁciary is not taxed twice on a
+  complying superannuation assets. This deduction ensures that a beneficiary is not taxed twice on a
 
   trust amount that is attributable to a trust estate's net capital gain.
 

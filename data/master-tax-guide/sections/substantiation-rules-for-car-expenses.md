@@ -15,13 +15,13 @@ If a taxpayer wishes to claim car expenses by reference to actual expenses appor
 
 Under this method, claims must be supported by written evidence, logbook records and odometer records (ITAA97 ss 900-70; 900-75).
 
-Example A taxpayer's total car expenses, including depreciation, for the income year amount to $9,000 and the business proportion of these expenses is 70%. Where the requirements of the logbook method are satisﬁed, the taxpayer's deduction for car expenses would be calculated as 70% × $9,000 = $6,300.
+Example A taxpayer's total car expenses, including depreciation, for the income year amount to $9,000 and the business proportion of these expenses is 70%. Where the requirements of the logbook method are satisfied, the taxpayer's deduction for car expenses would be calculated as 70% × $9,000 = $6,300.
 
 Taxpayers can get full or partial exemption from the substantiation rules by electing to make their claim on an arbitrary basis. From the 2015–16 year, this is achieved by using the cents per kilometre method because this calculation does not directly relate to the taxpayer's actual expenditure on business usage. Note that the one-third of actual expenses method and the 12% of original value method ceased to apply from the 2015– 16 income year, and details of these former arbitrary methods can be found in the Australian Master Tax Guide (57th and earlier editions).
 
 The 2 available methods are shown below. For guidance as to which method will provide the greatest deduction in particular circumstances, see ¶16-375.
 
-Method                                                        Extent of substantiation required Logbook method                                                                        Logbooks required to be kept for at least 12 weeks in the ﬁrst year and then every 5 years (¶16-350).
+Method                                                        Extent of substantiation required Logbook method                                                                        Logbooks required to be kept for at least 12 weeks in the first year and then every 5 years (¶16-350).
 
 Odometer records required (¶16-360).
 
@@ -35,7 +35,7 @@ Cents per kilometre method                                                      
 
 Taxpayers are not required to lodge their supporting records with their returns. However, they must produce them if required to do so by the Commissioner (ITAA97 ss 900-75; 900-160 to 900-185).
 
-Records must be kept for 5 years after the relevant return is lodged or until the relevant dispute is settled (ss 900-165; 900-170). Where the logbook method is used, the retention period applies from the date of lodgment of the last return in which a claim is based on those records. The Commissioner has a limited discretion to disregard a failure to comply with the retention requirements applying in respect of logbooks and odometer records. The substantiation rules will not apply where the nature and quality of the evidence the taxpayer has to substantiate the expenses (under the logbook method) satisﬁes the Commissioner that the taxpayer: (a) incurred the expense; and (b) is entitled to deduct the amount claimed (ITAA97 s 900-195; 900-200). For the rules applicable where records are lost or destroyed, see ¶16-340.
+Records must be kept for 5 years after the relevant return is lodged or until the relevant dispute is settled (ss 900-165; 900-170). Where the logbook method is used, the retention period applies from the date of lodgment of the last return in which a claim is based on those records. The Commissioner has a limited discretion to disregard a failure to comply with the retention requirements applying in respect of logbooks and odometer records. The substantiation rules will not apply where the nature and quality of the evidence the taxpayer has to substantiate the expenses (under the logbook method) satisfies the Commissioner that the taxpayer: (a) incurred the expense; and (b) is entitled to deduct the amount claimed (ITAA97 s 900-195; 900-200). For the rules applicable where records are lost or destroyed, see ¶16-340.
 
 For situations in which car expenses need not be calculated using the logbook or cents per kilometre methods, see ¶16-324. substantiation rules?
 
@@ -85,17 +85,17 @@ The choice may also be made for all types of cars in any of the following circum
 
   rules?
 
-What car expenses are aﬀected by the substantiation rules?
+What car expenses are affected by the substantiation rules?
 
-Car expenses aﬀected by the substantiation rules are any losses or outgoings to do with a car, or to do with operating a car (eg fuel, oil, servicing and interest) and depreciation (ITAA97 s 28-13). In the case of depreciation, the substantiation rules are relevant to establishing the cost of the vehicle.
+Car expenses affected by the substantiation rules are any losses or outgoings to do with a car, or to do with operating a car (eg fuel, oil, servicing and interest) and depreciation (ITAA97 s 28-13). In the case of depreciation, the substantiation rules are relevant to establishing the cost of the vehicle.
 
 Car expenses do not include taxi fares or similar losses or outgoings, or expenses on travel outside Australia — these may be subject to the substantiation rules relating to work expenses (¶16-210) or to business travel expenses (¶16-300).
 
 Intermittent hire car expenses are not subject to the provisions of ITAA97 Div 28. However, if they relate to travel outside Australia, they may be treated as work expenses (¶16-210) or business travel expenses (¶16-300). Expenses incurred in hiring cars on a long-term basis are subject to the car expenses substantiation rules (ITAA97 s 28-165; see also PR 2024/14).
 
-If car expenses related to award transport payments (¶16-210) are deducted without written evidence, and without using the logbook or cents per kilometre methods (2 methods), a taxpayer's use of those methods is aﬀected. This is especially relevant to a taxpayer whose car expenses are not incurred solely to derive award transport payments. The taxpayer may use either of the 2 methods for their non-award car expenses.
+If car expenses related to award transport payments (¶16-210) are deducted without written evidence, and without using the logbook or cents per kilometre methods (2 methods), a taxpayer's use of those methods is affected. This is especially relevant to a taxpayer whose car expenses are not incurred solely to derive award transport payments. The taxpayer may use either of the 2 methods for their non-award car expenses.
 
-However, the kilometres related to the award transport payments are not counted as business kilometres when using either method, and, in the case of the logbook method, the logbook requirements must be satisﬁed for all car expenses (including the expenses related to the award payments) (ITAA97 ss 28-180; 900-250). of car expenses
+However, the kilometres related to the award transport payments are not counted as business kilometres when using either method, and, in the case of the logbook method, the logbook requirements must be satisfied for all car expenses (including the expenses related to the award payments) (ITAA97 ss 28-180; 900-250). of car expenses
 
 *Refs: s 28-90(5)), s 900-75, s 900-165, ITAA97 s 900-195, s 28-12, s 8-1), s 28-170, ITAA97 s 28-13), ITAA97 s 28-165, s 28-180*
 

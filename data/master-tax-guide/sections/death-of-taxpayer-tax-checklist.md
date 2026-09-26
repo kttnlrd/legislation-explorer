@@ -9,7 +9,7 @@ paragraph: "¶44-170"
 
 - The trustee of the deceased estate, administrator or legal personal representative (together
 
-"LPR") of a deceased is generally required to lodge a ﬁnal, "date of death" individual tax return of the deceased's income covering the period from the beginning of the ﬁnancial year up to the date of death, and any other outstanding returns (¶2-080, ¶25-530).
+"LPR") of a deceased is generally required to lodge a final, "date of death" individual tax return of the deceased's income covering the period from the beginning of the financial year up to the date of death, and any other outstanding returns (¶2-080, ¶25-530).
 
 - If an assessment had been served on the taxpayer but remained unpaid at the time of death, the
 
@@ -21,13 +21,13 @@ paragraph: "¶44-170"
 
   the return only relates to part of the year (¶2-080).
 
-- In the date of death return, expenditure incurred by the LPR in relation to the income tax aﬀairs of
+- In the date of death return, expenditure incurred by the LPR in relation to the income tax affairs of
 
   the deceased is deductible against the deceased's income (¶6-030, ¶16-850).
 
-- A taxpayer's accrued losses can be oﬀset against their income in the date of death tax return.
+- A taxpayer's accrued losses can be offset against their income in the date of death tax return.
 
-Similarly, the taxpayer's capital losses can be oﬀset against their capital gains in order to determine the taxpayer's net capital gain or loss for that return. However, in either case, unrecouped losses cannot generally be carried forward to the estate or the beneﬁciaries (¶12-570).
+Similarly, the taxpayer's capital losses can be offset against their capital gains in order to determine the taxpayer's net capital gain or loss for that return. However, in either case, unrecouped losses cannot generally be carried forward to the estate or the beneficiaries (¶12-570).
 
 - Tax payable on the basis of the deceased's date of death return, or in relation to any earlier year
 
@@ -37,27 +37,27 @@ Similarly, the taxpayer's capital losses can be oﬀset against their capital ga
 
 - The LPR may be able to obtain a release from payment of tax where payment would cause
 
-  serious hardship to the beneﬁciaries (¶25-450).
+  serious hardship to the beneficiaries (¶25-450).
 
 - The LPR may be personally liable for tax payable by the estate if they have failed to set aside
 
-  suﬃcient assets from the estate to pay it (¶6-040, ¶25-530).
+  sufficient assets from the estate to pay it (¶6-040, ¶25-530).
 
 - The LPR is required to lodge trust returns for income derived or received by the deceased estate
 
   after the date of death. The trust returns must be lodged for the period from the date of death
 
-  up to the end of the ﬁnancial year, and thereafter for each ﬁnancial year until the estate is fully
+  up to the end of the financial year, and thereafter for each financial year until the estate is fully
 
   administered (¶6-030).
 
 - Income derived by the estate during the period of administration is normally assessable to the
 
-  estate, not to the beneﬁciaries, as they are not "presently entitled" (¶6-190).
+  estate, not to the beneficiaries, as they are not "presently entitled" (¶6-190).
 
 - Generally, an estate in course of administration is subject to normal marginal rates for the period
 
-  from the date of death up to the end of the ﬁnancial year and for the following 2 ﬁnancial years
+  from the date of death up to the end of the financial year and for the following 2 financial years
 
 (¶42-030). Thereafter, the estate will be taxed at s 99 rates (¶6-190).
 
@@ -67,27 +67,27 @@ Similarly, the taxpayer's capital losses can be oﬀset against their capital ga
 
 - The LPR may be personally liable for tax payable by the estate if they have failed to set aside
 
-  suﬃcient assets from the estate to pay it (¶6-040, ¶25-530).
+  sufficient assets from the estate to pay it (¶6-040, ¶25-530).
 
 - Where income is derived after the estate has been fully administered, the income will be
 
-  assessable to any beneﬁciaries that are presently entitled and are not minors. Otherwise it is
+  assessable to any beneficiaries that are presently entitled and are not minors. Otherwise it is
 
   assessable to the estate (¶6-190).
 
-- The Commissioner's right to recover unpaid taxes of the deceased from the beneﬁciaries is
+- The Commissioner's right to recover unpaid taxes of the deceased from the beneficiaries is
 
   limited (¶25-510).
 
-- The ATO may accept an appropriate apportionment of income between the LPR and beneﬁciaries
+- The ATO may accept an appropriate apportionment of income between the LPR and beneficiaries
 
   for the income year in which an estate becomes fully administered (¶6-190).
 
 - Generally, where a taxpayer dies, there are no CGT implications where the asset passes to the
 
-LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed of (¶12-570 – ¶12-590).
+LPR or beneficiary, but CGT may apply when that asset is subsequently disposed of (¶12-570 – ¶12-590).
 
-- Assets forming part of the estate are deemed to have been acquired by the LPR or beneﬁciary at
+- Assets forming part of the estate are deemed to have been acquired by the LPR or beneficiary at
 
   the date of death of the deceased (¶12-580).
 
@@ -115,13 +115,13 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
   the date and cost of acquisition (¶12-580).
 
-- CGT generally does not apply where an estate asset is transferred by the LPR to a beneﬁciary
+- CGT generally does not apply where an estate asset is transferred by the LPR to a beneficiary
 
   (¶12-570 – ¶12-590).
 
-- Where an asset passes to a remainder beneﬁciary on the subsequent death of a life tenant, the
+- Where an asset passes to a remainder beneficiary on the subsequent death of a life tenant, the
 
-  remainder beneﬁciary is taken to have acquired the asset when the original deceased owner died
+  remainder beneficiary is taken to have acquired the asset when the original deceased owner died
 
 (¶12-580).
 
@@ -131,13 +131,13 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
 - Where the deceased would have been entitled to the small business CGT concessions, the LPR,
 
-  beneﬁciary or surviving joint tenant may claim that entitlement in relation to CGT events occurring
+  beneficiary or surviving joint tenant may claim that entitlement in relation to CGT events occurring
 
   within a certain period (generally 2 years) after the date of death (¶7-160).
 
 - An asset that was a personal-use asset of the deceased is treated as a personal-use asset of the
 
-  representative or beneﬁciary, and is therefore subject to the special provisions applying to those
+  representative or beneficiary, and is therefore subject to the special provisions applying to those
 
   assets on disposal. A corresponding rule applies to collectables (¶12-580).
 
@@ -151,33 +151,33 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
 - Where a taxpayer makes a post-CGT improvement to a pre-CGT asset and the improved asset is
 
-  inherited by a beneﬁciary on the taxpayer's subsequent death, the improvement and the asset are
+  inherited by a beneficiary on the taxpayer's subsequent death, the improvement and the asset are
 
-  treated as one asset when acquired by the beneﬁciary (¶11-410).
+  treated as one asset when acquired by the beneficiary (¶11-410).
 
-- A deceased's capital losses can be oﬀset against their capital gains in order to determine their net
+- A deceased's capital losses can be offset against their capital gains in order to determine their net
 
   capital gain or loss for the period up to the date of death. However, any unrecouped loss cannot be
 
-  carried forward to the estate or the beneﬁciaries (¶12-570).
+  carried forward to the estate or the beneficiaries (¶12-570).
 
-- Special rules apply where an asset passes to a beneﬁciary that is an exempt entity (¶11-350), a
+- Special rules apply where an asset passes to a beneficiary that is an exempt entity (¶11-350), a
 
   non-resident (¶12-720) or the trustee of a complying superannuation fund (¶12-580).
 
 - Special tax treatment applies to payments received after death in consequence of the deceased's
 
-  termination of employment, with special concessions applying where the beneﬁciary was an eligible
+  termination of employment, with special concessions applying where the beneficiary was an eligible
 
   dependant (¶14-680).
 
-- Payments for unused annual leave and long service leave made to the LPR or beneﬁciary on an
+- Payments for unused annual leave and long service leave made to the LPR or beneficiary on an
 
   employee's death are tax-free (¶14-720, ¶14-730).
 
-- The taxation of superannuation death beneﬁts varies depending on whether the payment is in
+- The taxation of superannuation death benefits varies depending on whether the payment is in
 
-  a lump sum or income stream and on whether the beneﬁciary is an eligible dependant (¶14-270,
+  a lump sum or income stream and on whether the beneficiary is an eligible dependant (¶14-270,
 
 ¶14-280).
 
@@ -203,7 +203,7 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
   income only where the income of the estate is derived from assets originally transferred to
 
-  the estate. The same applies to beneﬁts received on the death of another person such as life
+  the estate. The same applies to benefits received on the death of another person such as life
 
   assurance or superannuation (¶2-180).
 
@@ -235,7 +235,7 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
   tax liability relating to their pay or allowances (¶10-750).
 
-- Compensation paid for death resulting from the service of speciﬁed personnel contributed by
+- Compensation paid for death resulting from the service of specified personnel contributed by
 
   Australia to an armed force of the United Nations overseas is exempt (¶10-780).
 
@@ -245,7 +245,7 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
 - There are no state death duties imposed on the value of the deceased estate.
 
-- Duty may apply where assets are transferred to LPR or to beneﬁciaries under the estate but, if so,
+- Duty may apply where assets are transferred to LPR or to beneficiaries under the estate but, if so,
 
   this will typically be at a nominal rate. Other transfers may be subject to duty at full rates (¶37-020).
 
@@ -253,7 +253,7 @@ LPR or beneﬁciary, but CGT may apply when that asset is subsequently disposed 
 
   the deceased's death (eg ¶38-010).
 
-- The possible impact on the deceased beneﬁciaries' social security entitlements may need to be
+- The possible impact on the deceased beneficiaries' social security entitlements may need to be
 
   taken into account.
 

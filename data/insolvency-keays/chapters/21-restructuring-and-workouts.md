@@ -56,7 +56,7 @@ supervision of the courts and stakeholders. However, the social narrative regard
 insolvency is changing.
 There has long been recognition that insolvency proceedings are limited in the
 extent to which they can assist in achieving one of insolvency's aims, to rehabilitate
-the company's business so that it may again trade proﬁtably. Indeed, this was one
+the company's business so that it may again trade profitably. Indeed, this was one
 of the key areas of focus for the Harmer Report in the 1980s and one of the main
 drivers behind the introduction of voluntary administration in 1993. Law reform
 across the globe has been focussing on corporate rescue and rehabilitation,1 with
@@ -68,10 +68,10 @@ many areas involving legal disputes, society attempts to have the parties resolv
 their issues without formal and expensive court proceedings, allowing the parties
 themselves to come to a resolution rather than have one imposed by a court. This
 preference is not to negate the value of the formal process, but instead to recognise
-its place among many other avenues that might be ﬁrst tried.
+its place among many other avenues that might be first tried.
 In the same way, while the formal processes we have described in this book are of
 great value, they should be seen in the context of being merely one of the available
-means to address a company's ﬁnancial difficulties. Informal processes will still
+means to address a company's financial difficulties. Informal processes will still
 involve legal compliance, but remain outside, and pre-empting, the formal process
 of insolvency. In many ways informal restructuring efforts involve bargaining in the
 shadow of formal insolvency proceedings, because that is often the likely outcome
@@ -92,9 +92,9 @@ community. This new chapter gives an overview of the restructuring and workout
   (forthcoming).
 [21.10]                                                         21 Restructuring and Workouts      883
 
-processes aimed at rehabilitating and rescuing businesses that become ﬁnancially
+processes aimed at rehabilitating and rescuing businesses that become financially
 distressed so that they can avoid formal insolvency and continue operating to the
-beneﬁt of their stakeholders.
+benefit of their stakeholders.
 And while safe harbour itself is part of the process under the Corporations Act, an
 insolvent restructuring might nevertheless proceed and be achieved completely
 outside Corporations Act 2001Ch 5. There are risks involved for the directors and
@@ -102,16 +102,16 @@ others but the parties may consider that their aim can safely be achieved.
 
 DEFINING RESTRUCTURING AND WORKOUTS
 [21.10] The concepts of restructuring and workouts are often used
-interchangeably in the context of a ﬁnancially distressed business and do not lend
-themselves to a precise universal deﬁnition. The terms may also have different
-connotations in different disciplines, such as accounting and ﬁnance,3 management4
+interchangeably in the context of a financially distressed business and do not lend
+themselves to a precise universal definition. The terms may also have different
+connotations in different disciplines, such as accounting and finance,3 management4
 and law.5 The terms are also often used in conjunction with reorganisation,
 compositions and arrangements with creditors. Another term that is often used in
 this context is "turnaround", which commonly refers to the attempt to return a
-business to proﬁtability (or to return to a previous level of proﬁtability).6
+business to profitability (or to return to a previous level of profitability).6
 In this text, the term workout refers to an informal agreement between a debtor
 company and one or more of its major creditors which alters the terms of their
-contractual payment arrangements to allow the debtor to improve its ﬁnancial
+contractual payment arrangements to allow the debtor to improve its financial
 position and hopefully return to solvency.
 A restructuring may involve the implementation of a workout proposal, in which
 case it is usually referred to as a balance sheet restructuring (because the effect of
@@ -119,9 +119,9 @@ the restructuring seeks to repair the company's balance sheet by reducing or
 delaying repayment obligations and/or increasing equity funding). However,
 restructuring involves more than simply addressing a company's debt problems.
 Companies attempting to turnaround their businesses that are experiencing
-ﬁnancial difficulties also typically need to change the internal operations of the
-business with a view to decreasing costs, increasing free cash ﬂow and ultimately
-growing proﬁts. This is referred to as an operational restructuring.7
+financial difficulties also typically need to change the internal operations of the
+business with a view to decreasing costs, increasing free cash flow and ultimately
+growing profits. This is referred to as an operational restructuring.7
 Australia's insolvency laws in the Corporations Act provide two primary mechanisms
 for implementing a restructuring plan by using a creditors' scheme of arrangement
 (discussed below from [21.120]) or a deed of company arrangement (see Chapter
@@ -149,12 +149,12 @@ the company. It is the business that contains value in terms of:
 • realising the value of completing work in progress;
 • preserving existing supply relationships;
 • maintaining tax payments through continued trading of the business;
-• fulﬁlling custoemr deliveries;
+• fulfilling custoemr deliveries;
 • maintaining competition in product and service markets.
 It is trite to note that companies are separate legal entities that can (and do) own
 businesses which may comprise a mix of tangible assets (such as plant and
 equipment) and intangible assets (such as receivables, intellectual property and
-goodwill). When restructuring a company in ﬁnancial distress, it is possible to
+goodwill). When restructuring a company in financial distress, it is possible to
 implement a restructuring plan that will save some or all of the business by selling
 it to a new owner (which may be a third party or a vehicle set up to acquire the
 business assets) and then shutting down and disposing of the corporate shell that
@@ -180,13 +180,13 @@ ongoing relationship with the business will swap some or all of their debt owed 
 the old company for debt and or equity in the new business (known as a "hive
 down restructuring").
 The focus of this chapter is on the restructuring of large businesses. But the
-processes can and are also applied to smaller entities encountering ﬁnancial
+processes can and are also applied to smaller entities encountering financial
 
 8 For a discussion of various restructuring "exits" see Howard and Hedger, Restructuring Law and
   Practice (2nd ed, LexisNexis, 2014), Ch 6.
 [21.15]                                                         21 Restructuring and Workouts      885
 
-distress. A small business that loses a major customer may ﬁnd itself in difficulties,
+distress. A small business that loses a major customer may find itself in difficulties,
 often arising from too narrow a customer base. Without prompt attention and
 advice, the business may fold. The government's explanation of the need for safe
 harbour does, in fact, focus on these smaller to medium entities. The "Explanatory
@@ -195,23 +195,23 @@ restauranteur who is warned by her accountants that her business may soon
 become insolvent, but she delays and a bank receiver is appointed; and Nik, the
 owner of a whisky bar, who discovers that his recorded stock levels are far higher
 than his actual stock and that his cash reserves are low. He seeks the advice of an
-accountant to check his ﬁgures and a logistics manager to evaluate his stock control
+accountant to check his figures and a logistics manager to evaluate his stock control
 processes. The EM then goes on to describe the board of a large listed mining
 company becoming concerned about the impact of ill-advised asset purchases and
-a drop in the iron ore price. They seek advice from a turnaround ﬁrm with a range
+a drop in the iron ore price. They seek advice from a turnaround firm with a range
 of expertise.
 For the purposes of this book, our focus will be on large business because that is
 where the expertise and law is developing. We refer to SMEs as and where relevant.
 
 FORMAL AND INFORMAL PROCESSES
 [21.15] Informal restructuring attempts often go hand in hand with formal legal
-restructuring mechanisms. While informal workouts may offer ﬂexibility and
-conﬁdentiality, they lack the ability to bind dissenting creditors and so a formal
+restructuring mechanisms. While informal workouts may offer flexibility and
+confidentiality, they lack the ability to bind dissenting creditors and so a formal
 mechanism (such as voluntary administration or a scheme of arrangement) may be
 necessary.9
 The parties to a restructuring effort will differ from company to company. For many
 businesses, it is likely that only the company's relationship bank(s) will need to be
-involved in the workout negotiations. Where senior secured lenders (who rank ﬁrst
+involved in the workout negotiations. Where senior secured lenders (who rank first
 in priority) are fully supportive of a restructuring plan, it may not be necessarily to
 involve other creditors because the workout proposal may free up sufficient cash to
 allow the company to continue paying junior creditors (both secured and
@@ -220,9 +220,9 @@ creditors.
 Informal mechanisms are, however, vulnerable to "holdout creditors". Obviously
 the larger the group of creditors needed to approve the workout proposal, the
 greater the transactional risk of holdout creditors. This may take the form of one or
-more senior secured lenders rejecting a restructuring plan, although where ﬁnance
+more senior secured lenders rejecting a restructuring plan, although where finance
 is provided by multiple lenders10 it may be possible facilitate a restructuring using
-contractual rights under the terms of ﬁnancial contracts and inter-creditor priority
+contractual rights under the terms of financial contracts and inter-creditor priority
 deeds (known as "inter-creditor agreements").11 Holdout creditors could also
 
 9 For a detailed analysis of informal rescue procedures see: Finch and Milman, Corporate Insolvency Law:
@@ -258,24 +258,24 @@ company's capital structure, at least on a temporary basis, in order to enable t
 company to develop a longer-term business reorganisation plan that will return the
 company to a viable status, or at least to maximise the assets available for creditors
 (usually secured creditors). The safe harbour against insolvent trading is aimed at
-giving directors greater ﬂexibility to negotiate workouts without the fear of
+giving directors greater flexibility to negotiate workouts without the fear of
 personal liability so as to encourage workout and restructuring efforts.
-Informal rescue mechanisms are useful because their conﬁdential status means that
+Informal rescue mechanisms are useful because their confidential status means that
 the company can continue trading without its employees, suppliers and customers
-being aware of its ﬁnancial difficulties. It is important that signs of ﬁnancial distress
-are identiﬁed and managed as early as possible. As the company approaches
+being aware of its financial difficulties. It is important that signs of financial distress
+are identified and managed as early as possible. As the company approaches
 insolvency, and signs of its distress begin to appear, the options for a viable rescue
 become narrower.
 Corporate lending contracts are structured to provide covenants that act as
 monitoring mechanisms so that the secured lender becomes aware of the potential
-for ﬁnancial distress before the company is actually past the tipping point of
+for financial distress before the company is actually past the tipping point of
 insolvency.12 This may include setting minimum levels of cash that must be kept
 and requiring reporting on stock turnover and aged debtors. Ratios such as the
 "debt service cover ratio", "liquidity ratio" and the "quick ratio" provide measures
 on which debtors are expected to report and which can be objectively measured to
-identify signs of ﬁnancial distress. We have referred to these in our Chapter 1
+identify signs of financial distress. We have referred to these in our Chapter 1
 
-12 For a review of ﬁnancial covenants, see: Australian Finance Law (looseleaf service, LexisNexis AU), at
+12 For a review of financial covenants, see: Australian Finance Law (looseleaf service, LexisNexis AU), at
    [3A.180].
 [21.20]                                                         21 Restructuring and Workouts      887
 
@@ -292,21 +292,21 @@ reduce some of the adverse effects of formal insolvency to facilitate more effec
 restructuring efforts using formal tools where necessary.
 It is common for the senior lender(s) to be given the power to cause the debtor
 company to appoint an investigating accountant who can report back to the
-company and its secured lenders on the ﬁnancial state of the business and likely
+company and its secured lenders on the financial state of the business and likely
 asset recovery rates.14
 [21.20] The informal restructuring process may involve several distinct phases
 starting with the short-term plan (which may be measured in days or weeks),
 during which time the company will seek to maximise its available cash, minimise
 new costs being incurred and try to obtain the support of its key secured creditors
 to enter into some form of standstill period where the major creditors agree that
-they will not take enforcement action usually contingent on certain ﬁnancial and
+they will not take enforcement action usually contingent on certain financial and
 operational milestones being achieved (such as reducing costs and selling assets). If
 the short-term plan is successful this can allow for medium-term and longer-term
-plans to implement ﬁnancial and operational restructuring.15
+plans to implement financial and operational restructuring.15
 In addition to a temporary deferral of enforcement action, a standstill will also
 usually involve some form of relief from covenant breaches, which could be a
 waiver or a resetting of the covenants (to remove a default) and/or a temporary
-deferral of interest payments (to free up cash ﬂow for operations).16 The standstill
+deferral of interest payments (to free up cash flow for operations).16 The standstill
 agreement may be a formal, legally binding contract or may be an informal
 agreement.17 Of course, any deferment or rescheduling of loan obligations will
 
@@ -334,20 +334,20 @@ The initial period will need to identify what the major problems with the busine
 are, and formulate a period of relief that is designed to give the debtor company
 time to develop a plan to improve the company's position, usually through cost
 cutting, internal management improvements and asset sales. Some companies may
-also pursue equity capital-raising or seek reﬁnancing facilities either from some or
-all of the existing lenders to external reﬁnancing. These steps take place during the
+also pursue equity capital-raising or seek refinancing facilities either from some or
+all of the existing lenders to external refinancing. These steps take place during the
 medium-term phase of the rescue attempt. It will usually be necessary for the
 senior secured lender(s) to agree to move from the initial phase to the
 medium-term phase, which may be done by extending the standstill agreement and
-setting up further clear milestones (such as asset sales and/or increases in ﬁnancial
+setting up further clear milestones (such as asset sales and/or increases in financial
 performance) that need to be reached during the restructuring period.
 Once the company has been (hopefully) stabilised, the debtor's management will
 work on the longer-term reorganisation plan. This is designed to address what is
 almost invariably a broken capital structure. In short, a company's capital structure
 is broken where its debt payment obligations are consistently higher than its
-revenue generation (a similar test to the cash ﬂow assessment under s 95A. The
-capital structure can be ﬁxed by adjusting the debt obligations to meet the current
-and future predicted cash ﬂows. This may be achieved by swapping some or all of
+revenue generation (a similar test to the cash flow assessment under s 95A. The
+capital structure can be fixed by adjusting the debt obligations to meet the current
+and future predicted cash flows. This may be achieved by swapping some or all of
 the company's secured debt for equity in the business.18 It may also be achieved by
 reorganising the debt obligations, for example, by swapping short-term debt for
 longer-term debt, or high interest-bearing debt for lower interest debt (at least in
@@ -361,7 +361,7 @@ system amongst the participants in the syndicate.20 Where secured creditors
 support a restructuring plan but there are one or more dissenting unsecured
 creditors, this may be addressed by implementing a deed of company arrangement:
 see Chapter 20.
-Even if the businesses cannot be returned to full ﬁnancial health, this does not
+Even if the businesses cannot be returned to full financial health, this does not
 mean that restructuring attempts should be abandoned. In such cases, a period of
 informal rescue may allow the debtor and its secured lender(s) to determine a
 program of asset sales, which may provide a better return than simply shutting the
@@ -376,11 +376,11 @@ program of asset sales, which may provide a better return than simply shutting t
    Press, 2017), Ch 5.
 [21.25]                                                         21 Restructuring and Workouts      889
 
-business down in liquidation, which results in a perceived ﬁre sale and generally
+business down in liquidation, which results in a perceived fire sale and generally
 lower returns for all of the stakeholders. This accords with s 588GA.
 Formal rescue laws provide a mechanism to undertake a similar process to an
 informal rescue attempt but with a greater degree of formality, greater control and
-powers etc, though without conﬁdentiality. However, a formal legal process brings
+powers etc, though without confidentiality. However, a formal legal process brings
 with it rights under the Corporations Act, such as the right of a voluntary
 administrator to continue dealing with assets subject to a circulating security
 interest.21 A formal legal appointment also brings in the court as overall supervisor
@@ -431,7 +431,7 @@ practitioners to prepare the company for an orderly administration if workout
 negotiations failed. Those negotiations were being conducted by separate advisers.
 The court pointed out that this was not a UK style pre-pack administration because
 the pre-appointment work done by the practitioners was simply to prepare the
-company for administration rather than to assist the company resolve its ﬁnancial
+company for administration rather than to assist the company resolve its financial
 difficulties. In the end, those difficulties were not resolved and the court appointed
 those practitioners as administrators, although with some accounting imposed.27
 
@@ -448,7 +448,7 @@ compliance with the ASX listing rules) that are not found in other restructuring
 We may also add cross-border implications, with businesses and assets in multiple
 jurisdictions generating a diversity of stakeholder perspectives and legal
 frameworks within which to implement the restructure. Lastly, businesses involved
-in heavily regulated or nationally signiﬁcant areas (such as ﬁnancial services,
+in heavily regulated or nationally significant areas (such as financial services,
 mining, defence and infrastructure) will also bring their own unique challenges.
 The list below is therefore only a broad guide of some of the common stakeholder
 groups, and the particular risks associated with each.
@@ -460,10 +460,10 @@ business assets that the company operates. A successful restructuring may involv
 the sale or disposal of one or more business assets and the closure of one or more
 companies in the group. Restructuring is not concerned necessarily with the
 preservation of the corporate shell, but rather with the business and the economic
-beneﬁts that business produces for the business owners and their stakeholders.
+benefits that business produces for the business owners and their stakeholders.
 It is common to attempt to continue trading the business during the restructuring
 effort so as to preserve goodwill, realise the value of work in progress and to
-promote a higher sale price of business assets (as opposed to a ﬁre sale on
+promote a higher sale price of business assets (as opposed to a fire sale on
 liquidation). If the value of the business assets will not be adversely affected by a
 formal insolvency appointment (such as liquidation or administration) then a
 formal restructuring of some or all of the company's debts may be better
@@ -473,37 +473,37 @@ formal restructuring of some or all of the company's debts may be better
 28 Slatter and Lovett, Corporate Turnaround: Managing Companies in Distress (Penguin, 1999).
 [21.45]                                              21 Restructuring and Workouts   891
 
-undertaken using a formal insolvency proceeding in order to gain the beneﬁt of a
-statutory stay and the beneﬁt of court supervision and statutory debt compromises.
-The company may have a team of ﬁnancial, legal and strategic advisors, depending
+undertaken using a formal insolvency proceeding in order to gain the benefit of a
+statutory stay and the benefit of court supervision and statutory debt compromises.
+The company may have a team of financial, legal and strategic advisors, depending
 on the size and value of its business.
 Key risks: Trading on the business will require the continued support of the
 company's key stakeholders (such as secured lenders, employees, suppliers and
-customers). It is common to attempt to undertake restructuring on a conﬁdential
+customers). It is common to attempt to undertake restructuring on a confidential
 basis with senior lenders and other key parties to the workout proposal so as not to
 raise concerns with key stakeholders, such as suppliers and employees. It is
-important to review the company's key contracts (such as ﬁnance, leasing and
+important to review the company's key contracts (such as finance, leasing and
 supply agreements) to determine how the restructuring may affect the future value
 of the business.
 
 The debtor's executive management
 [21.40] The debtor's executive management will be central participants in a
-restructuring effort as they control the information ﬂow and execute the company's
+restructuring effort as they control the information flow and execute the company's
 strategic initiatives. One concern for executive managers may be compliance with
 their statutory duties as officers of the company, such as the duty of care and the
 duty to act in the best interests of the company, which may include consideration of
 creditor interests (see Chapter 16). It is possible that the restructuring efforts will
 detract management's attention away from running the business, which may
-require the use of one or more speciﬁc persons responsible for coordinating the
+require the use of one or more specific persons responsible for coordinating the
 restructuring efforts, sometimes called a Chief Restructuring Officer (or CRO). It is
 also possible that a steering committee will be established to coordinate the
 restructuring, which will include members of company management such as the
 CEO, CFO, General Counsel etc. Individual managers will also be concerned with
 the effects that a poorly executed restructuring may have on their professional
-reputation. Dealing with the pressure of ﬁnancial distress and the expectations of
+reputation. Dealing with the pressure of financial distress and the expectations of
 key stakeholders during the restructuring can result in changes to executive
 management, including the appointment of interim CEOs and CFOs (for example,
-if a senior secured lender has lost conﬁdence in senior management of the
+if a senior secured lender has lost confidence in senior management of the
 company).
 Key risks: Compliance with officers' legal duties.
 
@@ -534,31 +534,31 @@ and the order in which those secured creditors may take enforcement action again
 the company's property as collateral is governed by some order of priority (hence
 junior secured creditors are subordinated to the senior secured creditors). The rules
 of priority are beyond the scope of this book, and will depend on the particular
-ﬁnancing documents entered into by the particular debtor company, but top
+financing documents entered into by the particular debtor company, but top
 priority will usually take the form of an ALLPAP security interest over all of the
 debtor company's property. This form of security is often taken by sophisticated
 secured lenders such as banks. Priority may also be provided for by contract
 between the secured creditors (known as an inter-creditor agreement). Also,
 priority may be determined by the priority rules of the PPSA and of the general
-law of security (such as priority between a ﬁrst and second mortgage holder).
+law of security (such as priority between a first and second mortgage holder).
 Attention should be given to the particular collateral covered by the security, as
 security may only be over particular assets, or only in respect of assets in a
 particular company in the debtor company's corporate group. For example, a
 secured creditor (such as a bank) may have security over the assets of a holding
-company, but another secured creditor (such as an equipment ﬁnance company)
+company, but another secured creditor (such as an equipment finance company)
 may have security over equipment held in an operating subsidiary. In such a case,
 the bank is structurally subordinated because it only controls the holding
-company's assets and the ﬁnance company may enforce against the equipment
+company's assets and the finance company may enforce against the equipment
 directly.
 The secured debt may be held by a single creditor (such as a bank with a
-relationship with the debtor or an equipment ﬁnance company) or may be held by
+relationship with the debtor or an equipment finance company) or may be held by
 a group of secured creditors through a loan syndication or a club loan. Group loans
-tend to involve multiple banks, but may also involve other large ﬁnancial
+tend to involve multiple banks, but may also involve other large financial
 institutions such as pension funds and hedge funds. It is also possible that the
 senior secured creditors will be holders of the company's debt securities (such as
 debentures or bonds) but these are more likely to be subordinated to the position of
 group loans.
-When a debtor's ﬁnancial position begins to deteriorate senior secured creditors
+When a debtor's financial position begins to deteriorate senior secured creditors
 may seek to reduce their risk of default by selling some or all of their debt owed by
 the borrower (known as debt trading), usually at a discount of face value (such as
 [21.55]                                                       21 Restructuring and Workouts      893
@@ -574,23 +574,23 @@ comprising hedge funds, private equity and other specialist distressed debt
 investors. Often these funds (such as Apollo, Oaktree, Bain Capital Credit and
 Centerbridge) are foreign funds that specialise in restructuring large companies.30
 Of course, banks can have many levels of relationships with corporate borrowers
-(including commercial banking facilities, advisory roles, corporate ﬁnance and
-ﬁnancial services) and the ongoing value of these relationships continuing may
+(including commercial banking facilities, advisory roles, corporate finance and
+financial services) and the ongoing value of these relationships continuing may
 mean that the banks refrain from selling their debt. Where a group of lenders
 includes original lenders and debt traders, the original lenders are typically
 referred to as the "par lenders" because their exposure is the face value of the debt.
-Given the high levels of control and inﬂuence that senior secured lenders may have
+Given the high levels of control and influence that senior secured lenders may have
 over the company and its future, there is a risk (albeit a small one in practice) that
 the creditors will be found to be shadow directors of the debtor, because the
 debtor's directors are accustomed to act in accordance with the creditors' wishes.
 However, in the authors' view this risk is minimal, particularly after courts have
-found that secured creditors who impose conditions on continued ﬁnancial support
+found that secured creditors who impose conditions on continued financial support
 (even detailed conditions that curtail management decision-making) are only acting
 in their own commercial interest and not as part of the governing structure of the
 debtor company (who always retains a choice as to whether to agree to the bank's
 terms) and hence are not shadow directors: see Buzzle case.31
 Key risks: Risks include default on the loans and receiving less than 100c in the
-dollar. Although, the ﬁnancial state of the debtor may mean that full recovery is
+dollar. Although, the financial state of the debtor may mean that full recovery is
 impossible and, therefore, the key risk is not receiving the best return on the debt.
 
 Junior secured creditors
@@ -598,7 +598,7 @@ Junior secured creditors
 the priority position of each level will be determined by the relevant contract that
 gives rise to the debt and/or by an inter-creditor agreement. Where bonds are
 issued by the company (technically debentures under the Corporations Act), these
-bonds may come in various categories, each with its own risk and reward proﬁle
+bonds may come in various categories, each with its own risk and reward profile
 
 29 See further Stefanidis, "Reviving the Incentive to Compromise in Corporate Restructure: The Role of
    Secondary Debt Markets" (2017) 28 Journal of Banking and Finance Law and Practice 135.
@@ -611,7 +611,7 @@ bonds may come in various categories, each with its own risk and reward proﬁle
 
 (known as tranches, often with alphabetical designation: Tranche A debt etc).32
 With the retail corporate bond market very limited in Australia (at least outside of
-ﬁnancial institutions and large infrastructure companies), many corporate borrowers
+financial institutions and large infrastructure companies), many corporate borrowers
 seek to issue bonds into offshore capital markets such as the US private placement
 market and the terms of the debt issuance are usually governed by New York or
 English law. This will mean that any restructuring will need to comply with foreign
@@ -637,19 +637,19 @@ to give up security under an inter-creditor agreement.
 Hedge and swap providers
 [21.60]     Hedge and swap providers are contractual counterparties who will be
 required to pay the company (or provide something of value to the company, such
-as transfer securities) if certain events speciﬁed in their contract occur at some point
+as transfer securities) if certain events specified in their contract occur at some point
 in the future (such as the price of a commodity moving above or below a set level).
 These contracts may be one-off or ongoing for a period of time. They provide the
-debtor company with a way to manage ﬁnancial risks or obligations (such as
+debtor company with a way to manage financial risks or obligations (such as
 entering into an interest rate hedge contract to manage the risk of changing interest
-rates, or a foreign currency swap to manage exposure to ﬁnancial obligations owed
+rates, or a foreign currency swap to manage exposure to financial obligations owed
 in a foreign currency when the debtor earns revenues in a different currency).
 Hedge and swap contracts will provide certain events that will close out the
-contract and require any ﬁnal payments to be made, with insolvency or the
+contract and require any final payments to be made, with insolvency or the
 appointment of a liquidator or administrator likely to be included as such an event.
-These parties will therefore have a keen ﬁnancial interest in if or when the close out
-event occurs as this may signiﬁcantly affect their ﬁnancial exposure (or likely
-ﬁnancial return). For example, if the hedge or swap provider would make money if
+These parties will therefore have a keen financial interest in if or when the close out
+event occurs as this may significantly affect their financial exposure (or likely
+financial return). For example, if the hedge or swap provider would make money if
 
 32 Another common reference is "Term Loan A debt", "Term Loan B debt", which is often shortened to
    TLA and TLB, with the "A debt" being paid in priority to the "B debt". See further Speechley,
@@ -664,7 +664,7 @@ swap provider.
 
 Advisors
 [21.65] Restructuring can often involve a range of professional advisors, such as
-lawyers, investment bankers, accountants and corporate ﬁnance advisors,
+lawyers, investment bankers, accountants and corporate finance advisors,
 management consultants and asset valuation and sales consultants. Of course, the
 value of the company's assets and the likely return to key stakeholders must be
 sufficiently large to justify the cost involved in engaging external professional
@@ -674,9 +674,9 @@ with specialist turnaround advisors and consultants who can assist with
 restructuring negotiations with sophisticated creditors such as banks, landlords and
 the ATO.33
 The introduction of the safe harbour laws allows the court to consider whether
-directors have obtained "advice from an appropriately qualiﬁed entity who was
+directors have obtained "advice from an appropriately qualified entity who was
 given sufficient information to give appropriate advice" (s 588GA(2)(d)), and the
-Explanatory Memorandum (at [1.68]) speciﬁcally cautions directors against turning
+Explanatory Memorandum (at [1.68]) specifically cautions directors against turning
 to advisors who target company directors suggesting illegal activity. The Federal
 Government has raised the possibility of introducing heavier regulatory supervision
 requirements for persons who promote illegal phoenix activity.34 This could mean
@@ -691,7 +691,7 @@ officers or shadow directors. Advisors could also be found to be accessories to
 breaches of the Corporations Act by being "involved in a contravention" of directors'
 duties (such as the duty to act in the best interests of the company) or misleading
 conduct (for example, where the advisors draft company announcements).
-Involvement in a contravention is deﬁned in s 79.
+Involvement in a contravention is defined in s 79.
 Key risks: Engaging advisors will increase the cost of the restructuring efforts but
 this may be necessary. Advisors may face personal liability. Selecting inappropriate
 
@@ -733,8 +733,8 @@ separately from the company and these may be needed to continue trading on the
 business. In such cases, it may be possible to gain equity holder support for the
 restructuring by providing some form of residual equity value in the ongoing
 company (known as "stub equity").
-Key risks: Equity investors may lose conﬁdence in the future of the company
-which may reduce the capacity to reﬁnance the business. Equity investors may seek
+Key risks: Equity investors may lose confidence in the future of the company
+which may reduce the capacity to refinance the business. Equity investors may seek
 court protection if they believe that equity is being undervalued in the
 restructuring proposal.
 
@@ -760,12 +760,12 @@ lessor where lease terms are not complied with.
 Unsecured creditors
 [21.80] In most restructuring efforts, unsecured creditors (such as trade
 suppliers) may not even be aware that restructuring efforts are ongoing because the
-terms of the restructuring provide sufficient cash ﬂow to ensure that existing
+terms of the restructuring provide sufficient cash flow to ensure that existing
 obligations continue to be met to avoid enforcement action that may derail the
 restructuring effort (such as winding up applications). Key suppliers will of course
 need to be kept on side to ensure the continued trading of the business, but the
 appointment of restructuring advisors and the ongoing support of major secured
-creditors may provide greater conﬁdence in suppliers that their terms of trade will
+creditors may provide greater confidence in suppliers that their terms of trade will
 continue to be met.
 Changes to the Corporations Act in 2018 to introduce protections against ipso facto
 clauses in contracts for companies that enter schemes of arrangement, receivership
@@ -777,7 +777,7 @@ Taxation. While the Commissioner is an unsecured creditor with no special priori
 to company assets in insolvency, the Commissioner has a range of statutory powers
 under taxation laws that can adversely affect restructuring efforts, such as the
 power to issue garnishee notice on the company's debtors which can remove vital
-cash ﬂow from the business, or the power to issue director penalty notices which
+cash flow from the business, or the power to issue director penalty notices which
 may cause directors to put the company into liquidation or administration in order
 to avoid personal liability for the company's tax debts (see Chapter 16). However,
 the Commissioner may also assist the restructuring by accepting some form of
@@ -787,10 +787,10 @@ Key risks: Unsecured creditors will take enforcement action.
 Employees
 [21.85]     Employees are, of course, an important stakeholder in any restructuring
 effort. It is important to retain valuable employees for the future success of the
-business (and retention beneﬁts may need to be offered to ensure this). Employees
+business (and retention benefits may need to be offered to ensure this). Employees
 are often also a useful source of information about the problems of the business and
 (possibly) how to address them. Lastly, restructuring businesses often involves
-signiﬁcant change to workplace conditions (including reduction in employee
+significant change to workplace conditions (including reduction in employee
 headcount) which may require consultation and negotiation to comply with
 workplace laws.
 Key risks: Valuable employees leaving the company. Employees not supporting
@@ -804,7 +804,7 @@ Overview
 a shadow over restructuring efforts has been the threat of insolvent trading liability
 for company directors and those who act as shadow directors.35 This risk is
 particularly concerning because the ability to determine a company's solvency at a
-speciﬁc point in time can be difficult, and the uncertainly can cause directors to be
+specific point in time can be difficult, and the uncertainly can cause directors to be
 overly cautious and may even lead some of them (particularly non-executive
 directors who are not part of the day-to-day running of the business) to resign or
 place a company into formal insolvency earlier than necessary.36 This is concerning
@@ -819,20 +819,20 @@ harbour for company directors in s 588GA (and for holding companies in respect o
 subsidiary liability in s 588WA), which commenced on 19 September 2017. As the
 Explanatory Memorandum states (at [1.13]):
    "This change is intended to encourage those company directors to remain in control of a
-   business in ﬁnancial difficulty and take reasonable steps to restructure and/or allow it to
+   business in financial difficulty and take reasonable steps to restructure and/or allow it to
    trade out of its difficulties."
 The Explanatory Memorandum states further (at [1.16]):
    "The aim of the safe harbour reform is to facilitate more successful company restructures
    outside of a formal insolvency process where doing so would achieve a better outcome
    for the company than immediately appointing an administrator or liquidator. This
-   encourages directors to closely monitor the ﬁnancial position of the business, engage early
-   with ﬁnancial distress and then actively take steps to either restructure the business or, if
+   encourages directors to closely monitor the financial position of the business, engage early
+   with financial distress and then actively take steps to either restructure the business or, if
    that is not possible, to move quickly to formal insolvency."
 It should be noted that the government did not remove or limit the liability under
 s 588G; rather it has provided a regime that, if complied with, serves to avoid that
 liability. The defences to insolvent trading remain, under s 588F. Section 588GA
 operates not so much as a defence for directors as a means for directors to properly
-avoid s 588G liability in the ﬁrst place. If s 588GA is not available, for whatever
+avoid s 588G liability in the first place. If s 588GA is not available, for whatever
 reason, the director may still fall back on any defence they may have under s 588F.
 It is also important to note that the protection of the safe harbor under s 588GA is
 only for insolvent trading liability. It does not apply to other duties that company
@@ -874,18 +874,18 @@ suspicion of insolvency, because it applies where the company is insolvent and a
 reasonable person would be aware of grounds to suspect insolvency (or where the
 director is aware of such grounds): see Chapter 16. The safe harbour will only
 apply once the director "starts to suspect" the company is or may become
-insolvent. This is a ﬂexible test that should not be too onerous to establish, but it
-will require that the director be at least aware of the company's ﬁnancial position.
+insolvent. This is a flexible test that should not be too onerous to establish, but it
+will require that the director be at least aware of the company's financial position.
 The Explanatory Memorandum (at [1.16]) explains that directors must closely
-monitor the ﬁnancial position of the company's business. The duties of directors
-require more than this, in that they are required to actively monitor the ﬁnancial
+monitor the financial position of the company's business. The duties of directors
+require more than this, in that they are required to actively monitor the financial
 affairs of the company under s 180(1).
 2. the director starts developing one or more courses of action
 This requires that the director(s) take action, it is not enough to simply allow things
-to continue with a hope that the company's ﬁnances will improve. As the
+to continue with a hope that the company's finances will improve. As the
 Explanatory Memorandum states (at [1.19]):
    "hope is not a strategy. Directors who merely take a passive approach to the business's
-   position or allow a company to continue trading as usual during severe ﬁnancial
+   position or allow a company to continue trading as usual during severe financial
    difficulty, or whose recovery plans are fanciful, will fall outside the bounds of the safe
    harbour."
 900     Keay's Insolvency: Personal and Corporate Law and Practice                           [21.95]
@@ -896,7 +896,7 @@ plan to address the company's issues, and not merely sit on their hands or adopt
 "business as usual" approach.37
 3. the course(s) of action is/are reasonably likely to lead to a better outcome for
    the company
-A better outcome for the company is deﬁned in s 588GA(7) as meaning "an
+A better outcome for the company is defined in s 588GA(7) as meaning "an
 outcome that is better for the company than the immediate appointment of an
 administrator, or liquidator, of the company". This will need to be determined
 based on the circumstances of each individual company. It is important to note
@@ -908,13 +908,13 @@ to unforeseen circumstances, such as changes in trading conditions) does not mea
 that the safe harbour is inapplicable.38 The safe harbour is to be judged at the time
 that the conduct is undertaken, not by the consequences of that conduct. As noted
 by the Explanatory Memorandum (at [1.18]), "directors must operate in a rapidly
-changing and uncertain environment, often without the beneﬁt of complete
+changing and uncertain environment, often without the benefit of complete
 information".
 4. the debt is incurred directly or indirectly in connection with any such course of
    action during the safe harbour period
 This requirement has been contentious, with several submissions to public
 consultation on the draft laws questioning how this is to be established. Would
-ordinary business debts be properly classiﬁed as being "incurred directly or
+ordinary business debts be properly classified as being "incurred directly or
 indirectly in connection with" the course of action? In the authors' view the only
 sensible answer must be yes. The safe harbour would be close to useless if ordinary
 business debts involved in trading on a business during a restructuring would not
@@ -959,22 +959,22 @@ Establishing the safe harbour
 removed by other circumstances, there is no breach of insolvent trading in
 s 588GA(2).
 Directors who wish to raise the safe harbour bear an evidential burden to establish
-the matters in s 588GA(1): s 588GA(3). The evidential burden is deﬁned in
+the matters in s 588GA(1): s 588GA(3). The evidential burden is defined in
 s 588GA(7) to mean "the burden of adducing or pointing to evidence that suggests
 a reasonable possibility that the matter exists or does not exist". Directors may seek
 to establish that their course of conduct comes within s 588GA(1) by pointing to
 evidence of matters such as (s 588GA(2))):
-• they are properly informing themselves of the company's ﬁnancial position; or
+• they are properly informing themselves of the company's financial position; or
 • they are taking appropriate steps to prevent any misconduct by officers or
   employees of the company that could adversely affect the company's ability to
   pay all its debts; or
 • they are taking appropriate steps to ensure that the company is keeping
-  appropriate ﬁnancial records consistent with the size and nature of the company;
+  appropriate financial records consistent with the size and nature of the company;
   or
-• they are obtaining advice from an appropriately qualiﬁed entity who was given
+• they are obtaining advice from an appropriately qualified entity who was given
   sufficient information to give appropriate advice; or
 • they are developing or implementing a plan for restructuring the company to
-  improve its ﬁnancial position.
+  improve its financial position.
 Directors may lose the protection of the safe harbour if at the time the debt was
 incurred the company is failing to pay employee entitlements (including
 superannuation contributions) when they fall due, or where the company is failing
@@ -987,12 +987,12 @@ less than substantial compliance: s 588GA(5). A director may seek a court order 
 retain protection of the safe harbour despite the application of s 588GA(4) or (5) if
 902    Keay's Insolvency: Personal and Corporate Law and Practice                [21.110]
 
-the court can be satisﬁed that the failures were due to exceptional circumstances or
+the court can be satisfied that the failures were due to exceptional circumstances or
 that it is otherwise in the interests of justice to make the order: s 588GA(6).
 Directors can also lose the ability to rely upon certain books or information when
 seeking to discharge their evidential burden where they fail to permit inspection of
 the books or fail to deliver the books of the company as required under the Act or
-where a warrant is issued by the court where the court is satisﬁed that the director
+where a warrant is issued by the court where the court is satisfied that the director
 has concealed destroyed or removed company books: s 588GB(1). Where a director
 fails to give information about the company when required under the Act, then that
 information is not admissible in evidence for the purpose of seeking to rely on the
@@ -1020,7 +1020,7 @@ carve-out requirements of s 588GA. The essence of a carve-out is based on the
 broad policy that it is generally for the prosecutor (liquidator) to prove its case; but
 in some cases, the defendant will be more aware of their own circumstances than
 the prosecutor, hence the law imposes some onus on the defendant to explain them.
-The signiﬁcance of this is that there is a clear policy in favour of the approach taken
+The significance of this is that there is a clear policy in favour of the approach taken
 by the government of encouraging early or preventive action by directors. If the
 directors' company ends up in liquidation, despite their efforts to save it, a
 liquidator will now have to assess the directors' conduct in light of the usual
@@ -1028,7 +1028,7 @@ evidence in support of s 588G, and in light of what the directors did, in whole 
 part, in accord with the criteria in s 588GA. The liquidator retains the burden of
 proof on the balance of probabilities.
 The government policy accepts that it is better overall to offer that incentive to
-directors, and to lessen the threats currently involved in a liquidator later ﬁnding
+directors, and to lessen the threats currently involved in a liquidator later finding
 fault with their conduct and pursuing them for insolvent trading. Overall,
 creditors, and businesses, should be better off.
 [21.115]                                                      21 Restructuring and Workouts     903
@@ -1055,7 +1055,7 @@ Obtaining a realistic valuation of a company in distress, both during restructur
 efforts and on a future projected basis, is a critical step that will frame the
 restructuring options available to the company. In many restructurings, the failure
 to implement a restructuring plan will lead to the company entering one or more
-forms of external administration. This will crystallise the ﬁnancial position of the
+forms of external administration. This will crystallise the financial position of the
 creditors, and will usually lead to enforcement action by secured creditors such as
 appointing a receiver over the company and its assets and usually a sale or transfer
 of those assets.
@@ -1075,7 +1075,7 @@ The most common methods for valuing distressed businesses are:
 39 See further Stark, Siegel and Weisfelner, Contested Valuation in Corporate Bankruptcy (LexisNexis,
    2011); Howard and Hedger, Restructuring Law and Practice (2nd ed, LexisNexis, 2014), Ch 5.
 40 This is the level of debt (usually unsecured or subordinated secured debt) that sits between the
-   senior secured and general unsecured creditors. It carries higher risk than ﬁrst ranking senior
+   senior secured and general unsecured creditors. It carries higher risk than first ranking senior
    secured debt and so will also involve higher rates of interest and will usually carry a range of
    restrictive covenants (such as negative pledges). See further Speechley, Acquisition Finance
    (Bloomsbury Professional, 2015), Ch 8.
@@ -1091,35 +1091,35 @@ The most common methods for valuing distressed businesses are:
    and property that has no ready market) may be more difficult to value. When
    there is only one restructuring plan available and the alternative is insolvency for
    the company then a liquidation analysis is likely to be the preferred valuation.41
-• discounted cash ﬂow (DCF) method – this is a going concern valuation that
-  involves estimating the economic value of the company's future free cash ﬂows
+• discounted cash flow (DCF) method – this is a going concern valuation that
+  involves estimating the economic value of the company's future free cash flows
   over a period of time (eg the next 5, 10 or 15 years) and then converting that
   amount into a net present value (NPV) by applying a discount rate that is equal
   to the opportunity costs of funding for the company (using either the weighted
   average cost of capital (WACC) or the adjusted present value (APV) for the
-  company). The company's free cash ﬂow is determined by calculating the
+  company). The company's free cash flow is determined by calculating the
   EBITDA (earnings before interest, taxes, depreciation and amortisation) less
   capital expenditure, working capital requirements and income tax. Clearly this
   method will rely heavily on the accuracy and robustness of the company's
-  internal ﬁnancial records and management's business plan projections. As the
+  internal financial records and management's business plan projections. As the
   expert valuation in the Ten Network restructuring shows, just because a
   valuation is on a going concern basis does not mean that there will necessarily be
   any residual equity value.42
 • comparable valuation methods – these are going-concern valuations that
-  involve calculating a multiple of certain ﬁnancial measures (such as the
+  involve calculating a multiple of certain financial measures (such as the
   company's EBITDA) against transactions involving similar companies (eg
   Company X is similar to the company being restructured and recently sold for 10
   x EBITDA in a private sale). Obviously, this is easier for publicly listed
-  companies that have fully transparent ﬁnancial statements, but it can still be
+  companies that have fully transparent financial statements, but it can still be
   used for proprietary companies by using transaction databases that are available
   from commercial information vendors. There is clearly considerable discretion
   involved in determining what is a similar enough comparator to assess, as every
   company is different (even companies working in the same industry, or
-  companies of a similar size, or similar levels of costs or proﬁtability).
+  companies of a similar size, or similar levels of costs or profitability).
 Company valuation is not an exact science, and there is ample room for the exercise
 of discretion and professional judgment, which may create uncertainty and options
 for challenges in court with competing valuations.43 Selecting a preferred valuation
-can have a signiﬁcant effect on the company's stakeholders because the valuation
+can have a significant effect on the company's stakeholders because the valuation
 selected may show that their interests are "out of the money" (ie likely to receive
 nothing in liquidation) and this may result in their class of interests being excluded
 
@@ -1138,9 +1138,9 @@ based on an out of the money valuation for equity and this may mean that their
 shares are cancelled or transferred without their consent by court order. However,
 where equity retains some value, shareholders must have a voice in the
 restructuring efforts. The difficultly lies in predicting how the proposed restructuring
-is likely to affect the company's ﬁnancial position. It may be that changing the
-business will lead to improved cash ﬂow and a lowering of costs which may
-resolve the ﬁnancial problems and preserve equity value. On the other hand, if in
+is likely to affect the company's financial position. It may be that changing the
+business will lead to improved cash flow and a lowering of costs which may
+resolve the financial problems and preserve equity value. On the other hand, if in
 the absence of a restructuring proposal being approved the company would be
 likely to enter liquidation, then a liquidation value is more appropriate and this is
 likely to see equity having a nil value.
@@ -1148,7 +1148,7 @@ likely to see equity having a nil value.
 FORMAL RESTRUCTURING MECHANISMS
 Introduction
 [21.120] Ideally a restructuring can be achieved by obtaining the consent of all
-necessary parties, which allows ﬂexibility and, hopefully, conﬁdentiality to
+necessary parties, which allows flexibility and, hopefully, confidentiality to
 preserve the business' goodwill. However, this is not always possible and if there is
 no contractual mechanism to bind dissenting creditors, such as relinquishing
 security in certain situations under an inter-creditor agreement or a 90% voting
@@ -1160,7 +1160,7 @@ creditors.
 A deed will generally be a better option than a scheme of arrangement under Pt 5.1
 because it is less costly and quicker to initiate. As a deed can be varied by
 resolution of the creditors (s 445F) and without the need for court approval, it is
-more ﬂexible than a scheme. Part 5.1 schemes have never been the most common
+more flexible than a scheme. Part 5.1 schemes have never been the most common
 form of insolvency appointment, but they offer particular advantages over DOCAs
 for large and more complex company reconstructions. Schemes can bind secured
 creditors45 and can include the release of creditor rights against third parties (such
@@ -1192,7 +1192,7 @@ The scheme procedure is complex and requires two court approvals that can slow
 down the restructuring process, whereas a DOCA needs no court approval and can
 be fully implemented as quickly as immediately after the conclusion of the second
 creditors' meeting. The prevailing narrative concerning schemes may be changing.
-There is law reform support for increasing the ﬂexibility of schemes to promote
+There is law reform support for increasing the flexibility of schemes to promote
 their use for corporate debt restructuring, and creditors' schemes have become the
 leading restructuring tool in Europe through the use of English schemes of
 arrangement. Many of the largest debt restructurings in recent years have used
@@ -1216,7 +1216,7 @@ deed). Proposals for both schemes and DOCAs will generally address the powers
 and duties of the scheme/DOCA administrator, the duration of the scheme/DOCA,
 the control procedures to be put in train, the reporting requirements expected of the
 company, the extent of the forgiveness of the debt, when creditors will be paid, the
-consequences of breaches, what rectiﬁcation will be required, and the termination
+consequences of breaches, what rectification will be required, and the termination
 and extension procedures.
 The Treasury Laws Amendment (2017 Enterprise Incentives No 2) Act 2017 (Cth) will
 introduce changes to the scheme provisions to provide for protection against ipso
@@ -1241,7 +1241,7 @@ The details of the scheme must be disclosed to creditors in an explanatory
 statement: s 412. This document must clearly explain the operation and effect of the
 proposed scheme: Re Dorman Long & Co Ltd [1934] Ch 635. A report of the affairs of
 the company should be included in the statement. The report needs to consider the
-ﬁnancial position of the company and annex the reports and copies of documents
+financial position of the company and annex the reports and copies of documents
 required by the regulations: Corporations Regulations 2001 (Cth), Pt 2 of Sch 8:
 reg 5.1.01. That schedule must show the expected dividend payable to creditors
 under the scheme as compared with a winding up, and information about the
@@ -1266,7 +1266,7 @@ Substantive arguments regarding the fairness of the scheme are usually left to t
 creditors to decide at the meeting, with the availability of creditors appearing at the
 second court hearing to lodge notices of opposition.49 It is not the role of the court
 to consider whether a better scheme could be proposed: Re Boart Longyear Ltd [2017]
-NSWSC 567 at [28]. Allowing the ﬁrst meeting to proceed, does not mean that the
+NSWSC 567 at [28]. Allowing the first meeting to proceed, does not mean that the
 court is bound to approve the implementation of the scheme: ASC v Marlborough
 Gold Mines Ltd (1993) 177 CLR 485.
 The creditors' meeting must vote for the scheme proposal, which is passed if a
@@ -1288,7 +1288,7 @@ Once the creditors have approved of the scheme proposal the court must agree to
 the scheme before it can be implemented.50 The court will only approve the scheme
 if the procedure required for convening creditor meetings and distributing the
 explanatory statement has been complied with: Re Alabama, New Orleans, Texas and
-Paciﬁc Junction Railway Co [1891] 1 Ch 213. The court will also consider the
+Pacific Junction Railway Co [1891] 1 Ch 213. The court will also consider the
 commercial morality of the scheme, that is whether the scheme is (despite the
 majority approval by the creditors) so unfair that no reasonable business person
 would approve it: . The court will also consider the commercial morality of the
@@ -1332,24 +1332,24 @@ The question of class composition is difficult because drawing the class too bro
 could result in empowering the majority to oppress a minority, who have different
 legal rights. In Re Opes Prime Stockbroking Ltd [2009] FCA 813, Finkelstein J noted (at
 [66]) that the second court hearing provides a built-in protection against
-oppression. Drawing the class deﬁnition too narrowly (and thereby allowing for a
+oppression. Drawing the class definition too narrowly (and thereby allowing for a
 variety of classes) could enable a small minority to frustrate the wishes of the
 majority. Lord Millett said in UDL Argos Engineering & Heavy Industries Co Ltd v Li
 Oi Lin [2001] 3 HKLRD 634 at [26] that "(f)ragmenting creditors into different
 classes gives each class the power to veto the Scheme and would deprive a
-beneﬁcent procedure of much of its value". This view was applied in First Paciﬁc
+beneficent procedure of much of its value". This view was applied in First Pacific
 Advisors LLC v Boart Longyear Ltd [2017] NSWCA 116. Just because creditors receive
 different economic outcomes under the scheme (such as different rates of
 repayment, different payment dates or payment in different manners) does not
 mean that their legal rights are sufficiently different to require them to be put into
-separate classes: First Paciﬁc Advisors LLC v Boart Longyear Ltd [2017] NSWCA 116.
+separate classes: First Pacific Advisors LLC v Boart Longyear Ltd [2017] NSWCA 116.
 The test for determining whether creditors need to be put into separate classes is
 "creditors whose rights are so dissimilar as to make it impossible for them to
 consult together with a view to their common interest must be placed into separate
 classes": Sovereign Life Assurance Company v Dodd [1892] 2 QB 573 (a case involving
 creditors comprised of holders of insurance and an unsecured lender). This issue of
 creditors' rights differing may be distinguished from the circumstances of creditors
-whose mere economic interests differ. In First Paciﬁc Advisors LLC v Boart Longyear
+whose mere economic interests differ. In First Pacific Advisors LLC v Boart Longyear
 Ltd [2017] NSWCA 116 at [80] the court (per Bathurst CJ) explained:
      "The test seems to me to involve three questions. First, what are the rights which existing
      creditors (or members) have against the company and to what extent are they different.
@@ -1372,20 +1372,20 @@ which they were required to give up under the scheme, while the creditors
 52   For a discussion of class composition issues see: Harris, "Class Warfare in Debt Restructuring: Does
      Australia Need Cross-Class Cram Down for Creditors' Schemes of Arrangement?" (2017) 36
      University of Queensland Law Journal 73.
-53 First Paciﬁc Advisors LLC v Boart Longyear Ltd [2017] NSWCA 116 at [82].
+53 First Pacific Advisors LLC v Boart Longyear Ltd [2017] NSWCA 116 at [82].
 910    Keay's Insolvency: Personal and Corporate Law and Practice              [21.135]
 
 proposing the scheme would then be able to take control of the debtor company
 (and additional equity was to be issued to facilitate this). The court held that this
 was not sufficient to require voting in separate classes because the change of control
 rights would be of little value in liquidation and the scheme provided more than
-they would receive in liquidation: First Paciﬁc Advisors LLC v Boart Longyear Ltd
+they would receive in liquidation: First Pacific Advisors LLC v Boart Longyear Ltd
 [2017] NSWCA 116.
 The issue of class composition will ordinarily be dealt with as part of the court's
 consideration of whether to sanction the scheme approved by creditors at the
 second hearing because that will give affected parties an opportunity to make
 submissions to the court, but that is not to say that composition issues cannot be
-raised at the ﬁrst hearing: First Paciﬁc Advisors LLC v Boart Longyear Ltd [2017]
+raised at the first hearing: First Pacific Advisors LLC v Boart Longyear Ltd [2017]
 NSWCA 116.
 
 Schemes: reporting
@@ -1395,7 +1395,7 @@ scheme. The administrator would be expected to provide creditors with prompt
 warnings of any deviation from what had been accepted in relation to the running
 of the business and any breach of the terms of the scheme.
 In addition, the administrator must ensure that all provisions of the Corporations
-Act and other statutes are adhered to. The scheme administrator is a ﬁduciary and
+Act and other statutes are adhered to. The scheme administrator is a fiduciary and
 owes strict duties as such: James v DCT (1988) 6 ACLC 1118. The administrator is
 also an officer within the meaning of s 9 and consequently is bound to comply with
 all duties imposed upon officers of a company under the Corporations Act, including
@@ -1425,7 +1425,7 @@ property or books in their control as well as disclosing all of the company's
 property: ss 589(1)(g), 590.
 The administrator must lodge with ASIC all particulars relevant to the appointment
 (ss 411(9) and 415; reg 1.0.03A) and end of administration return: s 411(9).
-Where the administrator ceases to act, ASIC must be notiﬁed within seven days:
+Where the administrator ceases to act, ASIC must be notified within seven days:
 s 411(9); reg 1.0.03A. See also ASIC's Regulatory Guide (RG 60) – Schemes of
 Arrangement.
 
@@ -1454,7 +1454,7 @@ provide that the priorities proposed in the scheme are identical with those in a
 liquidation. If this is done, the approval of the creditors is often obtained more
 easily, because as winding up is a distinct alternative to the scheme, the nomination
 of the priority order in a winding up defuses objections to the scheme by creditors
-who would beneﬁt under the winding up priorities. Also, if the priorities proposed
+who would benefit under the winding up priorities. Also, if the priorities proposed
 in the scheme document differ from those in a liquidation, ASIC or the court may
 object to them. Further, if the winding up priorities are adopted and liquidation
 supervenes before the scheme is completed, creditors are not prejudiced.
@@ -1470,24 +1470,24 @@ be given to his or her remuneration, costs and expenses in administering the
 scheme.
 
 Schemes: termination of a scheme
-[21.145] The Act does not speciﬁcally provide for the termination of a scheme.
+[21.145] The Act does not specifically provide for the termination of a scheme.
 Ordinarily, the scheme document itself will provide for its own termination.
 Indeed, if the scheme does not so provide, it is likely that the court would not
-approve the scheme. As schemes are ﬂexible and can between them provide for
+approve the scheme. As schemes are flexible and can between them provide for
 widely different terms, it is not possible to lay down any concrete statements
 concerning termination provisions. However, schemes may state that the scheme
 terminates after the passing of a set amount of time, by a resolution of creditors
 passed after the scheme has either attained or failed to attain its objectives, or after
-the distribution of a ﬁnal payment to creditors, or at the discretion of the scheme
+the distribution of a final payment to creditors, or at the discretion of the scheme
 administrator.
-The court has no speciﬁc power to terminate a scheme. A scheme may, in some
+The court has no specific power to terminate a scheme. A scheme may, in some
 situations, be terminated by a subsequent scheme which has secured court
 approval: Re Gasweld Pty Ltd (1986) 5 NSWLR 494. Also, a scheme will usually be
 terminated if a winding up order is made against the company on the application
 of a post-scheme creditor. The court may also make a declaration that the scheme
 has been terminated by the creditors: BTS Bearings Pty Ltd v Transmission Supplies
 Pty Ltd (1983) 1 ACLC 923.
-The scheme administrator must ﬁle a notice of cessation and a ﬁnal account of
+The scheme administrator must file a notice of cessation and a final account of
 receipts and payments with ASIC within seven days of the termination: ss 411(9),
 427(4).
 A scheme may also be varied by the court under s 411(6) when it sanctions a
@@ -1496,7 +1496,7 @@ Longyear Ltd [2017] NSWCA 215.
 
 DOCAs for restructuring
 [21.150] Deeds of company arrangement are discussed in detail in Chapter 20.
-What is relevant for this chapter is to highlight brieﬂy how DOCAs can be used to
+What is relevant for this chapter is to highlight briefly how DOCAs can be used to
 implement a restructuring or workout plan. A DOCA can be a useful statutory tool
 for repairing a company's distressed balance sheet. A DOCA can be used to
 compromise debts, including secured debts, and will bind unsecured creditors.
@@ -1514,7 +1514,7 @@ A debt for equity swap may be implemented by causing the company to issue new
 shares or other equity instruments to a DOCA proponent (or their nominee), or
 may involve seeking a court order to transfer existing shares to the DOCA
 proponent (or their nominee) under s 444GA. Deed administrators do not have the
-beneﬁt of s 437A (as administration has ended at that point: s 435C(2)(a)), but are
+benefit of s 437A (as administration has ended at that point: s 435C(2)(a)), but are
 given a default power to 'to enter into and complete any contract for the sale of
 shares in the company' under Corporations Regulations (Cth), Sch 8A, cl 2(zc), but
 this is not a general management power that would allow new shares to be issued
@@ -1533,13 +1533,13 @@ in Financial Difficulties (2004) and since 2010 has been used with increasing
 frequency to implement debt for equity swaps.55 The provision allows for shares to
 be transferred under a deed of company arrangement whether either the member
 consents or where the court grants an order under the provision: s 444GA(1). The
-court may only grant leave "if it is satisﬁed that the transfer would not unfairly
+court may only grant leave "if it is satisfied that the transfer would not unfairly
 prejudice the interests of members of the company": s 444GA(3). The key term here
 is unfair prejudice. Clearly requiring members to give up their shares for no
 consideration is prejudicial, but this alone is not enough to cause the court to refuse
 the order. Where the DOCA proposal is the only proposed restructuring option for
 the company, and where if the DOCA fails the company will likely enter liquidation
-without a ﬁnancial return to members, then the members' shares are unlikely to
+without a financial return to members, then the members' shares are unlikely to
 hold any value. In such a situation there can be no prejudice to members by making
 an order under s 444GA(1). The relevant comparison is between the position of the
 members if the proposal does not proceed and their position if leave to transfer
@@ -1573,7 +1573,7 @@ Prejudice to members is not the only issue that the courts will consider, and
 members are not the only stakeholders who have standing to oppose a s 444GA
 application. ASIC, creditors of the company and other interested persons are also
 given standing to oppose the application under s 444GA(2). If the court was
-satisﬁed that the DOCA infringed against commercial morality or was otherwise
+satisfied that the DOCA infringed against commercial morality or was otherwise
 designed to remove rights that would be available in liquidation then this may
 engage the court's discretion to refuse to grant leave. Such a case would also allow
 for the DOCA to be set aside or varied under s 445D, which is discussed in Chapter
@@ -1581,7 +1581,7 @@ for the DOCA to be set aside or varied under s 445D, which is discussed in Chapt
 
 CORPORATE LAW ISSUES
 [21.155] Restructuring and workouts can involve a broad range of corporate law
-and governance issues, which again will be dependent on the speciﬁc facts of the
+and governance issues, which again will be dependent on the specific facts of the
 case. It is outside of the scope of this book to discuss these issues in detail, but a
 brief overview of some of the issues may be useful.59
 Directors' and officers' duties are always an important issue during restructuring. As
@@ -1597,7 +1597,7 @@ over another. Of course, voidable transactions and insolvent trading (now subjec
 new safe harbour protection, discussed above) also address conduct during
 restructuring.
 Where public companies are being restructured it is important to consider the
-application of Chapter 2E, which prohibits the provision of a ﬁnancial beneﬁt to a
+application of Chapter 2E, which prohibits the provision of a financial benefit to a
 
 57 See Re Nexus Energy Limited [2014] NSWSC 1910; (2015) 105 ACSR 246; Re TEN Network Holdings Ltd
    [2017] NSWSC 1529.
@@ -1607,9 +1607,9 @@ application of Chapter 2E, which prohibits the provision of a ﬁnancial beneﬁ
 [21.155]                                                   21 Restructuring and Workouts    915
 
 related party. It is possible that the proponent of the restructure will be a related
-party (as deﬁned in s 228) and is receiving a ﬁnancial beneﬁt (as deﬁned in s 229)
+party (as defined in s 228) and is receiving a financial benefit (as defined in s 229)
 then the transaction must either be approved by members (with appropriate voting
-exclusions) or ﬁt within the carve outs which include arm's length transactions
+exclusions) or fit within the carve outs which include arm's length transactions
 (s 210).
 Chapter 2J also provides a range of rules relating to changes in a company's capital
 structure, including reductions of capital through share buy-backs. The rules
@@ -1621,7 +1621,7 @@ publicly available material information) to buy or sell securities or procuring
 another person to do or communicating the inside information to another person
 where the insider should know that the recipient will buy or sell securities or
 procure another person to do so: s 1043A. Insider trading can make it difficult for
-parties involved in restructuring steering committees (who receive conﬁdential
+parties involved in restructuring steering committees (who receive confidential
 information) to actively trade the company's securities.60
 Restructuring a company may require alteration to the company's constitution, for
 example, to vary rights attaching to classes of shares, removing pre-emptive rights
@@ -1633,7 +1633,7 @@ approval processes under Pt 2F.2. These matters cannot be avoided by using a
 scheme of arrangement (which cannot sanction what would otherwise breach the
 Act) or by a DOCA (because a DOCA can only affect the rights between the
 company and its creditors for debts owed by the company to those creditors).
-If the restructuring involves raising new ﬁnance, then the company might need to
+If the restructuring involves raising new finance, then the company might need to
 comply with Chapter 6D, which may require a prospectus or other formal disclosure
 document provided under that Chapter, although if the restructuring is
 implemented using a scheme of arrangement (s 708(17)) or a DOCA (s 708(17A))
@@ -1648,17 +1648,17 @@ interest in voting shares equating to more than 20% of the shares in the target
 company, unless the person complies with Ch 6, which may require making a
 takeover bid for the target company or using one of a number of other exceptions
 
-60 Liquidators and trustees have exemption from liability under s 1043A in deﬁned circumstances:
+60 Liquidators and trustees have exemption from liability under s 1043A in defined circumstances:
    reg 9.12.01.
 916     Keay's Insolvency: Personal and Corporate Law and Practice                         [21.160]
 
 to the 20% prohibition contained in s 611. If the restructuring uses a scheme to
-transfer the shares then this will ﬁt within s 611, but shares issued by a DOCA will
+transfer the shares then this will fit within s 611, but shares issued by a DOCA will
 not be exempt from takeover regulation.
 
 RESTRUCTURING LISTED ENTITIES
 [21.160] Where the company being restructured has its securities listed on a
-licensed ﬁnancial market (such as the ASX) there will be additional legal issues that
+licensed financial market (such as the ASX) there will be additional legal issues that
 may need to be addressed in addition to the provisions in the Corporations Act.61
 The listed status of a company being restructured can provide value to a potential
 purchaser of a business. One option is to use the listing for what's known as a
@@ -1675,7 +1675,7 @@ unless a waiver from the ASX is obtained. These include
   month period, which requires member approval (LR 7).63
 One of the most important rules to comply with for listed companies will be the
 continuous disclosure rules contained in ASX LR 3.1 and in Corporations Act, s 674.
-These require that material information must be disclosed to the ASX ﬁrst, the
+These require that material information must be disclosed to the ASX first, the
 carve outs in ASX LR 3.1A apply. The disclosure requirement in LR 3.1 must be
 complied with even if the information has already been disclosed publicly, while
 s 674 only applies to information that has not already been made publicly available.
@@ -1701,7 +1701,7 @@ of arrangement such as for Boart Longyear and Atlas Iron.
 [21.165]                                                         21 Restructuring and Workouts      917
 
 It was noted above that the Corporations Act contains rules relating to related party
-ﬁnancial beneﬁts. The ASX LR 10 (transactions with persons of inﬂuence) also
+financial benefits. The ASX LR 10 (transactions with persons of influence) also
 contains rules that require member voting for certain transactions and for certain
 votes to be excluded from the vote (a voting exclusion statement under LR 14.11).
 
@@ -1717,15 +1717,15 @@ earlier stage, or during the "safe harbour" period, is "at large" in terms of th
 responsibilities and potential liabilities that may arise. It is not the intention to
 address liabilities here, beyond pointing out that any professional adviser is subject
 to liability in negligence, and under contract, in terms of their retainer.64 In relation
-to business and ﬁnancial advice, common issues in negligence include the level of
+to business and financial advice, common issues in negligence include the level of
 skill and standard of care expected of an adviser, claimed exclusion from the
-retainer, questions of causation of any economic loss, and of quantiﬁcation of
+retainer, questions of causation of any economic loss, and of quantification of
 damages as a consequence of a "failed" restructure. Retainer documents need to be
 carefully drawn, including as to the limits of any promised outcomes, the need for
 an assurance of full information by the company, and how the adviser is to be
 remunerated.
 More particular areas of potential liability exist if the adviser is seen as being a de
-facto director of the company, a signiﬁcant area of caution for advisers acting as
+facto director of the company, a significant area of caution for advisers acting as
 CFOs, described earlier. Misconduct by the directors themselves in the restructure
 in which the adviser is found to be complicit can result in personal liability under
 Barnes v Addy principles or under Corporations Act, s 79. Misrepresentations or
@@ -1757,21 +1757,21 @@ which are subject to safe harbour protection. Outside Directorship Liability
 ("ODL") D&O policies are also available which cover potential exposure to the
 risks associated with any formal or de facto director role in the distressed
 company.66
-The safe harbour law does not prescribe any details of advisers' qualiﬁcations or
-professional standing in order for them to be "appropriately qualiﬁed".
+The safe harbour law does not prescribe any details of advisers' qualifications or
+professional standing in order for them to be "appropriately qualified".
 Nevertheless, the protection of the directors will generally be dependent on having
 obtained advice suitable to the business and the extent of its difficulties. Taking
 advice from an accountant with limited restructuring experience in relation to a
 major business enterprise may well not suffice. The Explanatory Memorandum in
 fact gives some attention to what it says is expected of an adviser, including as to
-qualiﬁcations and experience, professional standing and oversight, and insurance.67
+qualifications and experience, professional standing and oversight, and insurance.67
 While the conduct of an adviser would be judged by reference to the law of
 negligence and other related bases, the adviser's reliance on guidance in
 professional standards would assist both the adviser, and the director, from any
 challenge. The TMA Code,68 issued in response to the introduction of the safe
 harbour laws, offers useful guidance, including in relation to the extent of the
 retainer, responsibilities both of the adviser and what may be expected of the
-directors, conﬂicts, and remuneration. Such professional standards can inform the
+directors, conflicts, and remuneration. Such professional standards can inform the
 law in determining the standard of conduct of professionals.69
 
 65 See Hip-pocket Injuries in Workouts: Accessory Liability for Bankers and Advisers, paper given by the then
@@ -1779,7 +1779,7 @@ law in determining the standard of conduct of professionals.69
    2006). See http://www.supremecourt.justice.nsw.gov.au/.
 66 See Walmsley et al, Professional Liability in Australia (3rd ed, Lawbook Co., 2016), 216-222.
 67 Treasury Laws Amendment (2017 Enterprise Incentives No 2) Bill 2017, at [1.66] and following –
-   "Discussion on getting advice from appropriately qualiﬁed advisors".
+   "Discussion on getting advice from appropriately qualified advisors".
 68 See TMA Australia: Best Practice Guidelines – Navigating Safe Harbour, 2017.
 69 Dean-Willcocks v CALDB [2006] FCA 1438. See also Walmsley et al, Professional Liability in Australia
    (3rd ed, Lawbook Co., 2016), at [1.650]/
@@ -1835,7 +1835,7 @@ Acts of bankruptcy
                                                                                        subsequent bankruptcies, ................. [7.180]
    execution against debtor, ........................ [3.185]
                                                                                    directions from the court, ....................... [6.315]
-   ﬁnal judgment or order that has not been
+   final judgment or order that has not been
                                                                                    disclaimer of assets, .................... [6.220]-[6.290]
            stayed, ............................................ [3.205]
                                                                                    distribution of estate to creditors — see
@@ -1848,7 +1848,7 @@ Acts of bankruptcy
        onus on creditor, ................................ [3.180]
                                                                                    end of — see End of bankruptcy
    non-compliance with bankruptcy notice,
-                                                                                   ﬁnancial support for proceedings, ........ [6.420]
+                                                                                   financial support for proceedings, ........ [6.420]
             .. [1.140], [3.175], [3.200], [3.240], [3.245]
    Part IX debt agreements, .............. [9.30], [9.55]                              best interests of creditors, obligation,
    Part X agreements, ..................... [3.190], [3.192]                                 .......................................................... [6.450]
@@ -1908,7 +1908,7 @@ Administration of bankruptcy — cont                                           
        existing proceedings, ......................... [6.265]                        court's power to validate, ............. [19.390],
        order for, .............................................. [6.235]                                                                            [19.400]
        persons who may be examined, ..... [6.235]                                     defective, court's power to cure, ... [19.390]
-       power to examine, ............... [6.245], [6.250]                             disqualiﬁcation from, ...................... [19.135]
+       power to examine, ............... [6.245], [6.250]                             disqualification from, ...................... [19.135]
        privilege, .............................................. [6.260]              immediate effect, ................................ [19.45]
        production of books, ......................... [6.245]                         liquidator, by, ...................... [19.35], [19.415]
        relevant person, .................................. [6.235]                    provisional liquidator and, .............. [12.85]
@@ -1925,7 +1925,7 @@ Administration of bankruptcy — cont                                           
    s 77AA notice, ........................................... [6.210]                            .................................................... [19.42]
    s 77C notices, ............................................ [6.215]                    court's power to determine, ........ [19.390],
        statutory notices, challenging,                                                                                                              [19.400]
-            ............................................. [6.220]-[6.225]          conﬂict of interest, ................................. [19.140]
+            ............................................. [6.220]-[6.225]          conflict of interest, ................................. [19.140]
    search warrants, ............... [4.25], [6.20], [6.195]                        contracts of company, dealing with, .... [19.95]
        access to premises, ............................. [6.210]                   costs incurred before winding up, ...... [15.365]
    special priorities — see Priority payments –                                    court directions, ..................... [19.170], [19.380]
@@ -1938,9 +1938,9 @@ Administration of bankruptcy — cont                                           
 
 Administrators — cont                                                                 pre-appointment work, ......................... [19.142]
                                                                                       provisional liquidator and, .................... [12.85]
-       supervision, ....................................... [19.175]                  qualiﬁcation and registration, proposed
+       supervision, ....................................... [19.175]                  qualification and registration, proposed
        validity of appointment, determining,                                                 reform, ............................................. [9.10]
-            ........................................................ [19.165]         qualiﬁed privilege, ................................. [19.195]
+            ........................................................ [19.165]         qualified privilege, ................................. [19.195]
    creditors                                                                          receivers becoming, ............................... [19.150]
        appointment by, ................................. [19.30]                      receivers distinguished, .......................... [18.05]
        reporting to, ...................................... [19.215]                  registered liquidator, must be, ............. [19.135]
@@ -1948,10 +1948,10 @@ Administrators — cont                                                         
    creditors' voluntary liquidator, becoming,                                             court, by, ........... [19.140], [19.155], [19.380],
             ............................................ [11.45], [20.55]                                                                                [20.40]
    declaration of relevant relationships and                                              creditors, by, ...................................... [19.145]
-           indemnities, ................. [19.145], [19.295]                              disqualiﬁcation, ................ [19.140], [19.155]
-   deed administrator — see Deed administrator                                            ﬁrst meeting of creditors, ............... [19.290]
+           indemnities, ................. [19.145], [19.295]                              disqualification, ................ [19.140], [19.155]
+   deed administrator — see Deed administrator                                            first meeting of creditors, ............... [19.290]
                                                                                       remuneration and expenses, ................ [19.235]
-   defamation proceedings, qualiﬁed privilege
+   defamation proceedings, qualified privilege
                                                                                           costs incurred before winding up,
            in, .................................................. [19.195]
                                                                                               ........................................................ [15.365]
@@ -1959,13 +1959,13 @@ Administrators — cont                                                         
                                                                                           court's power to determine, .......... [19.390]
    disposal of property, .............. [18.190], [19.185]
                                                                                           lodgment of accounts with ASIC, . [19.240]
-   disqualiﬁcation, ...... [19.135], [19.140], [19.155]
+   disqualification, ...... [19.135], [19.140], [19.155]
                                                                                           schemes of arrangement, ................ [21.135]
        removal by court, ............. [19.140], [19.155]
                                                                                       replacement administrator, .................. [19.155]
    duties — see powers and duties below
                                                                                           court power to appoint, .................. [19.380]
-   ﬁduciary duty, ........................................ [19.185]
+   fiduciary duty, ........................................ [19.185]
                                                                                           declaration by, .................................. [19.160]
    indemnity, ................................ [19.225], [19.230]
                                                                                       revoking appointment, ............................ [20.45]
@@ -1979,7 +1979,7 @@ Administrators — cont                                                         
                                                                                       supervision by court, ............................ [19.175]
    independence, ......................... [19.140], [19.142]
                                                                                       vacancy in office, .................................... [19.155]
-       declaration of relevant relationships,                                             court's power to ﬁll, .......... [19.400], [20.45]
+       declaration of relevant relationships,                                             court's power to fill, .......... [19.400], [20.45]
             ........................................................ [19.145]         validity of appointment, .......... [19.25], [19.40],
        investigating role, after, .................. [19.142]                                                                            [19.42], [19.165]
        pre-appointment work, ................... [19.142]                                 administrator's duty to investigate,
@@ -2107,7 +2107,7 @@ Commission (ASIC) — cont                                                      
      reinstatement by, ...................................... [17.75]                        .......................................................... [7.125]
      supervision of liquidator, ..................... [10.355]                           intent to delay or defeat creditors,
      winding up                                                                              ............................................ [3.180], [3.192]
-         administration of, ............................. [10.120]                   beneﬁts to society, ...................................... [2.42]
+         administration of, ............................. [10.120]                   benefits to society, ...................................... [2.42]
          forms, ................................................. [10.125]           commencement, . [1.90], [2.80], [3.133], [3.170],
          investigative powers, ...................... [10.120]                                                                                          [3.192]
          liquidator appointment, .... [10.390], [11.50]                                  acts of bankruptcy and, ...... [3.170], [3.192]
@@ -2155,7 +2155,7 @@ Bankruptcy — cont                                                             
                                                                          [7.115]               ............................................ [3.310]–[3.320]
         extension of, ............................ [7.20], [7.120]                        extension of time for compliance, ... [3.260]
     prior conduct of bankrupt, ...... [4.225], [4.235]
-                                                                                          ﬁnal judgment, application to set aside,
+                                                                                          final judgment, application to set aside,
         concealing or removing property, .. [3.440],
                                                                                                ............................................ [3.255], [3.265]
                                                                         [4.235]
@@ -2177,7 +2177,7 @@ Bankruptcy — cont                                                             
     relation back, doctrine, ............................. [2.95]
         act of bankruptcy, ................................ [2.95]                        counter-claim and set-off distinguished,
         defences, ................................................ [2.97]                      .......................................................... [3.315]
-        property of bankrupt, identiﬁcation,                                          date of issue, ............................... [3.215], [3.285]
+        property of bankrupt, identification,                                          date of issue, ............................... [3.215], [3.285]
              ............................................................ [2.95]          new notice, .......................................... [3.305]
         subsequent dealings, ........................... [2.95]                       debt threshold and, ..... [3.155], [3.215], [3.390]
         vesting of property, ............................. [2.95]                     defective bankruptcy notice
@@ -2197,7 +2197,7 @@ Bankruptcy — cont                                                             
             processes, .............................. [3.10]-[3.45]                       after expiry, ......................................... [3.265]
             enforcement process, ........................ [3.35]                          refusal of application, ......... [3.260], [3.270]
             farmers and rural producers, ............ [3.75]                          failure to comply, ..................................... [1.140]
-            frozen debts, ...................................... [3.35]               ﬁnal judgment or order, ......................... [3.205]
+            frozen debts, ...................................... [3.35]               final judgment or order, ......................... [3.205]
             proclaimed law, and, ......................... [3.75]                         setting aside
             secured creditors, protection, ........... [3.40]                                 application for, .................. [3.255], [3.265]
             stay period, ........................................ [3.35]                      effect on act of bankruptcy, ............ [3.275]
@@ -2215,7 +2215,7 @@ Bankruptcy notice — cont                                                      
         sequestration proceedings based on,                                           sale of property under, ........................... [5.265]
              .......................................................... [3.355]       secured creditors, ..................................... [6.505]
     nullity, ........................................................ [3.285]         security interest, ....................................... [18.50]
-    overstatement, .......................................... [3.300]                     deﬁnition, ............................................ [13.70]
+    overstatement, .......................................... [3.300]                     definition, ............................................ [13.70]
     overview, ................................................... [3.200]                 invalidation of, ................................. [14.270]
     requirements for issue of, ....................... [3.205]
     sequestration orders and, ....................... [3.165]                     Claims of creditors – bankruptcy
@@ -2232,7 +2232,7 @@ Bankruptcy notice — cont                                                      
     solvency, .................................................... [3.325]                   prohibited, ..................................... [4.150]
     statutory demand, comparison, ............. [11.80]                              liquidation distinguished, .................... [15.245]
     time for compliance with, ...................... [3.240]                         non-provable claims, ................. [6.465], [6.470]
-        counter-claim, set-off or cross-demand,                                          ﬁnes and penalties, ............................ [6.465]
+        counter-claim, set-off or cross-demand,                                          fines and penalties, ............................ [6.465]
              .......................................................... [3.310]          loss a result of misleading and deceptive
         extension of, .......................... [3.260], [3.320]                            conduct, ......................................... [6.465]
             after expiry, ..................................... [3.265]                  unliquidated damages, ..................... [6.465]
@@ -2277,8 +2277,8 @@ Charges                                                                         
   enforcement before winding up                                                      relevant date, .......................................... [15.250]
          commencement, .......................... [14.240]                           secured creditors — see Secured creditors
   equitable charge, property held in, ....... [4.110]                                unliquidated damages in tort, ............. [15.245]
-  ﬁxed charges, ............................................ [18.50]
-  ﬂoating charges, ....................................... [18.50]                Committee of inspection
+  fixed charges, ............................................ [18.50]
+  floating charges, ....................................... [18.50]                Committee of inspection
   joint property, over, ................................. [5.265]                   bankruptcy
 926          Keay's Insolvency: Personal and Corporate Law and Practice
 
@@ -2318,7 +2318,7 @@ Compulsory bankruptcy                                                       gran
       acts of bankruptcy and, ...... [3.170], [3.192]
       relation-back day and, ........ [3.170], [10.90]                          statutory demand, non-compliance with,
   execution against debtor, ........................ [3.185]                         .......................................... [11.75], [11.305]
-  ﬁnal judgment or order that has not been                                  interim order, .......................................... [11.255]
+  final judgment or order that has not been                                  interim order, .......................................... [11.255]
           stayed, ............................................ [3.205]      liquidator — see Liquidator
   intent to delay or defeat creditors, ...... [3.180],                      numbers and trends in, .......................... [10.85]
                                                                  [3.192]    oppressive conduct, ................... [10.70], [10.80]
@@ -2353,7 +2353,7 @@ Compulsory winding up — see Compulsory                                        
         winding up                                                                      s 189A report and declaration, ....... [8.100],
                                                                                                                                              [8.120]
 Contracts                                                                                   meeting of creditors, ....................... [8.150]
-  bankrupts property, disclaimer of assets,                                                 qualiﬁed privilege, .......................... [8.100]
+  bankrupts property, disclaimer of assets,                                                 qualified privilege, .......................... [8.100]
            .......................................................... [6.290]           statement under s 189B, ...... [8.110], [8.120]
   breach of contract, damages award for,                                                trustee's "professional" opinion, ..... [8.105]
            .......................................................... [4.125]        s 188 authority, and, .................................. [8.75]
@@ -2385,7 +2385,7 @@ Controllership — see Receivership                                             
 Controlling trustee
   appointment, setting aside, ...................... [8.95]                     Court-appointed receiver — see Receivers,
   business of debtor, carrying on, .............. [8.85]                                 court-appointed
-  conﬂicts of interest, disclosing, ............... [8.90]
+  conflicts of interest, disclosing, ............... [8.90]
   directions, applying for, ............................ [8.85]
   duties, ............................................... [8.85], [8.90]        Creditors
   ending of controlling trustee relationship,                                      claims of
@@ -2398,10 +2398,10 @@ Controlling trustee
           creditors – Pt X agreements                                              declaration of intention to present a debtor's
   notifying creditors, .................................... [8.90]                         petition
   Part X agreements — see Personal insolvency                                          effect, ...................................................... [3.20]
-          agreements (Pt X)                                                            notiﬁcation following, ......................... [3.20]
+          agreements (Pt X)                                                            notification following, ......................... [3.20]
   period of control, ........................... [8.65], [8.95]                        secured creditors, ................................. [3.40]
       stay of creditors' claims, ..................... [8.75]                      declining payment, .................................. [3.415]
-  powers and duties, ........................ [8.85], [8.90]                       deﬁnition, ................................................ [20.165]
+  powers and duties, ........................ [8.85], [8.90]                       definition, ................................................ [20.165]
   property of debtor, control of, ................. [8.85]                         dividends to/distribution of company assets
   related entities, ......................................... [8.100]                  bankruptcy — see Distribution of estate –
   remuneration, ................. [1.210], [8.75], [8.175]                                 bankruptcy
@@ -2440,7 +2440,7 @@ Creditors — cont                                                              
                                                                         [6.90]       set-off or cross-demand, ................... [3.410]
     rights, ........................................................... [6.90]   errors and omissions, .. [3.350], [3.360], [3.385]
         Pt X agreements, concerning, .......... [8.180]                              adjournment for, ................................ [3.365]
-    secured creditors — see Secured creditors                                    ﬁrm or business name, presenting under,
+    secured creditors — see Secured creditors                                    firm or business name, presenting under,
     substitution of, ............................ [3.360], [3.370]                       .......................................................... [3.340]
     trustee relations with, ....... [6.10], [6.50], [6.55]                       form, ............................................. [3.340], [3.385]
     voluntary administration                                                     hearing of petition, .................................. [3.355]
@@ -2554,7 +2554,7 @@ Cross-border insolvency — cont                                                
         overseas liquidators with Australian assets,                                debts due and payable, ........................... [1.125]
             ........................................ [14.237], [15.435]             debts provable in bankruptcy — see Proof of
      unregistered foreign company, ............ [14.239]                                    debts – bankruptcy
-                                                                                    deﬁnition, .................................................. [1.120]
+                                                                                    definition, .................................................. [1.120]
 Cross-claim — see Cross-demand                                                      discharge from bankruptcy, effect on, . [4.145],
                                                                                                                                                         [7.160]
 Cross-demand                                                                        fraud, obtained by, ..................... [7.110], [7.160]
@@ -2575,7 +2575,7 @@ Cross-demand                                                                    
                                                                                     liquidated sums, ......................... [1.120], [3.165]
 Debentures                                                                          non-provable claims, ................. [6.465], [6.470]
   appointment of receiver under, ............ [18.40],                                  discharge of bankruptcy effect on, .. [7.110]
-                                       [18.45], [18.70], [18.155]                       ﬁnes and penalties, ............................ [6.465]
+                                       [18.45], [18.70], [18.155]                       fines and penalties, ............................ [6.465]
       joint appointments, ............................ [18.75]                          loss a result of misleading and deceptive
       manner, ................................................ [18.80]                      conduct, ......................................... [6.465]
   circumstances where moneys payable,                                                   unliquidated damages, ..................... [6.465]
@@ -2604,7 +2604,7 @@ Debt                                                                            
       provable debt, ....................... [3.215], [3.390]                   Debt agreement administrators
   bankrupt's debt, meaning, ....................... [7.30]                        advertising and promotion, ................... [9.155]
   claims compared, ..................................... [1.120]                  annual estate return, ............................... [9.148]
-  contingent liabilities, ............................... [1.120]                 certiﬁcation, ..................................... [9.15], [9.20]
+  contingent liabilities, ............................... [1.120]                 certification, ..................................... [9.15], [9.20]
       bankruptcy, ............................ [6.470], [6.475]                       guidelines, ............................................. [9.20]
       winding up, ...................................... [15.285]                     proposed reform, ................................. [9.10]
                                                                                                                                       Index           931
@@ -2612,13 +2612,13 @@ Debt                                                                            
 Debt agreement administrators — cont                                             debtor's petition and, ................................ [3.70]
                                                                                  debts, release from, ........................ [9.15], [9.60]
     designated six-month arrears default, .. [9.95],                             dispute resolution, ................................... [9.165]
-                                                         [9.145], [9.148]        disqualiﬁed debtors, .................................. [9.25]
+                                                         [9.145], [9.148]        disqualified debtors, .................................. [9.25]
     duties, ......................................................... [9.145]    distribution of property, ........................... [9.70]
         breach of, ............................................. [9.148]         dividends to creditors, ............................ [9.165]
     ineligibility to act, .................................... [9.140]           ending, ................................. [9.15], [9.80], [9.85]
     insurances required, ................................ [9.130]                frozen debts, ............................................... [9.45]
     intentional or reckless default, .............. [9.130]                      income threshold, ...................................... [9.25]
-    notiﬁcation requirements
+    notification requirements
                                                                                  Insolvency Law Reform Act 2016 changes,
         designated six month arrears default,
                                                                                           ............................................................ [9.10]
@@ -2660,13 +2660,13 @@ Debt agreement administrators — cont                                          
                                                                                  proposal of debt agreement, .................... [9.15]
     trustee in bankruptcy, ............... [9.120], [9.130]
                                                                                      act of bankruptcy, ................................ [9.30]
-                                                                                     certiﬁcation, ............................... [9.15], [9.20]
+                                                                                     certification, ............................... [9.15], [9.20]
 Debt agreements (Pt IX)
                                                                                      conditional proposals, ......................... [9.20]
   acceptance by creditor, .............................. [9.43]
                                                                                      consent, .................................................. [9.15]
   acceptance of proposal for processing, . [9.15],
-                                                                                     disqualiﬁed debtors, ............................ [9.25]
+                                                                                     disqualified debtors, ............................ [9.25]
                                                        [9.35], [9.40]
       act of bankruptcy, as, .......................... [9.55]                       explanatory statement in approved form,
       assigned and secured debts, .............. [9.42]                                   ............................................................ [9.20]
@@ -2674,7 +2674,7 @@ Debt agreements (Pt IX)
       creditors, restrictions, .......................... [9.45]                     process, and, ......................................... [9.15]
       National Personal Insolvency Index (NPII),                                     rejection of, ................................ [9.30], [9.50]
           entry, ................................................. [9.45]                appeal to AAT, .................................. [9.35]
-      notiﬁcation of creditors, ...................... [9.40]                    provable debts, ........................................... [9.20]
+      notification of creditors, ...................... [9.40]                    provable debts, ........................................... [9.20]
       quantum of creditors' claims, ............ [9.40]                              distribution of property and, ............. [9.70]
       release from debts, ................... [9.15], [9.60]                     remuneration of administrator, ............... [9.20]
   act of bankruptcy, .......................... [9.30], [9.55]                   secured debts, ............................................. [9.42]
@@ -2705,7 +2705,7 @@ Debt agreements (Pt IX) — cont                                                
      undue hardship, ............................. [9.40], [9.75]                  farmers and rural producers, ................... [3.75]
      variation of, ..................................... [9.15], [9.75]            frozen debts, ............................................... [3.35]
         proposed reform, ................................. [9.10]                  individual debtors, of, ............................... [3.50]
-     void, declared, .................. [9.60], [9.80], [9.110]                        identity, conﬁrming, ............................ [3.55]
+     void, declared, .................. [9.60], [9.80], [9.110]                        identity, confirming, ............................ [3.55]
                                                                                        prescribed information, ....................... [3.80]
 Debtor                                                                                 statement of affairs, ............................. [3.55]
   ability to borrow unsecured, ................. [1.135]                               when a person becomes bankrupt, .. [2.90],
@@ -2725,11 +2725,11 @@ Debtor                                                                          
   National Personal Insolvency Index (NPII),                                           proclaimed law, and, ........................... [3.75]
           search, ............................................ [3.220]                 secured creditors, protection, ............. [3.40]
   Part X agreement advantages to, ............ [8.45]                                  stay period, ........................................... [3.35]
-  recalcitrant or unwilling, ........................ [1.145]                      notiﬁcation of creditors, ............................ [3.20]
+  recalcitrant or unwilling, ........................ [1.145]                      notification of creditors, ............................ [3.20]
   self incrimination, privilege against, ..... [6.20],                             overview, ..................................................... [3.05]
                                                      [6.225], [6.260]              partnership debtors, .................................. [3.95]
   statement of affairs, ........... [3.15], [3.20], [3.55]                             referral of petition to court, ............. [3.100]
-      failure to ﬁle, ...................................... [4.230]                   statement of affairs of each partner, . [3.95]
+      failure to file, ...................................... [4.230]                   statement of affairs of each partner, . [3.95]
   third party, effect of claim against, ....... [3.410]                            power of attorney, under, ......................... [3.50]
   warrant for arrest, ...................... [3.440], [6.195]                      presentation when creditor's petition pending,
                                                                                             .......................................................... [3.125]
@@ -2804,7 +2804,7 @@ Deed administrator — see also Administrators                                  
   revoking appointment, ............................ [20.45]                    creditor's trust, ......................................... [20.80]
   supervision by the court, ...................... [20.290]                     debt for equity swap, ............ [21.150], [21.155]
   tax, liability, ............................................. [20.140]        debts incurred after execution of, ........ [20.20],
-  vacancies, ﬁlling, ...................................... [20.45]                                                                               [20.300]
+  vacancies, filling, ...................................... [20.45]                                                                               [20.300]
                                                                                 deed administrator — see Deed administrator
 Deeds of company arrangement                                                    distributions, ........................................... [20.180]
   administration of deed, ........................ [20.155]                         payment of dividends, .................... [20.200]
@@ -2888,7 +2888,7 @@ Deeds of company arrangement — cont                                         Di
           "some other reason", .................... [20.265]
                                                                                        types of offences, .......................... [16.180]
        variation instead of, ......................... [20.215]
-                                                                                   disqualiﬁcation for, ............................ [16.50]
+                                                                                   disqualification for, ............................ [16.50]
     voluntary administration, ....................... [19.55]                      liquidator investigating, ................... [16.20]
          appointment of administrator when                                         misfeasance, ........................................ [16.55]
             trading under, ............................... [19.42]                 phoenix conduct, . [10.50], [16.70], [16.165],
@@ -2913,7 +2913,7 @@ Deeds of company arrangement — cont                                         Di
 Deregistration of company                                                          criminal liability, ................................ [16.65]
   ASIC, by, .................................................. [10.120]            rights of creditors, .............................. [16.70]
       compulsory winding up, .. [17.45], [17.120]                              extension of, .............................................. [16.78]
-  ASIC register entry, ................................. [17.55]               ﬁduciary duties, ......................... [16.20], [16.30]
+  ASIC register entry, ................................. [17.55]               fiduciary duties, ......................... [16.20], [16.30]
   company not carrying on business, ... [17.115],                              good faith, ................................................. [16.30]
                                                                [17.120]            breach of duty, .................................... [16.45]
                                                                                    business judgment rule, .................... [16.42]
@@ -2961,11 +2961,11 @@ Directors of companies                                                          
    declaration of solvency, ............. [11.15], [11.25]                                 withholding tax instalments, unremitted,
    deed of company arrangement, effect on,                                                      ........................................................ [16.160]
              .......................................................... [20.90]        voluntary administration
-   Director Identiﬁcation Numbers, .......... [16.70]                                      administrator's power to remove or
+   Director Identification Numbers, .......... [16.70]                                      administrator's power to remove or
    director penalty notice, ........... [10.55], [16.160]                                      appoint, ........................................ [19.190]
        non-response to, ............................... [16.160]                           effect on, .............................................. [19.80]
        service, ............................................... [16.160]                   initiating, ............................................. [19.40]
-   disqualiﬁcation for breach of duty, ...... [16.50]                                          collateral purpose, ........................... [19.42]
+   disqualification for breach of duty, ...... [16.50]                                          collateral purpose, ........................... [19.42]
    duties — see Directors' duties                                                              validity, .............................. [19.40], [19.42]
    employees, liability to, ............................ [16.80]                           personal guarantees, .......................... [19.85]
    fraud, .......................................................... [16.55]                   leave to enforce, ............................. [19.85]
@@ -2979,7 +2979,7 @@ Directors of companies                                                          
             voidable transactions and, ............ [16.150]                               powers during, ..................... [13.25], [13.40]
    misfeasance, .............................................. [16.55]                     report as to affairs of company (RATA),
    negligence, ................................................. [16.55]                        ............................ [10.280], [13.30], [15.20]
-   officers, deﬁnition, ...................... [13.40], [16.10]
+   officers, definition, ...................... [13.40], [16.10]
    passive directors, ...................................... [16.20]              Discharge of bankruptcy
    penalties for non-payment tax liabilities,                                        after discharge, ......................................... [7.155]
              ........................................................ [16.160]       annulment distinguished, ......................... [7.20]
@@ -3031,8 +3031,8 @@ Discharge of bankruptcy — cont                                                
 Disclaimer of assets – bankruptcy                                                  debt agreements and, .............................. [9.165]
    contracts, .................................................... [6.290]         dividend returns, ....................... [6.525], [6.530]
    effect, .......................................................... [6.285]      end of administration, ............................. [6.595]
-   leased property, ........................................ [6.285]               ﬁnal dividend, .......................................... [6.525]
-   mitigation of loss, .................................... [6.280]                ﬁnal order of payment, ........................... [6.580]
+   leased property, ........................................ [6.285]               final dividend, .......................................... [6.525]
+   mitigation of loss, .................................... [6.280]                final order of payment, ........................... [6.580]
    notice of disclaimer, ................................. [6.280]                 insufficient funds to cover, ..................... [6.580]
    overview, ................................................... [6.280]           interim, ....................................................... [6.525]
                                                                                    legal proceedings for payment of, ........ [6.530]
@@ -3052,7 +3052,7 @@ Disclaimer of assets - liquidation                                              
    notice of disclaimer, publication, ........ [15.210]                                    payment of dividends, .................... [6.530]
    onerous property, ................................... [15.205]                      unlawful proceedings, ....................... [4.150]
    overview, ................................................. [15.205]            secured creditors — see Secured creditors
-   procedure, ............................................... [15.210]             statement of affairs not ﬁled, ................. [6.530]
+   procedure, ............................................... [15.210]             statement of affairs not filed, ................. [6.530]
    prospective operation, ........................... [15.220]                     trustee obligation to maximise, ............... [6.50]
    purpose, ................................................... [15.205]           unclaimed, ................................................. [6.530]
    setting aside, ........................................... [15.220]             with all convenient speed, ....... [6.525], [6.530]
@@ -3072,7 +3072,7 @@ Documents                                                                       
   books and records of bankrupt                                                      creditors, on, — see Creditors
       access to premises to search for, ..... [6.210]                                family and associates, on, — see Family and
       associated entities, ................. [6.25], [6.205]                                 associates of bankrupt
-      ﬁnancial records, .................................. [6.15]                    family law claims — see Family law claims
+      financial records, .................................. [6.15]                    family law claims — see Family law claims
       examination, ................ [6.15], [6.20], [6.185]                          legal proceedings initiated by bankrupt — see
       failure to deliver, ...... [6.20], [6.205], [6.215]                                    legal proceedings initiated by
       statutory notices                                                                      bankrupt
@@ -3095,7 +3095,7 @@ Documents                                                                       
            .......................................................... [17.65]              ........................................................ [20.190]
   electronic, ......................................... [6.15], [6.20]                 phoenix companies and, ................... [16.80]
   examinable affairs, meaning, ................. [6.195]                               receivership and, .............. [18.385]-[18.415],
-  ﬁnancial records, ........................................ [6.15]                                                                                 [18.465]
+  financial records, ........................................ [6.15]                                                                                 [18.465]
   legal privilege and, .................................... [6.40]                     recovery of, ......................................... [16.80]
   production of, ............................... [2.125], [6.20]                       safe harbour provisions and, ......... [21.105]
       order for, corporate insolvency, ..... [15.185]                              excluded employees, ............. [15.390], [18.395]
@@ -3105,7 +3105,7 @@ Documents                                                                       
   statement of affairs — see Statement of affairs                                  leave entitlements
   statutory notices                                                                    receivership, ...................................... [18.400]
       challenging, ........................... [6.220]–[6.225]                         winding up, ...................................... [15.395]
-      s 77A notice, ........................................ [6.205]               officers deﬁnition, ..................................... [13.80]
+      s 77A notice, ........................................ [6.205]               officers definition, ..................................... [13.80]
       s 77AA notice, ..................................... [6.210]                 receivership and entitlements,
       time limit for compliance with, ....... [6.225]                                      ......................... [18.385]-[18.415], [18.465]
   supervised account regime records, ..... [6.405]                                     advances to entitlements, ............... [18.410]
@@ -3133,11 +3133,11 @@ Employees — cont                                                              
         proof of debt, .................................... [15.270]                personal services, ..................................... [5.250]
         receivership, ...................................... [18.390]               related entities, ............................. [6.25], [14.45]
         winding up, ...................................... [15.390]                     pooling and, ...................................... [15.310]
-     winding up and entitlements                                                        recovery of beneﬁts, ........................ [14.145]
+     winding up and entitlements                                                        recovery of benefits, ........................ [14.145]
         advances to entitlements, ............... [15.410]                          voidable transactions and, ..................... [14.45]
         assisting liquidator, ............. [13.40], [13.80],                           close associate, .................................. [14.155]
                                                                       [15.20]           court orders, ....................... [14.170]-[14.175]
-        effect on, .............................................. [13.80]               recovery of related-entity beneﬁts,
+        effect on, .............................................. [13.80]               recovery of related-entity benefits,
         employment contracts, .................... [15.400]                                 ........................................................ [14.145]
         excluded employees, ....................... [15.390]                            time period extension, .................... [14.100]
         Fair Entitlements Guarantee (FEG),                                              unreasonable director-related transactions,
@@ -3165,24 +3165,24 @@ End of bankruptcy                                                               
   period of bankruptcy, ... [4.230], [7.05], [7.105],
                                                                                    affidavit evidence, .................................. [15.200]
                                                                  [7.115]
-                                                                                   beneﬁts, .................................................... [15.150]
+                                                                                   benefits, .................................................... [15.150]
       extending, ................................ [7.20], [7.120]
                                                                                    books of company, .. [10.340], [15.15], [15.110],
   personal insolvency agreements, .......... [8.205]
                                                                                                                                                  [15.185]
-                                                                                   conﬁdentiality and, ................................ [15.155]
+                                                                                   confidentiality and, ................................ [15.155]
 Entities                                                                           connected/related entity, ...................... [15.175]
    associated/related entities                                                     deed administrator, by, ......................... [20.150]
        books and records of, ............ [6.25], [6.205]                          documents, order for production of, .. [15.185]
           s 77A notice, ................................... [6.205]                eligible applicant, ... [15.130], [15.140], [20.150]
        corporate insolvency, examination in,                                           challenging, ....................................... [15.140]
            ........................................................ [15.175]       examinable affairs, ................. [15.130], [15.170]
-       deﬁnition, ................................ [6.25], [14.45]                     connected entity, .............................. [15.175]
+       definition, ................................ [6.25], [14.45]                     connected entity, .............................. [15.175]
        investigation of, .................................. [6.205]                false information, giving, ..... [15.185], [15.190]
        personal insolvency agreements, .... [8.100]                                function, ................................................... [15.160]
        pooling and, ...................................... [15.310]                legal professional privilege, . [15.110], [15.195]
    controlled by bankrupt, .......................... [5.250]                      legal representative present, ................ [15.185]
-   deﬁnition, .................................................... [6.25]          legislative provisions, ............................ [15.110]
+   definition, .................................................... [6.25]          legislative provisions, ............................ [15.110]
    examination                                                                     liquidator conducting, ............ [10.340], [13.40],
        corporate insolvency, ....................... [15.175]                                                                                    [15.120]
        examinable period, ............................ [5.250]                     misconduct, in relation to, ... [15.120], [15.135]
@@ -3192,7 +3192,7 @@ Entities                                                                        
 Examination – corporate insolvency — cont                                             related third parties, ................................ [4.132]
                                                                                       resulting and constructive trusts, ......... [4.142]
      officers and employees, of, .... [10.280], [15.20],                              transfer of property
-                                                                   [20.150]               family law ﬁnancial agreement, under,
+                                                                   [20.150]               family law financial agreement, under,
      power to conduct, .... [10.340], [13.40], [15.155]                                       .......................................................... [3.192]
      procedure for examination, .................. [15.185]                               recovery by trustee, ........................... [4.132]
          incrimination, .................................... [15.190]                     related third party, to, ....................... [4.132]
@@ -3208,7 +3208,7 @@ Examination – corporate insolvency — cont                                   
      self incrimination, .................................. [15.190]
                                                                                    division of matrimonial assets, ............. [4.135]
      summons for examination, .. [15.130], [15.160]
-                                                                                   ﬁnancial agreements, ............................... [4.135]
+                                                                                   financial agreements, ............................... [4.135]
          affidavit supporting application, ... [15.180]
                                                                                        transfers to defeat creditors exemption,
          application, ........................................ [15.180]
@@ -3283,7 +3283,7 @@ Financial support for proceedings                                               
    administration of bankruptcy, . [6.420], [6.455]                                gifts, ............................................................ [6.350]
       best interests of creditors, obligation,                                     hardship, .................................................... [6.370]
            .......................................................... [6.450]      income channelling, ................................. [5.250]
-      creditor's indemnity, .......................... [6.425]                     income, deﬁnition, ................................... [6.355]
+      creditor's indemnity, .......................... [6.425]                     income, definition, ................................... [6.355]
       government funding (s 305), ........... [6.440]                              overview, ................................................... [6.340]
       litigation funding, .............................. [6.430]                   payment, .................................................... [6.375]
       trustee funding, .................................. [6.435]                      income contributions, ........................ [7.105]
@@ -3323,9 +3323,9 @@ Indicators of bankruptcy — cont                                               
                                                                                       professional regime, ............................ [1.75]
     failure to pay within trading terms, ..... [1.115]                                reform, .................................... [1.185], [1.220]
     inability to borrow further funds or to raise                                 balance sheet test, ...................... [1.100], [1.110]
-            capital, ............................................ [1.115]         cash ﬂow test, .............................. [1.100]-[1.110]
+            capital, ............................................ [1.115]         cash flow test, .............................. [1.100]-[1.110]
     inability to produce timely and accurate                                      commercial insolvency test, ................... [1.100]
-            ﬁnancial information, .................. [1.115]                      corporate, ........................... [1.70], [1.75], [1.195]
+            financial information, .................. [1.115]                      corporate, ........................... [1.70], [1.75], [1.195]
     liquidity ratio below 1, ........................... [1.115]                      administration — see Voluntary
     overdue taxes, ........................................... [1.115]                    administration
     special arrangements with selected creditors,                                     liquidation — see Winding up
@@ -3335,7 +3335,7 @@ Indicators of bankruptcy — cont                                               
                                                                                   creditors involvement in process, .......... [1.65],
                                                                                                                                                       [1.210]
 Insolvency
-                                                                                  deﬁnition, .......................... [1.70], [1.85], [1.135]
+                                                                                  definition, .......................... [1.70], [1.85], [1.135]
    absolute insolvency test, ......................... [1.100]
                                                                                   effect of, ....................................................... [1.35]
    act of bankruptcy — see Acts of bankruptcy
@@ -3366,7 +3366,7 @@ Insolvency
                                                                                       inability to pay a particular debt, ..... [1.85]
                                                                   [1.165]
        protection of debtor, ............................ [1.20]                      inability to produce timely and accurate
-       recycling of capital, ............................. [1.55]                         ﬁnancial information, .................. [1.115]
+       recycling of capital, ............................. [1.55]                         financial information, .................. [1.115]
        release of debtor, .................................. [1.25]                   liquidity ratio below 1, ..................... [1.115]
        restructuring, ............ [1.60], [1.150]-[1.160],                           overdue taxes, ..................... [1.115], [16.160]
                                                                   [21.05]             special arrangements with selected
@@ -3376,12 +3376,12 @@ Insolvency
        evasion of creditors, .......................... [2.105]                   individuals — see Bankruptcy
        Part IX debt agreement, .................... [2.105]                       Insolvency Practice Rules, ...................... [1.155]
        Part X agreement, .............................. [2.105]                   Insolvency Practice Schedules, .............. [1.155]
-       pre-emptive action, ............................ [1.195]                   insolvent, deﬁnition, .................................. [1.85]
+       pre-emptive action, ............................ [1.195]                   insolvent, definition, .................................. [1.85]
        private informal arrangements, ....... [2.105]                             insolvent trading and, ............................. [16.90]
    assessment, ...................................... [1.85], [1.95]                  rebuttal, .............................................. [14.115]
        creditor concessions, .......................... [1.125]                       safe harbour provisions, .. [1.155], [14.115],
        prospective, ........................................... [1.95]                                                                                [16.60]
-       retrospective, ......................................... [1.95]                unsatisﬁed execution, ...................... [11.200]
+       retrospective, ......................................... [1.95]                unsatisfied execution, ...................... [11.200]
        terms of trade, extension, ................. [1.125]                       invoking, .................................................... [1.150]
        time, extensions of, ............................ [1.125]                  judicial regime, ......................................... [1.185]
        time for assessment, ............................ [1.95]                   legislative regime, ...................................... [1.75]
@@ -3422,13 +3422,13 @@ Insolvency — cont                                                             
      safe harbour provisions, ........ [1.155], [14.115],                          incurring a debt, ...................... [16.90], [16.100]
                                                                          [16.60]       debt, meaning, .................................. [16.100]
      sequestration order, relevance to, ......... [1.140]                          individual creditor's claim, .................. [16.120]
-     solvent, deﬁnition, ..................................... [1.85]              information, provided by reliable subordinate,
+     solvent, definition, ..................................... [1.85]              information, provided by reliable subordinate,
      technology, effect on, ................. [1.195], [1.220]                              ........................................................ [16.105]
      terminology, ................................................ [1.70]              tax liabilities, ..................................... [16.155]
      tests of, ....................................................... [1.100]     insolvency report, .................................... [16.90]
          balance sheet test, ................ [1.100], [1.110]
                                                                                    liability
-         cash ﬂow test, ........................ [1.100]-[1.110]
+         cash flow test, ........................ [1.100]-[1.110]
                                                                                        conditions for, ..................................... [16.90]
      time for assessment, .................................. [1.95]
                                                                                            incurring a debt, ............... [16.90], 16.100]
@@ -3453,7 +3453,7 @@ Insolvency practitioner                                                         
 Insolvent trading                                                                      reason to suspect, meaning, ............. [16.95]
    administrator, company's decision to appoint                                    reasonable steps to stop incurring debt,
           and, ................................................. [19.40]                    ........................................................ [16.105]
-   advice from appropriately qualiﬁed entity,                                          tax liabilities, ..................................... [16.155]
+   advice from appropriately qualified entity,                                          tax liabilities, ..................................... [16.155]
            .......................................... [16.105], [21.65]            receiver liability for, ............................... [18.450]
 944           Keay's Insolvency: Personal and Corporate Law and Practice
 
@@ -3462,7 +3462,7 @@ Insolvent trading — cont                                                      
      recovery of loss, ..................................... [16.110]                 examinable affairs, meaning, ................. [6.195]
      safe harbour provisions, ........ [1.155], [14.115],                             interviewing the bankrupt, ...................... [6.35]
                               [16.60], [16.85], [21.65], [21.90]                      notices issued by Official Receiver, ....... [6.200]
-         advice from appropriately qualiﬁed entity,                                   offshore information notices (s 81A), ... [6.275]
+         advice from appropriately qualified entity,                                   offshore information notices (s 81A), ... [6.275]
              .......................................... [16.105], [21.65]             preliminary inquiries and actions, ........ [6.190]
          holding company directors, ........... [16.130]                              private examinations, .............................. [6.215]
      Salomon v Salomon & Co Ltd . [1897], [16.85]                                         s 77C notices, ...................................... [6.215]
@@ -3482,7 +3482,7 @@ Inspector-General in Bankruptcy, ............. [2.110]                          
            ............................................................ [7.40]
    Attorney-General, supervision by, ........ [2.110]
    committee of inspection, attending, ..... [6.165]
-   conﬁdential information, ........................ [2.112]                     Joint creditors
+   confidential information, ........................ [2.112]                     Joint creditors
    meeting of creditors, ................................. [6.95]                   bankruptcy notice, ................................... [3.210]
       Pt X agreements, ................................ [8.140]                     creditor's petition, .................................... [3.135]
    personal insolvency agreements, challenges to,                                   judgment or order, names on, ............... [3.210]
@@ -3509,7 +3509,7 @@ Investigation of bankrupt                                                       
        access to premises to inspect, .......... [6.205]
        associated entities, ............................... [6.25]
        failure to deliver, ...... [6.20], [6.205], [6.215]                                                            L
-       ﬁnancial records, .................................. [6.15]
+       financial records, .................................. [6.15]
        s 77A notice, ........................................ [6.205]
        s 77AA notice, ..................................... [6.205]              Legal practitioners
        s 77C notices, ...................................... [6.215]                Bankruptcy Act, role under, ................... [2.375]
@@ -3542,15 +3542,15 @@ Legal professional privilege                                                    
       s 77C notice and, ................................ [6.225]                           .......................................................... [15.65]
    overview, ..................................................... [6.40]         carrying on a business, ......... [10.310], [15.235]
    property, as, ................................................ [4.50]          challenging decision of, ........................ [10.440]
-   waiver of, .................................................... [6.40]         classiﬁcation, ........................................... [10.205]
+   waiver of, .................................................... [6.40]         classification, ........................................... [10.205]
                                                                                   commencement date, assessing, ............ [15.10]
 Liens                                                                             company groups, to, .............................. [10.220]
    invalidation of security interest, ......... [14.270]                          compromising debts, ............................... [15.65]
-   secured creditors, ..................................... [6.505]               conﬂicts of interest
+   secured creditors, ..................................... [6.505]               conflicts of interest
    security interest, ....................................... [18.50]                 company groups, ............................. [10.220]
    voluntary administration                                                           disqualifying relationships, ........... [10.200],
       administrator's lien, ......................... [19.230]                                                                                      [10.210]
-                                                                                      ﬁduciary duties and, ....................... [10.240]
+                                                                                      fiduciary duties and, ....................... [10.240]
       court leave to dispose of property subject
                                                                                       independence, ..................... [1.150], [10.445]
           to, .................................................. [19.380]
@@ -3583,9 +3583,9 @@ Liquidator                                                                      
 Liquidator — cont                                                               examination by — see Examination –
                                                                                         corporate insolvency
       voluntary administrator, becoming                                         expending own funds, .......................... [10.295]
-         liquidator of, ................... [11.45], [20.55]                    ﬁduciary duties, .... [10.205], [10.210], [10.240],
+         liquidator of, ................... [11.45], [20.55]                    fiduciary duties, .... [10.205], [10.210], [10.240],
    criminal offences, ................... [16.180], [16.185]                                                                                       [16.30]
-   declaration of independence, relevant                                            conﬂicts of interest and, ................. [10.240]
+   declaration of independence, relevant                                            conflicts of interest and, ................. [10.240]
            relationships and indemnities (DIRRI),                                   honesty, .............................................. [10.240]
             ........................................................ [10.230]       impartiality, ....................................... [10.240]
    delegation by, .......................................... [10.250]           funding, ................................................... [10.195]
@@ -3626,13 +3626,13 @@ Liquidator — cont                                                             
        care and skill, .................................... [10.245]            insurance requirements, ........ [10.170], [10.180]
            sale of property, regarding ........... [15.240]                     investigations, ......................... [10.280], [15.110]
        discretion, exercising, ...................... [10.250]
-                                                                                    books, accounts and ﬁnancial records,
+                                                                                    books, accounts and financial records,
        Ex parte James, rule in, ................... [10.300]
                                                                                          ........................................................ [10.280]
        failure to perform, ........... [10.405], [10.425]
-       ﬁduciary duties, .............. [10.205], [10.210],                          circumstances that lead to liquidation,
+       fiduciary duties, .............. [10.205], [10.210],                          circumstances that lead to liquidation,
                                                        [10.240], [16.30]                 ........................ [15.110], [15.115], [15.195]
-           conﬂicts of interest and, ............... [10.240]                       examination of officers and employees,
+           conflicts of interest and, ............... [10.240]                       examination of officers and employees,
            honesty, ......................................... [10.240]                   .......................................... [10.280], [15.20]
            impartiality, ................................... [10.240]               external funding for, ........................ [10.280]
        investigate, ........................................ [10.280]               further report to ASIC (s 533), ...... [15.120]
@@ -3650,7 +3650,7 @@ Liquidator — cont                                                             
 
 Liquidator — cont                                                                       continuing professional education (CPE),
                                                                                                .................................. [10.150], [10.165]
-      annual administration return lodgement,                                       qualiﬁcations, .... [10.135], [10.145], [10.150]
+      annual administration return lodgement,                                       qualifications, .... [10.135], [10.145], [10.150]
            .......................................................... [15.45]       register, ............................................... [10.170]
       appointment, of, ................................. [15.30]                    renewal, ............................................. [10.170]
       creditors, to, ........................................ [15.30]               suspension of, ... [10.165], [10.365], [10.390]
@@ -3683,7 +3683,7 @@ Liquidator — cont                                                             
    provisional — see Provisional liquidator                                         lien over assets under their control,
    public examinations, conducting, ...... [10.340],                                     ........................................................ [10.460]
                                                       [13.40], [15.120]             priority, .............. [10.450], [10.460], [15.380]
-   qualiﬁcations, ......... [10.135], [10.145], [10.150],                           proportionality, ................................. [10.455]
+   qualifications, ......... [10.135], [10.145], [10.150],                           proportionality, ................................. [10.455]
                                                                     [10.185]        reasonable, ......................................... [10.455]
       legal, ................................................... [10.470]           remuneration determinations, ....... [10.465]
    receiver, effect of appointment on,                                              time-billing, ....................... [10.460], [10.465]
@@ -3694,7 +3694,7 @@ Liquidator — cont                                                             
    register of, ............................................... [10.170]                 ............................ [10.280], [13.30], [15.20]
    registration, ............... [10.55], [10.115], [10.140]                    resignation, .............................. [10.225], [10.390]
       application for, .................................. [10.145]              search warrant, applying for, ................. [15.15]
-          disqualiﬁcation from, .................... [10.150]                   special purpose, ...................................... [10.225]
+          disqualification from, .................... [10.150]                   special purpose, ...................................... [10.225]
       cancellation, ..... [10.165], [10.365], [10.375],                         statutory duties, ..................................... [10.255]
                                                                     [10.390]        statutory reports to creditors, ......... [15.30],
       committee interviews, ..... [10.145], [10.155]                                                                                               [15.45]
@@ -3710,7 +3710,7 @@ Liquidator — cont                                                             
 
 Liquidator — cont                                                                       status as creditor, dependent on, .. [19.350]
                                                                                         unliquidated claims, ........................ [19.365]
-       directions, applying for, .................. [10.345]                         ﬁrst meeting, ............................ [19.290]-[19.300]
+       directions, applying for, .................. [10.345]                         first meeting, ............................ [19.290]-[19.300]
        liquidator applying for inquiry, .... [10.420]                                   committee of inspection, appointment,
        review of external administration,                                                    ........................................................ [19.290]
             ........................................................ [10.410]           declaration by administrator, ......... [19.295]
@@ -3724,7 +3724,7 @@ Liquidator — cont                                                             
     who may become, .................................. [10.150]                         administrator presiding at, ........... [19.300],
                                                                                                                                                       [19.330]
 Litigation funding                                                                      alternatives to be decided on, ....... [19.305]
-    ﬁnancial support for proceedings, ........ [6.430]                                  court determining whether properly held,
+    financial support for proceedings, ........ [6.430]                                  court determining whether properly held,
                                                                                              ........................................................ [19.385]
                                     M                                                   creditors' details, notice of, ............ [19.305]
                                                                                         details of proposed deed, ............... [19.325]
@@ -3772,14 +3772,14 @@ Meetings of creditors – administration                                        
 Meetings of creditors – bankruptcy — cont                                          following
                                                                                        failure to implement agreement, ..... [8.195]
             notice of meetings, ......................... [6.105]                      limitation on further agreements, ... [8.190]
-        vexatious, ............................................. [6.150]               notiﬁcation requirements, ................. [8.185]
+        vexatious, ............................................. [6.150]               notification requirements, ................. [8.185]
     creditor statements, .................................. [6.110]                    sequestration order issue, ................. [8.195]
     joint bankruptcies, ................................... [6.140]                further agreements, ................................. [8.190]
     minutes, ..................................................... [6.130]         Inspector-General attendance, ............... [8.140]
     notice of meetings, ......... [6.100], [6.105], [7.45]                         joint debtors, ............................................. [8.155]
         AFSA scrutiny, .................................... [6.105]                notice of, ...................................... [8.120], [8.135]
-    overview, ..................................................... [6.95]             creditors not notiﬁed still bound, ... [8.135]
-    Part X agreements — see Meetings of                                            notiﬁcation requirements following, .... [8.185]
+    overview, ..................................................... [6.95]             creditors not notified still bound, ... [8.135]
+    Part X agreements — see Meetings of                                            notification requirements following, .... [8.185]
             creditors – Pt X agreements                                            overview, .................................................... [8.115]
     personal insolvency agreements — see                                           remuneration of trustee, ......................... [8.175]
             Meetings of creditors – Pt X                                               expected amount, ............................... [8.130]
@@ -3792,7 +3792,7 @@ Meetings of creditors – bankruptcy — cont                                   
     proxies, ......................................... [6.110], [6.135]                     .......................................................... [8.165]
     quorum, ..................................................... [6.115]              debtor petition, ................................... [8.165]
     resolutions, ................................................ [6.110]              executing agreement, .......... [8.165], [8.170]
-        accepting scheme of arrangement or                                             notiﬁcation requirements, ................. [8.185]
+        accepting scheme of arrangement or                                             notification requirements, ................. [8.185]
             composition, ........................ [7.35], [7.55]                       statement under s 189B, .................... [8.110]
         annulment of bankruptcy, ...... [7.25], [7.45]                                 trustee, nominating, ........................... [8.170]
             scheme of arrangement or composition,                                  rules, ........................................................... [8.120]
@@ -3832,7 +3832,7 @@ Meetings of creditors – Pt X agreements                                       
 Meetings of creditors – winding up — cont                                                 taking possession of collateral, ....... [18.20],
                                                                                                                                                   [18.30]
      members' meetings                                                                 security interest
-         creditors' voluntary winding up, .... [10.55]                                    deﬁnition, ............................................ [13.70]
+         creditors' voluntary winding up, .... [10.55]                                    definition, ............................................ [13.70]
              removal of liquidator, ..... [10.55], [10.445]                               invalidation of, ................................. [14.270]
          solvent winding up, .......................... [10.20]                           preference, as, ..................................... [5.160]
      members' voluntary winding up, ........ [11.10],                                  trustee requiring discharge of, .............. [4.190]
@@ -3899,7 +3899,7 @@ Order of payments — cont                                                      
     pari passu and, ........ [6.535], [15.340], [15.345],                         creditor, for, ........................................... [8.50]
                                                                  [16.78]          debtor, for, ............................................. [8.45]
     priority payments                                                         bankruptcy provisions applicable, .......... [8.55]
-       bankruptcy — see Priority payments –                                   certiﬁcate of discharge of the debtor's
+       bankruptcy — see Priority payments –                                   certificate of discharge of the debtor's
            bankruptcy                                                                obligations, ........................ [8.65], [8.205]
        deeds of company arrangement,                                          contents, ....................................................... [8.35]
             ......................................... [20.185]-[20.195]       controlling trustee — see Controlling trustee
@@ -3915,7 +3915,7 @@ Order of payments — cont                                                      
                                                                               exclusions, ................................................... [8.30]
                                                                               failure to implement agreement, ........... [8.195]
 Pari passu                                                                    family law, effect on, ............................... [8.210]
-   bankruptcy, ................................................ [6.535]       identiﬁcation and speciﬁcation of debtor's
+   bankruptcy, ................................................ [6.535]       identification and specification of debtor's
    exceptions, ................................................. [1.165]             property, .......................................... [8.35]
    insolvent trading claims, ........................ [16.85]                 Insolvency Law Reform Act 2016 changes,
    overview, ....................................... [2.25], [16.78]                  ............................................................ [8.25]
@@ -3962,7 +3962,7 @@ Personal insolvency agreements (Pt X) — cont                                  
        subsequent charges, ............................. [8.75]                              creditors reviewing, ........................ [8.180]
    setting aside by court, ............... [8.225], [8.230]                                  unpaid, ............................................. [8.325]
         agreement is unreasonable or not to                                              terminating agreement, ..................... [8.305]
-            creditor's beneﬁt, ......................... [8.230]                      variation, .................................................... [8.215]
+            creditor's benefit, ......................... [8.230]                      variation, .................................................... [8.215]
         ancillary orders, ................................. [8.280]                      notice requirements, .......................... [8.320]
         application for, ...................... [8.285], [8.295]                      void, .............................................. [8.285], [8.290]
             delay, ............................................... [8.285]
@@ -3991,7 +3991,7 @@ Personal insolvency agreements (Pt X) — cont                                  
    statement of affairs, ....... [8.70], [8.100], [8.120]                           effect, ........................................ [15.315], [15.320]
    termination, ............................................... [8.220]             eligible unsecured creditor, .................. [15.315]
        application for, .................................... [8.285]                intermingled assets, ............................... [15.325]
-       certiﬁcate, ............................................ [8.305]             liquidators powers, ................................ [15.315]
+       certificate, ............................................ [8.305]             liquidators powers, ................................ [15.315]
        court, by, ................................ [8.225], [8.255]                 overview, ................................................. [15.310]
            ancillary orders, .............................. [8.280]                 voluntary pooling, ................................. [15.315]
            compensation, ................................. [8.280]
@@ -4005,7 +4005,7 @@ Personal insolvency agreements (Pt X) — cont                                  
            resolution, by, ................................. [8.310]                       ........................................................ [14.170]
        default of debtor, ............................... [8.305]                      time limit for application, .............. [14.175]
        effect, .................................................... [8.325]         creditor
-       ﬁnal payment, on, .............................. [8.315]                        meaning, .............................................. [14.75]
+       final payment, on, .............................. [8.315]                        meaning, .............................................. [14.75]
        limitation period, ............................... [8.285]                      protective provisions, ........................ [5.140]
        notice requirements, ............ [8.305], [8.320]                           debtor-creditor relationship requirement,
        part of agreement, ............................. [8.290]                            .......................................................... [5.160]
@@ -4030,7 +4030,7 @@ Preferences — cont                                                            
            preference, ..................................... [5.235]                   time of transaction, ............................ [5.180]
    delivery of goods, payment for, ............ [5.185]                                transfer of property, ........................... [5.150]
                                                                                        unfair preferences, .............. [14.35], [14.45],
-   effect of ﬁnding preference was given,
+   effect of finding preference was given,
                                                                                                                         [14.65]-[14.130], [14.165]
            ........................................................ [14.130]
    effect of transaction, ................ [5.175], [14.105]                        winding up, in
@@ -4060,7 +4060,7 @@ Preferences — cont                                                            
    receiver's liability to repay, .................... [14.85]                  Priority payments – bankruptcy
    recovery of, ............................................... [5.125]            audit costs, ................................................ [6.545]
        creditor protections, ........................... [5.140]                   balance of funds, ...................................... [6.580]
-   repayment of beneﬁt, ............................ [14.130]                      costs and expenses
+   repayment of benefit, ............................ [14.130]                      costs and expenses
    running accounts, .................... [5.185], [14.120]                            administration, of, .............................. [6.545]
    security interest, ....................................... [14.85]                  trustee, of, .............................. [6.545], [6.550]
        existing debt, over, ............................. [5.235]                  court ordered, ........................................... [6.570]
@@ -4068,7 +4068,7 @@ Preferences — cont                                                            
    set off against liquidator, ...................... [14.130]                         special resolution, reversing, ........... [6.565]
    setting aside by trustee, .......................... [5.135]                    Fair Entitlements Guarantee (FEG), .... [1.200],
    third party payments, ............................. [5.165]                                                                                   [6.540]
-   time of transaction, .................................. [5.180]                 ﬁnal order of payment, ........................... [6.580]
+   time of transaction, .................................. [5.180]                 final order of payment, ........................... [6.580]
        extended period for related-entities,                                       insufficient funds to cover, ..................... [6.580]
            ........................................................ [14.100]       overview, ................................................... [6.540]
        within six month period, .................. [14.95]                         Part VI scheme or composition, ............ [6.555]
@@ -4102,7 +4102,7 @@ Priority payments – winding up                                                
    employees, ............................................... [15.390]                 s 77A notice and, .................. [6.205], [6.225]
        advances to entitlements, ............... [15.410]                              s 77AA notice and, .............. [6.210], [6.225]
        assisting liquidator, ............. [13.40], [13.80],                           s 77C notice and, ................................ [6.225]
-                                                                      [15.20]      qualiﬁed privilege, ................................. [19.195]
+                                                                      [15.20]      qualified privilege, ................................. [19.195]
        effect on, .............................................. [13.80]               s 189A report and declaration, ........ [8.100]
        employment contracts, .................... [15.400]                         self incrimination, against
        excluded employees, ....................... [15.390]                            bankruptcy, ................ [6.20], [6.225], [6.260]
@@ -4131,7 +4131,7 @@ Priority payments – winding up                                                
    report as to costs, ................................... [15.370]                monetary terms, claim in, ...................... [6.470]
    retrenchment payments to employees,                                             non-provable claims, ................. [6.465], [6.470]
            ........................................................ [15.400]           discharge of bankruptcy effect on, .. [7.110]
-   schemes of arrangement and, .............. [15.345]                                 ﬁnes and penalties, ............................ [6.465]
+   schemes of arrangement and, .............. [15.345]                                 fines and penalties, ............................ [6.465]
    secured creditors, between, .................. [15.305]                             loss a result of misleading and deceptive
    subordination of debts, ......................... [15.345]                              conduct, ......................................... [6.465]
                                                                                                                                           Index           955
@@ -4145,12 +4145,12 @@ Proof of debts – bankruptcy — cont                                          
      purchased debts, ...................................... [6.510]                          ............................................................ [4.20]
      purpose                                                                         bankrupt refusing to give up possession,
          bankruptcy, ............................ [4.150], [4.165]                            .......................................................... [6.170]
-         winding up, ...................................... [15.250]                 beneﬁciary of a trust, ................................ [4.50]
+         winding up, ...................................... [15.250]                 beneficiary of a trust, ................................ [4.50]
      rejection of, .................................... [6.520], [7.30]              bequests, .......................................... [4.25], [4.55]
      right to share of bankrupt's estate, ....... [2.65],                            "Books" or records of a bankrupt, ......... [4.50]
                                             [4.145], [6.460], [6.530]                capital gains tax (CGT) on sale of asset,
          distribution of estate to creditors — see                                            ............................................................ [4.45]
-             Distribution of estate – bankruptcy                                     certiﬁcate of title to real estate, ............... [4.20]
+             Distribution of estate – bankruptcy                                     certificate of title to real estate, ............... [4.20]
          unlawful proceedings, ....................... [4.150]                       charge over, creation under s 139ZR, .. [5.265],
      rounding down, ....................................... [6.520]                                                                                      [5.275]
      secured creditors and, ............................. [6.505]                    claims subject to legal proceedings initiated
@@ -4169,7 +4169,7 @@ Proof of debts – bankruptcy — cont                                          
                                                                                      dealing with assets, ................................. [6.300]
 Proof of debts - winding up                                                          debt agreements (Pt IX), distribution under,
    appeal against liquidator decision, ..... [15.300]                                         ............................................................ [9.70]
-   claims of uncertain value, estimate of,                                           deﬁnition, .................................................. [5.250]
+   claims of uncertain value, estimate of,                                           definition, .................................................. [5.250]
            ........................................................ [15.280]         directions from the court, ......... [6.315], [6.455]
    contributories' claims, ........................... [15.290]                      discharge of bankruptcy, effect on, ........ [7.20],
    deeds of company arrangement, ........ [20.165]                                                                                                       [7.160]
@@ -4184,7 +4184,7 @@ Proof of debts - winding up                                                     
    liquidators determining, ....................... [15.295]                         distribution to creditors — see Distribution of
        appeal against decision, .................. [15.300]                                  estate - bankruptcy
    overview, ..................... [13.50], [13.55], [15.250]                        divisible property, ........... [4.25], [4.45], [4.150],
-   penalties and ﬁnes, .................. [13.65], [15.275]                                                                                              [6.195]
+   penalties and fines, .................. [13.65], [15.275]                                                                                              [6.195]
    purpose, ................................................... [15.250]                 after-acquired, ..................................... [7.180]
    relevant date, .......................................... [15.250]                    determining ownership, ................... [6.190]
    set-off, ....................................................... [15.285]         doctrine of relation, ................................... [4.65]
@@ -4250,7 +4250,7 @@ Property of bankrupt — cont                                                   
                   ...................................................... [5.85]   valuation of, ................................................ [5.35]
            undervalued transactions exemption,                                    vesting of property in trustee, .... [2.55], [4.25],
                   ...................................................... [5.50]                                                                        [4.50]
-   "property", deﬁnition, .............................. [4.25]                       after acquired property, ...................... [4.60]
+   "property", definition, .............................. [4.25]                       after acquired property, ...................... [4.60]
    protected dealings — see Protected dealings                                        family law property order, subject to,
    protected money — see Protected money                                                  ............................................................ [4.25]
    protected property — see Protected property                                        registered on title, ................................ [4.50]
@@ -4292,7 +4292,7 @@ Protected money
                                                                                         suspicion, ........................................... [14.215]
        professional negligence, .................... [4.125]
                                                                                     non-party, ................................................ [14.190]
-   deﬁnition, .................................................. [4.100]
+   definition, .................................................. [4.100]
                                                                                     overview, ................................................. [14.180]
    "exempt loan money", ............................ [4.100]
                                                                                     preference claims, defences to, ............. [5.140],
@@ -4354,7 +4354,7 @@ Provisional liquidator                                                          
    end of administration report, ................ [12.70]                           family and associates, ............................. [4.130]
    end of appointment, .............................. [12.100]                      order for, .................................................... [6.235]
    external administrator, ............................ [12.55]                     overview, ................................................... [4.130]
-   ﬁduciary duty, .......................................... [12.70]                persons who may be examined, ........... [6.235]
+   fiduciary duty, .......................................... [12.70]                persons who may be examined, ........... [6.235]
    grounds for appointment, ........ [12.30]–[12.35]                                power to examine, ..................... [6.245], [6.250]
    identifying assets of company, .............. [12.60]                            privilege and, ............................................ [6.260]
    independence, ............................. [12.55], [12.70]                     production of books, ............................... [6.245]
@@ -4402,11 +4402,11 @@ Provisional winding up                                                          
 Receivers — cont                                                                     registered liquidator, .............. [18.90], [18.145],
                                                                                                                                                [18.580]
        becoming, .......................................... [19.150]                 remuneration, ......................................... [18.185]
-       distinguished, ..................................... [18.05]                     court ﬁxing, ....................................... [18.240]
+       distinguished, ..................................... [18.05]                     court fixing, ....................................... [18.240]
    advantages of appointing, ...................... [18.30]                             power to claim, ................................ [18.240]
    breach of contract, ................................. [18.430]                       priority of payment, ........................ [18.240]
    controllers, ................................................. [18.30]            secured creditor, right to appoint, ........ [13.70]
-       deﬁnition, ............................................ [18.10]               two or more, ............................................. [18.10]
+       definition, ............................................ [18.10]               two or more, ............................................. [18.10]
    court-appointed — see Receivers,                                                  validity of appointment, ....... [18.100], [18.115]
            court-appointed                                                           verifying appointment, ......................... [18.115]
    death of, effect, ....................................... [18.610]                voidable transaction claims against, ... [18.175]
@@ -4434,10 +4434,10 @@ Receivers — cont                                                              
                                                                      [18.480]          account for receipts, ........................ [18.500]
        debts incurred, .................................. [18.440]                     exercise of reasonable care and skill,
        employee entitlements, ... [18.440], [18.465]                                        ........................................................ [18.500]
-       fraud, negligence, breach of trust or duty,                                     ﬁduciary obligations, ....................... [18.500]
+       fraud, negligence, breach of trust or duty,                                     fiduciary obligations, ....................... [18.500]
            losses due to, .............. [18.455], [18.480]                            officer, as, ........................................... [18.500]
        general law, under, .......................... [18.430]                         orders of court, compliance, .......... [18.500]
-       indemnities, ....................... [18.110], [18.470]                     ﬁduciary duties, ..................................... [18.500]
+       indemnities, ....................... [18.110], [18.470]                     fiduciary duties, ..................................... [18.500]
        insolvent trading, ............................. [18.450]                   indemnity, ................................................ [18.495]
        misfeasance, neglect or omission, . [18.445]                                jurisdiction of courts, ............ [18.120], [18.125]
        negligence, ......................... [18.430], [18.455]                    liabilities, .................... [18.05], [18.510]–[18.520]
@@ -4450,13 +4450,13 @@ Receivers — cont                                                              
    notice of appointment, ............ [18.95], [18.145]                           management powers, ............ [18.205], [18.425]
    overview, ................................................... [18.15]           notice of appointment, .......................... [18.145]
    payment priorities, ................................ [18.180]                   officer of court, ....................... [18.205], [18.500]
-   persons disqualiﬁed from acting as, .... [18.90]                                overview, ................................... [18.22], [18.120]
+   persons disqualified from acting as, .... [18.90]                                overview, ................................... [18.22], [18.120]
    powers, .................................................... [18.150]           powers, ... [18.125], [18.150], [18.425], [18.485],
    privately appointed receivers — see Receivers,                                                                                                    [18.490]
            privately appointed                                                         appointment limiting, ..... [18.150], [18.490]
    provisional liquidator and, .................... [12.90]                            directions, .......................................... [18.505]
-   qualiﬁcations for appointment, ............ [18.90],                                directors, effect on, .......................... [18.565]
-                                                                     [18.145]          ﬁduciary, ............................................ [18.500]
+   qualifications for appointment, ............ [18.90],                                directors, effect on, .......................... [18.565]
+                                                                     [18.145]          fiduciary, ............................................ [18.500]
    receiver and manager, as, ....................... [18.25]                           remuneration, ................................... [18.495]
    refusing appointment, ............................. [18.80]                         sale, ..................................................... [18.425]
 960           Keay's Insolvency: Personal and Corporate Law and Practice
@@ -4465,7 +4465,7 @@ Receivers, court-appointed — cont                                             
                                                                                  bank accounts, control of, .................... [18.315]
      privately appointed receiver, replacing,                                    carry on business, .................................. [18.345]
              ........................................................ [18.565]   challenging appointment, ....................... [18.40]
-     qualiﬁcations, .......................................... [18.145]          creditors, payment, ................................ [18.350]
+     qualifications, .......................................... [18.145]          creditors, payment, ................................ [18.350]
      relevant person, ...................................... [18.130]            debenture holder, duty to, .. [18.250], [18.355],
      remuneration, ......................................... [18.495]                                                                              [18.365]
      review of decisions, ............................... [18.205]               debentures, under, ...... [18.40], [18.45], [18.70],
@@ -4491,7 +4491,7 @@ Receivers, privately appointed — see also                                     
       categories of decision, ..................... [18.422]                                                                                       [18.415]
       conduct of receiver, ......... [18.422], [18.423]                              tax liabilities, ...................... [18.355]-[18.365]
       error of fact or law, .......................... [18.422]                  duties, ....................................... [18.160], [18.245]
-      s 423, under, ...................................... [18.423]                  bona ﬁde exercise of powers, ....... [18.250],
+      s 423, under, ...................................... [18.423]                  bona fide exercise of powers, ....... [18.250],
       s 599, under, ...................................... [18.422]                                                                                [18.255]
    appointment, effects, ............................. [18.530]                      civil penalty order for breach, ....... [18.285]
       company officers, on, ...................... [18.535]                          costs and expenses of discharging,
@@ -4501,7 +4501,7 @@ Receivers, privately appointed — see also                                     
       employees, on, .................................. [18.555]                                                                                   [18.345]
       legal proceedings, on, ..................... [18.545]                          exercising power of sale, . [18.250]-[18.260]
       pre-existing contracts, on, .............. [18.550]                            extent of, ............................................ [18.255]
-   appointment, manner of, ........................ [18.80]                          ﬁduciary obligations, ....................... [18.245]
+   appointment, manner of, ........................ [18.80]                          fiduciary obligations, ....................... [18.245]
    assets                                                                            general duties, .................. [18.260], [18.285]
       circulating security interests, ......... [18.370]                             general law, under, .......................... [18.250]
       collection, possession and control,                                            good faith, ......................... [18.255], [18.285]
@@ -4521,16 +4521,16 @@ Receivers, privately appointed — see also                                     
                                                                                                                                     Index          961
 
 Receivers, privately appointed — cont                                              remuneration, ......................................... [18.185]
-                                                                                       court ﬁxing, ....................................... [18.240]
+                                                                                       court fixing, ....................................... [18.240]
        powers of liquidator over receiver,                                             power to claim, ................................ [18.240]
            ........................................................ [18.185]           priority of payment, ........ [18.240], [18.365]
        surplus funds paid to liquidator, .. [18.180]                               replacement, ............................................ [18.610]
    employees obligations to assist, .......... [18.320]                            report as to affairs, ................. [18.185], [18.295]
    examination of, ....................................... [18.185]                reporting duties, ..................................... [18.290]
    examinations by, ..................................... [18.230]                     ASIC reports, .................................... [18.305]
-   ﬁduciary obligations, ............................. [18.245]                        corporations ﬁnancial affairs (s 421A
-   ﬁxed charges, ............................................ [18.50]                      report), ......................................... [18.310]
-   ﬂoating charges, ....................................... [18.50]                    notiﬁcation requirements, ............... [18.290]
+   fiduciary obligations, ............................. [18.245]                        corporations financial affairs (s 421A
+   fixed charges, ............................................ [18.50]                      report), ......................................... [18.310]
+   floating charges, ....................................... [18.50]                    notification requirements, ............... [18.290]
    formalities of appointment, ................... [18.95]                             receiving reports from officers, ..... [18.295],
    independence, ........................... [1.150], [18.155]                                                                                    [18.300]
    joint appointments, .................................. [18.75]                      report as to affairs, ........... [18.185], [18.295]
@@ -4541,7 +4541,7 @@ Receivers, privately appointed — cont                                         
    managing controller, ................ [18.30], [18.310]                             agent of company, ............................ [18.160]
    manner of appointment, ......................... [18.80]                        sale of company property
    notice of appointment, ............................ [18.95]                         determinable value, ......................... [18.275]
-   notiﬁcation requirements, ..... [18.290], [18.560]                                  duties under 420A, ........... [18.260]-[18.280]
+   notification requirements, ..... [18.290], [18.560]                                  duties under 420A, ........... [18.260]-[18.280]
    officer of the company, .......................... [18.160]                         exercising power of, ......... [18.250]-[18.260]
        effect of appointment on, ............... [18.535]                              extent of power, ............................... [18.255]
                                                                                        market value, .................... [18.265], [18.275]
@@ -4587,7 +4587,7 @@ Receivers, privately appointed — cont                                         
        remuneration, ................... [18.240], [18.365]                            termination of receivership, ........... [18.570]
        tax liabilities, ...................... [18.355]-[18.365]                   verifying appointment, ......................... [18.115]
    property does not vest in, .................... [18.195]                        vesting of property, ............................... [18.195]
-   qualiﬁcations for appointment, ............. [18.90]
+   qualifications for appointment, ............. [18.90]
    receiver and manager, ............................. [18.25]                 Receivership
        control of bank accounts, ............... [18.315]                         carrying on business, .............................. [13.95]
        joint appointments, ............................ [18.75]                   cross-border insolvencies, ....................... [18.05]
@@ -4601,7 +4601,7 @@ Receivership — cont                                                           
     liability of receiver — see Receivers                                             continuing professional education, ....... [2.140]
     overview, ................................................... [18.05]             creditors, oversight by, ............................ [2.360]
     Part 5.2 Corporations Act, ...................... [18.10]                         disciplinary committee, .......................... [2.305]
-        controllers, deﬁnition, ....................... [18.10]                       industry body notices, ............................ [2.310]
+        controllers, definition, ....................... [18.10]                       industry body notices, ............................ [2.310]
     partnership disputes, .............................. [18.05]                      joint trustees, ............................................. [2.162]
     provisional winding up and, ................. [12.90]                             objects of provisions as to, ..................... [2.170]
     receivers — see Receivers                                                         on-going obligations, ............................... [2.150]
@@ -4611,7 +4611,7 @@ Receivership — cont                                                           
         effect, .................................................. [18.640]           personal insolvency agreements (Pt X), trustee
         improper or defective appointment,                                                    of, — see Controlling trustee
              ........................................................ [18.625]        private individual as, .............................. [2.120]
-        misconduct, ....................................... [18.630]                  qualiﬁcations, ............................................ [2.140]
+        misconduct, ....................................... [18.630]                  qualifications, ............................................ [2.140]
         procedure on, .................................... [18.635]                   Register of Trustees, ................................ [2.165]
         reasons, .............................................. [18.615]                  disciplinary outcomes, ...................... [2.315]
     termination of, privately appointed receivers,                                    registration, ............................................... [2.140]
@@ -4673,9 +4673,9 @@ Relation back                                                                   
             ................................ [3.170], [4.200], [6.12]                investigating accountant appointment,
        claim by trustee, ................................. [4.200]                            .......................................................... [21.15]
    defences, ...................................................... [2.97]           ipso facto clauses and, .............. [21.15], [21.80]
-   deﬁnition, .................................................. [14.40]             lessors, ........................................................ [21.75]
+   definition, .................................................. [14.40]             lessors, ........................................................ [21.75]
    doctrine, ....................................................... [2.95]          liquidation analysis, ............................... [21.115]
-   property of bankrupt, identiﬁcation, ...... [2.95]                                listed companies, ...... [21.30], [21.155], [21.160]
+   property of bankrupt, identification, ...... [2.95]                                listed companies, ...... [21.30], [21.155], [21.160]
    protected dealings, and,                                                          non-executive directors, .......................... [21.45]
        burden of proof, ................... [4.210], [4.215]                         officer's statutory duties, ........ [21.40], [21.155]
        contracts for valuable consideration,                                         overview, ....................................... [1.60], [21.05]
@@ -4707,9 +4707,9 @@ Relation back                                                                   
 Restructuring and workouts                                                           process, ........................................ [21.15], [21.20]
    advisors, ..................................... [21.65], [21.165]                 publicly listed companies, ..... [21.30], [21.155],
    aim, ............................................................. [21.15]                                                                          [21.160]
-   capital raising, ........................................ [21.155]                related party ﬁnancial beneﬁts, .......... [21.155],
+   capital raising, ........................................ [21.155]                related party financial benefits, .......... [21.155],
    capital structure, ....................................... [21.55]                                                                                  [21.160]
-   Chief Restructuring Officer, .................... [21.40]                         restructuring deﬁnition, .......................... [21.10]
+   Chief Restructuring Officer, .................... [21.40]                         restructuring definition, .......................... [21.10]
    Commissioner of Taxation, .................... [21.80]                            safe harbours and, ..................... [21.05], [21.90]
    company's constitution, altering, ........ [21.155]                                   advice requirements, ......................... [21.65]
    comparable valuation methods, .......... [21.115]                                 sale or disposal of assets, ....................... [21.35]
@@ -4724,11 +4724,11 @@ Restructuring and workouts                                                      
    deeds of company arrangement — see Deeds                                          standstill agreement, ............................... [21.20]
            of company arrangement                                                    staple securities and, ............................... [21.70]
    directors duties, .......... [21.40], [21.45], [21.155]                           swap providers, ........................................ [21.60]
-   discounted cash ﬂow method, ............. [21.115]                                syndicated facility agreement, ............... [21.20]
+   discounted cash flow method, ............. [21.115]                                syndicated facility agreement, ............... [21.20]
    employees, ................................................. [21.85]              turnaround, ............................................... [21.10]
    enterprise valuation, ................ [21.55], [21.115]                          valuation of assets, ................................ [21.115]
    equity investors, ....................................... [21.70]                 voluntary administration and, .............. [20.05]
-   executive management                                                              workout deﬁnition, .................................. [21.10]
+   executive management                                                              workout definition, .................................. [21.10]
       statutory duties, ................................. [21.40]
    formal process, ........... [21.15], [21.20], [21.120]                        Retention of title
    hedge and swap providers, ................... [21.60]                            all moneys clause, .................................. [18.335]
@@ -4772,10 +4772,10 @@ S 188 authority
    restrictions on, ............................................ [8.80]           equity investors, ....................................... [21.70]
    subsequent charges, ................................... [8.75]                 expected dividend, ................................ [21.125]
                                                                                   explanatory statement, .......................... [21.125]
-Safe harbour provisions                                                           ﬁnal account, ........................................... [21.145]
+Safe harbour provisions                                                           final account, ........................................... [21.145]
    "a better outcome for the company", . [21.95],                                 initiating, ..................................................... [7.40]
                                                                      [21.100]     ipso facto clauses, .................................. [21.120]
-   advice from appropriately qualiﬁed entity,                                     meetings of creditors, ............................ [21.125]
+   advice from appropriately qualified entity,                                     meetings of creditors, ............................ [21.125]
             .......................... [16.105], [21.65], [21.165]                multiple creditors, .................................... [21.20]
    aim, ............................................................. [21.90]     notice of cessation, ................................. [21.145]
    appointment of an administrator or liquidator,                                 operation, ................................................ [21.120]
@@ -4812,10 +4812,10 @@ Secured creditors                                                               
    debt trading, ............................................. [21.50]              security interest
    deeds of company arrangement, .......... [20.10]                                     circulating security interests, avoidance,
        debt extinguished by, ........................ [19.30]                                ........................................................ [14.165]
-       effect on, ............................................ [20.120]                 deﬁnition, ............................................ [13.70]
+       effect on, ............................................ [20.120]                 definition, ............................................ [13.70]
        proceedings, bringing, .... [20.105], [20.120]                                   perfected, ............................................. [13.70]
        realising security, ............... [20.55], [20.120]                            PPSA, bankruptcy, ............... [4.190], [6.505]
-   deﬁnition, .... [4.190], [15.305], [18.05], [20.120]                                 PPSA, winding up, ............................ [13.70]
+   definition, .... [4.190], [15.305], [18.05], [20.120]                                 PPSA, winding up, ............................ [13.70]
    discharge of bankruptcy effect on, ....... [7.160]                                   preference, as, ..................................... [5.160]
    execution process, as a result of, .......... [4.175]                            shadow directors, acting as, ................... [21.50]
    group loans, .............................................. [21.50]              surrender of security, ............................ [15.305]
@@ -4830,7 +4830,7 @@ Secured creditors                                                               
    meetings of creditors, ............ [15.100], [15.305]                                   deed of consent for enforcement,
    moratorium against civil recovery processes,                                                    .................................................. [19.125]
            protection from, .............................. [3.40]                           enforcement action, ...... [19.120], [19.125]
-   mortgages, ................................... [4.190], [6.505]                          ﬁnance leases, ............................... [19.105]
+   mortgages, ................................... [4.190], [6.505]                          finance leases, ............................... [19.105]
    order of payment, ...................... [5.235], [6.535]                                limitations on enforcement, .......... [19.120]
    overview, ................................................. [15.305]                     moratorium exception, .................. [19.270]
    par lenders, ............................................... [21.50]                     position prior to PPSA, ................ [19.105]
@@ -4851,7 +4851,7 @@ Secured creditors                                                               
    purchase money security interest (PMSI)                                                                                         [18.45], [18.70]
        bankruptcy, .......................................... [6.505]                  manner, ................................................ [18.80]
        receivership, ...................................... [18.335]                   removal of receiver, ......................... [18.595]
-       winding up, ........................................ [14.20]                deﬁnition, .................... [13.70], [18.05], [20.120]
+       winding up, ........................................ [14.20]                definition, .................... [13.70], [18.05], [20.120]
    real property, ............................................. [4.190]            non-circulating security interests, ....... [18.365]
 966           Keay's Insolvency: Personal and Corporate Law and Practice
 
@@ -4871,7 +4871,7 @@ Security interest — cont                                                      
               .......................................................... [18.50]        evidence, .................................................... [3.375]
         deeds of company arrangement and,                                               Federal Circuit Court, ............................. [3.133]
               ........................................................ [20.120]         Federal Court, ............................. [3.130], [3.133]
-        priority of secured creditors, ........... [21.50]                              ﬁling application and affidavits, .......... [3.133],
+        priority of secured creditors, ........... [21.50]                              filing application and affidavits, .......... [3.133],
      transitional security agreements, .......... [18.50]                                                                                                   [3.375]
      vesting rules, ............................................. [1.165]               joint creditors and, ................................... [3.135]
      voluntary administration                                                           joint debtors, against, .............................. [3.150]
@@ -4929,17 +4929,17 @@ Set-off — cont                                                                
 Setting aside                                                                    affidavit accompanying, .......... [11.95], [11.190]
    bankruptcy notice, ..................... [3.255], [3.265]                     bankruptcy notices, comparison, .......... [11.80]
        defective, .............................................. [3.280]         challenges to, ........................................... [11.115]
-   ﬁnal judgment, ........................... [3.255], [3.265]                       21 days' time limit, .......... [11.130], [11.135]
+   final judgment, ........................... [3.255], [3.265]                       21 days' time limit, .......... [11.130], [11.135]
                                                                                          extension, ...................................... [11.140]
 Sheriff                                                                              validity, .............................................. [11.130]
    creditor's petition effect on, ................... [4.185]                    compliance, .............................................. [11.105]
    declaration of intention to present a debtor's                                    extension of time for, ....... [11.110], [11.140]
           petition effect on, ............... [3.20], [3.35]                     content, ....................................................... [11.95]
-   execution returned unsatisﬁed by, ........ [3.185]                            creditor's debt requirements, ................. [11.90]
+   execution returned unsatisfied by, ........ [3.185]                            creditor's debt requirements, ................. [11.90]
    payments recovered and held by, ......... [4.185]                             date of failure to comply, ...................... [11.110]
    recovery from, winding up, ................. [14.245]                         debt recovery, for, ................................... [11.170]
    sale by, ....................................................... [3.185]      defect in, ... [11.115], [11.145], [11.180], [11.185]
-                                                                                     defect, deﬁnition, .............................. [11.185]
+                                                                                     defect, definition, .............................. [11.185]
                                                                                      setting aside for, ............... [11.180], [11.185]
 Slip rule
                                                                                      substantial injustice, ........................ [11.180]
@@ -4962,7 +4962,7 @@ Solvency                                                                        
    onus of proof, ........................................... [3.395]                    affidavit accompanying, ................ [11.125]
    realisable assets, ....................................... [1.130]                    time limit, ...................... [11.130], [11.135]
    sequestration orders and, ......... [3.325], [3.395]                              conditions on, ................................... [11.195]
-   solvent, deﬁnition, ..................................... [1.85]                  consequences of, ............................... [11.195]
+   solvent, definition, ..................................... [1.85]                  consequences of, ............................... [11.195]
                                                                                      costs, claiming, ................................. [11.165]
 Special administrator                                                                discretion for, .................................... [11.190]
    Aboriginal and Torres Strait Islander                                             Graywinter principle, ...................... [11.125]
@@ -4974,15 +4974,15 @@ Statement of affairs
                                                                                               ................................... [11.150]-[11.160]
    administration of bankruptcy and, ......... [6.30]
                                                                                          offsetting claims, ........................... [11.175]
-   date of ﬁling, ............................................. [7.115]
+   date of filing, ............................................. [7.115]
                                                                                          substantial injustice, ...................... [11.180]
    debtor's, ............................... [3.15], [3.20], [3.55]
-       failure to ﬁle, ...................................... [4.230]
+       failure to file, ...................................... [4.230]
        joint debtors, ....................................... [3.105]         Stay of winding up
        partnership debtors, ............................ [3.95]                  court ordered, ........................................... [17.10]
    joint debtors, ............................................. [3.105]          deed of company arrangement executed,
    materially incomplete, .............................. [6.30]                         .......................................................... [17.25]
-   offences relating to, ...................... [4.245], [6.30]                  indeﬁnite stay
+   offences relating to, ...................... [4.245], [6.30]                  indefinite stay
    partnership debtors, .................................. [3.95]                   termination distinguished, ............... [17.10]
    personal insolvency agreements (Pt X),                                        limited period, for, ..................... [17.10], [17.25]
             .............................................. [8.70], [8.100]       pending appeal from winding up order,
@@ -4997,7 +4997,7 @@ Stay of winding up — cont                                                     
     voluntary winding up, ............................ [17.30]
                                                                                     capital gains tax (CGT) on sale of asset,
                                                                                               ............................................................ [4.45]
-Superannuation contributions                                                        Commissioner receiving beneﬁt of voidable
+Superannuation contributions                                                        Commissioner receiving benefit of voidable
   cashed in before bankruptcy, ................... [4.95]                                    transaction, .................................. [16.150]
   consideration and, ..................................... [5.35]                   deceased estates, requirements for, ...... [6.590]
   defeat creditors, made to, ........... [5.05], [5.105]                            deed administrator liability, ................. [20.140]
@@ -5056,11 +5056,11 @@ Supervised account regime
     withdrawal from, ..................................... [6.395]
                                                                                             .......................................................... [17.25]
                                                                                     existing debt, ............................................ [17.10]
-Supreme Courts                                                                      indeﬁnite stay distinguished, ................ [17.10]
+Supreme Courts                                                                      indefinite stay distinguished, ................ [17.10]
   jurisdiction, winding up, ...................... [10.190]                         notice, service of, ..................................... [17.15]
                                                                                                                                   Index           969
 
-Termination of winding up — cont                                             conﬁdential information, ........................ [2.112]
+Termination of winding up — cont                                             confidential information, ........................ [2.112]
                                                                              cost in conducting administration, ....... [6.190]
     order for termination, ............... [17.10], [17.25]                  court oversight of, ...................... [2.335]-[2.350]
         who may apply, .................................. [17.10]                conduct, review of, .............. [2.340], [2.350]
@@ -5075,7 +5075,7 @@ Transfers to defeat creditors                                                cre
        exemption, ............................................. [5.80]                                                                           [6.190]
    consideration, .................... [5.35], [5.75], [5.100]               debts properly incurred, ......................... [14.15]
        recovery of shortfall, ........................... [5.90]             declaration of relevant relationships, ..... [6.55]
-       third party, to, ..................................... [5.100]        deﬁnition, .................................................... [2.55]
+       third party, to, ..................................... [5.100]        definition, .................................................... [2.55]
    defences, ...................................................... [5.75]   demand notice, issuing, .......................... [6.200]
    defraud, meaning, ...................................... [5.95]           directions, ........................ [6.90], [6.455], [7.170]
    effective until set aside, ............................ [5.90]            disciplinary committee, .......................... [2.305]
@@ -5085,10 +5085,10 @@ Transfers to defeat creditors                                                cre
        deemed purpose, ................................. [5.70]              duties, ......................................................... [2.225]
        defraud creditors, to, ........................... [5.95]                 Ex parte James, rule in, ..... [2.250], [10.300]
        prevent or hinder or delay, ................ [5.70]                       fair dealing, ......................................... [2.250]
-       transferee knowledge of, .................... [5.75]                      ﬁduciary duties, ................... [2.225], [2.245]
+       transferee knowledge of, .................... [5.75]                      fiduciary duties, ................... [2.225], [2.245]
    maintenance agreements, ......................... [5.80]                      general under section 19, ................. [2.230]
    money-back for transferee, ....................... [5.90]                     impartiality and independence, ...... [2.235]
-   onus of establishing, .................................. [5.60]               proﬁting from, prohibition on, ........ [2.245]
+   onus of establishing, .................................. [5.60]               profiting from, prohibition on, ........ [2.245]
    purchaser, protection, ................................ [5.85]            estate of bankrupt, administration, ...... [2.120]
    recovery by trustee, ................................. [4.132]            examination of bankrupt and their family
    related third party, transfer to, .............. [4.132]                          members, ................ [4.130], [6.15]-[6.25]
@@ -5104,7 +5104,7 @@ Transfers to defeat creditors                                                cre
            transactions                                                      information provided to creditors,
                                                                                       ................................................. [6.50]-[6.60]
 Trustee                                                                          breach of duty to provide, ................. [6.70]
-   administration of bankruptcy — see                                            conﬁdential information, .................... [6.75]
+   administration of bankruptcy — see                                            confidential information, .................... [6.75]
           Administration of bankruptcy                                           dividend, likely amount, ........ [6.50], [6.60]
    annual administration return (AER), .. [2.265],                               exemptions from requirements, ........ [6.65]
                                                        [6.585]                       breach of duty to provide, ................ [6.70]
@@ -5138,7 +5138,7 @@ Trustee — cont                                                                
    insolvency, in event of, ........................... [14.15]                             .......................................................... [2.270]
        Official Trustee becomes trustee, ..... [6.160]                                voidable transactions, challenging, ... [8.50]
    Inspector-General, regulation by, .......... [2.285]                           preliminary inquiries and actions, ........ [6.190]
-   interest of, .................................................... [2.55]       proceedings, ﬁnancial support for — see
+   interest of, .................................................... [2.55]       proceedings, financial support for — see
    interim trustees, ....................................... [3.445]                       Financial support for proceedings
    interviewing the bankrupt, ...................... [6.35]                       property of bankrupt, taking possession of,
        statement of affairs, about, ................. [6.30]                                ................................ [6.170], [6.300], [8.50]
@@ -5160,7 +5160,7 @@ Trustee — cont                                                                
        s 77A notice, ........................................ [6.205]             request by creditor for information, ...... [6.65],
        s 77AA notice, ..................................... [6.210]                                                                                      [6.75]
        s 77C notices, ...................................... [6.215]                  breach of duty to provide, ................. [6.70]
-   joint trustees, ............................................. [2.162]              conﬁdential information, .................... [6.75]
+   joint trustees, ............................................. [2.162]              confidential information, .................... [6.75]
    liability of trustees, .................................. [2.275]                  Fair Entitlements Guarantee (FEG) scheme,
        indemnity, ................................ [2.275], [6.90]                          ............................................................ [6.75]
            creditor's, ........................................ [6.425]               reasonable, ................................. [6.75], [6.80]
@@ -5188,9 +5188,9 @@ Trustee — cont                                                                
      warrant to search and seize property, ... [4.25],                            Voidable transactions
                                                            [6.20], [6.195]           avoidance provisions and, ...... [1.160], [4.132],
                                                                                                                                              [5.15], [14.35]
-                                                                                         related entity, deﬁnition, ....... [6.25], [14.45]
-Trusts                                                                                   transaction, deﬁnition, ...................... [14.50]
-   bankruptcy and, ....................................... [1.195]                   beneﬁt, meaning, .................................... [14.155]
+                                                                                         related entity, definition, ....... [6.25], [14.45]
+Trusts                                                                                   transaction, definition, ...................... [14.50]
+   bankruptcy and, ....................................... [1.195]                   benefit, meaning, .................................... [14.155]
    creditor's trust, ......................................... [20.80]               categories of, ............................................. [14.35]
    distributions and income of bankrupt,                                             challenging, ................... [8.50], [14.60], [14.180]
            .......................................................... [6.350]        circulating security interests, ............... [14.165]
@@ -5232,7 +5232,7 @@ Undervalued transactions                                                        
   transfer of property, ................................... [5.30]                   reasonableness, ....................................... [14.135]
   voidable, ...................................... [5.20], [14.135]                  receivers, claims against, ...................... [18.175]
       time period, ............................... [5.25], [5.30]                    related entities, ......................... [14.45], [14.135]
-                                                                                         recovery of beneﬁts, ........................ [14.145]
+                                                                                         recovery of benefits, ........................ [14.145]
 Unsecured creditors                                                                  relation back day — see Relation back
   Commissioner of Taxation, .................... [21.80]                             relative, meaning, ................................... [14.155]
   insolvent trading, compensation for, ... [16.85],                                  subsequent bankruptcies, ....................... [7.180]
@@ -5243,7 +5243,7 @@ Unsecured creditors                                                             
 Voidable transactions — cont                                                         dealings, effect on, ............................. [19.70]
                                                                                      effect on, ................................ [19.60], [20.85]
      time period, ................................... [5.25], [5.240]                sale by administrator, ...................... [19.185]
-     transaction, deﬁnition, ............................ [14.50]                court role and powers, .......................... [19.375]
+     transaction, definition, ............................ [14.50]                court role and powers, .......................... [19.375]
      transfers to defeat creditors, .................... [5.90]                      appointment of reviewing liquidator,
      uncommercial transactions, ... [10.260], [14.35],                                    ........................................................ [19.175]
                                                       [14.135], [14.155]             company's affair, in relation to, ..... [19.400]
@@ -5310,7 +5310,7 @@ Voluntary administration — cont                                               
    employees, effect on, ............................... [19.90]                    effect of administration, .................. [19.105]
    legislative background, ........................... [19.05]                      limitations on enforcement, ........... [19.120]
    meeting of creditors, ............................. [19.285]                     long-term leasing arrangements, effect on,
-       ﬁrst meeting, ...................... [19.290]-[19.300]                            ........................................................ [19.100]
+       first meeting, ...................... [19.290]-[19.300]                            ........................................................ [19.100]
            committee of inspection, appointment,                                    position prior to, .............................. [19.105]
                   .................................................. [19.290]       property, effect on, ............................. [19.70]
            declaration by administrator, ........ [19.295]                          rights of secured parties, ................ [19.125]
@@ -5342,7 +5342,7 @@ Voluntary administration — cont                                               
            owner or lessor acting before                                                       .................................................. [19.125]
                  administration commences, .... [19.280]                                deed of consent for, ...................... [19.125]
            perishable property, ...................... [19.275]                         limitations on, ............................... [19.120]
-           secured parties, ............................. [19.270]                  ﬁnance leases, ................................... [19.105]
+           secured parties, ............................. [19.270]                  finance leases, ................................... [19.105]
        execution action, suspension of, ... [19.265]                                moratorium exception, .................... [19.270]
                                                                                     PPSA regime, .................................... [19.105]
        leave to commence or continue
@@ -5474,7 +5474,7 @@ Winding up — cont                                                             
   court's discretion, ................................... [11.265]                    voluntary winding up, .................. [10.100]
      abuse of process, .............. [11.250], [11.275]                      interaction with other arrangements, .. [12.80],
      disputed debts, .. [11.250], [11.270], [11.305]                                                                             [13.90]-[13.100]
-     no beneﬁt, .......................................... [11.295]           ipso facto clauses, ...................... [6.290], [13.85]
+     no benefit, .......................................... [11.295]           ipso facto clauses, ...................... [6.290], [13.85]
      tender of payment, .......................... [11.280]                       provisional winding up, ................... [12.40]
      wishes of creditors, .......................... [11.290]                 legal practitioners, and, ........................ [10.470]
   creditors, effect on, .................................. [13.50]            legislation, ................................................. [10.10]
@@ -5584,7 +5584,7 @@ Winding up – application for court order — cont                             
    s 459S, under, .......................................... [11.305]            group of companies, pooling,
    s 461, under, .............................................. [10.70]                   ......................................... [15.310]-[15.325]
    service, ..................................................... [11.220]       insolvent transactions, ............... [14.35], [14.55]
-   slip rule, ................................................... [11.230]           related-entity beneﬁts, recovery, ... [14.145]
+   slip rule, ................................................... [11.230]           related-entity benefits, recovery, ... [14.145]
    statutory demand, failure to comply with,                                     invalidation of security interests
            .......................................... [11.75], [11.305]              security interests in favour of relevant
    subsequent applications, ....................... [11.300]                             persons, ........................................ [14.275]
@@ -5594,7 +5594,7 @@ Winding up – application for court order — cont                             
        substituting creditor, ........................ [11.310]                           .......... [10.260], [10.280], [10.295], [15.05]
    time for determination, ......................... [11.225]                        preserve assets, ................................. [10.265]
        slip rule, ............................................. [11.230]             realise assets, ..... [10.265], [10.310], [15.240]
-   time for ﬁling, ........................................... [11.70]               recover assets, ..... [10.260], [10.280], [15.05]
+   time for filing, ........................................... [11.70]               recover assets, ..... [10.260], [10.280], [15.05]
    uncontested, ............................................ [11.255]            liquidator entitlement to, ........................ [14.10]
    valid debt, .................................................. [11.60]        long term funding agreements, ........... [10.320]
    who may apply, ........... [10.70], [11.55], [11.60],                         order, following, ..................................... [11.320]
@@ -5633,5 +5633,5 @@ assets — cont                                                                 
                                                                     [15.110]      court ordered liquidations only, .... [14.265]
       avoiding pre-winding up transactions, by,                                   disposition of property, ................... [14.255]
            ............................................ [14.25], [14.30]          execution of company assets, ........ [14.260]
-      related-entity beneﬁts, ..................... [14.145]                   voidable transactions — see Voidable
+      related-entity benefits, ..................... [14.145]                   voidable transactions — see Voidable
   related entity, ............................................ [14.45]                transactions

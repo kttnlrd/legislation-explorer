@@ -45,13 +45,13 @@ The exemption applies to distributions and non-share dividends made after 16 Oct
 
   views on when an entity has a participation interest in a foreign company and when a distribution is
 
-  made, see TR 2017/3; and when a company that is a partner or beneﬁciary can be taken to have a
+  made, see TR 2017/3; and when a company that is a partner or beneficiary can be taken to have a
 
   participation interest (TD 2017/21; TD 2017/22).
 
 For more information about the "non-portfolio dividend" exemption under ITAA36 former s 23AJ, see the 2015 Australian Master Tax Guide (57th Edition) or earlier editions.
 
-Deduction for outgoings A speciﬁc deduction applies to losses or outgoings incurred in deriving dividends exempt under the above rules where the amount is a cost in relation to certain debt interests under the thin capitalisation rules (ITAA97 s 25-90). The ATO considers that to obtain the deduction it is not necessary for the taxpayer to actually derive the relevant dividend in the same income year as that in which the cost is incurred, provided that there is a suﬃciently clear nexus between the incurring of the cost and the expected derivation of the dividend (TD 2009/21). The ATO has also warned that it is investigating certain artiﬁcial cross border arrangements that seek to exploit this deduction (TA 2009/9).
+Deduction for outgoings A specific deduction applies to losses or outgoings incurred in deriving dividends exempt under the above rules where the amount is a cost in relation to certain debt interests under the thin capitalisation rules (ITAA97 s 25-90). The ATO considers that to obtain the deduction it is not necessary for the taxpayer to actually derive the relevant dividend in the same income year as that in which the cost is incurred, provided that there is a sufficiently clear nexus between the incurring of the cost and the expected derivation of the dividend (TD 2009/21). The ATO has also warned that it is investigating certain artificial cross border arrangements that seek to exploit this deduction (TA 2009/9).
 
 *Refs: s 768-10), s 768-15), ITAA97 s 25-90)*
 

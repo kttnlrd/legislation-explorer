@@ -46,7 +46,7 @@ business. In both voluntary (Corporations Act, s 493(1)) and compulsory liquidat
 (s 477(1)(a)) the company must cease to carry on business except to the extent that
 498      Keay's Insolvency: Personal and Corporate Law and Practice                               [13.10]
 
-the liquidator believes that it will assist or be necessary for the beneﬁcial disposal
+the liquidator believes that it will assist or be necessary for the beneficial disposal
 of the business. We will examine the issue of continuation of the company's
 business in Chapter 15.
 
@@ -54,7 +54,7 @@ Company retains ownership of its property
 [13.10]    Unlike the effect of a sequestration order in bankruptcy, a winding up
 order does not mean that the property of the company vests in the liquidator. The
 liquidator merely becomes the agent of the company and the company retains both
-the legal and beneﬁcial ownership of the property.1 A liquidator may seek a vesting
+the legal and beneficial ownership of the property.1 A liquidator may seek a vesting
 order from the court (Corporations Act, s 474(2)), although this is rare.2
 Although the company retains ownership of its property, it can no longer deal with
 that property. Section 468(1) provides that any disposition of property of the
@@ -62,7 +62,7 @@ company (other than an exempt disposition) made after the commencement of
 winding up (see s 513A(e) and [10.95] – [10.100]) is void unless the court otherwise
 orders. The court has a wide general discretion to validate any disposition of
 property caught by the subsection which is not "to be limited by any attempted
-classiﬁcation of those cases which do, and those which do not, fall within them",
+classification of those cases which do, and those which do not, fall within them",
 though a guiding principle is the interests of creditors: Jardio Holdings Pty Ltd v
 Dorcon Constructions Pty Ltd [1984] FCA 247; (1984) 3 FCR 311. The court there said
 that a transaction entered into in good faith which offers actual or prospective
@@ -95,12 +95,12 @@ hand.4
 
 Company litigation
 [13.15] As we discuss at [13.50] – [13.75], in the context of the effect of
-liquidation upon creditors, a signiﬁcant effect on the company is that it is protected
+liquidation upon creditors, a significant effect on the company is that it is protected
 from creditors' claims, which are automatically stayed: s 471B. As in bankruptcy,
 this protection offered by insolvency is a major purpose and effect of a formal
 insolvency occurring. While legal proceedings against the company are stayed, as in
 bankruptcy, existing proceedings by the company are not stayed. The liquidator
-will ﬁnd it necessary to seek information from the company's legal advisers as to
+will find it necessary to seek information from the company's legal advisers as to
 the nature and position of any legal actions commenced by the company. The
 liquidator would then have to decide whether to continue such proceedings. There
 is no equivalent in the Corporations Act to s 60(2) – (3) of the Bankruptcy Act,
@@ -184,7 +184,7 @@ application, Robson J summarised the law in relation to s 483(1) as follows (at 
 
 6 See also Keenan, "The Report as to Affairs: An Appraisal" (2012) 24 Aust Insolv J 10. ASIC Corporate
   Insolvency Update, Issue 5 (October 2017) says that a new format of the RATA is to be released.
-7 As deﬁned in s 9. The common term "books and records" is not used in either the Corporations Act or
+7 As defined in s 9. The common term "books and records" is not used in either the Corporations Act or
   the Bankruptcy Act.
 [13.45]                                                             13 Effects of Winding Up    501
 
@@ -193,7 +193,7 @@ application, Robson J summarised the law in relation to s 483(1) as follows (at 
        company, or books in the person's hands to which the company is prima facie entitled.
    (6) In other words, the application may not be brought in relation to such property to
        which the company may be prima facie entitled. (my emphasis)
-   (7) The persons identiﬁed in the subsection are all persons who either derive their
+   (7) The persons identified in the subsection are all persons who either derive their
        authority from the company or are accountable to it.
 
 Obligations of directors and other officers
@@ -203,9 +203,9 @@ liquidator comes to the company fresh and usually without any prior knowledge of
 the company's affairs. The company's affairs may also be disorganised and it is
 only reasonable for the liquidator to expect some assistance from the company's
 directors and managers.
-The term "officer" is deﬁned in s 9 and signiﬁcantly includes the directors, the
+The term "officer" is defined in s 9 and significantly includes the directors, the
 secretary and other senior persons in the company: see paras (a) and (b) of the
-deﬁnition in s 9. The section includes those persons who were, but are no longer,
+definition in s 9. The section includes those persons who were, but are no longer,
 officers at the time of liquidation: s 530A(7).8
 Officers are to deliver to the liquidator all relevant company books in their
 possessionand advise the whereabouts of any others: s 530A(1).
@@ -231,7 +231,7 @@ EFFECT ON THE MEMBERS
 of the company's business. Further, where the company being wound up is limited
 by shares, members are liable to pay any amount unpaid on their shares to the
 
-8 Although included in the s 9 deﬁnition, a liquidator and an administrator are obviously not covered
+8 Although included in the s 9 definition, a liquidator and an administrator are obviously not covered
   by s 530A.
 502      Keay's Insolvency: Personal and Corporate Law and Practice                                  [13.45]
 
@@ -244,7 +244,7 @@ winding up can also be liable in the same manner as present members, if the
 present members are unable to satisfy the creditors when paying what they owe on
 their shares. This only applies in respect of debts incurred before the past members
 ceased to be members: see Pt 5.6 Div 2. Liability arising under this Division will
-render the members "contributories" (deﬁned in s 9).
+render the members "contributories" (defined in s 9).
 There is a general prohibition on the transfer of shares of the company in
 liquidation after the commencement of the winding up.9 A reason for this
 prohibition is to prevent members from avoiding their liability under their shares.
@@ -263,7 +263,7 @@ cover the sorts of claims brought in the Sons of Gwalia litigation. The amendmen
 also introduced s 600H which restricted the rights of a subordinated claimant to
 receive notices in external administration and prohibited voting by such claimants
 unless allowed by a court order. The position after these changes is that the High
-Court's ﬁnding that members with claims for compensation arising from defective
+Court's finding that members with claims for compensation arising from defective
 disclosure are still creditors, but they have more limited rights compared with other
 non-subordinated creditors (ie ordinary creditors, who are not claiming as
 members or because of dealings in shares).
@@ -271,7 +271,7 @@ The liquidator has the power to consent to a share transfer if that is in the be
 interests of creditors as a whole: s 468A.11 The prospective transferor or transferee
 of shares, or a creditor, may apply to the court for an order authorising a transfer
 but only in circumstances where the liquidator's consent has been unsuccessfully
-sought ﬁrst. The liquidator has standing to be heard on any application.
+sought first. The liquidator has standing to be heard on any application.
 
 9 A transfer of a share that is void under this section cannot effect a change in the equitable title to the
   shares: Perth Freight Lines Pty Ltd v BM2008 Pty Ltd (in liq) [2011] VSCA 62 at [37]. The effect is to void
@@ -305,7 +305,7 @@ In Wight v Eckhardt Marine GmbH [2004] 1 AC 147 at 155-156, Lord Hoffmann
 explained the position of creditors:
    "The winding up leaves the debts of the creditors untouched. It only affects the way in
    which they can be enforced. When the order is made, ordinary proceedings against the
-   company are stayed … The creditors are conﬁned to a collective enforcement procedure
+   company are stayed … The creditors are confined to a collective enforcement procedure
    that results in pari passu distribution of the company's assets. The winding up does not
    either create new substantive rights in the creditors or destroy the old ones. Their debts, if
    they are owing, remain debts throughout. They are discharged by the winding up only to
@@ -335,14 +335,14 @@ comparison with the cost of the proceedings for which leave is being sought.13 I
 the leading case Re Gordon Grant and Grant Pty Ltd [1983] 2 Qd R 314, 317,
 McPherson J said:
    What is substituted for litigation in the ordinary form is a procedure by which a claimant
-   lodges a veriﬁed proof of debt with the liquidator, who admits or rejects it wholly or in
+   lodges a verified proof of debt with the liquidator, who admits or rejects it wholly or in
    part, and from whom an appeal lies to a Judge, who determines that appeal de novo
    primarily on affidavit material … .
 Nevertheless, a creditor can seek leave from the court to commence or continue its
 litigation claim. As McPherson J went on to explain (at 317):
    The effect of [s 471B] is to require the claimant to adopt the course of lodging [a] proof of
    debt unless he can demonstrate that there is some good reason why a departure from that
-   procedure is justiﬁed in the case of the particular claim in dispute. … It, of course follows
+   procedure is justified in the case of the particular claim in dispute. … It, of course follows
    that it is quite impossible to state in an exhaustive manner all the circumstances in which
    leave to proceed may be appropriate, but in the past they have been said to include
    factors such as the amount and seriousness of the claim, the degree of complexity of the
@@ -362,7 +362,7 @@ Lift Capital Partners Pty Ltd [2009] FCA 749; (2009) 72 ACSR 627.16
 The court will necessarily consider whether the creditor has a good cause of action
 which gives rise to a serious dispute, whether the action will affect the orderly
 winding up of the company and whether any action taken would prejudice the
-other creditors.17 To obtain leave a court must be satisﬁed that the claim against the
+other creditors.17 To obtain leave a court must be satisfied that the claim against the
 company has a solid foundation and gives rise to a serious dispute. A proprietary
 claim, particularly one that has a substantial basis, is of a kind that should proceed
 
@@ -373,7 +373,7 @@ claim, particularly one that has a substantial basis, is of a kind that should p
    497; (2002) 117 FCR 87; Melbourne University Student Union Inc v Sherriff [2004] VSC 266. See however
    Krebs v Pika Wiya Health Service Aboriginal Corporation [2015] FMWC 1232, in relation to the Fair Work
    Commission.
-15 Sihota v Paciﬁc Sands Motel Pty Ltd [2003] NSWSC 119; (2003) 56 NSWLR 721.
+15 Sihota v Pacific Sands Motel Pty Ltd [2003] NSWSC 119; (2003) 56 NSWLR 721.
 16 See further Re Wan Ze Property Development (Aust) Pty Ltd [2013] NSWSC 189; Gunns Finance Pty Ltd
    (recs and mgrs apptd) (in liq) v Correy [2015] VSC 385 at [65].
 17 Re Gordon Grant and Grant Pty Ltd [1982] 2 Qd R 31; DSG Holdings Australia Pty Ltd v Helenic Pty Ltd
@@ -442,11 +442,11 @@ Article 16 of the Model Law provides that in the absence of proof to the contrar
 the COMI of a corporate debtor is the address of its registered office, usually in the
 foreign country.29 Under Art 20, that recognition serves to automatically stay
 actions and execution against the debtor by creditors, suspends the debtor's right to
-dispose of its assets and allows proceedings to claw back the beneﬁt of antecedent
+dispose of its assets and allows proceedings to claw back the benefit of antecedent
 transactions to be commenced by the foreign representative.30
 Different rules apply if the foreign representative's proceedings are based in a
 country where the debtor does not have a COMI but has an "establishment",
-deﬁned to include a place where the debtor carries out a "non-transitory economic
+defined to include a place where the debtor carries out a "non-transitory economic
 activity": Art 2(f). Those proceedings are termed a "foreign non-main proceeding":
 Art 2(c). It is necessary for a representative of a foreign non-main proceeding to
 apply to the Australian court for a stay or suspension and satisfy the court that the
@@ -491,14 +491,14 @@ has been held that leave of the court is required not only for civil but also fo
 criminal proceedings against a company in compulsory liquidation, but that no
 leave is required in respect of criminal proceedings against a company in voluntary
 liquidation.32
-In any event, a ﬁne or penalty imposed by a court in respect of an offence is not a
+In any event, a fine or penalty imposed by a court in respect of an offence is not a
 provable debt: see [15.275]. However, in cases involving regulatory proceedings
 under the Competition and Consumer Act 2010 (Cth) the court has imposed penalties
 on companies in liquidation. This is done for the purpose of general deterrence, for
 example, to signify to businesses in a discrete industry that such a penalty is being
 imposed and may be imposed in the future if others in that industry engage in the
 same or similar conduct: ACCC v Dataline.net.au Pty Ltd [2007] FCAFC 146; (2007)
-161 FCR 513. In ACCC v Get Qualiﬁed Australia Pty Ltd (in liq) (No 3) [2017] FCA
+161 FCR 513. In ACCC v Get Qualified Australia Pty Ltd (in liq) (No 3) [2017] FCA
 1018, although the company was in liquidation, the court imposed a penalty of $8
 million, with a view to deterring other education providers from taking unfair
 advantage of students, the court noting that "exploitation in the education sector is
@@ -516,7 +516,7 @@ leave must be sought: see Re Landmark Corporation Ltd (in liq) [1968] 1 NSWR 705
 Queensland Nickel Pty Ltd (in liq) v Martino [2017] QSC 95.
 The introduction of the Personal Property Securities Act 2009 (Cth) (PPSA) from
 30 January 2012 has broadened the scope of the class of secured creditors. Prior to
-the PPSA, a supplier with retention of title rights and a lessor were not classiﬁed as
+the PPSA, a supplier with retention of title rights and a lessor were not classified as
 secured creditors, but rather as owners of property held or used by the company.
 
 32 WorkCover Authority of NSW v Josef & Sons (contracting) Pty Ltd [2002] NSWIR Comm 226.
@@ -524,22 +524,22 @@ secured creditors, but rather as owners of property held or used by the company.
    Company as Criminal" (2006) 19 AJCL 316.
 508      Keay's Insolvency: Personal and Corporate Law and Practice                           [13.72]
 
-The PPSA provides a broad deﬁnition of a security interest under s 12, which
+The PPSA provides a broad definition of a security interest under s 12, which
 includes both traditional security devices such as mortgages and charges, and also
 includes other arrangements that are in substance used to confer security rights,
-such as ﬁnance leasing arrangements and retention of title arrangements.
+such as finance leasing arrangements and retention of title arrangements.
 Section 51E of the Corporations Act provides that a secured creditor is a creditor who
-has a debt secured by a security interest. The term "security interest" is deﬁned in
+has a debt secured by a security interest. The term "security interest" is defined in
 s 51A as meaning either a PPSA security interest or a charge, lien or pledge. This
 means that secured creditors for the purposes of s 471C include traditional secured
-parties (such as a ﬁnance company with a ﬁxed and ﬂoating charge) and other
+parties (such as a finance company with a fixed and floating charge) and other
 PPSA secured parties (such as certain lessors and retention of title (ROT) suppliers)
 and other secured parties whose arrangements do not fall within the PPSA who
 have a charge, lien or pledge.34
 One important element of the PPSA regime is the need for the secured party to
 perfect its security interest. There are a number of ways to perfect, with several
 steps involved in the perfection process under the PPSA. The most common step
-(but one which is not sufficient on its own) is the notiﬁcation of the security interest
+(but one which is not sufficient on its own) is the notification of the security interest
 on the PPS Register.35 If creditors fail to "perfect" their security interest prior to the
 company's liquidation they may be unable to enforce the security interest as the
 security interest can vest in the company and come under the control of the
@@ -577,7 +577,7 @@ A related issue is the anti-deprivation principle, which serves to void terms th
 attempt to elevate the priority of one party to a contract or other arrangement upon
 the insolvency of the other party. In Belmont Park Investments Pty Ltd v BNY
 Corporate Trustee Services Ltd [2011] UKSC 38; [2012] 1 AC 383, the UK Supreme
-Court held that a clause in a complex ﬁnance contract that switched priority upon
+Court held that a clause in a complex finance contract that switched priority upon
 insolvency did not infringe the anti-deprivation principle, in part because there was
 no intention to evade insolvency law priorities.38
 
@@ -593,7 +593,7 @@ EFFECT ON EMPLOYEES
 [13.80] If a winding up order is made by the court, its publication operates as a
 notice of dismissal to all of the employees of the company: Re General Rolling Stock
 Co (1866) 1 Eq 346.40 Hence, an employee who was engaged subject to a contract of
-employment for a ﬁxed term, or an employee who is entitled to a period of notice,
+employment for a fixed term, or an employee who is entitled to a period of notice,
 may claim damages for a breach of contract and lodge a proof of debt accordingly:
 Re RS Newman Ltd [1916] 2 Ch 309; Re Kanedale Pty Ltd (1987) 12 ACLR 449; (1988)
 6 ACLC 359. The same rule does not apply in voluntary liquidation however.41
@@ -636,7 +636,7 @@ contract involved.
 A contract containing an "ipso facto" clause will allow the other contracting party
 to terminate the contract. The liquidator may be able to negotiate the continuation
 of such contracts if the company relies on them for its ongoing business so as to
-enable the liquidator to sell the business, or the proﬁtable part of it, as a going
+enable the liquidator to sell the business, or the profitable part of it, as a going
 concern. On the other hand, if the contractor chooses to terminate the contract,
 relying on the ipso facto clause, whatever business the company had remaining
 may collapse and the liquidator will be left with the task of selling its property and
@@ -659,7 +659,7 @@ but at the time of writing these were not yet released. The new law is due to
 commence by 1 July 2018.
 
 EFFECT ON OTHER ADMINISTRATIONS
-[13.90] It is not uncommon to ﬁnd a liquidation commencing while another
+[13.90] It is not uncommon to find a liquidation commencing while another
 insolvency administration is taking place in respect of the same company.
 [13.100]                                                           13 Effects of Winding Up    511
 
@@ -689,19 +689,19 @@ DOCA is terminated by the court or where the DOCA provides for termination
 followed by liquidation.
 If a creditor applies to the court to wind up a company, and the hearing is pending,
 the directors will often react by resolving to appoint a voluntary administrator. In
-such cases, the court must adjourn the application where it is satisﬁed that it is in
+such cases, the court must adjourn the application where it is satisfied that it is in
 the interests of the company's creditors for the company to continue under
 administration rather than be wound up: s 440A(2). In assessing such cases, the
 court will be wary of any abuse of the Pt 5.3A process, for example in directors
 seeking to shift the relation-back day, or simply delaying an inevitable winding up.
 On the other hand, the directors, although prompted by the winding up
 application, may be genuinely seeking to save the company by offering creditors
-some proposal through a deed of company arrangement. Changes to the deﬁnition
+some proposal through a deed of company arrangement. Changes to the definition
 of "relation-back day" for the purposes of voidable transaction proceedings in 2017
 have removed the ability to seek a later relation back day by appointing an
 administrator in the face of a winding up application, because the relation-back day
 (assuming the company subsequently enters liquidation by a court order) will be
-the date of the ﬁling of the court application not the date of the appointment of the
+the date of the filing of the court application not the date of the appointment of the
 administrator: s 91 (table item 2). This is discussed further in Chapter 19.
 
 42 Gosling v Gaskell [1897] AC 575; Kelaw Pty Ltd v Catco Developments Pty Ltd (1989) 15 NSWLR 587;
@@ -713,7 +713,7 @@ EFFECT ON THE AUDITOR
 company resolves to wind up or a winding up order is made: s 330.
 
 CONCLUSION
-[13.110]    A signiﬁcant effect or impact of a winding up is on the property of the
+[13.110]    A significant effect or impact of a winding up is on the property of the
 company, which then comes under the control of the liquidator. In addition, the
 liquidator has power to recover property that may have been transferred by the
 company in contemplation of liquidation, or to otherwise attack pre-liquidation
@@ -760,11 +760,11 @@ Court Rules                           Courts' Corporations Rules, Div 15A Procee
 [14.115] Presumptions of insolvency .......................................................................... 529
 [14.120] Running accounts ........................................................................................... 530
 [14.125] Defences ............................................................................................................ 532
-[14.130] Effect of a ﬁnding that a preference was given ........................................ 532
+[14.130] Effect of a finding that a preference was given ........................................ 532
 [14.135] UNCOMMERCIAL TRANSACTIONS ........................................................................ 533
 [14.140] DEFEATING OR DELAYING OR OBSTRUCTING CREDITORS .......................... 536
 [14.142] Statute of Elizabeth I ...................................................................................... 537
-[14.145] Recovering related-entity beneﬁts from insolvent transactions ............. 537
+[14.145] Recovering related-entity benefits from insolvent transactions ............. 537
 [14.150] UNFAIR LOANS ............................................................................................................. 538
 [14.155] UNREASONABLE DIRECTOR-RELATED TRANSACTIONS ................................ 539
 514         Keay's Insolvency: Personal and Corporate Law and Practice                                                                 [14.05]

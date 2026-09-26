@@ -11,6 +11,6 @@ The credit is generally based on the amount of fuel tax payable, and varies acco
 
 For heavy on-road vehicles (¶40-200), the full rate is reduced by the road user charge (FTA s 43-10; ¶40-210). The relevant rate of road user charge is that in force at the start of the tax period to which the fuel tax credit is attributable.
 
-The fuel excise rate is indexed, eﬀective from 10 November 2014 (Excise Tariﬀ Amendment (Fuel Indexation) Act 2015 and Customs Tariﬀ Amendment (Fuel Indexation) Act 2015; Excise Tariﬀ Proposal (No 1) 2014 and Customs Tariﬀ Proposal (No 1) 2014; FTA s 43-6).
+The fuel excise rate is indexed, effective from 10 November 2014 (Excise Tariff Amendment (Fuel Indexation) Act 2015 and Customs Tariff Amendment (Fuel Indexation) Act 2015; Excise Tariff Proposal (No 1) 2014 and Customs Tariff Proposal (No 1) 2014; FTA s 43-6).
 
 *Refs: s 43-10, s 43-6)*

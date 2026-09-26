@@ -9,7 +9,7 @@ paragraph: "¶23-120"
 
 A company will have a notional account called a "non-share capital account" if it issues a non-share equity interest (¶23-115) in the company (ITAA97 s 164-10). Furthermore, a company will have a non-share capital account if: (a) a debt interest changes to an equity interest as a result of a material change under s 974-110 (¶23-100); (b) a related party at call loan that was a debt interest becomes an equity interest on 1 July 2005 (¶23-115); or (c) the small company related party at call loan deeming rule ceases to apply to an interest (¶23-115). Special provisions applied to interests issued before 1 July 2001 that were still in existence on that date. The account records contributions to the company in relation to those non-share equity interests and returns of those contributions made by the company.
 
-Once established, the non-share capital account continues indeﬁnitely, even if the company ceases to have any non-share equity interests in existence. The balance cannot fall below nil.
+Once established, the non-share capital account continues indefinitely, even if the company ceases to have any non-share equity interests in existence. The balance cannot fall below nil.
 
 Credits to non-share capital account The only credits that may be made to the non-share capital account are those provided for in ITAA97 s 164-15. These are:
 
@@ -49,7 +49,7 @@ Debits to non-share capital account The only debits that may be made to the non-
 
   the sum of all the debits that have been made to the account in relation to the interest before the
 
-  change occurs (ie the net balance in relation to that interest is oﬀset to nil).
+  change occurs (ie the net balance in relation to that interest is offset to nil).
 
 The total debits to the account in respect of a non-share equity interest cannot exceed the total credits in respect of the interest, ie there cannot be a negative balance in respect of any particular interest.
 

@@ -11,17 +11,17 @@ A life insurance company may maintain a pool of segregated assets (known as "seg
 
 Segregated exempt assets must be used for the sole purpose of discharging the company's liabilities under exempt life insurance policies (ITAA97 s 320-225). This purpose includes the payment of fees and expenses in respect of the policies or the segregated exempt assets.
 
-An "exempt life insurance policy" is a life insurance policy (other than an RSA) that fulﬁls any one of the following criteria (ITAA97 s 320-246):
+An "exempt life insurance policy" is a life insurance policy (other than an RSA) that fulfils any one of the following criteria (ITAA97 s 320-246):
 
 - it is held by the trustee of a complying superannuation fund and provides solely for the discharge
 
-  of liabilities for superannuation income stream beneﬁts that are currently retirement phase
+  of liabilities for superannuation income stream benefits that are currently retirement phase
 
-  superannuation income stream beneﬁts of the fund
+  superannuation income stream benefits of the fund
 
 - it is held by the trustee of a PST and the policy provides solely for the discharge of liabilities for
 
-  retirement beneﬁt superannuation income stream beneﬁts that are currently payable by complying
+  retirement benefit superannuation income stream benefits that are currently payable by complying
 
   superannuation funds that are unit holders of the trust
 
@@ -43,11 +43,11 @@ The ordinary income and statutory income derived from the segregated exempt asse
 
 Annual valuation and transfer of assets Within 60 days after the end of each income year, the company must calculate the "transfer value" (ie market value less allowance for expected disposal costs) of the segregated exempt assets, and the amount of the company's exempt life insurance policy liabilities, as at the end of the year (the "valuation time") (ITAA97 s 320-230). (The time of joining or leaving a consolidated group is also a valuation time: ITAA97 s 713-525.) Any excess assets above the liabilities must be transferred from the pool within 30 days of the annual valuation. The transfer is deemed to have occurred at the valuation time (ITAA97 s 320-235). An administrative penalty applies where a life insurance company fails to comply with the valuation or transfer requirements (TAA sch 1 s 288-70).
 
-Conversely, assets can be transferred to segregated exempt assets to oﬀset a shortfall. Where the transfer is made within 30 days of the annual valuation, it is taken to have occurred at the valuation time.
+Conversely, assets can be transferred to segregated exempt assets to offset a shortfall. Where the transfer is made within 30 days of the annual valuation, it is taken to have occurred at the valuation time.
 
 Other transfers to segregated exempt assets Apart from a shortfall at the annual valuation time, there are only 4 other circumstances in which assets can be transferred to segregated exempt assets:
 
-- to partially or fully oﬀset a shortfall of segregated exempt assets as at some date other than year
+- to partially or fully offset a shortfall of segregated exempt assets as at some date other than year
 
   end, determined in the same way as for the annual valuation (ITAA97 s 320-240(1))
 
@@ -70,7 +70,7 @@ s 713-525, ITAA97 s 320-235), s 288-70), ITAA97 s 320-240(1)), s
 
 assets Apart from the transfer of excess assets as at year end, an insurance company must transfer assets from or pay amounts from segregated exempt assets in the following circumstances (ITAA97 s 320-250):
 
-- to eliminate any excess segregated exempt assets identiﬁed at any other time
+- to eliminate any excess segregated exempt assets identified at any other time
 
 - to cover any fees or charges imposed by the company in respect of the segregated exempt
 

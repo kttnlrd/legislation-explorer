@@ -9,7 +9,7 @@ paragraph: "¶7-128"
 
 Where a CGT event occurs in relation to a passively held CGT asset, the taxpayer will satisfy basic condition 3 of CGT small business relief (¶7-120) where it meets one of 2 alternative special conditions.
 
-- an aﬃliate of, or an entity connected with, the taxpayer is a CGT small business entity for the
+- an affiliate of, or an entity connected with, the taxpayer is a CGT small business entity for the
 
   income year
 
@@ -39,8 +39,8 @@ The second alternative condition applies to partners in a partnership and requir
 
   asset (s 152-10(1B)).
 
-For applying the CGT concessions to such passively held assets and determining whether an entity is a CGT small business entity, special rules apply for determining entities that are aﬃliates of, or connected with, the taxpayer and for calculating the $2 million aggregated turnover (¶7-050).
+For applying the CGT concessions to such passively held assets and determining whether an entity is a CGT small business entity, special rules apply for determining entities that are affiliates of, or connected with, the taxpayer and for calculating the $2 million aggregated turnover (¶7-050).
 
 *Refs: s 152-10(1*
 
-## The ﬁrst alternative condition requires all the following:
+## The first alternative condition requires all the following:

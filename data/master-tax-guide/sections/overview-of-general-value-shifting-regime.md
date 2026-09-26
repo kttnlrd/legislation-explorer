@@ -9,19 +9,19 @@ paragraph: "¶12-800"
 
 Value shifts are subject to a general value shifting regime. In broad terms, a value shift occurs when something is done that results in the value of one asset decreasing and the value of another increasing (or being issued at a discount).
 
-The general value shifting regime mainly aﬀects interests in companies and trusts that meet control or common ownership tests. Entities dealing at arm's length or on market value terms are not subject to the value shifting rules. The rules have no impact on value shifts between members of a consolidated group (¶8-000) or a multiple entry consolidated ("MEC") group (¶8-610).
+The general value shifting regime mainly affects interests in companies and trusts that meet control or common ownership tests. Entities dealing at arm's length or on market value terms are not subject to the value shifting rules. The rules have no impact on value shifts between members of a consolidated group (¶8-000) or a multiple entry consolidated ("MEC") group (¶8-610).
 
 (1) direct value shifting involving equity or loan interests in both companies and trusts — Div 725 (¶12-810) (2) direct value shifting creating rights in respect of non-depreciating assets — Div 723 (¶12-830) (3) indirect value shifting involving non-arm's length dealings — Div 727 (¶12-840).
 
 In most cases the consequence will be an adjustment of cost bases (or adjustable values), but in some cases it may also result in taxable income or a taxable gain.
 
-The value shifting rules only apply to "aﬀected owners" (controllers, associates or active participants in the scheme). If interests are held by entities who are not aﬀected owners, the regime has no implications.
+The value shifting rules only apply to "affected owners" (controllers, associates or active participants in the scheme). If interests are held by entities who are not affected owners, the regime has no implications.
 
 - issue of interests in a company or trust at a discount to market value
 
 - alteration of rights attaching to existing equity or loan interests in a company or trust
 
-- restructure of group ﬁnancing arrangements
+- restructure of group financing arrangements
 
 - restructures of a group of entities involving transfer of assets and/or the issue/cancellation of
 
@@ -45,7 +45,7 @@ General exclusions
 
 - rights are created over non-depreciating assets for full market value consideration, or
 
-- entities provide beneﬁts to each other at market value or otherwise deal at arm's length.
+- entities provide benefits to each other at market value or otherwise deal at arm's length.
 
 Small value exclusions also ensure that the regime is targeted at substantial value shifts. The following de minimis thresholds apply:
 

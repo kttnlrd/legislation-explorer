@@ -7,7 +7,7 @@ paragraph: "¶16-045"
 ---
 # Advance payments for services ¶16-045
 
-Where expenditure qualiﬁes for deduction under ITAA97 s 8-1, the deduction is generally allowable in full in the year the expenditure is incurred (TR 94/25: ¶16-040). However, special prepayment rules aﬀect the timing of deductions for certain types of advance payments (ITAA36 ss 82KZL to 82KZO).
+Where expenditure qualifies for deduction under ITAA97 s 8-1, the deduction is generally allowable in full in the year the expenditure is incurred (TR 94/25: ¶16-040). However, special prepayment rules affect the timing of deductions for certain types of advance payments (ITAA36 ss 82KZL to 82KZO).
 
 These prepayment rules potentially apply where a taxpayer incurs expenditure for something to be done — in whole or in part — in a later income year. Where these rules apply, the deduction for the expenditure is spread (or "apportioned") over the period covered by those services, up to a maximum of 10 years.
 
@@ -33,7 +33,7 @@ ITAA36 Pt IVA may apply (TD 93/118)
 
   payment of reinsurance premiums.
 
-The prepayment rules also do not apply to certain prepayments under timber plantation managed investment schemes (¶18-125) or to ﬁnancial arrangements that are subject to ITAA97 Subdiv 250-E or the TOFA rules (ITAA36 s 82KZLA; ¶23-020, ¶23-210). For anti-avoidance measures directed at certain prepayment schemes, see ¶16-110.
+The prepayment rules also do not apply to certain prepayments under timber plantation managed investment schemes (¶18-125) or to financial arrangements that are subject to ITAA97 Subdiv 250-E or the TOFA rules (ITAA36 s 82KZLA; ¶23-020, ¶23-210). For anti-avoidance measures directed at certain prepayment schemes, see ¶16-110.
 
 The prepayment provisions may apply to payments made by a mining company under arrangements aimed at bringing forward deductions for mine site rehabilitation expenditure (TA 2009/3).
 
@@ -72,7 +72,7 @@ For prepayments of interest, rent, lease payments and insurance premiums, the el
 
 - the period to which the interest relates, not the period of the loan. For the application of the
 
-  prepayment rules to interest paid in advance by a ﬁnancial institution, see TR 1999/11
+  prepayment rules to interest paid in advance by a financial institution, see TR 1999/11
 
 - the period to which the rent or lease payments relate, not the period of the lease
 
@@ -94,7 +94,7 @@ Prepayments under "tax-shelter" arrangements Prepaid expenditure incurred in rel
 
   expenditure is incurred exceed the assessable income under the arrangement for that year
 
-- all signiﬁcant aspects of the day-to-day management of the arrangement during that income
+- all significant aspects of the day-to-day management of the arrangement during that income
 
   year are conducted by people other than the taxpayer (eg in the case of a passive investment: TD
 

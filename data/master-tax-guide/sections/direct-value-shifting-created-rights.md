@@ -31,19 +31,19 @@ The rules do not apply to depreciating assets, conservation covenants or testame
 
 - a market value substitution rule, such as s 116-30 (¶11-510), applies to the creation of the right,
 
-  as there is no shortfall (ie no diﬀerence between capital proceeds and market value), and
+  as there is no shortfall (ie no difference between capital proceeds and market value), and
 
 - the creation of the right results in a partial disposal or realisation of the underlying asset, or where
 
-  a speciﬁc provision of the tax law treats the granting of the right as a disposal of the underlying
+  a specific provision of the tax law treats the granting of the right as a disposal of the underlying
 
   asset.
 
-Consequences under Div 723 Division 723 only has consequences when a "realisation event" has occurred and, but for the rules, a loss would have been realised for tax purposes. Division 977 identiﬁes when a realisation event happens.
+Consequences under Div 723 Division 723 only has consequences when a "realisation event" has occurred and, but for the rules, a loss would have been realised for tax purposes. Division 977 identifies when a realisation event happens.
 
-The overall eﬀect of the rules is to deny the loss realised by the entity to the extent it is attributable to the value shifted out of the underlying asset by the creation of the right. Comparable adjustments are also made to ensure that the loss cannot be realised on replacement interests if the underlying asset has been rolled over.
+The overall effect of the rules is to deny the loss realised by the entity to the extent it is attributable to the value shifted out of the underlying asset by the creation of the right. Comparable adjustments are also made to ensure that the loss cannot be realised on replacement interests if the underlying asset has been rolled over.
 
-The rules address the eﬀect of the value shift by reducing the amount of any loss on realisation of the underlying asset. The amount of the reduction is the lesser of the shortfall on creating the right (market value less capital proceeds) and the deﬁcit on realisation.
+The rules address the effect of the value shift by reducing the amount of any loss on realisation of the underlying asset. The amount of the reduction is the lesser of the shortfall on creating the right (market value less capital proceeds) and the deficit on realisation.
 
 The amount of the reduction is itself reduced by the amount of any gain made on the realisation of the right before, at or within 4 years after the realisation event for the underlying asset. The realisation must be by the owner of the right, who is (or was) an associate of the owner of the underlying asset.
 
@@ -57,11 +57,11 @@ Example X Co owns land with a reduced cost base of $40 million and a market valu
 
 X Co then disposes of its reversionary interest in the land to a third party in an arm's length dealing for $35 million.
 
-This ensures X Co and its associate retain rent-free use of the land for the 6 years, and that a capital loss of $5 million would, but for the value shifting rules, be realised. However, economically, no loss has been suﬀered.
+This ensures X Co and its associate retain rent-free use of the land for the 6 years, and that a capital loss of $5 million would, but for the value shifting rules, be realised. However, economically, no loss has been suffered.
 
 The direct value shifting rules in Div 723 operate to deny X Co the $5 million capital loss.
 
-If X Co did not sell the land until after the 6-year period had expired, there would be no reduction to any capital loss made on its realisation because the right no longer aﬀects its market value.
+If X Co did not sell the land until after the 6-year period had expired, there would be no reduction to any capital loss made on its realisation because the right no longer affects its market value.
 
 *Refs: s 116-30, s 723-25), s 723-105)*
 

@@ -9,4 +9,4 @@ paragraph: "¶12-790"
 
 In broad terms, the CFC provisions (¶21-110) and the transferor trust provisions (¶21-290) require the inclusion of attributable income derived by certain non-resident companies and trusts wholly or partly in the assessable income of an Australian entity (the attributable taxpayer) in relation to the company or trust.
 
-Certain aspects of the CGT provisions are modiﬁed when determining attributable income (¶21-200).
+Certain aspects of the CGT provisions are modified when determining attributable income (¶21-200).

@@ -13,11 +13,11 @@ The roll-over applies when a statutory licence ends, CGT event C2 happens (¶11-
 
 What is a statutory licence?
 
-A statutory licence is an authority, licence, permit or quota (other than a lease or a mining or prospecting entitlement) granted by an Australian or foreign government agency. Examples include radio and television broadcasting licences, marine radio licences, taxi licences, import and export quotas, ﬁshing permits or quotas, oyster farming licences, milk quotas, wool quotas and liquor licences.
+A statutory licence is an authority, licence, permit or quota (other than a lease or a mining or prospecting entitlement) granted by an Australian or foreign government agency. Examples include radio and television broadcasting licences, marine radio licences, taxi licences, import and export quotas, fishing permits or quotas, oyster farming licences, milk quotas, wool quotas and liquor licences.
 
 Consequences of roll-over The consequences of the roll-over are that any capital gain or loss arising from the ending of the original licence is disregarded (s 124-145). The cost base rules vary according to whether the original licence was acquired before or on or after 20 September 1985, ie pre-CGT or post-CGT.
 
-Where the original licence was post-CGT, its cost base becomes the ﬁrst element of the cost base of the new post-CGT licence. Where more than one licence ends or more than one new licence is received, the cost base of each new licence must be determined on a reasonable basis, having regard to the number, market value and character of the original and new licences (s 124-155).
+Where the original licence was post-CGT, its cost base becomes the first element of the cost base of the new post-CGT licence. Where more than one licence ends or more than one new licence is received, the cost base of each new licence must be determined on a reasonable basis, having regard to the number, market value and character of the original and new licences (s 124-155).
 
 Where the original licence was pre-CGT, the new licence is also taken to be pre-CGT (s 124-160). Where some original licences were pre-CGT and others were post-CGT, each new licence is taken to be 2 separate assets, one pre-CGT and the other post-CGT. The cost base of each of those assets is determined by allocating the total of the cost bases of the original post-CGT licences between the new licences in proportion to their market values (s 124-165).
 

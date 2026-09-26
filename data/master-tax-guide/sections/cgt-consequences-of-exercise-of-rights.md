@@ -7,7 +7,7 @@ paragraph: "¶12-610"
 ---
 # CGT consequences of exercise of rights ¶12-610
 
-Special rules may apply if a taxpayer exercises rights to acquire shares (or options to acquire shares) in a company or to acquire units (or options to acquire units) in a unit trust (s 130-40). Options are treated as rights for these rules (s 130-50). Diﬀerent rules apply to the exercise of rights acquired under employee share schemes (¶10-080).
+Special rules may apply if a taxpayer exercises rights to acquire shares (or options to acquire shares) in a company or to acquire units (or options to acquire units) in a unit trust (s 130-40). Options are treated as rights for these rules (s 130-50). Different rules apply to the exercise of rights acquired under employee share schemes (¶10-080).
 
 When the special rules apply The special rules will apply where the taxpayer did not pay for the rights and at the time the taxpayer was issued with the right, the taxpayer already owned:
 
@@ -27,7 +27,7 @@ Capital gain or loss disregarded In accordance with the special rules, a capital
 
 Special acquisition rules Where rights are acquired from the issuing company or trustee without payment, a taxpayer is taken to have acquired the rights when the original shares, units or interests were acquired (s 130-45). If the existing shares consist of both pre-CGT and post-CGT shares, the rights are apportioned as pre-CGT and post-CGT assets (TD 93/80). In addition, where shares, units or options are acquired by exercising rights, a taxpayer is taken to have acquired the new shares, units or options when the rights were exercised.
 
-Cost base modifications In addition, the general rules for working out the cost base and reduced cost base of the shares, units or options are modiﬁed (s 130-40(6)). The cost base modiﬁcations apply where:
+Cost base modifications In addition, the general rules for working out the cost base and reduced cost base of the shares, units or options are modified (s 130-40(6)). The cost base modifications apply where:
 
 - rights issued by a company or trustee to a taxpayer are exercised
 
@@ -37,7 +37,7 @@ Cost base modifications In addition, the general rules for working out the cost 
 
   pre-CGT rights because they were issued in respect of pre-CGT shares.
 
-In each of these situations, the ﬁrst element of the taxpayer's cost base and reduced cost base for the shares, units or options is the sum of:
+In each of these situations, the first element of the taxpayer's cost base and reduced cost base for the shares, units or options is the sum of:
 
 - the cost base of the rights at the time of exercise
 

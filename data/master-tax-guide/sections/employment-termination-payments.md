@@ -7,11 +7,11 @@ paragraph: "¶42-270"
 ---
 # Employment termination payments ¶42-270
 
-The taxable component of an employment termination payment (ETP) is assessable income (¶14-620); however, a tax oﬀset may be available.
+The taxable component of an employment termination payment (ETP) is assessable income (¶14-620); however, a tax offset may be available.
 
-The tables below set out the tax treatment of ETPs. Medicare levy (¶42-010) is added to whichever rate of tax applies. For the tax treatment of death beneﬁt termination payments, see ¶42-290.
+The tables below set out the tax treatment of ETPs. Medicare levy (¶42-010) is added to whichever rate of tax applies. For the tax treatment of death benefit termination payments, see ¶42-290.
 
-Depending on the type of ETP, access to the tax oﬀset for ETPs is limited to the ETP cap or the smaller of the ETP cap and a whole-of-income cap (¶14-620). Amounts in excess of the applicable cap are taxed at the top marginal rate (plus Medicare levy).
+Depending on the type of ETP, access to the tax offset for ETPs is limited to the ETP cap or the smaller of the ETP cap and a whole-of-income cap (¶14-620). Amounts in excess of the applicable cap are taxed at the top marginal rate (plus Medicare levy).
 
 The table below sets out the types of ETPs and the applicable cap for each type of payment.
 
@@ -19,7 +19,7 @@ Column 1                                                 Column 2 Smaller of the
 
 - in recognition of prior service
 
-limit* (only the amount in excess of the limit is an ETP) A payment made because of the employee's permanent             A payment in lieu of notice disability Compensation payment for personal injury                       A payment for unused sick leave Compensation for unfair dismissal                              A payment for unused rostered days oﬀ Compensation for harassment                                    A payment not covered in column 1 Compensation for discrimination
+limit* (only the amount in excess of the limit is an ETP) A payment made because of the employee's permanent             A payment in lieu of notice disability Compensation payment for personal injury                       A payment for unused sick leave Compensation for unfair dismissal                              A payment for unused rostered days off Compensation for harassment                                    A payment not covered in column 1 Compensation for discrimination
 
 * For the tax-free limit, see "Redundancy and early retirement scheme payments" below.
 
@@ -35,7 +35,7 @@ Taxation of employment termination payments Employment termination payments Comp
 
 - amount over the applicable cap amount — taxed at top marginal rate
 
-  Applicable cap amount — life beneﬁt termination payment
+  Applicable cap amount — life benefit termination payment
 
 Income year                             ETP cap amount (indexed yearly)                       Whole-of-income cap (not indexed) 2022–23                                         $230,000                                                $180,000 2023–24                                         $235,000                                                $180,000 2024–25                                         $245,000                                                $180,000 The ETP cap amount is indexed in line with AWOTE, in increments of $5,000 rounded down (ITAA97 s 960-285). The whole-of-income cap amount is not indexed. For the cap amount in pre-2022–23 years, see earlier editions of the Australian Master Tax Guide.
 

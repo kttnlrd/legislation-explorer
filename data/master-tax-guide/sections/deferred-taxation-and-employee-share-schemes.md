@@ -11,7 +11,7 @@ paragraph: "¶10-089"
 
   the share, right or security is subject to a real risk of forfeiture
 
-- a share or stapled security acquired under salary sacriﬁce arrangements provided the employee
+- a share or stapled security acquired under salary sacrifice arrangements provided the employee
 
   receives no more than $5,000 worth of shares under those arrangements in an income year, and
 
@@ -21,7 +21,7 @@ paragraph: "¶10-089"
 
 (s 83A-100).
 
-The "ESS deferred taxing point" is deﬁned in s 83A-115 for shares and in s 83A-120 for rights to acquire shares. Broadly, it is the point of time when the taxpayer's period of deferral in assessment comes to an end and they become assessable on any gain over the time of holding the interest.
+The "ESS deferred taxing point" is defined in s 83A-115 for shares and in s 83A-120 for rights to acquire shares. Broadly, it is the point of time when the taxpayer's period of deferral in assessment comes to an end and they become assessable on any gain over the time of holding the interest.
 
 In order to qualify for deferred taxation, the scheme and the employee must meet all the following general conditions:
 
@@ -41,7 +41,7 @@ In order to qualify for deferred taxation, the scheme and the employee must meet
 
 5% (s 83A-105(1)).
 
-A further condition is that at the time of acquisition of the ESS interest at least 75% of the Australian-resident permanent employees with at least 3 years' service are, or at some earlier time had been, entitled to acquire ESS interests in their employer or a holding company under a scheme (s 83A-105(2)). An integrity rule about share trading and investment companies must also be satisﬁed (¶10-091).
+A further condition is that at the time of acquisition of the ESS interest at least 75% of the Australian-resident permanent employees with at least 3 years' service are, or at some earlier time had been, entitled to acquire ESS interests in their employer or a holding company under a scheme (s 83A-105(2)). An integrity rule about share trading and investment companies must also be satisfied (¶10-091).
 
 Real risk of forfeiture schemes An ESS interest is at real risk of forfeiture if there is a real risk under the conditions of the scheme that the employee would: (1) in the case of shares, forfeit or lose the interest (other than by disposing of it) (2) in the case of rights, forfeit or lose the interest (other than by disposing of it, exercising it, letting it lapse or through the market value of the ESS interest falling to nil) (s 83A-105(3)).
 
@@ -53,13 +53,13 @@ In relation to rights, there is a real risk of forfeiture where the conditions o
 
 - contain "good leaver" provisions that provide that an employee who ceases employment because
 
-  of death, invalidity, bona ﬁde redundancy or retirement 6 months after the date of grant will retain
+  of death, invalidity, bona fide redundancy or retirement 6 months after the date of grant will retain
 
   the vesting rights (eg ID 2010/61).
 
 In Gennai 2020 ATC ¶10-556; [2020] AATA 4667 the risk that an employee could lose their job amounted to a "real risk" that they would forfeit or lose an ESS interest (share options) under the relevant scheme conditions, resulting in a deferred taxing point. According to the AAT, s 83A-105(3)(b) neither directed itself to the mind of a reasonable person nor to the subjective assessment of the relevant taxpayer; the question is whether the scheme conditions pose a real risk of loss or forfeiture.
 
-Salary sacrifice schemes For deferred taxation to apply to ESS interests acquired under a salary sacriﬁce arrangement:
+Salary sacrifice schemes For deferred taxation to apply to ESS interests acquired under a salary sacrifice arrangement:
 
 - the ESS interests must relate to shares (not rights)
 
@@ -94,11 +94,11 @@ Principles for working out whether genuine disposal restrictions existed within 
 
 - must have existed at the time of acquiring the ESS interest
 
-- may be evidenced by the scheme rules, the oﬀer document, other governing documents of the
+- may be evidenced by the scheme rules, the offer document, other governing documents of the
 
   scheme, documented company policies or an employment contract
 
-- will no longer exist on the ﬁrst day the employee has an opportunity to dispose of the ESS
+- will no longer exist on the first day the employee has an opportunity to dispose of the ESS
 
   interest.
 
@@ -140,7 +140,7 @@ Subject to the 30-day rule, the deferred taxing point for rights is the earliest
 
   interests acquired before 1 July 2015, the requirement was when there was no real risk of forfeiture
 
-  of the beneﬁts and any restrictions on the sale or exercise were lifted (s 83A-120).
+  of the benefits and any restrictions on the sale or exercise were lifted (s 83A-120).
 
 Roll-over relief for corporate restructures Where employees have a deferred tax liability on a discount on an ESS interest and a takeover or corporate restructure of their employer occurs triggering a disposal or breaking the employment relationship, roll-over relief may be available. In particular, where:
 
@@ -158,7 +158,7 @@ However, the new interests must be ordinary shares or rights over ordinary share
 
 For Div 83A purposes, employment does not cease until the taxpayer ceases to be employed anywhere within the relevant company group.
 
-Further, the roll-over relief is only available to employees who, at the time of acquisition of the new interests, do not hold a beneﬁcial interest in more than 10% of the shares in the new company, and are not in a position to cast more than 10% of the maximum number of votes at a general meeting. For ESS interests acquired before 1 July 2015, the relevant percentage for ownership and voting rights was 5%.
+Further, the roll-over relief is only available to employees who, at the time of acquisition of the new interests, do not hold a beneficial interest in more than 10% of the shares in the new company, and are not in a position to cast more than 10% of the maximum number of votes at a general meeting. For ESS interests acquired before 1 July 2015, the relevant percentage for ownership and voting rights was 5%.
 
 Any consideration paid by the employee for the ESS interests is spread among the matching ESS interests in proportion to their market values immediately after the corporate restructure. This allows the apportionment of the cost base and the calculation of the discount for tax purposes for those ESS interests that are not subject to the roll-over and those that are.
 

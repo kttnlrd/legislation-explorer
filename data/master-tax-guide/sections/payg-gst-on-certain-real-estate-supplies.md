@@ -7,7 +7,7 @@ paragraph: "¶26-330"
 ---
 # PAYG: GST on certain real estate supplies ¶26-330
 
-Purchasers of new residential premises or new subdivisions of potential residential land must withhold an amount of the purchase price, representing the GST payable on the transaction (TAA sch 1 ss 14-250, 14-255). These rules apply to supplies for which any of the consideration (other than a deposit) is ﬁrst provided on or after 1 July 2018, whether a contract for the supply was entered into before, on or after that date.
+Purchasers of new residential premises or new subdivisions of potential residential land must withhold an amount of the purchase price, representing the GST payable on the transaction (TAA sch 1 ss 14-250, 14-255). These rules apply to supplies for which any of the consideration (other than a deposit) is first provided on or after 1 July 2018, whether a contract for the supply was entered into before, on or after that date.
 
 The obligation applies to a purchaser who is the recipient of a taxable supply (¶34-105) of:
 
@@ -21,7 +21,7 @@ The obligation applies to a purchaser who is the recipient of a taxable supply (
 
   and acquires the potential residential land for a creditable purpose.
 
-The amount withheld must be remitted to the ATO on or before the day on which any of the consideration for the supply is ﬁrst provided (other than consideration provided as a deposit). To facilitate this, suppliers of residential premises or potential residential land will be required to issue a notiﬁcation to the purchaser 14 days before making the supply of the requirement to withhold an amount. However, purchasers will not be required to register with the ATO under PAYG withholding.
+The amount withheld must be remitted to the ATO on or before the day on which any of the consideration for the supply is first provided (other than consideration provided as a deposit). To facilitate this, suppliers of residential premises or potential residential land will be required to issue a notification to the purchaser 14 days before making the supply of the requirement to withhold an amount. However, purchasers will not be required to register with the ATO under PAYG withholding.
 
 The administrative penalty under s 16-30 (¶29-300) will not apply where the purchaser reasonably believes that the premises are not new residential premises.
 

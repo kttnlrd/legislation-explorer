@@ -7,7 +7,7 @@ paragraph: "¶4-600"
 ---
 # Franking of distributions ¶4-600
 
-- the entity is a franking entity that satisﬁes the residency requirement when the distribution is made
+- the entity is a franking entity that satisfies the residency requirement when the distribution is made
 
 - the distribution is a frankable distribution (¶4-620), and
 
@@ -15,7 +15,7 @@ paragraph: "¶4-600"
 
   A distribution franked in this way is a "franked distribution".
 
-The amount of the franking credit on the distribution is generally the amount speciﬁed in the distribution statement for the distribution (¶4-640).
+The amount of the franking credit on the distribution is generally the amount specified in the distribution statement for the distribution (¶4-640).
 
 Residency requirement To satisfy the residency requirement when making a distribution (ITAA97 s 202-20):
 
