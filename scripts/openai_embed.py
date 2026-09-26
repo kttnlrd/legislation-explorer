@@ -535,6 +535,44 @@ LEGISLATION_ACTS = ["itaa-1997", "itaa-1936", "gst-1999", "taa-1953", "fbt-1986"
 COMMENTARY_ACTS = ["master-tax-guide", "master-gst-guide"]
 
 
+def walk_corpus_files() -> set[str]:
+    """The file paths this pipeline owns, exactly as embed_sections_and_commentary sees them.
+
+    Shared with --prune-stale so the deletion half and the embedding half can never disagree
+    about what "still exists" means.
+    """
+    seen: set[str] = set()
+    for act in LEGISLATION_ACTS + COMMENTARY_ACTS:
+        sections_dir = DATA_DIR / act / "sections"
+        if not sections_dir.exists():
+            continue
+        for path in sections_dir.rglob("*.md"):
+            seen.add(str(path.relative_to(DATA_DIR)))
+    return seen
+
+
+def prune_stale_rows(conn, commit: bool) -> list[str]:
+    """Delete section/commentary rows whose file no longer exists - this pipeline's own rows.
+
+    Scoped twice, because the first cut of this sweep deleted 260,297 ruling and case rows by
+    reading "not in my scope" as "gone": the candidate set is restricted to the acts this
+    pipeline walks (`walk_corpus_files`) and the row set to source_type in
+    ('section','commentary'). A row for another producer, or for an act that was not walked, is
+    never a candidate.
+    """
+    owned_acts = set(LEGISLATION_ACTS) | set(COMMENTARY_ACTS)
+    seen_files = walk_corpus_files()
+    existing = {r[0] for r in conn.execute(
+        "SELECT DISTINCT file_path FROM embeddings WHERE source_type IN ('section','commentary')")}
+    stale = {f for f in existing - seen_files if f.split("/", 1)[0] in owned_acts}
+    for f in sorted(stale):
+        print(f"  stale: {f}")
+    if commit and stale:
+        conn.executemany("DELETE FROM embeddings WHERE file_path = ?", [(f,) for f in stale])
+        conn.commit()
+    return sorted(stale)
+
+
 def embed_sections_and_commentary(conn, limit=None):
     """Embed all legislation sections and commentary files."""
     seen_files = set()
@@ -570,11 +608,9 @@ def embed_sections_and_commentary(conn, limit=None):
                 print(f"    {i}/{len(md_files)} processed, {total} chunks so far")
 
     # Remove stale files
-    existing_files = {r[0] for r in conn.execute("SELECT DISTINCT file_path FROM embeddings WHERE source_type IN ('section','commentary')").fetchall()}
-    stale = existing_files - seen_files
+    stale = prune_stale_rows(conn, commit=True)
     if stale:
-        conn.executemany("DELETE FROM embeddings WHERE file_path = ?", [(f,) for f in stale])
-        conn.commit()
+        print(f"  pruned {len(stale)} stale file(s)")
 
     return total
 
@@ -585,6 +621,8 @@ def main():
     parser.add_argument("--type", choices=["sections", "commentary", "rulings", "cases", "all"])
     parser.add_argument("--limit", type=int, help="Limit items per type (for testing)")
     parser.add_argument("--clean", action="store_true", help="Rebuild DB from scratch")
+    parser.add_argument("--prune", action="store_true",
+                        help="Delete stale section/commentary rows only (no embedding)")
     args = parser.parse_args()
 
     if args.clean and OUT_DB.exists():
@@ -593,6 +631,12 @@ def main():
 
     conn = sqlite3.connect(str(OUT_DB))
     init_db(conn)
+
+    if args.prune:
+        stale = prune_stale_rows(conn, commit=True)
+        print(f"pruned {len(stale)} stale section/commentary file(s)")
+        conn.close()
+        return
 
     types = ["sections", "commentary", "rulings", "cases"] if args.type == "all" or not args.type else [args.type]
     # If no --type, default: sections + commentary

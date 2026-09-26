@@ -1,0 +1,35 @@
+{
+  "batch": "7",
+  "ids": ["CDN-0173", "E-d"],
+  "generated": "2026-09-26T12:56:00+00:00",
+  "producer": "scripts/sweep_graph_stale_sections.py + scripts/openai_embed.py --prune + scripts/rebuild_search_index.py",
+  "derived_sweeps": {
+    "search_index": {
+      "producer": "scripts/rebuild_search_index.py (init_search_index)",
+      "before_sections_meta": 20842,
+      "after_sections_meta": 20430,
+      "removed": 412,
+      "nz_amendment_rows_after": 0,
+      "nz_fts_rows_after": 2850,
+      "note": "The 412 < 445 because sections_meta is UNIQUE(act, section) and the amendment parts reuse numeric ids ('1','2','3'...) that collided. The surviving leaf count is 2850."
+    },
+    "graph": {
+      "producer": "scripts/sweep_graph_stale_sections.py",
+      "stale_nodes": 0,
+      "deleted_nodes": 0,
+      "deleted_edges": 0,
+      "note": "graph_etl.py ACTS does not include nz-it-2007, so graph.db holds no nz section nodes (verified: 0 by key/content_ref). The sweep is re-runnable and covers nz if the ETL ever walks it."
+    },
+    "embeddings": {
+      "producer": "scripts/openai_embed.py --prune",
+      "before_total_rows": 281113,
+      "after_total_rows": 280665,
+      "removed_rows": 448,
+      "removed_file_paths": 445,
+      "nz_rows_before": 4891,
+      "nz_rows_after": 4443,
+      "note": "445 distinct file_paths spanning 448 rows (a few files were multi-chunk). All under nz-it-2007/sections/part-1/2/3/3B, 0 outside."
+    }
+  },
+  "rollback": "git tag batch7-rollback-20260926T124741Z; file copies of the three DBs under /tmp/batch7-rollback/"
+}
