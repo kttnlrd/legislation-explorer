@@ -8,8 +8,9 @@ out as stray anchored paragraphs. Reconstructed surgically per file from the raw
 (`data/<act>/raw/*.txt`), the source of truth. 40 files fixed; 3 candidates verified already-correct
 and left untouched. Frontmatter, `# heading` and all non-table subsections preserved byte-identical.
 
-Each of the 40 fixed sections now carries a `change_log` frontmatter field recording the date and a
-one-line summary of what was changed (visible per-file and via the API).
+Each of the 40 fixed sections has its own change log at `docs/changes/<act>/<section>.md`
+(records the date and a one-line summary; kept out of the corpus frontmatter so it is not exposed
+through the API).
 
 ## gst-1999 (9 fixed)
 - **38-355** — table split into 6 fragments, items 1–7 truncated mid-clause and cells leaked out as
