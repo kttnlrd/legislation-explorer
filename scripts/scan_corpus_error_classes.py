@@ -597,9 +597,12 @@ ARTIFACT_PATS = {
 # where the page prints a delimiter or an operator.  Left in place it reads as content and defeats
 # the formula.  The ones already adjudicated were repaired from the page, so a survivor is either a
 # piece nobody has read yet or a repair that missed; either way the page decides, so this reports
-# and never rewrites.  '÷' and the superscripts are INCLUDED deliberately and may be legitimate
-# content - a hit means "look at the page", not "this is wrong".
-DRAWING_CHARS = "´¯°¸æçèéêëö÷øùúûü³²±"
+# and never rewrites.  CDN-0211: '÷' (and '±') are legitimate drawn operators — the same set
+# CDN-0202 adjudicated as real formula operators (OPERATORS = "×÷−–—+=-≤≥±<>,*") — so a fence
+# carrying only '÷' is a *complete* formula ("=300% ÷ 4 = 75%"), not a lost-bracket finding.
+# The superscripts ('²³') and degree sign stay: they are either legitimate units or drawn glyphs,
+# and the page decides.  A hit on the accented vowels/spacing accents still means "look at the page".
+DRAWING_CHARS = "´¯°¸æçèéêëöøùúûü²³"
 OPEN_FENCE = re.compile(r"^```")
 
 

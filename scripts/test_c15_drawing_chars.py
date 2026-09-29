@@ -17,6 +17,8 @@ CASES = {
     "inside_fence": "```ingest-formula source=vol06.pdf page=295\n  ç   Entity's average units ÷\n```\n",
     "outside_fence": "The dwelling was sold for $10,000.\n",
     "fence_clean": "```ingest-formula source=vol03.pdf page=82\n  Base amount  ×  Years of service\n```\n",
+    # CDN-0211: '÷' is a legitimate drawn operator (CDN-0202), not a lost-bracket piece.
+    "division_only": "```ingest-formula source=vol07.pdf page=146\n  =300%  ÷  4  =  75%\n```\n",
 }
 
 failures = 0
@@ -30,7 +32,7 @@ with tempfile.TemporaryDirectory() as td:
     S.scan_drawing_characters()
     got = {f["path"].rsplit("/", 1)[-1].removesuffix(".md") for f in S.findings}
 
-    for name, expect in (("inside_fence", True), ("outside_fence", False), ("fence_clean", False)):
+    for name, expect in (("inside_fence", True), ("outside_fence", False), ("fence_clean", False), ("division_only", False)):
         hit = name in got
         ok = hit == expect
         failures += 0 if ok else 1
