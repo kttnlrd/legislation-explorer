@@ -387,12 +387,26 @@ def find_definition_end(body: str, start: int, term: str) -> int:
     if m:
         ends.append(start + m.start())
 
-    # Next definition pattern (standard or called-style)
-    m_std = STD_DEF_RE.search(after, 1)
-    if m_std and m_std.start() > 10:  # avoid matching the same def again
+    # Next definition pattern. CDN-0213: searching from position 1 re-matched
+    # the CURRENT term mid-word ("R&D entity" -> "d entity ... means"), and the
+    # old `> 10` guard then discarded that only real boundary, so a run-on
+    # dictionary paragraph bled to the end of the section (mean 8,936 / max
+    # 431,276 chars). Locate the current definition's own anchor (term + verb)
+    # first, then search for the NEXT one after it.
+    own_end = None
+    m_own = STD_DEF_RE.match(after)
+    if m_own:
+        own_end = m_own.end()
+    else:
+        m_own_called = CALLED_RE.match(after)
+        if m_own_called:
+            own_end = m_own_called.end()
+    search_from = own_end if own_end else 1
+    m_std = STD_DEF_RE.search(after, search_from)
+    if m_std:
         ends.append(start + m_std.start())
 
-    m_called = CALLED_RE.search(after, 1)
+    m_called = CALLED_RE.search(after, search_from)
     if m_called:
         ends.append(start + m_called.start())
 
