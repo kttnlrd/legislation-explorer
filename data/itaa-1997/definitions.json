@@ -1,10 +1,10 @@
 {
   "_provenance": {
     "generator": "pipeline/extract_definitions.py",
-    "source_commit": "899e86afc021b92462b49b1e04ee5cff583172fe",
+    "source_commit": "c4c5c8de6f7c3b9093beaf5b7c61355d6331005d",
     "source": "/home/harrison/legislation-explorer/data/itaa-1997/sections/part-6-5/division-995/995-1.md",
-    "extracted_terms": 803,
-    "preserved_terms": 897
+    "extracted_terms": 1506,
+    "preserved_terms": 219
   },
   "4% build to rent manner": {
     "term": "4% build to rent manner",
@@ -9138,12 +9138,6 @@
     "anchor": "s995-1-tax-file-number",
     "act": "ITAA 1997"
   },
-  "tax-free amount of a payment is defined as set out in this table": {
-    "term": "tax-free amount of a payment is defined as set out in this table",
-    "section": "995-1",
-    "anchor": "s995-1-tax-free-amount-of-a-payment-is-defined-as-set-out-in-this-table",
-    "act": "ITAA 1997"
-  },
   "taxing event generating a gain": {
     "term": "taxing event generating a gain",
     "section": "995-1",
@@ -10170,12 +10164,6 @@
     "anchor": "s995-1-nras-consortium-short-for-national-rental-affordability-scheme-consortium",
     "act": "ITAA 1997"
   },
-  "ordinary payment is defined as set out in this table": {
-    "term": "ordinary payment is defined as set out in this table",
-    "section": "995-1",
-    "anchor": "s995-1-ordinary-payment-is-defined-as-set-out-in-this-table",
-    "act": "ITAA 1997"
-  },
   "original excess non-concessional contributions tax assessment day": {
     "term": "original excess non-concessional contributions tax assessment day",
     "section": "995-1",
@@ -10204,6 +10192,150 @@
     "term": "supporting R&D activities",
     "section": "995-1",
     "anchor": "s995-1-supporting-rd-activities",
+    "act": "ITAA 1997"
+  },
+  "active foreign business asset of a company that is a foreign resident": {
+    "term": "active foreign business asset of a company that is a foreign resident",
+    "section": "995-1",
+    "anchor": "s995-1-active-foreign-business-asset-of-a-company-that-is-a-foreign-resident",
+    "act": "ITAA 1997"
+  },
+  "amount withheld by an entity from a withholding payment": {
+    "term": "amount withheld by an entity from a withholding payment",
+    "section": "995-1",
+    "anchor": "s995-1-amount-withheld-by-an-entity-from-a-withholding-payment",
+    "act": "ITAA 1997"
+  },
+  "class of a taxable income or a tax loss of a life insurance company": {
+    "term": "class of a taxable income or a tax loss of a life insurance company",
+    "section": "995-1",
+    "anchor": "s995-1-class-of-a-taxable-income-or-a-tax-loss-of-a-life-insurance-company",
+    "act": "ITAA 1997"
+  },
+  "core r&d activities": {
+    "term": "core R&D activities",
+    "section": "995-1",
+    "anchor": "s995-1-core-rd-activities",
+    "act": "ITAA 1997"
+  },
+  "nras dwelling (short for national rental affordability scheme dwelling)": {
+    "term": "NRAS dwelling (short for National Rental Affordability Scheme dwelling)",
+    "section": "995-1",
+    "anchor": "s995-1-nras-dwelling-short-for-national-rental-affordability-scheme-dwelling",
+    "act": "ITAA 1997"
+  },
+  "pooled interest in an eligible tier-1 company that is a member of a mec group": {
+    "term": "pooled interest in an eligible tier-1 company that is a member of a MEC group",
+    "section": "995-1",
+    "anchor": "s995-1-pooled-interest-in-an-eligible-tier-1-company-that-is-a-member-of-a-mec-group",
+    "act": "ITAA 1997"
+  },
+  "quarterly payer who pays on the basis of gdp-adjusted notional tax": {
+    "term": "quarterly payer who pays on the basis of GDP-adjusted notional tax",
+    "section": "995-1",
+    "anchor": "s995-1-quarterly-payer-who-pays-on-the-basis-of-gdp-adjusted-notional-tax",
+    "act": "ITAA 1997"
+  },
+  "r&d activities": {
+    "term": "R&D activities",
+    "section": "995-1",
+    "anchor": "s995-1-rd-activities",
+    "act": "ITAA 1997"
+  },
+  "r&d entity": {
+    "term": "R&D entity",
+    "section": "995-1",
+    "anchor": "s995-1-rd-entity",
+    "act": "ITAA 1997"
+  },
+  "reduced beneficiary's share of a trust's net income for an income year": {
+    "term": "reduced beneficiary's share of a trust's net income for an income year",
+    "section": "995-1",
+    "anchor": "s995-1-reduced-beneficiarys-share-of-a-trusts-net-income-for-an-income-year",
+    "act": "ITAA 1997"
+  },
+  "reduced no beneficiary's share of a trust's net income for an income year": {
+    "term": "reduced no beneficiary's share of a trust's net income for an income year",
+    "section": "995-1",
+    "anchor": "s995-1-reduced-no-beneficiarys-share-of-a-trusts-net-income-for-an-income-year",
+    "act": "ITAA 1997"
+  },
+  "shareholders' ratio for an income year of a life insurance company": {
+    "term": "shareholders' ratio for an income year of a life insurance company",
+    "section": "995-1",
+    "anchor": "s995-1-shareholders-ratio-for-an-income-year-of-a-life-insurance-company",
+    "act": "ITAA 1997"
+  },
+  "undeducted pre-existing audited book value of a depreciating asset": {
+    "term": "undeducted pre-existing audited book value of a depreciating asset",
+    "section": "995-1",
+    "anchor": "s995-1-undeducted-pre-existing-audited-book-value-of-a-depreciating-asset",
+    "act": "ITAA 1997"
+  },
+  "ordinary payment": {
+    "term": "ordinary payment",
+    "section": "995-1",
+    "anchor": "s995-1-ordinary-payment",
+    "act": "ITAA 1997"
+  },
+  "supplementary amount of a payment": {
+    "term": "supplementary amount of a payment",
+    "section": "995-1",
+    "anchor": "s995-1-supplementary-amount-of-a-payment",
+    "act": "ITAA 1997"
+  },
+  "australian controller": {
+    "term": "Australian controller",
+    "section": "995-1",
+    "anchor": "s995-1-australian-controller",
+    "act": "ITAA 1997"
+  },
+  "consideration receivable": {
+    "term": "consideration receivable",
+    "section": "995-1",
+    "anchor": "s995-1-consideration-receivable",
+    "act": "ITAA 1997"
+  },
+  "corporate tax rate": {
+    "term": "corporate tax rate",
+    "section": "995-1",
+    "anchor": "s995-1-corporate-tax-rate",
+    "act": "ITAA 1997"
+  },
+  "cost": {
+    "term": "cost",
+    "section": "995-1",
+    "anchor": "s995-1-cost",
+    "act": "ITAA 1997"
+  },
+  "investment registration requirement": {
+    "term": "investment registration requirement",
+    "section": "995-1",
+    "anchor": "s995-1-investment-registration-requirement",
+    "act": "ITAA 1997"
+  },
+  "safe harbour debt amount": {
+    "term": "safe harbour debt amount",
+    "section": "995-1",
+    "anchor": "s995-1-safe-harbour-debt-amount",
+    "act": "ITAA 1997"
+  },
+  "specifically entitled": {
+    "term": "specifically entitled",
+    "section": "995-1",
+    "anchor": "s995-1-specifically-entitled",
+    "act": "ITAA 1997"
+  },
+  "tax-free amount of a payment": {
+    "term": "tax-free amount of a payment",
+    "section": "995-1",
+    "anchor": "s995-1-tax-free-amount-of-a-payment",
+    "act": "ITAA 1997"
+  },
+  "tax free component": {
+    "term": "tax free component",
+    "section": "995-1",
+    "anchor": "s995-1-tax-free-component",
     "act": "ITAA 1997"
   }
 }

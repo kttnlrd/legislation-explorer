@@ -1,7 +1,7 @@
 {
   "_provenance": {
     "generator": "pipeline/extract_definitions.py",
-    "source_commit": "899e86afc021b92462b49b1e04ee5cff583172fe",
+    "source_commit": "c4c5c8de6f7c3b9093beaf5b7c61355d6331005d",
     "source": "/home/harrison/legislation-explorer/data/gst-1999/sections/part-6-3/division-195/195-1.md",
     "extracted_terms": 327,
     "preserved_terms": 0

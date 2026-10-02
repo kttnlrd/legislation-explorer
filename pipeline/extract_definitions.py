@@ -103,8 +103,11 @@ PREDICATE_RE = re.compile(
     r"has the same meaning as(?: in)?|means|includes)\b"
 )
 
-# Colon style: "<term>: ...".
-COLON_RE = re.compile(r"^([A-Za-z0-9*][\w%*\u2018\u2019'() &-]{0,80}?):\s")
+# Colon style: "<term>: ...".  The trailing colon may sit at end-of-line with
+# nothing after it (CDN-0214: "tax-free amount of a payment is defined as set
+# out in this table:" is followed by a heading on the next line, not by the
+# definition on the same line), so `(?:\s|$)` instead of `\s`.
+COLON_RE = re.compile(r"^([A-Za-z0-9*][\w%*\u2018\u2019'() &-]{0,80}?):(?:\s|$)")
 
 # CDN-0209 left boundary: a capture that begins mid-word — a lone lowercase
 # letter then a space, e.g. "d entity" from "R&D entity", "s length profits"
@@ -114,9 +117,12 @@ _MIDWORD_LEAD_RE = re.compile(r"^[a-z]\s")
 
 
 # Strip trailing predicate words accidentally captured in a colon-style term
-# (kills the "payment means" junk class).
+# (kills the "payment means" junk class, and the "is defined as set out in
+# this table" table-reference boilerplate — CDN-0214 surfaced a third instance
+# of the latter, "supplementary amount of a payment ... table").
 TRAILING_PREDICATE_RE = re.compile(
-    r"\s+(?:means|includes|has(?:\s+the\s+meaning(?:\s+\w+)*)?)\s*$",
+    r"\s+(?:means|includes|has(?:\s+the\s+meaning(?:\s+\w+)*)?|"
+    r"is\s+defined\s+as\s+set\s+out\s+in\s+this\s+table)\s*$",
     re.IGNORECASE,
 )
 
@@ -183,6 +189,12 @@ def reject_key(key: str) -> bool:
     # Unbalanced parentheses signal a PDF line-wrap fragment (e.g. an orphan
     # closing paren from a term that wrapped across a line), not a real term.
     if key.count("(") != key.count(")"):
+        return True
+    # "is defined as set out in this table" is a table-reference marker, not part
+    # of the term (CDN-0214).  The term is just "X"; the marker announces that a
+    # table below defines it.  Reject the key so both a freshly captured junk
+    # term and a stale preserved copy from an older catalogue are dropped.
+    if "defined as set out in this table" in key:
         return True
     return False
 
@@ -256,8 +268,14 @@ def iter_definition_starts(block_text: str):
         stripped = line.strip()
         if not stripped:
             continue
-        # Skip blockquote lines, note/example lines, and bare anchor lines.
-        if stripped.startswith(">"):
+        # CDN-0214: the Phase 1 re-ingest renders the whole 995-1 dictionary as
+        # a single blockquote, so every definition line carries a leading '>'
+        # that is a rendering artifact, not content. Skipping those lines hid
+        # 1,725 of 3,098 block lines (the R&D terms among them). Strip the
+        # marker and keep scanning; note/example and bare-anchor lines are
+        # still filtered below.
+        stripped = re.sub(r"^>+\s*", "", stripped)
+        if not stripped:
             continue
         if stripped.startswith("<a id"):
             # Drop a leading "<a id=...></a>" prefix and keep scanning the rest.
@@ -448,6 +466,8 @@ def main() -> None:
             # no longer re-derives, append genuinely new terms.
             merged: dict = {}
             for key, info in previous.items():
+                if reject_key(key):
+                    continue  # do not carry a junk term forward just to preserve it
                 merged[key] = extracted_rows.get(key, info)
             for key, info in extracted_rows.items():
                 if key not in merged:
