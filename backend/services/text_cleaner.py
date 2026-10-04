@@ -146,6 +146,49 @@ def strip_scraped_markup(text: str) -> str:
     return result.strip()
 
 
+# ── Legislation markdown → clean prose ─────────────────────────────────
+
+def clean_legislation_body(text: str) -> str:
+    """Render a legislation markdown body as clean prose.
+
+    Legislation section files carry rendering scaffolding that is noise to a
+    reader:
+
+    * internal paragraph anchors (``<a id="s8-1-1"></a>``),
+    * bold subsection/paragraph markers (``**(1)**``, ``**(a)**``),
+    * ``*`` defined-term markers (e.g. ``*business``), and
+    * ``>`` blockquote markers delimiting provision paragraphs.
+
+    Strip these, then apply :func:`strip_scraped_markup` for generic HTML /
+    navigation artifacts, so ``fetch`` returns readable prose instead of raw
+    markup.
+    """
+    if not text:
+        return ""
+
+    # Internal paragraph / subsection anchors (standalone or inline). Note the
+    # horizontal-whitespace-only classes: a greedy \s* here would eat the
+    # newline after a standalone anchor line and merge it with the next line,
+    # turning "> <a id=..></a>\n> **(a)**" into a nested "> > (a)".
+    text = re.sub(r'<a\s+id="[^"]*"\s*>\s*</a>[ \t]*', '', text)
+    text = re.sub(r'<a\s+id="[^"]*"\s*>', '', text)
+    text = re.sub(r'</a>[ \t]*', '', text)
+    # Bold subsection/paragraph markers: **(1)** -> (1) ; **(a)** -> (a)
+    text = re.sub(r'\*\*\s*\(([^)]+)\)\s*\*\*', r'(\1) ', text)
+    # Remaining markdown bold: **text** -> text
+    text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)
+    text = text.replace('**', '')
+    # '*' defined-term markers directly before a word (not list bullets).
+    text = re.sub(r'(?<!\w)\*(?=[A-Za-z])', '', text)
+    # Blockquote markers at line starts delimit provision paragraphs. The
+    # quantifier handles nested markers on one line.
+    text = re.sub(r'^[ \t]*(?:>[ \t]?)+', '', text, flags=re.MULTILINE)
+    # Generic scraped-markup / navigation noise.
+    text = strip_scraped_markup(text)
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    return text.strip()
+
+
 # ── Strip trailing metadata blocks ──────────────────────────────────────
 
 _STRIP_TRAILING_AFTER = re.compile(

@@ -1321,6 +1321,16 @@ def get_definition_text(act: str, term: str) -> dict | None:
     if not defs:
         return None
     info = defs.get(_normalize_term_key(term))
+    scan_key = _normalize_term_key(term)
+    if not info:
+        # Some index keys bundle synonyms/qualifiers in the heading, e.g.
+        # "resident or resident of Australia" (ITAA 1936 s 6(1)). Match the
+        # queried term against the "or"-separated alternatives and scan for
+        # the full heading so the whole entry is captured.
+        for k, inf in defs.items():
+            if scan_key in [a.strip() for a in k.split(" or ")]:
+                info, scan_key = inf, k
+                break
     if not info:
         return None
     section = info.get("section", "")
@@ -1345,7 +1355,7 @@ def get_definition_text(act: str, term: str) -> dict | None:
     # that appear inline within terms (e.g. "*life insurance policies means")
     body = body.replace("*", "")
 
-    term_lower = _normalize_term_key(term)
+    term_lower = scan_key
     escaped = re.escape(term_lower)
     # Patterns for definition anchors
     patterns = [
@@ -1358,6 +1368,24 @@ def get_definition_text(act: str, term: str) -> dict | None:
     # Collect ALL matches so we can prefer the primary definition
     # over sub-definitions (e.g. prefer "dividend includes:" over
     # "demerger dividend means:...")
+    #
+    # A term occurrence can be the tail of a longer defined term (e.g.
+    # "resident" inside "foreign resident"). Such an occurrence must not anchor
+    # the lookup — it belongs to that longer term — so reject matches preceded
+    # by words that form a known definition key in this act.
+    other_keys = {k for k in defs if k != scan_key}
+
+    def _tail_of_known_term(start: int) -> bool:
+        before = body[max(0, start - 120):start]
+        cut = max((before.rfind(ch) for ch in ".;:!?\n()"), default=-1)
+        phrase = before[cut + 1:] if cut != -1 else before
+        words = re.findall(r"[A-Za-z0-9][\w'\-]*", phrase)
+        for n in range(1, min(6, len(words)) + 1):
+            cand = " ".join(words[-n:]) + " " + term_lower
+            if _normalize_term_key(cand) in other_keys:
+                return True
+        return False
+
     candidates: list[tuple[re.Match, int]] = []
     for pat in patterns:
         for m in re.finditer(pat, body, re.IGNORECASE):
@@ -1382,6 +1410,13 @@ def get_definition_text(act: str, term: str) -> dict | None:
     m = candidates[0][0]
     idx = m.start()
 
+    # Guard against a false-positive anchor: if the best occurrence is the tail
+    # of a longer defined term (e.g. "resident" inside "foreign resident"), it
+    # belongs to that term, not this one. Refuse rather than return another
+    # term's text; callers fall back to other acts / suggestions.
+    if _tail_of_known_term(idx):
+        return None
+
     # Find end: the boundary where this definition ends.
     # Strategy: Scan forward from the match position for:
     #   1. The next defined term in the same section (most reliable for dictionary-style sections)
@@ -1393,7 +1428,7 @@ def get_definition_text(act: str, term: str) -> dict | None:
     # Collect all terms in the same section, sort alphabetically,
     # and find the alphabetically-next term's definition anchor.
     end_pos = len(body)
-    current_lower = _normalize_term_key(term)
+    current_lower = scan_key
     same_section_terms = sorted([
         t for t, info in defs.items()
         if info.get("section") == section

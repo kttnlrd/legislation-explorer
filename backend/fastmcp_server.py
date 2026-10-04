@@ -28,7 +28,7 @@ from backend.services.data_loader import (
     get_definition_text,
     get_definition_across_acts,
 )
-from backend.services.text_cleaner import strip_scraped_markup
+from backend.services.text_cleaner import strip_scraped_markup, clean_legislation_body
 from backend.services.search_service import search_sections as fts_search, search_rulings, search_conn
 
 from backend.routes.regulatory_guides import (
@@ -379,6 +379,46 @@ def _section_exists_in_act(act: str, section_id: str) -> bool:
     return False
 
 
+def _section_title(act: str, section_id: str) -> str | None:
+    """Human title of a section/division/subdivision in an act, or None.
+
+    resolve_alias previously returned a routing description ("s 8-1 —
+    hyphenated section number routed to ITAA 1997") instead of the real
+    heading; callers want "General deductions". Looks the id up in the act
+    tree (titles are already normalised there).
+    """
+    if not act or not section_id:
+        return None
+    bare = section_id
+    for prefix in ("Division ", "Part ", "Subdivision "):
+        if bare.startswith(prefix):
+            bare = bare[len(prefix):]
+            break
+    try:
+        tree = load_tree(act)
+    except Exception:
+        return None
+    for part in tree.get("parts", []):
+        if part.get("id") == bare and part.get("title"):
+            return part["title"]
+        for sec in part.get("sections", []):
+            if sec.get("id") == bare:
+                return sec.get("title") or None
+        for div in part.get("divisions", []):
+            if div.get("id") == bare and div.get("title"):
+                return div["title"]
+            for sec in div.get("sections", []):
+                if sec.get("id") == bare:
+                    return sec.get("title") or None
+            for sub in div.get("subdivisions", []):
+                if sub.get("id") == bare and sub.get("title"):
+                    return sub["title"]
+                for sec in sub.get("sections", []):
+                    if sec.get("id") == bare:
+                        return sec.get("title") or None
+    return None
+
+
 @mcp.tool(structured_output=False)
 async def resolve_alias(reference: str) -> str:
     """Resolve a section alias or short-hand reference to its act and section number.
@@ -484,12 +524,15 @@ async def resolve_alias(reference: str) -> str:
         }.get(act_id, "ITAA 1997")
         # Validate the section actually exists in the resolved act's tree
         if _section_exists_in_act(act_id, bare):
+            title = _section_title(act_id, bare)
             return json.dumps({
                 "reference": ref,
                 "act": act_id,
                 "act_display": act_display,
                 "section": bare,
-                "description": f"s {bare} — hyphenated section number routed to {act_display}",
+                "title": title or "",
+                "description": title or f"s {bare}",
+                "routing": f"s {bare} — hyphenated section number routed to {act_display}",
                 "url": f"https://legislation.scriptkitty.yachts/get_section?act={act_id}&section={bare}",
                 "resolved_by": "hyphenated_section_pattern",
             }, indent=2)
@@ -498,12 +541,15 @@ async def resolve_alias(reference: str) -> str:
     if _re.match(r'^[A-Za-z0-9]+$', bare):
         # Validate the section actually exists in ITAA 1936 before returning
         if _section_exists_in_act("itaa-1936", bare):
+            title = _section_title("itaa-1936", bare)
             return json.dumps({
                 "reference": ref,
                 "act": "itaa-1936",
                 "act_display": "ITAA 1936",
                 "section": bare,
-                "description": f"s {bare} — unhyphenated section routed to ITAA 1936",
+                "title": title or "",
+                "description": title or f"s {bare}",
+                "routing": f"s {bare} — unhyphenated section routed to ITAA 1936",
                 "url": f"https://legislation.scriptkitty.yachts/get_section?act=itaa-1936&section={bare}",
                 "resolved_by": "unhyphenated_section_pattern",
             }, indent=2)
@@ -1066,14 +1112,15 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
     body_stripped = body_clean.strip()
     truncated = bool(body_stripped) and not _re.search(r'[.\\)"\'!?]\s*$', body_stripped)
 
-    # Apply max_body_length cap
-    body_out = body_stripped
-    body_truncated_flag = bool(body_stripped) and len(body_stripped) > max_body_length
-    if body_truncated_flag:
-        body_out = body_stripped[:max_body_length]
+    # Strip markdown rendering scaffolding + scraped markup BEFORE the length
+    # cap so the body returned to callers is clean prose (LK-26) and the cap
+    # is measured on the cleaned body rather than on raw markup.
+    body_out = clean_legislation_body(body_stripped)
 
-    # Strip scraped markup artifacts from body (CDN-0095)
-    body_out = strip_scraped_markup(body_out)
+    # Apply max_body_length cap
+    body_truncated_flag = bool(body_out) and len(body_out) > max_body_length
+    if body_truncated_flag:
+        body_out = body_out[:max_body_length]
 
     # Special handling for large definition/interpretation sections
     # These contain hundreds of defined terms — truncate and guide user to get_definition
