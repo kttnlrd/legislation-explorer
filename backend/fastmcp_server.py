@@ -2959,3 +2959,199 @@ async def proposed_law_update(item_id: str, status: str | None = None,
             save_items(items)
             return json.dumps({"ok": True, "item": it}, indent=2)
     return json.dumps({"ok": False, "error": "item not found"})
+
+
+# ==== LawKitty-parity tools ==============================================
+# These mirror the public lawkitty.app MCP surface so both deployments expose
+# an identical 12-tool contract. They are thin wrappers over this server's
+# richer search/retrieval. (Added for scriptkitty/lawkitty MCP parity.)
+
+
+@mcp.tool(structured_output=False)
+async def search(
+    query: str,
+    types: list[str] | None = None,
+    act: str | None = None,
+    status: str = "current",
+    limit: int = 10,
+    cursor: str | None = None,
+) -> str:
+    """Hybrid keyword search over legislation, cases, rulings and commentary.
+
+    types narrows to a subset of legislation|case|ruling (default: all three).
+    Find IDs here, then call fetch to read a document.
+    """
+    limit = min(50, max(1, limit))
+    _VALID = {"legislation", "case", "ruling"}
+    want = [t for t in (types or []) if t in _VALID]
+    if not want:
+        want = ["legislation", "case", "ruling"]
+    if len(want) == 1:
+        _map = {"legislation": "section", "case": "case", "ruling": "ruling"}
+        return await search_all(query=query, type_filter=_map[want[0]], act=act, limit=limit)
+    return await search_all(query=query, act=act, limit=limit)
+
+
+@mcp.tool(structured_output=False)
+async def search_private_rulings(
+    query: str,
+    outcome: str = "",
+    year: int | None = None,
+    limit: int = 10,
+    cursor: str | None = None,
+) -> str:
+    """Semantic search over ATO private rulings only.
+
+    Fact patterns work best. outcome filters by yes|no|mixed. Each result is a
+    private ruling: applies only to the applicant, not precedent.
+    """
+    return await find_similar_rulings(
+        query=query, limit=min(20, max(1, limit)), outcome=outcome or "", source="private",
+    )
+
+
+@mcp.tool(structured_output=False)
+async def fetch(ref: str, chunk: int = 1) -> str:
+    """Return one document by document ID or human citation.
+
+    ref examples: 'leg:itaa-1997:8-1', 'TR 2024/1', '[2024] HCA 1',
+    'rg:103', 'dta:usa:7', 'pbr:1051234567890'.
+    """
+    ref = (ref or "").strip()
+    if not ref:
+        return json.dumps({"error": "Empty reference.", "hint": _GET_INFO_HINT})
+    m = _re.match(r"(?i)^leg:([a-z0-9-]+):(.+)$", ref)
+    if m:
+        return await get_section(act=m.group(1), section=m.group(2))
+    m = _re.match(r"(?i)^dta:([a-z]+):(\d+)$", ref)
+    if m:
+        return await get_treaty_article(country=m.group(1).lower(), article=int(m.group(2)))
+    m = _re.match(r"(?i)^rg:(\d+)$", ref)
+    if m:
+        return await get_regulatory_guide(rg_number=int(m.group(1)))
+    m = _re.match(r"(?i)^pbr:(\d+)$", ref)
+    if m:
+        return await get_private_ruling(authnum=m.group(1))
+    m = _re.match(r"^\[(\d{4})\]\s+([A-Za-z][A-Za-z ]*?)\s+(\d+)$", ref)
+    if m:
+        return await get_case(citation=f"[{m.group(1)}] {m.group(2).strip().upper()} {m.group(3)}")
+    m = _re.match(r"(?i)^([A-Z]{1,6})\s+(\d{4})/(\d+)$", ref)
+    if m:
+        return await get_ruling(citation=f"{m.group(1).upper()} {m.group(2)}/{m.group(3)}")
+    return json.dumps({
+        "error": f"Cannot parse reference '{ref}'.",
+        "suggestions": ["Use leg:<act>:<section>, dta:<country>:<article>, rg:<n>, "
+                        "pbr:<authnum>, '[YYYY] COURT N', or 'TR 2024/1'."],
+        "hint": _GET_INFO_HINT,
+    }, indent=2)
+
+
+@mcp.tool(structured_output=False)
+async def outline(
+    id: str | None = None,
+    depth: str = "sections",
+    cursor: str | None = None,
+) -> str:
+    """Structure of a collection or document.
+
+    id=None lists collections (acts + treaty countries). id=<act-slug> returns
+    the act tree (depth: parts|divisions|sections). id=<country> returns treaty
+    articles.
+    """
+    if id is None:
+        acts = json.loads(await list_acts())
+        countries = sorted(
+            d.name for d in TREATIES_DIR.iterdir()
+            if d.is_dir() and (d / "tree.json").exists()
+        )
+        return json.dumps(
+            {"collections": {"acts": acts.get("acts", []), "treaties": countries}},
+            indent=2,
+        )
+    if not _re.fullmatch(r"[a-z0-9-]+", id):
+        return json.dumps({"error": f"Invalid id '{id}'.", "hint": _GET_INFO_HINT}, indent=2)
+    if (DATA_DIR / id / "tree.json").exists():
+        return await get_act_tree(act=id, depth=depth)
+    if (TREATIES_DIR / id / "tree.json").exists():
+        return await list_treaty_articles(country=id)
+    return json.dumps({"error": f"Unknown id '{id}'.", "hint": _GET_INFO_HINT}, indent=2)
+
+
+@mcp.tool(structured_output=False)
+async def related(
+    id: str,
+    direction: str = "both",
+    types: list[str] | None = None,
+    limit: int = 20,
+    cursor: str | None = None,
+) -> str:
+    """Deterministic citation links for a document.
+
+    One consistent, pageable schema for every document type:
+
+      {id, type, direction, limit,
+       cites:      [{id, type, citation, title}],   # forward citations
+       cited_by:   [{id, type, citation, title}],   # reverse citations
+       cites_total, cited_by_total, next_cursor, truncated}
+
+    id is 'case:<year>-<court>-<n>' or 'leg:<act>:<section>'.
+    """
+    limit = min(50, max(1, limit))
+    cites: list[dict] = []
+    cited_by: list[dict] = []
+    doc_type = "unknown"
+
+    m = _re.match(r"(?i)^case:(\d{4})-([a-z]+)-(\d+)$", id)
+    if m:
+        year, court, n = m.group(1), m.group(2).upper(), m.group(3)
+        citation = f"[{year}] {court} {n}"
+        doc_type = "case"
+        refs = get_case_references(citation)
+        for r in refs.get("legislation_refs", []):
+            cites.append({
+                "id": f"leg:{r.get('act_title', '')}:{r.get('section_reference', '')}",
+                "type": "legislation",
+                "citation": r.get("section_reference", ""),
+                "title": r.get("act_title", ""),
+            })
+        for r in refs.get("case_citations", []):
+            cites.append({
+                "id": "", "type": "case",
+                "citation": r.get("cited_citation", ""),
+                "title": r.get("cited_case_name", ""),
+            })
+        for r in refs.get("cited_by", []):
+            cited_by.append({
+                "id": "", "type": "case",
+                "citation": r.get("cited_citation", r.get("citation", "")),
+                "title": r.get("cited_case_name", ""),
+            })
+    elif id.startswith("leg:"):
+        parts = id.split(":")
+        if len(parts) == 3:
+            act, section = parts[1], parts[2]
+            doc_type = "legislation"
+            for c in _graph_cases_for_section(act, section, limit=limit):
+                cited_by.append({
+                    "id": c.get("citation", ""), "type": "case",
+                    "citation": c.get("citation", ""), "title": c.get("title", ""),
+                })
+            for r in _graph_rulings_for_section(act, section, limit=limit):
+                cited_by.append({
+                    "id": "", "type": "ruling",
+                    "citation": r.get("citation", ""), "title": r.get("title", ""),
+                })
+    else:
+        return json.dumps({
+            "error": f"Invalid id '{id}'.",
+            "suggestions": ["Use case:<year>-<court>-<n> or leg:<act>:<section>."],
+            "hint": _GET_INFO_HINT,
+        }, indent=2)
+
+    return json.dumps({
+        "id": id, "type": doc_type, "direction": direction, "limit": limit,
+        "cites": cites[:limit], "cited_by": cited_by[:limit],
+        "cites_total": len(cites), "cited_by_total": len(cited_by),
+        "next_cursor": None,
+        "truncated": len(cites) > limit or len(cited_by) > limit,
+    }, indent=2)
