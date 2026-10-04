@@ -236,7 +236,7 @@ class MCPAuthMiddleware(BaseHTTPMiddleware):
 # Tools
 # ---------------------------------------------------------------------------
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def search_legislation(
     query: str,
     act: str | None = None,
@@ -951,7 +951,7 @@ def _tree_same_division(tree: dict, section: str) -> list[dict]:
     return []
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def get_section(act: str, section: str, max_body_length: int = 50000,
                       include_commentary: bool = False) -> str:
     """Retrieve full text of a legislation section with related cases, rulings, and commentary.
@@ -1185,7 +1185,7 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
     return json.dumps(payload, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def list_acts() -> str:
     """List all available acts and ATO rulings."""
     acts = []
@@ -1202,7 +1202,7 @@ async def list_acts() -> str:
     return json.dumps({"acts": acts}, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def get_act_tree(act: str, depth: str = "sections", part: str | None = None,
                        offset: int = 0) -> str:
     """Get the structure of an act (parts, divisions, sections).
@@ -1352,7 +1352,7 @@ async def get_act_tree(act: str, depth: str = "sections", part: str | None = Non
     }, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def list_treaty_articles(country: str) -> str:
     """List all articles for a given Double Tax Agreement country.
 
@@ -1389,7 +1389,7 @@ async def list_treaty_articles(country: str) -> str:
         return json.dumps({"error": f"Failed to read treaty: {e}", "hint": _GET_INFO_HINT}, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def get_treaty_article(country: str, article: int,
                              max_body_length: int = 50000) -> str:
     """Retrieve the full text of a specific treaty article.
@@ -1460,7 +1460,7 @@ async def get_definition(act: str, term: str) -> str:
     return json.dumps({"error": f"Definition for '{term}' not found in any act", "hint": _GET_INFO_HINT})
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def search_all(
     query: str,
     type_filter: str | None = None,
@@ -1593,7 +1593,7 @@ async def search_all(
     }, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def search_cases(query: str, limit: int = 20) -> str:
     """Search case AI summaries and metadata by topic, case name, or citation.
 
@@ -1680,7 +1680,7 @@ async def search_cases(query: str, limit: int = 20) -> str:
     }, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
                                source: str = "all") -> str:
     """Semantic search over 57,608 ATO private rulings plus 12k+ public rulings.
@@ -1777,7 +1777,7 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
     }, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def insolvency_search(query: str, limit: int = 20) -> str:
     """Search the Keays Insolvency textbook across all chapters.
 
@@ -1797,7 +1797,7 @@ async def insolvency_search(query: str, limit: int = 20) -> str:
     return json.dumps(result, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def insolvency_get_chapter(chapter: int, offset: int = 0,
                                   limit: int = 5000,
                                   max_chars: int = 12000) -> str:
@@ -1858,7 +1858,7 @@ async def insolvency_get_chapter(chapter: int, offset: int = 0,
     }, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def get_regulatory_guide(rg_number: int, max_body_length: int = 8000) -> str:
     """Retrieve an ASIC Regulatory Guide with structured summary.
 
@@ -1886,7 +1886,7 @@ async def get_regulatory_guide(rg_number: int, max_body_length: int = 8000) -> s
         return _json.dumps({"error": str(e), "hint": _GET_INFO_HINT})
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def get_rg_sections(rg_number: int) -> str:
     """Retrieve the Corps Act sections cited by an ASIC Regulatory Guide.
 
@@ -2025,7 +2025,7 @@ async def get_info() -> str:
     }, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def standards(topic: str | None = None) -> str:
     """Return Cadena Legal standards for a topic, or list of topics."""
     STANDARDS_DIR = Path(__file__).parent.parent / "standards"
@@ -2138,7 +2138,7 @@ def _ruling_type_from_citation(citation: str) -> str:
         return _PREFIX_TYPE_MAP.get(m.group(1).upper(), "")
     return ""
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def get_private_ruling(authnum: str) -> str:
     """Retrieve a single ATO private ruling by authorisation number
     (e.g. 1011261243735 or EV/1011261243735). Returns structured fields plus
@@ -2186,7 +2186,7 @@ async def get_private_ruling(authnum: str) -> str:
     return json.dumps(payload, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def get_case(
     citation: str,
     search: str = "",
@@ -2382,7 +2382,7 @@ async def get_case(
     return json.dumps(result, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def case_legislation_refs(citation: str) -> str:
     """Get legislation references and case citations for a case.
 
@@ -2498,7 +2498,7 @@ async def list_rulings(
     return json.dumps(payload, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def get_ruling(citation: str) -> str:
     """Get a public ATO ruling by citation (e.g. 'TR 2024/1', 'CR 2017/74', 'PR 2008/70').
 
@@ -2634,7 +2634,7 @@ async def report_issue(
     })
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def list_issues(
     status: str | None = None,
     tool: str | None = None,
@@ -2801,7 +2801,7 @@ async def graph_path(from_key: str, to_key: str, max_hops: int = 10) -> str:
 
 # ────────────────────────── quoting tool (standalone) ──────────────────────────
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def quote_info() -> str:
     """List all quotes (title, date, text) plus the library's style rules.
 
@@ -2812,7 +2812,7 @@ async def quote_info() -> str:
     return json.dumps(_quote_info(), indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def quote_fetch(keyword: str = "", limit: int = 10, offset: int = 0) -> str:
     """Browse or search the quote list (title + text).
 
@@ -2825,7 +2825,7 @@ async def quote_fetch(keyword: str = "", limit: int = 10, offset: int = 0) -> st
     return json.dumps(_quote_fetch(keyword, limit=limit, offset=offset), indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def quote_save(title: str, date: str, text: str, names: list[str] | None = None,
                      tag: str | None = None, cost: str | None = None,
                      currency: str | None = None, terms: str | None = None,
@@ -2873,14 +2873,14 @@ def _parse_acts(acts_json):
     return clean
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def proposed_law_list() -> str:
     """List all proposed-law items (tracked legislative proposals), newest first."""
     from backend.routes.proposed_law import load_items
     return json.dumps({"items": list(reversed(load_items()))}, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def proposed_law_add(title: str, summary: str = "", status: str = "announced",
                            measure_type: str = "other", announced_date: str | None = None,
                            source_url: str | None = None, notes: str = "",
@@ -2924,7 +2924,7 @@ async def proposed_law_add(title: str, summary: str = "", status: str = "announc
     return json.dumps({"ok": True, "item": item}, indent=2)
 
 
-@mcp.tool(structured_output=False)
+# @mcp.tool(structured_output=False)
 async def proposed_law_update(item_id: str, status: str | None = None,
                               measure_type: str | None = None, summary: str | None = None,
                               notes: str | None = None, source_url: str | None = None,
