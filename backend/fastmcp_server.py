@@ -2960,11 +2960,152 @@ async def proposed_law_update(item_id: str, status: str | None = None,
             return json.dumps({"ok": True, "item": it}, indent=2)
     return json.dumps({"ok": False, "error": "item not found"})
 
-
 # ==== LawKitty-parity tools ==============================================
-# These mirror the public lawkitty.app MCP surface so both deployments expose
-# an identical 12-tool contract. They are thin wrappers over this server's
-# richer search/retrieval. (Added for scriptkitty/lawkitty MCP parity.)
+# Identical 12-tool contract to lawkitty.app. The 25 legacy tools above are
+# hidden (decorators commented) but remain callable from these wrappers.
+# scriptkitty additionally serves the premium corpus (commentary/maps/
+# insolvency/quotes/proposed-law) through the SAME tools.
+
+
+_COMMENTARY_PUBS = ["master-tax-guide", "master-gst-guide", "master-tax-examples", "nz-master-tax-guide"]
+
+
+def _load_section_index(pub: str) -> list[dict]:
+    p = DATA_DIR / pub / "section_index.json"
+    if not p.exists():
+        return []
+    try:
+        data = json.loads(p.read_text())
+        return data if isinstance(data, list) else []
+    except Exception:
+        return []
+
+
+def _search_commentary(query: str, limit: int) -> str:
+    words = query.lower().split()
+    hits = []
+    for pub in _COMMENTARY_PUBS:
+        for it in _load_section_index(pub):
+            hay = " ".join(str(it.get(k) or "") for k in ("title", "paragraph", "chapter_title"))
+            if all(w in hay.lower() for w in words):
+                hits.append({
+                    "id": f"commentary:{pub}:{it.get('id', '')}",
+                    "publication": pub,
+                    "title": it.get("title"),
+                    "paragraph": it.get("paragraph"),
+                    "chapter": it.get("chapter"),
+                    "chapter_title": it.get("chapter_title"),
+                })
+                if len(hits) >= limit:
+                    return json.dumps({"total": len(hits), "results": hits}, indent=2)
+    return json.dumps({"total": len(hits), "results": hits}, indent=2)
+
+
+def _search_maps(query: str, limit: int) -> str:
+    import glob as _glob
+    words = query.lower().split()
+    hits = []
+    for p in sorted(_glob.glob(str(DATA_DIR / "maps" / "*.json"))):
+        try:
+            m = json.loads(Path(p).read_text())
+        except Exception:
+            continue
+        hay = " ".join(str(m.get(k) or "") for k in ("title", "act", "part", "division", "subdivision", "summary", "short"))
+        hay += " " + " ".join(str(r) for r in (m.get("refs") or []))
+        if all(w in hay.lower() for w in words):
+            hits.append({
+                "id": f"map:{m.get('id') or Path(p).stem}",
+                "title": m.get("title"),
+                "act": m.get("act"),
+                "summary": (m.get("summary") or "")[:240],
+            })
+            if len(hits) >= limit:
+                break
+    return json.dumps({"total": len(hits), "results": hits}, indent=2)
+
+
+def _search_proposed_law(query: str, limit: int) -> str:
+    from backend.routes.proposed_law import load_items
+    words = query.lower().split()
+    hits = []
+    for it in load_items():
+        hay = " ".join(str(it.get(k) or "") for k in ("id", "summary", "notes", "commentary", "measure_type", "status"))
+        if all(w in hay.lower() for w in words):
+            hits.append({"id": f"proposed_law:{it.get('id', '')}", "summary": it.get("summary"),
+                         "status": it.get("status"), "measure_type": it.get("measure_type")})
+            if len(hits) >= limit:
+                break
+    return json.dumps({"total": len(hits), "results": hits}, indent=2)
+
+
+def _search_rgs(query: str, limit: int) -> str:
+    words = query.lower().split()
+    hits = []
+    texts = sorted((DATA_DIR / "regulatory-guides" / "texts").glob("RG_*.txt"))
+    for p in texts:
+        num = p.stem.split("_")[1]
+        try:
+            title = p.read_text(errors="ignore").split("\n", 1)[0]
+        except Exception:
+            title = p.stem
+        hay = f"RG {num} {title}".lower()
+        if all(w in hay for w in words):
+            hits.append({"id": f"rg:{num}", "rg_number": num, "title": title.strip()})
+            if len(hits) >= limit:
+                break
+    return json.dumps({"total": len(hits), "results": hits}, indent=2)
+
+
+def _fetch_commentary(pub: str, slug: str) -> str:
+    p = DATA_DIR / pub / "sections" / f"{slug}.md"
+    if not p.exists():
+        return json.dumps({"error": f"Commentary topic '{slug}' not found in {pub}.", "hint": _GET_INFO_HINT})
+    meta = {it.get("id"): it for it in _load_section_index(pub)}.get(slug, {})
+    return json.dumps({
+        "id": f"commentary:{pub}:{slug}",
+        "publication": pub,
+        "title": meta.get("title", slug),
+        "paragraph": meta.get("paragraph", ""),
+        "chapter": meta.get("chapter", ""),
+        "chapter_title": meta.get("chapter_title", ""),
+        "content": p.read_text(errors="ignore")[:50000],
+    }, indent=2)
+
+
+def _fetch_map(slug: str) -> str:
+    import glob as _glob
+    p = DATA_DIR / "maps" / f"{slug}.json"
+    if p.exists():
+        return json.dumps(json.loads(p.read_text()), indent=2)
+    for cand in _glob.glob(str(DATA_DIR / "maps" / "*.json")):
+        try:
+            m = json.loads(Path(cand).read_text())
+        except Exception:
+            continue
+        if m.get("id") == slug:
+            return json.dumps(m, indent=2)
+    return json.dumps({"error": f"Map '{slug}' not found.", "hint": _GET_INFO_HINT})
+
+
+def _fetch_proposed_law(item_id: str) -> str:
+    from backend.routes.proposed_law import load_items
+    for it in load_items():
+        if str(it.get("id")) == item_id:
+            return json.dumps(it, indent=2)
+    return json.dumps({"error": f"Proposed-law item '{item_id}' not found.", "hint": _GET_INFO_HINT})
+
+
+def _commentary_outline(pub: str) -> str:
+    chapters: dict[str, list[dict]] = {}
+    for it in _load_section_index(pub):
+        ch = it.get("chapter_title") or f"Chapter {it.get('chapter')}"
+        chapters.setdefault(ch, []).append(
+            {"id": it.get("id"), "title": it.get("title"), "paragraph": it.get("paragraph")}
+        )
+    return json.dumps({
+        "publication": pub,
+        "chapters": [{"chapter_title": ch, "topics": topics} for ch, topics in chapters.items()],
+    }, indent=2)
 
 
 @mcp.tool(structured_output=False)
@@ -2976,38 +3117,67 @@ async def search(
     limit: int = 10,
     cursor: str | None = None,
 ) -> str:
-    """Hybrid keyword search over legislation, cases, rulings and commentary.
+    """Hybrid search across the full corpus.
 
-    types narrows to a subset of legislation|case|ruling (default: all three).
-    Find IDs here, then call fetch to read a document.
+    types is a subset of: legislation, case, ruling, private_ruling, treaty,
+    rg, commentary, map, insolvency, quote, proposed_law
+    (default: legislation, case, ruling). private_ruling uses semantic
+    fact-pattern matching; the rest are keyword. Find IDs here, then fetch.
     """
     limit = min(50, max(1, limit))
-    _VALID = {"legislation", "case", "ruling"}
+    _VALID = {"legislation", "case", "ruling", "private_ruling", "treaty", "rg",
+              "commentary", "map", "insolvency", "quote", "proposed_law"}
     want = [t for t in (types or []) if t in _VALID]
     if not want:
         want = ["legislation", "case", "ruling"]
+
+    _TYPE_FILTER = {"legislation": "section", "case": "case", "ruling": "ruling"}
+
     if len(want) == 1:
-        _map = {"legislation": "section", "case": "case", "ruling": "ruling"}
-        return await search_all(query=query, type_filter=_map[want[0]], act=act, limit=limit)
-    return await search_all(query=query, act=act, limit=limit)
+        t = want[0]
+        if t == "private_ruling":
+            return await find_similar_rulings(query=query, limit=min(20, limit), source="private")
+        if t == "insolvency":
+            from backend.services.search_service import search_insolvency
+            return json.dumps(search_insolvency(query, limit=limit), indent=2)
+        if t == "treaty":
+            from backend.services.search_service import search_treaties
+            return json.dumps(search_treaties(query, limit=limit), indent=2)
+        if t == "quote":
+            return await quote_fetch(keyword=query, limit=limit)
+        if t == "commentary":
+            return _search_commentary(query, limit)
+        if t == "map":
+            return _search_maps(query, limit)
+        if t == "proposed_law":
+            return _search_proposed_law(query, limit)
+        if t == "rg":
+            return _search_rgs(query, limit)
+        return await search_all(query=query, type_filter=_TYPE_FILTER[t], act=act, limit=limit)
 
-
-@mcp.tool(structured_output=False)
-async def search_private_rulings(
-    query: str,
-    outcome: str = "",
-    year: int | None = None,
-    limit: int = 10,
-    cursor: str | None = None,
-) -> str:
-    """Semantic search over ATO private rulings only.
-
-    Fact patterns work best. outcome filters by yes|no|mixed. Each result is a
-    private ruling: applies only to the applicant, not precedent.
-    """
-    return await find_similar_rulings(
-        query=query, limit=min(20, max(1, limit)), outcome=outcome or "", source="private",
-    )
+    out = json.loads(await search_all(query=query, act=act, limit=limit))
+    results = out.get("results", {})
+    if "private_ruling" in want:
+        pr = json.loads(await find_similar_rulings(query=query, limit=min(20, limit), source="private"))
+        results["private_rulings"] = pr.get("results", [])
+    if "insolvency" in want:
+        from backend.services.search_service import search_insolvency
+        results["insolvency"] = search_insolvency(query, limit=limit).get("results", [])
+    if "treaty" in want:
+        from backend.services.search_service import search_treaties
+        results["treaties"] = search_treaties(query, limit=limit).get("results", [])
+    if "quote" in want:
+        qq = json.loads(await quote_fetch(keyword=query, limit=limit))
+        results["quotes"] = qq.get("results", qq if isinstance(qq, list) else [])
+    if "commentary" in want:
+        results["commentary"] = json.loads(_search_commentary(query, limit)).get("results", [])
+    if "map" in want:
+        results["maps"] = json.loads(_search_maps(query, limit)).get("results", [])
+    if "proposed_law" in want:
+        results["proposed_law"] = json.loads(_search_proposed_law(query, limit)).get("results", [])
+    if "rg" in want:
+        results["rgs"] = json.loads(_search_rgs(query, limit)).get("results", [])
+    return json.dumps({"query": query, "results": results}, indent=2)
 
 
 @mcp.tool(structured_output=False)
@@ -3015,7 +3185,9 @@ async def fetch(ref: str, chunk: int = 1) -> str:
     """Return one document by document ID or human citation.
 
     ref examples: 'leg:itaa-1997:8-1', 'TR 2024/1', '[2024] HCA 1',
-    'rg:103', 'dta:usa:7', 'pbr:1051234567890'.
+    'rg:103', 'dta:usa:7', 'pbr:1051234567890',
+    'commentary:master-tax-guide:<topic>', 'map:<slug>', 'insolvency:<chapter>',
+    'proposed_law:<id>', 'quote:<keyword>'.
     """
     ref = (ref or "").strip()
     if not ref:
@@ -3023,6 +3195,21 @@ async def fetch(ref: str, chunk: int = 1) -> str:
     m = _re.match(r"(?i)^leg:([a-z0-9-]+):(.+)$", ref)
     if m:
         return await get_section(act=m.group(1), section=m.group(2))
+    m = _re.match(r"(?i)^commentary:([a-z0-9-]+):(.+)$", ref)
+    if m:
+        return _fetch_commentary(m.group(1), m.group(2))
+    m = _re.match(r"(?i)^map:(.+)$", ref)
+    if m:
+        return _fetch_map(m.group(1))
+    m = _re.match(r"(?i)^insolvency:(\d+)$", ref)
+    if m:
+        return await insolvency_get_chapter(chapter=int(m.group(1)))
+    m = _re.match(r"(?i)^proposed_law:(.+)$", ref)
+    if m:
+        return _fetch_proposed_law(m.group(1))
+    m = _re.match(r"(?i)^quote:(.+)$", ref)
+    if m:
+        return await quote_fetch(keyword=m.group(1), limit=1)
     m = _re.match(r"(?i)^dta:([a-z]+):(\d+)$", ref)
     if m:
         return await get_treaty_article(country=m.group(1).lower(), article=int(m.group(2)))
@@ -3040,8 +3227,8 @@ async def fetch(ref: str, chunk: int = 1) -> str:
         return await get_ruling(citation=f"{m.group(1).upper()} {m.group(2)}/{m.group(3)}")
     return json.dumps({
         "error": f"Cannot parse reference '{ref}'.",
-        "suggestions": ["Use leg:<act>:<section>, dta:<country>:<article>, rg:<n>, "
-                        "pbr:<authnum>, '[YYYY] COURT N', or 'TR 2024/1'."],
+        "suggestions": ["leg:<act>:<section>, commentary:<pub>:<topic>, map:<slug>, insolvency:<chapter>, "
+                        "dta:<country>:<article>, rg:<n>, pbr:<authnum>, '[YYYY] COURT N', or 'TR 2024/1'."],
         "hint": _GET_INFO_HINT,
     }, indent=2)
 
@@ -3054,22 +3241,28 @@ async def outline(
 ) -> str:
     """Structure of a collection or document.
 
-    id=None lists collections (acts + treaty countries). id=<act-slug> returns
-    the act tree (depth: parts|divisions|sections). id=<country> returns treaty
-    articles.
+    id=None lists collections (acts + treaty countries + commentary publications
+    + maps). id=<act-slug> returns the act tree. id=<country> returns treaty
+    articles. id=<commentary-pub> returns commentary chapters. id=<map-slug>
+    returns a map's structure.
     """
     if id is None:
         acts = json.loads(await list_acts())
-        countries = sorted(
-            d.name for d in TREATIES_DIR.iterdir()
-            if d.is_dir() and (d / "tree.json").exists()
-        )
-        return json.dumps(
-            {"collections": {"acts": acts.get("acts", []), "treaties": countries}},
-            indent=2,
-        )
+        countries = sorted(d.name for d in TREATIES_DIR.iterdir() if d.is_dir() and (d / "tree.json").exists())
+        import glob as _glob
+        maps = sorted(Path(p).stem for p in _glob.glob(str(DATA_DIR / "maps" / "*.json")))
+        return json.dumps({
+            "collections": {
+                "acts": acts.get("acts", []),
+                "treaties": countries,
+                "commentary": _COMMENTARY_PUBS,
+                "maps": maps,
+            }
+        }, indent=2)
     if not _re.fullmatch(r"[a-z0-9-]+", id):
         return json.dumps({"error": f"Invalid id '{id}'.", "hint": _GET_INFO_HINT}, indent=2)
+    if id in _COMMENTARY_PUBS:
+        return _commentary_outline(id)
     if (DATA_DIR / id / "tree.json").exists():
         return await get_act_tree(act=id, depth=depth)
     if (TREATIES_DIR / id / "tree.json").exists():
