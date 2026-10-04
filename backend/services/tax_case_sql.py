@@ -197,7 +197,7 @@ def _sql_write(sql: str) -> bool:
         return False
 
 
-def _conn() -> object:
+def _conn():
     """Return a psycopg2 connection to cadena_knowledge via docker exec.
 
     The container must expose port 5432 on localhost, or we connect via
@@ -246,19 +246,34 @@ def _sql_dict(columns: list[str], query: str) -> list[dict[str, Any]]:
     return [_to_dict(columns, row) for row in rows]
 
 
+def _sql_dict_params(columns: list[str], query: str, params: tuple = ()) -> list[dict[str, Any]]:
+    """Run a parameterized SQL query via psycopg2 and return list of dicts.
+
+    All user-supplied values must be passed via `params` (never interpolated
+    into the SQL string).  Prevents SQL injection.
+    """
+    try:
+        with _conn() as conn:
+            with conn.cursor() as cur:
+                cur.execute(query, params)
+                rows = cur.fetchall()
+        return [_to_dict(columns, [str(c) if c is not None else "" for c in row]) for row in rows]
+    except Exception as e:
+        logger.warning(f"SQL (params) query failed: {e}")
+        return []
+
+
 def get_case_sql_data(citation: str) -> dict[str, Any] | None:
     """Fetch SQL-stored data for a case by citation.
 
     Returns None if not found or DB unavailable.
     """
-    # Escape single quotes for SQL
-    safe_citation = citation.replace("'", "''")
-
-    # 1. Find the document
-    docs = _sql_dict(
+    # 1. Find the document (parameterized)
+    docs = _sql_dict_params(
         ["id", "reference", "title", "content_length"],
-        f"SELECT id, reference, title, LENGTH(content) FROM documents "
-        f"WHERE doc_type='case' AND reference = '{safe_citation}' LIMIT 1",
+        "SELECT id, reference, title, LENGTH(content) FROM documents "
+        "WHERE doc_type='case' AND reference = %s LIMIT 1",
+        (citation,),
     )
     if not docs:
         return None

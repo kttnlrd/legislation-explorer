@@ -10,7 +10,7 @@ import logging
 import re
 from typing import Any
 
-from backend.services.tax_case_sql import _sql, _sql_dict
+from backend.services.tax_case_sql import _sql, _sql_dict, _sql_dict_params
 from backend.services.text_cleaner import clean_case_paragraph
 
 logger = logging.getLogger(__name__)
@@ -727,40 +727,42 @@ def search_case_paragraphs(
     Returns:
         Dict with query, citation_filter, total_matches, results.
     """
-    safe_query = _safe(query)
-
     # ── enforce per-mode limits ───────────────────────────────────────────
     if citation:
         limit = min(100, max(1, limit))
     else:
         limit = min(30, max(1, limit))
 
-    # ── build WHERE clauses ───────────────────────────────────────────────
-    wheres = [f"cp.content ILIKE '%{safe_query}%'"]
+    # ── build WHERE clauses (parameterized) ────────────────────────────────
+    wheres = ["cp.content ILIKE %s"]
+    params = [f"%{query}%"]
 
     if citation:
-        safe_cite = _safe(citation)
-        wheres.append(f"c.citation = '{safe_cite}'")
+        wheres.append("c.citation = %s")
+        params.append(citation)
 
     if section_types:
-        escaped = [f"'{_safe(t)}'" for t in section_types if t]
-        if escaped:
-            wheres.append(f"cp.section_type IN ({','.join(escaped)})")
+        st = [t for t in section_types if t]
+        if st:
+            wheres.append("cp.section_type IN (" + ",".join(["%s"] * len(st)) + ")")
+            params.extend(st)
 
     where_clause = " AND ".join(wheres)
+    params_tuple = tuple(params)
 
     # ── count total matches ───────────────────────────────────────────────
-    count_rows = _sql_dict(
+    count_rows = _sql_dict_params(
         ["cnt"],
         f"SELECT COUNT(*) as cnt "
         f"FROM case_paragraphs cp "
         f"JOIN cases c ON c.id = cp.case_id "
         f"WHERE {where_clause}",
+        params_tuple,
     )
     total_matches = count_rows[0]["cnt"] if count_rows else 0
 
     # ── fetch results ─────────────────────────────────────────────────────
-    rows = _sql_dict(
+    rows = _sql_dict_params(
         [
             "citation",
             "case_name",
@@ -781,17 +783,18 @@ def search_case_paragraphs(
         f"WHERE {where_clause} "
         f"ORDER BY c.citation, cp.sequence_order "
         f"LIMIT {limit}",
+        params_tuple,
     )
 
     # Build centred snippets
     snippet_results = []
     for row in rows:
         content = row.get("snippet") or ""
-        idx = content.lower().find(safe_query.lower())
+        idx = content.lower().find(query.lower())
         if idx >= 0:
             window = 150
             start = max(0, idx - window)
-            end = min(len(content), idx + len(safe_query) + window)
+            end = min(len(content), idx + len(query) + window)
             snippet = content[start:end]
             if start > 0:
                 snippet = "..." + snippet.lstrip()

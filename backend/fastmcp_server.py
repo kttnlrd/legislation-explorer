@@ -39,7 +39,7 @@ from backend.services.case_db_service import (
     get_case_metadata,
     get_case_references,
 )
-from backend.services.tax_case_sql import _sql, _sql_dict, _sql_write_params
+from backend.services.tax_case_sql import _sql, _sql_dict, _sql_write_params, _conn
 
 logger = logging.getLogger(__name__)
 
@@ -1519,69 +1519,74 @@ async def search_all(
                 "court": r["court"],
                 "has_summary": True,
             } for r in case_results]
-            # Also search DB for metadata matches
+            # Also search DB for metadata matches (parameterized)
             if len(case_results) < limit:
                 try:
-                    words = query.split()
-                    import subprocess
-                    safe = query.replace("'", "''")
-                    like_clause = " OR ".join(
-                        f"c.case_name ILIKE '%{w}%' OR c.citation ILIKE '%{w}%'"
-                        for w in words
-                    )
-                    r = subprocess.run(
-                        ["docker", "exec", "cadena-postgres", "psql", "-U", "postgres",
-                         "-d", "cadena_knowledge", "-tA",
-                         "-c", f"SELECT c.citation, c.case_name, c.court FROM cases c "
-                               f"WHERE ({like_clause}) ORDER BY c.citation LIMIT {limit};"],
-                        capture_output=True, text=True, timeout=10
-                    )
-                    existing = {c["citation"] for c in case_results}
-                    for line in r.stdout.strip().split("\n"):
-                        if not line.strip():
-                            continue
-                        parts = line.split("|", 2)
-                        cit = parts[0].strip()
-                        if cit in existing:
-                            continue
-                        case_results.append({
-                            "citation": cit,
-                            "case_name": parts[1].strip() if len(parts) > 1 else "",
-                            "court": parts[2].strip() if len(parts) > 2 else "",
-                            "has_summary": False,
-                        })
+                    words = [w for w in query.split() if w][:8]
+                    if words:
+                        clauses = []
+                        params_list = []
+                        for w in words:
+                            clauses.append("(c.case_name ILIKE %s OR c.citation ILIKE %s)")
+                            params_list.extend([f"%{w}%", f"%{w}%"])
+                        like_clause = " OR ".join(clauses)
+                        params_list.append(limit)
+                        existing = {c["citation"] for c in case_results}
+                        with _conn() as _c:
+                            with _c.cursor() as _cur:
+                                _cur.execute(
+                                    f"SELECT c.citation, c.case_name, c.court FROM cases c "
+                                    f"WHERE ({like_clause}) ORDER BY c.citation LIMIT %s",
+                                    tuple(params_list),
+                                )
+                                for cit, name, court in _cur.fetchall():
+                                    if cit in existing:
+                                        continue
+                                    case_results.append({
+                                        "citation": cit,
+                                        "case_name": name or "",
+                                        "court": court or "",
+                                        "has_summary": False,
+                                    })
                 except Exception:
                     pass
             results["cases"] = case_results[:limit]
         except Exception:
             results["cases"] = []
 
-    # Commentary — search FTS5 commentary index
+    # Commentary — search FTS5 commentary index (parameterized)
     if type_filter is None or type_filter == "commentary":
         try:
             with search_conn() as conn:
-                words = query.lower().split()
-                like_clause = " AND ".join(
-                    f"(publication ILIKE '%{w}%' OR chapter_title ILIKE '%{w}%' "
-                    f"OR heading_title ILIKE '%{w}%' OR content ILIKE '%{w}%')"
-                    for w in words
-                )
-                rows = conn.execute(
-                    f"SELECT publication, chapter_number, chapter_title, "
-                    f"heading_title, paragraph_number, content "
-                    f"FROM commentary_index WHERE {like_clause} LIMIT ?",
-                    (limit,)
-                ).fetchall()
-                commentary_results = []
-                for row in rows:
-                    commentary_results.append({
-                        "publication": row[0],
-                        "chapter": row[1],
-                        "chapter_title": row[2],
-                        "heading": row[3],
-                        "paragraph": row[4],
-                    })
-                results["commentary"] = commentary_results
+                words = [w for w in query.lower().split() if w][:8]
+                if not words:
+                    results["commentary"] = []
+                else:
+                    clauses = []
+                    params_list = []
+                    for w in words:
+                        clauses.append(
+                            "(publication LIKE ? OR chapter_title LIKE ? "
+                            "OR heading_title LIKE ? OR content LIKE ?)"
+                        )
+                        params_list.extend([f"%{w}%"] * 4)
+                    like_clause = " AND ".join(clauses)
+                    rows = conn.execute(
+                        f"SELECT publication, chapter_number, chapter_title, "
+                        f"heading_title, paragraph_number, content "
+                        f"FROM commentary_index WHERE {like_clause} LIMIT ?",
+                        tuple(params_list + [limit]),
+                    ).fetchall()
+                    commentary_results = []
+                    for row in rows:
+                        commentary_results.append({
+                            "publication": row[0],
+                            "chapter": row[1],
+                            "chapter_title": row[2],
+                            "heading": row[3],
+                            "paragraph": row[4],
+                        })
+                    results["commentary"] = commentary_results
         except Exception:
             results["commentary"] = []
 
@@ -1611,40 +1616,37 @@ async def search_cases(query: str, limit: int = 20) -> str:
     from backend.services.search_service import search_cases_fts
     results = search_cases_fts(query, limit * 2)
 
-    # Also search PostgreSQL for cases with metadata but no summary
+    # Also search PostgreSQL for cases with metadata but no summary (parameterized)
     if len(results) < limit * 2:
-        safe = query.replace("'", "''")
         try:
-            import subprocess
-            like_clause = " OR ".join(
-                f"c.case_name ILIKE '%{w}%' OR c.citation ILIKE '%{w}%'"
-                for w in words
-            )
-            r = subprocess.run(
-                ["docker", "exec", "cadena-postgres", "psql", "-U", "postgres",
-                 "-d", "cadena_knowledge", "-tA",
-                 "-c", f"SELECT c.citation, c.case_name, c.court FROM cases c "
-                       f"WHERE ({like_clause}) ORDER BY c.citation LIMIT {limit};"],
-                capture_output=True, text=True, timeout=10
-            )
-            for line in r.stdout.strip().split("\n"):
-                if not line.strip():
-                    continue
-                parts = line.split("|", 2)
-                cit = parts[0].strip()
-                name = parts[1].strip() if len(parts) > 1 else ""
-                court = parts[2].strip() if len(parts) > 2 else ""
-                if any(r["citation"] == cit for r in results):
-                    continue
-                from urllib.parse import quote
-                results.append({
-                    "citation": cit,
-                    "case_name": name,
-                    "court": court,
-                    "year": cit[1:5] if cit.startswith("[") else "",
-                    "has_summary": False,
-                    "html_url": f"https://legislation.scriptkitty.yachts/tax-cases/{quote(cit)}",
-                })
+            words = [w for w in query.split() if w][:8]
+            if words:
+                clauses = []
+                params_list = []
+                for w in words:
+                    clauses.append("(c.case_name ILIKE %s OR c.citation ILIKE %s)")
+                    params_list.extend([f"%{w}%", f"%{w}%"])
+                like_clause = " OR ".join(clauses)
+                params_list.append(limit)
+                with _conn() as _c:
+                    with _c.cursor() as _cur:
+                        _cur.execute(
+                            f"SELECT c.citation, c.case_name, c.court FROM cases c "
+                            f"WHERE ({like_clause}) ORDER BY c.citation LIMIT %s",
+                            tuple(params_list),
+                        )
+                        for cit, name, court in _cur.fetchall():
+                            if any(r["citation"] == cit for r in results):
+                                continue
+                            from urllib.parse import quote
+                            results.append({
+                                "citation": cit,
+                                "case_name": name or "",
+                                "court": court or "",
+                                "year": cit[1:5] if cit.startswith("[") else "",
+                                "has_summary": False,
+                                "html_url": f"https://legislation.scriptkitty.yachts/tax-cases/{quote(cit)}",
+                            })
         except Exception:
             pass
 
@@ -2581,13 +2583,19 @@ async def report_issue(
         raw_hash = str(category)
     param_hash = hashlib.sha256(raw_hash.encode("utf-8")).hexdigest()[:16]
 
-    # ── check for existing duplicate ───────────────────────────────────────
-    dupes = _sql_dict(
-        ["id", "ticket", "status"],
-        f"SELECT id, ticket, status FROM issues "
-        f"WHERE param_hash = '{param_hash}' AND category = '{category}' "
-        f"AND status IN ('open', 'known')",
-    )
+    # ── check for existing duplicate (parameterized) ───────────────────────
+    dupes = []
+    try:
+        with _conn() as _c:
+            with _c.cursor() as _cur:
+                _cur.execute(
+                    "SELECT id, ticket, status FROM issues "
+                    "WHERE param_hash = %s AND category = %s AND status IN ('open', 'known')",
+                    (param_hash, category),
+                )
+                dupes = [{"id": r[0], "ticket": r[1], "status": r[2]} for r in _cur.fetchall()]
+    except Exception:
+        dupes = []
     if dupes:
         existing = dupes[0]
         _sql_write_params(
@@ -2600,32 +2608,27 @@ async def report_issue(
             "duplicate_of": existing["ticket"],
         })
 
-    # ── compute next ticket number (insert-first via docker exec, then derive from id) ─────
+    # ── insert (parameterized) ─────────────────────────────────────────────
     import uuid
     placeholder = f"PH_{uuid.uuid4().hex[:12]}"
     params_val = json.dumps(params, default=str) if isinstance(params, (dict, list)) else params
 
-    # Escape values for safe SQL interpolation (docker exec psql, not psycopg2)
-    def _sqlesc(v):
-        if v is None: return "NULL"
-        return "'" + str(v).replace("'", "''") + "'"
-
-    insert_sql = (
+    ok = _sql_write_params(
         "INSERT INTO issues (ticket, category, tool, params, param_hash, expected, actual, note, "
-        "server_ver, compilation, created, status, known_note, hits, fixed) VALUES ("
-        f"{_sqlesc(placeholder)}, {_sqlesc(category)}, {_sqlesc(tool)}, {_sqlesc(params_val)}, "
-        f"{_sqlesc(param_hash)}, {_sqlesc(expected)}, {_sqlesc(actual)}, {_sqlesc(note)}, "
-        f"{_sqlesc(VERSION)}, NULL, NOW(), 'open', NULL, 1, NULL)"
+        "server_ver, compilation, created, status, known_note, hits, fixed) VALUES "
+        "(%s, %s, %s, %s, %s, %s, %s, %s, %s, NULL, NOW(), 'open', NULL, 1, NULL)",
+        (placeholder, category, tool, params_val, param_hash, expected, actual, note, VERSION),
     )
-    _sql(insert_sql)
+    if not ok:
+        return json.dumps({"error": "Failed to create issue ticket"})
 
     id_rows = _sql_dict(["new_id"], "SELECT MAX(id) AS new_id FROM issues")
     if not id_rows or not id_rows[0].get("new_id"):
         return json.dumps({"error": "Failed to create issue ticket"})
     new_id = id_rows[0]["new_id"]
     ticket = f"CDN-{new_id:04d}"
-    _sql(f"UPDATE issues SET ticket = {_sqlesc(ticket)} WHERE id = {new_id}")
-    _sql(f"DELETE FROM issues WHERE ticket = {_sqlesc(placeholder)}")
+    _sql_write_params("UPDATE issues SET ticket = %s WHERE id = %s", (ticket, new_id))
+    _sql_write_params("DELETE FROM issues WHERE ticket = %s", (placeholder,))
 
     return json.dumps({
         "ticket": ticket,

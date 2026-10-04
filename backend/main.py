@@ -75,7 +75,7 @@ async def lifespan(app: FastAPI):
         yield
 
 
-app = FastAPI(title="Legislation Explorer", lifespan=lifespan)
+app = FastAPI(title="Legislation Explorer", lifespan=lifespan, docs_url=None, redoc_url=None, openapi_url=None)
 
 # CORS
 app.add_middleware(
