@@ -29,6 +29,8 @@ _ids: np.ndarray | None = None
 _matrix: np.ndarray | None = None
 _loaded_signature: tuple[float, int] | None = None
 _meta: dict[int, tuple] | None = None
+_row_act: np.ndarray | None = None
+_row_source_type: np.ndarray | None = None
 
 # Load API key from .hermes/.env
 _env_path = Path("/home/harrison/.hermes/.env")
@@ -50,7 +52,7 @@ def load() -> None:
     otherwise need ~1.7GB just for the matrix and OOM the 1.5GB cgroup).
     If the DB has grown past the snapshot, rebuild it first (self-heal).
     """
-    global _ids, _matrix, _meta, _loaded_signature
+    global _ids, _matrix, _meta, _loaded_signature, _row_act, _row_source_type
 
     def _build() -> None:
         logger.info("Vector matrix snapshot stale — rebuilding via %s", BUILD_SCRIPT.name)
@@ -82,6 +84,26 @@ def load() -> None:
     _matrix = np.load(MATRIX_FILE, mmap_mode="r")
     with open(META_FILE, "rb") as f:
         _meta = pickle.load(f)
+
+    row_act = np.empty(_ids.shape[0], dtype=object)
+    row_source_type = np.empty(_ids.shape[0], dtype=object)
+    for i, eid in enumerate(_ids):
+        source_type, m_act, _m_section, _m_title, _m_text = _meta[int(eid)]
+        source_type = source_type or "section"
+        if source_type == "case":
+            act = "tax-cases"
+        elif source_type == "ruling" and m_act == "private":
+            source_type = "private_ruling"
+            act = "private-rulings"
+        elif source_type == "ruling":
+            act = "rulings"
+        else:
+            act = m_act
+        row_act[i] = act
+        row_source_type[i] = source_type
+    _row_act = row_act
+    _row_source_type = row_source_type
+
     _loaded_signature = _current_signature()
     logger.info("Vector search loaded: %d embeddings (1536-dim, mmap)", _ids.shape[0])
 
@@ -149,12 +171,29 @@ def get_cross_references(embedding_id: int) -> list[dict]:
     return [dict(r) for r in rows]
 
 
-def search(query: str, limit: int = 50) -> list[dict]:
-    """Embed the query and return the top-K nearest chunks by cosine similarity."""
+def search(query: str, limit: int = 50, acts: set[str] | None = None,
+           source_types: set[str] | None = None) -> list[dict]:
+    """Embed the query and return the top-K nearest chunks by cosine similarity.
+
+    Scope filters (acts, source_types) are applied as a mask BEFORE the top-K
+    cut, so a scoped query ranks only within the requested subset.
+    """
     _ensure_loaded()
+    if _ids is None or _matrix is None:
+        return []
     query_vec = embed_query(query)
     scores = _matrix @ query_vec
+
+    if acts or source_types:
+        mask = np.ones(scores.shape[0], dtype=bool)
+        if acts:
+            mask &= np.isin(_row_act, list(acts))
+        if source_types:
+            mask &= np.isin(_row_source_type, list(source_types))
+        scores = np.where(mask, scores, -np.inf)
+
     top_idx = np.argsort(-scores)[:limit]
+    top_idx = top_idx[np.isfinite(scores[top_idx])]
 
     results = []
     for idx in top_idx:

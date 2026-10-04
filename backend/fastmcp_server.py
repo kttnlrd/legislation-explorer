@@ -1461,6 +1461,59 @@ async def get_definition(act: str, term: str) -> str:
 
 
 # @mcp.tool(structured_output=False)
+RRF_K = 60
+
+
+def _hybrid_sections(query: str, act: str | None, limit: int) -> list[dict]:
+    """Blend BM25 (FTS5) and semantic (vector) section ranking via RRF.
+
+    Keyword search alone ranks by literal phrase frequency and buries the
+    conceptually-central provisions (e.g. "capital gains" -> roll-over and
+    friendly-society sections instead of s 100-35 / s 102-5). The section
+    embeddings already in data/embeddings.db carry the semantic signal, so
+    fusing the two ranked lists fixes ranking with no new index to build.
+    """
+    n = max(limit, 20)
+    fts = fts_search(query, act, limit=n).get("results", [])
+    try:
+        from backend.services import vector_search_service as _vss
+        vec = _vss.search(
+            query, limit=n,
+            acts={act} if act else None,
+            source_types={"section"},
+        )
+    except Exception:
+        vec = []
+
+    if not vec:
+        return fts[:limit]
+
+    scores: dict[tuple[str, str], float] = {}
+    merged: dict[tuple[str, str], dict] = {}
+
+    for rank, r in enumerate(fts):
+        key = (str(r.get("act", "")), str(r.get("section", "")))
+        scores[key] = scores.get(key, 0.0) + 1.0 / (RRF_K + rank + 1)
+        merged.setdefault(key, r)
+
+    for rank, v in enumerate(vec):
+        key = (str(v.get("act", "")), str(v.get("section", "")))
+        scores[key] = scores.get(key, 0.0) + 1.0 / (RRF_K + rank + 1)
+        if key not in merged:
+            merged[key] = {
+                "act": v.get("act"),
+                "section": v.get("section"),
+                "title": v.get("title") or "",
+                "part": None,
+                "division": None,
+                "snippet": v.get("snippet") or "",
+                "rank": None,
+            }
+
+    ranked = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
+    return [merged[k] for k, _ in ranked[:limit]]
+
+
 async def search_all(
     query: str,
     type_filter: str | None = None,
@@ -1488,8 +1541,7 @@ async def search_all(
     # Sections
     if type_filter is None or type_filter == "section":
         try:
-            sec_results = fts_search(query, act, limit=limit)
-            results["sections"] = sec_results.get("results", [])
+            results["sections"] = _hybrid_sections(query, act, limit)
         except Exception:
             results["sections"] = []
 
