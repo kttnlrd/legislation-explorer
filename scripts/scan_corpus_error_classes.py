@@ -926,8 +926,16 @@ NON_LATIN_SCRIPTS = {
     # Latin + combining marks (OECD and NZ Maori macrons: "Tāwhirimātea") are NOT in these
     # blocks, so macrons cannot fire. The Arabic block stops at U+FEFF: it is the BOM and is
     # reported by C23 as an invisible character, not as Arabic.
+    #
+    # Greek is DELIBERATELY ABSENT (removed 2026-10-05, CDN-0217). Every Greek occurrence the
+    # corpus has ever produced is legitimate notation, not script corruption: Σ the summation
+    # symbol in tax formulas (nz-it-2007 EC-17/EZ-4B/FP-24, the 122A/122-60 rollover maps),
+    # π the constant in a ruling's frustum-volume formula (TR 95/36), and α/β in the protein
+    # names β-lactoglobulin / α-lactalbumin in a derived case summary (2025_FCA_270). Cyrillic
+    # was the real mojibake (the 1,370 CP866 "тАв" triplets) and stays; Greek-only "corruption"
+    # has never been observed, and a detector that fires on summation signs would condemn every
+    # formula in the corpus the way a macron detector would condemn the OECD guides.
     "cyrillic": re.compile(r"[\u0400-\u04FF\u0500-\u052F]"),
-    "greek": re.compile(r"[\u0370-\u03FF\u1F00-\u1FFF]"),
     "cjk": re.compile(r"[\u3040-\u30FF\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF]"),
     "arabic": re.compile(r"[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFE]"),
     "hebrew": re.compile(r"[\u0590-\u05FF\uFB1D-\uFB4F]"),
@@ -1026,8 +1034,6 @@ def scan_character_classes(root=None):
                 continue
             table_row = line.lstrip().startswith("|")
             for script, rx in NON_LATIN_SCRIPTS.items():
-                if script == "greek" and in_fence:
-                    continue              # Greek inside a formula fence is maths, not a field
                 found = rx.findall(line)
                 if found:
                     key = ("C20_non_latin_script", script)
