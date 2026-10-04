@@ -2025,7 +2025,7 @@ async def get_info() -> str:
     }, indent=2)
 
 
-# @mcp.tool(structured_output=False)
+@mcp.tool(structured_output=False)
 async def standards(topic: str | None = None) -> str:
     """Return Cadena Legal standards for a topic, or list of topics."""
     STANDARDS_DIR = Path(__file__).parent.parent / "standards"
@@ -2634,7 +2634,7 @@ async def report_issue(
     })
 
 
-# @mcp.tool(structured_output=False)
+@mcp.tool(structured_output=False)
 async def list_issues(
     status: str | None = None,
     tool: str | None = None,
@@ -2801,7 +2801,7 @@ async def graph_path(from_key: str, to_key: str, max_hops: int = 10) -> str:
 
 # ────────────────────────── quoting tool (standalone) ──────────────────────────
 
-# @mcp.tool(structured_output=False)
+@mcp.tool(structured_output=False)
 async def quote_info() -> str:
     """List all quotes (title, date, text) plus the library's style rules.
 
@@ -2825,7 +2825,7 @@ async def quote_fetch(keyword: str = "", limit: int = 10, offset: int = 0) -> st
     return json.dumps(_quote_fetch(keyword, limit=limit, offset=offset), indent=2)
 
 
-# @mcp.tool(structured_output=False)
+@mcp.tool(structured_output=False)
 async def quote_save(title: str, date: str, text: str, names: list[str] | None = None,
                      tag: str | None = None, cost: str | None = None,
                      currency: str | None = None, terms: str | None = None,
@@ -2880,7 +2880,7 @@ async def proposed_law_list() -> str:
     return json.dumps({"items": list(reversed(load_items()))}, indent=2)
 
 
-# @mcp.tool(structured_output=False)
+@mcp.tool(structured_output=False)
 async def proposed_law_add(title: str, summary: str = "", status: str = "announced",
                            measure_type: str = "other", announced_date: str | None = None,
                            source_url: str | None = None, notes: str = "",
@@ -2924,7 +2924,7 @@ async def proposed_law_add(title: str, summary: str = "", status: str = "announc
     return json.dumps({"ok": True, "item": item}, indent=2)
 
 
-# @mcp.tool(structured_output=False)
+@mcp.tool(structured_output=False)
 async def proposed_law_update(item_id: str, status: str | None = None,
                               measure_type: str | None = None, summary: str | None = None,
                               notes: str | None = None, source_url: str | None = None,
