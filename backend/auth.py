@@ -71,7 +71,22 @@ def decode_session_token(token: str) -> dict[str, Any] | None:
 
 # ── Gated paths (require login to access) ────────────────────────────────────
 
-GATED_PREFIXES = {"/api/cadena/", "/mcp/cadena/"}
+GATED_PREFIXES = {
+    "/api/cadena/",
+    "/mcp/cadena/",
+    # Premium / internal-only Cadena IP — must not be reachable unauthenticated
+    # (firm pricing, procedural maps, CCH commentary, Keays insolvency, private
+    # rulings, proposed law, ATO legal database, internal issue queue).
+    "/api/private-rulings",
+    "/api/private-ruling",
+    "/api/quotes",
+    "/api/maps",
+    "/api/ato",
+    "/api/proposed-law",
+    "/api/commentary",
+    "/api/insolvency",
+    "/api/issues",
+}
 
 # ── Auth routes ──────────────────────────────────────────────────────────────
 
