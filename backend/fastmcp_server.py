@@ -1586,11 +1586,11 @@ async def search_all(
     - type_filter: Optional — 'section', 'case', 'ruling', 'private_ruling', or 'commentary'
                    to restrict results to one content type
     - act: Optional — restrict to a specific act (e.g. 'itaa-1997')
-    - limit: Max results per content type (default 20, max 50)
+    - limit: Max results per content type (default 20, honoured as requested)
 
     Returns grouped results by type with snippets and metadata.
     """
-    limit = min(50, max(1, limit))
+    limit = max(1, limit)
     query = query.strip()
     if not query:
         return json.dumps({"error": "Query required", "results": {}, "hint": _GET_INFO_HINT})
@@ -1806,7 +1806,7 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
     Parameters:
     - query: a fact pattern, e.g. "contractor vs employee software developer
       home office" or "CGT main residence exemption deceased estate"
-    - limit: max results (default 10, max 20)
+    - limit: max results (default 10, honoured as requested)
     - outcome: filter private rulings by outcome label — yes | no | mixed
       (empty = no filter). 'no' answers = likely adverse ATO positions on the
       fact pattern (useful for objections); 'yes' = favourable positions.
@@ -1815,7 +1815,7 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
     Returns each match's citation, title, date, score, snippet, ato_url and
     download_url links, and for private rulings the QA pairs and outcome label.
     """
-    limit = min(20, max(1, limit))
+    limit = max(1, limit)
     query = query.strip()
     if not query:
         return json.dumps({"total": 0, "results": [], "note": "Query required"})
@@ -3257,7 +3257,7 @@ async def search(
         offset = int(cursor) if cursor and str(cursor).isdigit() else 0
         return json.dumps(search_by_reference(sec, limit=limit, offset=offset), indent=2)
 
-    limit = min(50, max(1, limit))
+    limit = max(1, limit)
     _VALID = {"legislation", "case", "ruling", "private_ruling", "treaty", "rg",
               "commentary", "map", "insolvency", "quote", "proposed_law"}
     want = [t for t in (types or []) if t in _VALID]
@@ -3269,7 +3269,7 @@ async def search(
     if len(want) == 1:
         t = want[0]
         if t == "private_ruling":
-            return await find_similar_rulings(query=query, limit=min(20, limit), source="private")
+            return await find_similar_rulings(query=query, limit=limit, source="private")
         if t == "insolvency":
             from backend.services.search_service import search_insolvency
             return json.dumps(search_insolvency(query, limit=limit), indent=2)
@@ -3291,7 +3291,7 @@ async def search(
     out = json.loads(await search_all(query=query, act=act, limit=limit))
     results = out.get("results", {})
     if "private_ruling" in want:
-        pr = json.loads(await find_similar_rulings(query=query, limit=min(20, limit), source="private"))
+        pr = json.loads(await find_similar_rulings(query=query, limit=limit, source="private"))
         results["private_rulings"] = pr.get("results", [])
     if "insolvency" in want:
         from backend.services.search_service import search_insolvency
