@@ -28,7 +28,7 @@ import MapView from './components/MapView'
 import IssuesModal from './components/IssuesModal'
 import SearchPanel from './components/SearchPanel'
 import PenroseLogo from './components/PenroseLogo'
-import TessellationLoader from './components/TessellationLoader'
+import CadenaLoader from './components/CadenaLoader'
 import TreatyContent from './components/TreatyContent'
 import { ThemeProvider } from './ThemeContext'
 import { shortActName, rulingSlug } from './utils/display'
@@ -366,24 +366,16 @@ export default function App() {
   const [user, setUser] = useState<any>(null)
   const [authLoading, setAuthLoading] = useState(true)
   const [booted, setBooted] = useState(false)
-  const [bootHidden, setBootHidden] = useState(false)
 
   useEffect(() => {
     api.info().then(setAppInfo).catch(() => {})
   }, [])
 
-  // Fixed 2.5s boot splash — the tessellation always shows for 2.5s, then fades
+  // Fixed 2.5s boot splash — the Cadena loader always shows for 2.5s, then fades
   useEffect(() => {
     const id = setTimeout(() => setBooted(true), 2500)
     return () => clearTimeout(id)
   }, [])
-
-  // Keep the splash mounted through its opacity fade, then unmount it
-  useEffect(() => {
-    if (!booted) return
-    const id = setTimeout(() => setBootHidden(true), 420)
-    return () => clearTimeout(id)
-  }, [booted])
 
   useEffect(() => {
     fetch('/auth/me')
@@ -893,21 +885,8 @@ export default function App() {
         ::-webkit-scrollbar-thumb:hover { background: ${COLORS.textMuted}; }
         * { scrollbar-width: thin; scrollbar-color: ${COLORS.border} transparent; }
       `}</style>
-      {/* Boot splash — tessellation overlay, fades out once appInfo resolves (or after ~1.6s) */}
-      {!bootHidden && (
-        <div
-          style={{
-            position: 'fixed', inset: 0, zIndex: 9999,
-            background: 'var(--color-bg,#0a1214)',
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
-            opacity: booted ? 0 : 1,
-            transition: 'opacity 400ms ease',
-            pointerEvents: booted ? 'none' : 'auto',
-          }}
-        >
-          <TessellationLoader />
-        </div>
-      )}
+      {/* Boot splash — Cadena loader overlay; fades out and removes itself at ~2.5s */}
+      <CadenaLoader done={booted} />
       {routeSync}
       <div style={{ display: 'flex', height: '100vh', background: 'var(--color-desktop, var(--color-bg))' }}>
       <>
