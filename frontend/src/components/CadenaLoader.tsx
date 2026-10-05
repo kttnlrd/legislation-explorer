@@ -171,7 +171,7 @@ export default function CadenaLoader({ done }: { done: boolean }) {
         id="loader"
         role="img"
         aria-label="Loading: Penrose triangle pattern resolving into the Cadena triangle"
-        style={{ position: 'fixed', inset: 0, width: '100%', height: '100%', display: 'block' }}
+        style={{ position: 'fixed', inset: 0, width: '100%', height: '100%', display: 'block', zIndex: 9999 }}
       />
     </>
   )
