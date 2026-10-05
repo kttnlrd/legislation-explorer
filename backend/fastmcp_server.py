@@ -3235,6 +3235,7 @@ async def search(
     status: str = "current",
     limit: int = 10,
     cursor: str | None = None,
+    references: str | None = None,
 ) -> str:
     """Hybrid search across the full corpus.
 
@@ -3242,7 +3243,20 @@ async def search(
     rg, commentary, map, insolvency, quote, proposed_law
     (default: legislation, case, ruling). private_ruling uses semantic
     fact-pattern matching; the rest are keyword. Find IDs here, then fetch.
+
+    references: completeness search for a provision, e.g. "itaa-1936:26AH" or
+    "26AH" — returns EVERY public + private ruling that cites it (with total +
+    next_cursor). This is the reliable way to find "all rulings on s X";
+    pass it instead of query/types when that is what you want.
     """
+    if references:
+        from backend.services.search_service import search_by_reference
+        ref = references.strip()
+        sec = ref.split(":", 1)[-1] if ":" in ref else ref
+        sec = _re.sub(r"\(.*\)$", "", sec).strip()
+        offset = int(cursor) if cursor and str(cursor).isdigit() else 0
+        return json.dumps(search_by_reference(sec, limit=limit, offset=offset), indent=2)
+
     limit = min(50, max(1, limit))
     _VALID = {"legislation", "case", "ruling", "private_ruling", "treaty", "rg",
               "commentary", "map", "insolvency", "quote", "proposed_law"}

@@ -783,6 +783,90 @@ def search_private_rulings_fts(q: str, limit: int = 20, operator: str = "AND") -
     return results
 
 
+def search_by_reference(sec: str, limit: int = 50, offset: int = 0) -> dict:
+    """Completeness search: every public + private ruling citing a provision.
+
+    Matches the section token (e.g. '26AH', '106-60', '995-1') as a standalone
+    reference inside the ruling body / legislation references — across BOTH
+    ruling tables — with a total count and offset pagination. This is the
+    reliable path for "find all rulings on s 26AH" (the graph lacks public
+    ruling -> section edges, so keyword-on-text is the complete source).
+    """
+    sec = (sec or "").strip()
+    empty = {"section": sec, "total": 0, "public_total": 0,
+             "private_total": 0, "results": [], "next_cursor": None}
+    if not sec:
+        return empty
+    if len(sec) < 2:
+        # A bare single char matches far too broadly to be a useful reference.
+        return empty
+
+    import re as _re
+    bound = _re.compile(r"(?<![0-9A-Za-z])" + _re.escape(sec) + r"(?![0-9A-Za-z])")
+    like = f"%{sec}%"
+
+    try:
+        with search_conn() as conn:
+            pub_rows = conn.execute(
+                "SELECT r.citation, r.title, m.year, r.content FROM rulings_fts r "
+                "JOIN rulings_meta m ON r.citation = m.citation "
+                "WHERE r.content LIKE ? LIMIT 5000", (like,)
+            ).fetchall()
+            pri_rows = conn.execute(
+                "SELECT r.authnum, r.name, m.year, r.content FROM private_rulings_fts r "
+                "JOIN private_rulings_meta m ON r.authnum = m.authnum "
+                "WHERE r.content LIKE ? LIMIT 5000", (like,)
+            ).fetchall()
+    except Exception:
+        logger.exception("search_by_reference failed")
+        return empty
+
+    def _snippet(content: str, m) -> str:
+        s = max(0, m.start() - 60)
+        return (content[s:m.end() + 60] or "").strip()
+
+    public = []
+    for citation, title, year, content in pub_rows:
+        m = bound.search(content or "")
+        if not m:
+            continue
+        public.append({
+            "type": "ruling",
+            "citation": citation,
+            "title": title or citation,
+            "year": year,
+            "snippet": _snippet(content or "", m),
+        })
+
+    private = []
+    for authnum, name, year, content in pri_rows:
+        m = bound.search(content or "")
+        if not m:
+            continue
+        private.append({
+            "type": "private_ruling",
+            "auth_number": authnum,
+            "label": name or authnum,
+            "year": year,
+            "snippet": _snippet(content or "", m),
+        })
+
+    combined = public + private
+    total = len(combined)
+    page = combined[offset:offset + limit]
+    next_cursor = str(offset + limit) if offset + limit < total else None
+    return {
+        "section": sec,
+        "total": total,
+        "public_total": len(public),
+        "private_total": len(private),
+        "count": len(page),
+        "results": page,
+        "next_cursor": next_cursor,
+        "truncated": next_cursor is not None,
+    }
+
+
 def search_rulings(q: str, limit: int = 20, operator: str = "AND") -> list[dict]:
     """Search rulings using FTS5 BM25 ranking with exact-match boost."""
     tokens = q.split()
