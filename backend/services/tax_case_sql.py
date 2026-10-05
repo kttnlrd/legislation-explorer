@@ -9,6 +9,7 @@ import json
 import logging
 import subprocess
 import threading
+from contextlib import closing
 from typing import Any
 
 import psycopg2
@@ -230,7 +231,7 @@ def _sql_write_params(sql: str, params: tuple = ()) -> bool:
     Returns True on success, False on failure.
     """
     try:
-        with _conn() as conn:
+        with closing(_conn()) as conn:
             with conn.cursor() as cur:
                 cur.execute(sql, params)
             conn.commit()
@@ -253,7 +254,7 @@ def _sql_dict_params(columns: list[str], query: str, params: tuple = ()) -> list
     into the SQL string).  Prevents SQL injection.
     """
     try:
-        with _conn() as conn:
+        with closing(_conn()) as conn:
             with conn.cursor() as cur:
                 cur.execute(query, params)
                 rows = cur.fetchall()

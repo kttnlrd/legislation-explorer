@@ -39,7 +39,7 @@ from backend.services.case_db_service import (
     get_case_metadata,
     get_case_references,
 )
-from backend.services.tax_case_sql import _sql, _sql_dict, _sql_write_params, _conn
+from backend.services.tax_case_sql import _sql, _sql_dict, _sql_dict_params, _sql_write_params, _conn
 
 logger = logging.getLogger(__name__)
 
@@ -149,6 +149,26 @@ import json
 from backend.oauth_provider import provider as oauth_provider
 
 
+def token_ok(token: str) -> bool:
+    """Return True if `token` is a valid MCP/REST API token.
+
+    Checks, in order: the token manager (per-connector tokens), the static
+    MCP_AUTH_TOKEN / LEGISLATION_BEARER_TOKEN env vars, then OAuth access
+    tokens. Shared by MCPAuthMiddleware and the REST token gate in
+    backend/auth.py so both accept exactly the same credentials.
+    """
+    if not token:
+        return False
+    if token_manager.validate_token(token):
+        return True
+    mcp_auth_token = os.environ.get("MCP_AUTH_TOKEN", "") or os.environ.get("LEGISLATION_BEARER_TOKEN", "")
+    if mcp_auth_token and token == mcp_auth_token:
+        return True
+    if oauth_provider.load_access_token(token):
+        return True
+    return False
+
+
 class MCPAuthMiddleware(BaseHTTPMiddleware):
     """Token auth + rate limiting for MCP endpoints.
 
@@ -214,16 +234,8 @@ class MCPAuthMiddleware(BaseHTTPMiddleware):
             return Response("Missing token", status_code=401,
                             headers={"WWW-Authenticate": "Bearer"})
 
-        if not token_manager.validate_token(token):
-            # Fallback: try static MCP_AUTH_TOKEN from env
-            mcp_auth_token = os.environ.get("MCP_AUTH_TOKEN", "") or os.environ.get("LEGISLATION_BEARER_TOKEN", "")
-            if mcp_auth_token and token == mcp_auth_token:
-                pass  # valid
-            else:
-                # Fallback: try OAuth access token
-                oauth_data = oauth_provider.load_access_token(token)
-                if not oauth_data:
-                    return Response("Invalid or revoked token", status_code=403)
+        if not token_ok(token):
+            return Response("Invalid or revoked token", status_code=403)
 
         allowed, reason = token_manager.check_rate_limit(token)
         if not allowed:
@@ -2753,19 +2765,24 @@ async def list_issues(
         JSON array of issues with ticket, category, tool, status, hits,
         fixed (patch note), and note fields.
     """
-    where_parts = []
+    where_parts: list[str] = []
+    params: list[object] = []
     if status:
-        where_parts.append(f"status = '{status.replace(chr(39), chr(39)+chr(39))}'")
+        where_parts.append("status = %s")
+        params.append(status)
     if tool:
-        where_parts.append(f"tool = '{tool.replace(chr(39), chr(39)+chr(39))}'")
+        where_parts.append("tool = %s")
+        params.append(tool)
     where = "WHERE " + " AND ".join(where_parts) if where_parts else ""
 
-    rows = _sql_dict(
+    params.append(min(max(1, int(limit)), 200))
+    rows = _sql_dict_params(
         ["ticket", "category", "tool", "status", "hits",
          "fixed", "note", "created"],
         f"SELECT ticket, category, tool, status, hits, "
         f"fixed, LEFT(COALESCE(note, ''), 200)::text, created "
-        f"FROM issues {where} ORDER BY id DESC LIMIT {min(max(1, limit), 200)}",
+        f"FROM issues {where} ORDER BY id DESC LIMIT %s",
+        tuple(params),
     )
 
     return json.dumps({

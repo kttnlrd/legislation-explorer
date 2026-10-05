@@ -83,7 +83,7 @@ app.add_middleware(
     allow_origins=ALLOWED_ORIGINS,
     allow_credentials=True,
     allow_methods=["GET", "POST"],
-    allow_headers=["Authorization", "Content-Type"],
+    allow_headers=["Authorization", "Content-Type", "X-API-Key"],
 )
 
 # GZip compression for large JSON payloads
@@ -95,6 +95,17 @@ app.add_middleware(MetricsMiddleware)
 
 # Rate limiting (on by default, disable with RATE_LIMIT_ENABLED=false)
 app.add_middleware(RateLimitMiddleware, enabled=os.environ.get("RATE_LIMIT_ENABLED", "true").lower() == "true")
+
+
+# Security headers on every response
+@app.middleware("http")
+async def security_headers_middleware(request: Request, call_next):
+    response = await call_next(request)
+    response.headers.setdefault("X-Content-Type-Options", "nosniff")
+    response.headers.setdefault("X-Frame-Options", "DENY")
+    response.headers.setdefault("Referrer-Policy", "strict-origin-when-cross-origin")
+    response.headers.setdefault("Strict-Transport-Security", "max-age=31536000")
+    return response
 
 # ---------------------------------------------------------------------------
 # Microsoft Entra ID SSO auth
@@ -138,19 +149,61 @@ if os.environ.get("AZURE_CLIENT_ID"):
 # ---------------------------------------------------------------------------
 
 if not os.environ.get("AZURE_CLIENT_ID"):
+    # Fail closed: with no SSO configured, the premium/internal prefixes must
+    # still be token-gated (mirrors GATED_PREFIXES in backend/auth.py) rather
+    # than left open. Other /api/ routes keep the legacy static-bearer gate.
+    _FALLBACK_GATED_PREFIXES = (
+        "/api/cadena", "/mcp/cadena",
+        "/api/private-rulings", "/api/private-ruling", "/api/quotes",
+        "/api/maps", "/api/ato", "/api/proposed-law", "/api/commentary",
+        "/api/insolvency", "/api/issues",
+    )
+    # Endpoints that run their own token auth (MCP over several base paths).
+    _FALLBACK_MCP_PREFIXES = (
+        "/api/cadena/mcp", "/api/private/mcp", "/api/v2/query",
+        "/api/rpc", "/mcp",
+    )
 
     @app.middleware("http")
     async def bearer_auth_middleware(request: Request, call_next):
         path = request.url.path
-        if path in ("/health", "/", "/favicon.ico") or path.startswith(("/assets/", "/mcp/", "/api/cadena/", "/api/private/", "/api/v2/", "/api/rpc/", "/auth/", "/oauth/", "/.well-known/")):
+
+        def _matches(prefix: str) -> bool:
+            return path == prefix or path.startswith(prefix + "/")
+
+        if path in ("/health", "/health/check", "/", "/favicon.ico") or path.startswith(
+            ("/assets/", "/auth/", "/oauth/", "/.well-known/")
+        ):
             return await call_next(request)
-        if not path.startswith("/api/"):
+
+        # MCP endpoints authenticate themselves.
+        if any(_matches(p) for p in _FALLBACK_MCP_PREFIXES):
             return await call_next(request)
-        if config.BEARER_TOKEN is None:
+
+        # Premium/internal prefixes: token-only, always enforced (fail closed).
+        if any(_matches(p) for p in _FALLBACK_GATED_PREFIXES):
+            tok = ""
+            auth = request.headers.get("Authorization", "")
+            if auth.startswith("Bearer "):
+                tok = auth[7:]
+            if not tok:
+                tok = request.headers.get("X-API-Key", "")
+            from backend.fastmcp_server import token_ok
+            from backend.mcp_token_manager import token_manager
+            if not token_ok(tok):
+                return JSONResponse({"error": "Unauthorized"}, status_code=401)
+            allowed, reason = token_manager.check_rate_limit(tok)
+            if not allowed:
+                return JSONResponse({"error": reason}, status_code=429)
             return await call_next(request)
-        auth = request.headers.get("Authorization", "")
-        if not auth.startswith("Bearer ") or auth[7:] != config.BEARER_TOKEN:
-            return JSONResponse({"detail": "Unauthorized"}, status_code=401)
+
+        # Remaining /api/ routes: legacy static-bearer gate when configured.
+        if path.startswith("/api/"):
+            if config.BEARER_TOKEN is None:
+                return await call_next(request)
+            auth = request.headers.get("Authorization", "")
+            if not auth.startswith("Bearer ") or auth[7:] != config.BEARER_TOKEN:
+                return JSONResponse({"detail": "Unauthorized"}, status_code=401)
         return await call_next(request)
 
 

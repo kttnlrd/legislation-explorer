@@ -697,9 +697,11 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
                     marginTop: 3, paddingLeft: 2,
                     fontFamily: "'Lora', serif",
                     lineHeight: 1.4, textAlign: 'left',
-                  }}
-                    dangerouslySetInnerHTML={{ __html: r.snippet }}
-                  />
+                  }}>
+                    {r.snippet.split(/<\/?mark>/).map((t, i) =>
+                      i % 2 ? <mark key={i}>{t}</mark> : t
+                    )}
+                  </div>
                 )}
                 <div style={{ fontSize: 9, color: COLORS.textMuted, opacity: 0.5, marginTop: 2, textAlign: 'left', display: 'flex', gap: 4, alignItems: 'center' }}>
                   <span style={{

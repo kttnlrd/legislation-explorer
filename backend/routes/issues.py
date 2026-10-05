@@ -7,19 +7,15 @@ import logging
 
 from fastapi import APIRouter, Body, HTTPException
 
-from backend.services.tax_case_sql import _sql_dict, _sql_write
+from backend.services.tax_case_sql import (
+    _sql_dict,
+    _sql_dict_params,
+    _sql_write_params,
+)
 
 logger = logging.getLogger(__name__)
 
 router = APIRouter()
-
-
-def _esc(v: object) -> str:
-    """Escape a value for SQL string interpolation."""
-    if v is None:
-        return "NULL"
-    s = str(v).replace("'", "''")
-    return f"'{s}'"
 
 
 @router.get("/api/issues")
@@ -30,11 +26,12 @@ def list_issues(status: str | None = None):
       status: filter by status (open, known, fixed). Omit for all.
     """
     where = ""
+    params: tuple = ()
     if status:
-        safe = status.replace("'", "''")
-        where = f"WHERE status = '{safe}'"
+        where = "WHERE status = %s"
+        params = (status,)
 
-    rows = _sql_dict(
+    rows = _sql_dict_params(
         ["id", "ticket", "category", "tool", "params", "expected", "actual",
          "note", "server_ver", "status", "hits", "created", "fixed"],
         f"SELECT id, ticket, category, tool, params, "
@@ -42,7 +39,8 @@ def list_issues(status: str | None = None):
         f"LEFT(COALESCE(actual, ''), 200)::text, "
         f"LEFT(COALESCE(note, ''), 200)::text, "
         f"server_ver, status, hits, created, fixed "
-        f"FROM issues {where} ORDER BY id DESC",
+        f"FROM issues {where} ORDER BY id DESC LIMIT 200",
+        params,
     )
 
     for r in rows:
@@ -83,19 +81,23 @@ def update_issue(
         raise HTTPException(status_code=404, detail="Issue not found")
     row = existing[0]
 
-    sets = []
+    sets: list[str] = []
+    params: list = []
     if status is not None:
-        sets.append(f"status = {_esc(status)}")
+        sets.append("status = %s")
+        params.append(status)
         if status == "fixed" and row.get("status") != "fixed":
             sets.append("fixed = NOW()::text")
     if note is not None:
-        sets.append(f"note = {_esc(note)}")
+        sets.append("note = %s")
+        params.append(note)
 
     if not sets:
         raise HTTPException(status_code=422, detail="Nothing to update")
 
-    _sql_write(
-        f"UPDATE issues SET {', '.join(sets)} WHERE id = {int(issue_id)}"
+    _sql_write_params(
+        f"UPDATE issues SET {', '.join(sets)} WHERE id = %s",
+        tuple(params + [int(issue_id)]),
     )
     updated = _sql_dict(
         ["id", "ticket", "status", "note", "fixed"],
@@ -133,13 +135,12 @@ def create_issue(
 
     from backend.routes.api import VERSION
 
-    _sql_write(
+    _sql_write_params(
         "INSERT INTO issues "
         "(ticket, category, tool, params, param_hash, expected, actual, note, "
         " server_ver, created, status, hits) "
-        f"VALUES ({_esc(ticket)}, {_esc(category)}, {_esc(tool)}, {_esc(params)}, "
-        f"{_esc(param_hash)}, {_esc(expected)}, {_esc(actual)}, {_esc(note)}, "
-        f"{_esc(VERSION)}, NOW(), 'open', 1)"
+        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, NOW(), 'open', 1)",
+        (ticket, category, tool, params, param_hash, expected, actual, note, VERSION),
     )
 
     return {"ticket": ticket, "status": "open"}

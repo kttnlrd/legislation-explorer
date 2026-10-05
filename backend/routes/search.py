@@ -418,32 +418,33 @@ def search_suggest(q: str, limit: int = 12):
 
 def _pg_case_search(q: str) -> list[dict]:
     """Query the PostgreSQL case database for citation/name matches."""
-    import subprocess
-    results: list[dict] = []
-    safe_q = q.replace("'", "''").replace('"', '""')
-    sql = (
+    from backend.services.tax_case_sql import _sql_dict_params
+
+    # Escape LIKE wildcards so user input matches literally. Backslash is
+    # Postgres' default LIKE escape, so no ESCAPE clause is needed.
+    pat = "%" + q.replace("\\", "\\\\").replace("%", "\\%").replace("_", "\\_") + "%"
+    rows = _sql_dict_params(
+        ["citation", "case_name", "court", "decision_date"],
         "SELECT citation, case_name, court, decision_date::text FROM cases "
-        f"WHERE citation ILIKE '%{safe_q}%' OR case_name ILIKE '%{safe_q}%' "
-        "ORDER BY decision_date DESC LIMIT 20"
+        "WHERE citation ILIKE %s OR case_name ILIKE %s "
+        "ORDER BY decision_date DESC LIMIT 20",
+        (pat, pat),
     )
-    result = subprocess.run(
-        ["docker", "exec", "-i", "cadena-postgres", "psql",
-         "-U", "postgres", "-d", "cadena_knowledge",
-         "-t", "-A", "-F", chr(1), "-c", sql],
-        capture_output=True, text=True, timeout=10,
-    )
-    if result.returncode == 0 and result.stdout.strip():
-        for line in result.stdout.strip().splitlines():
-            parts = line.split(chr(1))
-            if len(parts) >= 4:
-                results.append({
-                    "act": "tax-cases",
-                    "section": parts[0],
-                    "title": parts[1],
-                    "court": parts[2],
-                    "date": parts[3] if len(parts) > 3 else "",
-                    "snippet": f"{parts[1]} — Decided {parts[3]}" if parts[3] else parts[1],
-                })
+
+    results: list[dict] = []
+    for r in rows:
+        citation = r.get("citation", "") or ""
+        case_name = r.get("case_name", "") or ""
+        court = r.get("court", "") or ""
+        date = r.get("decision_date", "") or ""
+        results.append({
+            "act": "tax-cases",
+            "section": citation,
+            "title": case_name,
+            "court": court,
+            "date": date,
+            "snippet": f"{case_name} — Decided {date}" if date else case_name,
+        })
     return results
 
 

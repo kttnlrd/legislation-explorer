@@ -209,16 +209,39 @@ class AuthMiddleware(BaseHTTPMiddleware):
 
         # Gate Cadena IP paths
         for prefix in GATED_PREFIXES:
-            if path.startswith(prefix):
-                # MCP endpoint has its own auth — let it through
-                if path.startswith("/api/cadena/mcp") \
-                   or path.startswith("/api/private/mcp") \
-                   or path.startswith("/api/v2/query") \
-                   or path.startswith("/api/rpc") \
-                   or path.startswith("/mcp/"):
+            # Match the prefix exactly or as a path segment (`prefix + "/"`),
+            # so "/api/ato" no longer also matches "/api/atom...".
+            base = prefix.rstrip("/")
+            if path != base and not path.startswith(base + "/"):
+                continue
+            # MCP endpoint has its own auth — let it through
+            if path.startswith("/api/cadena/mcp") \
+               or path.startswith("/api/private/mcp") \
+               or path.startswith("/api/v2/query") \
+               or path.startswith("/api/rpc") \
+               or path.startswith("/mcp/"):
+                request.state.user = None
+                return await call_next(request)
+            # Accept a valid API/MCP token as an alternative to a session.
+            # Token sources for plain REST: Authorization: Bearer or
+            # X-API-Key ONLY (no query params, cookie, body or X-Session-Id —
+            # those leak into logs and widen the attack surface).
+            tok = ""
+            auth_header = request.headers.get("Authorization", "")
+            if auth_header.startswith("Bearer "):
+                tok = auth_header[7:]
+            if not tok:
+                tok = request.headers.get("X-API-Key", "")
+            if tok:
+                from backend.fastmcp_server import token_ok
+                from backend.mcp_token_manager import token_manager
+                if token_ok(tok):
+                    allowed, reason = token_manager.check_rate_limit(tok)
+                    if not allowed:
+                        return JSONResponse({"error": reason}, status_code=429)
                     request.state.user = None
                     return await call_next(request)
-                return JSONResponse({"error": "Login required"}, status_code=401)
+            return JSONResponse({"error": "Login required"}, status_code=401)
 
         # Everything else is public
         request.state.user = None
