@@ -27,7 +27,7 @@ import McpTokenBanner from './components/McpTokenBanner'
 import MapView from './components/MapView'
 import IssuesModal from './components/IssuesModal'
 import SearchPanel from './components/SearchPanel'
-import PenroseLogo from './components/PenroseLogo'
+import CadenaLogo from './components/CadenaLogo'
 import CadenaLoader from './components/CadenaLoader'
 import TreatyContent from './components/TreatyContent'
 import { ThemeProvider } from './ThemeContext'
@@ -1386,8 +1386,8 @@ export default function App() {
           <div className={`lk-welcome-wrap${isMobile ? ' lk-welcome-wrap--mobile' : ''}`}>
             <div className="lk-welcome">
               <div role="img" aria-label="scriptkitty" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 16 }}>
-                <div style={{ width: 280, maxWidth: '100%', aspectRatio: '16 / 9' }}>
-                  <PenroseLogo />
+                <div style={{ width: 180, maxWidth: '100%', aspectRatio: '1 / 1' }}>
+                  <CadenaLogo />
                 </div>
                 <div className="lk-welcome__lockup">
                   <img src="/scriptkitty-wordmark-a-light-text.svg" alt="" className="lk-welcome__lockup-dark" />
