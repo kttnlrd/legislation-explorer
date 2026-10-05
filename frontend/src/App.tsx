@@ -1390,8 +1390,8 @@ export default function App() {
                   <PenroseLogo />
                 </div>
                 <div className="lk-welcome__lockup">
-                  <img src="/scriptkitty-wordmark-a-dark-text.svg" alt="" className="lk-welcome__lockup-dark" />
-                  <img src="/scriptkitty-wordmark-a-light-text.svg" alt="" className="lk-welcome__lockup-light" />
+                  <img src="/scriptkitty-wordmark-a-light-text.svg" alt="" className="lk-welcome__lockup-dark" />
+                  <img src="/scriptkitty-wordmark-a-dark-text.svg" alt="" className="lk-welcome__lockup-light" />
                 </div>
               </div>
               <form
