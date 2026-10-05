@@ -16,7 +16,7 @@ export default function CadenaLoader({ done }: { done: boolean }) {
   // The loop's `stopped` flag. Lives in a ref so the effect's RAF loop can read
   // it and the `done` effect can flip it.
   const stoppedRef = useRef(false)
-  const [hidden, setHidden] = useState(false)
+  const [hidden, setHidden] = useState(done)
 
   useEffect(() => {
     // React StrictMode (dev) mounts, unmounts, then remounts the effect; the

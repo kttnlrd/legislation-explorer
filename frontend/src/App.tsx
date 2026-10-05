@@ -365,15 +365,21 @@ export default function App() {
   const [appInfo, setAppInfo] = useState<any>(null)
   const [user, setUser] = useState<any>(null)
   const [authLoading, setAuthLoading] = useState(true)
-  const [booted, setBooted] = useState(false)
+  const [booted, setBooted] = useState(() => {
+    try { return sessionStorage.getItem('sk-splash-shown') === '1' } catch { return false }
+  })
 
   useEffect(() => {
     api.info().then(setAppInfo).catch(() => {})
   }, [])
 
-  // Fixed 2.5s boot splash — the Cadena loader always shows for 2.5s, then fades
+  // Boot splash: shows once per session (first visit), never on in-app navigation/refresh
   useEffect(() => {
-    const id = setTimeout(() => setBooted(true), 2500)
+    if (booted) return
+    const id = setTimeout(() => {
+      setBooted(true)
+      try { sessionStorage.setItem('sk-splash-shown', '1') } catch {}
+    }, 2500)
     return () => clearTimeout(id)
   }, [])
 
