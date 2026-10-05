@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
-import { COLORS } from './common/types'
 import { createMarkdownComponents } from './MarkdownRenderers'
-import { shortActName } from '../utils/display'
+import { shortActName, rulingSlug } from '../utils/display'
 import { api } from '../api'
 
 type RulingContentProps = {
@@ -128,80 +128,65 @@ export default function RulingContent({
     })
   }, [rulingData])
 
+  const pageTitle = `${fm.title || rulingData.citation}${descriptiveTitle && descriptiveTitle !== (fm.title || rulingData.citation) ? ` — ${descriptiveTitle}` : ''}`
+
   return (
-    <div>
-      <div style={{
-        marginBottom: 20, color: COLORS.textMuted, fontSize: 12,
-        fontFamily: "'Montserrat', sans-serif", letterSpacing: 0.3,
-        textTransform: 'uppercase' as const,
-      }}>
-        Ruling &rsaquo; {rulingData.citation}
+    <div className={`lk-reader${isMobile ? ' lk-reader--mobile' : ''}`}>
+      <nav aria-label="Breadcrumb" className="lk-reader-crumb">
+        <span className="lk-badge lk-badge--ruling">Ruling</span>
+        <span style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text)', textTransform: 'none', letterSpacing: 0 }}>{rulingData.citation}</span>
+      </nav>
+      <div className="lk-reader-head">
+        <h1 className="lk-reader-title">{pageTitle}</h1>
+        <div className="lk-reader-actions">
+          <a
+            href={`/api/ruling/${encodeURIComponent(rulingData.citation)}/download`}
+            download
+            className="lk-reader-btn lk-reader-btn--primary"
+            title="Download raw text"
+          >
+            Download
+          </a>
+        </div>
       </div>
-      <h1 style={{
-        color: COLORS.heading, fontSize: isMobile ? 20 : 22, marginBottom: 16,
-        fontWeight: 600, borderBottom: `1px solid ${COLORS.border}`, paddingBottom: 8,
-      }}>
-        {fm.title || rulingData.citation}{descriptiveTitle && descriptiveTitle !== (fm.title || rulingData.citation) ? ` — ${descriptiveTitle}` : ''}
-        <a
-          href={`/api/ruling/${encodeURIComponent(rulingData.citation)}/download`}
-          download
-          style={{
-            fontSize: 12, fontWeight: 500, marginLeft: 12,
-            color: '#fff', background: COLORS.accent,
-            textDecoration: 'none', padding: '4px 12px',
-            borderRadius: 4, display: 'inline-block',
-            verticalAlign: 'middle',
-          }}
-          title="Download raw text"
-        >
-          Download
-        </a>
-      </h1>
 
       {/* AI Summary — inline, always visible (not for ATO IDs — full body renders instead) */}
       {rulingData?.type !== 'ATO ID' && (status || subject || question || decision || background || rulingText || notice || legislationReferenced.length > 0 || casesReferenced.length > 0 || atoUrl) && (
-      <div style={{
-        marginBottom: 24, border: `1px solid ${COLORS.border}`,
-        borderRadius: 6, padding: '14px 16px',
-        background: COLORS.surface,
-        fontSize: 13, color: COLORS.text,
-        fontFamily: "'Montserrat', sans-serif", lineHeight: 1.6,
-      }}>
-        {status && <p style={{margin: '0 0 10px 0'}}><strong>Status:</strong> {status}</p>}
-        {subject && <p style={{margin: '0 0 10px 0'}}><strong>Subject:</strong> {subject}</p>}
-        {question && <p style={{margin: '0 0 10px 0'}}><strong>Question:</strong> {question}</p>}
-        {decision && <p style={{margin: '0 0 10px 0'}}><strong>Decision:</strong> {decision}</p>}
-        {background && <p style={{margin: '0 0 10px 0'}}><strong>Background:</strong> {background}</p>}
-        {rulingText && <p style={{margin: '0 0 10px 0'}}><strong>Ruling:</strong> {rulingText}</p>}
+      <div className="lk-reader-panel">
+        {status && <p><span className="lk-note-label">Status:</span> {status}</p>}
+        {subject && <p><span className="lk-note-label">Subject:</span> {subject}</p>}
+        {question && <p><span className="lk-note-label">Question:</span> {question}</p>}
+        {decision && <p><span className="lk-note-label">Decision:</span> {decision}</p>}
+        {background && <p><span className="lk-note-label">Background:</span> {background}</p>}
+        {rulingText && <p><span className="lk-note-label">Ruling:</span> {rulingText}</p>}
         {notice && (
           <div style={{
-            marginBottom: 10, padding: '8px 12px', fontSize: 12,
-            color: COLORS.textMuted, background: '#fff8e1',
-            border: '1px solid #ffe082', borderRadius: 4,
+            margin: '0 0 10px', padding: '10px 14px', fontSize: 14, lineHeight: '22px',
+            color: 'var(--color-text)', background: 'var(--tabby-soft)',
+            border: 'var(--border-chunky) solid var(--tabby)', borderRadius: 'var(--radius-sm)',
           }}>
             {notice}
           </div>
         )}
         {legislationReferenced.length > 0 && (
-          <div style={{marginBottom: 10}}>
-            <strong>Legislation:</strong>
-            <ul style={{margin: '4px 0 0 0', paddingLeft: 16}}>
+          <div style={{ marginBottom: 10 }}>
+            <div className="lk-reader-label">Legislation</div>
+            <ul className="lk-reader-cites">
               {legislationReferenced.map((leg, i) => <li key={i}>{leg}</li>)}
             </ul>
           </div>
         )}
         {casesReferenced.length > 0 && (
-          <div style={{marginBottom: 10}}>
-            <strong>Cases:</strong>
-            <ul style={{margin: '4px 0 0 0', paddingLeft: 16}}>
+          <div style={{ marginBottom: 10 }}>
+            <div className="lk-reader-label">Cases</div>
+            <ul className="lk-reader-cites">
               {casesReferenced.map((c, i) => <li key={i}>{c}</li>)}
             </ul>
           </div>
         )}
         {atoUrl && (
-          <p style={{margin: 0}}>
-            <a href={atoUrl} target="_blank" rel="noopener noreferrer"
-               style={{color: COLORS.accent, textDecoration: 'none'}}>
+          <p style={{ margin: 0 }}>
+            <a href={atoUrl} target="_blank" rel="noopener noreferrer" className="lk-link">
               View on ATO website ↗
             </a>
           </p>
@@ -211,16 +196,8 @@ export default function RulingContent({
 
       {/* Table of Contents — only when ## headers exist */}
       {toc.length > 0 && (
-        <div style={{
-          marginBottom: 24, padding: 16, background: COLORS.surface,
-          borderRadius: 6, border: `1px solid ${COLORS.border}`,
-        }}>
-          <h3 style={{
-            margin: 0, marginBottom: 10, color: COLORS.heading, fontSize: 14,
-            fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
-          }}>
-            Contents
-          </h3>
+        <nav aria-label="Contents" className="lk-reader-panel">
+          <div className="lk-reader-label" style={{ marginBottom: 10 }}>Contents</div>
           <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
             {toc.map((item) => (
               <li
@@ -228,6 +205,8 @@ export default function RulingContent({
                 style={{
                   paddingLeft: item.level === 3 ? 16 : 0,
                   marginBottom: 4,
+                  fontSize: 14,
+                  lineHeight: '22px',
                 }}
               >
                 <a
@@ -237,23 +216,18 @@ export default function RulingContent({
                     const el = document.getElementById(item.id)
                     if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' })
                   }}
-                  style={{
-                    color: COLORS.accent,
-                    textDecoration: 'none',
-                    fontSize: 13,
-                    fontFamily: "'Montserrat', sans-serif",
-                  }}
+                  className="lk-link"
                 >
                   {item.text}
                 </a>
               </li>
             ))}
           </ul>
-        </div>
+        </nav>
       )}
 
       {/* Ruling body */}
-      <div style={{ lineHeight: 1.7, fontSize: isMobile ? 15 : 15, color: COLORS.text }}>
+      <div className="lk-reader-body">
         <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} components={components}>
           {body}
         </ReactMarkdown>
@@ -261,23 +235,23 @@ export default function RulingContent({
 
       {/* Referenced Sections */}
       {rulingData.referenced_sections?.length > 0 && (
-        <div style={{ marginTop: 40, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
-          <h2 style={{ color: COLORS.heading, fontSize: isMobile ? 17 : 18, marginBottom: 16, fontWeight: 600 }}>
-            Referenced Sections
-          </h2>
-          <ul style={{ listStyle: 'none', padding: 0 }}>
+        <div className="lk-reader-divider">
+          <h2 className="lk-reader-h2">Referenced sections</h2>
+          <ul className="lk-reader-cites">
             {rulingData.referenced_sections.map((ref: { act: string; section: string; title?: string }) => (
-              <li key={`${ref.act}-${ref.section}`} style={{ marginBottom: 8, display: 'flex', alignItems: 'center', gap: 8 }}>
-                <a
-                  href={`/${ref.act}/s${ref.section}`}
+              <li key={`${ref.act}-${ref.section}`}>
+                <Link
+                  to={`/${ref.act}/${ref.section}`}
                   onClick={(e) => {
+                    if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return
                     e.preventDefault()
                     onNavigate(ref.act, ref.section)
                   }}
-                  style={{ color: COLORS.accent, textDecoration: 'none', fontSize: 14 }}
+                  className="lk-link"
                 >
-                  {shortActName(ref.act)} s{ref.section} {ref.title && `— ${ref.title}`}
-                </a>
+                  {shortActName(ref.act)} s{ref.section}
+                </Link>
+                {ref.title && <span style={{ fontFamily: 'var(--font-sans)', fontSize: 14 }}> — {ref.title}</span>}
               </li>
             ))}
           </ul>
@@ -286,28 +260,29 @@ export default function RulingContent({
 
       {/* Related Cases */}
       {relatedCases.length > 0 && (
-        <div style={{ marginTop: 32, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
-          <h2 style={{ color: COLORS.heading, fontSize: isMobile ? 17 : 18, marginBottom: 16, fontWeight: 600 }}>
-            Related Cases <span style={{ color: COLORS.textMuted, fontSize: 13, fontWeight: 400 }}>({relatedCases.length})</span>
+        <div className="lk-reader-divider" style={{ marginTop: 32 }}>
+          <h2 className="lk-reader-h2">
+            Related cases <span className="lk-reader-cite" style={{ fontSize: 14 }}>({relatedCases.length})</span>
           </h2>
           {relatedLoading ? (
-            <p style={{ color: COLORS.textMuted, fontSize: 13 }}>Loading...</p>
+            <p style={{ color: 'var(--color-text-muted)', fontSize: 14 }}>Sniffing out related cases…</p>
           ) : (
-            <ul style={{ listStyle: 'none', padding: 0 }}>
+            <ul className="lk-reader-cites" style={{ fontFamily: 'var(--font-sans)', fontSize: 14, lineHeight: '22px' }}>
               {relatedCases.map((c) => (
-                <li key={c.citation} style={{ marginBottom: 8 }}>
-                  <a
-                    href={`/tax-cases/case/${encodeURIComponent(c.citation)}`}
+                <li key={c.citation}>
+                  <Link
+                    to={`/rulings/${rulingSlug(c.citation)}`}
                     onClick={(e) => {
+                      if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return
                       e.preventDefault()
                       onNavigateRuling(c.citation)
                     }}
-                    style={{ color: COLORS.accent, textDecoration: 'none', fontSize: 14 }}
+                    className="lk-link"
                   >
                     {c.title || c.citation}
-                  </a>
+                  </Link>
                   {c.year && (
-                    <span style={{ color: COLORS.textMuted, fontSize: 12, marginLeft: 6 }}>
+                    <span className="lk-reader-cite" style={{ fontSize: 12, marginLeft: 6 }}>
                       ({c.year})
                     </span>
                   )}

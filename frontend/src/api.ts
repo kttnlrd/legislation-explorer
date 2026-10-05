@@ -91,10 +91,12 @@ export const api = {
     if (limit !== undefined) url += `&limit=${limit}`
     return fetchJson(url)
   },
-  searchHybrid: (q: string, type?: string, limit?: number, opts?: { operator?: string; dateFrom?: string; dateTo?: string; rtype?: string; outcome?: string }) => {
+  searchHybrid: (q: string, type?: string, limit?: number, opts?: { operator?: string; dateFrom?: string; dateTo?: string; rtype?: string; outcome?: string; act?: string; scope?: string }) => {
     let url = `/search/hybrid?q=${encodeURIComponent(q)}`
     if (type) url += `&type=${type}`
     if (limit !== undefined) url += `&limit=${limit}`
+    if (opts?.act) url += `&act=${encodeURIComponent(opts.act)}`
+    if (opts?.scope) url += `&scope=${encodeURIComponent(opts.scope)}`
     if (opts?.operator && opts.operator !== 'AND') url += `&operator=${encodeURIComponent(opts.operator)}`
     if (opts?.dateFrom) url += `&date_from=${encodeURIComponent(opts.dateFrom)}`
     if (opts?.dateTo) url += `&date_to=${encodeURIComponent(opts.dateTo)}`

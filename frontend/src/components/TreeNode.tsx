@@ -1,8 +1,9 @@
 
 import React, { memo, useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 import { Part, Division, Subdivision, Section, Signpost, Tree, COLORS } from './common/types';
 
-function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds, act }: {
+function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds, act, getHref }: {
   node: Part | Division | Subdivision | Section | Signpost;
   level: number;
   activeSection: string;
@@ -10,6 +11,11 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds,
   isMobile: boolean;
   expandedIds: Set<string>;
   act?: string;
+  /** Canonical href for a leaf section id, so rows render as real <Link>s
+   *  (F-15: right-click / middle-click / ctrl-click work natively). Returns
+   *  null/undefined for ids that aren't real navigation targets (e.g. a
+   *  private-rulings month bucket that only expands the tree). */
+  getHref?: (id: string) => string | null | undefined;
 }) {
   const [expanded, setExpanded] = useState(expandedIds.has((node as any).id));
   const isSignpost = 'is_signpost' in node && (node as any).is_signpost;
@@ -59,7 +65,7 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds,
           color: COLORS.textMuted,
           fontWeight: 600,
           fontSize: 10,
-          fontFamily: "'Montserrat', sans-serif",
+          fontFamily: "var(--font-ui, 'Figtree'), sans-serif",
           textTransform: 'uppercase',
           minHeight: isMobile ? 32 : 28,
           display: 'flex',
@@ -71,69 +77,98 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds,
     );
   }
 
+  // Leaf sections navigate to a real URL — render as <Link> so right-click /
+  // middle-click / ctrl-click "open in new tab" work natively (F-15). Other
+  // rows (parts/divisions/subdivisions, and the private-rulings month
+  // buckets that only expand the tree) stay plain, non-navigating divs.
+  const href = isSection ? getHref?.((node as Section).id) : null;
+  const navigable = isSection && !!href;
+  const rowStyle: React.CSSProperties = {
+    padding: isMobile ? '4px 8px' : '2px 6px',
+    cursor: 'pointer',
+    borderRadius: 4,
+    background: isSection && (node as Section).id === activeSection ? 'rgba(39,158,136,0.12)' : 'transparent',
+    color: isSection ? COLORS.text : COLORS.textMuted,
+    fontWeight: isSection ? (act === 'maps' ? 600 : 400) : 500,
+    fontSize: isMobile ? 13 : 12,
+    fontFamily: "var(--font-ui, 'Figtree'), sans-serif",
+    display: 'flex',
+    alignItems: isMobile ? 'flex-start' : 'center',
+    whiteSpace: isMobile ? 'normal' : 'nowrap',
+    overflow: 'hidden',
+    minHeight: isMobile ? 40 : 28,
+    lineHeight: isMobile ? 1.35 : 1.2,
+    flex: 1,
+    minWidth: 0,
+    textDecoration: 'none',
+  };
+  const rowOnClick = () => {
+    if (isSection) onSelect((node as Section).id);
+    // Private rulings: years expand into months; clicking a month loads its ruling list
+    else if (act === 'private-rulings' && isSubdivision) onSelect((node as Subdivision).id);
+    else setExpanded(!expanded);
+  };
+  const rowClick = (e: React.MouseEvent) => {
+    // Modified/right clicks on a real <a href> must fall through to the
+    // browser's own "open in new tab" behaviour, not our in-app selection.
+    if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return;
+    rowOnClick();
+  };
+
+  const rowContent = (
+    <>
+      {hasChildren && (
+        <span onClick={toggle} style={{
+          width: 28, minHeight: isMobile ? 28 : 20, display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+          textAlign: 'center', fontSize: 10,
+          color: COLORS.textMuted, flexShrink: 0,
+          marginTop: isMobile ? 2 : 0,
+        }}>
+          {expanded ? '▼' : '▶'}
+        </span>
+      )}
+      {!hasChildren && <span style={{ width: 28, display: 'inline-block', flexShrink: 0 }} />}
+      {(isSection && (act === 'cases' || act === 'rulings' || act === 'tax-cases')) ? (
+        <>
+          {displayTitle && (
+            <span style={{ marginLeft: 4, whiteSpace: isMobile ? 'normal' : 'nowrap', overflow: 'hidden', textOverflow: isMobile ? 'clip' : 'ellipsis', fontWeight: 400 }}>
+              {displayTitle}
+            </span>
+          )}
+          {showId && (
+            <span style={{ marginLeft: 6, whiteSpace: isMobile ? 'normal' : 'nowrap', flexShrink: 0, opacity: 0.6, fontSize: 11 }}>
+              {displayId}
+            </span>
+          )}
+        </>
+      ) : (
+        <>
+          {showId && (
+            <span style={{ marginLeft: 4, whiteSpace: isMobile ? 'normal' : 'nowrap', flexShrink: 0, color: COLORS.heading }}>
+              {isDivision && act !== 'cases' && act !== 'rulings' && act !== 'tax-cases' ? `Division ${displayId}` : displayId}
+            </span>
+          )}
+          {displayTitle && (
+            <span style={{ marginLeft: showId ? 6 : 4, opacity: 0.85, fontWeight: 400, whiteSpace: isMobile ? 'normal' : 'nowrap', overflow: 'hidden', textOverflow: isMobile ? 'clip' : 'ellipsis' }}>
+              {showId ? `— ${displayTitle}` : displayTitle}
+            </span>
+          )}
+        </>
+      )}
+    </>
+  );
+
   return (
     <div id={`tree-node-${displayId}`} style={{ marginLeft: indent }}>
-      <div
-        style={{
-          padding: isMobile ? '4px 8px' : '2px 6px',
-          cursor: 'pointer',
-          borderRadius: 4,
-          background: isSection && (node as Section).id === activeSection ? 'rgba(39,158,136,0.12)' : 'transparent',
-          color: isSection ? COLORS.text : COLORS.textMuted,
-          fontWeight: isSection ? (act === 'maps' ? 600 : 400) : 500,
-          fontSize: isMobile ? 13 : 12,
-          fontFamily: "'Montserrat', sans-serif",
-          display: 'flex',
-          alignItems: isMobile ? 'flex-start' : 'center',
-          whiteSpace: isMobile ? 'normal' : 'nowrap',
-          overflow: 'hidden',
-          minHeight: isMobile ? 40 : 28,
-          lineHeight: isMobile ? 1.35 : 1.2,
-        }}
-        onClick={() => {
-          if (isSection) onSelect((node as Section).id);
-          // Private rulings: years expand into months; clicking a month loads its ruling list
-          else if (act === 'private-rulings' && isSubdivision) onSelect((node as Subdivision).id);
-          else setExpanded(!expanded);
-        }}
-      >
-        {hasChildren && (
-          <span onClick={toggle} style={{
-            width: 28, minHeight: isMobile ? 28 : 20, display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
-            textAlign: 'center', fontSize: 10,
-            color: COLORS.textMuted, flexShrink: 0,
-            marginTop: isMobile ? 2 : 0,
-          }}>
-            {expanded ? '\u25bc' : '\u25b6'}
-          </span>
-        )}
-        {!hasChildren && <span style={{ width: 28, display: 'inline-block', flexShrink: 0 }} />}
-        {(isSection && (act === 'cases' || act === 'rulings' || act === 'tax-cases')) ? (
-          <>
-            {displayTitle && (
-              <span style={{ marginLeft: 4, whiteSpace: isMobile ? 'normal' : 'nowrap', overflow: 'hidden', textOverflow: isMobile ? 'clip' : 'ellipsis', fontWeight: 400 }}>
-                {displayTitle}
-              </span>
-            )}
-            {showId && (
-              <span style={{ marginLeft: 6, whiteSpace: isMobile ? 'normal' : 'nowrap', flexShrink: 0, opacity: 0.6, fontSize: 11 }}>
-                {displayId}
-              </span>
-            )}
-          </>
+      <div style={{ display: 'flex', alignItems: 'center' }}>
+        {navigable ? (
+          <Link to={href as string} onClick={rowClick} style={rowStyle}>
+            {rowContent}
+          </Link>
         ) : (
-          <>
-            {showId && (
-              <span style={{ marginLeft: 4, whiteSpace: isMobile ? 'normal' : 'nowrap', flexShrink: 0, color: COLORS.heading }}>
-                {isDivision && act !== 'cases' && act !== 'rulings' && act !== 'tax-cases' ? `Division ${displayId}` : displayId}
-              </span>
-            )}
-            {displayTitle && (
-              <span style={{ marginLeft: showId ? 6 : 4, opacity: 0.85, fontWeight: 400, whiteSpace: isMobile ? 'normal' : 'nowrap', overflow: 'hidden', textOverflow: isMobile ? 'clip' : 'ellipsis' }}>
-                {showId ? `— ${displayTitle}` : displayTitle}
-              </span>
-            )}
-          </>
+          <div onClick={rowOnClick} style={rowStyle}>
+            {rowContent}
+          </div>
         )}
         {isSection && (node as Section).ato_url && (
           <a
@@ -154,19 +189,19 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds,
       {expanded && hasChildren && (
         <div>
           {isPart && ((node as Part).divisions || []).map(d => (
-            <TreeNode key={d.id} node={d} level={level + 1} activeSection={activeSection} onSelect={onSelect} isMobile={isMobile} expandedIds={expandedIds} act={act} />
+            <TreeNode key={d.id} node={d} level={level + 1} activeSection={activeSection} onSelect={onSelect} getHref={getHref} isMobile={isMobile} expandedIds={expandedIds} act={act} />
           ))}
           {isPart && ((node as Part).sections || []).map(s => (
-            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} isMobile={isMobile} expandedIds={expandedIds} act={act} />
+            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} getHref={getHref} isMobile={isMobile} expandedIds={expandedIds} act={act} />
           ))}
           {isDivision && ((node as Division).sections || []).map(s => (
-            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} isMobile={isMobile} expandedIds={expandedIds} act={act} />
+            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} getHref={getHref} isMobile={isMobile} expandedIds={expandedIds} act={act} />
           ))}
           {isDivision && ((node as Division).subdivisions || []).map(s => (
-            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} isMobile={isMobile} expandedIds={expandedIds} act={act} />
+            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} getHref={getHref} isMobile={isMobile} expandedIds={expandedIds} act={act} />
           ))}
           {isSubdivision && ((node as Subdivision).sections || []).map(s => (
-            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} isMobile={isMobile} expandedIds={expandedIds} act={act} />
+            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} getHref={getHref} isMobile={isMobile} expandedIds={expandedIds} act={act} />
           ))}
         </div>
       )}

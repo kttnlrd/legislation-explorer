@@ -1,4 +1,4 @@
-// Shared types and theme for the Legislation Explorer frontend
+// Shared types and theme for the lawkitty frontend
 
 export const COLORS = {
   bg: 'var(--color-bg)',

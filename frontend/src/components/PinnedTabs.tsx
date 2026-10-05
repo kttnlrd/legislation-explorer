@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { COLORS, PinItem } from './common/types';
 
 type PinnedTabsProps = {
@@ -37,12 +38,13 @@ export default function PinnedTabs({
               border: `1px solid ${COLORS.border}`, flexShrink: 0,
             }}
           >
-            <span
-              style={{ fontSize: 12, color: COLORS.text, cursor: 'pointer', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', maxWidth: 140 }}
-              onClick={() => { setAct(p.act); setActiveSection(p.section) }}
+            <Link
+              to={`/${p.act}/${p.section}`}
+              style={{ fontSize: 12, color: COLORS.text, cursor: 'pointer', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', maxWidth: 140, textDecoration: 'none' }}
+              onClick={(e) => { if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return; e.preventDefault(); setAct(p.act); setActiveSection(p.section) }}
             >
               {p.act} › {p.section}
-            </span>
+            </Link>
             <button
               onClick={() => unpin(p)}
               style={{
@@ -73,7 +75,7 @@ export default function PinnedTabs({
         style={{
           padding: '14px', borderBottom: `1px solid ${COLORS.border}`,
           fontSize: 12, fontWeight: 600, color: COLORS.textMuted,
-          textTransform: 'uppercase', fontFamily: "'Montserrat', sans-serif",
+          textTransform: 'uppercase', fontFamily: "var(--font-ui, 'Figtree'), sans-serif",
           letterSpacing: 0.4,
         }}
       >
@@ -90,17 +92,18 @@ export default function PinnedTabs({
               marginBottom: 6,
             }}
           >
-            <div
-              style={{ flex: 1, cursor: 'pointer', overflow: 'hidden' }}
-              onClick={() => { setAct(p.act); setActiveSection(p.section) }}
+            <Link
+              to={`/${p.act}/${p.section}`}
+              style={{ flex: 1, cursor: 'pointer', overflow: 'hidden', textDecoration: 'none' }}
+              onClick={(e) => { if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return; e.preventDefault(); setAct(p.act); setActiveSection(p.section) }}
             >
-              <div style={{ fontSize: 11, color: COLORS.accent, fontWeight: 600, fontFamily: "'Montserrat', sans-serif" }}>
+              <div style={{ fontSize: 11, color: COLORS.accent, fontWeight: 600, fontFamily: "var(--font-ui, 'Figtree'), sans-serif" }}>
                 {p.act} › {p.section}
               </div>
-              <div style={{ fontSize: 12, color: COLORS.text, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', fontFamily: "'Montserrat', sans-serif" }}>
+              <div style={{ fontSize: 12, color: COLORS.text, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', fontFamily: "var(--font-ui, 'Figtree'), sans-serif" }}>
                 {p.title}
               </div>
-            </div>
+            </Link>
             <button
               onClick={() => unpin(p)}
               style={{

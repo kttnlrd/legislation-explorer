@@ -1,6 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState, useCallback } from 'react'
 import dagre from 'dagre'
-import { COLORS } from './common/types'
 
 const API = ''
 
@@ -10,7 +9,6 @@ interface MapNode {
   label: string
   body: string
   statute?: { act: string; section: string; title?: string }[]
-  commentary?: string[]
   rulings?: { id: string; title?: string; note?: string }[]
   cases?: { citation: string; note?: string }[]
   definitions?: string[]
@@ -35,14 +33,35 @@ interface ProceduralMap {
   edges: MapEdge[]
 }
 
-const NODE_STYLES: Record<string, { fill: string; stroke: string; text: string; shape: 'rect' | 'diamond' | 'ellipse' }> = {
-  start:     { fill: '#1a3d2e', stroke: '#279e88', text: '#e8f5f0', shape: 'ellipse' },
-  event:     { fill: '#2a3b5c', stroke: '#4a6fd4', text: '#e8edf8', shape: 'rect' },
-  decision:  { fill: '#3a2f14', stroke: '#d4a72c', text: '#faf3dd', shape: 'diamond' },
-  action:    { fill: '#23324a', stroke: '#4a90d9', text: '#e8f0fa', shape: 'rect' },
-  outcome:   { fill: '#143d33', stroke: '#27ae60', text: '#e6f7ef', shape: 'rect' },
-  end:       { fill: '#3a1a1a', stroke: '#c0392b', text: '#faeaea', shape: 'rect' },
+// Node shape per step type. Colours live in CSS (.lk-map__node--<type>) so
+// they follow the lawkitty tokens and the light/dark theme.
+const NODE_STYLES: Record<string, { shape: 'rect' | 'diamond' | 'ellipse' }> = {
+  start:     { shape: 'rect' },
+  event:     { shape: 'rect' },
+  decision:  { shape: 'diamond' },
+  action:    { shape: 'rect' },
+  outcome:   { shape: 'rect' },
+  end:       { shape: 'rect' },
 }
+
+const LEGEND: { type: string; label: string }[] = [
+  { type: 'start', label: 'start' },
+  { type: 'event', label: 'event' },
+  { type: 'decision', label: 'decision' },
+  { type: 'action', label: 'action' },
+  { type: 'outcome', label: 'outcome' },
+  { type: 'end', label: 'no relief / end' },
+]
+
+const nodeTypeClass = (t: string) => (NODE_STYLES[t] ? t : 'start')
+
+const Icon = ({ d, size = 16 }: { d: React.ReactNode; size?: number }) => (
+  <svg aria-hidden="true" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor"
+       strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}>
+    {d}
+  </svg>
+)
+const ICON_CLOSE = <path d="M6 6l12 12M18 6L6 18" />
 
 function computeLayout(map: ProceduralMap) {
   const g = new dagre.graphlib.Graph()
@@ -101,6 +120,16 @@ export default function MapView({ mapId, onClose, onOpenSection, height, isMobil
       .then(setMap)
       .catch(e => setError(e.message))
   }, [mapId])
+
+  // A node link opened in a new tab lands back on this map with #node-<id> —
+  // select that node once the map has loaded (F-15).
+  useEffect(() => {
+    if (!map) return
+    const m = window.location.hash.match(/^#node-(.+)$/)
+    if (!m) return
+    const n = map.nodes.find(x => x.id === decodeURIComponent(m[1]))
+    if (n) setSelected(n)
+  }, [map])
 
   const layout = useMemo(() => (map ? computeLayout(map) : null), [map])
 
@@ -202,11 +231,12 @@ export default function MapView({ mapId, onClose, onOpenSection, height, isMobil
 
   if (error) {
     return (
-      <div style={{ background: COLORS.surface, color: COLORS.text, padding: 24, borderRadius: 10, maxWidth: 420, border: '1px solid ' + COLORS.border }}>
-        <div style={{ fontWeight: 600, marginBottom: 8 }}>Map unavailable</div>
-        <div style={{ fontSize: 13, color: COLORS.textMuted }}>{error}</div>
+      <div className="lk-map-state" role="alert">
+        <h2 className="lk-empty-state__title">This map wandered off.</h2>
+        <div>The cat looked under the couch. Nothing.</div>
+        <div className="lk-map__row-cite">{error}</div>
         {onClose && (
-          <button onClick={onClose} style={{ marginTop: 16, padding: '6px 14px', borderRadius: 6, border: '1px solid ' + COLORS.border, background: COLORS.bg, color: COLORS.text, cursor: 'pointer' }}>Close</button>
+          <button type="button" className="lk-reader-btn" onClick={onClose} style={{ marginTop: 8 }}>Close</button>
         )}
       </div>
     )
@@ -214,88 +244,66 @@ export default function MapView({ mapId, onClose, onOpenSection, height, isMobil
 
   if (!map || !layout) {
     return (
-      <div style={{ height: height || '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', color: COLORS.textMuted, fontSize: 14 }}>
-        Loading map…
+      <div className="lk-map-loading" style={{ height: height || '100%' }} role="status">
+        Unrolling the map...
       </div>
     )
   }
-
-  const nodeById = new Map(map.nodes.map(n => [n.id, n]))
-  const edgesByNode = new Map<string, MapEdge[]>()
-  for (const e of map.edges) {
-    if (!edgesByNode.has(e.from)) edgesByNode.set(e.from, [])
-    edgesByNode.get(e.from)!.push(e)
-  }
-
-  const viewW = Math.max(900, ...map.nodes.map(n => (layout.get(n.id)?.x || 0) + 260))
-  const viewH = Math.max(600, ...map.nodes.map(n => (layout.get(n.id)?.y || 0) + 120))
 
   const zoomIn = () => setView(v => ({ ...v, scale: Math.min(v.scale * 1.2, 3) }))
   const zoomOut = () => setView(v => ({ ...v, scale: Math.max(v.scale / 1.2, 0.15) }))
 
   const detailBody = selected ? (
     <>
-      <div style={{ fontSize: 14, fontWeight: 600, color: COLORS.text, marginBottom: 10, lineHeight: 1.4 }}>
-        {selected.label}
-      </div>
+      <p className="lk-map__detail-title">{selected.label}</p>
       {selected.body && (
-        <div style={{ fontSize: 12.5, color: COLORS.textMuted, lineHeight: 1.55, marginBottom: 12 }}>
-          {selected.body}
-        </div>
+        <p className="lk-map__detail-body">{selected.body}</p>
       )}
       {selected.statute && selected.statute.length > 0 && (
-        <div style={{ marginBottom: 12 }}>
-          <div style={{ fontSize: 10.5, fontWeight: 700, color: '#279e88', textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 6 }}>Statute</div>
+        <div className="lk-map__group">
+          <span className="lk-map__group-label">Statute</span>
           {selected.statute.map((s, i) => (
-            <button key={i} onClick={() => onOpenSection(s.act, s.section.split('(')[0].trim())}
-                    style={{ display: 'block', width: '100%', textAlign: 'left', padding: '7px 10px', marginBottom: 5, borderRadius: 6, border: '1px solid ' + COLORS.border, background: COLORS.bg, color: '#279e88', cursor: 'pointer', fontSize: 12.5 }}>
-              <span style={{ fontWeight: 700 }}>{s.section}</span>
-              {s.title ? <span style={{ color: COLORS.textMuted }}> — {s.title}</span> : null}
-            </button>
-          ))}
-        </div>
-      )}
-      {selected.commentary && selected.commentary.length > 0 && (
-        <div style={{ marginBottom: 12 }}>
-          <div style={{ fontSize: 10.5, fontWeight: 700, color: '#e67e22', textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 6 }}>Commentary — CCH Master Tax Guide</div>
-          {selected.commentary.map((c, i) => (
-            <button key={i} onClick={() => onOpenSection('master-tax-guide', c)}
-                    style={{ display: 'block', width: '100%', textAlign: 'left', padding: '7px 10px', marginBottom: 5, borderRadius: 6, border: '1px solid ' + COLORS.border, background: COLORS.bg, color: '#e67e22', cursor: 'pointer', fontSize: 12.5 }}>
-              {c.replace(/-/g, ' ')}
+            <button key={i} type="button" className="lk-map__row"
+                    onClick={() => onOpenSection(s.act, s.section.split('(')[0].trim())}>
+              <span className="lk-badge lk-badge--act">Act</span>
+              <span className="lk-map__row-cite">{s.section}</span>
+              {s.title ? <span className="lk-map__row-title">{s.title}</span> : null}
             </button>
           ))}
         </div>
       )}
       {selected.rulings && selected.rulings.length > 0 && (
-        <div style={{ marginBottom: 12 }}>
-          <div style={{ fontSize: 10.5, fontWeight: 700, color: '#c0392b', textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 6 }}>ATO Rulings</div>
+        <div className="lk-map__group">
+          <span className="lk-map__group-label">ATO rulings</span>
           {selected.rulings.map((r, i) => (
-            <button key={i} onClick={() => onOpenSection('rulings', r.id)}
-                    style={{ display: 'block', width: '100%', textAlign: 'left', padding: '7px 10px', marginBottom: 5, borderRadius: 6, border: '1px solid ' + COLORS.border, background: COLORS.bg, color: '#c0392b', cursor: 'pointer', fontSize: 12.5 }}>
-              <span style={{ fontWeight: 700 }}>{r.id.replace(/_/g, ' ')}</span>
-              {r.title ? <span style={{ color: COLORS.textMuted }}> — {r.title}</span> : null}
-              {r.note ? <div style={{ color: COLORS.textMuted, fontSize: 11.5 }}>{r.note}</div> : null}
+            <button key={i} type="button" className="lk-map__row"
+                    onClick={() => onOpenSection('rulings', r.id)}>
+              <span className="lk-badge lk-badge--ruling">Ruling</span>
+              <span className="lk-map__row-cite">{r.id.replace(/_/g, ' ')}</span>
+              {r.title ? <span className="lk-map__row-title">{r.title}</span> : null}
+              {r.note ? <span className="lk-map__row-title">{r.note}</span> : null}
             </button>
           ))}
         </div>
       )}
       {selected.cases && selected.cases.length > 0 && (
-        <div style={{ marginBottom: 12 }}>
-          <div style={{ fontSize: 10.5, fontWeight: 700, color: '#3498db', textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 6 }}>Cases</div>
+        <div className="lk-map__group">
+          <span className="lk-map__group-label">Cases</span>
           {selected.cases.map((c, i) => (
-            <div key={i} style={{ fontSize: 12.5, color: '#3498db', marginBottom: 4 }}>
-              {c.citation}
-              {c.note ? <div style={{ color: COLORS.textMuted, fontSize: 11.5 }}>{c.note}</div> : null}
+            <div key={i} className="lk-map__row">
+              <span className="lk-badge lk-badge--case">Case</span>
+              <span className="lk-map__row-cite">{c.citation}</span>
+              {c.note ? <span className="lk-map__row-title">{c.note}</span> : null}
             </div>
           ))}
         </div>
       )}
       {selected.definitions && selected.definitions.length > 0 && (
-        <div>
-          <div style={{ fontSize: 10.5, fontWeight: 700, color: '#9b59b6', textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 6 }}>Defined terms</div>
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 5 }}>
+        <div className="lk-map__group">
+          <span className="lk-map__group-label">Definitions</span>
+          <div className="lk-map__terms">
             {selected.definitions.map((d, i) => (
-              <span key={i} style={{ padding: '3px 8px', borderRadius: 20, background: 'rgba(155,89,182,0.15)', color: '#c39bd3', fontSize: 11.5 }}>{d}</span>
+              <span key={i} className="lk-map__term">{d}</span>
             ))}
           </div>
         </div>
@@ -303,44 +311,58 @@ export default function MapView({ mapId, onClose, onOpenSection, height, isMobil
     </>
   ) : null
 
+  const detailHead = selected ? (
+    <div className="lk-map__detail-head">
+      <span className={`lk-map__type lk-map__type--${nodeTypeClass(selected.type)}`}>{selected.type}</span>
+      <button type="button" className="lk-map__iconbtn lk-map__iconbtn--bare" onClick={() => setSelected(null)} aria-label="Close details">
+        <Icon d={ICON_CLOSE} size={18} />
+      </button>
+    </div>
+  ) : null
+
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', height: height || '100%', minHeight: height ? 480 : 0, maxWidth: 1400, width: '100%' }}>
+    <div className={`lk-map${mobile ? ' lk-map--mobile' : ''}`} style={{ height: height || '100%', minHeight: height ? 480 : 0 }}>
       {/* Header */}
-      <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: 8, gap: 8 }}>
-        <div>
-          <div style={{ fontSize: mobile ? 15 : 16, fontWeight: 700, color: COLORS.heading, fontFamily: "'Montserrat', sans-serif" }}>
-            {map.short || map.title}
+      <div className="lk-map__head">
+        <div className="lk-map__titles">
+          <div className="lk-map__title-row">
+            <h1 className="lk-map__title">{map.short || map.title}</h1>
+            {onClose && mobile && (
+              <button type="button" className="lk-map__iconbtn" onClick={onClose} aria-label="Close map">
+                <Icon d={ICON_CLOSE} size={18} />
+              </button>
+            )}
           </div>
-          {map.refs && (
-            <div style={{ fontSize: 12, color: COLORS.textMuted, marginTop: 4, maxWidth: 900 }}>
-              {map.refs}
-            </div>
-          )}
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: mobile ? 10 : 14, marginTop: 8, fontSize: 11, color: COLORS.textMuted }}>
-            <span style={{ color: '#279e88' }}>● start</span>
-            <span style={{ color: '#4a6fd4' }}>■ event</span>
-            <span style={{ color: '#d4a72c' }}>◇ decision</span>
-            <span style={{ color: '#4a90d9' }}>▭ action</span>
-            <span style={{ color: '#27ae60' }}>▭ outcome</span>
-            <span style={{ color: '#c0392b' }}>▭ no relief / end</span>
-          </div>
+          {map.refs && <span className="lk-map__refs">{map.refs}</span>}
         </div>
-        {onClose && (
-          <button onClick={onClose} aria-label="Close map" style={{ background: 'none', border: 'none', color: COLORS.textMuted, fontSize: 22, cursor: 'pointer', lineHeight: 1, flexShrink: 0, width: mobile ? 40 : 32, height: mobile ? 40 : 32, display: 'flex', alignItems: 'center', justifyContent: 'center', marginRight: mobile ? -8 : 0 }}>✕</button>
-        )}
+        <div style={{ display: 'flex', alignItems: 'center', gap: 16, flexWrap: 'wrap' }}>
+          <div className="lk-map__legend" aria-label="Legend">
+            {LEGEND.map(l => (
+              <span key={l.type} className="lk-map__legend-item">
+                <span className={`lk-map__swatch lk-map__swatch--${l.type}`} aria-hidden="true" />
+                {l.label}
+              </span>
+            ))}
+          </div>
+          {onClose && !mobile && (
+            <button type="button" className="lk-map__iconbtn" onClick={onClose} aria-label="Close map">
+              <Icon d={ICON_CLOSE} size={18} />
+            </button>
+          )}
+        </div>
       </div>
 
-      <div style={{ position: 'relative', display: 'flex', flex: 1, minHeight: 0, gap: 12, flexDirection: mobile ? 'column' : 'row' }}>
+      <div className="lk-map__body">
         {/* Flowchart */}
         <div
-          style={{ flex: 1, minHeight: 0, background: COLORS.bg, border: '1px solid ' + COLORS.border, borderRadius: 10, overflow: 'hidden', position: 'relative', touchAction: 'none' }}
+          className="lk-map__canvas"
           onWheel={onWheel}
           onPointerDown={onPointerDown}
           onPointerMove={onPointerMove}
           onPointerUp={onPointerUp}
           onPointerCancel={onPointerUp}
         >
-          <svg ref={svgRef} width="100%" height="100%" style={{ display: 'block' }}>
+          <svg ref={svgRef} width="100%" height="100%" className="lk-map__svg">
             <g transform={`translate(${view.x}, ${view.y}) scale(${view.scale})`}>
               {/* edges */}
               {map.edges.map((e, i) => {
@@ -355,10 +377,9 @@ export default function MapView({ mapId, onClose, onOpenSection, height, isMobil
                 const mx = (sx + tx) / 2, my = (sy + ty) / 2
                 return (
                   <g key={i}>
-                    <line x1={sx} y1={sy} x2={tx} y2={ty} stroke="#556" strokeWidth={1.4} markerEnd="url(#map-arrow)" />
+                    <line x1={sx} y1={sy} x2={tx} y2={ty} className="lk-map__edge" markerEnd="url(#map-arrow)" />
                     {e.label && (
-                      <text x={mx} y={my - 5} textAnchor="middle" fontSize={10} fill={COLORS.textMuted}
-                            style={{ paintOrder: 'stroke', stroke: COLORS.bg, strokeWidth: 3 }}>
+                      <text x={mx} y={my - 6} textAnchor="middle" className="lk-map__edge-label">
                         {e.label}
                       </text>
                     )}
@@ -366,19 +387,22 @@ export default function MapView({ mapId, onClose, onOpenSection, height, isMobil
                 )
               })}
               <defs>
-                <marker id="map-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-                  <path d="M 0 0 L 10 5 L 0 10 z" fill="#667" />
+                <marker id="map-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                  <path d="M 0 0 L 10 5 L 0 10 z" className="lk-map__arrow" />
                 </marker>
               </defs>
               {/* nodes */}
               {map.nodes.map(n => {
                 const p = layout.get(n.id)!
                 const style = NODE_STYLES[n.type] || NODE_STYLES.start
-                const w = style.shape === 'diamond' ? 200 : 240
-                const h = style.shape === 'diamond' ? 110 : 64
+                const isDiamond = style.shape === 'diamond'
+                const w = isDiamond ? 200 : 240
+                const h = isDiamond ? 110 : 64
                 const isSel = selected?.id === n.id
+                const fontSize = isDiamond ? 11 : 12
+                const lineH = isDiamond ? 14 : 15
                 const words = n.label.split(' ')
-                const lineLen = Math.max(20, Math.min(34, Math.floor(w / 7.2)))
+                const lineLen = Math.max(20, Math.min(32, Math.floor(w / (isDiamond ? 8.4 : 7.4))))
                 const lines: string[] = []
                 let cur = ''
                 for (const word of words) {
@@ -388,69 +412,81 @@ export default function MapView({ mapId, onClose, onOpenSection, height, isMobil
                 if (cur) lines.push(cur)
                 const shown = lines.slice(0, 3)
                 const truncated = lines.length > 3
+                const totalLines = shown.length + (truncated ? 1 : 0)
                 return (
-                  <g key={n.id} data-node onClick={() => { if (!dragRef.current?.moved) setSelected(n) }}
-                     style={{ cursor: 'pointer' }}
-                     transform={`translate(${p.x - w / 2}, ${p.y - h / 2})`}>
-                    {style.shape === 'diamond' ? (
-                      <polygon points={`${w / 2},0 ${w},${h / 2} ${w / 2},${h} 0,${h / 2}`}
-                               fill={style.fill} stroke={isSel ? '#fff' : style.stroke} strokeWidth={isSel ? 2 : 1.4} />
-                    ) : style.shape === 'ellipse' ? (
-                      <ellipse cx={w / 2} cy={h / 2} rx={w / 2} ry={h / 2}
-                               fill={style.fill} stroke={isSel ? '#fff' : style.stroke} strokeWidth={isSel ? 2 : 1.4} />
-                    ) : (
-                      <rect x={2} y={2} width={w - 4} height={h - 4} rx={8}
-                            fill={style.fill} stroke={isSel ? '#fff' : style.stroke} strokeWidth={isSel ? 2 : 1.4} />
-                    )}
-                    <text x={w / 2} y={h / 2 - ((shown.length - 1) * 7) / 2} textAnchor="middle" fontSize={10.5} fill={style.text} style={{ pointerEvents: 'none' }}>
-                      {shown.map((ln, li) => (
-                        <tspan key={li} x={w / 2} dy={li === 0 ? 0 : 14}>{ln}</tspan>
-                      ))}
-                      {truncated && <tspan x={w / 2} dy={14} fill="#aaa">…</tspan>}
-                    </text>
-                  </g>
+                  // Native SVG <a> (not react-router Link, which renders an
+                  // HTML <a> and can't nest inside <svg>) so right-click /
+                  // middle-click / ctrl-click "open in new tab" work (F-15).
+                  // A plain left click still does the in-app node select.
+                  <a key={n.id} href={`/maps/${mapId}#node-${encodeURIComponent(n.id)}`}
+                     data-node
+                     className={`lk-map__node lk-map__node--${nodeTypeClass(n.type)}${isSel ? ' lk-map__node--selected' : ''}`}
+                     aria-label={`${n.type}: ${n.label}`}
+                     onClick={(e) => {
+                       if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return
+                       e.preventDefault()
+                       if (!dragRef.current?.moved) setSelected(n)
+                     }}>
+                    <g transform={`translate(${p.x - w / 2}, ${p.y - h / 2})`}>
+                      {style.shape === 'diamond' ? (
+                        <polygon className="lk-map__node-shape" points={`${w / 2},1 ${w - 1},${h / 2} ${w / 2},${h - 1} 1,${h / 2}`} strokeLinejoin="round" />
+                      ) : style.shape === 'ellipse' ? (
+                        <ellipse className="lk-map__node-shape" cx={w / 2} cy={h / 2} rx={w / 2 - 1} ry={h / 2 - 1} />
+                      ) : (
+                        <rect className="lk-map__node-shape" x={2} y={2} width={w - 4} height={h - 4} rx={14} />
+                      )}
+                      <text x={w / 2} y={h / 2 - ((totalLines - 1) * lineH) / 2 + fontSize * 0.35} textAnchor="middle" fontSize={fontSize} className="lk-map__node-text">
+                        {shown.map((ln, li) => (
+                          <tspan key={li} x={w / 2} dy={li === 0 ? 0 : lineH}>{ln}</tspan>
+                        ))}
+                        {truncated && <tspan x={w / 2} dy={lineH} className="lk-map__node-more">...</tspan>}
+                      </text>
+                    </g>
+                  </a>
                 )
               })}
             </g>
           </svg>
           {/* Zoom controls */}
-          <div style={{ position: 'absolute', right: 12, top: 12, display: 'flex', flexDirection: 'column', gap: 6, zIndex: 20 }}>
-            <button onClick={zoomIn} aria-label="Zoom in" style={{ width: mobile ? 40 : 32, height: mobile ? 40 : 32, borderRadius: 8, background: COLORS.surface, color: COLORS.text, border: '1px solid ' + COLORS.border, cursor: 'pointer', fontSize: mobile ? 20 : 16, lineHeight: 1 }}>+</button>
-            <button onClick={zoomOut} aria-label="Zoom out" style={{ width: mobile ? 40 : 32, height: mobile ? 40 : 32, borderRadius: 8, background: COLORS.surface, color: COLORS.text, border: '1px solid ' + COLORS.border, cursor: 'pointer', fontSize: mobile ? 20 : 16, lineHeight: 1 }}>−</button>
-            <button onClick={fitView} aria-label="Fit to view" title="Fit to view" style={{ width: mobile ? 40 : 32, height: mobile ? 40 : 32, borderRadius: 8, background: COLORS.surface, color: COLORS.text, border: '1px solid ' + COLORS.border, cursor: 'pointer', fontSize: mobile ? 16 : 13, lineHeight: 1 }}>⤢</button>
+          <div className="lk-map__controls">
+            <button type="button" className="lk-map__iconbtn" onClick={zoomIn} aria-label="Zoom in">
+              <Icon d={<path d="M12 5v14M5 12h14" />} />
+            </button>
+            <button type="button" className="lk-map__iconbtn" onClick={zoomOut} aria-label="Zoom out">
+              <Icon d={<path d="M5 12h14" />} />
+            </button>
+            <button type="button" className="lk-map__iconbtn" onClick={fitView} aria-label="Fit to view" title="Fit to view">
+              <Icon d={<path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5" />} />
+            </button>
           </div>
-          <div style={{ position: 'absolute', left: 12, bottom: 12, fontSize: 10.5, color: COLORS.textMuted, background: 'rgba(0,0,0,0.5)', padding: '4px 8px', borderRadius: 6, pointerEvents: 'none' }}>
-            {mobile ? 'drag to pan · pinch to zoom · tap a node' : 'scroll to zoom · drag to pan · click a node for details'}
+          <div className="lk-map__hint">
+            {mobile ? 'Drag to pan · pinch to zoom · tap a node' : 'Scroll to zoom · drag to pan · click a node for details'}
           </div>
         </div>
 
         {/* Detail panel (desktop side panel) */}
         {!mobile && (
-          <div style={{ width: 360, background: COLORS.surface, border: '1px solid ' + COLORS.border, borderRadius: 10, overflow: 'auto', padding: 16, flexShrink: 0 }}>
+          <aside className="lk-map__detail" aria-label="Step details">
             {!selected ? (
-              <div style={{ color: COLORS.textMuted, fontSize: 13, lineHeight: 1.5 }}>
-                Click a node to see the statute, commentary, cases and definitions behind that step.
+              <div>
+                <h2 className="lk-map__empty-title">Pick a node.</h2>
+                <p className="lk-map__empty">The cat will fetch the statute, cases and definitions behind that step.</p>
               </div>
             ) : (
-              <div>
-                <div style={{ fontSize: 13, fontWeight: 700, color: COLORS.heading, marginBottom: 8, textTransform: 'uppercase', letterSpacing: 0.4 }}>
-                  {selected.type}
-                </div>
+              <>
+                {detailHead}
                 {detailBody}
-              </div>
+              </>
             )}
-          </div>
+          </aside>
         )}
 
         {/* Detail sheet (mobile bottom sheet) */}
         {mobile && selected && (
-          <div style={{ position: 'absolute', left: 0, right: 0, bottom: 0, maxHeight: '55%', overflow: 'auto', background: COLORS.surface, borderTop: '1px solid ' + COLORS.border, borderRadius: '12px 12px 0 0', padding: '12px 14px 14px', boxShadow: '0 -10px 30px rgba(0,0,0,0.4)', WebkitOverflowScrolling: 'touch' }}>
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 6 }}>
-              <div style={{ fontSize: 10.5, fontWeight: 700, color: COLORS.heading, textTransform: 'uppercase', letterSpacing: 0.4 }}>{selected.type}</div>
-              <button onClick={() => setSelected(null)} aria-label="Close details" style={{ background: 'none', border: 'none', color: COLORS.textMuted, fontSize: 20, cursor: 'pointer', lineHeight: 1, width: 40, height: 40, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0, marginRight: -6 }}>✕</button>
-            </div>
+          <aside className="lk-map__detail lk-map__detail--sheet" aria-label="Step details">
+            {detailHead}
             {detailBody}
-          </div>
+          </aside>
         )}
       </div>
     </div>

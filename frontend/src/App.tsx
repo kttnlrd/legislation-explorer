@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useRef, useMemo } from 'react'
+import { Routes, Route, Link, useNavigate, useLocation, useParams } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
@@ -17,15 +18,19 @@ import PrivateRulingsBrowser from './components/PrivateRulingsBrowser'
 import ProposedLawBrowser from './components/ProposedLawBrowser'
 import PrivateRulingContent from './components/PrivateRulingContent'
 import RegulatoryGuideContent from './components/RegulatoryGuideContent'
+import AfsaGuideContent from './components/AfsaGuideContent'
 import TaxCaseContent from './components/TaxCaseContent'
-import SettingsPanel from './components/SettingsPanel'
 import GraphModal from './components/GraphModal'
+import AdminPanel from './components/AdminPanel'
+import AccountPanel from './components/AccountPanel'
+import McpTokenBanner from './components/McpTokenBanner'
 import MapView from './components/MapView'
 import IssuesModal from './components/IssuesModal'
 import SearchPanel from './components/SearchPanel'
+import YarnBall from './components/YarnBall'
 import TreatyContent from './components/TreatyContent'
 import { ThemeProvider } from './ThemeContext'
-import { shortActName } from './utils/display'
+import { shortActName, rulingSlug } from './utils/display'
 
 // Domain groupings for the act picker
 // All individual treaty country slugs — kept for isTreaty() / routing
@@ -41,15 +46,50 @@ const TREATY_SLUGS = [
 const TREATY_SET = new Set(TREATY_SLUGS)
 const isTreaty = (id: string) => TREATY_SET.has(id) && id !== 'treaties'
 
-const DOMAINS: { label: string; ids: string[] }[] = [
-  // Every category holds >=3 items (CDN-0190): singleton categories fold into
-  // the closest section rather than cluttering the picker. The final 'Other'
-  // is the designated catch-all for anything sub-3.
-  { label: 'Australian Legislation', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'fbt-1986', 'sis-1993', 'corporations-act-2001', 'aml-ctf-2006', 'aml-ctf-rules-2007'] },
-  { label: 'Australian Tax Rulings & Cases', ids: ['rulings', 'tax-cases', 'private-rulings'] },
-  { label: 'Australian Other Resources', ids: ['master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'regulatory-guides', 'insolvency-keays'] },
-  { label: 'NZ & International Tax', ids: ['nz-it-2007', 'nz-master-tax-guide', 'treaties', 'oecd-mtc-2017'] },
-  { label: 'Other', ids: ['spec'] },
+// Sidebar source browser — three flat groups (no dropdown). Replaced the old
+// act-picker dropdown at Harry's direction: "no drop down, instead the sidebar
+// should list legislation, case law, resources".
+const SOURCE_GROUPS: { label: string; items: { id: string; label: string; to: string }[] }[] = [
+  {
+    label: 'Legislation',
+    items: [
+      { id: 'itaa-1997', label: 'Income Tax Assessment Act 1997', to: '/itaa-1997' },
+      { id: 'itaa-1936', label: 'Income Tax Assessment Act 1936', to: '/itaa-1936' },
+      { id: 'gst-1999', label: 'GST Act 1999', to: '/gst-1999' },
+      { id: 'taa-1953', label: 'Taxation Administration Act 1953', to: '/taa-1953' },
+      { id: 'fbt-1986', label: 'Fringe Benefits Tax Assessment Act 1986', to: '/fbt-1986' },
+      { id: 'sis-1993', label: 'SIS Act 1993', to: '/sis-1993' },
+      { id: 'corporations-act-2001', label: 'Corporations Act 2001', to: '/corporations-act-2001' },
+      { id: 'aml-ctf-2006', label: 'AML/CTF Act', to: '/aml-ctf-2006' },
+      { id: 'aml-ctf-rules-2007', label: 'AML/CTF Rules', to: '/aml-ctf-rules-2007' },
+      { id: 'bankruptcy-act-1966', label: 'Bankruptcy Act 1966', to: '/bankruptcy-act-1966' },
+      { id: 'nz-it-2007', label: 'NZ Income Tax Act 2007', to: '/nz-it-2007' },
+    ],
+  },
+  {
+    label: 'Proposed Law',
+    items: [
+      { id: 'proposed-law', label: 'Proposed Law', to: '/proposed-law' },
+    ],
+  },
+  {
+    label: 'Case law',
+    items: [
+      { id: 'tax-cases', label: 'Tax cases', to: '/tax-cases' },
+    ],
+  },
+  {
+    label: 'Resources',
+    items: [
+      { id: 'rulings', label: 'Public rulings', to: '/rulings' },
+      { id: 'private-rulings', label: 'Private rulings', to: '/private-rulings' },
+      { id: 'regulatory-guides', label: 'ASIC regulatory guides', to: '/regulatory-guides' },
+      { id: 'afsa-guides', label: 'AFSA guides', to: '/afsa-guides' },
+      { id: 'treaties', label: 'Tax treaties', to: '/treaties' },
+      { id: 'maps', label: 'Procedural maps', to: '/maps' },
+      { id: 'definitions', label: 'Definitions finder', to: '/definitions' },
+    ],
+  },
 ]
 
 // ---------------------------------------------------------------------------
@@ -66,6 +106,189 @@ function isDefinitionLink(href?: string) {
 }
 
 // ---------------------------------------------------------------------------
+// Route → state sync (F-16)
+// ---------------------------------------------------------------------------
+// react-router now owns the browser history; these tiny components replace
+// the old popstate + regex parser. Each one mounts only when its route
+// matches (cold load, back/forward, or a navigate() call) and pushes the
+// route's params into the SAME state setters the rest of App already uses —
+// the fetch/render logic downstream is completely unchanged.
+type NavSetters = {
+  setAct: (a: string) => void
+  setActiveSection: (s: string) => void
+  setActiveRuling: (r: string | null) => void
+  setActivePrivateRuling: (r: string | null) => void
+  setPrivateRulingsYear: (y: number | 'undated' | null) => void
+  setSearchPage: (b: boolean) => void
+  setActiveMap: (m: string | null) => void
+  setActiveDefinitions: (d: string | null) => void
+  setBrowsingAct: (b: boolean) => void
+}
+
+function RouteHome({ n }: { n: NavSetters }) {
+  useEffect(() => {
+    n.setActiveMap(null)
+    n.setActiveDefinitions(null)
+    n.setSearchPage(false)
+    n.setActiveSection('')
+    n.setActiveRuling(null)
+    n.setActivePrivateRuling(null)
+    n.setBrowsingAct(false)
+  }, [])
+  return null
+}
+
+function RouteSearch({ n }: { n: NavSetters }) {
+  useEffect(() => {
+    n.setActiveMap(null)
+    n.setActiveDefinitions(null)
+    n.setActiveSection('')
+    n.setActiveRuling(null)
+    n.setActivePrivateRuling(null)
+    n.setSearchPage(true)
+  }, [])
+  return null
+}
+
+function RouteDefinitions({ n }: { n: NavSetters }) {
+  const { act } = useParams()
+  useEffect(() => {
+    n.setActiveDefinitions(act || '')
+    n.setActiveMap(null)
+    n.setSearchPage(false)
+    n.setActiveSection('')
+    n.setActiveRuling(null)
+    n.setActivePrivateRuling(null)
+  }, [act])
+  return null
+}
+
+function RouteMaps({ n }: { n: NavSetters }) {
+  const { id } = useParams()
+  useEffect(() => {
+    n.setActiveDefinitions(null)
+    n.setSearchPage(false)
+    if (id) {
+      n.setActiveMap(decodeURIComponent(id))
+      n.setActiveSection('')
+      n.setActiveRuling(null)
+    } else {
+      n.setActiveMap(null)
+      n.setActiveSection('')
+      n.setActiveRuling(null)
+      n.setAct('maps')
+      n.setBrowsingAct(true)
+    }
+  }, [id])
+  return null
+}
+
+function RoutePrivateRulingsIndex({ n }: { n: NavSetters }) {
+  useEffect(() => {
+    n.setActiveMap(null)
+    n.setActiveDefinitions(null)
+    n.setSearchPage(false)
+    n.setAct('private-rulings')
+    n.setActiveSection('')
+    n.setActiveRuling(null)
+    n.setActivePrivateRuling(null)
+    n.setBrowsingAct(true)
+  }, [])
+  return null
+}
+
+function RoutePrivateRulingsYear({ n }: { n: NavSetters }) {
+  const { year } = useParams()
+  useEffect(() => {
+    n.setActiveMap(null)
+    n.setActiveDefinitions(null)
+    n.setSearchPage(false)
+    n.setAct('private-rulings')
+    n.setActiveSection('')
+    n.setActiveRuling(null)
+    n.setActivePrivateRuling(null)
+    n.setBrowsingAct(true)
+    if (year) n.setPrivateRulingsYear(year === 'undated' ? 'undated' : Number(year))
+  }, [year])
+  return null
+}
+
+function RoutePrivateRuling({ n }: { n: NavSetters }) {
+  const { authnum } = useParams()
+  useEffect(() => {
+    n.setActiveMap(null)
+    n.setActiveDefinitions(null)
+    n.setSearchPage(false)
+    n.setAct('private-rulings')
+    n.setActivePrivateRuling(authnum ? decodeURIComponent(authnum) : null)
+    n.setActiveSection('')
+    n.setActiveRuling(null)
+    n.setBrowsingAct(true)
+  }, [authnum])
+  return null
+}
+
+function RouteRuling({ n }: { n: NavSetters }) {
+  const { citation } = useParams()
+  useEffect(() => {
+    n.setActiveMap(null)
+    n.setActiveDefinitions(null)
+    n.setSearchPage(false)
+    n.setAct('rulings')
+    n.setActiveRuling(citation ? decodeURIComponent(citation) : null)
+    n.setActiveSection('')
+    n.setActivePrivateRuling(null)
+  }, [citation])
+  return null
+}
+
+function RouteTaxCase({ n }: { n: NavSetters }) {
+  const { slug } = useParams()
+  useEffect(() => {
+    n.setActiveMap(null)
+    n.setActiveDefinitions(null)
+    n.setSearchPage(false)
+    n.setAct('tax-cases')
+    n.setActiveSection(slug ? decodeURIComponent(slug) : '')
+    n.setActiveRuling(null)
+    n.setActivePrivateRuling(null)
+  }, [slug])
+  return null
+}
+
+function RouteActOnly({ n }: { n: NavSetters }) {
+  const { act } = useParams()
+  useEffect(() => {
+    n.setActiveMap(null)
+    n.setActiveDefinitions(null)
+    n.setSearchPage(false)
+    if (act) n.setAct(act)
+    n.setActiveSection('')
+    n.setActiveRuling(null)
+    n.setActivePrivateRuling(null)
+    n.setBrowsingAct(true)
+  }, [act])
+  return null
+}
+
+function RouteActSection({ n }: { n: NavSetters }) {
+  const { act, section } = useParams()
+  useEffect(() => {
+    n.setActiveMap(null)
+    n.setActiveDefinitions(null)
+    n.setSearchPage(false)
+    if (act) n.setAct(act)
+    const raw = section ? decodeURIComponent(section) : ''
+    // Strip leading 's' prefix from section id for defense-in-depth (ROUTE-001).
+    const cleaned = raw.replace(/^s(?=\d)/, '')
+    n.setActiveSection(cleaned)
+    n.setActiveRuling(null)
+    n.setActivePrivateRuling(null)
+  }, [act, section])
+  return null
+}
+
+// ---------------------------------------------------------------------------
 // Error boundary — a render-phase crash must never blank the whole screen
 // ---------------------------------------------------------------------------
 class ErrorBoundary extends React.Component<{ children: React.ReactNode }, { error: Error | null }> {
@@ -74,12 +297,12 @@ class ErrorBoundary extends React.Component<{ children: React.ReactNode }, { err
   render() {
     if (this.state.error) {
       return (
-        <div style={{ padding: 40, fontFamily: "'Montserrat', sans-serif", color: COLORS.text, background: COLORS.bg, minHeight: '100vh' }}>
+        <div style={{ padding: 40, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", color: COLORS.text, background: COLORS.bg, minHeight: '100vh' }}>
           <div style={{ fontWeight: 700, fontSize: 16, marginBottom: 8 }}>Something went wrong</div>
           <div style={{ fontSize: 12, color: COLORS.textMuted, marginBottom: 16, fontFamily: 'monospace', whiteSpace: 'pre-wrap' }}>{this.state.error.message}</div>
           <button
             onClick={() => { this.setState({ error: null }); window.location.reload() }}
-            style={{ padding: '6px 14px', borderRadius: 6, border: '1px solid ' + COLORS.border, background: COLORS.surface, color: COLORS.text, cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
+            style={{ padding: '6px 14px', borderRadius: 6, border: '1px solid ' + COLORS.border, background: COLORS.surface, color: COLORS.text, cursor: 'pointer', fontFamily: "var(--font-ui, 'Figtree'), sans-serif" }}
           >Reload</button>
         </div>
       )
@@ -93,6 +316,8 @@ class ErrorBoundary extends React.Component<{ children: React.ReactNode }, { err
 // ---------------------------------------------------------------------------
 
 export default function App() {
+  const navigate = useNavigate()
+  const location = useLocation()
   const [act, setAct] = useState('itaa-1997')
   const [tree, setTree] = useState<Tree | null>(null)
   const [acts, setActs] = useState<any[]>([])
@@ -128,10 +353,9 @@ export default function App() {
 
   const [mcpOpen, setMcpOpen] = useState(false)
   const [searchPage, setSearchPage] = useState(false)
+  const [homeQuery, setHomeQuery] = useState('')
   const [showShortcuts, setShowShortcuts] = useState(false)
-  const [pickerOpen, setPickerOpen] = useState(false)
   const [searchResultsCount, setSearchResultsCount] = useState(0)
-  const pickerRef = useRef<HTMLDivElement>(null)
   const [pins, setPins] = useState<PinItem[]>(() => {
     try { return JSON.parse(localStorage.getItem('legislation-pins') || '[]') }
     catch { return [] }
@@ -152,7 +376,7 @@ export default function App() {
       .catch(() => { setUser(null); setAuthLoading(false) })
   }, [])
 
-  const [settingsOpen, setSettingsOpen] = useState(false)
+  const [accountOpen, setAccountOpen] = useState(false)
   const [issuesOpen, setIssuesOpen] = useState(false)
   const [changelogOpen, setChangelogOpen] = useState(false)
   const [graphOpen, setGraphOpen] = useState<{
@@ -166,8 +390,15 @@ export default function App() {
   // Definitions browser: null = off, '' = act picker, 'itaa-1936' = act view
   const [activeDefinitions, setActiveDefinitions] = useState<string | null>(null)
   const [mapsList, setMapsList] = useState<any[] | null>(null)
-  const settingsRef = useRef<HTMLDivElement>(null)
   const [selectedRulingSection, setSelectedRulingSection] = useState<string | null>(null)
+
+  // Bundled setters handed to the route-sync components (see top of file) —
+  // each mounts only when its <Route> matches and pushes params into these.
+  const navSetters: NavSetters = {
+    setAct, setActiveSection, setActiveRuling, setActivePrivateRuling,
+    setPrivateRulingsYear, setSearchPage, setActiveMap, setActiveDefinitions,
+    setBrowsingAct,
+  }
 
   // Pins
   const togglePin = () => {
@@ -235,7 +466,7 @@ export default function App() {
     setSearchPage(false)
   }
   const onNavigateCase = (citation: string) => {
-    window.history.pushState(null, '', `/tax-cases/${encodeURIComponent(citation)}`)
+    navigate(`/tax-cases/${encodeURIComponent(citation)}`)
     setAct('tax-cases')
     setActiveSection(citation)
     setActiveRuling(null)
@@ -244,15 +475,24 @@ export default function App() {
     setActiveMap(null)
   }
 
-  // Close picker on click outside
-  useEffect(() => {
-    const handler = (e: MouseEvent) => {
-      if (pickerRef.current && !pickerRef.current.contains(e.target as Node))
-        setPickerOpen(false)
+  // Open a source from the sidebar list (mirrors the old act-picker selectAct).
+  const openSource = (id: string) => {
+    setSearchPage(false)
+    setActiveSection('')
+    setActiveRuling(null)
+    setActivePrivateRuling(null)
+    setActiveMap(null)
+    setSectionData(null)
+    if (id === 'definitions') {
+      setActiveDefinitions('')
+      setBrowsingAct(false)
+    } else {
+      setAct(id)
+      setActiveDefinitions(null)
+      setBrowsingAct(true)
     }
-    document.addEventListener('mousedown', handler)
-    return () => document.removeEventListener('mousedown', handler)
-  }, [])
+    if (isMobile) setDrawerOpen(false)
+  }
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -260,6 +500,13 @@ export default function App() {
       if (e.key === '?' && !e.ctrlKey && !e.metaKey && !e.altKey) {
         e.preventDefault()
         setShowShortcuts(s => !s)
+      } else if (e.key === '/' && !e.ctrlKey && !e.metaKey && !e.altKey) {
+        // "/" opens search (advertised by the kbd hints and the shortcuts sheet)
+        const t = e.target as HTMLElement | null
+        if (t && (t.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName))) return
+        e.preventDefault()
+        setSearchPage(true)
+        navigate('/search')
       }
     }
     window.addEventListener('keydown', handler)
@@ -414,11 +661,30 @@ export default function App() {
     return s
   }, [treeForRender, activeSection, prExpanded])
 
+  // Canonical href for a tree row's id, given the current act context — used
+  // both by handleTreeSelect (for act-relative branches without their own
+  // route, e.g. maps/private-ruling years) and to give TreeNode real <Link>
+  // targets so right-click / middle-click / ctrl-click work (F-15).
+  const sectionHref = (e: string): string | null => {
+    if (act === 'maps') return `/maps/${e}`
+    if (act === 'treaties') {
+      const s = e.indexOf('/')
+      return s > -1 ? `/${e.slice(0, s)}/${e.slice(s + 1)}` : `/${e}`
+    }
+    if (act === 'rulings') return `/rulings/${rulingSlug(e)}`
+    if (act === 'private-rulings') {
+      if (e.startsWith('__more__:') || PR_MONTH_RE.test(e) || e === 'undated-all') return null
+      if (e === 'undated' || /^\d{4}$/.test(e)) return `/private-rulings/year/${e}`
+      return `/private-rulings/${e}`
+    }
+    return `/${act}/${e}`
+  }
+
   const handleTreeSelect = (e: string) => {
     setSearchPage(false)
     if (act === 'maps') {
       setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(e)
-      window.history.pushState(null, '', `/maps/${e}`)
+      navigate(`/maps/${e}`)
     } else if (act === 'treaties') {
       const s = e.indexOf('/')
       if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)) } else { setAct(e); setActiveSection('') }
@@ -433,6 +699,7 @@ export default function App() {
       } else if (e === 'undated' || /^\d{4}$/.test(e)) {
         setPrivateRulingsYear(e === 'undated' ? 'undated' : Number(e))
         setActivePrivateRuling(null)
+        navigate(`/private-rulings/year/${e}`)
       } else {
         setActivePrivateRuling(e)
       }
@@ -495,12 +762,14 @@ export default function App() {
       api.privateRuling(activePrivateRuling)
         .then(data => { setPrivateRulingData(data); setError('') })
         .catch(e => { setPrivateRulingData(null); setError(e.message) })
-      window.history.pushState(null, '', `/private-rulings/${activePrivateRuling}`)
+      const path = `/private-rulings/${activePrivateRuling}`
+      if (location.pathname !== path) navigate(path)
     } else if (activeRuling) {
       api.ruling(activeRuling)
         .then(data => { setRulingData(data); setError('') })
         .catch(e => { setRulingData(null); setError(e.message) })
-      window.history.pushState(null, '', `/rulings/${activeRuling}`)
+      const path = `/rulings/${rulingSlug(activeRuling)}`
+      if (location.pathname !== path) navigate(path)
     } else if (activeSection && isTreaty(act)) {
       api.treatyArticle(act, activeSection)
         .then(data => { setSectionData(data); setError('') })
@@ -512,7 +781,8 @@ export default function App() {
             setError(e.message)
           }
         })
-      window.history.pushState(null, '', `/${act}/${activeSection}`)
+      const path = `/${act}/${activeSection}`
+      if (location.pathname !== path) navigate(path)
     } else if (activeSection) {
       api.section(act, activeSection)
         .then(data => { setSectionData(data); setError('') })
@@ -527,95 +797,16 @@ export default function App() {
       api.commentary(act, activeSection).then(setCommentaryData).catch(() => {})
       api.cases(act, activeSection).then(setCasesData).catch(() => {})
       api.rulings(act, activeSection).then(setRulingsForSectionData).catch(() => {})
-      window.history.pushState(null, '', `/${act}/${activeSection}`)
+      const path = `/${act}/${activeSection}`
+      if (location.pathname !== path) navigate(path)
     }
     if (isMobile) setDrawerOpen(false)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [act, activeSection, activeRuling, activePrivateRuling, isMobile])
 
-  // URL → state sync
-  useEffect(() => {
-    const handler = () => {
-      // Map routes take priority: /maps/{id} and /maps (index)
-      const mapMatch = window.location.pathname.match(/^\/maps\/(.+)$/)
-      const mapsIndex = window.location.pathname === '/maps'
-      const isSearch = window.location.pathname === '/search'
-      // Definitions routes must match before sectionMatch/actOnlyMatch so
-      // /definitions/itaa-1936 isn't swallowed by the generic matchers.
-      const defsMatch = window.location.pathname.match(/^\/definitions(?:\/([a-z0-9-]+))?$/)
-      const privateRulingMatch = window.location.pathname.match(/^\/private-rulings\/(.+)$/)
-      const sectionMatch = window.location.pathname.match(/\/([a-z0-9-]+)\/(.+)/)
-      const rulingMatch = window.location.pathname.match(/\/rulings\/(.+)/)
-      const actOnlyMatch = window.location.pathname.match(/^\/([a-z0-9-]+)$/)
-
-      if (!defsMatch) setActiveDefinitions(null)
-
-      if (isSearch) {
-        setActiveMap(null)
-        setActiveSection('')
-        setActiveRuling(null)
-        setActivePrivateRuling(null)
-        setSearchPage(true)
-      } else if (defsMatch) {
-        setActiveDefinitions(defsMatch[1] || '')
-        setActiveMap(null)
-        setActiveSection('')
-        setActiveRuling(null)
-        setActivePrivateRuling(null)
-        setSearchPage(false)
-      } else if (mapMatch) {
-        setActiveMap(decodeURIComponent(mapMatch[1]))
-        setActiveSection('')
-        setActiveRuling(null)
-      } else if (mapsIndex) {
-        setActiveMap(null)
-        setActiveSection('')
-        setActiveRuling(null)
-        setAct('maps')
-        setBrowsingAct(true)
-      } else if (privateRulingMatch) {
-        setActiveMap(null)
-        setAct('private-rulings')
-        setActivePrivateRuling(decodeURIComponent(privateRulingMatch[1]))
-        setActiveSection('')
-        setActiveRuling(null)
-        setBrowsingAct(true)
-      } else if (rulingMatch) {
-        setActiveMap(null)
-        setAct('rulings')
-        setActiveRuling(decodeURIComponent(rulingMatch[1]))
-        setActiveSection('')
-        setActivePrivateRuling(null)
-      } else if (sectionMatch) {
-        setActiveMap(null)
-        setAct(sectionMatch[1])
-        // Strip leading 's' prefix from section id for defense-in-depth (ROUTE-001)
-        // Backend also strips this, but frontend-only entry points benefit too.
-        const rawSection = sectionMatch[2]
-        const cleanedSection = rawSection.replace(/^s(?=\d)/, '')
-        setActiveSection(decodeURIComponent(cleanedSection))
-        setActiveRuling(null)
-        setActivePrivateRuling(null)
-      } else if (actOnlyMatch) {
-        setActiveMap(null)
-        setAct(actOnlyMatch[1])
-        setActiveSection('')
-        setActiveRuling(null)
-        setActivePrivateRuling(null)
-        setBrowsingAct(true)
-      } else {
-        setActiveMap(null)
-        setActiveSection('')
-        setActiveRuling(null)
-        setActivePrivateRuling(null)
-      }
-    }
-    handler()
-    window.addEventListener('popstate', handler)
-    return () => window.removeEventListener('popstate', handler)
-  }, [])
-
   // Leaving the definitions browser: any in-app navigation to a section,
-  // ruling or map closes it (URL changes are handled by the popstate sync).
+  // ruling or map closes it (route changes are handled by the route sync
+  // components above via <Routes>).
   useEffect(() => {
     if (activeDefinitions !== null && (activeSection || activeRuling || activePrivateRuling || activeMap)) {
       setActiveDefinitions(null)
@@ -645,10 +836,35 @@ export default function App() {
     setSearchResults(data.results)
   }
 
-  if (error) return <div style={{ padding: 20, color: '#ef4444' }}>Error: {error}</div>
-  if (!tree) return <div style={{ padding: 20, color: COLORS.textMuted }}>Loading...</div>
+  // Route sync — rendered regardless of loading/error state below so a cold
+  // load or Back/Forward navigation updates state even before the initial
+  // tree fetch resolves (F-16). Renders nothing visible; see NavSetters above.
+  const routeSync = (
+    <Routes>
+      <Route path="/" element={<RouteHome n={navSetters} />} />
+      <Route path="/search" element={<RouteSearch n={navSetters} />} />
+      <Route path="/admin" element={<RouteHome n={navSetters} />} />
+      <Route path="/definitions" element={<RouteDefinitions n={navSetters} />} />
+      <Route path="/definitions/:act" element={<RouteDefinitions n={navSetters} />} />
+      <Route path="/definitions/:act/:term" element={<RouteDefinitions n={navSetters} />} />
+      <Route path="/maps" element={<RouteMaps n={navSetters} />} />
+      <Route path="/maps/:id" element={<RouteMaps n={navSetters} />} />
+      <Route path="/private-rulings" element={<RoutePrivateRulingsIndex n={navSetters} />} />
+      <Route path="/private-rulings/year/:year" element={<RoutePrivateRulingsYear n={navSetters} />} />
+      <Route path="/private-rulings/:authnum" element={<RoutePrivateRuling n={navSetters} />} />
+      <Route path="/rulings/:citation" element={<RouteRuling n={navSetters} />} />
+      <Route path="/tax-cases/:slug" element={<RouteTaxCase n={navSetters} />} />
+      <Route path="/:act" element={<RouteActOnly n={navSetters} />} />
+      <Route path="/:act/:section" element={<RouteActSection n={navSetters} />} />
+      <Route path="*" element={<RouteHome n={navSetters} />} />
+    </Routes>
+  )
+
+  if (error) return <>{routeSync}<div style={{ padding: 20, color: '#ef4444' }}>Error: {error}</div></>
+  if (!tree) return <>{routeSync}<div style={{ padding: 20, color: COLORS.textMuted }}>Loading...</div></>
 
   const mobileSidebarWidth = isMobile ? Math.min(window.innerWidth * 0.85, 380) : sidebarWidth
+  const adminView = location.pathname === '/admin'
   const hasContent = !!(activeSection || activeRuling || activePrivateRuling || browsingAct || activeMap || activeDefinitions !== null)
 
   return (
@@ -661,7 +877,9 @@ export default function App() {
         ::-webkit-scrollbar-thumb:hover { background: ${COLORS.textMuted}; }
         * { scrollbar-width: thin; scrollbar-color: ${COLORS.border} transparent; }
       `}</style>
-      <div style={{ display: 'flex', height: '100vh', background: COLORS.bg }}>
+      {routeSync}
+      <div style={{ display: 'flex', height: '100vh', background: 'var(--color-desktop, var(--color-bg))' }}>
+      <>
 
       {/* Mobile close button — inside sidebar header (absolute positioned) */}
       {/* Mobile backdrop */}
@@ -673,7 +891,7 @@ export default function App() {
       )}
 
       {/* Sidebar */}
-      <div style={{
+      <div className="lk-sidebar" style={{
         width: mobileSidebarWidth,
         background: COLORS.surface,
         borderRight: `1px solid ${COLORS.border}`,
@@ -687,104 +905,27 @@ export default function App() {
         transition: isMobile ? 'transform 0.15s ease' : 'none',
       }}>
         {/* Sidebar header: act picker + mobile close button */}
-        <div style={{ padding: isMobile ? '12px 14px' : '12px 14px', borderBottom: `1px solid ${COLORS.border}`, position: 'relative' }}>
+        <header style={{ padding: isMobile ? '12px 14px' : '12px 14px', borderBottom: `1px solid ${COLORS.border}`, position: 'relative' }}>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 8, paddingRight: isMobile && drawerOpen ? 36 : 0 }}>
-            {(() => {
-              const currentLabel = shortActName(act)
-              return (
-                <div ref={pickerRef} style={{ position: 'relative' }}>
-                  <button onClick={() => { setPickerOpen(!pickerOpen) }} style={{
-                    width: '100%', padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
-                    background: COLORS.bg, color: COLORS.heading,
-                    border: `1px solid ${COLORS.border}`, fontSize: 12,
-                    fontFamily: "'Montserrat', sans-serif", cursor: 'pointer',
-                    display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 4,
-                  }}>
-                    <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flex: 1 }}>{currentLabel}</span>
-                    <span style={{ fontSize: 9, opacity: 0.6 }}>{pickerOpen ? '▲' : '▼'}</span>
-                  </button>
-                  {pickerOpen && (
-                    <div style={{
-                      position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 201,
-                      marginTop: 4, background: COLORS.surface,
-                      border: `1px solid ${COLORS.border}`,
-                      borderRadius: 8, padding: '6px 0', maxHeight: 'min(72vh, 560px)', overflow: 'auto',
-                      boxShadow: '0 8px 24px rgba(0,0,0,0.4)',
-                    }}>
-                      {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }, { id: 'corporations-act-2001', name: 'Corporations Act 2001' }, { id: 'regulatory-guides', name: 'ASIC Regulatory Guides' }]).length > 0 ? (() => {
-                      const actList = (acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }, { id: 'corporations-act-2001', name: 'Corporations Act 2001' }, { id: 'regulatory-guides', name: 'ASIC Regulatory Guides' }])
-                      const allActs = actList
-                      const actById = Object.fromEntries(allActs.map(a => [a.id, a]))
-                      return DOMAINS.map(domain => {
-                        const domainActs = domain.ids.filter(id => actById[id]).map(id => actById[id])
-                        if (domainActs.length === 0) return null
-                        return (
-                          <div key={domain.label}>
-                            <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>{domain.label}</div>
-                            {domainActs.map(a => (
-                              <button key={a.id} onClick={() => { setPickerOpen(false); setAct(a.id); setActiveSection(''); setActiveRuling(null); setActivePrivateRuling(null); setSearchPage(false); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', `/${a.id}`); if (isMobile) setDrawerOpen(false) }} style={{
-                                display: 'block', width: '100%', padding: '6px 12px',
-                                background: 'transparent', border: 'none',
-                                color: act === a.id ? COLORS.accent : COLORS.text,
-                                fontSize: 12, cursor: 'pointer',
-                                fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
-                              }}
-                                onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
-                                onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
-                              >{shortActName(a.id)}</button>
-                            ))}
-                          </div>
-                        )
-                      })
-                    })() : null}
-                    {/* Proposed Law — dedicated row (it is a tracker, not a domain category) */}
-                    <div>
-                      <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>Proposed Law</div>
-                      <button onClick={() => { setPickerOpen(false); setAct('proposed-law'); setActiveSection(''); setActiveRuling(null); setActivePrivateRuling(null); setSearchPage(false); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', '/proposed-law'); if (isMobile) setDrawerOpen(false) }} style={{
-                        display: 'block', width: '100%', padding: '6px 12px',
-                        background: 'transparent', border: 'none',
-                        color: act === 'proposed-law' ? COLORS.accent : COLORS.text,
-                        fontSize: 12, cursor: 'pointer',
-                        fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
-                      }}
-                        onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
-                        onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
-                      >Proposed Law</button>
-                    </div>
-                    {/* Procedural Maps — same navigation as any act: tree in the sidebar */}
-                    {mapsList && mapsList.length > 0 && (
-                      <div>
-                        <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>Procedural Maps</div>
-                        <button onClick={() => { setPickerOpen(false); setAct('maps'); setActiveSection(''); setActiveRuling(null); setActivePrivateRuling(null); setSearchPage(false); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', '/maps'); if (isMobile) setDrawerOpen(false) }} style={{
-                          display: 'block', width: '100%', padding: '6px 12px',
-                          background: 'transparent', border: 'none',
-                          color: act === 'maps' ? COLORS.accent : COLORS.text,
-                          fontSize: 12, cursor: 'pointer',
-                          fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
-                        }}
-                          onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
-                          onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
-                        >Maps ({mapsList.length})</button>
-                      </div>
-                    )}
-                    <div>
-                      <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>References</div>
-                      <button onClick={() => { setPickerOpen(false); setActiveDefinitions(''); setSearchPage(false); setActiveSection(''); setActiveRuling(null); setActivePrivateRuling(null); setActiveMap(null); setBrowsingAct(false); window.history.pushState(null, '', '/definitions'); if (isMobile) setDrawerOpen(false) }} style={{
-                        display: 'block', width: '100%', padding: '6px 12px',
-                        background: 'transparent', border: 'none',
-                        color: activeDefinitions !== null ? COLORS.accent : COLORS.text,
-                        fontSize: 12, cursor: 'pointer',
-                        fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
-                      }}
-                        onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
-                        onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
-                      >Definitions</button>
-                    </div>
-                    </div>
-                  )}
-                </div>
-              )
-            })()}
+            {hasContent ? (
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8, minHeight: 36 }}>
+                <button
+                  onClick={() => navigate('/')}
+                  style={{
+                    padding: '6px 10px', borderRadius: 'var(--radius-md, 14px)',
+                    background: 'transparent', color: COLORS.accent,
+                    border: `var(--border-chunky, 2px) solid var(--line-strong, ${COLORS.border})`,
+                    fontSize: 12, fontWeight: 600, cursor: 'pointer',
+                    fontFamily: "var(--font-ui, 'Figtree'), sans-serif", whiteSpace: 'nowrap',
+                  }}
+                >
+                  ← Sources
+                </button>
+                <span style={{ fontSize: 13, fontWeight: 600, color: COLORS.text, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flex: 1 }}>{shortActName(act)}</span>
+              </div>
+            ) : (
+              <span style={{ fontSize: 11, fontWeight: 700, color: COLORS.textMuted, textTransform: 'uppercase', letterSpacing: 0.8, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", padding: '6px 4px 2px' }}>Sources</span>
+            )}
           </div>
           {isMobile && drawerOpen && (
             <button
@@ -801,119 +942,115 @@ export default function App() {
               {'\u2715'}
             </button>
           )}
-        </div>
+        </header>
 
-        {/* Tree */}
-        <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
-          {(treeForRender?.parts || []).map(p => (
-            <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={handleTreeSelect} isMobile={isMobile} expandedIds={expandedIds} act={act} />
-          ))}
-        </div>
+        {/* Sidebar body: section tree (browsing) or source list (home) */}
+        {hasContent ? (
+          <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
+            {(treeForRender?.parts || []).map(p => (
+              <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={handleTreeSelect} getHref={sectionHref} isMobile={isMobile} expandedIds={expandedIds} act={act} />
+            ))}
+          </div>
+        ) : (
+          <div style={{ flex: 1, overflow: 'auto', padding: '12px 14px 16px' }}>
+            {SOURCE_GROUPS.map(g => (
+              <section key={g.label} style={{ marginBottom: 18 }}>
+                <h2 style={{ margin: '0 0 6px 8px', fontSize: 11, fontWeight: 700, color: COLORS.textMuted, textTransform: 'uppercase', letterSpacing: 0.8, fontFamily: "var(--font-ui, 'Figtree'), sans-serif" }}>{g.label}</h2>
+                <ul style={{ listStyle: 'none', margin: 0, padding: 0 }}>
+                  {g.items.map(item => (
+                    <li key={item.id}>
+                      <Link
+                        to={item.to}
+                        onClick={() => openSource(item.id)}
+                        style={{ display: 'block', padding: '5px 10px', borderRadius: 8, color: COLORS.text, textDecoration: 'none', fontSize: 13, lineHeight: '20px', fontFamily: "var(--font-ui, 'Figtree'), sans-serif" }}
+                        onMouseEnter={e => { e.currentTarget.style.background = COLORS.bg }}
+                        onMouseLeave={e => { e.currentTarget.style.background = 'transparent' }}
+                      >
+                        {item.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ))}
+          </div>
+        )}
 
-        {/* Sidebar bottom: settings, bug report, sign in/user */}
-        <div style={{
+        {/* Sidebar bottom: search (dominant), then account / admin / bugs */}
+        <footer style={{
           borderTop: `1px solid ${COLORS.border}`,
-          padding: isMobile ? '10px 12px' : '8px 12px',
-          display: 'flex', gap: 6, alignItems: 'center',
+          padding: isMobile ? '12px' : '12px',
+          display: 'flex', flexDirection: 'column', gap: 8,
         }}>
-          <div style={{ position: 'relative' }}>
-            <button
-              onClick={() => { setSearchPage(true); window.history.pushState(null, '', '/search'); if (isMobile) setDrawerOpen(false) }}
-              title="Search with advanced filters"
-              style={{
-                padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
-                background: COLORS.bg,
-                color: COLORS.text,
-                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
-                fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
-              }}
-            >
-              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
-              </svg>
-              Search
-            </button>
-          </div>
-          <div ref={settingsRef} style={{ position: 'relative' }}>
-            <button
-              onClick={() => setSettingsOpen(true)}
-              title="Settings & Tools"
-              style={{
-                padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
-                background: COLORS.bg,
-                color: COLORS.text,
-                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
-                fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
-              }}
-            >
-              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
-              </svg>
-              Settings
-            </button>
-          </div>
           <button
-            onClick={() => setIssuesOpen(true)}
-            title="View known bugs"
+            onClick={() => { setSearchPage(true); navigate('/search'); if (isMobile) setDrawerOpen(false) }}
+            title="Search with advanced filters"
             style={{
-              padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
-              background: COLORS.bg, color: COLORS.textMuted,
-              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-              display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
-              fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+              width: '100%', minHeight: 56, padding: '14px 16px', borderRadius: 'var(--radius-md, 14px)',
+              background: COLORS.surface,
+              color: COLORS.text,
+              border: `var(--border-chunky, 2px) solid ${COLORS.accent}`, cursor: 'pointer',
+              display: 'flex', alignItems: 'center', gap: 10,
+              fontSize: 16, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", fontWeight: 700,
             }}
           >
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={COLORS.accent} strokeWidth="2.25" strokeLinecap="round" strokeLinejoin="round">
+              <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
             </svg>
-            Bugs
+            <span style={{ flex: 1, textAlign: 'left' }}>Search</span>
+            <span style={{ fontFamily: "var(--font-mono, monospace)", fontSize: 12, color: COLORS.textMuted, border: `var(--border-chunky, 2px) solid ${COLORS.border}`, borderRadius: 6, padding: '2px 7px' }}>/</span>
           </button>
-          <div style={{ flex: 1, minWidth: 0 }} />
-          {user ? (
-            <div style={{ display: 'flex', alignItems: 'center', gap: 4, minWidth: 0 }}>
-              <div style={{
-                fontSize: 10, color: COLORS.accent, fontFamily: "'Montserrat', sans-serif",
-                overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap',
-              }}>
-                {user.name || user.email}
-              </div>
-              <button
-                onClick={() => window.location.href = '/auth/logout'}
-                title="Sign out"
-                style={{
-                  padding: '4px 6px', borderRadius: 4,
-                  background: COLORS.bg, color: COLORS.textMuted,
-                  border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                  display: 'flex', alignItems: 'center', justifyContent: 'center',
-                  fontSize: 10, fontFamily: "'Montserrat', sans-serif", flexShrink: 0,
-                }}
-              >
-                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/>
-                </svg>
-              </button>
-            </div>
-          ) : (
+          <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
             <button
-              onClick={() => window.location.href = '/auth/login'}
-              title="Sign in"
+              onClick={() => setAccountOpen(true)}
+              title={user ? `Account & settings — ${user.email}` : 'Account & settings'}
               style={{
                 padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
-                background: COLORS.accent, color: '#fff',
-                border: 'none', cursor: 'pointer',
+                flex: 1, minWidth: 0,
+                background: COLORS.bg, color: COLORS.text,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', gap: 6,
+                fontSize: 11, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", fontWeight: 600,
+              }}
+            >
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0 }}>
+                <circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/>
+              </svg>
+              <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{user?.name || user?.email || 'Account'}</span>
+            </button>
+            {user?.is_admin && (
+              <button
+                onClick={() => { navigate('/admin'); if (isMobile) setDrawerOpen(false) }}
+                title="Admin dashboard"
+                style={{
+                  padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+                  background: location.pathname === '/admin' ? COLORS.accent : COLORS.bg,
+                  color: location.pathname === '/admin' ? 'var(--on-catnip)' : COLORS.text,
+                  border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                  fontSize: 11, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", fontWeight: 500,
+                }}
+              >
+                Admin
+              </button>
+            )}
+            <button
+              onClick={() => setIssuesOpen(true)}
+              title="Report or view bugs"
+              style={{
+                padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+                background: COLORS.bg, color: COLORS.textMuted,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
                 display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
-                fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+                fontSize: 11, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", fontWeight: 500,
               }}
             >
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/>
+                <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
               </svg>
-              Sign in
+              Bugs
             </button>
-          )}
-        </div>
+          </div>
+        </footer>
       </div>
 
       {/* Resize handle */}
@@ -923,7 +1060,7 @@ export default function App() {
           onMouseDown={() => setIsResizing(true)}
           style={{
             width: 4,
-            background: isResizing ? '#279e88' : 'transparent',
+            background: isResizing ? '#c6f432' : 'transparent',
             position: 'relative',
             zIndex: 101,
             flexShrink: 0,
@@ -932,12 +1069,12 @@ export default function App() {
       )}
 
       {/* Main content */}
-      <div style={{
+      <main style={{
         flex: 1, overflow: 'auto',
         padding: isMobile ? '16px 12px 24px' : '20px 40px',
         paddingTop: isMobile ? (hasContent ? 12 : 16) : (hasContent ? 12 : 20),
-        maxWidth: activeMap ? 1400 : 960, margin: '0 auto',
-        fontFamily: "'Lora', serif",
+        maxWidth: activeMap ? 1400 : adminView ? 1200 : 960, margin: '0 auto',
+        fontFamily: "var(--font-body, 'Figtree'), serif",
         color: COLORS.text,
         display: 'flex', flexDirection: 'column',
         position: 'relative',
@@ -962,6 +1099,9 @@ export default function App() {
             </svg>
           </button>
         )}
+        {/* MCP token prompt — hidden once a token exists or the user dismisses it */}
+        <McpTokenBanner onGenerate={() => setAccountOpen(true)} />
+
         {/* Sticky search bar — removed in v3.0: search lives on /search with advanced filters */}
         {pins.length > 0 && (
           <PinnedTabs
@@ -1029,24 +1169,6 @@ export default function App() {
               <span style={{ fontSize: 11 }}>Graph</span>
             </button>
             <button
-              onClick={() => { setAct('maps'); setActiveSection(''); setActiveRuling(null); setActivePrivateRuling(null); setSearchPage(false); setSectionData(null); setActiveMap(null); setBrowsingAct(true); window.history.pushState(null, '', '/maps'); if (isMobile) setDrawerOpen(true) }}
-              aria-label="Procedural maps"
-              title="Procedural knowledge maps"
-              style={{
-                padding: '6px 8px', borderRadius: 6,
-                background: COLORS.surface, color: COLORS.textMuted,
-                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
-              }}
-            >
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21 3 6"/>
-                <line x1="9" y1="3" x2="9" y2="18"/>
-                <line x1="15" y1="6" x2="15" y2="21"/>
-              </svg>
-              <span style={{ fontSize: 11 }}>Maps</span>
-            </button>
-            <button
               onClick={() => {
                 setActiveDefinitions(act && ['itaa-1997','itaa-1936','gst-1999','corporations-act-2001','fbt-1986','taa-1953','sis-1993','aml-ctf-2006','nz-it-2007'].includes(act) ? act : '')
                 setSearchPage(false)
@@ -1054,7 +1176,7 @@ export default function App() {
                 setActiveRuling(null)
                 setActivePrivateRuling(null)
                 setActiveMap(null)
-                window.history.pushState(null, '', '/definitions')
+                navigate('/definitions')
                 if (isMobile) setDrawerOpen(false)
               }}
               aria-label="Definitions"
@@ -1062,7 +1184,7 @@ export default function App() {
               style={{
                 padding: '6px 8px', borderRadius: 6,
                 background: activeDefinitions !== null ? COLORS.accent : COLORS.surface,
-                color: activeDefinitions !== null ? '#fff' : COLORS.textMuted,
+                color: activeDefinitions !== null ? 'var(--on-catnip)' : COLORS.textMuted,
                 border: `1px solid ${COLORS.border}`, cursor: 'pointer',
                 display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
               }}
@@ -1078,7 +1200,9 @@ export default function App() {
           </div>
         )}
 
-        {searchPage ? (
+        {adminView ? (
+          <AdminPanel />
+        ) : searchPage ? (
           <div style={{ marginTop: 4 }}>
             <SearchPanel
               acts={acts}
@@ -1112,7 +1236,7 @@ export default function App() {
             act={activeDefinitions}
             onSelectAct={(a) => {
               setActiveDefinitions(a)
-              window.history.pushState(null, '', a ? `/definitions/${a}` : '/definitions')
+              navigate(a ? `/definitions/${a}` : '/definitions')
             }}
             onNavigate={(a, s, anchor) => {
               setActiveDefinitions(null)
@@ -1125,7 +1249,7 @@ export default function App() {
             onClose={() => {
               const back = act === 'maps' ? '/maps' : (act ? `/${act}` : '/itaa-1997')
               setActiveMap(null)
-              window.history.pushState(null, '', back)
+              navigate(back)
             }}
             onOpenSection={(a, s) => {
               setActiveMap(null)
@@ -1157,6 +1281,11 @@ export default function App() {
           />
         ) : act === 'regulatory-guides' && sectionData ? (
           <RegulatoryGuideContent
+            sectionData={sectionData}
+            isMobile={isMobile}
+          />
+        ) : act === 'afsa-guides' && sectionData ? (
+          <AfsaGuideContent
             sectionData={sectionData}
             isMobile={isMobile}
           />
@@ -1197,7 +1326,7 @@ export default function App() {
             onOpen={(authnum) => { setActivePrivateRuling(authnum); setActiveSection(''); setActiveRuling(null); if (isMobile) setDrawerOpen(false) }}
           />
         ) : browsingAct && tree && act !== 'rulings' && act !== 'tax-cases' && act !== 'private-rulings' ? (
-          <div style={{ fontFamily: "'Montserrat', sans-serif" }}>
+          <div style={{ fontFamily: "var(--font-ui, 'Figtree'), sans-serif" }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
               <span style={{ fontSize: 14, fontWeight: 600, color: COLORS.heading }}>
                 {shortActName(act)}
@@ -1206,7 +1335,7 @@ export default function App() {
                 <button
                   onClick={() => {
                     setActiveDefinitions(act)
-                    window.history.pushState(null, '', `/definitions/${act}`)
+                    navigate(`/definitions/${act}`)
                   }}
                   style={{
                     background: 'none', border: `1px solid ${COLORS.border}`, borderRadius: 6,
@@ -1238,55 +1367,60 @@ export default function App() {
                 }
                 collectIds(tree.parts || [])
                 return (tree.parts || []).map(p => (
-                  <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={e => { setSearchPage(false); if (act === 'maps') { setActiveSection(''); setActiveRuling(null); setSectionData(null); setActiveMap(e); window.history.pushState(null, '', `/maps/${e}`) } else if (act === 'treaties') { const s = e.indexOf('/'); if (s > -1) { setAct(e.slice(0, s)); setActiveSection(e.slice(s + 1)); } else { setAct(e); setActiveSection(''); } } else if (act === 'rulings') { setActiveRuling(e); } else if (act === 'private-rulings') { if (e === 'undated' || /^\d{4}$/.test(e)) { setPrivateRulingsYear(e === 'undated' ? 'undated' : Number(e)); setActivePrivateRuling(null); } else { setActivePrivateRuling(e); } setActiveSection(''); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
+                  <TreeNode key={p.id} node={p} level={0} activeSection={act === 'maps' ? (activeMap || '') : activeSection} onSelect={handleTreeSelect} getHref={sectionHref} isMobile={isMobile} expandedIds={allIds} act={act} />
                 ))
               })()}
             </div>
           </div>
         ) : (
-          <div style={{
-            display: 'flex', flexDirection: 'column', alignItems: 'center',
-            textAlign: 'center',
-            fontFamily: "'Montserrat', sans-serif",
-            padding: '0 16px',
-            minHeight: '60vh',
-            justifyContent: 'center',
-          }}>
-            <div style={{ fontSize: 20, fontWeight: 700, color: COLORS.heading, marginBottom: 6 }}>
-              Legislation Explorer
-            </div>
-            <div style={{ fontSize: 12, color: COLORS.textMuted, marginBottom: 20, maxWidth: 420, lineHeight: 1.6 }}>
-              Browse acts, rulings, private rulings, tax cases, treaties and maps from the sidebar.
-              Use Search for full-text search with advanced filters.
-            </div>
-            <button
-              onClick={() => { setSearchPage(true); window.history.pushState(null, '', '/search') }}
-              style={{
-                padding: '10px 22px', borderRadius: 6,
-                background: COLORS.accent, color: '#fff',
-                border: 'none', fontSize: 13, cursor: 'pointer',
-                fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
-              }}
-            >
-              Search
-            </button>
-            <div style={{ fontSize: 11, color: COLORS.textMuted, marginTop: 20 }}>
-              Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || ''}</span>
-            </div>
-            <div style={{ display: 'flex', gap: 12, marginTop: 8, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
-              <a
+          <div className={`lk-welcome-wrap${isMobile ? ' lk-welcome-wrap--mobile' : ''}`}>
+            <div className="lk-welcome">
+              <div className="lk-welcome__lockup" role="img" aria-label="lawkitty">
+                <img src="/lawkitty-lockup-cat.png" alt="" className="lk-welcome__lockup-dark" />
+                <img src="/lawkitty-lockup-cat-light.png" alt="" className="lk-welcome__lockup-light" />
+              </div>
+              <YarnBall />
+              <form
+                className="lk-welcome__form"
+                onSubmit={(e) => {
+                  e.preventDefault()
+                  const q = homeQuery.trim()
+                  setSearchPage(true)
+                  navigate(q ? `/search?q=${encodeURIComponent(q)}` : '/search')
+                }}
+              >
+                <label htmlFor="lk-home-search" style={{ position: 'absolute', width: 1, height: 1, overflow: 'hidden', clip: 'rect(0 0 0 0)' }}>Search</label>
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ flexShrink: 0, color: 'var(--color-text-muted)' }} aria-hidden="true">
+                  <circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/>
+                </svg>
+                <input
+                  id="lk-home-search"
+                  className="lk-welcome__search-input"
+                  placeholder="Search acts, rulings, cases and treaties"
+                  value={homeQuery}
+                  onChange={(e) => setHomeQuery(e.target.value)}
+                  autoComplete="off"
+                  autoCorrect="off"
+                  autoCapitalize="off"
+                  spellCheck={false}
+                />
+                <button type="submit" className="lk-welcome__pounce">Pounce</button>
+              </form>
+              <button
+                type="button"
+                className="lk-welcome__version"
                 onClick={() => setChangelogOpen(true)}
-                style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif", textDecoration: 'underline' }}
               >
                 v{appInfo?.version || '2.7.0'}
-              </a>
+              </button>
             </div>
           </div>
         )}
-      </div>
+      </main>
+      </>
 
       <MCPModal open={mcpOpen} onClose={() => setMcpOpen(false)} />
-      {settingsOpen && <SettingsPanel onClose={() => setSettingsOpen(false)} />}
+      {accountOpen && <AccountPanel onClose={() => setAccountOpen(false)} />}
       <KeyboardShortcuts showShortcuts={showShortcuts} setShowShortcuts={setShowShortcuts} />
 
       {/* Knowledge graph modal */}
@@ -1309,19 +1443,19 @@ export default function App() {
       {/* Changelog modal */}
       {changelogOpen && appInfo?.changelog && (
         <ModalOverlay onClose={() => setChangelogOpen(false)}>
-          <div style={{ fontSize: 15, fontWeight: 600, color: COLORS.heading, marginBottom: 16, fontFamily: "'Montserrat', sans-serif" }}>
+          <div style={{ fontSize: 15, fontWeight: 600, color: COLORS.heading, marginBottom: 16, fontFamily: "var(--font-ui, 'Figtree'), sans-serif" }}>
             Changelog
           </div>
           <div style={{ maxHeight: '60vh', overflow: 'auto' }}>
             {appInfo.changelog.map((entry: any, i: number) => (
               <div key={i} style={{ marginBottom: 16, paddingBottom: 16, borderBottom: i < appInfo.changelog.length - 1 ? `1px solid ${COLORS.border}` : 'none' }}>
-                <div style={{ fontSize: 13, fontWeight: 600, color: COLORS.accent, marginBottom: 2, fontFamily: "'Montserrat', sans-serif" }}>
+                <div style={{ fontSize: 13, fontWeight: 600, color: COLORS.accent, marginBottom: 2, fontFamily: "var(--font-ui, 'Figtree'), sans-serif" }}>
                   v{entry.version} — {entry.date}
                 </div>
-                <div style={{ fontSize: 11, color: COLORS.textMuted, marginBottom: 6, fontFamily: "'Montserrat', sans-serif" }}>
+                <div style={{ fontSize: 11, color: COLORS.textMuted, marginBottom: 6, fontFamily: "var(--font-ui, 'Figtree'), sans-serif" }}>
                   {entry.title}
                 </div>
-                <ul style={{ margin: 0, paddingLeft: 16, fontSize: 11, color: COLORS.text, fontFamily: "'Montserrat', sans-serif", lineHeight: 1.6 }}>
+                <ul style={{ margin: 0, paddingLeft: 16, fontSize: 11, color: COLORS.text, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", lineHeight: 1.6 }}>
                   {entry.changes.map((c: string, j: number) => (
                     <li key={j}>{c}</li>
                   ))}

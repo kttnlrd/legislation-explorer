@@ -47,6 +47,14 @@ ALLOWED_EMAIL_DOMAINS = {
     if d.strip()
 }
 
+# Static asset extensions served at the SPA root (favicon, images, manifest, fonts)
+# that must stay public so the browser can load them before/around sign-in. Not
+# sensitive — all legal data is served via /api/* JSON, which remains session-gated.
+_PUBLIC_STATIC_EXTS = (
+    ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".ico",
+    ".webmanifest", ".woff", ".woff2", ".ttf", ".otf",
+)
+
 
 def _email_allowed(email: str) -> bool:
     """True if the email's domain is in the allowlist (case-insensitive)."""
@@ -212,7 +220,8 @@ class AuthMiddleware(BaseHTTPMiddleware):
                 or path.startswith("/api/cadena/mcp")
                 or path.startswith("/api/private/mcp")
                 or path.startswith("/api/v2/query")
-                or path.startswith("/api/rpc")):
+                or path.startswith("/api/rpc")
+                or path.lower().endswith(_PUBLIC_STATIC_EXTS)):
             request.state.user = None
             return await call_next(request)
 

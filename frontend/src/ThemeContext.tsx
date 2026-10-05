@@ -1,44 +1,9 @@
 import React, { createContext, useContext, useState, useEffect, useCallback } from 'react'
-
-export interface ThemeConfig {
-  bg: string
-  surface: string
-  surfaceHover: string
-  border: string
-  text: string
-  textMuted: string
-  accent: string
-  accentHover: string
-  heading: string
-}
-
-const DARK: ThemeConfig = {
-  bg: '#0a1214',
-  surface: '#0b1b1f',
-  surfaceHover: '#141e20',
-  border: '#253d3d',
-  text: '#aebec2',
-  textMuted: '#758696',
-  accent: '#279e88',
-  accentHover: '#1f5858',
-  heading: '#ffffff',
-}
-
-const LIGHT: ThemeConfig = {
-  bg: '#f8fafc',
-  surface: '#ffffff',
-  surfaceHover: '#f1f5f9',
-  border: '#e2e8f0',
-  text: '#334155',
-  textMuted: '#64748b',
-  accent: '#279e88',
-  accentHover: '#1f5858',
-  heading: '#0f172a',
-}
+import { THEMES, DEFAULT_THEME, themeDef } from './themes'
 
 const FONTS = {
-  heading: ['Montserrat', 'Inter', 'Roboto', 'system-ui'],
-  body: ['Lora', 'Merriweather', 'Georgia', 'serif', 'system-ui'],
+  heading: ['Figtree', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+  body: ['Figtree', 'ui-sans-serif', 'system-ui', 'sans-serif'],
 }
 
 export interface UserPrefs {
@@ -53,18 +18,15 @@ export interface UserPrefs {
 }
 
 interface ThemeContextValue {
-  colors: ThemeConfig
   theme: string
+  themes: typeof THEMES
+  isCustomizable: boolean
   accentColor: string
-  textColor: string
-  bgColor: string
   headingFont: string
   bodyFont: string
   userPrefs: UserPrefs | null
   setTheme: (t: string) => void
   setAccentColor: (c: string) => void
-  setTextColor: (c: string) => void
-  setBgColor: (c: string) => void
   setHeadingFont: (f: string) => void
   setBodyFont: (f: string) => void
   setDisplayName: (n: string) => void
@@ -76,24 +38,52 @@ interface ThemeContextValue {
 
 const ThemeContext = createContext<ThemeContextValue | null>(null)
 
-function baseColors(theme: string, accent: string, textColor?: string, bgColor?: string): ThemeConfig {
-  const base = theme === 'light'
-    ? { ...LIGHT, bg: bgColor || LIGHT.bg, text: textColor || LIGHT.text }
-    : { ...DARK, bg: bgColor || DARK.bg, text: textColor || DARK.text }
-  base.accent = accent
-  base.accentHover = theme === 'light' ? '#1a6f5e' : '#1f5858'
-  return base
-}
-
 const DEFAULT_PREFS: UserPrefs = {
   display_name: '',
   default_act: 'itaa-1997',
-  theme: 'dark',
-  accent_color: '#279e88',
-  text_color: '#aebec2',
-  bg_color: '#0a1214',
-  heading_font: 'Montserrat',
-  body_font: 'Lora',
+  theme: DEFAULT_THEME,
+  accent_color: '#c6f432',
+  text_color: '',
+  bg_color: '',
+  heading_font: 'Figtree',
+  body_font: 'Figtree',
+}
+
+// Load/remove the dynamically-served theme-pack CSS (public/themes/<file>).
+function applyThemePackCss(cssFile: string | undefined) {
+  const existing = document.getElementById('lk-theme-pack') as HTMLLinkElement | null
+  if (!cssFile) {
+    if (existing) existing.remove()
+    return
+  }
+  const href = `/themes/${cssFile}?v=10`
+  if (existing) {
+    if (existing.getAttribute('href') === href) return
+    existing.remove()
+  }
+  const link = document.createElement('link')
+  link.id = 'lk-theme-pack'
+  link.rel = 'stylesheet'
+  link.href = href
+  document.head.appendChild(link)
+}
+
+// Load/remove the dynamically-served theme-pack JS (public/themes/<file>).
+function applyThemePackJs(jsFile: string | undefined) {
+  const existing = document.getElementById('lk-theme-pack-js') as HTMLScriptElement | null
+  if (!jsFile) {
+    if (existing) existing.remove()
+    return
+  }
+  const src = `/themes/${jsFile}?v=10`
+  if (existing) {
+    if (existing.getAttribute('src') === src) return
+    existing.remove()
+  }
+  const script = document.createElement('script')
+  script.id = 'lk-theme-pack-js'
+  script.src = src
+  document.head.appendChild(script)
 }
 
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
@@ -104,12 +94,13 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     } catch { return null }
   })
 
-  const colors = baseColors(
-    userPrefs?.theme || 'dark',
-    userPrefs?.accent_color || '#279e88',
-    userPrefs?.text_color,
-    userPrefs?.bg_color,
-  )
+  const theme = userPrefs?.theme || DEFAULT_THEME
+  const def = themeDef(theme)
+  const isCustomizable = def?.customizable ?? true
+
+  const accentColor = userPrefs?.accent_color || '#c6f432'
+  const headingFont = FONTS.heading.includes(userPrefs?.heading_font || '') ? userPrefs!.heading_font : 'Figtree'
+  const bodyFont = FONTS.body.includes(userPrefs?.body_font || '') ? userPrefs!.body_font : 'Figtree'
 
   const setTheme = useCallback((t: string) => {
     setUserPrefs(prev => {
@@ -122,22 +113,6 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
   const setAccentColor = useCallback((c: string) => {
     setUserPrefs(prev => {
       const next = { ...(prev || DEFAULT_PREFS), accent_color: c }
-      localStorage.setItem('legislation-user-prefs', JSON.stringify(next))
-      return next
-    })
-  }, [])
-
-  const setTextColor = useCallback((c: string) => {
-    setUserPrefs(prev => {
-      const next = { ...(prev || DEFAULT_PREFS), text_color: c }
-      localStorage.setItem('legislation-user-prefs', JSON.stringify(next))
-      return next
-    })
-  }, [])
-
-  const setBgColor = useCallback((c: string) => {
-    setUserPrefs(prev => {
-      const next = { ...(prev || DEFAULT_PREFS), bg_color: c }
       localStorage.setItem('legislation-user-prefs', JSON.stringify(next))
       return next
     })
@@ -212,19 +187,38 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     refreshPrefs()
   }, [refreshPrefs])
 
+  // Apply the active theme: data-theme attr + per-user accent/font overrides
+  // (customizable themes only) + dynamic theme-pack CSS.
+  useEffect(() => {
+    const root = document.documentElement
+    root.setAttribute('data-theme', theme)
+    applyThemePackCss(def?.css)
+    applyThemePackJs(def?.js)
+
+    // Clear the first-paint FLASH inline colors (index.html sets them from localStorage,
+    // which can lag the backend theme) so the CSS [data-theme] blocks drive bg/text.
+    root.style.removeProperty('--color-bg')
+    root.style.removeProperty('--color-text')
+
+    if (isCustomizable) {
+      root.style.setProperty('--color-accent', accentColor)
+      root.style.setProperty('--font-ui', headingFont)
+      root.style.setProperty('--font-body', bodyFont)
+    } else {
+      ;['--color-accent', '--font-ui', '--font-body'].forEach((p) => root.style.removeProperty(p))
+    }
+  }, [theme, def, isCustomizable, accentColor, headingFont, bodyFont])
+
   const value: ThemeContextValue = {
-    colors,
-    theme: userPrefs?.theme || 'dark',
-    accentColor: userPrefs?.accent_color || '#279e88',
-    textColor: userPrefs?.text_color || DARK.text,
-    bgColor: userPrefs?.bg_color || DARK.bg,
-    headingFont: userPrefs?.heading_font || 'Montserrat',
-    bodyFont: userPrefs?.body_font || 'Lora',
+    theme,
+    themes: THEMES,
+    isCustomizable,
+    accentColor,
+    headingFont,
+    bodyFont,
     userPrefs,
     setTheme,
     setAccentColor,
-    setTextColor,
-    setBgColor,
     setHeadingFont,
     setBodyFont,
     setDisplayName,
@@ -234,32 +228,7 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     savePrefs,
   }
 
-  // Sync CSS custom properties for components that still use static COLORS
-  React.useEffect(() => {
-    const root = document.documentElement
-    root.style.setProperty('--color-bg', colors.bg)
-    root.style.setProperty('--color-surface', colors.surface)
-    root.style.setProperty('--color-surface-hover', colors.surfaceHover)
-    root.style.setProperty('--color-border', colors.border)
-    root.style.setProperty('--color-text', colors.text)
-    root.style.setProperty('--color-text-muted', colors.textMuted)
-    root.style.setProperty('--color-accent', colors.accent)
-    root.style.setProperty('--color-accent-hover', colors.accentHover)
-    root.style.setProperty('--color-heading', colors.heading)
-    root.style.setProperty('--heading-font', value.headingFont)
-    root.style.setProperty('--body-font', value.bodyFont)
-  }, [colors, value.headingFont, value.bodyFont])
-
-  return (
-    <ThemeContext.Provider value={value}>
-      <div style={{
-        '--heading-font': value.headingFont,
-        '--body-font': value.bodyFont,
-      } as React.CSSProperties}>
-        {children}
-      </div>
-    </ThemeContext.Provider>
-  )
+  return <ThemeContext.Provider value={value}>{children}</ThemeContext.Provider>
 }
 
 export function useTheme(): ThemeContextValue {
@@ -268,4 +237,4 @@ export function useTheme(): ThemeContextValue {
   return ctx
 }
 
-export { DARK, LIGHT, FONTS }
+export { FONTS }

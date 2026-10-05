@@ -1,4 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { COLORS } from './common/types'
 import { shortActName } from '../utils/display'
 import { api } from '../api'
@@ -67,7 +68,7 @@ export default function DefinitionsBrowser({ act, onSelectAct, onNavigate }: Pro
   const total = terms?.length ?? 0
 
   return (
-    <div style={{ fontFamily: "'Montserrat', sans-serif", maxWidth: 860, margin: '0 auto' }}>
+    <div style={{ fontFamily: "var(--font-ui, 'Figtree'), sans-serif", maxWidth: 860, margin: '0 auto' }}>
       <div style={{ fontSize: 18, fontWeight: 700, color: COLORS.heading, marginBottom: 4 }}>
         Defined terms
       </div>
@@ -124,7 +125,7 @@ export default function DefinitionsBrowser({ act, onSelectAct, onNavigate }: Pro
             {results
               ? `${results.length} match${results.length === 1 ? '' : 'es'} for "${query.trim()}"`
               : total > LIST_CAP
-                ? `Showing first ${LIST_CAP} of ${total} terms — search to narrow down`
+                ? `Showing first ${LIST_CAP} of ${total} terms. Search to narrow down`
                 : `${total} term${total === 1 ? '' : 's'}`}
           </div>
           {shown.map(t => (
@@ -138,15 +139,20 @@ export default function DefinitionsBrowser({ act, onSelectAct, onNavigate }: Pro
               <div style={{ display: 'flex', alignItems: 'baseline', gap: 10, flexWrap: 'wrap' }}>
                 <span style={{ fontSize: 13.5, fontWeight: 700, color: COLORS.heading }}>{t.term}</span>
                 {t.section && (
-                  <button
-                    onClick={() => onNavigate(act, t.section, t.anchor || undefined)}
+                  <Link
+                    to={`/${act}/${t.section}`}
+                    onClick={(e) => {
+                      if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return
+                      e.preventDefault()
+                      onNavigate(act, t.section, t.anchor || undefined)
+                    }}
                     style={{
                       background: 'none', border: 'none', padding: 0, cursor: 'pointer',
                       color: COLORS.accent, fontSize: 12, textDecoration: 'underline',
                     }}
                   >
                     s {t.section}
-                  </button>
+                  </Link>
                 )}
               </div>
               {t.text && (

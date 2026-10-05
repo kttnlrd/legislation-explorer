@@ -25,7 +25,7 @@ export default function KeyboardShortcuts({ showShortcuts, setShowShortcuts }: K
         }}
         onClick={e => e.stopPropagation()}
       >
-        <h2 style={{ color: COLORS.heading, marginTop: 0, fontFamily: "'Montserrat', sans-serif", fontSize: 18 }}>
+        <h2 style={{ color: COLORS.heading, marginTop: 0, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", fontSize: 18 }}>
           Keyboard Shortcuts
         </h2>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginTop: 16 }}>
@@ -36,7 +36,7 @@ export default function KeyboardShortcuts({ showShortcuts, setShowShortcuts }: K
             ['Esc', 'Close drawer / blur search'],
             ['?', 'Toggle this help'],
           ].map(([key, desc]) => (
-            <div key={key} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', color: COLORS.text, fontFamily: "'Montserrat', sans-serif", fontSize: 13 }}>
+            <div key={key} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', color: COLORS.text, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", fontSize: 13 }}>
               <span>{desc}</span>
               <kbd style={{ background: COLORS.bg, padding: '2px 8px', borderRadius: 4, border: `1px solid ${COLORS.border}`, color: COLORS.heading, fontFamily: 'monospace', fontSize: 12 }}>
                 {key}

@@ -1,5 +1,4 @@
 import React, { useEffect, useMemo, useState } from 'react'
-import { COLORS } from './common/types'
 
 const API = ''
 
@@ -73,66 +72,77 @@ export default function MapBrowser({ onClose, onOpen }: Props) {
     })
   }
 
+  const chevron = (open: boolean) => (
+    <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+         strokeWidth={2} strokeLinecap="round" strokeLinejoin="round">
+      <path d={open ? 'M6 9l6 6 6-6' : 'M9 6l6 6-6 6'} />
+    </svg>
+  )
+
   return (
-    <div style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.75)', zIndex: 1000, display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={onClose}>
-      <div style={{ width: 720, maxWidth: '92vw', maxHeight: '80vh', display: 'flex', flexDirection: 'column', background: COLORS.surface, border: '1px solid ' + COLORS.border, borderRadius: 12, overflow: 'hidden' }} onClick={e => e.stopPropagation()}>
+    <div className="lk-map-browser__overlay" onClick={onClose}>
+      <div className="lk-map-browser" role="dialog" aria-modal="true" aria-labelledby="lk-map-browser-title" onClick={e => e.stopPropagation()}>
         {/* Header */}
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '16px 20px 10px' }}>
+        <div className="lk-map-browser__head">
           <div>
-            <div style={{ fontSize: 16, fontWeight: 700, color: COLORS.heading, fontFamily: "'Montserrat', sans-serif" }}>Procedural knowledge maps</div>
-            <div style={{ fontSize: 12, color: COLORS.textMuted, marginTop: 2 }}>
-              {maps ? `${maps.length} map${maps.length === 1 ? '' : 's'} — decision flows through a provision, with statute, commentary, cases and definitions at each step` : 'Loading…'}
-            </div>
+            <h2 id="lk-map-browser-title" className="lk-map-browser__title">Maps</h2>
+            <p className="lk-map-browser__sub">
+              {maps ? `${maps.length} map${maps.length === 1 ? '' : 's'}: decision flows through a provision, with statute, cases and definitions at each step` : 'Unrolling the maps...'}
+            </p>
           </div>
-          <button onClick={onClose} aria-label="Close" style={{ background: 'none', border: 'none', color: COLORS.textMuted, fontSize: 22, cursor: 'pointer', lineHeight: 1 }}>✕</button>
+          <button type="button" className="lk-map__iconbtn lk-map__iconbtn--bare" onClick={onClose} aria-label="Close">
+            <svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 strokeWidth={2} strokeLinecap="round" strokeLinejoin="round"><path d="M6 6l12 12M18 6L6 18" /></svg>
+          </button>
         </div>
 
         {/* Search */}
-        <div style={{ padding: '0 20px 12px' }}>
+        <div className="lk-map-browser__search">
           <input
+            className="lk-map-browser__input"
             value={query}
             onChange={e => setQuery(e.target.value)}
-            placeholder="Search maps (e.g. roll-over, 122-A, restructure)…"
-            style={{
-              width: '100%', padding: '9px 12px', borderRadius: 8,
-              background: COLORS.bg, color: COLORS.text,
-              border: `1px solid ${COLORS.border}`, fontSize: 13,
-              outline: 'none',
-            }}
+            placeholder="Search maps (e.g. roll-over, 122-A, restructure)"
+            aria-label="Search maps"
           />
         </div>
 
         {/* Tree */}
-        <div style={{ flex: 1, overflow: 'auto', padding: '0 12px 16px' }}>
+        <div className="lk-map-browser__tree">
           {error ? (
-            <div style={{ color: COLORS.textMuted, fontSize: 13, padding: 20 }}>{error}</div>
+            <div className="lk-empty-state">
+              <p className="lk-empty-state__title">The maps are hiding.</p>
+              <div>{error}</div>
+            </div>
           ) : !maps ? (
-            <div style={{ color: COLORS.textMuted, fontSize: 13, padding: 20 }}>Loading maps…</div>
+            <div className="lk-search-loading" role="status">Sniffing out the maps...</div>
           ) : grouped.length === 0 ? (
-            <div style={{ color: COLORS.textMuted, fontSize: 13, padding: 20 }}>No maps match "{query}".</div>
+            <div className="lk-empty-state">
+              <p className="lk-empty-state__title">No maps match.</p>
+              <div>Nothing for "{query}". The cat checked twice.</div>
+            </div>
           ) : (
             grouped.map(([act, actMaps]) => (
-              <div key={act} style={{ marginBottom: 6 }}>
+              <div key={act}>
                 {/* Act header */}
-                <button onClick={() => toggle(act)} style={{ display: 'flex', alignItems: 'center', gap: 8, width: '100%', padding: '9px 10px', borderRadius: 8, background: 'transparent', border: 'none', cursor: 'pointer', textAlign: 'left', color: COLORS.text }}>
-                  <span style={{ fontSize: 11, color: COLORS.textMuted, width: 12, display: 'inline-block', textAlign: 'center' }}>
-                    {expanded.has(act) ? '▾' : '▸'}
-                  </span>
-                  <span style={{ fontSize: 13, fontWeight: 700, color: COLORS.heading }}>{ACT_LABELS[act] || act}</span>
-                  <span style={{ fontSize: 11, color: COLORS.textMuted }}>({actMaps.length})</span>
+                <button type="button" className="lk-map-browser__act" onClick={() => toggle(act)} aria-expanded={expanded.has(act)}>
+                  {chevron(expanded.has(act))}
+                  <span>{ACT_LABELS[act] || act}</span>
+                  <span className="lk-map-browser__count">({actMaps.length})</span>
                 </button>
                 {expanded.has(act) && (
-                  <div style={{ marginLeft: 30, marginTop: 2 }}>
+                  <div className="lk-map-browser__list">
                     {actMaps.map(m => (
-                      <button key={m.id} onClick={() => onOpen(m.id)}
-                              style={{ display: 'block', width: '100%', textAlign: 'left', padding: '8px 10px', borderRadius: 8, background: COLORS.bg, border: '1px solid ' + COLORS.border, cursor: 'pointer', marginBottom: 4 }}>
-                        <div style={{ fontSize: 12.5, fontWeight: 600, color: COLORS.text }}>
-                          {m.refs ? `${m.refs} — ` : ''}{m.short || m.title}
+                      <button key={m.id} type="button" className="lk-result-card" onClick={() => onOpen(m.id)}>
+                        <div className="lk-result-card__head">
+                          <span className="lk-badge lk-badge--map">Map</span>
+                          <span className="lk-result-card__title">{m.short || m.title}</span>
                         </div>
+                        {m.refs && <div className="lk-result-card__cite">{m.refs}</div>}
                         {m.summary && (
-                          <div style={{ fontSize: 11.5, color: COLORS.textMuted, marginTop: 2, lineHeight: 1.45 }}>{m.summary}</div>
+                          <div className="lk-result-card__snippet">{m.summary}</div>
                         )}
-                        <div style={{ fontSize: 10.5, color: '#279e88', marginTop: 4 }}>
+                        <div className="lk-map-browser__stats">
                           {m.node_count} steps · {m.edge_count} paths
                         </div>
                       </button>

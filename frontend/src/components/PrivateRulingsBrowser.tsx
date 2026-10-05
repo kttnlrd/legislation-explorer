@@ -1,6 +1,10 @@
 import React, { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { api } from '../api'
-import { COLORS } from './common/types'
+
+function isPlainClick(e: React.MouseEvent) {
+  return !(e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0)
+}
 
 // ---------------------------------------------------------------------------
 // Private rulings browser — year grid + per-year list (57,608 rulings).
@@ -9,7 +13,7 @@ import { COLORS } from './common/types'
 // ---------------------------------------------------------------------------
 
 type YearEntry = { year: number; count: number }
-type RulingItem = { authnum: string; name: string; date_of_advice: string; ato_url?: string }
+type RulingItem = { authnum: string; name: string; date_of_advice: string; ato_url?: string; outcome?: string }
 export type PrivateRulingsYear = number | 'undated' | null
 
 const PAGE = 50
@@ -31,7 +35,7 @@ export default function PrivateRulingsBrowser({
   const [rulings, setRulings] = useState<RulingItem[]>([])
   const [listTotal, setListTotal] = useState(0)
   const [offset, setOffset] = useState(0)
-  const [loadingList, setLoadingList] = useState(false)
+  const [loadingList, setLoadingList] = useState(year !== null)
   const [error, setError] = useState('')
 
   useEffect(() => {
@@ -79,109 +83,91 @@ export default function PrivateRulingsBrowser({
       .catch(e => { setLoadingList(false); setError(e.message) })
   }
 
-  const yearChip = (y: YearEntry) => {
-    const active = year === y.year
+  const yearCard = (key: string, label: string, count: number, to: string, value: PrivateRulingsYear) => (
+    <Link
+      key={key}
+      to={to}
+      className="lk-pr-year"
+      aria-current={year === value ? 'true' : undefined}
+      onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); onYearChange(value) }}
+    >
+      <span className="lk-pr-year__label">{label}</span>
+      <span className="lk-pr-year__count">{count.toLocaleString()}</span>
+    </Link>
+  )
+
+  const outcomeBadge = (o?: string) => {
+    if (o !== 'yes' && o !== 'no' && o !== 'mixed') return null
     return (
-      <button
-        key={y.year}
-        onClick={() => onYearChange(y.year)}
-        style={{
-          padding: '8px 12px',
-          borderRadius: 6,
-          border: `1px solid ${active ? COLORS.accent : COLORS.border}`,
-          background: active ? COLORS.surfaceHover : COLORS.surface,
-          color: active ? COLORS.accent : COLORS.text,
-          cursor: 'pointer',
-          fontSize: 13,
-          fontWeight: active ? 600 : 400,
-          fontFamily: "'Montserrat', sans-serif",
-        }}
-      >
-        {y.year} <span style={{ opacity: 0.6 }}>({y.count})</span>
-      </button>
+      <span className={`lk-outcome lk-outcome--${o}`}>
+        {o === 'yes' ? 'Yes' : o === 'no' ? 'No' : 'Mixed'}
+      </span>
     )
   }
 
   return (
-    <div style={{ fontFamily: "'Montserrat', sans-serif", padding: isMobile ? 0 : '0 4px' }}>
-      <div style={{ display: 'flex', alignItems: 'baseline', gap: 8, marginBottom: 4 }}>
-        <span style={{ fontSize: 14, fontWeight: 600, color: COLORS.heading }}>Private Rulings</span>
-        <span style={{ fontSize: 12, color: COLORS.textMuted }}>
+    <div className={`lk-pr${isMobile ? ' lk-pr--mobile' : ''}`}>
+      <div className="lk-pr-head">
+        <h1 className="lk-h1 lk-pr-title">Private rulings</h1>
+        <span className="lk-pr-count">
           {total.toLocaleString()} rulings
-          {undated > 0 && ` · ${undated} undated`}
+          {undated > 0 && ` · ${undated.toLocaleString()} undated`}
         </span>
-      </div>
-      <div style={{ fontSize: 12, color: COLORS.textMuted, marginBottom: 12 }}>
-        ATO private rulings are confidential advice — access is restricted to authorised users.
       </div>
 
       {error && (
-        <div style={{ color: '#e5484d', fontSize: 12, marginBottom: 12 }}>{error}</div>
+        <div className="lk-pr-error" role="alert">{error}</div>
       )}
 
-      <div style={{
-        display: 'flex', flexWrap: 'wrap', gap: 6,
-        marginBottom: 16, maxHeight: 220, overflowY: 'auto',
-      }}>
-        {years.map(yearChip)}
-        {undated > 0 && (
-          <button
-            onClick={() => onYearChange('undated')}
-            style={{
-              padding: '8px 12px', borderRadius: 6,
-              border: `1px solid ${year === 'undated' ? COLORS.accent : COLORS.border}`,
-              background: year === 'undated' ? COLORS.surfaceHover : COLORS.surface,
-              color: year === 'undated' ? COLORS.accent : COLORS.text,
-              cursor: 'pointer', fontSize: 13,
-              fontFamily: "'Montserrat', sans-serif",
-            }}
-          >
-            Undated <span style={{ opacity: 0.6 }}>({undated})</span>
-          </button>
-        )}
-      </div>
+      <nav className="lk-pr-years" aria-label="Private rulings by year">
+        {years.map(y => yearCard(String(y.year), String(y.year), y.count, `/private-rulings/year/${y.year}`, y.year))}
+        {undated > 0 && yearCard('undated', 'Undated', undated, '/private-rulings/year/undated', 'undated')}
+      </nav>
 
       {year === null ? (
-        <div style={{
-          borderTop: `1px solid ${COLORS.border}`, paddingTop: 12,
-          color: COLORS.textMuted, fontSize: 13,
-        }}>
-          Pick a year to browse its rulings.
+        <div className="lk-pr-empty">
+          <img src="/lawkitty-cat-head.png" alt="" />
+          <div className="lk-pr-empty__text">
+            <p className="lk-pr-empty__title">Pick a year to browse its rulings.</p>
+            <p className="lk-pr-empty__sub">The cat will fetch.</p>
+          </div>
         </div>
       ) : (
-        <div style={{ borderTop: `1px solid ${COLORS.border}`, paddingTop: 8 }}>
-          <div style={{ fontSize: 12, color: COLORS.textMuted, marginBottom: 6 }}>
-            {listTotal.toLocaleString()} rulings · {year === 'undated' ? 'undated' : year}
+        <section className="lk-pr-list" aria-label={`Private rulings ${year === 'undated' ? 'undated' : year}`}>
+          <div className="lk-pr-list__head">
+            <h2 className="lk-h2 lk-pr-list__title">{year === 'undated' ? 'Undated' : year}</h2>
+            <span className="lk-pr-count">{listTotal.toLocaleString()} rulings</span>
           </div>
           {loadingList && rulings.length === 0 ? (
-            <div style={{ color: COLORS.textMuted, fontSize: 13, padding: '16px 0' }}>Loading…</div>
+            <div className="lk-search-loading" role="status">
+              <img src="/favicon.png" alt="" />
+              Fetching rulings. The cat is on it…
+            </div>
+          ) : rulings.length === 0 ? (
+            !error && (
+              <div className="lk-empty-state" role="status">
+                <p className="lk-empty-state__title">Nothing here yet.</p>
+                <span>The cat checked twice.</span>
+              </div>
+            )
           ) : (
-            <div style={{ display: 'flex', flexDirection: 'column' }}>
+            <div className="lk-results">
               {rulings.map(r => (
-                <div
-                  key={r.authnum}
-                  style={{
-                    display: 'flex', alignItems: 'center', gap: 8,
-                    borderBottom: `1px solid ${COLORS.border}`,
-                  }}
-                >
-                  <button
-                    onClick={() => onOpen(r.authnum)}
-                    style={{
-                      textAlign: 'left', cursor: 'pointer', flex: 1, minWidth: 0,
-                      padding: '8px 4px', border: 'none',
-                      background: 'transparent', color: COLORS.text,
-                      fontFamily: "'Montserrat', sans-serif", fontSize: 13,
-                      display: 'flex', justifyContent: 'space-between', gap: 12,
-                    }}
+                <div key={r.authnum} className="lk-pr-item">
+                  <Link
+                    to={`/private-rulings/${r.authnum}`}
+                    className="lk-result-card"
+                    onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); onOpen(r.authnum) }}
                   >
-                    <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
-                      {r.name || 'Untitled ruling'}
+                    <div className="lk-result-card__head">
+                      <span className="lk-badge lk-badge--private-ruling">Private ruling</span>
+                      <span className="lk-result-card__title">{r.name || 'Untitled ruling'}</span>
+                      {outcomeBadge(r.outcome)}
+                    </div>
+                    <span className="lk-result-card__cite">
+                      EV/{r.authnum} · {r.date_of_advice || 'Undated'}
                     </span>
-                    <span style={{ color: COLORS.textMuted, fontSize: 12, whiteSpace: 'nowrap', flexShrink: 0 }}>
-                      {r.date_of_advice || '—'} · EV/{r.authnum.slice(-6)}
-                    </span>
-                  </button>
+                  </Link>
                   {r.ato_url && (
                     <a
                       href={r.ato_url}
@@ -190,13 +176,7 @@ export default function PrivateRulingsBrowser({
                       onClick={e => e.stopPropagation()}
                       aria-label="View on ATO website"
                       title="View on ATO website"
-                      style={{
-                        color: COLORS.textMuted, textDecoration: 'none',
-                        fontSize: 11, flexShrink: 0, padding: '4px 4px',
-                        fontFamily: "'Montserrat', sans-serif",
-                      }}
-                      onMouseEnter={e => { e.currentTarget.style.color = COLORS.accent }}
-                      onMouseLeave={e => { e.currentTarget.style.color = COLORS.textMuted }}
+                      className="lk-reader-btn lk-pr-item__ato"
                     >
                       ATO ↗
                     </a>
@@ -205,21 +185,17 @@ export default function PrivateRulingsBrowser({
               ))}
               {rulings.length < listTotal && (
                 <button
+                  type="button"
                   onClick={loadMore}
                   disabled={loadingList}
-                  style={{
-                    marginTop: 10, padding: '8px 0', borderRadius: 6,
-                    border: `1px solid ${COLORS.border}`, background: COLORS.surface,
-                    color: COLORS.text, cursor: 'pointer', fontSize: 13,
-                    fontFamily: "'Montserrat', sans-serif",
-                  }}
+                  className="lk-reader-btn lk-pr-more"
                 >
-                  {loadingList ? 'Loading…' : `Load more (${(listTotal - rulings.length).toLocaleString()} remaining)`}
+                  {loadingList ? 'Fetching…' : `Load more (${(listTotal - rulings.length).toLocaleString()} remaining)`}
                 </button>
               )}
             </div>
           )}
-        </div>
+        </section>
       )}
     </div>
   )

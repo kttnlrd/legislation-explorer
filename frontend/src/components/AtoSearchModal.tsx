@@ -88,7 +88,7 @@ export default function AtoSearchModal({ open, onClose }: AtoModalProps) {
         {/* Header */}
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '14px 18px', borderBottom: `1px solid ${COLORS.border}` }}>
           <div>
-            <div style={{ fontSize: 14, fontWeight: 700, color: COLORS.heading, fontFamily: "'Montserrat', sans-serif" }}>
+            <div style={{ fontSize: 14, fontWeight: 700, color: COLORS.heading, fontFamily: "var(--font-ui, 'Figtree'), sans-serif" }}>
               ATO Legal Search
             </div>
             <div style={{ fontSize: 11, color: COLORS.textMuted, marginTop: 2 }}>
@@ -112,7 +112,7 @@ export default function AtoSearchModal({ open, onClose }: AtoModalProps) {
               flex: 1, padding: '8px 10px', borderRadius: 6,
               background: COLORS.bg, color: COLORS.heading,
               border: `1px solid ${COLORS.border}`, fontSize: 13,
-              fontFamily: "'Montserrat', sans-serif", outline: 'none',
+              fontFamily: "var(--font-ui, 'Figtree'), sans-serif", outline: 'none',
             }}
           />
           <button
@@ -120,9 +120,9 @@ export default function AtoSearchModal({ open, onClose }: AtoModalProps) {
             disabled={loading || query.trim().length < 2}
             style={{
               padding: '8px 16px', borderRadius: 6,
-              background: COLORS.accent, color: '#fff',
+              background: COLORS.accent, color: 'var(--on-catnip)',
               border: 'none', fontSize: 13, cursor: loading ? 'default' : 'pointer',
-              fontWeight: 600, fontFamily: "'Montserrat', sans-serif", opacity: query.trim().length < 2 ? 0.5 : 1,
+              fontWeight: 600, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", opacity: query.trim().length < 2 ? 0.5 : 1,
             }}
           >
             {loading ? 'Searching…' : 'Search ATO'}
@@ -152,7 +152,7 @@ export default function AtoSearchModal({ open, onClose }: AtoModalProps) {
                 href={r.link}
                 target="_blank"
                 rel="noopener noreferrer"
-                style={{ fontSize: 13, color: COLORS.accent, textDecoration: 'none', fontWeight: 600, fontFamily: "'Montserrat', sans-serif", lineHeight: 1.4 }}
+                style={{ fontSize: 13, color: COLORS.accent, textDecoration: 'none', fontWeight: 600, fontFamily: "var(--font-ui, 'Figtree'), sans-serif", lineHeight: 1.4 }}
               >
                 {r.title}
               </a>
@@ -195,6 +195,6 @@ function pageBtnStyle(COLORS: any, disabled: boolean): React.CSSProperties {
     padding: '6px 12px', borderRadius: 6,
     background: COLORS.surface, color: disabled ? COLORS.textMuted : COLORS.heading,
     border: `1px solid ${COLORS.border}`, fontSize: 12, cursor: disabled ? 'default' : 'pointer',
-    fontFamily: "'Montserrat', sans-serif", opacity: disabled ? 0.5 : 1,
+    fontFamily: "var(--font-ui, 'Figtree'), sans-serif", opacity: disabled ? 0.5 : 1,
   }
 }

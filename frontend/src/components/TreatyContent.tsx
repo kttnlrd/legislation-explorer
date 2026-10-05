@@ -2,7 +2,6 @@ import React from 'react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
-import { COLORS } from './common/types'
 import { createMarkdownComponents } from './MarkdownRenderers'
 
 type TreatyContentProps = {
@@ -25,27 +24,30 @@ export default function TreatyContent({
   const body = (articleData?.content || '').replace(/^---\n[\s\S]*?\n---\n?/, '').replace(/^#\s+[^\n]+\n?/, '')
   const components = createMarkdownComponents(isMobile, country, onNavigate, onNavigateRuling)
 
+  // "Article 5 — Permanent Establishment" -> mono "Article 5" + display title
+  const titleMatch = articleTitle.match(/^(Article\s+\S+)\s*[—–-]\s*(.+)$/)
+
   return (
-    <div>
-      <div style={{
-        marginBottom: 20, color: COLORS.textMuted, fontSize: 12,
-        fontFamily: "'Montserrat', sans-serif", letterSpacing: 0.3,
-        textTransform: 'uppercase' as const,
-      }}>
-        {country} &rsaquo; Article {articleId}
-      </div>
+    <div className={`lk-reader${isMobile ? ' lk-reader--mobile' : ''}`}>
+      <nav aria-label="Breadcrumb" className="lk-reader-crumb">
+        <span className="lk-badge lk-badge--treaty">Treaty</span>
+        <span>{country}</span>
+        <span className="lk-reader-crumb__sep" aria-hidden="true">/</span>
+        <span>Article {articleId}</span>
+      </nav>
 
       {articleTitle && (
-        <h1 style={{
-          color: COLORS.heading, fontSize: isMobile ? 20 : 22,
-          fontWeight: 600, marginTop: 0, marginBottom: 20,
-          fontFamily: "'Montserrat', sans-serif",
-        }}>
-          {articleTitle}
+        <h1 className="lk-reader-title">
+          {titleMatch ? (
+            <>
+              <span className="lk-reader-title__num">{titleMatch[1]}</span>
+              {titleMatch[2]}
+            </>
+          ) : articleTitle}
         </h1>
       )}
 
-      <div style={{ lineHeight: 1.7, fontSize: isMobile ? 15 : 15, color: COLORS.text }}>
+      <div className="lk-reader-body">
         <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} components={components}>
           {body}
         </ReactMarkdown>

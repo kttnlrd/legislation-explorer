@@ -7,17 +7,15 @@ const ACT_SHORT: Record<string, string> = {
   'taa-1953': 'TAA53',
   'fbt-1986': 'FBTAA 1986',
   'sis-1993': 'SIS 1993',
-  'master-tax-guide': 'CCH MTG',
-  'master-tax-examples': 'CCH Example',
-  'master-gst-guide': 'CCH GST Guide',
   'nz-it-2007': 'NZ IT07',
   'tax-cases': 'Tax Cases',
   'rulings': 'Public Rulings',
   'corporations-act-2001': 'Corps Act',
   'regulatory-guides': 'ASIC RGs',
+  'afsa-guides': 'AFSA Practice',
+  'bankruptcy-act-1966': 'Bankruptcy Act',
   'aml-ctf-2006': 'AML/CTF Act',
   'aml-ctf-rules-2007': 'AML/CTF Rules',
-  'insolvency-keays': 'Keays Insolvency',
   'spec': 'Display Spec',
   'treaties': 'Tax Treaties',
   'argentina': 'Argentina',
@@ -72,6 +70,46 @@ export function shortActName(actId: string): string {
 /** Format a section reference like "ITAA97 s8-1". */
 export function formatSectionRef(actId: string, section: string): string {
   return `${shortActName(actId)} s${section}`
+}
+
+/** Fuller act name for result-card titles — abbreviation + year, not the
+ *  compact ACT_SHORT token ("ITAA36"). Falls back to shortActName. */
+const ACT_TITLE: Record<string, string> = {
+  'itaa-1997': 'ITAA 1997',
+  'itaa-1936': 'ITAA 1936',
+  'gst-1999': 'GST 1999',
+  'taa-1953': 'TAA 1953',
+  'fbt-1986': 'FBTAA 1986',
+  'sis-1993': 'SIS 1993',
+  'nz-it-2007': 'NZ IT 2007',
+  'corporations-act-2001': 'Corporations Act 2001',
+  'bankruptcy-act-1966': 'Bankruptcy Act 1966',
+  'aml-ctf-2006': 'AML/CTF Act 2006',
+  'aml-ctf-rules-2007': 'AML/CTF Rules 2007',
+  'regulatory-guides': 'ASIC RG',
+  'afsa-guides': 'AFSA',
+}
+
+export function actTitleName(actId: string): string {
+  return ACT_TITLE[actId] || shortActName(actId)
+}
+
+/** Convert a filename-style citation slug ("1970_HCA_23") to a medium-neutral
+ *  citation ("[1970] HCA 23"). Idempotent for already-formatted citations. */
+export function normalizeCaseCitation(s: string | undefined | null): string {
+  if (!s) return ''
+  const m = /^(\d{4})_([A-Z]+)_(\d+)$/.exec(s)
+  if (m) return `[${m[1]}] ${m[2]} ${m[3]}`
+  return s
+}
+
+/**
+ * Slugify a ruling citation for use as a URL path segment, matching the
+ * backend's normalization (`re.sub(r'[\s/]+', '_', citation)`).
+ * "TR 2014/5" -> "TR_2014_5", "TD 2020/1" -> "TD_2020_1".
+ */
+export function rulingSlug(citation: string): string {
+  return citation.replace(/[\s/]+/g, '_')
 }
 
 /** Format a search result's act+snippet into a short label. */

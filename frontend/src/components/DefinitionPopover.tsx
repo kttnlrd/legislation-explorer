@@ -1,6 +1,11 @@
 import React, { useEffect, useRef, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { api } from '../api'
 import { COLORS } from './common/types'
+
+function isPlainClick(e: React.MouseEvent) {
+  return !(e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0)
+}
 
 function extractText(node: React.ReactNode): string {
   if (typeof node === 'string') return node
@@ -58,7 +63,6 @@ export default function DefinitionPopover({
   }, [open])
 
   const handleOpen = async (e: React.MouseEvent) => {
-    e.preventDefault()
     e.stopPropagation()
     if (open) {
       setOpen(false)
@@ -84,19 +88,34 @@ export default function DefinitionPopover({
     onNavigate(data.section, data.anchor)
   }
 
+  const triggerStyle: React.CSSProperties = {
+    color: COLORS.accent,
+    cursor: 'pointer',
+    textDecoration: 'underline dotted',
+    textDecorationThickness: '2px',
+    textUnderlineOffset: '4px',
+  }
+
   return (
     <span ref={containerRef} style={{ position: 'relative', display: 'inline' }}>
-      <span
-        onClick={handleOpen}
-        style={{
-          color: COLORS.accent,
-          cursor: 'pointer',
-          textDecoration: 'none',
-          borderBottom: `1px dashed ${COLORS.accentHover}`,
-        }}
-      >
-        {children}
-      </span>
+      {href ? (
+        <Link
+          to={href}
+          onClick={(e) => {
+            if (!isPlainClick(e)) return
+            e.preventDefault()
+            handleOpen(e)
+          }}
+          className="lk-defined-term"
+          style={triggerStyle}
+        >
+          {children}
+        </Link>
+      ) : (
+        <span onClick={handleOpen} className="lk-defined-term" style={triggerStyle}>
+          {children}
+        </span>
+      )}
       {open && (
         <div
           ref={popoverRef}
@@ -108,11 +127,11 @@ export default function DefinitionPopover({
             maxWidth: 400,
             minWidth: 280,
             background: COLORS.surface,
-            border: `1px solid ${COLORS.border}`,
-            borderRadius: 6,
+            border: `var(--border-chunky, 2px) solid var(--line-strong, ${COLORS.border})`,
+            borderRadius: 'var(--radius-md, 14px)',
             padding: '12px 16px',
-            boxShadow: '0 4px 20px rgba(0,0,0,0.4)',
-            fontFamily: "'Lora', serif",
+            boxShadow: 'var(--shadow-pounce, 0 4px 20px rgba(0,0,0,0.4))',
+            fontFamily: "var(--font-body, 'Figtree'), serif",
           }}
         >
           <div
@@ -142,7 +161,7 @@ export default function DefinitionPopover({
                   fontWeight: 600,
                   fontSize: 14,
                   marginBottom: 8,
-                  fontFamily: "'Montserrat', sans-serif",
+                  fontFamily: "var(--font-ui, 'Figtree'), sans-serif",
                 }}
               >
                 {data.term}
@@ -161,18 +180,24 @@ export default function DefinitionPopover({
               >
                 {data.text}
               </div>
-              <div
-                onClick={handleNavigate}
+              <Link
+                to={`/${act}/${data.section}`}
+                onClick={(e) => {
+                  if (!isPlainClick(e)) return
+                  e.preventDefault()
+                  handleNavigate()
+                }}
                 style={{
                   color: COLORS.accent,
                   fontSize: 12,
                   fontWeight: 600,
                   cursor: 'pointer',
-                  fontFamily: "'Montserrat', sans-serif",
+                  textDecoration: 'none',
+                  fontFamily: "var(--font-ui, 'Figtree'), sans-serif",
                 }}
               >
                 Go to definition →
-              </div>
+              </Link>
             </div>
           )}
         </div>

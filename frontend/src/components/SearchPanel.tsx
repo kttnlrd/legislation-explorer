@@ -1,9 +1,24 @@
 import React, { useEffect, useRef, useState } from 'react'
-import { COLORS } from './common/types'
+import { Link } from 'react-router-dom'
 import { api } from '../api'
-import { shortActName } from '../utils/display'
+import { shortActName, rulingSlug, actTitleName, normalizeCaseCitation } from '../utils/display'
 
 const PAGE_SIZE = 25
+
+// Snippets are FTS5 snippet() output: plain text with each match wrapped in
+// <mark>. Render those matches as React <mark> elements and everything else as
+// text — never as raw HTML (L9). Anything that looks like a tag is shown literally.
+const SNIPPET_MARK_RE = /(<mark>[\s\S]*?<\/mark>)/
+
+function renderSnippet(snippet: string) {
+  return snippet.split(SNIPPET_MARK_RE).map((part, i) => {
+    if (i % 2 === 1) {
+      const inner = part.replace(/^<mark>/, '').replace(/<\/mark>$/, '')
+      return <mark key={i}>{inner}</mark>
+    }
+    return <React.Fragment key={i}>{part}</React.Fragment>
+  })
+}
 
 interface FlatResult {
   act: string
@@ -26,55 +41,82 @@ interface SearchPanelProps {
   onResultsChange?: (count: number) => void
 }
 
-const SOURCE_GROUPS: { label: string; ids: string[] }[] = [
-  { label: 'Australian Tax', ids: ['itaa-1997','itaa-1936','gst-1999','taa-1953','fbt-1986','sis-1993','master-tax-guide','master-tax-examples','master-gst-guide','rulings','tax-cases','private-rulings'] },
-  { label: 'International Tax', ids: ['treaties'] },
-  { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
-  { label: 'Corporate Law', ids: ['corporations-act-2001','regulatory-guides'] },
-  { label: 'Corporate Insolvency', ids: ['insolvency-keays'] },
-  { label: 'AML/CTF', ids: ['aml-ctf-2006','aml-ctf-rules-2007'] },
-  { label: 'System', ids: ['spec'] },
+// Practice areas → backend search scope + the sources searched within each.
+// Row 1 of the search filter is the area (maps to a backend `scope`); row 2 is
+// the togglable sources for the selected area (narrows to a single `act`).
+const PRACTICE_AREAS: { label: string; scope: string; ids: string[] }[] = [
+  { label: 'Tax', scope: 'au-tax', ids: ['itaa-1997','itaa-1936','gst-1999','fbt-1986','sis-1993','taa-1953','tax-cases','rulings','private-rulings','treaties'] },
+  { label: 'Corporate', scope: 'corporate-asic', ids: ['corporations-act-2001','regulatory-guides'] },
+  { label: 'Bankruptcy', scope: 'bankruptcy', ids: ['bankruptcy-act-1966','afsa-guides'] },
+  { label: 'AML/CTF', scope: 'aml-ctf', ids: ['aml-ctf-2006','aml-ctf-rules-2007'] },
+  { label: 'NZ Tax', scope: 'nz-tax', ids: ['nz-it-2007'] },
 ]
+
+// Result-type chips per practice-area scope. Only au-tax has public/private
+// rulings; corporate/bankruptcy surface legislation + guides + cases. Keys are
+// the backend `type` filter values.
+const TYPE_CHIPS: Record<string, { key: string; label: string }[]> = {
+  'au-tax': [
+    { key: '', label: 'All' },
+    { key: 'section', label: 'Sections' },
+    { key: 'ruling', label: 'Public rulings' },
+    { key: 'private_ruling', label: 'Private rulings' },
+    { key: 'case', label: 'Cases' },
+  ],
+  'corporate-asic': [
+    { key: '', label: 'All' },
+    { key: 'section', label: 'Sections' },
+    { key: 'regulatory_guide', label: 'Guides (RGs)' },
+    { key: 'case', label: 'Cases' },
+  ],
+  'bankruptcy': [
+    { key: '', label: 'All' },
+    { key: 'section', label: 'Sections' },
+    { key: 'afsa_guide', label: 'Guides' },
+    { key: 'case', label: 'Cases' },
+  ],
+  'aml-ctf': [
+    { key: '', label: 'All' },
+    { key: 'section', label: 'Sections' },
+  ],
+  'nz-tax': [
+    { key: '', label: 'All' },
+    { key: 'section', label: 'Sections' },
+  ],
+}
 
 export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChange }: SearchPanelProps) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<FlatResult[]>([])
+  const [totalCount, setTotalCount] = useState(0)
   const [unfilteredResults, setUnfilteredResults] = useState<FlatResult[]>([])
-  const [filterOpen, setFilterOpen] = useState(true)
+  const [filterOpen, setFilterOpen] = useState(false)
   const [sortMode, setSortMode] = useState<'bestmatch' | 'bysection' | 'byact'>('bestmatch')
   const [loading, setLoading] = useState(false)
+  const [hasSearched, setHasSearched] = useState(false)
   const [selectedActs, setSelectedActs] = useState<Set<string>>(new Set())
+  const [selectedArea, setSelectedArea] = useState<string>(PRACTICE_AREAS[0].label)
   const [currentPage, setCurrentPage] = useState(0)
   const [typeFilter, setTypeFilter] = useState<string>('')
   const [operator, setOperator] = useState<'AND' | 'OR'>('AND')
-  const [dateFrom, setDateFrom] = useState('')
-  const [dateTo, setDateTo] = useState('')
   const [rtype, setRtype] = useState<string>('')
   const [outcome, setOutcome] = useState<string>('')
-  const inputRef = useRef<HTMLInputElement>(null)
-  const [suggestions, setSuggestions] = useState<{ act: string; section: string; title: string; type: string }[]>([])
-  const [showSuggestions, setShowSuggestions] = useState(false)
-  const [highlightIdx, setHighlightIdx] = useState(-1)
-  const suggestTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
-  // api.suggest takes no AbortSignal (frontend/src/api.ts), so a slow response
-  // cannot be cancelled. Two guards instead: a monotonic request id, and the
-  // query the request was issued for. A response is applied only when it is
-  // still the newest request AND its query is still the live one.
+  // The term the current results were fetched for (header shows it even while the box is edited)
+  const [searchedTerm, setSearchedTerm] = useState('')
+  const firstRun = useRef(true)
+  // Live autocomplete: top-5 matches shown inline in the main results area while typing.
+  const [suggestions, setSuggestions] = useState<FlatResult[]>([])
   const suggestSeq = useRef(0)
-  const suggestFor = useRef('')
-  const containerRef = useRef<HTMLDivElement>(null)
 
-  const SUGGEST_LIMIT = 8
+  const activeArea = PRACTICE_AREAS.find(a => a.label === selectedArea) || PRACTICE_AREAS[0]
+  const activeAreaActs = acts.filter(a => activeArea.ids.includes(a.id))
 
-  // Re-filter results when source selection changes
+  // Re-run the search when the practice-area slicer changes (skip the mount)
   useEffect(() => {
-    if (unfilteredResults.length === 0) return
-    const filtered = selectedActs.size > 0
-      ? unfilteredResults.filter(r => selectedActs.has(r.act))
-      : unfilteredResults
-    setResults(filtered)
-    setCurrentPage(0)
-  }, [selectedActs, unfilteredResults])
+    if (firstRun.current) { firstRun.current = false; return }
+    if (query.trim()) doSearch()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selectedActs, selectedArea])
 
   // Notify parent of results count
   useEffect(() => {
@@ -92,79 +134,55 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
-  // Debounced suggest — live autocomplete as the user types (CDN-0099).
-  // Restores the effect removed in 7066299a5 (2-char minimum, 250 ms debounce,
-  // api.suggest(q, 8)) with a staleness guard. The removed version used an
-  // AbortController that api.suggest ignored, so an out-of-order response could
-  // overwrite newer suggestions; the sequence ref below fixes that.
+  // Live autocomplete (CDN-0099): ≥2 chars, 250 ms debounce, top-5 matches rendered
+  // inline in the main results area — not a dropdown. Committing (Enter / Pounce)
+  // runs the full search and replaces these.
   useEffect(() => {
-    const q = query.trim()
-    if (q.length < 2) {
-      // Also invalidates any in-flight request for the previous query.
-      suggestSeq.current += 1
-      suggestFor.current = ''
-      setSuggestions([])
-      setShowSuggestions(false)
-      setHighlightIdx(-1)
-      return
-    }
-    if (suggestTimer.current) clearTimeout(suggestTimer.current)
-    suggestTimer.current = setTimeout(async () => {
-      const seq = ++suggestSeq.current
-      suggestFor.current = q
+    const term = query.trim()
+    const seq = ++suggestSeq.current
+    if (term.length < 2) { setSuggestions([]); return }
+    const t = setTimeout(async () => {
       try {
-        const data = await api.suggest(q, SUGGEST_LIMIT)
-        // Stale response: a newer query has been typed, or the box was cleared.
-        if (seq !== suggestSeq.current || suggestFor.current !== q) return
-        if (data.suggestions) {
-          setSuggestions(data.suggestions)
-          setShowSuggestions(data.suggestions.length > 0)
-          setHighlightIdx(-1)
-        }
+        const data = await api.suggest(term, 5)
+        if (seq !== suggestSeq.current) return
+        setSuggestions((data.suggestions || []).map((r: any) => ({
+          act: r.act || '',
+          act_name: '',
+          section: r.section || '',
+          title: r.title || '',
+          headline: '',
+          match_type: '',
+          score: 0,
+          type: r.type || 'section',
+        })))
       } catch {
-        // ignore failed request
+        if (seq === suggestSeq.current) setSuggestions([])
       }
     }, 250)
-    return () => {
-      if (suggestTimer.current) clearTimeout(suggestTimer.current)
-    }
+    return () => clearTimeout(t)
   }, [query])
-
-  const runSearchWithSuggestions = async () => {
-    const term = query.trim()
-    if (!term) return
-    setShowSuggestions(false)
-    setSuggestions([])
-    setHighlightIdx(-1)
-    // Fast suggest endpoint gives immediate navigation options during the slow hybrid search
-    try {
-      const data = await api.suggest(term, SUGGEST_LIMIT)
-      if (data.suggestions && data.suggestions.length > 0) {
-        setSuggestions(data.suggestions)
-        setShowSuggestions(true)
-      }
-    } catch { /* ignore */ }
-    doSearch()
-  }
 
   const doSearch = async (q?: string, filterOverride?: string) => {
     const term = (q || query).trim()
     if (!term) return
 
     setLoading(true)
+    setHasSearched(true)
+    setSearchedTerm(term)
     try {
       // Keep the query in the URL so direct loads / back-nav restore it
       window.history.replaceState(null, '', '/search?q=' + encodeURIComponent(term))
       const activeFilter = filterOverride !== undefined ? filterOverride : typeFilter
       const activeRtype = activeFilter === 'ruling' ? (rtype || undefined) : undefined
       const activeOutcome = activeFilter === 'private_ruling' ? (outcome || undefined) : undefined
+      const singleAct = selectedActs.size === 1 ? [...selectedActs][0] : undefined
       if (sortMode === 'bestmatch') {
         const data = await api.searchHybrid(term, activeFilter || undefined, 200, {
           operator,
-          dateFrom: dateFrom || undefined,
-          dateTo: dateTo || undefined,
           rtype: activeRtype,
           outcome: activeOutcome,
+          act: singleAct,
+          scope: activeArea.scope,
         })
         const allResults: FlatResult[] = (data.results || data || []).map((r: any) => ({
           act: r.act || '',
@@ -180,16 +198,17 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
           qa: r.qa || undefined,
         }))
         setUnfilteredResults(allResults)
+        setTotalCount(typeof data.total === 'number' ? data.total : allResults.length)
         if (selectedActs.size > 0) {
           setResults(allResults.filter(r => selectedActs.has(r.act)))
         } else {
           setResults(allResults)
         }
       } else {
-        // Per-act search
+        // Per-act search, scoped to the selected area (or narrowed chips)
         const targets = selectedActs.size > 0
           ? acts.filter(a => selectedActs.has(a.id))
-          : acts
+          : acts.filter(a => activeArea.ids.includes(a.id))
         const all: FlatResult[] = []
         for (const a of targets) {
           try {
@@ -210,51 +229,14 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
         setUnfilteredResults(all)
         setResults(all)
       }
-    } catch { setResults([]) }
+    } catch { setUnfilteredResults([]); setResults([]) }
     setLoading(false)
     setCurrentPage(0)
-    // Results are ready — drop the quick-nav dropdown so it doesn't cover them
-    setShowSuggestions(false)
-    setSuggestions([])
   }
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
-    if (showSuggestions && suggestions.length > 0) {
-      if (e.key === 'ArrowDown') {
-        e.preventDefault()
-        setHighlightIdx(i => Math.min(i + 1, suggestions.length - 1))
-        return
-      }
-      if (e.key === 'ArrowUp') {
-        e.preventDefault()
-        setHighlightIdx(i => Math.max(i - 1, -1))
-        return
-      }
-      if (e.key === 'Escape') {
-        setShowSuggestions(false)
-        setHighlightIdx(-1)
-        return
-      }
-      if (e.key === 'Enter' && highlightIdx >= 0) {
-        e.preventDefault()
-        pickSuggestion(suggestions[highlightIdx])
-        return
-      }
-    }
     if (e.key === 'Enter') {
-      setShowSuggestions(false)
-      runSearchWithSuggestions()
-    }
-  }
-
-  const pickSuggestion = (s: { act: string; section: string; title: string; type: string }) => {
-    setShowSuggestions(false)
-    setSuggestions([])
-    setQuery('')
-    if (s.type === 'ruling') {
-      onNavigate('rulings', s.section)
-    } else {
-      onNavigate(s.act, s.section)
+      doSearch()
     }
   }
 
@@ -266,6 +248,17 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
     } else if (r.section) {
       onNavigate(r.act, r.section)
     }
+  }
+
+  // Canonical href for a result row, mirroring handleSelect's act resolution,
+  // so the row can render as a real <Link> (F-15).
+  const hrefForResult = (r: FlatResult): string | null => {
+    if (!r.section) return null
+    const targetAct = r.type === 'case' ? 'tax-cases' : r.act
+    if (targetAct === 'tax-cases') return `/tax-cases/${encodeURIComponent(r.section)}`
+    if (targetAct === 'private-rulings') return `/private-rulings/${encodeURIComponent(r.section)}`
+    if (targetAct === 'rulings') return `/rulings/${rulingSlug(r.section)}`
+    return `/${targetAct}/${r.section}`
   }
 
   const toggleAct = (id: string) => {
@@ -280,296 +273,263 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const pageStart = currentPage * PAGE_SIZE
   const pageResults = results.slice(pageStart, pageStart + PAGE_SIZE)
 
-  const filterButtonSvg = (
-    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round">
-      <line x1="2" y1="3" x2="14" y2="3" />
-      <line x1="2" y1="8" x2="14" y2="8" />
-      <line x1="2" y1="13" x2="14" y2="13" />
+  // Document-type badge: label + lk-badge modifier for every result type we render.
+  const badgeFor = (r: FlatResult): { label: string; cls: string } => {
+    if (r.type === 'case' || r.act === 'tax-cases') return { label: 'Case', cls: 'case' }
+    if (r.type === 'private_ruling' || r.act === 'private-rulings') return { label: 'Private ruling', cls: 'private-ruling' }
+    if (r.type === 'ruling' || r.act === 'rulings') return { label: 'Ruling', cls: 'ruling' }
+    if (r.act === 'treaties' || /treaty|convention|double tax/i.test(r.act_name)) return { label: 'Treaty', cls: 'treaty' }
+    if (r.act === 'regulatory-guides') return { label: 'Guide', cls: 'act' }
+    if (r.act === 'afsa-guides') return { label: 'AFSA', cls: 'act' }
+    return { label: 'Section', cls: 'section' }
+  }
+
+  // Answer-pill classification for private-ruling Q&A. Collapses OCR spacing
+  // and punctuation ("Ye s" → "Yes", ": No" → "No") so classification is robust
+  // to ingest artefacts; "not…" stays Qualified.
+  const answerPill = (a: string): { label: string; cls: string } => {
+    const v = (a || '').toLowerCase().replace(/[^a-z]/g, '')
+    if (v.startsWith('yes')) return { label: 'Yes', cls: 'yes' }
+    if (v.startsWith('no') && !v.startsWith('not')) return { label: 'No', cls: 'no' }
+    return { label: 'Qualified', cls: 'qualified' }
+  }
+  const truncate = (s: string, n: number): string =>
+    s.length > n ? s.slice(0, n - 1).trimEnd() + '…' : s
+
+  const chevronSvg = (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+      <path d="M6 9l6 6 6-6" />
     </svg>
   )
 
+  const filterButtonSvg = (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+      <path d="M4 6h16M7 12h10M10 18h4" />
+    </svg>
+  )
+
+  const anyQueryFilter = !!(typeFilter || rtype || outcome || selectedActs.size > 0)
+  const sourcesEmptied = !loading && hasSearched && results.length === 0 && unfilteredResults.length > 0
+    && selectedActs.size > 0 && !unfilteredResults.some(r => selectedActs.has(r.act))
+  const showTypeTabs = !loading && hasSearched && (results.length > 0 || typeFilter !== '')
+  // Live autocomplete is "live" while the box differs from the committed term.
+  const isSuggesting = !loading && suggestions.length > 0 && query.trim() !== searchedTerm
+
+  // Shared result-card renderer (used for both live suggestions and full results).
+  const renderCard = (r: FlatResult, key: string) => {
+    const badge = badgeFor(r)
+    const isCase = badge.cls === 'case'
+    const isPrivate = badge.cls === 'private-ruling'
+    const isSection = badge.cls === 'section'
+
+    // Title — identify the document first, then the heading.
+    let title: string
+    if (isCase) {
+      title = r.title || normalizeCaseCitation(r.section) || ''
+    } else if (isPrivate) {
+      // "Private ruling 1051476678819 — Fringe benefits tax" → "1051476678819: Fringe benefits tax"
+      let t = (r.title || r.section || '')
+      t = t.replace(/^Private ruling\s+\S+\s*[—–-]\s*/i, '')
+      t = t.replace(/\s*[—–]\s*/g, ': ')
+      title = t.trim() || r.section || ''
+    } else if (isSection && r.section) {
+      const heading = r.title && r.title !== r.section ? r.title : ''
+      title = `s ${r.section} ${actTitleName(r.act)}${heading ? `: ${heading}` : ''}`
+    } else {
+      title = r.title || ''
+    }
+
+    const resultHref = hrefForResult(r)
+    const RowTag: any = resultHref ? Link : 'div'
+    const rowProps: any = resultHref
+      ? {
+          to: resultHref,
+          onClick: (e: React.MouseEvent) => {
+            if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return
+            e.preventDefault()
+            handleSelect(r)
+          },
+        }
+      : {
+          onClick: () => handleSelect(r),
+          role: 'button',
+          tabIndex: 0,
+          onKeyDown: (e: React.KeyboardEvent) => {
+            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handleSelect(r) }
+          },
+        }
+
+    const qaItems = isPrivate && r.qa && r.qa.length ? r.qa : []
+    const qaShown = qaItems.slice(0, 3)
+    const qaMore = qaItems.length - qaShown.length
+
+    return (
+      <RowTag key={key} className="lk-result-card" {...rowProps}>
+        <div className="lk-result-card__head">
+          <span className={`lk-badge lk-badge--${badge.cls}`}>{badge.label}</span>
+          <span className="lk-result-card__title">{title}</span>
+          {isPrivate && r.outcome && (
+            <span
+              className={`lk-outcome lk-outcome--${r.outcome === 'yes' ? 'yes' : r.outcome === 'no' ? 'no' : 'mixed'}`}
+              title={r.outcome === 'mixed' ? 'Some answers favourable, some not' : undefined}
+            >
+              {r.outcome === 'yes' ? 'Yes' : r.outcome === 'no' ? 'No' : 'Mixed'}
+            </span>
+          )}
+        </div>
+        {!isPrivate && r.snippet && (
+          <div className="lk-result-card__snippet">{renderSnippet(r.snippet)}</div>
+        )}
+        {isPrivate && qaShown.length > 0 && (
+          <div className="lk-result-card__qa">
+            {qaShown.map((qa, qi) => (
+              <div key={qi} className="lk-result-card__qa-row">
+                <span className="lk-result-card__q">{truncate(qa.q, 120)}</span>
+                <span className={`lk-answer lk-answer--${answerPill(qa.a).cls}`}>{answerPill(qa.a).label}</span>
+              </div>
+            ))}
+            {qaMore > 0 && <span className="lk-result-card__qa-more">+{qaMore} more</span>}
+          </div>
+        )}
+      </RowTag>
+    )
+  }
+
+  const filtersAside = filterOpen && (
+    <aside className="lk-filters" aria-label="Search filters">
+      <span className="lk-filters__caption">Filters</span>
+      <div className="lk-filters__field">
+        <label htmlFor="lk-fmatch" className="lk-filters__label">Match</label>
+        <select
+          id="lk-fmatch"
+          className="lk-filters__select"
+          value={operator}
+          onChange={e => setOperator(e.target.value as 'AND' | 'OR')}
+        >
+          <option value="AND">All terms (AND)</option>
+          <option value="OR">Any term (OR)</option>
+        </select>
+      </div>
+      <div className="lk-filters__field">
+        <label htmlFor="lk-fsort" className="lk-filters__label">Sort</label>
+        <select
+          id="lk-fsort"
+          className="lk-filters__select"
+          value={sortMode}
+          onChange={e => setSortMode(e.target.value as 'bestmatch' | 'bysection' | 'byact')}
+        >
+          <option value="bestmatch">Best match</option>
+          <option value="bysection">By section</option>
+          <option value="byact">By act</option>
+        </select>
+      </div>
+    </aside>
+  )
+
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: 8, width: '100%', position: 'relative' }}>
-      <style>{`@keyframes hermes-spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }`}</style>
+    <div className={'lk-search' + (isMobile ? ' lk-search--mobile' : '')}>
       {/* Search input row */}
-      <div style={{ display: 'flex', gap: 6, alignItems: 'stretch' }}>
-        <div style={{ position: 'relative', flex: 1 }}>
+      <div className="lk-search__bar">
+        <div className="lk-search__form" role="search">
+          <svg className="lk-search__icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/>
+          </svg>
+          <label htmlFor="lk-search-q" className="lk-sr-only">Search legislation</label>
           <input
-            ref={inputRef}
+            id="lk-search-q"
+            className="lk-search__input"
             value={query}
-            onChange={e => {
-              setQuery(e.target.value)
-              if (!e.target.value.trim()) {
-                setShowSuggestions(false)
-                setSuggestions([])
-              }
-            }}
+            onChange={e => setQuery(e.target.value)}
             onKeyDown={handleKeyDown}
-            onBlur={() => setTimeout(() => setShowSuggestions(false), 200)}
-            placeholder="Search legislation..."
-            style={{
-              width: '100%',
-              padding: isMobile ? '10px 10px' : '8px 10px',
-              borderRadius: 6,
-              background: COLORS.bg,
-              color: COLORS.heading,
-              border: `1px solid ${COLORS.border}`,
-              fontSize: 13,
-              fontFamily: "'Montserrat', sans-serif",
-              outline: 'none',
-            }}
+            placeholder="Search legislation, rulings, cases…"
+            autoComplete="off"
           />
+          <button
+            type="button"
+            className="lk-search__submit"
+            onClick={() => doSearch()}
+            onMouseDown={e => e.preventDefault()}
+          >
+            Pounce
+          </button>
         </div>
         <button
-          onClick={() => runSearchWithSuggestions()}
-          onMouseDown={e => e.preventDefault()}
-          style={{
-            padding: isMobile ? '10px 14px' : '8px 14px', borderRadius: 6,
-            background: COLORS.accent, color: '#fff',
-            border: 'none', fontSize: 13, cursor: 'pointer',
-            fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
-            whiteSpace: 'nowrap',
-          }}
-        >
-          Search
-        </button>
-        <button
+          type="button"
+          className="lk-search__filters-btn"
           onClick={() => setFilterOpen(!filterOpen)}
           title="Filters"
-          style={{
-            padding: isMobile ? '10px 12px' : '8px 12px', borderRadius: 6,
-            background: filterOpen ? COLORS.accent : COLORS.surface,
-            color: filterOpen ? '#fff' : COLORS.textMuted,
-            border: `1px solid ${filterOpen ? COLORS.accent : COLORS.border}`,
-            fontSize: 13, cursor: 'pointer',
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
-            fontFamily: "'Montserrat', sans-serif",
-          }}
+          aria-label={isMobile ? 'Filters' : undefined}
+          aria-expanded={filterOpen}
         >
           {filterButtonSvg}
+          {!isMobile && <span className="lk-search__filters-label">Filters</span>}
         </button>
       </div>
 
-      {/* Autocomplete suggestions dropdown */}
-      {showSuggestions && (
-        <div
-          style={{
-            position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 400,
-            marginTop: 2, background: COLORS.bg, borderRadius: 6,
-            border: `1px solid ${COLORS.border}`, overflow: 'hidden',
-            boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
-          }}
-        >
-          {suggestions.map((s, i) => (
-            <div
-              key={`${s.act}-${s.section}`}
-              onClick={() => pickSuggestion(s)}
-              onMouseEnter={() => setHighlightIdx(i)}
-              style={{
-                padding: '8px 10px', cursor: 'pointer',
-                fontSize: 12, fontFamily: "'Montserrat', sans-serif",
-                color: COLORS.text,
-                background: i === highlightIdx ? COLORS.accent + '18' : 'transparent',
-                borderBottom: i < suggestions.length - 1 ? `1px solid ${COLORS.border}` : 'none',
-              }}
+      {/* Practice-area selector: row 1 = areas, row 2 = sources for the area */}
+      <div className="lk-practice" role="group" aria-label="Practice areas">
+        <div className="lk-practice__areas">
+          {PRACTICE_AREAS.map(a => (
+            <button
+              key={a.label}
+              type="button"
+              className="lk-practice__area"
+              aria-pressed={selectedArea === a.label}
+              onClick={() => { setSelectedArea(a.label); setSelectedActs(new Set()) }}
             >
-              <div style={{ display: 'flex', alignItems: 'baseline', gap: 6 }}>
-                <span style={{ color: COLORS.accent, fontWeight: 600, whiteSpace: 'nowrap' }}>
-                  {shortActName(s.act)} {s.section}
-                </span>
-                <span style={{ color: COLORS.textMuted, fontSize: 11, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
-                  {s.title}
-                </span>
-              </div>
-              <div style={{ fontSize: 9, color: COLORS.textMuted, opacity: 0.6, marginTop: 2 }}>
-                {s.type === 'ruling' ? 'Ruling' : 'Section'}
-              </div>
-            </div>
+              {a.label}
+            </button>
           ))}
         </div>
-      )}
-
-      {/* Filters panel — always visible, collapsible via the Filters button */}
-      {filterOpen && (
-        <div style={{
-          position: 'relative',
-          background: COLORS.bg, borderRadius: 6,
-          border: `1px solid ${COLORS.border}`,
-          padding: 10,
-          display: 'flex', flexDirection: 'column', gap: 8,
-        }}>
-          <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Match:</div>
-          <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
-            {(['AND', 'OR'] as const).map(op => (
-              <label
-                key={op}
-                style={{
-                  fontSize: 11, color: COLORS.text, cursor: 'pointer',
-                  display: 'flex', alignItems: 'center', gap: 4,
-                  padding: '3px 6px', borderRadius: 4,
-                  background: operator === op ? COLORS.accent + '22' : 'transparent',
-                  fontFamily: "'Montserrat', sans-serif",
-                }}
-              >
-                <input
-                  type="radio"
-                  name="operator"
-                  checked={operator === op}
-                  onChange={() => setOperator(op)}
-                  style={{ margin: 0 }}
-                />
-                {op === 'AND' ? 'All terms (AND)' : 'Any term (OR)'}
-              </label>
-            ))}
-          </div>
-          <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Date between:</div>
-          <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', alignItems: 'center' }}>
-            <input
-              type="date"
-              value={dateFrom}
-              onChange={e => setDateFrom(e.target.value)}
-              style={{
-                flex: 1, minWidth: 120, padding: '5px 6px', borderRadius: 4,
-                background: COLORS.bg, color: COLORS.text,
-                border: `1px solid ${COLORS.border}`,
-                fontSize: 11, fontFamily: "'Montserrat', sans-serif",
-              }}
-            />
-            <span style={{ fontSize: 11, color: COLORS.textMuted }}>to</span>
-            <input
-              type="date"
-              value={dateTo}
-              onChange={e => setDateTo(e.target.value)}
-              style={{
-                flex: 1, minWidth: 120, padding: '5px 6px', borderRadius: 4,
-                background: COLORS.bg, color: COLORS.text,
-                border: `1px solid ${COLORS.border}`,
-                fontSize: 11, fontFamily: "'Montserrat', sans-serif",
-              }}
-            />
-          </div>
-          <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Sort:</div>
-          <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
-            {(['bestmatch', 'bysection', 'byact'] as const).map(mode => (
-              <label
-                key={mode}
-                style={{
-                  fontSize: 11, color: COLORS.text, cursor: 'pointer',
-                  display: 'flex', alignItems: 'center', gap: 4,
-                  padding: '3px 6px', borderRadius: 4,
-                  background: sortMode === mode ? COLORS.accent + '22' : 'transparent',
-                  fontFamily: "'Montserrat', sans-serif",
-                }}
-              >
-                <input
-                  type="radio"
-                  name="sortMode"
-                  checked={sortMode === mode}
-                  onChange={() => setSortMode(mode)}
-                  style={{ margin: 0 }}
-                />
-                {mode === 'bestmatch' ? 'Best match' : mode === 'bysection' ? 'By section' : 'By act'}
-              </label>
-            ))}
-          </div>
-          <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Sources:</div>
-          {(() => {
-            const groupedActs = new Set(SOURCE_GROUPS.flatMap(g => g.ids))
-            const otherActs = acts.filter(a => !groupedActs.has(a.id))
-            const allGroups = [
-              ...SOURCE_GROUPS,
-              ...(otherActs.length > 0 ? [{ label: 'Other', ids: otherActs.map(a => a.id) }] : []),
-            ]
-            return allGroups.map(g => {
-              const groupActs = g.label === 'Other'
-                ? otherActs
-                : acts.filter(a => g.ids.includes(a.id))
-              if (groupActs.length === 0) return null
-              return (
-                <div key={g.label}>
-                  <div style={{ fontSize: 10, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif", marginBottom: 3 }}>{g.label}</div>
-                  <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4, marginBottom: 6 }}>
-                    {groupActs.map(a => (
-                      <label
-                        key={a.id}
-                        style={{
-                          fontSize: 11, color: COLORS.text, cursor: 'pointer',
-                          display: 'flex', alignItems: 'center', gap: 4,
-                          padding: '3px 6px', borderRadius: 4,
-                          background: selectedActs.has(a.id) ? COLORS.accent + '22' : 'transparent',
-                          fontFamily: "'Montserrat', sans-serif",
-                        }}
-                      >
-                        <input
-                          type="checkbox"
-                          checked={selectedActs.has(a.id)}
-                          onChange={() => toggleAct(a.id)}
-                          style={{ margin: 0 }}
-                        />
-                        {shortActName(a.id)}
-                      </label>
-                    ))}
-                  </div>
-                </div>
-              )
-            })
-          })()}
+        <div className="lk-practice__items" role="group" aria-label={`${selectedArea} sources`}>
+          {activeAreaActs.map(a => (
+            <button
+              key={a.id}
+              type="button"
+              className="lk-practice__item"
+              aria-pressed={selectedActs.has(a.id)}
+              onClick={() => toggleAct(a.id)}
+            >
+              {shortActName(a.id)}
+            </button>
+          ))}
         </div>
-      )}
+      </div>
 
-      {/* Results */}
-      {loading && (
-        <div style={{
-          padding: '8px 4px', fontSize: 12, color: COLORS.textMuted,
-          fontFamily: "'Montserrat', sans-serif",
-          display: 'flex', alignItems: 'center', gap: 8,
-        }}>
-          <img
-            src="/favicon.png"
-            alt=""
-            style={{ width: 16, height: 16, animation: 'hermes-spin 1s linear infinite' }}
-          />
-          Searching...
-        </div>
-      )}
+      {/* Results header */}
       {results.length > 0 && !loading && (
-        <>
+        <div className="lk-search-header">
+          <h1 className="lk-search-header__count">{totalCount > results.length ? `${results.length}+` : results.length} sniffed out</h1>
+          {searchedTerm && (
+            <span className="lk-search-header__query">for &#8220;{searchedTerm}&#8221;</span>
+          )}
+          {totalPages > 1 && (
+            <span className="lk-search-header__page">Page {currentPage + 1} of {totalPages}</span>
+          )}
+        </div>
+      )}
+
+      <div className="lk-search__body">
+        <div className="lk-search__main">
           {/* Type filter tabs */}
-          <div style={{
-            display: 'flex', gap: 4, padding: '4px 0',
-            borderBottom: `1px solid ${COLORS.border}`,
-            flexWrap: 'wrap',
-          }}>
-            {[
-              { key: '', label: 'All' },
-              { key: 'section', label: 'Sections' },
-              { key: 'ruling', label: 'Public Rulings' },
-              { key: 'private_ruling', label: 'Private rulings' },
-              { key: 'case', label: 'Cases' },
-              { key: 'commentary', label: 'Commentary' },
-            ].map(t => (
-              <button
-                key={t.key}
-                onClick={() => { setTypeFilter(t.key); setCurrentPage(0); doSearch(undefined, t.key) }}
-                style={{
-                  fontSize: 10, padding: '3px 8px', borderRadius: 4,
-                  background: typeFilter === t.key ? COLORS.accent : COLORS.surface,
-                  color: typeFilter === t.key ? '#fff' : COLORS.textMuted,
-                  border: `1px solid ${typeFilter === t.key ? COLORS.accent : COLORS.border}`,
-                  cursor: 'pointer', fontFamily: "'Montserrat', sans-serif",
-                  fontWeight: typeFilter === t.key ? 600 : 400,
-                }}
-              >
-                {t.label}
-              </button>
-            ))}
-          </div>
+          {showTypeTabs && (
+            <div className="lk-chips" role="group" aria-label="Result type">
+              {(TYPE_CHIPS[activeArea.scope] || TYPE_CHIPS['au-tax']).map(t => (
+                <button
+                  key={t.key}
+                  type="button"
+                  className="lk-chip"
+                  aria-pressed={typeFilter === t.key}
+                  onClick={() => { setTypeFilter(t.key); setCurrentPage(0); doSearch(undefined, t.key) }}
+                >
+                  {t.label}
+                </button>
+              ))}
+            </div>
+          )}
           {/* Ruling-series chips */}
-          {typeFilter === 'ruling' && (
-            <div style={{
-              display: 'flex', gap: 4, padding: '4px 0',
-              flexWrap: 'wrap',
-            }}>
+          {showTypeTabs && typeFilter === 'ruling' && (
+            <div className="lk-chips lk-chips--sub" role="group" aria-label="Ruling series">
               {[
                 { key: '', label: 'All' },
                 { key: 'TR', label: 'TR' },
@@ -584,15 +544,10 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
               ].map(c => (
                 <button
                   key={c.key}
+                  type="button"
+                  className="lk-chip"
+                  aria-pressed={rtype === c.key}
                   onClick={() => { setRtype(c.key); setCurrentPage(0); doSearch(undefined, 'ruling') }}
-                  style={{
-                    fontSize: 10, padding: '2px 6px', borderRadius: 4,
-                    background: rtype === c.key ? COLORS.accent : COLORS.surface,
-                    color: rtype === c.key ? '#fff' : COLORS.textMuted,
-                    border: `1px solid ${rtype === c.key ? COLORS.accent : COLORS.border}`,
-                    cursor: 'pointer', fontFamily: "'Montserrat', sans-serif",
-                    fontWeight: rtype === c.key ? 600 : 400,
-                  }}
                 >
                   {c.label}
                 </button>
@@ -600,11 +555,8 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
             </div>
           )}
           {/* Private-ruling outcome chips */}
-          {typeFilter === 'private_ruling' && (
-            <div style={{
-              display: 'flex', gap: 4, padding: '4px 0',
-              flexWrap: 'wrap',
-            }}>
+          {showTypeTabs && typeFilter === 'private_ruling' && (
+            <div className="lk-chips lk-chips--sub" role="group" aria-label="Private ruling outcome">
               {[
                 { key: '', label: 'Any outcome' },
                 { key: 'yes', label: '✓ ATO said Yes' },
@@ -613,192 +565,95 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
               ].map(c => (
                 <button
                   key={c.key}
+                  type="button"
+                  className="lk-chip"
+                  aria-pressed={outcome === c.key}
                   onClick={() => { setOutcome(c.key); setCurrentPage(0); doSearch(undefined, 'private_ruling') }}
-                  style={{
-                    fontSize: 10, padding: '2px 6px', borderRadius: 4,
-                    background: outcome === c.key ? COLORS.accent : COLORS.surface,
-                    color: outcome === c.key ? '#fff' : COLORS.textMuted,
-                    border: `1px solid ${outcome === c.key ? COLORS.accent : COLORS.border}`,
-                    cursor: 'pointer', fontFamily: "'Montserrat', sans-serif",
-                    fontWeight: outcome === c.key ? 600 : 400,
-                  }}
                 >
                   {c.label}
                 </button>
               ))}
             </div>
           )}
-          {/* Results header */}
-          <div style={{
-            fontSize: 10, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif",
-            padding: '4px 2px', borderBottom: `1px solid ${COLORS.border}`,
-            display: 'flex', justifyContent: 'space-between', alignItems: 'center',
-          }}>
-            <span>{results.length} result{results.length !== 1 ? 's' : ''} — Page {currentPage + 1} of {totalPages}</span>
-          </div>
 
-          {/* Results list */}
-          <div style={{
-            background: COLORS.bg, borderRadius: 6,
-            border: `1px solid ${COLORS.border}`,
-            textAlign: 'left',
-          }}>
-            {pageResults.map((r, i) => {
-              const badgeBg = r.type === 'case' ? '#8B5CF6' :
-                r.type === 'ruling' || r.type === 'private_ruling' ? '#F59E0B' :
-                r.type === 'commentary' ? '#10B981' :
-                COLORS.accent
-              const badgeLabel = r.type === 'case' ? 'Case' :
-                r.type === 'ruling' ? 'Ruling' :
-                r.type === 'private_ruling' ? 'PR' :
-                r.type === 'commentary' ? 'Comm' :
-                'Sec'
-              const isRuling = r.type === 'ruling' || r.type === 'private_ruling' || r.act === 'rulings'
-              const isCchGuide = r.act.startsWith('master-')
-              const isCase = r.type === 'case'
-              const sectionDisplay = isCase
-                ? r.title || r.section
-                : isRuling
-                  ? r.title || r.section
-                  : isCchGuide
-                    ? shortActName(r.act)
-                    : `${shortActName(r.act)} ${r.section}`
-              return (
-              <div
-                key={`${r.act}-${r.section}-${pageStart + i}`}
-                onClick={() => handleSelect(r)}
-                style={{
-                  padding: isMobile ? '10px 12px' : '8px 12px', cursor: 'pointer', fontSize: 12,
-                  color: COLORS.text, borderBottom: `1px solid ${COLORS.border}`,
-                  fontFamily: "'Montserrat', sans-serif",
-                }}
-                onMouseEnter={e => e.currentTarget.style.background = COLORS.accent + '11'}
-                onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
-              >
-                <div style={{ display: 'flex', alignItems: 'baseline', gap: 6, flexWrap: 'wrap' }}>
-                  <span style={{
-                    fontSize: 11, color: COLORS.accent, fontWeight: 600,
-                    whiteSpace: 'nowrap', flexShrink: 0,
-                  }}>
-                    {sectionDisplay}
-                  </span>
-                  {r.title && r.title !== r.section && (
-                    <span style={{
-                      color: COLORS.textMuted,
-                      wordBreak: 'break-word', overflowWrap: 'break-word',
-                    }}>
-                      {r.title}
-                    </span>
-                  )}
-                </div>
-                {r.snippet && (
-                  <div style={{
-                    fontSize: 11, color: COLORS.textMuted, opacity: 0.7,
-                    marginTop: 3, paddingLeft: 2,
-                    fontFamily: "'Lora', serif",
-                    lineHeight: 1.4, textAlign: 'left',
-                  }}>
-                    {r.snippet.split(/<\/?mark>/).map((t, i) =>
-                      i % 2 ? <mark key={i}>{t}</mark> : t
-                    )}
-                  </div>
-                )}
-                <div style={{ fontSize: 9, color: COLORS.textMuted, opacity: 0.5, marginTop: 2, textAlign: 'left', display: 'flex', gap: 4, alignItems: 'center' }}>
-                  <span style={{
-                    background: badgeBg, color: '#fff', borderRadius: 3,
-                    padding: '1px 5px', fontSize: 8, fontWeight: 600,
-                    fontFamily: "'Montserrat', sans-serif",
-                  }}>{badgeLabel}</span>
-                  <span>{sectionDisplay}</span>
-                  {r.type === 'private_ruling' && r.outcome && (
-                    <span style={{
-                      background: r.outcome === 'yes' ? '#10B981' :
-                        r.outcome === 'no' ? '#EF4444' : '#F59E0B',
-                      color: '#fff', borderRadius: 3,
-                      padding: '1px 5px', fontSize: 8, fontWeight: 600,
-                      fontFamily: "'Montserrat', sans-serif",
-                    }}>{r.outcome === 'yes' ? 'YES' : r.outcome === 'no' ? 'NO' : 'MIXED'}</span>
-                  )}
-                </div>
-                {r.type === 'private_ruling' && r.qa && r.qa.length > 0 && (
-                  <div style={{ marginTop: 3, paddingLeft: 2 }}>
-                    {r.qa.slice(0, 2).map((qa, qi) => (
-                      <div key={qi} style={{ fontSize: 10, lineHeight: 1.35, marginTop: 2, fontFamily: "'Lora', serif" }}>
-                        <span style={{ color: COLORS.textMuted, opacity: 0.75 }}>Q: {qa.q}</span>
-                        <div style={{
-                          color: qa.a.trim().toLowerCase().startsWith('yes') ? '#10B981' :
-                            qa.a.trim().toLowerCase().startsWith('no') ? '#EF4444' : COLORS.textMuted,
-                          fontWeight: 500,
-                        }}>A: {qa.a}</div>
-                      </div>
-                    ))}
-                  </div>
-                )}
-              </div>
-            )})}
-          </div>
-
-          {/* Pagination */}
-          {totalPages > 1 && (
-            <div style={{
-              display: 'flex', justifyContent: 'center', alignItems: 'center', gap: 8,
-              padding: '8px 0',
-            }}>
-              <button
-                onClick={() => setCurrentPage(p => Math.max(0, p - 1))}
-                disabled={currentPage === 0}
-                style={{
-                  padding: '6px 12px', borderRadius: 6,
-                  background: currentPage === 0 ? COLORS.bg : COLORS.surface,
-                  color: currentPage === 0 ? COLORS.textMuted : COLORS.text,
-                  border: `1px solid ${COLORS.border}`,
-                  cursor: currentPage === 0 ? 'default' : 'pointer',
-                  fontSize: 11, fontFamily: "'Montserrat', sans-serif",
-                }}
-              >
-                ← Previous
-              </button>
-              {Array.from({ length: Math.min(totalPages, 7) }, (_, i) => {
-                // Show pages around current
-                const start = Math.max(0, Math.min(currentPage - 3, totalPages - 7))
-                const pageNum = start + i
-                if (pageNum >= totalPages) return null
-                return (
-                  <button
-                    key={pageNum}
-                    onClick={() => setCurrentPage(pageNum)}
-                    style={{
-                      width: 28, height: 28, borderRadius: 4,
-                      background: pageNum === currentPage ? COLORS.accent : 'transparent',
-                      color: pageNum === currentPage ? '#fff' : COLORS.textMuted,
-                      border: pageNum === currentPage ? 'none' : `1px solid ${COLORS.border}`,
-                      cursor: 'pointer', fontSize: 11,
-                      fontFamily: "'Montserrat', sans-serif",
-                      display: 'flex', alignItems: 'center', justifyContent: 'center',
-                    }}
-                  >
-                    {pageNum + 1}
-                  </button>
-                )
-              })}
-              <button
-                onClick={() => setCurrentPage(p => Math.min(totalPages - 1, p + 1))}
-                disabled={currentPage >= totalPages - 1}
-                style={{
-                  padding: '6px 12px', borderRadius: 6,
-                  background: currentPage >= totalPages - 1 ? COLORS.bg : COLORS.surface,
-                  color: currentPage >= totalPages - 1 ? COLORS.textMuted : COLORS.text,
-                  border: `1px solid ${COLORS.border}`,
-                  cursor: currentPage >= totalPages - 1 ? 'default' : 'pointer',
-                  fontSize: 11, fontFamily: "'Montserrat', sans-serif",
-                }}
-              >
-                Next →
-              </button>
+          {loading && (
+            <div className="lk-search-loading" role="status">
+              <img src="/favicon.png" alt="" />
+              Sniffing through the ITAA…
             </div>
           )}
-        </>
-      )}
+          {isSuggesting && (
+            <div className="lk-results">
+              <div className="lk-search-header">
+                <h1 className="lk-search-header__count">{suggestions.length} quick match{suggestions.length === 1 ? '' : 'es'}</h1>
+                <span className="lk-search-header__query">keep typing, or press Enter to search everything</span>
+              </div>
+              {suggestions.map((r, i) => renderCard(r, `sug-${r.act}-${r.section}-${i}`))}
+            </div>
+          )}
+          {!loading && !isSuggesting && hasSearched && results.length === 0 && unfilteredResults.length === 0 && (
+            <div className="lk-empty-state" role="status">
+              <p className="lk-empty-state__title">Nothing sniffed out.</p>
+              <span>{anyQueryFilter ? 'Try fewer filters or different words.' : 'Try different words.'}</span>
+            </div>
+          )}
+          {!isSuggesting && sourcesEmptied && (
+            <div className="lk-empty-state" role="status">
+              <p className="lk-empty-state__title">Nothing sniffed out.</p>
+              <span>No results in the selected sources. Tick more sources or clear them.</span>
+            </div>
+          )}
+
+          {!isSuggesting && results.length > 0 && !loading && (
+            <>
+              {/* Results list */}
+              <div className="lk-results">
+                {pageResults.map((r, i) => renderCard(r, `${r.act}-${r.section}-${pageStart + i}`))}
+              </div>
+
+              {/* Pagination */}
+              {totalPages > 1 && (
+                <nav className="lk-pager" aria-label="Results pages">
+                  <button
+                    type="button"
+                    className="lk-pager__btn"
+                    onClick={() => setCurrentPage(p => Math.max(0, p - 1))}
+                    disabled={currentPage === 0}
+                  >
+                    ← Previous
+                  </button>
+                  {Array.from({ length: Math.min(totalPages, 7) }, (_, i) => {
+                    // Show pages around current
+                    const start = Math.max(0, Math.min(currentPage - 3, totalPages - 7))
+                    const pageNum = start + i
+                    if (pageNum >= totalPages) return null
+                    return (
+                      <button
+                        key={pageNum}
+                        type="button"
+                        className="lk-pager__btn"
+                        aria-current={pageNum === currentPage ? 'page' : undefined}
+                        onClick={() => setCurrentPage(pageNum)}
+                      >
+                        {pageNum + 1}
+                      </button>
+                    )
+                  })}
+                  <button
+                    type="button"
+                    className="lk-pager__btn"
+                    onClick={() => setCurrentPage(p => Math.min(totalPages - 1, p + 1))}
+                    disabled={currentPage >= totalPages - 1}
+                  >
+                    Next →
+                  </button>
+                </nav>
+              )}
+            </>
+          )}
+        </div>
+        {filtersAside}
+      </div>
     </div>
   )
 }

@@ -1,7 +1,12 @@
-import React, { useState, useEffect, useCallback } from 'react'
+import React, { useState, useEffect } from 'react'
+import { Link } from 'react-router-dom'
 import { api } from '../api'
 import { COLORS } from './common/types'
-import { shortActName } from '../utils/display'
+import { shortActName, rulingSlug } from '../utils/display'
+
+function isPlainClick(e: React.MouseEvent) {
+  return !(e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0)
+}
 
 // ---------------------------------------------------------------- types
 
@@ -10,6 +15,8 @@ interface GraphItem {
   label: string
   node_type: string
   url: string | null
+  name?: string
+  year?: number
 }
 
 interface GraphGroup {
@@ -43,8 +50,8 @@ interface SmartLinkPanelProps {
   onNavigateCase?: (citation: string) => void
 }
 
-const PREVIEW_ITEMS = 5
-const EXPAND_LIMIT = 100
+// Backend caps /api/graph/related at 100 items per group
+const GRAPH_LIMIT = 100
 
 // Collapsible dropdown group
 function CollapsibleGroup({
@@ -61,8 +68,8 @@ function CollapsibleGroup({
       <div
         style={{
           display: 'flex', justifyContent: 'space-between', alignItems: 'center',
-          padding: '8px 12px', cursor: 'pointer',
-          fontSize: 13, fontWeight: 600, color: COLORS.heading,
+          padding: '10px 14px', cursor: 'pointer',
+          fontSize: 15, fontWeight: 600, color: COLORS.heading,
         }}
         onClick={() => setOpen(!open)}
       >
@@ -82,7 +89,7 @@ function CollapsibleGroup({
 // Clickable item style
 function itemStyle(clickable: boolean): React.CSSProperties {
   const base: React.CSSProperties = {
-    padding: '6px 10px', borderRadius: 4, fontSize: 13,
+    padding: '7px 12px', borderRadius: 4, fontSize: 15, lineHeight: 1.4,
     background: COLORS.surface, border: `1px solid ${COLORS.border}`,
   }
   if (clickable) {
@@ -96,10 +103,9 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({
 }) => {
   const [graphGroups, setGraphGroups] = useState<GraphGroup[]>([])
   const [relatedSections, setRelatedSections] = useState<RelatedSection[]>([])
+  const [citedBy, setCitedBy] = useState<RelatedSection[]>([])
   const [definedTerms, setDefinedTerms] = useState<DefinedTerm[]>([])
   const [loading, setLoading] = useState<boolean>(true)
-  const [expanded, setExpanded] = useState<Record<string, boolean>>({})
-  const [expanding, setExpanding] = useState<Record<string, boolean>>({})
 
   // Dropdown open states — all default closed
   const [openGroups, setOpenGroups] = useState<Record<string, boolean>>({})
@@ -112,13 +118,13 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({
     const fetchData = async () => {
       setLoading(true)
       setGraphGroups([])
-      setExpanded({})
       try {
-        const rel = await api.graphRelated(graphKeyResolved, PREVIEW_ITEMS).catch(() => ({ groups: [] }))
+        const rel = await api.graphRelated(graphKeyResolved, GRAPH_LIMIT).catch(() => ({ groups: [] }))
         setGraphGroups(rel.groups || [])
         if (!isGraphOnly) {
-          const refs = await api.sectionRefs(act, section).catch(() => ({ sections: [], definitions: [] }))
+          const refs = await api.sectionRefs(act, section).catch(() => ({ sections: [], cited_by: [], definitions: [] }))
           setRelatedSections(refs.sections || [])
+          setCitedBy(refs.cited_by || [])
 
           const refDefs: DefinedTerm[] = (refs.definitions || []).map((d: any) => ({
             term: d.term || d.id || '',
@@ -151,6 +157,17 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({
     if (onNavigate) onNavigate(act, def.section, def.anchor)
   }
 
+  const hrefForGraphItem = (item: GraphItem): string | null => {
+    if ((item.node_type === 'section' || item.node_type === 'commentary') && item.url) {
+      const parts = item.url.split('/').filter(Boolean)
+      return parts.length >= 2 ? `/${parts[0]}/${parts[1]}` : null
+    }
+    if (item.node_type === 'public_ruling') return `/rulings/${rulingSlug(item.label)}`
+    if (item.node_type === 'case') return `/tax-cases/${encodeURIComponent(item.label)}`
+    if (item.node_type === 'private_ruling' && item.url) return item.url
+    return null
+  }
+
   const handleGraphItemClick = (item: GraphItem) => {
     if ((item.node_type === 'section' || item.node_type === 'commentary') && item.url) {
       const parts = item.url.split('/').filter(Boolean)
@@ -164,23 +181,7 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({
     }
   }
 
-  const expandGroup = useCallback(async (group: GraphGroup) => {
-    setExpanding(e => ({ ...e, [group.edge_type]: true }))
-    try {
-      const rel = await api.graphRelated(graphKeyResolved, EXPAND_LIMIT, group.edge_type)
-      const g = (rel.groups || []).find((x: GraphGroup) => x.edge_type === group.edge_type)
-      if (g) {
-        setGraphGroups(prev => prev.map(p => p.edge_type === g.edge_type ? g : p))
-        setExpanded(e => ({ ...e, [group.edge_type]: true }))
-      }
-    } catch {
-      // leave as-is on failure
-    } finally {
-      setExpanding(e => ({ ...e, [group.edge_type]: false }))
-    }
-  }, [graphKeyResolved])
-
-  const hasContent = graphGroups.length > 0 || relatedSections.length > 0 || definedTerms.length > 0
+  const hasContent = graphGroups.length > 0 || relatedSections.length > 0 || citedBy.length > 0 || definedTerms.length > 0
 
   if (loading) {
     return <div style={{ padding: '12px 0', color: COLORS.textMuted, fontSize: 13 }}>Loading related information...</div>
@@ -192,68 +193,79 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({
 
   const sameActSections = relatedSections.filter(s => s.act === act)
   const crossActSections = relatedSections.filter(s => s.act !== act)
-  const showSectionRefs = !isGraphOnly && (sameActSections.length > 0 || crossActSections.length > 0)
+  const showSectionRefs = !isGraphOnly && (sameActSections.length > 0 || crossActSections.length > 0 || citedBy.length > 0)
 
   return (
     <div style={{
       background: COLORS.surface, borderRadius: 8, padding: 12,
       border: `1px solid ${COLORS.border}`, boxShadow: `0 2px 4px rgba(0,0,0,0.2)`,
     }}>
-      <h3 style={{ color: COLORS.heading, fontSize: 14, fontWeight: 600, margin: '0 0 12px' }}>Related</h3>
+      <h3 style={{ color: COLORS.heading, fontSize: 18, fontWeight: 600, margin: '0 0 12px' }}>Related</h3>
 
       <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
         {/* Sections — from in-text references (not graph: no section→section edges) */}
         {showSectionRefs && (
           <CollapsibleGroup
             title="Sections"
-            count={sameActSections.length + crossActSections.length}
+            count={sameActSections.length + crossActSections.length + citedBy.length}
             open={!!openGroups.sections}
             setOpen={() => toggleOpen('sections')}
           >
             {sameActSections.length > 0 && (
               <>
-                <div style={{ color: COLORS.textMuted, fontSize: 11, fontWeight: 600, textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 4, marginTop: 2 }}>
+                <div style={{ color: COLORS.textMuted, fontSize: 12, fontWeight: 600, textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 4, marginTop: 2 }}>
                   Same Act
                 </div>
-                {sameActSections.slice(0, PREVIEW_ITEMS).map((link) => (
-                  <div
+                {sameActSections.map((link) => (
+                  <Link
                     key={'sa-' + link.id}
-                    style={itemStyle(true)}
-                    onClick={() => handleSectionClick(link)}
-                    onMouseEnter={e => { (e.currentTarget as HTMLDivElement).style.background = COLORS.surfaceHover }}
-                    onMouseLeave={e => { (e.currentTarget as HTMLDivElement).style.background = COLORS.surface }}
+                    to={`/${link.act}/${link.id}`}
+                    style={{ ...itemStyle(true), display: 'block', textDecoration: 'none' }}
+                    onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); handleSectionClick(link) }}
+                    onMouseEnter={e => { (e.currentTarget as HTMLAnchorElement).style.background = COLORS.surfaceHover }}
+                    onMouseLeave={e => { (e.currentTarget as HTMLAnchorElement).style.background = COLORS.surface }}
                   >
                     s{link.id}{link.title ? ` \u2014 ${link.title}` : ''}
-                  </div>
+                  </Link>
                 ))}
-                {sameActSections.length > PREVIEW_ITEMS && (
-                  <div style={{ color: COLORS.textMuted, fontSize: 12, padding: '4px 10px' }}>
-                    … and {sameActSections.length - PREVIEW_ITEMS} more
-                  </div>
-                )}
               </>
             )}
             {crossActSections.length > 0 && (
               <>
-                <div style={{ color: COLORS.textMuted, fontSize: 11, fontWeight: 600, textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 4, marginTop: sameActSections.length > 0 ? 8 : 2 }}>
+                <div style={{ color: COLORS.textMuted, fontSize: 12, fontWeight: 600, textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 4, marginTop: sameActSections.length > 0 ? 8 : 2 }}>
                   Cross-Act
                 </div>
-                {crossActSections.slice(0, PREVIEW_ITEMS).map((link) => (
-                  <div
+                {crossActSections.map((link) => (
+                  <Link
                     key={'ca-' + link.act + '-' + link.id}
-                    style={itemStyle(true)}
-                    onClick={() => handleSectionClick(link)}
-                    onMouseEnter={e => { (e.currentTarget as HTMLDivElement).style.background = COLORS.surfaceHover }}
-                    onMouseLeave={e => { (e.currentTarget as HTMLDivElement).style.background = COLORS.surface }}
+                    to={`/${link.act}/${link.id}`}
+                    style={{ ...itemStyle(true), display: 'block', textDecoration: 'none' }}
+                    onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); handleSectionClick(link) }}
+                    onMouseEnter={e => { (e.currentTarget as HTMLAnchorElement).style.background = COLORS.surfaceHover }}
+                    onMouseLeave={e => { (e.currentTarget as HTMLAnchorElement).style.background = COLORS.surface }}
                   >
                     {shortActName(link.act)} s{link.id}{link.title ? ` \u2014 ${link.title}` : ''}
-                  </div>
+                  </Link>
                 ))}
-                {crossActSections.length > PREVIEW_ITEMS && (
-                  <div style={{ color: COLORS.textMuted, fontSize: 12, padding: '4px 10px' }}>
-                    … and {crossActSections.length - PREVIEW_ITEMS} more
-                  </div>
-                )}
+              </>
+            )}
+            {citedBy.length > 0 && (
+              <>
+                <div style={{ color: COLORS.textMuted, fontSize: 12, fontWeight: 600, textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 4, marginTop: sameActSections.length + crossActSections.length > 0 ? 8 : 2 }}>
+                  Cited by
+                </div>
+                {citedBy.map((link) => (
+                  <Link
+                    key={'cb-' + link.id}
+                    to={`/${link.act}/${link.id}`}
+                    style={{ ...itemStyle(true), display: 'block', textDecoration: 'none' }}
+                    onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); handleSectionClick(link) }}
+                    onMouseEnter={e => { (e.currentTarget as HTMLAnchorElement).style.background = COLORS.surfaceHover }}
+                    onMouseLeave={e => { (e.currentTarget as HTMLAnchorElement).style.background = COLORS.surface }}
+                  >
+                    s{link.id}{link.title ? ` \u2014 ${link.title}` : ''}
+                  </Link>
+                ))}
               </>
             )}
           </CollapsibleGroup>
@@ -267,22 +279,18 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({
             open={!!openGroups.definitions}
             setOpen={() => toggleOpen('definitions')}
           >
-            {definedTerms.slice(0, PREVIEW_ITEMS).map((def) => (
-              <div
+            {definedTerms.map((def) => (
+              <Link
                 key={'def-' + def.term}
-                style={itemStyle(true)}
-                onClick={() => handleDefinitionClick(def)}
-                onMouseEnter={e => { (e.currentTarget as HTMLDivElement).style.background = COLORS.surfaceHover }}
-                onMouseLeave={e => { (e.currentTarget as HTMLDivElement).style.background = COLORS.surface }}
+                to={`/${act}/${def.section}`}
+                style={{ ...itemStyle(true), display: 'block', textDecoration: 'none' }}
+                onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); handleDefinitionClick(def) }}
+                onMouseEnter={e => { (e.currentTarget as HTMLAnchorElement).style.background = COLORS.surfaceHover }}
+                onMouseLeave={e => { (e.currentTarget as HTMLAnchorElement).style.background = COLORS.surface }}
               >
                 {def.term}{def.section ? ` \u2014 s ${def.section}` : ''}
-              </div>
+              </Link>
             ))}
-            {definedTerms.length > PREVIEW_ITEMS && (
-              <div style={{ color: COLORS.textMuted, fontSize: 12, padding: '4px 10px' }}>
-                … and {definedTerms.length - PREVIEW_ITEMS} more
-              </div>
-            )}
           </CollapsibleGroup>
         )}
 
@@ -295,23 +303,44 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({
             open={!!openGroups[group.edge_type]}
             setOpen={() => toggleOpen(group.edge_type)}
             footer={
-              !expanded[group.edge_type] && group.total > group.items.length ? (
-                <button
-                  style={{
-                    marginTop: 4, padding: '6px 10px', borderRadius: 4, fontSize: 12,
-                    background: COLORS.surfaceHover, color: COLORS.accent,
-                    border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                  }}
-                  disabled={!!expanding[group.edge_type]}
-                  onClick={(e) => { e.stopPropagation(); expandGroup(group) }}
-                >
-                  {expanding[group.edge_type] ? 'Loading…' : `Show all (${group.total})`}
-                </button>
+              group.items.length >= GRAPH_LIMIT ? (
+                <div style={{ color: COLORS.textMuted, fontSize: 13, padding: '4px 10px' }}>
+                  Top {GRAPH_LIMIT} shown, ranked by citation weight
+                </div>
               ) : undefined
             }
           >
             {group.items.map((item) => {
               const clickable = !!item.url
+              const href = clickable ? hrefForGraphItem(item) : null
+              const content = (
+                <>
+                  {item.label}
+                  {item.node_type === 'public_ruling' && item.year ? (
+                    <span style={{ color: COLORS.textMuted, fontSize: 13 }}> ({item.year})</span>
+                  ) : null}
+                  {item.node_type === 'private_ruling' && (
+                    <span style={{ color: COLORS.textMuted, fontSize: 13 }}> (private)</span>
+                  )}
+                  {(item.node_type === 'case' || item.node_type === 'public_ruling') && item.name ? (
+                    <span style={{ color: COLORS.textMuted, fontSize: 13 }}> — {item.name}</span>
+                  ) : null}
+                </>
+              )
+              if (href) {
+                return (
+                  <Link
+                    key={item.key}
+                    to={href}
+                    style={{ ...itemStyle(true), display: 'block', textDecoration: 'none' }}
+                    onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); handleGraphItemClick(item) }}
+                    onMouseEnter={e => { (e.currentTarget as HTMLAnchorElement).style.background = COLORS.surfaceHover }}
+                    onMouseLeave={e => { (e.currentTarget as HTMLAnchorElement).style.background = COLORS.surface }}
+                  >
+                    {content}
+                  </Link>
+                )
+              }
               return (
                 <div
                   key={item.key}
@@ -322,10 +351,7 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({
                   }}
                   onMouseLeave={e => { (e.currentTarget as HTMLDivElement).style.background = COLORS.surface }}
                 >
-                  {item.label}
-                  {item.node_type === 'private_ruling' && (
-                    <span style={{ color: COLORS.textMuted, fontSize: 11 }}> (private)</span>
-                  )}
+                  {content}
                 </div>
               )
             })}

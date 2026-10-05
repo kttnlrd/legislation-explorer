@@ -29,6 +29,37 @@ export function subparagraphLevel(children: React.ReactNode): number {
   return 0
 }
 
+// Flatten React children (including nested elements) into plain text.
+export function nodeText(node: React.ReactNode): string {
+  if (node == null || typeof node === 'boolean') return ''
+  if (typeof node === 'string' || typeof node === 'number') return String(node)
+  if (Array.isArray(node)) return node.map(nodeText).join('')
+  if (React.isValidElement(node)) return nodeText((node.props as any)?.children)
+  return ''
+}
+
+// **(1)**, **(a)**, **(ii)**, **(A)**, **(1A)** -> subsection / paragraph marker
+const MARKER_RE = /^\([0-9A-Za-z]{1,6}\)$/
+// **Note:**, **Note 2:**, **Example 1:**, **Examples:**, **Exception:**
+const NOTE_LABEL_RE = /^(Notes?|Examples?|Exceptions?)(\s+\d+[A-Z]?)?:$/
+const NOTE_BLOCK_RE = /^(Notes?|Examples?|Exceptions?)(\s+\d+[A-Z]?)?:/
+
+// Split "104-10  Disposal of a CGT asset" into a mono section number + title.
+const SECTION_NUM_RE = /^\s*((?:s\s?)?[0-9][0-9A-Za-z.\-]*)\s+([\s\S]*)$/
+
+export function splitSectionHeading(children: React.ReactNode): React.ReactNode {
+  const arr = React.Children.toArray(children)
+  const first = arr[0]
+  if (typeof first !== 'string') return children
+  const m = first.match(SECTION_NUM_RE)
+  if (!m) return children
+  return [
+    <span key="lk-num" className="lk-reader-title__num">{m[1]}</span>,
+    m[2],
+    ...arr.slice(1),
+  ]
+}
+
 export function createMarkdownComponents(
   isMobile: boolean,
   act: string,
@@ -36,35 +67,41 @@ export function createMarkdownComponents(
   onNavigateRuling: NavigateRulingFn,
   renderLink?: RenderLinkFn,
 ) {
-  const headingStyle = {
-    color: COLORS.heading,
-    fontWeight: 600,
-  } as const
-
+  const isLegislation = act !== 'rulings' && act !== 'private-rulings'
   return {
     h1: ({ children }: { children?: React.ReactNode }) => (
-      <h1 style={{ ...headingStyle, fontSize: isMobile ? 20 : 22, marginBottom: 16, borderBottom: `1px solid ${COLORS.border}`, paddingBottom: 8 }}>
-        {children}
+      <h1 className="lk-reader-title" style={isMobile ? { fontSize: 23, lineHeight: '30px' } : undefined}>
+        {isLegislation ? splitSectionHeading(children) : children}
       </h1>
     ),
     h2: ({ children }: { children?: React.ReactNode }) => (
-      <h2 style={{ ...headingStyle, fontSize: isMobile ? 17 : 18, marginTop: 24, marginBottom: 12 }}>
+      <h2 className="lk-reader-h2" style={{ fontSize: isMobile ? 18 : 22, lineHeight: isMobile ? '24px' : '28px', marginTop: 28 }}>
         {children}
       </h2>
     ),
     h3: ({ children }: { children?: React.ReactNode }) => (
-      <h3 style={{ ...headingStyle, fontSize: isMobile ? 15 : 16, marginTop: 20, marginBottom: 10 }}>
+      <h3 style={{ color: COLORS.heading, fontWeight: 700, fontFamily: 'var(--font-sans)', fontSize: isMobile ? 15 : 17, lineHeight: '24px', marginTop: 20, marginBottom: 10 }}>
         {children}
       </h3>
     ),
     p: ({ children }: { children?: React.ReactNode }) => {
       const level = subparagraphLevel(children)
-      const indent = level * (isMobile ? 16 : 20)
+      const indent = level * (isMobile ? 16 : 28)
       return (
-        <p style={{ marginBottom: 12, color: COLORS.text, marginLeft: indent }}>
+        <p
+          className="lk-legal"
+          // margins and mobile size come from .lk-reader-body / .lk-note CSS
+          style={{ marginLeft: indent || undefined, color: COLORS.text }}
+        >
           {children}
         </p>
       )
+    },
+    strong: ({ children }: { children?: React.ReactNode }) => {
+      const text = nodeText(children).trim()
+      if (MARKER_RE.test(text)) return <b className="lk-para-marker">{children}</b>
+      if (NOTE_LABEL_RE.test(text)) return <strong className="lk-note-label">{children}</strong>
+      return <strong>{children}</strong>
     },
     a: ({ children, href }: { children?: React.ReactNode; href?: string }) => {
       if (renderLink) {
@@ -89,13 +126,24 @@ export function createMarkdownComponents(
           onNavigateRuling(targetRuling)
         }
       }
-      return <a href={href} onClick={handleClick} style={{ color: COLORS.accent, textDecoration: 'none' }}>{children}</a>
+      return (
+        <a
+          href={href}
+          onClick={handleClick}
+          className="lk-link"
+        >
+          {children}
+        </a>
+      )
     },
-    blockquote: ({ children }: { children?: React.ReactNode }) => (
-      <blockquote style={{ marginLeft: 16, paddingLeft: 12, borderLeft: `3px solid ${COLORS.border}`, color: COLORS.textMuted }}>
-        {children}
-      </blockquote>
-    ),
+    blockquote: ({ children }: { children?: React.ReactNode }) => {
+      // Note:/Example: blocks become surface boxes; other blockquotes carry
+      // (a)/(i) paragraphs whose indent comes from the <p> marker level.
+      if (NOTE_BLOCK_RE.test(nodeText(children).trim())) {
+        return <div className="lk-note">{children}</div>
+      }
+      return <blockquote style={{ margin: 0, padding: 0, border: 0 }}>{children}</blockquote>
+    },
     ul: ({ children }: { children?: React.ReactNode }) => <ul style={{ marginLeft: 20, marginBottom: 12 }}>{children}</ul>,
     ol: ({ children }: { children?: React.ReactNode }) => <ol style={{ marginLeft: 20, marginBottom: 12 }}>{children}</ol>,
     li: ({ children }: { children?: React.ReactNode }) => <li style={{ marginBottom: 4 }}>{children}</li>,

@@ -1,5 +1,10 @@
 import React, { useState, useEffect } from 'react'
-import { COLORS } from './common/types'
+import { Link } from 'react-router-dom'
+import { rulingSlug } from '../utils/display'
+
+function isPlainClick(e: React.MouseEvent) {
+  return !(e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0)
+}
 
 type TaxCaseContentProps = {
   caseData: any
@@ -101,80 +106,65 @@ export default function TaxCaseContent({ caseData, isMobile, onNavigate, onNavig
       .finally(() => setSummaryLoading(false))
   }, [citation, hasSubstance])
 
+  const secondaryBtn = 'lk-reader-btn'
+
   return (
-    <div>
-      <div style={{
-        marginBottom: 20, color: COLORS.textMuted, fontSize: 12,
-        fontFamily: "'Montserrat', sans-serif", letterSpacing: 0.3,
-        textTransform: 'uppercase' as const,
-      }}>
-        Tax Case &rsaquo; {title || citation}
-      </div>
-      <h1 style={{
-        color: COLORS.heading, fontSize: isMobile ? 20 : 22, marginBottom: 16,
-        fontWeight: 600, borderBottom: `1px solid ${COLORS.border}`, paddingBottom: 8,
-      }}>
-        {title ? `${title} — ${citation}` : citation}
+    <div className={`lk-reader${isMobile ? ' lk-reader--mobile' : ''}`}>
+      <nav aria-label="Breadcrumb" className="lk-reader-crumb">
+        <span className="lk-badge lk-badge--case">Case</span>
+        {court_label && <span>{court_label}</span>}
+        {court_label && citation && <span className="lk-reader-crumb__sep" aria-hidden="true">/</span>}
+        {citation && <span style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text)', textTransform: 'none', letterSpacing: 0 }}>{citation}</span>}
+      </nav>
+      <h1 className="lk-reader-title" style={{ marginBottom: 8 }}>
+        {title || citation}
       </h1>
+      {title && citation && (
+        <div className="lk-cite" style={{ color: 'var(--color-text-muted)', marginBottom: 24 }}>{citation}</div>
+      )}
 
       {/* Metadata table */}
       <div style={{
-        display: 'flex', flexDirection: 'column', gap: 8,
-        marginBottom: 24, fontSize: isMobile ? 13 : 14,
-        fontFamily: "'Montserrat', sans-serif",
+        display: 'flex', flexDirection: 'column', gap: 6,
+        marginBottom: 24, maxWidth: 740,
       }}>
-        {citation && <MetadataRow label="Citation" value={citation} />}
+        {citation && <MetadataRow label="Citation" value={citation} mono />}
         {court_label && <MetadataRow label="Court" value={court_label} />}
-        {decision_date && <MetadataRow label="Decision Date" value={decision_date} />}
+        {decision_date && <MetadataRow label="Decision date" value={decision_date} mono />}
         {judges && <MetadataRow label="Judges" value={Array.isArray(judges) ? judges.join(', ') : judges} />}
         {outcome && <MetadataRow label="Outcome" value={outcome} />}
         {catchwords && <MetadataRow label="Catchwords" value={catchwords} />}
         {paragraph_count !== undefined && paragraph_count !== null && (
-          <MetadataRow label="Paragraphs" value={String(paragraph_count)} />
+          <MetadataRow label="Paragraphs" value={String(paragraph_count)} mono />
         )}
         {content_length !== undefined && content_length !== null && (
-          <MetadataRow label="Content Length" value={`${(content_length / 1024).toFixed(1)} KB`} />
+          <MetadataRow label="Content length" value={`${(content_length / 1024).toFixed(1)} KB`} mono />
         )}
         {cited_by_count !== undefined && cited_by_count !== null && (
-          <MetadataRow label="Cited By" value={String(cited_by_count)} />
+          <MetadataRow label="Cited by" value={String(cited_by_count)} mono />
         )}
       </div>
 
       {/* Links */}
       {(austlii_url || hca_url || fedcourt_url || citation) && (
-        <div style={{ marginBottom: 24, display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+        <div className="lk-reader-actions" style={{ marginBottom: 24 }}>
           {austlii_url && (
-            <a href={austlii_url} target="_blank" rel="noopener noreferrer" style={{
-              padding: '8px 14px', borderRadius: 6, background: COLORS.accent, color: '#fff',
-              textDecoration: 'none', fontSize: 12, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
-            }}>
+            <a href={austlii_url} target="_blank" rel="noopener noreferrer" className="lk-reader-btn lk-reader-btn--primary">
               View on AustLII &rarr;
             </a>
           )}
           {hca_url && (
-            <a href={hca_url} target="_blank" rel="noopener noreferrer" style={{
-              padding: '8px 14px', borderRadius: 6, background: COLORS.surface, color: COLORS.accent,
-              border: `1px solid ${COLORS.border}`, textDecoration: 'none', fontSize: 12,
-              fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
-            }}>
+            <a href={hca_url} target="_blank" rel="noopener noreferrer" className={secondaryBtn}>
               View on HCA &rarr;
             </a>
           )}
           {fedcourt_url && (
-            <a href={fedcourt_url} target="_blank" rel="noopener noreferrer" style={{
-              padding: '8px 14px', borderRadius: 6, background: COLORS.surface, color: COLORS.accent,
-              border: `1px solid ${COLORS.border}`, textDecoration: 'none', fontSize: 12,
-              fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
-            }}>
+            <a href={fedcourt_url} target="_blank" rel="noopener noreferrer" className={secondaryBtn}>
               View on FedCourt &rarr;
             </a>
           )}
           {citation && (
-            <a href={`/api/tax-cases/case/${encodeURIComponent(citation)}/download`} style={{
-              padding: '8px 14px', borderRadius: 6, background: COLORS.surface, color: COLORS.accent,
-              border: `1px solid ${COLORS.border}`, textDecoration: 'none', fontSize: 12,
-              fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
-            }}>
+            <a href={`/api/tax-cases/case/${encodeURIComponent(citation)}/download`} className={secondaryBtn}>
               Download HTML &darr;
             </a>
           )}
@@ -183,61 +173,56 @@ export default function TaxCaseContent({ caseData, isMobile, onNavigate, onNavig
 
       {/* Case Summary — only for cases with substantive text (>= 10 paragraphs) */}
       {hasSubstance && (
-        <div style={{ marginBottom: 24, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
-          <h2 style={{
-            color: COLORS.heading, fontSize: isMobile ? 16 : 17,
-            marginBottom: 12, fontWeight: 600,
-            fontFamily: "'Montserrat', sans-serif",
-          }}>
-            Case Summary
-          </h2>
+        <div className="lk-reader-divider" style={{ marginTop: 0, marginBottom: 24 }}>
+          <h2 className="lk-reader-h2">Case summary</h2>
           {summaryLoading ? (
-            <div style={{ color: COLORS.textMuted, fontSize: 13, fontFamily: "'Montserrat', sans-serif" }}>
-              Loading summary...
+            <div style={{ color: 'var(--color-text-muted)', fontSize: 14 }}>
+              Sniffing through the judgment…
             </div>
           ) : summaryData && !summaryData.error ? (
-            <div style={{ fontSize: 13, color: COLORS.textMuted, lineHeight: 1.6 }}>
+            <div style={{ maxWidth: 740 }}>
               <div style={{ marginBottom: 16 }}>
-                <div style={{ fontWeight: 600, color: COLORS.heading, marginBottom: 4 }}>Facts</div>
-                <div style={{ color: COLORS.text, fontSize: 12 }}>{summaryData.facts}</div>
+                <div className="lk-reader-label">Facts</div>
+                <div className="lk-legal-note" style={{ color: 'var(--color-text)' }}>{summaryData.facts}</div>
               </div>
               <div style={{ marginBottom: 16 }}>
-                <div style={{ fontWeight: 600, color: COLORS.heading, marginBottom: 4 }}>Issues</div>
-                <ol style={{ margin: 0, paddingLeft: 18, color: COLORS.text, fontSize: 12 }}>
+                <div className="lk-reader-label">Issues</div>
+                <ol className="lk-legal-note" style={{ margin: 0, paddingLeft: 20, color: 'var(--color-text)' }}>
                   {(summaryData.issues || []).map((i: string, idx: number) => (
                     <li key={idx} style={{ marginBottom: 4 }}>{i}</li>
                   ))}
                 </ol>
               </div>
               <div style={{ marginBottom: 16 }}>
-                <div style={{ fontWeight: 600, color: COLORS.heading, marginBottom: 4 }}>Held</div>
-                <div style={{ color: COLORS.text, fontSize: 12 }}>{summaryData.held}</div>
+                <div className="lk-reader-label">Held</div>
+                <div className="lk-legal-note" style={{ color: 'var(--color-text)' }}>{summaryData.held}</div>
               </div>
               <div style={{ marginBottom: 16 }}>
-                <div style={{ fontWeight: 600, color: COLORS.heading, marginBottom: 4 }}>Reasoning</div>
-                <div style={{ color: COLORS.text, fontSize: 12 }}>{summaryData.reasoning}</div>
+                <div className="lk-reader-label">Reasoning</div>
+                <div className="lk-legal-note" style={{ color: 'var(--color-text)' }}>{summaryData.reasoning}</div>
               </div>
               <div style={{ marginBottom: 16 }}>
-                <div style={{ fontWeight: 600, color: COLORS.heading, marginBottom: 4 }}>Outcome</div>
-                <div style={{ color: COLORS.text, fontSize: 12 }}>{summaryData.outcome}</div>
+                <div className="lk-reader-label">Outcome</div>
+                <div className="lk-legal-note" style={{ color: 'var(--color-text)' }}>{summaryData.outcome}</div>
               </div>
               {(summaryData.cases_cited || []).length > 0 && (
                 <div style={{ marginBottom: 16 }}>
-                  <div style={{ fontWeight: 600, color: COLORS.heading, marginBottom: 4 }}>
-                    Cases Cited ({summaryData.cases_cited.length})
+                  <div className="lk-reader-label">
+                    Cases cited ({summaryData.cases_cited.length})
                   </div>
-                  <div style={{ color: COLORS.text, fontSize: 12, lineHeight: 1.8 }}>
+                  <div className="lk-reader-cites">
                     {(summaryData.cases_cited || []).map((c: any, idx: number) => {
                       const cit = typeof c === 'string' ? c : c.citation || ''
                       const name = typeof c === 'string' ? '' : c.name || ''
                       const linkCit = extractCaseCitation(c)
                       return (
-                        <div key={idx}
-                          style={{ cursor: 'pointer', color: COLORS.accent }}
-                          onClick={() => onNavigate?.('tax-cases', linkCit)}
+                        <Link key={idx}
+                          to={`/tax-cases/${encodeURIComponent(linkCit)}`}
+                          className="lk-link" style={{ alignSelf: 'flex-start' }}
+                          onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); onNavigate?.('tax-cases', linkCit) }}
                         >
                           {cit}{name ? ` — ${name}` : ''}
-                        </div>
+                        </Link>
                       )
                     })}
                   </div>
@@ -245,17 +230,22 @@ export default function TaxCaseContent({ caseData, isMobile, onNavigate, onNavig
               )}
               {(summaryData.legislation_cited || []).length > 0 && (
                 <div>
-                  <div style={{ fontWeight: 600, color: COLORS.heading, marginBottom: 4 }}>
-                    Legislation Cited ({summaryData.legislation_cited.length})
+                  <div className="lk-reader-label">
+                    Legislation cited ({summaryData.legislation_cited.length})
                   </div>
-                  <div style={{ color: COLORS.text, fontSize: 12, lineHeight: 1.8 }}>
+                  <div className="lk-reader-cites">
                     {(summaryData.legislation_cited || []).map((l: string, idx: number) => {
                       const parsed = parseLegislationRef(l)
-                      return (
-                        <div key={idx}
-                          style={{ cursor: parsed ? 'pointer' : 'default', color: parsed ? COLORS.accent : COLORS.text }}
-                          onClick={() => parsed && onNavigate?.(parsed.act, parsed.section)}
+                      return parsed ? (
+                        <Link key={idx}
+                          to={`/${parsed.act}/${parsed.section}`}
+                          className="lk-link" style={{ alignSelf: 'flex-start' }}
+                          onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); onNavigate?.(parsed.act, parsed.section) }}
                         >
+                          {l}
+                        </Link>
+                      ) : (
+                        <div key={idx} style={{ cursor: 'default' }}>
                           {l}
                         </div>
                       )
@@ -265,7 +255,7 @@ export default function TaxCaseContent({ caseData, isMobile, onNavigate, onNavig
               )}
             </div>
           ) : (
-            <div style={{ color: COLORS.textMuted, fontSize: 13, fontFamily: "'Montserrat', sans-serif" }}>
+            <div style={{ color: 'var(--color-text-muted)', fontSize: 14 }}>
               AI-powered case summary not available yet. Processing in progress.
             </div>
           )}
@@ -274,25 +264,20 @@ export default function TaxCaseContent({ caseData, isMobile, onNavigate, onNavig
 
       {/* Related provisions */}
       {related_provisions && related_provisions.length > 0 && (
-        <div style={{ marginTop: 24, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
-          <h2 style={{
-            color: COLORS.heading, fontSize: isMobile ? 16 : 17,
-            marginBottom: 12, fontWeight: 600,
-            fontFamily: "'Montserrat', sans-serif",
-          }}>
-            Related Provisions
-          </h2>
-          <div style={{ fontSize: isMobile ? 13 : 14, color: COLORS.text, lineHeight: 1.7 }}>
+        <div className="lk-reader-divider" style={{ marginTop: 24 }}>
+          <h2 className="lk-reader-h2">Related provisions</h2>
+          <div className="lk-cite" style={{ color: 'var(--color-text-muted)', maxWidth: 740 }}>
             {Array.isArray(related_provisions) ? related_provisions.map((prov: string, i: number) => {
               // Try to parse act/section from provision like "ITAA 1997 s 8-1"
               const parsed = parseLegislationRef(prov)
               return parsed ? (
-                <span key={i}
-                  style={{ cursor: 'pointer', color: COLORS.accent }}
-                  onClick={() => onNavigate?.(parsed.act, parsed.section)}
+                <Link key={i}
+                  to={`/${parsed.act}/${parsed.section}`}
+                  className="lk-link"
+                  onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); onNavigate?.(parsed.act, parsed.section) }}
                 >
                   {prov}{i < related_provisions.length - 1 ? ', ' : ''}
-                </span>
+                </Link>
               ) : (
                 <span key={i}>{prov}{i < related_provisions.length - 1 ? ', ' : ''}</span>
               )
@@ -303,22 +288,17 @@ export default function TaxCaseContent({ caseData, isMobile, onNavigate, onNavig
 
       {/* Section references — structured refs from case_data */}
       {section_refs && section_refs.length > 0 && (
-        <div style={{ marginTop: 24, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
-          <h2 style={{
-            color: COLORS.heading, fontSize: isMobile ? 16 : 17,
-            marginBottom: 12, fontWeight: 600,
-            fontFamily: "'Montserrat', sans-serif",
-          }}>
-            Section References
-          </h2>
-          <div style={{ fontSize: isMobile ? 13 : 14, color: COLORS.text, lineHeight: 1.7 }}>
+        <div className="lk-reader-divider" style={{ marginTop: 24 }}>
+          <h2 className="lk-reader-h2">Section references</h2>
+          <div className="lk-cite" style={{ color: 'var(--color-text-muted)', maxWidth: 740 }}>
             {section_refs.map((ref: any, i: number) => (
-              <span key={i}
-                style={{ cursor: 'pointer', color: COLORS.accent }}
-                onClick={() => onNavigate?.(ref.act, ref.section)}
+              <Link key={i}
+                to={`/${ref.act}/${ref.section}`}
+                className="lk-link"
+                onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); onNavigate?.(ref.act, ref.section) }}
               >
                 {ref.act && ref.section ? `${ref.act} s ${ref.section}` : ref.section || ref.base || ref}{i < section_refs.length - 1 ? ', ' : ''}
-              </span>
+              </Link>
             ))}
           </div>
         </div>
@@ -326,24 +306,16 @@ export default function TaxCaseContent({ caseData, isMobile, onNavigate, onNavig
 
       {/* Related rulings */}
       {related_rulings && related_rulings.length > 0 && (
-        <div style={{ marginTop: 24, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
-          <h2 style={{
-            color: COLORS.heading, fontSize: isMobile ? 16 : 17,
-            marginBottom: 12, fontWeight: 600,
-            fontFamily: "'Montserrat', sans-serif",
-          }}>
-            Related Rulings
-          </h2>
-          <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
+        <div className="lk-reader-divider" style={{ marginTop: 24 }}>
+          <h2 className="lk-reader-h2">Related rulings</h2>
+          <ul className="lk-reader-cites">
             {related_rulings.map((ruling: string, i: number) => (
-              <li key={i} style={{
-                padding: '4px 0', fontSize: 12,
-                fontFamily: "'Montserrat', sans-serif",
-                color: COLORS.accent, cursor: 'pointer',
-              }}
-                onClick={() => onNavigateRuling?.(ruling)}
-              >
-                {ruling}
+              <li key={i}>
+                <Link to={`/rulings/${rulingSlug(ruling)}`} className="lk-link"
+                  onClick={(e) => { if (!isPlainClick(e)) return; e.preventDefault(); onNavigateRuling?.(ruling) }}
+                >
+                  {ruling}
+                </Link>
               </li>
             ))}
           </ul>
@@ -353,24 +325,11 @@ export default function TaxCaseContent({ caseData, isMobile, onNavigate, onNavig
   )
 }
 
-function MetadataRow({ label, value }: { label: string; value: string }) {
+function MetadataRow({ label, value, mono }: { label: string; value: string; mono?: boolean }) {
   return (
-    <div style={{
-      display: 'flex', gap: 8,
-      padding: '6px 10px',
-      background: 'rgba(0,0,0,0.15)',
-      borderRadius: 4,
-    }}>
-      <span style={{
-        fontWeight: 600, color: COLORS.heading,
-        minWidth: 130, flexShrink: 0,
-        fontSize: 12,
-      }}>
-        {label}
-      </span>
-      <span style={{ color: COLORS.text, fontSize: 12 }}>
-        {value}
-      </span>
+    <div className="lk-reader-meta">
+      <span className="lk-reader-meta__label">{label}</span>
+      <span className={`lk-reader-meta__value${mono ? ' lk-cite' : ''}`}>{value}</span>
     </div>
   )
 }
