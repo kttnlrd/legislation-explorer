@@ -126,7 +126,7 @@ export default function PrivateRulingsBrowser({
 
       {year === null ? (
         <div className="lk-pr-empty">
-          <img src="/lawkitty-cat-head.png" alt="" />
+          <img src="/scriptkitty-cat-head.png" alt="" />
           <div className="lk-pr-empty__text">
             <p className="lk-pr-empty__title">Pick a year to browse its rulings.</p>
             <p className="lk-pr-empty__sub">The cat will fetch.</p>

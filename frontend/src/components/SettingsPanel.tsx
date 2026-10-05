@@ -370,7 +370,7 @@ function MCPTabContent() {
 
       {tokens.length === 0 && !generatedToken && (
         <div className="lk-settings__empty">
-          <img src="/lawkitty-cat-head.png" alt="" />
+          <img src="/scriptkitty-cat-head.png" alt="" />
           <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
             <span className="lk-settings__empty-title">No tokens yet. The cat checked twice.</span>
             <span className="lk-settings__empty-sub">Generate one above to get started.</span>

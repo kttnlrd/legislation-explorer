@@ -27,7 +27,8 @@ import McpTokenBanner from './components/McpTokenBanner'
 import MapView from './components/MapView'
 import IssuesModal from './components/IssuesModal'
 import SearchPanel from './components/SearchPanel'
-import YarnBall from './components/YarnBall'
+import PenroseLogo from './components/PenroseLogo'
+import TessellationLoader from './components/TessellationLoader'
 import TreatyContent from './components/TreatyContent'
 import { ThemeProvider } from './ThemeContext'
 import { shortActName, rulingSlug } from './utils/display'
@@ -364,10 +365,25 @@ export default function App() {
   const [appInfo, setAppInfo] = useState<any>(null)
   const [user, setUser] = useState<any>(null)
   const [authLoading, setAuthLoading] = useState(true)
+  const [booted, setBooted] = useState(false)
+  const [bootHidden, setBootHidden] = useState(false)
 
   useEffect(() => {
-    api.info().then(setAppInfo).catch(() => {})
+    api.info().then(setAppInfo).catch(() => {}).finally(() => setBooted(true))
   }, [])
+
+  // Hard ~1.6s cap so the splash never hangs if appInfo is slow to resolve
+  useEffect(() => {
+    const id = setTimeout(() => setBooted(true), 1600)
+    return () => clearTimeout(id)
+  }, [])
+
+  // Keep the splash mounted through its opacity fade, then unmount it
+  useEffect(() => {
+    if (!booted) return
+    const id = setTimeout(() => setBootHidden(true), 420)
+    return () => clearTimeout(id)
+  }, [booted])
 
   useEffect(() => {
     fetch('/auth/me')
@@ -877,6 +893,21 @@ export default function App() {
         ::-webkit-scrollbar-thumb:hover { background: ${COLORS.textMuted}; }
         * { scrollbar-width: thin; scrollbar-color: ${COLORS.border} transparent; }
       `}</style>
+      {/* Boot splash — tessellation overlay, fades out once appInfo resolves (or after ~1.6s) */}
+      {!bootHidden && (
+        <div
+          style={{
+            position: 'fixed', inset: 0, zIndex: 9999,
+            background: 'var(--color-bg,#0a1214)',
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+            opacity: booted ? 0 : 1,
+            transition: 'opacity 400ms ease',
+            pointerEvents: booted ? 'none' : 'auto',
+          }}
+        >
+          <TessellationLoader />
+        </div>
+      )}
       {routeSync}
       <div style={{ display: 'flex', height: '100vh', background: 'var(--color-desktop, var(--color-bg))' }}>
       <>
@@ -1375,11 +1406,15 @@ export default function App() {
         ) : (
           <div className={`lk-welcome-wrap${isMobile ? ' lk-welcome-wrap--mobile' : ''}`}>
             <div className="lk-welcome">
-              <div className="lk-welcome__lockup" role="img" aria-label="lawkitty">
-                <img src="/lawkitty-lockup-cat.png" alt="" className="lk-welcome__lockup-dark" />
-                <img src="/lawkitty-lockup-cat-light.png" alt="" className="lk-welcome__lockup-light" />
+              <div role="img" aria-label="scriptkitty" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 16 }}>
+                <div style={{ width: 280, maxWidth: '100%', aspectRatio: '16 / 9' }}>
+                  <PenroseLogo />
+                </div>
+                <div className="lk-welcome__lockup">
+                  <img src="/scriptkitty-wordmark-a-dark-text.svg" alt="" className="lk-welcome__lockup-dark" />
+                  <img src="/scriptkitty-wordmark-a-light-text.svg" alt="" className="lk-welcome__lockup-light" />
+                </div>
               </div>
-              <YarnBall />
               <form
                 className="lk-welcome__form"
                 onSubmit={(e) => {
