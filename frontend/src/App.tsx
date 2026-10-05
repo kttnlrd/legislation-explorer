@@ -369,12 +369,12 @@ export default function App() {
   const [bootHidden, setBootHidden] = useState(false)
 
   useEffect(() => {
-    api.info().then(setAppInfo).catch(() => {}).finally(() => setBooted(true))
+    api.info().then(setAppInfo).catch(() => {})
   }, [])
 
-  // Hard ~1.6s cap so the splash never hangs if appInfo is slow to resolve
+  // Fixed 2.5s boot splash — the tessellation always shows for 2.5s, then fades
   useEffect(() => {
-    const id = setTimeout(() => setBooted(true), 1600)
+    const id = setTimeout(() => setBooted(true), 2500)
     return () => clearTimeout(id)
   }, [])
 
