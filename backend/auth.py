@@ -15,6 +15,7 @@ from jose import jwt
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.requests import Request
 from starlette.responses import JSONResponse, RedirectResponse
+from urllib.parse import quote
 
 logger = logging.getLogger(__name__)
 
@@ -31,12 +32,27 @@ AUTHORITY = f"https://login.microsoftonline.com/{TENANT_ID}"
 PUBLIC_PATHS = {
     "/auth/login",
     "/auth/callback",
+    "/auth/logout",
     "/health",
-    "/",
+    "/health/check",
     "/favicon.ico",
     "/api/cadena/mcp",
     "/.well-known/oauth-authorization-server",
 }
+
+# Only these email domains may sign in (comma-separated env override).
+ALLOWED_EMAIL_DOMAINS = {
+    d.strip().lower()
+    for d in os.environ.get("ALLOWED_EMAIL_DOMAINS", "cadenalegal.com.au").split(",")
+    if d.strip()
+}
+
+
+def _email_allowed(email: str) -> bool:
+    """True if the email's domain is in the allowlist (case-insensitive)."""
+    if not email or "@" not in email:
+        return False
+    return email.rsplit("@", 1)[1].strip().lower() in ALLOWED_EMAIL_DOMAINS
 
 # ── OAuth client ────────────────────────────────────────────────────────────
 
@@ -115,6 +131,11 @@ async def callback(request: Request) -> RedirectResponse:
             "email": userinfo.get("email") or id_token.get("preferred_username", ""),
         }
 
+        # Only authorized email domains may sign in.
+        if not _email_allowed(claims.get("email", "")):
+            logger.warning("Denied login for non-allowlisted email domain: %s", claims.get("email", ""))
+            return RedirectResponse(url="/?error=not_authorized", status_code=303)
+
         session_token = create_session_token(claims)
         # Log the login
         from backend.services.login_log import log_login
@@ -170,82 +191,49 @@ async def me(request: Request) -> JSONResponse:
 
 
 class AuthMiddleware(BaseHTTPMiddleware):
-    """Selectively protect Cadena IP content behind Microsoft Entra ID auth.
-
-    - All existing content (legislation, rulings, cases, search) is public
-    - Only /api/cadena/* and /mcp/cadena/* require authentication
-    - /auth/* and /health are always public
+    """Protect the entire site behind Microsoft Entra ID auth, restricted to
+    allowlisted email domains. Only /auth/*, /health, static assets, OAuth,
+    well-known, and the MCP mounts (which carry their own token auth) are
+    public. Everything else requires an Entra session.
     """
 
     async def dispatch(self, request: Request, call_next: Any) -> Any:
         path = request.url.path
 
-        # Always allow public paths
-        if path in PUBLIC_PATHS or path.startswith("/assets/") or path.startswith("/mcp/"):
+        # Public (no session): auth flow, health, static assets, OAuth,
+        # well-known, and the MCP mounts (token-gated by MCPAuthMiddleware).
+        if (path in PUBLIC_PATHS
+                or path.startswith("/assets/")
+                or path == "/mcp"
+                or path.startswith("/mcp/")
+                or path.startswith("/auth/")
+                or path.startswith("/oauth/")
+                or path.startswith("/.well-known/")
+                or path.startswith("/api/cadena/mcp")
+                or path.startswith("/api/private/mcp")
+                or path.startswith("/api/v2/query")
+                or path.startswith("/api/rpc")):
             request.state.user = None
             return await call_next(request)
 
-        # Check session cookie
+        # Everything else requires an Azure (Entra ID) session.
         session_token = request.cookies.get("session")
         user = decode_session_token(session_token) if session_token else None
 
         if user:
+            email = (user.get("email") or "").lower()
+            if not _email_allowed(email):
+                return JSONResponse(
+                    {"error": "Not authorized", "detail": "Email domain not allowed"},
+                    status_code=403,
+                )
             request.state.user = user
             return await call_next(request)
 
-        # /auth/me needs session — check cookie even though it's under /auth/
-        if path == "/auth/me":
-            return JSONResponse({"error": "Not authenticated"}, status_code=401)
-
-        # Other /auth/ paths are public
-        if path.startswith("/auth/"):
-            request.state.user = None
-            return await call_next(request)
-
-        # OAuth endpoints are public (handle their own auth via Azure AD session)
-        if path.startswith("/oauth/") or path.startswith("/.well-known/"):
-            request.state.user = None
-            return await call_next(request)
-
-        # Gate Cadena IP paths
-        for prefix in GATED_PREFIXES:
-            # Match the prefix exactly or as a path segment (`prefix + "/"`),
-            # so "/api/ato" no longer also matches "/api/atom...".
-            base = prefix.rstrip("/")
-            if path != base and not path.startswith(base + "/"):
-                continue
-            # MCP endpoint has its own auth — let it through
-            if path.startswith("/api/cadena/mcp") \
-               or path.startswith("/api/private/mcp") \
-               or path.startswith("/api/v2/query") \
-               or path.startswith("/api/rpc") \
-               or path.startswith("/mcp/"):
-                request.state.user = None
-                return await call_next(request)
-            # Accept a valid API/MCP token as an alternative to a session.
-            # Token sources for plain REST: Authorization: Bearer or
-            # X-API-Key ONLY (no query params, cookie, body or X-Session-Id —
-            # those leak into logs and widen the attack surface).
-            tok = ""
-            auth_header = request.headers.get("Authorization", "")
-            if auth_header.startswith("Bearer "):
-                tok = auth_header[7:]
-            if not tok:
-                tok = request.headers.get("X-API-Key", "")
-            if tok:
-                from backend.fastmcp_server import token_ok
-                from backend.mcp_token_manager import token_manager
-                if token_ok(tok):
-                    allowed, reason = token_manager.check_rate_limit(tok)
-                    if not allowed:
-                        return JSONResponse({"error": reason}, status_code=429)
-                    request.state.user = None
-                    return await call_next(request)
+        # No session: API callers get 401; browser requests go to Azure sign-in.
+        if path.startswith("/api/"):
             return JSONResponse({"error": "Login required"}, status_code=401)
-
-        # Everything else is public
-        request.state.user = None
-        return await call_next(request)
+        return RedirectResponse(url=f"/auth/login?next={quote(path, safe='')}", status_code=303)
 
 # ── Helper: get current user in route handlers ─────────────────────────────
 
