@@ -13,6 +13,8 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import time
+from pathlib import Path
 
 import httpx
 
@@ -48,26 +50,51 @@ _SK_EXTRA = [
 
 def rpc(url: str, method: str, params: dict, _id: int = 1):
     payload = {"jsonrpc": "2.0", "id": _id, "method": method, "params": params}
-    r = httpx.post(
-        url,
-        json=payload,
-        headers={"Content-Type": "application/json",
-                 "Accept": "application/json, text/event-stream"},
-        timeout=90,
-    )
-    r.raise_for_status()
-    return r.json()
+    # The MCP endpoint refuses rapid-fire fresh connections (FastMCP session
+    # manager / uvicorn concurrency); retry once with a short backoff so a
+    # burst of audit calls doesn't false-fail.
+    last = None
+    for attempt in range(3):
+        try:
+            r = httpx.post(
+                url,
+                json=payload,
+                headers={"Content-Type": "application/json",
+                         "Accept": "application/json, text/event-stream"},
+                timeout=90,
+            )
+            r.raise_for_status()
+            return r.json()
+        except (httpx.ConnectError, httpx.RemoteProtocolError) as e:
+            last = e
+            time.sleep(0.4 * (attempt + 1))
+    raise last
 
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--port", type=int, default=8769)
+    ap.add_argument("--port", type=int, default=8765)
+    ap.add_argument("--token", default=None, help="override MCP token (else resolved from env)")
     args = ap.parse_args()
 
-    token = os.environ.get("MCP_AUTH_TOKEN") or os.environ.get("LEGISLATION_BEARER_TOKEN")
+    token = (args.token
+             or os.environ.get("MCP_AUTH_TOKEN")
+             or os.environ.get("LEGISLATION_BEARER_TOKEN"))
     if not token:
-        from backend.mcp_token_manager import token_manager
-        token = token_manager.create_token(name="wire-test", created_by="hermes-test")
+        # scriptkitty stores the operator token in the repo .env (no token_manager);
+        # fall back to the Cadena token in ~/.hermes/.env.
+        for env_path in (Path(__file__).resolve().parent.parent / ".env",
+                         Path.home() / ".hermes" / ".env"):
+            if env_path.exists():
+                for line in env_path.read_text().splitlines():
+                    k, _, v = line.partition("=")
+                    if k.strip() in ("MCP_AUTH_TOKEN", "CADENA_MCP_TOKEN"):
+                        token = v.strip().strip('"').strip("'")
+                        break
+            if token:
+                break
+    if not token:
+        raise SystemExit("no MCP token found (MCP_AUTH_TOKEN / .env / ~/.hermes/.env)")
     url = f"http://127.0.0.1:{args.port}/mcp/{token}"
 
     listed = rpc(url, "tools/list", {})
