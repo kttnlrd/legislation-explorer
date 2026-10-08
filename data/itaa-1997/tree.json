@@ -1,5 +1,5 @@
 {
-  "act": "ITAA 1997",
+  "act": "itaa-1997",
   "compilation_no": 267,
   "compilation_date": "2026-08-27",
   "parts": [
@@ -1095,6 +1095,26 @@
               "id": "26-155",
               "title": "Using or holding residential dwellings",
               "path": "part-2-5/division-26/26-155.md"
+            },
+            {
+              "id": "26-156",
+              "title": "Extension of exceptions for non-quarantined residential dwellings\u2014dwelling acquired by surviving spouse",
+              "path": "part-2-5/division-26/26-156.md"
+            },
+            {
+              "id": "26-157",
+              "title": "Extension of exceptions for non-quarantined residential dwellings\u2014co-owner of dwelling dies",
+              "path": "part-2-5/division-26/26-157.md"
+            },
+            {
+              "id": "26-158",
+              "title": "Extension of exceptions for non-quarantined residential dwellings\u2014relationship breakdown",
+              "path": "part-2-5/division-26/26-158.md"
+            },
+            {
+              "id": "26-159",
+              "title": "Application of extended new residential dwelling exception for capital gains purposes",
+              "path": "part-2-5/division-26/26-159.md"
             },
             {
               "id": "26-160",
@@ -3816,6 +3836,11 @@
               "id": "51-125",
               "title": "2018 storms\u2014relief payments",
               "path": "part-2-15/division-51/51-125.md"
+            },
+            {
+              "id": "51-130",
+              "title": "PNG Chiefs Limited employment",
+              "path": "part-2-15/division-51/51-130.md"
             }
           ]
         },
@@ -9670,7 +9695,7 @@
       "divisions": [
         {
           "id": "160",
-          "title": "Corporate loss carry back tax offset for 2020-21, 2021-22 or 2022-23 for businesses with turnover under $5 billion",
+          "title": "Corporate loss carry back tax offset for businesses that are not significant global entities",
           "subdivisions": [
             {
               "id": "160-A",
@@ -9698,29 +9723,19 @@
                   "path": "part-3-5/division-160/160-15.md"
                 },
                 {
-                  "id": "160-16",
-                  "title": "Changing a loss carry back choice",
-                  "path": "part-3-5/division-160/160-16.md"
-                },
-                {
                   "id": "160-20",
-                  "title": "Entity must have had turnover less than $5 billion for loss year",
+                  "title": "Changing a loss carry back choice",
                   "path": "part-3-5/division-160/160-20.md"
                 },
                 {
                   "id": "160-25",
-                  "title": "Entity must have been a corporate tax entity during relevant years",
+                  "title": "Transferred tax losses, income tax liabilities etc. not included",
                   "path": "part-3-5/division-160/160-25.md"
                 },
                 {
                   "id": "160-30",
-                  "title": "Transferred tax losses, income tax liabilities etc. not included",
-                  "path": "part-3-5/division-160/160-30.md"
-                },
-                {
-                  "id": "160-35",
                   "title": "Integrity rule\u2014no loss carry back tax offset if scheme entered into",
-                  "path": "part-3-5/division-160/160-35.md"
+                  "path": "part-3-5/division-160/160-30.md"
                 }
               ]
             }
@@ -18903,7 +18918,7 @@
                 },
                 {
                   "id": "328-180",
-                  "title": "Assets costing less than $1,000",
+                  "title": "Assets costing less than $20,000",
                   "path": "part-3-45/division-328/328-180.md"
                 },
                 {

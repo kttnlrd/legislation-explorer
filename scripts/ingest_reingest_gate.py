@@ -135,13 +135,14 @@ ALLOW_LIST = [
     "preserved-region fence lines incl. marker attributes "
     "(```ingest-formula source=vol03.pdf page=69)",
     "blockquote '>' and pipe '|' structure characters",
-    "the generated footer '*Last updated: <date> (Compilation <n>)*'",
+    "the generated footer '*Last updated: <date> (Compilation <n>)*' "
+    "(or '… (Compilation <n> as amended by <Act>)*' for a hand-applied amending Act)",
 ]
 FM_RE = re.compile(r"\A---\n.*?\n---\n", re.S)
 ANCHOR_RE = re.compile(r'<a id="[^"]*"></a>')
 FENCE_RE = re.compile(r"^(`{3,})(.*)$")
 MARKER_RE = re.compile(r"^ingest-(formula|unclassified)\s+source=(\S+)\s+page=(\d+)\s*$")
-FOOTER_RE = re.compile(r"^\*Last updated: .*\(Compilation \d+\)\*$")
+FOOTER_RE = re.compile(r"^\*Last updated: .*\(Compilation \d+(?: as amended by [^)]+)?\)\*$")
 
 
 # ── PDF side ────────────────────────────────────────────────────────────────
