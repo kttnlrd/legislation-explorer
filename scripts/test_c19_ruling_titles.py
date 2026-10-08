@@ -59,6 +59,51 @@ check(all("data/rulings/" in f["path"] for f in S.findings),
 check(len(S.findings) == len(expected_flagged),
       f"one finding per fragment, no duplicates (got {len(S.findings)})")
 
+# CDN-0216 — the curated title is the tie-breaker on the shape rules. A brand-name title that
+# starts lower case or with a digit is a WHOLE title; the sidecar says so, so it is not a
+# fragment. A title that differs from its curated counterpart really is cut and still fires.
+CDN_0216 = [
+    # (citation, served title, curated title, expected_to_fire)
+    ("CR_2022_1", "rhipe Limited - scheme of arrangement and special dividend",
+     "rhipe Limited - scheme of arrangement and special dividend", False),
+    ("CR_2022_4", "1300 Smiles Limited - scheme of arrangement and special dividend",
+     "1300 Smiles Limited - scheme of arrangement and special dividend", False),
+    ("PR_2025_12", "eFleetPass Tolling - toll road gift cards",
+     "eFleetPass Tolling - toll road gift cards", False),
+    ("ATOID_2007_50", "Consolidation - retained cost base assets - identification of",
+     "Consolidation - retained cost base assets - identification of", False),
+    ("ATOID_2002_942", "ogroup ratio test", "Thin Capitalisation", True),
+    ("PSLA_2009_4", "history",
+     "Decisions made by the Commissioner in the general administration of the taxation laws", True),
+    ("TR_2012_2", "is the authorised version of this withdrawal notice.",
+     "Income tax: effective life of depreciating assets (applicable from 1 July 2012)", True),
+]
+S.findings.clear()
+S.scan_ruling_title_fragments(titles=[(c, t, k) for c, t, k, _ in CDN_0216])
+flagged = {f["path"].rsplit("/", 1)[-1] for f in S.findings}
+check(flagged == {c for c, _, _, e in CDN_0216 if e},
+      f"the curated title suppresses brand-name shapes only -> {sorted(flagged)}")
+# with no curated counterpart the shape rule stands alone
+S.findings.clear()
+S.scan_ruling_title_fragments(titles=[(c, t) for c, t, _, _ in CDN_0216])
+check({f["path"].rsplit("/", 1)[-1] for f in S.findings}
+      == {c for c, t, _, _ in CDN_0216 if S.title_fragment_reason(t)},
+      "without a curated title the shape rule is unchanged (no silent suppression)")
+
+# the extractor uses the same decision: a fragment candidate loses to the curated title
+sys.path.insert(0, str(ROOT))
+from backend.services.data_loader import _is_fragment_title, _reads_as_fragment  # noqa: E402
+check(_is_fragment_title("ogroup ratio test", "Thin Capitalisation") is True,
+      "extractor: a cut candidate is replaced by the curated title")
+check(_is_fragment_title("1300 Smiles Limited - x", "1300 Smiles Limited - x") is False,
+      "extractor: a brand-name title that equals the curated title is kept as-is")
+check(_reads_as_fragment("history") and not _reads_as_fragment("Decisions made by the Commissioner"),
+      "extractor: the fragment shape is the lower-case/digit/connector rule")
+S.findings.clear()
+S.scan_ruling_title_fragments()
+check(not S.findings,
+      f"the live served list has no uncorrected fragment (got {len(S.findings)})")
+
 # an empty title is a finding too: it is the shape a failed extraction leaves
 check(S.title_fragment_reason("") == "empty title" and S.title_fragment_reason(None) == "empty title",
       "an empty/None title is reported rather than silently passed")

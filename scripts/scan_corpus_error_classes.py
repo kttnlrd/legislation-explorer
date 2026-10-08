@@ -890,17 +890,43 @@ def title_fragment_reason(title: str | None) -> str | None:
     return None
 
 
-def _served_ruling_titles() -> list[tuple[str, str]]:
-    """(citation, served full_title) for every ruling the API serves."""
+def _served_ruling_titles() -> list[tuple[str, str, str]]:
+    """(citation, served full_title, curated title) for every ruling the API serves.
+
+    The curated title is the sidecar/summary title the extractor treats as authoritative
+    (`_best_authoritative`); it is empty when neither exists.
+    """
     root = Path(__file__).resolve().parent.parent
     if str(root) not in sys.path:
         sys.path.insert(0, str(root))
-    from backend.services.data_loader import load_rulings   # deferred: needs the backend env
-    return [(str(r.get("citation", "?")), r.get("full_title") or "") for r in load_rulings()]
+    from backend.services.data_loader import (          # deferred: needs the backend env
+        load_rulings, _best_authoritative, _plausible_authoritative,
+        _strip_leading_citation, _summary_title,
+    )
+    out: list[tuple[str, str, str]] = []
+    for r in load_rulings():
+        cit = str(r.get("citation", "?"))
+        served = r.get("full_title") or ""
+        try:
+            curated = _best_authoritative(
+                None, _plausible_authoritative(_strip_leading_citation(_summary_title(cit)), cit)
+            ) or ""
+        except Exception:
+            curated = ""
+        out.append((cit, served, curated))
+    return out
 
 
 def scan_ruling_title_fragments(titles=None):
-    """`titles` is the test seam: the pinned self-test passes planted (citation, title) pairs."""
+    """`titles` is the test seam: the pinned self-test passes planted (citation, title[, curated]).
+
+    CDN-0216: a title that reads as a fragment is only a defect when the curated title does
+    not agree with it. 'rhipe Limited - scheme of arrangement' and '1300 Smiles Limited - …'
+    start lower case / with a digit but are the whole title, not a cut body line; the curated
+    sidecar says so, and the shape rules cannot tell a brand from a fragment. When the two
+    AGREE the extractor did not corrupt anything, so the finding is suppressed. When they
+    DIFFER the served title really is a cut title and the finding stands.
+    """
     if titles is None:
         try:
             titles = _served_ruling_titles()
@@ -909,11 +935,23 @@ def scan_ruling_title_fragments(titles=None):
                 f"load_rulings() unavailable in this environment ({type(e).__name__}: {e}) - "
                 f"check skipped, not a pass")
             return
-    for citation, title in titles:
+    for row in titles:
+        citation, title = row[0], row[1]
+        curated = row[2] if len(row) > 2 else ""
         why = title_fragment_reason(title)
-        if why:
-            add("C19_ruling_title_fragment", f"data/rulings/{citation}",
-                f"{why}: {title[:90]!r}")
+        if not why:
+            continue
+        if curated and _title_norm(title) == _title_norm(curated):
+            # shape says 'fragment', the curated title says 'whole' - the shape rule is the
+            # weaker evidence, so the curated agreement wins.
+            continue
+        add("C19_ruling_title_fragment", f"data/rulings/{citation}",
+            f"{why}: {title[:90]!r}")
+
+
+def _title_norm(s: str) -> str:
+    """Lowercase + strip all punctuation/whitespace runs - for title comparison."""
+    return re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
 
 
 # ── C20-C26 (plan Part B / E-a..E-g): character and encoding classes ────────

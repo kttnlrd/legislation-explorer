@@ -816,6 +816,39 @@ def _is_title_truncation(cand: str, authoritative: str) -> bool:
     return c != a and a.startswith(c)
 
 
+# CDN-0216: the shapes that mean a title string was cut out of a wrapped title or a
+# body line rather than being a whole title. Mirrors title_fragment_reason() in
+# scripts/scan_corpus_error_classes.py (the C19 detector) so extractor and detector agree.
+_TITLE_CONNECTOR_END_RE = re.compile(
+    r'\b(?:the|of|and|to|for|in|on|with|by|as|at|is|are|was|were|a|an|or|from|that|which)\s*$',
+    re.IGNORECASE,
+)
+
+
+def _reads_as_fragment(title: str | None) -> bool:
+    """True when `title` has the shape of an extracted fragment (CDN-0216)."""
+    t = (title or "").strip()
+    if not t:
+        return True
+    if t[:1].isalpha() and t[:1].islower():
+        return True
+    if re.match(r'^[\(\d]', t):
+        return True
+    return bool(_TITLE_CONNECTOR_END_RE.search(t))
+
+
+def _is_fragment_title(cand: str, authoritative: str) -> bool:
+    """`cand` reads as a fragment and is not simply the authoritative title itself.
+
+    A title that starts lower case or with a digit is usually a cut body line, but it is
+    also a legitimate company/brand title ('rhipe Limited', '1300 Smiles Limited') — those
+    are not fragments, because the curated title agrees with them exactly.
+    """
+    if _title_norm(cand) == _title_norm(authoritative):
+        return False
+    return _reads_as_fragment(cand) and not _reads_as_fragment(authoritative)
+
+
 def _strip_leading_citation(title: str | None) -> str | None:
     """Drop a leading citation prefix baked into a clean title.
 
@@ -1021,6 +1054,7 @@ def load_rulings() -> list[dict]:
                     elif authoritative_title and (
                         len(cand) > 200
                         or _is_title_truncation(cand, authoritative_title)  # cand is truncated
+                        or _is_fragment_title(cand, authoritative_title)    # CDN-0216
                     ):
                         full_title = authoritative_title
                     else:
