@@ -55,12 +55,12 @@ done
 #
 # Expected numbers match the source AND the corpus frontmatter (checked by
 # scripts/test_rebuild_guards.py):
-#   itaa-1997 266 (2026-07-01)   itaa-1936 191 (2026-04-01)
+#   itaa-1997 267 (2026-08-27)   itaa-1936 191 (2026-04-01)
 #   gst-1999   96 (2026-01-01)   taa-1953  222 (2026-04-01)
 # ---------------------------------------------------------------------------
 echo "=== 1b. Source compilation guard ==="
 guard_failed=0
-for spec in "itaa-1997 266" "itaa-1936 191" "gst-1999 96" "taa-1953 222"; do
+for spec in "itaa-1997 267" "itaa-1936 191" "gst-1999 96" "taa-1953 222"; do
     set -- $spec
     act_dir="$SOURCE/$1"; want="$2"
     # A guarded act with no source directory must FAIL, not skip. It used to be an
@@ -152,8 +152,8 @@ rm -rf "$DATA/itaa-1997/sections"
 python3 pipeline/parse_itaa97.py \
     --raw-dir "$DATA/itaa-1997/raw" \
     --out-dir "$DATA/itaa-1997/sections" \
-    --compilation-no 266 \
-    --compilation-date 2026-07-01
+    --compilation-no 267 \
+    --compilation-date 2026-08-27
 
 echo "=== 3. Parse ITAA 1936 (vols 1-4) ==="
 rm -rf "$DATA/itaa-1936/sections"
@@ -193,8 +193,8 @@ python3 pipeline/build_tree.py \
     --sections-dir "$DATA/itaa-1997/sections" \
     --out-file "$DATA/itaa-1997/tree.json" \
     --act "ITAA 1997" \
-    --compilation-no 266 \
-    --compilation-date 2026-07-01
+    --compilation-no 267 \
+    --compilation-date 2026-08-27
 
 python3 pipeline/build_tree.py \
     --sections-dir "$DATA/itaa-1936/sections" \

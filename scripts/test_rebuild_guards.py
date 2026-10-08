@@ -47,7 +47,7 @@ OPTION_B_MARKER = "REJECTED for itaa-1997"
 GUARDED = {"itaa-1997", "itaa-1936", "gst-1999", "taa-1953"}
 # Register ids pinned from the PDF's own "Authorised Version C… registered" footer for
 # acts where the vendored set changed (S1). Not a filename check.
-EXPECTED_REGISTER = {"itaa-1997": "C2026C00324"}
+EXPECTED_REGISTER = {"itaa-1997": "C2026C00400"}  # bump when the source compilation is updated
 
 COMP_RE = re.compile(r"Compilation No\.?\s*(\d+)", re.I)
 AUTH_RE = re.compile(r"Authorised Version\s+(C\d{4}C\d+)", re.I)
@@ -264,9 +264,24 @@ def main() -> int:
 
     print("\n== guard of the guard: older source than corpus must abort ==")
     if GUARD_OF_GUARD.is_file():
+        # Derive the corpus's own compilation number so this check does not rot the
+        # next time the corpus is bumped to a new compilation.
+        want_itaa = None
+        try:
+            import json as _json
+            _tree = _json.loads((ROOT / "data" / "itaa-1997" / "tree.json").read_text(encoding="utf-8"))
+            want_itaa = str(_tree.get("compilation_no"))
+        except Exception:
+            pass
+        if not (want_itaa or "").isdigit():
+            print("  skip  could not read data/itaa-1997/tree.json compilation_no")
+        want_itaa = want_itaa if (want_itaa or "").isdigit() else "266"
+        older = str(int(want_itaa) - 3)
         for label, args, want_rc in (
-            ("corpus 266 vs expected 266 -> ok", (["--act", "itaa-1997", "--expected", "266"], 0), 0),
-            ("corpus 266 vs expected 263 -> abort", (["--act", "itaa-1997", "--expected", "263"], 1), 1),
+            (f"corpus {want_itaa} vs expected {want_itaa} -> ok",
+             (["--act", "itaa-1997", "--expected", want_itaa], 0), 0),
+            (f"corpus {want_itaa} vs expected {older} -> abort",
+             (["--act", "itaa-1997", "--expected", older], 1), 1),
         ):
             argv, rc = args
             r = subprocess.run([sys.executable, str(GUARD_OF_GUARD), *argv, "--quiet"],
