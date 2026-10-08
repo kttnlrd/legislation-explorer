@@ -1,0 +1,39 @@
+{
+ "ticket": "CDN-0222",
+ "marker": "Endnotes Endnote 1—About the endnotes",
+ "applied_at": "2026-10-09T00:07:03",
+ "files": [
+  {
+   "path": "data/gst-1999/sections/part-6-3/division-195/195-1.md",
+   "marker_occurrences": 3,
+   "chars_removed": 109116,
+   "bytes_before": 199509,
+   "bytes_after": 90393,
+   "changed": true
+  },
+  {
+   "path": "data/sis-1993/sections/part-32/division-unknown/381.md",
+   "marker_occurrences": 3,
+   "chars_removed": 122466,
+   "bytes_before": 123839,
+   "bytes_after": 1373,
+   "changed": true
+  },
+  {
+   "path": "data/fbt-1986/sections/part-xii/division-unknown/167.md",
+   "marker_occurrences": 3,
+   "chars_removed": 77014,
+   "bytes_before": 78723,
+   "bytes_after": 1709,
+   "changed": true
+  },
+  {
+   "path": "data/aml-ctf-2006/sections/part-schedule-1/division-1/1.md",
+   "marker_occurrences": 1,
+   "chars_removed": 2270,
+   "bytes_before": 6849,
+   "bytes_after": 4579,
+   "changed": true
+  }
+ ]
+}
