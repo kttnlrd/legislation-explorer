@@ -1,7 +1,7 @@
 {
   "act": "FBTAA 1986",
-  "compilation_no": 96,
-  "compilation_date": "2025-04-01",
+  "compilation_no": 97,
+  "compilation_date": "2026-07-01",
   "parts": [
     {
       "id": "I",
@@ -21,12 +21,12 @@
         {
           "id": "2A",
           "title": "Application of the Criminal Code",
-          "path": "part-i/division-unknown/2A.md"
+          "path": "part-i/division-unknown/2a.md"
         },
         {
           "id": "2B",
           "title": "Application",
-          "path": "part-i/division-unknown/2B.md"
+          "path": "part-i/division-unknown/2b.md"
         }
       ]
     },
@@ -59,12 +59,12 @@
             {
               "id": "5A",
               "title": "Simplified outline of this Division",
-              "path": "part-iia/division-1/5A.md"
+              "path": "part-iia/division-1/5a.md"
             },
             {
               "id": "5B",
               "title": "Working out an employer’s fringe benefits taxable amount",
-              "path": "part-iia/division-1/5B.md"
+              "path": "part-iia/division-1/5b.md"
             }
           ]
         },
@@ -76,7 +76,7 @@
             {
               "id": "5C",
               "title": "Aggregate fringe benefits amount",
-              "path": "part-iia/division-2/5C.md"
+              "path": "part-iia/division-2/5c.md"
             }
           ]
         },
@@ -88,17 +88,17 @@
             {
               "id": "5D",
               "title": "Simplified outline",
-              "path": "part-iia/division-3/5D.md"
+              "path": "part-iia/division-3/5d.md"
             },
             {
               "id": "5E",
               "title": "Employee’s individual fringe benefits amount",
-              "path": "part-iia/division-3/5E.md"
+              "path": "part-iia/division-3/5e.md"
             },
             {
               "id": "5F",
               "title": "Working out the employee’s share",
-              "path": "part-iia/division-3/5F.md"
+              "path": "part-iia/division-3/5f.md"
             }
           ]
         }
@@ -142,7 +142,7 @@
                 {
                   "id": "8A",
                   "title": "Exempt car benefits: cars that are zero or low emissions vehicles",
-                  "path": "part-iii/division-2/8A.md"
+                  "path": "part-iii/division-2/8a.md"
                 }
               ]
             },
@@ -163,12 +163,12 @@
                 {
                   "id": "10A",
                   "title": "No reduction of operating cost in a log book year of tax unless log book records and odometer records are maintained",
-                  "path": "part-iii/division-2/10A.md"
+                  "path": "part-iii/division-2/10a.md"
                 },
                 {
                   "id": "10B",
                   "title": "",
-                  "path": "part-iii/division-2/10B.md"
+                  "path": "part-iii/division-2/10b.md"
                 },
                 {
                   "id": "11",
@@ -274,7 +274,7 @@
                 {
                   "id": "20A",
                   "title": "Exemption—no-private-use declaration",
-                  "path": "part-iii/division-5/20A.md"
+                  "path": "part-iii/division-5/20a.md"
                 },
                 {
                   "id": "21",
@@ -295,7 +295,7 @@
                 {
                   "id": "22A",
                   "title": "Taxable value of in-house expense payment fringe benefits",
-                  "path": "part-iii/division-5/22A.md"
+                  "path": "part-iii/division-5/22a.md"
                 },
                 {
                   "id": "23",
@@ -372,12 +372,12 @@
                 {
                   "id": "31A",
                   "title": "Taxable value—fly-in fly-out and drive-in drive-out employees",
-                  "path": "part-iii/division-7/31A.md"
+                  "path": "part-iii/division-7/31a.md"
                 },
                 {
                   "id": "31B",
                   "title": "Taxable value—any other case",
-                  "path": "part-iii/division-7/31B.md"
+                  "path": "part-iii/division-7/31b.md"
                 }
               ]
             },
@@ -388,32 +388,32 @@
                 {
                   "id": "31C",
                   "title": "Maintaining a home in Australia",
-                  "path": "part-iii/division-7/31C.md"
+                  "path": "part-iii/division-7/31c.md"
                 },
                 {
                   "id": "31D",
                   "title": "First 12 months employee is required to live away from home",
-                  "path": "part-iii/division-7/31D.md"
+                  "path": "part-iii/division-7/31d.md"
                 },
                 {
                   "id": "31E",
                   "title": "Fly-in fly-out and drive-in drive-out requirements",
-                  "path": "part-iii/division-7/31E.md"
+                  "path": "part-iii/division-7/31e.md"
                 },
                 {
                   "id": "31F",
                   "title": "Declarations",
-                  "path": "part-iii/division-7/31F.md"
+                  "path": "part-iii/division-7/31f.md"
                 },
                 {
                   "id": "31G",
                   "title": "Substantiating related expenses",
-                  "path": "part-iii/division-7/31G.md"
+                  "path": "part-iii/division-7/31g.md"
                 },
                 {
                   "id": "31H",
                   "title": "Exempt food component",
-                  "path": "part-iii/division-7/31H.md"
+                  "path": "part-iii/division-7/31h.md"
                 }
               ]
             }
@@ -465,42 +465,42 @@
                 {
                   "id": "37A",
                   "title": "Key principle",
-                  "path": "part-iii/division-9a/37A.md"
+                  "path": "part-iii/division-9a/37a.md"
                 },
                 {
                   "id": "37AA",
                   "title": "Division only applies if election made",
-                  "path": "part-iii/division-9a/37AA.md"
+                  "path": "part-iii/division-9a/37aa.md"
                 },
                 {
                   "id": "37AB",
                   "title": "Employee contributions to be excluded",
-                  "path": "part-iii/division-9a/37AB.md"
+                  "path": "part-iii/division-9a/37ab.md"
                 },
                 {
                   "id": "37AC",
                   "title": "Meal entertainment benefits",
-                  "path": "part-iii/division-9a/37AC.md"
+                  "path": "part-iii/division-9a/37ac.md"
                 },
                 {
                   "id": "37AD",
                   "title": "Meaning of provision of meal entertainment",
-                  "path": "part-iii/division-9a/37AD.md"
+                  "path": "part-iii/division-9a/37ad.md"
                 },
                 {
                   "id": "37AE",
                   "title": "Fringe benefits only arise if employer is provider",
-                  "path": "part-iii/division-9a/37AE.md"
+                  "path": "part-iii/division-9a/37ae.md"
                 },
                 {
                   "id": "37AF",
                   "title": "No other fringe benefits arise if election made",
-                  "path": "part-iii/division-9a/37AF.md"
+                  "path": "part-iii/division-9a/37af.md"
                 },
                 {
                   "id": "37AG",
                   "title": "Some benefits still arise",
-                  "path": "part-iii/division-9a/37AG.md"
+                  "path": "part-iii/division-9a/37ag.md"
                 }
               ]
             },
@@ -511,12 +511,12 @@
                 {
                   "id": "37B",
                   "title": "Key principle",
-                  "path": "part-iii/division-9a/37B.md"
+                  "path": "part-iii/division-9a/37b.md"
                 },
                 {
                   "id": "37BA",
                   "title": "Taxable value using 50/50 split method",
-                  "path": "part-iii/division-9a/37BA.md"
+                  "path": "part-iii/division-9a/37ba.md"
                 }
               ]
             },
@@ -527,37 +527,37 @@
                 {
                   "id": "37C",
                   "title": "Key principle",
-                  "path": "part-iii/division-9a/37C.md"
+                  "path": "part-iii/division-9a/37c.md"
                 },
                 {
                   "id": "37CA",
                   "title": "Election by employer",
-                  "path": "part-iii/division-9a/37CA.md"
+                  "path": "part-iii/division-9a/37ca.md"
                 },
                 {
                   "id": "37CB",
                   "title": "Taxable value using 12 week register method",
-                  "path": "part-iii/division-9a/37CB.md"
+                  "path": "part-iii/division-9a/37cb.md"
                 },
                 {
                   "id": "37CC",
                   "title": "Choosing the 12 week period for a register",
-                  "path": "part-iii/division-9a/37CC.md"
+                  "path": "part-iii/division-9a/37cc.md"
                 },
                 {
                   "id": "37CD",
                   "title": "FBT years for which register is valid",
-                  "path": "part-iii/division-9a/37CD.md"
+                  "path": "part-iii/division-9a/37cd.md"
                 },
                 {
                   "id": "37CE",
                   "title": "Matters to be included in register",
-                  "path": "part-iii/division-9a/37CE.md"
+                  "path": "part-iii/division-9a/37ce.md"
                 },
                 {
                   "id": "37CF",
                   "title": "False or misleading entries invalidate register",
-                  "path": "part-iii/division-9a/37CF.md"
+                  "path": "part-iii/division-9a/37cf.md"
                 }
               ]
             }
@@ -604,22 +604,22 @@
                 {
                   "id": "39A",
                   "title": "Car parking benefits",
-                  "path": "part-iii/division-10a/39A.md"
+                  "path": "part-iii/division-10a/39a.md"
                 },
                 {
                   "id": "39AA",
                   "title": "Anti-avoidance—fee on first business day not representative",
-                  "path": "part-iii/division-10a/39AA.md"
+                  "path": "part-iii/division-10a/39aa.md"
                 },
                 {
                   "id": "39AB",
                   "title": "When fees are not representative",
-                  "path": "part-iii/division-10a/39AB.md"
+                  "path": "part-iii/division-10a/39ab.md"
                 },
                 {
                   "id": "39B",
                   "title": "When commercial parking stations are located within a 1 km radius of business premises or associated premises",
-                  "path": "part-iii/division-10a/39B.md"
+                  "path": "part-iii/division-10a/39b.md"
                 }
               ]
             },
@@ -630,22 +630,22 @@
                 {
                   "id": "39C",
                   "title": "Taxable value of car parking fringe benefits—commercial parking station method",
-                  "path": "part-iii/division-10a/39C.md"
+                  "path": "part-iii/division-10a/39c.md"
                 },
                 {
                   "id": "39D",
                   "title": "Taxable value of car parking fringe benefits—market value basis",
-                  "path": "part-iii/division-10a/39D.md"
+                  "path": "part-iii/division-10a/39d.md"
                 },
                 {
                   "id": "39DA",
                   "title": "Taxable value of car parking fringe benefits—average cost method",
-                  "path": "part-iii/division-10a/39DA.md"
+                  "path": "part-iii/division-10a/39da.md"
                 },
                 {
                   "id": "39E",
                   "title": "Fees charged by commercial parking stations for all-day parking",
-                  "path": "part-iii/division-10a/39E.md"
+                  "path": "part-iii/division-10a/39e.md"
                 }
               ]
             },
@@ -656,32 +656,32 @@
                 {
                   "id": "39F",
                   "title": "The key principle",
-                  "path": "part-iii/division-10a/39F.md"
+                  "path": "part-iii/division-10a/39f.md"
                 },
                 {
                   "id": "39FA",
                   "title": "Spaces method of calculating total taxable value of car parking fringe benefits",
-                  "path": "part-iii/division-10a/39FA.md"
+                  "path": "part-iii/division-10a/39fa.md"
                 },
                 {
                   "id": "39FB",
                   "title": "Number of spaces exceeds number of employees",
-                  "path": "part-iii/division-10a/39FB.md"
+                  "path": "part-iii/division-10a/39fb.md"
                 },
                 {
                   "id": "39FC",
                   "title": "Meaning of daily rate amount",
-                  "path": "part-iii/division-10a/39FC.md"
+                  "path": "part-iii/division-10a/39fc.md"
                 },
                 {
                   "id": "39FD",
                   "title": "Meaning of availability period",
-                  "path": "part-iii/division-10a/39FD.md"
+                  "path": "part-iii/division-10a/39fd.md"
                 },
                 {
                   "id": "39FE",
                   "title": "Meaning of relevant recipients contribution",
-                  "path": "part-iii/division-10a/39FE.md"
+                  "path": "part-iii/division-10a/39fe.md"
                 }
               ]
             },
@@ -692,47 +692,47 @@
                 {
                   "id": "39G",
                   "title": "The key principle",
-                  "path": "part-iii/division-10a/39G.md"
+                  "path": "part-iii/division-10a/39g.md"
                 },
                 {
                   "id": "39GA",
                   "title": "Employer may elect to use 12 week record keeping method",
-                  "path": "part-iii/division-10a/39GA.md"
+                  "path": "part-iii/division-10a/39ga.md"
                 },
                 {
                   "id": "39GB",
                   "title": "Value of fringe benefits for year",
-                  "path": "part-iii/division-10a/39GB.md"
+                  "path": "part-iii/division-10a/39gb.md"
                 },
                 {
                   "id": "39GC",
                   "title": "Meaning of total value of car parking benefits (register)",
-                  "path": "part-iii/division-10a/39GC.md"
+                  "path": "part-iii/division-10a/39gc.md"
                 },
                 {
                   "id": "39GD",
                   "title": "Meaning of car parking availability period",
-                  "path": "part-iii/division-10a/39GD.md"
+                  "path": "part-iii/division-10a/39gd.md"
                 },
                 {
                   "id": "39GE",
                   "title": "Choosing the 12 week period for a register",
-                  "path": "part-iii/division-10a/39GE.md"
+                  "path": "part-iii/division-10a/39ge.md"
                 },
                 {
                   "id": "39GF",
                   "title": "FBT years for which register is valid",
-                  "path": "part-iii/division-10a/39GF.md"
+                  "path": "part-iii/division-10a/39gf.md"
                 },
                 {
                   "id": "39GG",
                   "title": "Matters to be included in register",
-                  "path": "part-iii/division-10a/39GG.md"
+                  "path": "part-iii/division-10a/39gg.md"
                 },
                 {
                   "id": "39GH",
                   "title": "Fraudulent entries invalidate register",
-                  "path": "part-iii/division-10a/39GH.md"
+                  "path": "part-iii/division-10a/39gh.md"
                 }
               ]
             }
@@ -809,7 +809,7 @@
                 {
                   "id": "47A",
                   "title": "Exemption—no-private-use declaration",
-                  "path": "part-iii/division-12/47A.md"
+                  "path": "part-iii/division-12/47a.md"
                 }
               ]
             },
@@ -885,167 +885,167 @@
             {
               "id": "58A",
               "title": "Exempt benefits—employment interviews and selection tests",
-              "path": "part-iii/division-13/58A.md"
+              "path": "part-iii/division-13/58a.md"
             },
             {
               "id": "58AA",
               "title": "Exempt benefits—engagement of relocation consultant",
-              "path": "part-iii/division-13/58AA.md"
+              "path": "part-iii/division-13/58aa.md"
             },
             {
               "id": "58B",
               "title": "Exempt benefits—removals and storage of household effects as a result of relocation",
-              "path": "part-iii/division-13/58B.md"
+              "path": "part-iii/division-13/58b.md"
             },
             {
               "id": "58C",
               "title": "Exempt benefits—sale or acquisition of dwelling as a result of relocation",
-              "path": "part-iii/division-13/58C.md"
+              "path": "part-iii/division-13/58c.md"
             },
             {
               "id": "58D",
               "title": "Exempt benefits—connection or re-connection of certain utilities as a result of relocation",
-              "path": "part-iii/division-13/58D.md"
+              "path": "part-iii/division-13/58d.md"
             },
             {
               "id": "58E",
               "title": "Exempt benefits—leasing of household goods while living away from home",
-              "path": "part-iii/division-13/58E.md"
+              "path": "part-iii/division-13/58e.md"
             },
             {
               "id": "58F",
               "title": "Exempt benefits—relocation transport",
-              "path": "part-iii/division-13/58F.md"
+              "path": "part-iii/division-13/58f.md"
             },
             {
               "id": "58G",
               "title": "Exempt benefits—motor vehicle parking",
-              "path": "part-iii/division-13/58G.md"
+              "path": "part-iii/division-13/58g.md"
             },
             {
               "id": "58GA",
               "title": "Exempt benefits—small business car parking",
-              "path": "part-iii/division-13/58GA.md"
+              "path": "part-iii/division-13/58ga.md"
             },
             {
               "id": "58H",
               "title": "Exempt benefits—newspapers and periodicals used for business purposes",
-              "path": "part-iii/division-13/58H.md"
+              "path": "part-iii/division-13/58h.md"
             },
             {
               "id": "58J",
               "title": "Exempt benefits—compensable work-related trauma",
-              "path": "part-iii/division-13/58J.md"
+              "path": "part-iii/division-13/58j.md"
             },
             {
               "id": "58K",
               "title": "Exempt benefits—in-house health care facilities",
-              "path": "part-iii/division-13/58K.md"
+              "path": "part-iii/division-13/58k.md"
             },
             {
               "id": "58L",
               "title": "Exempt benefits—certain travel to obtain medical treatment",
-              "path": "part-iii/division-13/58L.md"
+              "path": "part-iii/division-13/58l.md"
             },
             {
               "id": "58LA",
               "title": "Exempt benefits—compassionate travel",
-              "path": "part-iii/division-13/58LA.md"
+              "path": "part-iii/division-13/58la.md"
             },
             {
               "id": "58M",
               "title": "",
-              "path": "part-iii/division-13/58M.md"
+              "path": "part-iii/division-13/58m.md"
             },
             {
               "id": "58N",
               "title": "Exempt benefits—emergency assistance",
-              "path": "part-iii/division-13/58N.md"
+              "path": "part-iii/division-13/58n.md"
             },
             {
               "id": "58P",
               "title": "Exempt benefits—minor benefits",
-              "path": "part-iii/division-13/58P.md"
+              "path": "part-iii/division-13/58p.md"
             },
             {
               "id": "58PA",
               "title": "Exempt benefits—worker entitlement contributions",
-              "path": "part-iii/division-13/58PA.md"
+              "path": "part-iii/division-13/58pa.md"
             },
             {
               "id": "58PB",
               "title": "Meaning of approved worker entitlement funds",
-              "path": "part-iii/division-13/58PB.md"
+              "path": "part-iii/division-13/58pb.md"
             },
             {
               "id": "58Q",
               "title": "Exempt benefits—long service awards",
-              "path": "part-iii/division-13/58Q.md"
+              "path": "part-iii/division-13/58q.md"
             },
             {
               "id": "58R",
               "title": "Exempt benefits—safety awards",
-              "path": "part-iii/division-13/58R.md"
+              "path": "part-iii/division-13/58r.md"
             },
             {
               "id": "58S",
               "title": "Exempt benefits—trainees engaged under Australian Traineeship System",
-              "path": "part-iii/division-13/58S.md"
+              "path": "part-iii/division-13/58s.md"
             },
             {
               "id": "58T",
               "title": "Exempt benefits—live-in domestic workers employed by religious institutions or by religious practitioners",
-              "path": "part-iii/division-13/58T.md"
+              "path": "part-iii/division-13/58t.md"
             },
             {
               "id": "58U",
               "title": "Exempt benefits—live-in help for elderly and disadvantaged persons",
-              "path": "part-iii/division-13/58U.md"
+              "path": "part-iii/division-13/58u.md"
             },
             {
               "id": "58V",
               "title": "Exempt benefits—food and drink for non-live-in domestic employees",
-              "path": "part-iii/division-13/58V.md"
+              "path": "part-iii/division-13/58v.md"
             },
             {
               "id": "58W",
               "title": "Exempt benefits—deposits under the Small Superannuation Accounts Act 1995",
-              "path": "part-iii/division-13/58W.md"
+              "path": "part-iii/division-13/58w.md"
             },
             {
               "id": "58X",
               "title": "Exempt benefits—provision of certain work related items",
-              "path": "part-iii/division-13/58X.md"
+              "path": "part-iii/division-13/58x.md"
             },
             {
               "id": "58Y",
               "title": "Exempt benefits—membership fees and subscriptions",
-              "path": "part-iii/division-13/58Y.md"
+              "path": "part-iii/division-13/58y.md"
             },
             {
               "id": "58Z",
               "title": "Exempt benefits—taxi travel",
-              "path": "part-iii/division-13/58Z.md"
+              "path": "part-iii/division-13/58z.md"
             },
             {
               "id": "58ZB",
               "title": "Exempt benefits—approved student exchange programs",
-              "path": "part-iii/division-13/58ZB.md"
+              "path": "part-iii/division-13/58zb.md"
             },
             {
               "id": "58ZC",
               "title": "Exempt benefits—remote area housing benefits",
-              "path": "part-iii/division-13/58ZC.md"
+              "path": "part-iii/division-13/58zc.md"
             },
             {
               "id": "58ZD",
               "title": "Exempt benefits—meals on working days",
-              "path": "part-iii/division-13/58ZD.md"
+              "path": "part-iii/division-13/58zd.md"
             },
             {
               "id": "58ZE",
               "title": "Exempt benefits—provision of certain education or training",
-              "path": "part-iii/division-13/58ZE.md"
+              "path": "part-iii/division-13/58ze.md"
             }
           ]
         },
@@ -1067,12 +1067,12 @@
             {
               "id": "60A",
               "title": "Reduction of taxable value—remote area holiday transport fringe benefits subject to ceiling",
-              "path": "part-iii/division-14/60A.md"
+              "path": "part-iii/division-14/60a.md"
             },
             {
               "id": "60AA",
               "title": "Guideline price for repurchase of remote area residential property",
-              "path": "part-iii/division-14/60AA.md"
+              "path": "part-iii/division-14/60aa.md"
             },
             {
               "id": "61",
@@ -1082,32 +1082,37 @@
             {
               "id": "61A",
               "title": "Reduction of taxable value—overseas employment holiday transport",
-              "path": "part-iii/division-14/61A.md"
+              "path": "part-iii/division-14/61a.md"
             },
             {
               "id": "61B",
               "title": "Reduction of taxable value of certain expense payment fringe benefits in respect of relocation transport",
-              "path": "part-iii/division-14/61B.md"
+              "path": "part-iii/division-14/61b.md"
             },
             {
               "id": "61C",
               "title": "Reduction of taxable value—temporary accommodation relating to relocation",
-              "path": "part-iii/division-14/61C.md"
+              "path": "part-iii/division-14/61c.md"
             },
             {
               "id": "61D",
               "title": "Reduction of taxable value of temporary accommodation meal fringe benefits",
-              "path": "part-iii/division-14/61D.md"
+              "path": "part-iii/division-14/61d.md"
+            },
+            {
+              "id": "61E",
+              "title": "",
+              "path": "part-iii/division-14/61e.md"
             },
             {
               "id": "61F",
               "title": "",
-              "path": "part-iii/division-14/61F.md"
+              "path": "part-iii/division-14/61f.md"
             },
             {
               "id": "61G",
               "title": "Reduction of taxable value of fringe benefits if certain deductions relating to payments to associates are not allowed",
-              "path": "part-iii/division-14/61G.md"
+              "path": "part-iii/division-14/61g.md"
             },
             {
               "id": "62",
@@ -1122,12 +1127,17 @@
             {
               "id": "63A",
               "title": "Reduction of taxable value in respect of entertainment component of certain fringe benefits",
-              "path": "part-iii/division-14/63A.md"
+              "path": "part-iii/division-14/63a.md"
             },
             {
               "id": "65A",
               "title": "Reduction of taxable value—education of children of overseas employees",
-              "path": "part-iii/division-14/65A.md"
+              "path": "part-iii/division-14/65a.md"
+            },
+            {
+              "id": "65CA",
+              "title": "Amortisation of taxable value of fringe benefits relating to remote area home ownership schemes",
+              "path": "part-iii/division-14/65ca.md"
             }
           ]
         },
@@ -1137,31 +1147,31 @@
           "subdivisions": [],
           "sections": [
             {
-              "id": "65CA",
-              "title": "Amortisation of taxable value of fringe benefits relating to remote area home ownership schemes",
-              "path": "part-iii/division-14a/65CA.md"
-            },
-            {
               "id": "65CB",
               "title": "Amendment of assessments",
-              "path": "part-iii/division-14a/65CB.md"
+              "path": "part-iii/division-14a/65cb.md"
+            },
+            {
+              "id": "65CC",
+              "title": "Reducible fringe benefits relating to remote area home repurchase schemes",
+              "path": "part-iii/division-14a/65cc.md"
             }
           ]
         },
         {
-          "id": "14B",
-          "title": "Reducible fringe benefits relating to remote area home repurchase schemes",
+          "id": "15",
+          "title": "Car substantiation rules for otherwise deductible provisions",
           "subdivisions": [],
           "sections": [
             {
-              "id": "65CC",
-              "title": "Reducible fringe benefits relating to remote area home repurchase schemes",
-              "path": "part-iii/division-14b/65CC.md"
-            },
-            {
               "id": "65D",
               "title": "Car substantiation rules",
-              "path": "part-iii/division-14b/65D.md"
+              "path": "part-iii/division-15/65d.md"
+            },
+            {
+              "id": "65F",
+              "title": "",
+              "path": "part-iii/division-15/65f.md"
             }
           ]
         }
@@ -1176,7 +1186,7 @@
         {
           "id": "65J",
           "title": "Rebate for certain not-for-profit employers etc.",
-          "path": "part-iiia/division-unknown/65J.md"
+          "path": "part-iiia/division-unknown/65j.md"
         }
       ]
     },
@@ -1224,7 +1234,7 @@
             {
               "id": "70D",
               "title": "Tax agent to give taxpayer copy of notice of assessment",
-              "path": "part-v/division-1/70D.md"
+              "path": "part-v/division-1/70d.md"
             }
           ]
         },
@@ -1271,7 +1281,7 @@
             {
               "id": "78A",
               "title": "Objections",
-              "path": "part-v/division-2/78A.md"
+              "path": "part-v/division-2/78a.md"
             }
           ]
         }
@@ -1366,12 +1376,12 @@
                 {
                   "id": "112A",
                   "title": "Credit in certain cases where amount of instalment is nil",
-                  "path": "part-vii/division-2/112A.md"
+                  "path": "part-vii/division-2/112a.md"
                 },
                 {
                   "id": "112B",
                   "title": "Liability to GIC on shortfall in quarterly instalment worked out on the basis of estimated tax",
-                  "path": "part-vii/division-2/112B.md"
+                  "path": "part-vii/division-2/112b.md"
                 },
                 {
                   "id": "113",
@@ -1399,17 +1409,17 @@
         {
           "id": "123A",
           "title": "When business use percentage and estimate of business kilometres must be specified",
-          "path": "part-x/division-unknown/123A.md"
+          "path": "part-x/division-unknown/123a.md"
         },
         {
           "id": "123AA",
           "title": "Alternatives to statutory evidentiary documents",
-          "path": "part-x/division-unknown/123AA.md"
+          "path": "part-x/division-unknown/123aa.md"
         },
         {
           "id": "123B",
           "title": "Substantiation requirements not to apply in special circumstances",
-          "path": "part-x/division-unknown/123B.md"
+          "path": "part-x/division-unknown/123b.md"
         }
       ]
     },
@@ -1421,12 +1431,12 @@
         {
           "id": "123C",
           "title": "Endorsement by Commissioner as public benevolent institution",
-          "path": "part-xa/division-unknown/123C.md"
+          "path": "part-xa/division-unknown/123c.md"
         },
         {
           "id": "123D",
           "title": "Endorsement by Commissioner as health promotion charity",
-          "path": "part-xa/division-unknown/123D.md"
+          "path": "part-xa/division-unknown/123d.md"
         }
       ]
     },
@@ -1443,7 +1453,7 @@
         {
           "id": "124A",
           "title": "Assessment on assumption",
-          "path": "part-xi/division-unknown/124A.md"
+          "path": "part-xi/division-unknown/124a.md"
         },
         {
           "id": "129",
@@ -1458,7 +1468,7 @@
         {
           "id": "132A",
           "title": "Written evidence not available when return lodged",
-          "path": "part-xi/division-unknown/132A.md"
+          "path": "part-xi/division-unknown/132a.md"
         },
         {
           "id": "134",
@@ -1484,7 +1494,7 @@
             {
               "id": "135A",
               "title": "Overview of Part",
-              "path": "part-xia/division-1/135A.md"
+              "path": "part-xia/division-1/135a.md"
             }
           ]
         },
@@ -1496,12 +1506,12 @@
             {
               "id": "135B",
               "title": "Conditions that must be satisfied",
-              "path": "part-xia/division-2/135B.md"
+              "path": "part-xia/division-2/135b.md"
             },
             {
               "id": "135C",
               "title": "What is a base year?",
-              "path": "part-xia/division-2/135C.md"
+              "path": "part-xia/division-2/135c.md"
             }
           ]
         },
@@ -1513,42 +1523,42 @@
             {
               "id": "135D",
               "title": "Consequences",
-              "path": "part-xia/division-3/135D.md"
+              "path": "part-xia/division-3/135d.md"
             },
             {
               "id": "135E",
               "title": "Exemption from keeping records",
-              "path": "part-xia/division-3/135E.md"
+              "path": "part-xia/division-3/135e.md"
             },
             {
               "id": "135F",
               "title": "Keeping records for 5 years after they are last relied on",
-              "path": "part-xia/division-3/135F.md"
+              "path": "part-xia/division-3/135f.md"
             },
             {
               "id": "135G",
               "title": "Way to work out liability",
-              "path": "part-xia/division-3/135G.md"
+              "path": "part-xia/division-3/135g.md"
             },
             {
               "id": "135H",
               "title": "Exception if employer chooses to use current year aggregate fringe benefits amount",
-              "path": "part-xia/division-3/135H.md"
+              "path": "part-xia/division-3/135h.md"
             },
             {
               "id": "135J",
               "title": "Exception if employer is government body or tax-exempt",
-              "path": "part-xia/division-3/135J.md"
+              "path": "part-xia/division-3/135j.md"
             },
             {
               "id": "135K",
               "title": "Exception if aggregate fringe benefits amount increases too much",
-              "path": "part-xia/division-3/135K.md"
+              "path": "part-xia/division-3/135k.md"
             },
             {
               "id": "135L",
               "title": "Employer not in business throughout current year",
-              "path": "part-xia/division-3/135L.md"
+              "path": "part-xia/division-3/135l.md"
             }
           ]
         }
@@ -1563,22 +1573,22 @@
         {
           "id": "135M",
           "title": "Simplified outline of this Part",
-          "path": "part-xib/division-unknown/135M.md"
+          "path": "part-xib/division-unknown/135m.md"
         },
         {
           "id": "135N",
           "title": "Employee’s reportable fringe benefits total",
-          "path": "part-xib/division-unknown/135N.md"
+          "path": "part-xib/division-unknown/135n.md"
         },
         {
           "id": "135P",
           "title": "Employee’s reportable fringe benefits amount—general rule",
-          "path": "part-xib/division-unknown/135P.md"
+          "path": "part-xib/division-unknown/135p.md"
         },
         {
           "id": "135Q",
           "title": "Reportable fringe benefits amount for some employees of certain institutions",
-          "path": "part-xib/division-unknown/135Q.md"
+          "path": "part-xib/division-unknown/135q.md"
         }
       ]
     },
@@ -1590,37 +1600,37 @@
         {
           "id": "135R",
           "title": "Application of this Part",
-          "path": "part-xic/division-unknown/135R.md"
+          "path": "part-xic/division-unknown/135r.md"
         },
         {
           "id": "135S",
           "title": "Nomination of eligible State or Territory bodies",
-          "path": "part-xic/division-unknown/135S.md"
+          "path": "part-xic/division-unknown/135s.md"
         },
         {
           "id": "135T",
           "title": "Eligible State or Territory bodies",
-          "path": "part-xic/division-unknown/135T.md"
+          "path": "part-xic/division-unknown/135t.md"
         },
         {
           "id": "135U",
           "title": "Consequences of nomination",
-          "path": "part-xic/division-unknown/135U.md"
+          "path": "part-xic/division-unknown/135u.md"
         },
         {
           "id": "135V",
           "title": "Working out the notional tax amount where nominations have been made, varied or revoked",
-          "path": "part-xic/division-unknown/135V.md"
+          "path": "part-xic/division-unknown/135v.md"
         },
         {
           "id": "135W",
           "title": "Notional tax amount where a nominated State or Territory body ceases to exist",
-          "path": "part-xic/division-unknown/135W.md"
+          "path": "part-xic/division-unknown/135w.md"
         },
         {
           "id": "135X",
           "title": "Application of certain provisions by agreement with the Commissioner",
-          "path": "part-xic/division-unknown/135X.md"
+          "path": "part-xic/division-unknown/135x.md"
         }
       ]
     },
@@ -1632,7 +1642,7 @@
         {
           "id": "135Y",
           "title": "Temporary budget repair levy",
-          "path": "part-xid/division-unknown/135Y.md"
+          "path": "part-xid/division-unknown/135y.md"
         },
         {
           "id": "136",
@@ -1649,12 +1659,12 @@
         {
           "id": "136A",
           "title": "Reimbursement etc. of tax not to be regarded as consideration in respect of benefit etc.",
-          "path": "part-xii/division-unknown/136A.md"
+          "path": "part-xii/division-unknown/136a.md"
         },
         {
           "id": "136AB",
           "title": "What constitutes reasonable belief that a superannuation fund is a complying superannuation fund",
-          "path": "part-xii/division-unknown/136AB.md"
+          "path": "part-xii/division-unknown/136ab.md"
         },
         {
           "id": "137",
@@ -1669,17 +1679,17 @@
         {
           "id": "138A",
           "title": "Benefit provided in respect of a year of tax",
-          "path": "part-xii/division-unknown/138A.md"
+          "path": "part-xii/division-unknown/138a.md"
         },
         {
           "id": "138B",
           "title": "Benefit provided in respect of the employment of an employee",
-          "path": "part-xii/division-unknown/138B.md"
+          "path": "part-xii/division-unknown/138b.md"
         },
         {
           "id": "138C",
           "title": "Application or use of benefit",
-          "path": "part-xii/division-unknown/138C.md"
+          "path": "part-xii/division-unknown/138c.md"
         },
         {
           "id": "139",
@@ -1699,7 +1709,7 @@
         {
           "id": "141A",
           "title": "",
-          "path": "part-xii/division-unknown/141A.md"
+          "path": "part-xii/division-unknown/141a.md"
         },
         {
           "id": "142",
@@ -1709,22 +1719,22 @@
         {
           "id": "142A",
           "title": "Benefits relating to transport",
-          "path": "part-xii/division-unknown/142A.md"
+          "path": "part-xii/division-unknown/142a.md"
         },
         {
           "id": "142B",
           "title": "Employee’s new place of employment",
-          "path": "part-xii/division-unknown/142B.md"
+          "path": "part-xii/division-unknown/142b.md"
         },
         {
           "id": "142C",
           "title": "Eligible shared accommodation in a house, flat or home unit",
-          "path": "part-xii/division-unknown/142C.md"
+          "path": "part-xii/division-unknown/142c.md"
         },
         {
           "id": "142D",
           "title": "Eligible accommodation in an employees hostel",
-          "path": "part-xii/division-unknown/142D.md"
+          "path": "part-xii/division-unknown/142d.md"
         },
         {
           "id": "143",
@@ -1734,27 +1744,27 @@
         {
           "id": "143A",
           "title": "Relocation transport",
-          "path": "part-xii/division-unknown/143A.md"
+          "path": "part-xii/division-unknown/143a.md"
         },
         {
           "id": "143B",
           "title": "Overseas employees",
-          "path": "part-xii/division-unknown/143B.md"
+          "path": "part-xii/division-unknown/143b.md"
         },
         {
           "id": "143C",
           "title": "Overseas employment holiday transport",
-          "path": "part-xii/division-unknown/143C.md"
+          "path": "part-xii/division-unknown/143c.md"
         },
         {
           "id": "143D",
           "title": "Employment interviews and selection tests",
-          "path": "part-xii/division-unknown/143D.md"
+          "path": "part-xii/division-unknown/143d.md"
         },
         {
           "id": "143E",
           "title": "",
-          "path": "part-xii/division-unknown/143E.md"
+          "path": "part-xii/division-unknown/143e.md"
         },
         {
           "id": "144",
@@ -1789,7 +1799,7 @@
         {
           "id": "149A",
           "title": "What is a GST-creditable benefit?",
-          "path": "part-xii/division-unknown/149A.md"
+          "path": "part-xii/division-unknown/149a.md"
         },
         {
           "id": "150",
@@ -1804,12 +1814,12 @@
         {
           "id": "152A",
           "title": "Recurring fringe benefit declaration",
-          "path": "part-xii/division-unknown/152A.md"
+          "path": "part-xii/division-unknown/152a.md"
         },
         {
           "id": "152B",
           "title": "Employer may elect 50/50 split method for entertainment facility leasing costs",
-          "path": "part-xii/division-unknown/152B.md"
+          "path": "part-xii/division-unknown/152b.md"
         },
         {
           "id": "153",
@@ -1848,7 +1858,7 @@
         },
         {
           "id": "160",
-          "title": "Continuity of employment where business disposed of etc",
+          "title": "Continuity of employment where business disposed of etc.",
           "path": "part-xii/division-unknown/160.md"
         },
         {
@@ -1864,42 +1874,42 @@
         {
           "id": "162B",
           "title": "When car used for the purpose of producing assessable income",
-          "path": "part-xii/division-unknown/162B.md"
+          "path": "part-xii/division-unknown/162b.md"
         },
         {
           "id": "162C",
           "title": "Holding period of car",
-          "path": "part-xii/division-unknown/162C.md"
+          "path": "part-xii/division-unknown/162c.md"
         },
         {
           "id": "162F",
           "title": "Reasonable estimate of number of business kilometres",
-          "path": "part-xii/division-unknown/162F.md"
+          "path": "part-xii/division-unknown/162f.md"
         },
         {
           "id": "162G",
           "title": "Log book year of tax",
-          "path": "part-xii/division-unknown/162G.md"
+          "path": "part-xii/division-unknown/162g.md"
         },
         {
           "id": "162H",
           "title": "Applicable log book period",
-          "path": "part-xii/division-unknown/162H.md"
+          "path": "part-xii/division-unknown/162h.md"
         },
         {
           "id": "162K",
           "title": "Replacement cars—car fringe benefits",
-          "path": "part-xii/division-unknown/162K.md"
+          "path": "part-xii/division-unknown/162k.md"
         },
         {
           "id": "162L",
           "title": "Replacement cars—otherwise deductible provisions",
-          "path": "part-xii/division-unknown/162L.md"
+          "path": "part-xii/division-unknown/162l.md"
         },
         {
           "id": "162N",
           "title": "Registration of motor vehicle",
-          "path": "part-xii/division-unknown/162N.md"
+          "path": "part-xii/division-unknown/162n.md"
         },
         {
           "id": "164",
