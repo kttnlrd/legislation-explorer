@@ -28,11 +28,11 @@ documents for a paperless issue or transfer under a global debenture.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -49,7 +49,7 @@ documents for a paperless issue or transfer under a global debenture.
                              reference to the relief instrument in RG 30.10.
 
                              Previous versions:
-                                    Superseded Policy Statement 30, issued 17 August 1992, rebadged as
+                             •       Superseded Policy Statement 30, issued 17 August 1992, rebadged as
                                      a regulatory guide 5 July 2007
 
 
@@ -136,36 +136,36 @@ Table 1:     Conditions of relief for paperless issues and transfers under a glo
  Condition                     Description
 
  Register of debenture         A register of debenture holders must be:
- holders                        maintained by a competent, independent commercial registrar; and
-                                audited by an auditor who would be eligible to audit both the registrar and the
+ holders                       • maintained by a competent, independent commercial registrar; and
+                               • audited by an auditor who would be eligible to audit both the registrar and the
                                  debenture issuer.
 
  Professional indemnity        The registrar must maintain professional indemnity insurance for:
- insurance                      an amount that is at least 1% of the indebtedness under the global debenture; or
-                                an amount otherwise approved by ASIC.
+ insurance                     • an amount that is at least 1% of the indebtedness under the global debenture; or
+                               • an amount otherwise approved by ASIC.
 
  Custody of debenture          The global debenture must be held in safe custody for the debenture holders:
-                                by the trustee; or
-                                if there is no trustee, by an authorised trustee corporation or a person approved
+                               • by the trustee; or
+                               • if there is no trustee, by an authorised trustee corporation or a person approved
                                  by ASIC.
 
- Holders’ rights                Each debenture holder and the trustee for the debenture holders must have
+ Holders’ rights               • Each debenture holder and the trustee for the debenture holders must have
                                  standing to enforce the holder’s or the holders’ rights (as the case may be)
                                  under the global debenture in their own name.
-                                The terms of the global debenture and the deed appointing the trustee must not
+                               • The terms of the global debenture and the deed appointing the trustee must not
                                  restrict the holder from taking action to enforce the holder’s rights for more than
                                  21 days after giving the trustee notice of the holder’s intention to do so unless
                                  the trustee takes action within that time.
 
- Documentation                  On request, the registrar must issue to a debenture holder a document that sets
+ Documentation                 • On request, the registrar must issue to a debenture holder a document that sets
                                  out the debenture holder’s entry in the register of debenture holders.
-                                As soon as practicable after receipt of an application for the global debentures,
+                               • As soon as practicable after receipt of an application for the global debentures,
                                  the issuer must:
                                  − issue the debentures; or
                                  − to the extent the application is declined, return the application money.
-                                Similarly, upon receipt of a valid transfer, the registrar must make the relevant
+                               • Similarly, upon receipt of a valid transfer, the registrar must make the relevant
                                  entries in the register without delay.
-                                As soon as practicable after the issue of debentures to an investor, the issuer
+                               • As soon as practicable after the issue of debentures to an investor, the issuer
                                  must provide the investor with a letter that is not a certificate of title but that
                                  acknowledges the receipt of money and entitlements of the investor to the
                                  debentures as recorded in the register.
@@ -205,20 +205,20 @@ Table 2:     What disclosure documents must contain under our relief
                                transmissions of debentures. See also RG 30.11–RG 30.12.
 
  Explanation of                The disclosure document must contain a statement to the effect that:
- register                       certificates of title are not issued;
-                                an entry in the register of the details of a debenture holder and the amount of
+ register                      • certificates of title are not issued;
+                               • an entry in the register of the details of a debenture holder and the amount of
                                  the debt owed to the debenture holder are conclusive evidence of title subject to
                                  rectification for fraud or error; and
-                                the issuer of the disclosure document undertakes to ensure that each investor’s
+                               • the issuer of the disclosure document undertakes to ensure that each investor’s
                                  details are entered in the register of debenture holders.
 
  Custodian’s details           The disclosure document must contain a statement setting out the name and
                                address of the person who has custody of the global debenture.
 
  Document available            The disclosure document must contain statements to the effect that:
- on request                     on request, the registrar will issue to the debenture holder a document that sets
+ on request                    • on request, the registrar will issue to the debenture holder a document that sets
                                  out the debenture holder’s entry in the register of debenture holders; and
-                                any such document issued is not a certificate of title or an acknowledgement of
+                               • any such document issued is not a certificate of title or an acknowledgement of
                                  debt.
 
  Information about             Where a system of marked transfers operates, the disclosure document must also

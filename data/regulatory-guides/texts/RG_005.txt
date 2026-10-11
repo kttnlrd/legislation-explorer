@@ -11,15 +11,15 @@ March 2024
 About this guide
 This guide is for investors who acquire an interest in the securities of a
 company or managed investment scheme, and their advisers. It:
-    discusses the concept of a ‘relevant interest’ and various issues a
+•    discusses the concept of a ‘relevant interest’ and various issues a
      person must consider in determining whether they have a relevant
      interest in securities under the Corporations Act 2001
      (Corporations Act);
-    explains the requirement for a person to disclose the relevant interest in
+•    explains the requirement for a person to disclose the relevant interest in
      voting shares and voting interests that they and their associates have
      when they acquire or maintain a substantial holding in a listed company,
      body or managed investment scheme; and
-    outlines ASIC’s class order modifications to the relevant interest and
+•    outlines ASIC’s class order modifications to the relevant interest and
      substantial holding provisions.
                                                 REGULATORY GUIDE 5: Relevant interests and substantial holding notices
 
@@ -33,11 +33,11 @@ company or managed investment scheme, and their advisers. It:
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -50,7 +50,7 @@ company or managed investment scheme, and their advisers. It:
                              This guide was issued in March 2024 and is based on legislation and
                              regulations as at the date of issue.
                              Previous versions:
-                                    Superseded Regulatory Guide 5, issued June 2013, reissued
+                             •       Superseded Regulatory Guide 5, issued June 2013, reissued
                                      November 2013 and August 2020
 
 
@@ -251,9 +251,9 @@ Table 1:      Rights and obligations under the Corporations Act depending on a p
                                   prohibited under s606 unless they are made under a takeover bid, authorised
                                   under one of the other exceptions in s611, or the person’s voting power is
                                   already above 90%. This prohibition also applies to:
-                                   acquiring legal or equitable interests that result in another person’s voting
+                                  • acquiring legal or equitable interests that result in another person’s voting
                                     power increasing in the same way; and
-                                   offers or invitations that would result in a breach of s606 if accepted.
+                                  • offers or invitations that would result in a breach of s606 if accepted.
                                      Note: See Regulatory Guide 9 Takeover bids (RG 9) and RG 6.
 
  Post-bid         Pt 6A.1         The right of a bidder to compulsorily acquire remaining securities following a
@@ -852,7 +852,7 @@ managed investment scheme
 
               RG 5.47        This example assumes there are no cross-holdings, associate relationships
                              (other than through a corporate group), or practical control below 50% (other
-                             than where specified)however, in applying s608(3), all relevant
+                             than where specified)•however, in applying s608(3), all relevant
                              circumstances must be taken into account. For example, if Head Co Ltd had
                              effective control of B Ltd, even though it holds only a direct 25% stake, it
                              would have a relevant interest in D Ltd.
@@ -1162,20 +1162,20 @@ Table 4:     Exceptions to the relevant interest concept—Takeovers and disclos
 
  Exception            Situation not giving rise to a relevant interest                     Reference
 
- Warrant issuers       Put warrant issuers (including where securities are held           s609(6A)–(6F) (inserted by
+ Warrant issuers      • Put warrant issuers (including where securities are held           s609(6A)–(6F) (inserted by
  and trustees           in trust on certain terms to secure the holder’s                   ASIC Corporations (Warrants:
                         obligations);                                                      Relevant Interests and
-                       Call warrant issuers where securities are held in trust;           Associations) Instrument
+                      • Call warrant issuers where securities are held in trust;           Associations) Instrument
                         and                                                                2023/687); see also Section E
-                       Warrant trustees retaining certain limited discretions for
+                      • Warrant trustees retaining certain limited discretions for
                         the purpose of satisfying rights or obligations of the
                         issuer or holder
 
  ASIC                 Any relevant interest ASIC may have in securities, except            s609(14)–(16) (inserted by
                       where securities are vested in, or held by:                          ASIC Corporations (Relevant
-                       ASIC for and on behalf of the Commonwealth; or                     interests, ASIC and ASIC
+                      • ASIC for and on behalf of the Commonwealth; or                     interests, ASIC and ASIC
                                                                                            Chairperson) Instrument
-                       the Commonwealth on trust.
+                      • the Commonwealth on trust.
                                                                                            2023/194)
                       Any interest the chairperson of ASIC has by virtue of that
                       office merely because ASIC has a relevant interest
@@ -1230,11 +1230,11 @@ Table 4:     Exceptions to the relevant interest concept—Takeovers and disclos
  Exchange-traded      Relevant interests certain authorised participants of an        s609(19A)–(19E) (inserted by
  funds (ETFs)—        ETF have in securities forming part of the ETF as a result      Class Order [CO 13/721]
  acquisition and      of an acquisition and withdrawal facility where:                Relief to facilitate quotation of
- withdrawal            the investment strategy of the ETF is to track a              exchange traded funds on the
+ withdrawal           • the investment strategy of the ETF is to track a              exchange traded funds on the
  facilities             published index of securities that will not lead to any       AQUA Market)
                         security to which Ch 6 applies representing more than
                         10% (by value) of the ETF's assets; and
-                       the authorised participant has not made a withdrawal
+                      • the authorised participant has not made a withdrawal
                         request under the facility
 
  Exceptions applying for the purposes of the substantial holding requirements only
@@ -1780,7 +1780,7 @@ Associates
 
                                Relationship               Details
 
-                               Bodies corporate          A body corporate is an associate of another body
+                               Bodies corporate•          A body corporate is an associate of another body
                                control or common          corporate if it controls, or is controlled by, the other body
                                control: s12(2)(a)         corporate, or both bodies corporate are controlled by the
                                                           same entity (including a natural person).
@@ -2652,12 +2652,12 @@ Table 9:     Summary of ASIC’s relevant interest relief for quoted warrants un
 
  Trustee    Relevant interest arising from             Relief provided to disregard the relevant interest    RG 5.216–
             holding the securities on trust (or        in the trust securities, provided that:               RG 5.221
-            having lent securities held in trust)       discretions under the terms of the trust deed
+            having lent securities held in trust)      • discretions under the terms of the trust deed
             where, under the trust, the trustee          are limited to specified matters and exercised
             has certain discretions that may be          on ordinary commercial terms or like manner;
             exercised for the purposes of                or
             satisfying the rights or obligations
-                                                        the trustee is a bare trustee that cannot rely on
+                                                       • the trustee is a bare trustee that cannot rely on
             of the issuer or holder
                                                          s609(2).
 
@@ -2692,7 +2692,7 @@ Table 9:     Summary of ASIC’s relevant interest relief for quoted warrants un
  Trustee    Relevant interest arising from          Relief provided to disregard the relevant interest    RG 5.216–
             holding the securities on trust (or     in the trust securities, provided that:               RG 5.221
             having lent securities held on trust)
-                                                     discretions under the terms of the trust deed
+                                                    • discretions under the terms of the trust deed
             where, under the trust, the trustee
                                                       are limited to specified matters and exercised
             has certain discretions that may be
@@ -2700,7 +2700,7 @@ Table 9:     Summary of ASIC’s relevant interest relief for quoted warrants un
             exercised for the purposes of
                                                       or
             satisfying the rights or obligations
-            of the issuer or holder                  the trustee is a bare trustee that cannot rely on
+            of the issuer or holder                 • the trustee is a bare trustee that cannot rely on
                                                       s609(2).
 
 
@@ -3373,10 +3373,10 @@ Voluntary escrow arrangements
                                                  requirement as it applies to both a full and a proportional bid.
 
                                Duration          The escrow must terminate no later than:
-                                                  for an escrow arrangement with an underwriter or lead
+                                                 • for an escrow arrangement with an underwriter or lead
                                                    manager—one year after the date that the parties enter into
                                                    the voluntary escrow; or
-                                                  for an escrow arrangement with the company—two years after
+                                                 • for an escrow arrangement with the company—two years after
                                                    the date that the parties enter into the voluntary escrow
 
 
@@ -3395,11 +3395,11 @@ Voluntary escrow arrangements
                                                  Where the escrowed securities are beneficially held, the holder
                                                  may only transfer the escrowed securities to another holder
                                                  when:
-                                                  the transfer does not result in a change in the beneficial
+                                                 • the transfer does not result in a change in the beneficial
                                                    ownership of the escrowed securities;
-                                                  the transfer does not extend the duration of the escrow under
+                                                 • the transfer does not extend the duration of the escrow under
                                                    the escrow agreement; and
-                                                  the transferee agrees to inherit the same restrictions on voting
+                                                 • the transferee agrees to inherit the same restrictions on voting
                                                    and disposal as under the escrow agreement.
 
                                                  Transfers where there is an exercise of security interests
@@ -4026,9 +4026,9 @@ Table 11: Guidance on completing ASIC Form 603
                          In describing the nature of each relevant interest, give full rather than minimal or
                          technical disclosure. It is not sufficient to merely describe the legal provision giving rise
                          to the relevant interest. Include details of:
-                          any relevant agreement or circumstances by which the relevant interest was acquired;
+                         • any relevant agreement or circumstances by which the relevant interest was acquired;
                            and
-                          any qualification or limitation on any power to control or influence the voting or
+                         • any qualification or limitation on any power to control or influence the voting or
                            disposal of the relevant securities.
                          See RG 5.316–RG 5.319. Use an annexure if more room is required.
                          Under s671B(4), a copy of relevant agreements, or a statement giving full details of
@@ -4059,8 +4059,8 @@ Table 11: Guidance on completing ASIC Form 603
                          holder of that relevant interest having a right to become (if they are not already)
                          registered as the holder of the securities—for example, if the relevant interest arises
                          because shares or interests are:
-                          held by a custodian on trust; or
-                          acquired under an agreement that has not yet settled (including an on-market
+                         • held by a custodian on trust; or
+                         • acquired under an agreement that has not yet settled (including an on-market
                          purchase).
 
  Class and number        Set out the class (identified in paragraph 2) and the number of securities in which the
@@ -4087,11 +4087,11 @@ Table 11: Guidance on completing ASIC Form 603
                          should be named here.
 
                          Consider, for example, the following scenario:
-                          Hold Co controls two subsidiaries, each of which directly holds 3% of the voting
+                         • Hold Co controls two subsidiaries, each of which directly holds 3% of the voting
                            shares in a company;
-                          Early Subsidiary purchased its shares on 1 January;
-                          Late Subsidiary purchased its shares on 1 July; and
-                          Hold Co, Early Subsidiary and Late Subsidiary give a joint notice on 2 July.
+                         • Early Subsidiary purchased its shares on 1 January;
+                         • Late Subsidiary purchased its shares on 1 July; and
+                         • Hold Co, Early Subsidiary and Late Subsidiary give a joint notice on 2 July.
                          For the purposes of this paragraph, only details of the voting shares purchased by Late
                          Subsidiary need to be given. However, all three companies giving the notice will be a
                          ‘holder of relevant interest’ in relation to that parcel.

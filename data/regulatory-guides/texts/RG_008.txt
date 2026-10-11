@@ -26,11 +26,11 @@ ASIC’s administrative hearings.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -45,7 +45,7 @@ ASIC’s administrative hearings.
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded guide Hearings practice manual: The principles of, and
+                             •       Superseded guide Hearings practice manual: The principles of, and
                                      how we conduct, administrative hearings, issued 14 May 1998, reissued
                                      22 October 2000 and 7 March 2002, and rebranded as Regulatory
                                      Guide 8 on 5 July 2007.
@@ -304,16 +304,16 @@ Table 1:     Principles for administrative hearings
  1   The opportunity to       Generally you must have the opportunity to be heard before we make a decision
      be heard                 that may be adverse to your interests. This opportunity includes your right to
                               appear before ASIC and present your:
-                               submissions, either in writing or orally; and
-                               evidence that addresses the issues of significance or of concern to ASIC.
+                              • submissions, either in writing or orally; and
+                              • evidence that addresses the issues of significance or of concern to ASIC.
 
  2   Your entitlement to      You are entitled to:
-     a notice                  know the subject matter of the hearing and, in particular, the issues that are of
+     a notice                 • know the subject matter of the hearing and, in particular, the issues that are of
                                 concern to ASIC and for which there is a risk of ASIC making an adverse
                                 finding;
-                               know the circumstances that may cause ASIC to make a decision against you;
+                              • know the circumstances that may cause ASIC to make a decision against you;
                                 and
-                               have reasonable time to prepare your response.
+                              • have reasonable time to prepare your response.
 
  3   Your right to an         You have the right to have the decision made by a person who has an open mind
      impartial decision       on the decision that should be made.
@@ -1150,9 +1150,9 @@ Key terms
                               financial product           Generally, a facility through which, or through the
                                                           acquisition of which, a person does one or more of the
                                                           following:
-                                                           makes a financial investment (see s763B);
-                                                           manages financial risk (see s763C);
-                                                           makes non-cash payments (see s763D)
+                                                          • makes a financial investment (see s763B);
+                                                          • manages financial risk (see s763C);
+                                                          • makes non-cash payments (see s763D)
                                                             Note: See Div 3 of Pt 7.1 of the Corporations Act for the exact
                                                             definition. In addition to the general categories above, this
                                                             specifies certain things as being included or excluded from the

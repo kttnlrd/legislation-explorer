@@ -13,12 +13,12 @@ This is a guide to facilitate the use of email and the internet to make offers o
 securities under Ch 6D of the Corporations Act.
 
 This guide:
-    explains how we interpret the fundraising provisions in Ch 6D when
+•    explains how we interpret the fundraising provisions in Ch 6D when
      using electronic disclosure documents and electronic application forms,
      including the distribution of these documents by email and the internet;
-    describes the relief we have provided for personalised or Australian
+•    describes the relief we have provided for personalised or Australian
      financial services (AFS) licensee created application forms; and
-    sets out our ‘good practice guidance’ for using electronic disclosure
+•    sets out our ‘good practice guidance’ for using electronic disclosure
      documents and electronic application forms, including the distribution of
      these documents by email and the internet.
                                             REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
@@ -33,11 +33,11 @@ This guide:
                                   Consultation papers: seek feedback from stakeholders on matters ASIC
                                   is considering, such as proposed relief or proposed regulatory guidance.
                                   Regulatory guides: give guidance to regulated entities by:
-                                      explaining when and how ASIC will exercise specific powers under
+                                  •    explaining when and how ASIC will exercise specific powers under
                                        legislation (primarily the Corporations Act)
-                                      explaining how ASIC interprets the law
-                                      describing the principles underlying ASIC’s approach
-                                      giving practical guidance (e.g. describing the steps of a process such
+                                  •    explaining how ASIC interprets the law
+                                  •    describing the principles underlying ASIC’s approach
+                                  •    giving practical guidance (e.g. describing the steps of a process such
                                        as applying for a licence or giving practical examples of how
                                        regulated entities may decide to meet their obligations).
                                   Information sheets: provide concise guidance on a specific process or
@@ -52,9 +52,9 @@ This guide:
                               regulations as at the date of issue.
 
                               This guide replaces:
-                                     Superseded Policy Statement 107, issued September 1996, reissued
+                              •       Superseded Policy Statement 107, issued September 1996, reissued
                                       February 2000, rebadged as a regulatory guide on 5 July 2007
-                                     Superseded Policy Statement 150, issued February 2000, reissued July
+                              •       Superseded Policy Statement 150, issued February 2000, reissued July
                                       2000, rebadged as a regulatory guide on 5 July 2007
 
 
@@ -1068,13 +1068,13 @@ Table 3:     Requirements of the legislative instrument
                                   disclosure document lodged with ASIC: see s719(4) and (5) of the Corporations Act.
 
  Application form               The application form contains:
-                                 the following particulars of the offer and the disclosure document:
+                                • the following particulars of the offer and the disclosure document:
                                   − the identity of the issuer;
                                   − the nature of the securities being offered (e.g. ordinary shares or options);
                                   − the price of the securities;
                                   − the date of the disclosure document; and
                                   − the expiry date of the disclosure document; and
-                                 a prominent statement to the effect that:
+                                • a prominent statement to the effect that:
                                   − there is a disclosure document with information about investing in the
                                     securities; and
                                   − it is advisable to read the disclosure document before applying for the
@@ -1929,9 +1929,9 @@ Key terms
 
                                electronic application       Any application form for an offer of securities that is
                                form                         distributed and accessed in electronic format, including:
-                                                             an online or web-based application form, such as one
+                                                            • an online or web-based application form, such as one
                                                               that can be completed and submitted online; and
-                                                             an application form that is a digital copy of a paper form
+                                                            • an application form that is a digital copy of a paper form
                                                               that is able to be distributed, downloaded or viewed
                                                               electronically (e.g. by email or on an electronic device)
 
@@ -1949,9 +1949,9 @@ Key terms
                                electronic disclosure      Any disclosure document under Ch 6D of the
                                document                   Corporations Act that is distributed and accessed in
                                                           electronic format, including:
-                                                           an online or web-based disclosure document (which
+                                                          • an online or web-based disclosure document (which
                                                             may contain electronic content); and
-                                                           a disclosure document that is a digital copy of a paper
+                                                          • a disclosure document that is a digital copy of a paper
                                                             document that is able to be distributed, downloaded or
                                                             viewed electronic electronically (e.g. by email or on an
                                                             electronic device)

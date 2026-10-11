@@ -24,11 +24,11 @@ experts, public company directors and their professional advisers.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -46,7 +46,7 @@ experts, public company directors and their professional advisers.
                              guides in RG 76.150.
 
                              Previous versions:
-                                    Superseded Policy Statement 76, issued December 1993, updated
+                             •       Superseded Policy Statement 76, issued December 1993, updated
                                      January 1994, January 1995 and March 1997, and rebadged as a
                                      regulatory guide 5 July 2007
 
@@ -1230,10 +1230,10 @@ Table 2:     Content of related party meeting materials
 
                                For example, if an entity is acquiring a substantial interest in an asset from a related
                                party, it will be relevant and should be disclosed that:
-                                other entities within the same corporate group as the related party may also have
+                               • other entities within the same corporate group as the related party may also have
                                  an interest (either directly or indirectly) in that asset, and the nature of those
                                  interests; and
-                                ongoing management services on arm’s length terms in relation to the asset may be
+                               • ongoing management services on arm’s length terms in relation to the asset may be
                                  provided by another entity within the same corporate group as the related party.
 
  Nature of the financial       Complete details of the financial benefit to be given must be provided to members.
@@ -1242,12 +1242,12 @@ Table 2:     Content of related party meeting materials
 
                                For example, if options are to be granted to a director, we expect the following
                                information, at a minimum, to be disclosed:
-                                the number of options to be granted to the director;
-                                the terms of the options;
-                                an explanation as to why the options are to be granted, particularly where
+                               • the number of options to be granted to the director;
+                               • the terms of the options;
+                               • an explanation as to why the options are to be granted, particularly where
                                  alternative forms of remuneration or incentive may be required to be expensed by
                                  the entity in future years; and
-                                an explanation as to why the specified number of options is to be granted and why
+                               • an explanation as to why the specified number of options is to be granted and why
                                  the specified value of the options was chosen.
 
                                Entities should be careful to disclose the substantive effect of a transaction if
@@ -1269,8 +1269,8 @@ Table 2:     Content of related party meeting materials
 
  Directors’                    For each proposed related party resolution, each director of the company or
  recommendations:              responsible entity must either:
- s219(1)(c)                     make a recommendation about the resolution and state their reasons for it; or
-                                if they do not make a recommendation, state why they do not.
+ s219(1)(c)                    • make a recommendation about the resolution and state their reasons for it; or
+                               • if they do not make a recommendation, state why they do not.
 
                                If, for some reason, a director is not able to make either of these statements, they
                                must also state why this is the case. We consider that detailed reasons for director
@@ -1287,16 +1287,16 @@ Table 2:     Content of related party meeting materials
                                must be disclosed: s219(1)(c)(ii).
 
                                For example:
-                                if a proposal to issue options to a non-executive director will mean that a listed
+                               • if a proposal to issue options to a non-executive director will mean that a listed
                                  company will no longer comply with the ASX Corporate Governance Council’s
                                  Corporate governance principles and recommendations (2nd edn)—the reasons
                                  supporting the director’s recommendation should include an explanation of why
                                  the director considers this is appropriate, and a discussion of other relevant
                                  options;
-                                if a company’s reason for granting options to a director is as an incentive for future
+                               • if a company’s reason for granting options to a director is as an incentive for future
                                  performance but the options are in the money—the reasons should address how
                                  the director has reconciled these facts; and
-                                if a proposed related party transaction is chosen over other alternative
+                               • if a proposed related party transaction is chosen over other alternative
                                  transactions with non-related entities—the reasons for choosing the related party
                                  transaction over the alternatives (including not proceeding with the transaction)
                                  should be explained.
@@ -1329,7 +1329,7 @@ Table 2:     Content of related party meeting materials
 
                                To the extent that it may reasonably be required by members, information leading to
                                the conclusion that the arm’s length exception does not apply should be included in
-                               the explanatory statementfor example, where the amount of the financial benefit
+                               the explanatory statement•for example, where the amount of the financial benefit
                                paid to a related party under a service agreement is far in excess of market rates.
 
                                For transactions with multiple steps and approvals, entities should assess what
@@ -1340,9 +1340,9 @@ Table 2:     Content of related party meeting materials
                                contextual information that should be disclosed.
 
                                In preparing this information, the directors should keep in mind:
-                                in the case of companies, the general requirement that information included in a notice
+                               • in the case of companies, the general requirement that information included in a notice
                                  of meeting is presented in a clear, concise and effective manner (s249L(3)); and
-                                the obligations stated in a note at the end of s219—that is:
+                               • the obligations stated in a note at the end of s219—that is:
                                  ‘Sections 180 and 181 require an officer of a corporation to act honestly and to exercise care
                                  and diligence. These duties extend to preparing an explanatory statement under this section.
                                  Section 1309 creates offences where false and misleading material relating to a
@@ -1350,9 +1350,9 @@ Table 2:     Content of related party meeting materials
 
  Valuation of the              Meeting materials must adequately value the financial benefit, preferably in dollar
  financial benefit             terms. This is especially the case where:
-                                the financial benefit is the issue of shares, options or convertible notes or interests
+                               • the financial benefit is the issue of shares, options or convertible notes or interests
                                  in a registered scheme; or
-                                the financial benefit involves the sale or purchase of an asset, such as a mining
+                               • the financial benefit involves the sale or purchase of an asset, such as a mining
                                  tenement or an existing business.
 
                                An adequate valuation requires the basis of the valuation, and the principal
@@ -1476,8 +1476,8 @@ Expert reports
 
                              Significant transactions
 
-              RG 76.113      A transaction can be significant from the point of view of an entityso that
-                             an independent expert report may be necessary (see RG 76.105(b))for
+              RG 76.113      A transaction can be significant from the point of view of an entity•so that
+                             an independent expert report may be necessary (see RG 76.105(b))•for
                              reasons other than the dollar value involved. For example, a transaction may
                              be considered to be significant if it involves a change of business activities
                              or strategic direction, the replacement of the full board, substantial dilution
@@ -1679,7 +1679,7 @@ ASIC’s relief powers
                                    s601FE(1)(b).
 
                              Pro forma for relief
-              RG 76.137      Pro Forma 113 Related parties or associatesvoting (PF 113) sets out the
+              RG 76.137      Pro Forma 113 Related parties or associates•voting (PF 113) sets out the
                              form of relief we will grant under s224(4). There is no pro forma for the
                              relief we may grant under Ch 5C: see RG 76.134 and RG 76.136.
 

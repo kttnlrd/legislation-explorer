@@ -29,11 +29,11 @@ operation and granting exemptions where appropriate.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -48,7 +48,7 @@ operation and granting exemptions where appropriate.
                              regulations as at the date of issue.
 
                              Previous version:
-                                    Superseded Regulatory Guide 6, issued in June 2013 and reissued in
+                             •       Superseded Regulatory Guide 6, issued in June 2013 and reissued in
                                      October 2020
 
 
@@ -501,11 +501,11 @@ Table 1:     Summary of the exceptions to s606
  enforcement of                                  receiver and/or manager under an instrument
  security interests                              or agreement creating a security interest—
                                                  provided:
-                                                  the ordinary business of the person who took
+                                                 • the ordinary business of the person who took
                                                    the security interest, or for whose benefit the
                                                    security interest was taken, is the provision
                                                    of financial accommodation; and
-                                                  the security interest was taken in the
+                                                 • the security interest was taken in the
                                                    ordinary course of that business and on
                                                    ordinary commercial terms.
 
@@ -594,12 +594,12 @@ Table 2:    Summary of our guidance in this guide on the exceptions to the gener
  Rights issues               We discuss the rights issue exception in item 10 and our extension of     Section D
                              the exception to cover certain non-traditional rights issues. We also
                              discuss:
-                              when we may consider applying to the Takeovers Panel (or taking
+                             • when we may consider applying to the Takeovers Panel (or taking
                                other regulatory action) on the grounds that the terms, structure or
                                arrangements associated with a rights issue may give rise to
                                unacceptable circumstances;
-                              the case-by-case relief we may give for shortfall facilities; and
-                              the nominee procedure for foreign holders, including our relief
+                             • the case-by-case relief we may give for shortfall facilities; and
+                             • the nominee procedure for foreign holders, including our relief
                                clarifying which holders the procedure may apply to, our case-by-
                                case relief from the procedure for certain non-renounceable offers
                                and our approach to determining requests for ASIC approval of
@@ -608,10 +608,10 @@ Table 2:    Summary of our guidance in this guide on the exceptions to the gener
  Underwriting                We outline our views on the types of arrangements that constitute         Section E
                              underwriting for the purposes of the rights issue exceptions in items
                              10 and 10A and the exception in item 13. We also discuss:
-                              when underwriting arrangements may give rise to unacceptable
+                             • when underwriting arrangements may give rise to unacceptable
                                circumstances and may require approval under the related party
                                provisions in Ch 2E; and
-                              when we may give Ch 6 relief for underwriting a dividend
+                             • when we may give Ch 6 relief for underwriting a dividend
                                reinvestment plan.
 
  Acquisitions by brokers     We discuss the case-by-case relief we may provide for acquisitions by     Section F
@@ -1452,9 +1452,9 @@ Table 4:    Factors that may contribute to unacceptable circumstances in a right
                              ineffectual dispersion strategy, may contribute to unacceptable circumstances: see,
                              for example, MacarthurCook Property Securities Fund 01 & 02 [2012] ATP 7. A
                              dispersion strategy may include:
-                              a ‘shortfall facility’ under which holders can subscribe for securities not taken up
+                             • a ‘shortfall facility’ under which holders can subscribe for securities not taken up
                                by others; or
-                              a back-end book-build of the shortfall securities.
+                             • a back-end book-build of the shortfall securities.
                              These strategies may reduce the shortfall and any resulting effect on control
                              (including by reducing flow-through to an underwriter). If an effective dispersion
                              strategy is not implemented, this could suggest that the control effect of the rights
@@ -1467,13 +1467,13 @@ Table 4:    Factors that may contribute to unacceptable circumstances in a right
 
  Identity and business of    Aspects of an underwriting arrangement may contribute to the likelihood that the
  underwriter                 arrangement is designed to avoid Ch 6 or may have an unnecessary control effect if:
-                              the underwriter has not entered into the underwriting in the ordinary course of its
+                             • the underwriter has not entered into the underwriting in the ordinary course of its
                                business of underwriting;
-                              the issuer has not disclosed to holders the identities of sub-underwriters;
-                              there are associations between the underwriter or sub-underwriter and a controller
+                             • the issuer has not disclosed to holders the identities of sub-underwriters;
+                             • there are associations between the underwriter or sub-underwriter and a controller
                                or one or more substantial holders or a group of substantial holders;
-                              the underwriter or sub-underwriter is associated with the issuer’s directors; or
-                              the underwriter or sub-underwriter has some role in the making of the offer or
+                             • the underwriter or sub-underwriter is associated with the issuer’s directors; or
+                             • the underwriter or sub-underwriter has some role in the making of the offer or
                                some influence over the affairs of the issuer.
 
  Terms of underwriting       The terms of the underwriting arrangements may tend to support an inference that

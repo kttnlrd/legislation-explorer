@@ -11,10 +11,10 @@ September 2020
 
 About this guide
 This guide is for:
-    issuers of certain superannuation products;
-    issuers of managed investment products and operators of notified
+•    issuers of certain superannuation products;
+•    issuers of managed investment products and operators of notified
      foreign passport funds; and
-    platform operators that operate superannuation platforms, investor
+•    platform operators that operate superannuation platforms, investor
      directed portfolio services (IDPSs) and IDPS-like schemes.
 
 It explains how fees and costs should be disclosed in Product Disclosure
@@ -32,11 +32,11 @@ Guides and periodic statements.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -55,10 +55,10 @@ Guides and periodic statements.
                              amount separately.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 97, issued November 2011, reissued
+                             •       Superseded Regulatory Guide 97, issued November 2011, reissued
                                      November 2015, February 2017, March 2017 (transitional version of
                                      RG 97), November 2019 and July 2020
-                                    Superseded Enhanced fee disclosure regulations: Questions and
+                             •       Superseded Enhanced fee disclosure regulations: Questions and
                                      answers—An ASIC guide, issued March 2006, updated June 2006 and
                                      May 2007, rebadged as Regulatory Guide 97 Enhanced fee disclosure
                                      regulations: Questions and answers on 5 July 2007
@@ -245,8 +245,8 @@ Table 1:    Benefits of consistent and transparent disclosure in PDSs and period
 
  Consumers                   Fees and costs disclosure makes important information available to consumers. It
                              may help them to:
-                              compare products; and
-                              understand the fees and costs they are charged.
+                             • compare products; and
+                             • understand the fees and costs they are charged.
                              Fees and costs are particularly important for investments that a consumer will hold
                              for a long time (such as superannuation). This is because the effect of fees and
                              costs on an investment can be substantial and can compound over time.
@@ -258,8 +258,8 @@ Table 1:    Benefits of consistent and transparent disclosure in PDSs and period
 
  Market professionals        Financial advisers and other professionals can use the information you publicly
                              disclose to the market to:
-                              advise consumers; and
-                              analyse and benchmark the market.
+                             • advise consumers; and
+                             • analyse and benchmark the market.
 
 
 
@@ -575,9 +575,9 @@ Table 3:     When the requirements apply and our related guidance
  Periodic        For periodic statements (ongoing or on exit) for         You may elect to apply the updated
  statement       reporting periods that commence before 1 July            requirements if the periodic statement
                  2021, you must comply with [CO 14/1252]. The             is for a reporting period that:
-                 transitional version of RG 97 (released March 2017)       commences on or after 1 July 2020;
+                 transitional version of RG 97 (released March 2017)      • commences on or after 1 July 2020;
                  applies to these periodic statements.                      or
-                 For periodic statements (ongoing or on exit) for          ends on a day that is on or after
+                 For periodic statements (ongoing or on exit) for         • ends on a day that is on or after
                  reporting periods that commence on or after 1 July         1 July 2020 if the reporting period
                  2021, you must comply with ASIC Corporations               ends on the exit date because the
                  (Disclosure of Fees and Costs) Instrument                  holder of the product ceased to hold
@@ -3831,7 +3831,7 @@ Figure 16: Definition of an interposed vehicle
 
 
 
-                 The entity is an interposed vehicle                   The entity is not an interposed vehicle
+                P The entity is an interposed vehicle                  Î The entity is not an interposed vehicle
 
 Note: The information in this figure is described in RG 97.316 (accessible version).
 
@@ -3855,7 +3855,7 @@ Figure 17: Determining whether a product is invested in or through an entity
 
 
 
-                 Determine if the entity is an interposed                     The product is not invested in or
+                 Determine if the entity is an interposed                    Î The product is not invested in or
                   vehicle (see RG 97.313–RG 97.337)                             through an interposed vehicle
 
 
@@ -3924,7 +3924,7 @@ Figure 18: Is the entity a ‘platform’ under the ‘platform test’?
 
 
                                                                                  Apply the assets test (see
-               The entity is not an interposed vehicle                           RG 97.324–RG 97.329)
+               ÎThe entity is not an interposed vehicle                           RG 97.324–RG 97.329)
 
 
 Note: The information in this figure is described in RG 97.321–RG 97.322 (accessible version).
@@ -3973,7 +3973,7 @@ Figure 19: Does the entity meet the ‘assets test’?
 
 
 
-                 The entity is an interposed vehicle                    Apply the PDS test (see RG 97.330–RG 97.337)
+                P The entity is an interposed vehicle                    Apply the PDS test (see RG 97.330–RG 97.337)
 
 
 Note: The information in this figure is described in RG 97.324–RG 97.329 (accessible version).
@@ -4088,7 +4088,7 @@ Figure 20: Does the entity meet the first limb of the PDS test?
 
 
                                                                          Go to the second limb of the PDS test (see
-                  The entity is an interposed vehicle                             RG 97.334–RG 97.335)
+                 P The entity is an interposed vehicle                             RG 97.334–RG 97.335)
 
 Note: The information in this figure is described in RG 97.333 (accessible version).
 
@@ -4172,7 +4172,7 @@ Figure 21: Does the entity meet the second limb of the PDS test?
 
 
                                                                       Go to the third limb of the PDS test (see
-                The entity is an interposed vehicle
+               P The entity is an interposed vehicle
                                                                                RG 97.336–RG 97.337)
 
 
@@ -4251,7 +4251,7 @@ Figure 22: Does the entity meet the third limb of the PDS test?
                            NO                                                   YES
 
 
-       The entity is an interposed vehicle                 The entity is not an interposed vehicle
+      P The entity is an interposed vehicle                Î The entity is not an interposed vehicle
 Note: The information in this figure is described in RG 97.336–RG 97.337 (accessible version).
 
 
@@ -5637,9 +5637,9 @@ Key terms
                                                     financial product advice to clients that, because of the nature
                                                     of the benefit or the circumstances in which it is given, could
                                                     reasonably be expected to influence:
-                                                     the choice of financial product recommended to clients by
+                                                    • the choice of financial product recommended to clients by
                                                       the licensee or its representative; or
-                                                     the financial product advice given to clients by the licensee
+                                                    • the financial product advice given to clients by the licensee
                                                       or its representative.
 
                                                     In addition, the benefit must not be excluded from being
@@ -5712,19 +5712,19 @@ Key terms
 
                               financial product    A facility through which, or through the acquisition of which, a
                                                    person does one or more of the following:
-                                                    makes a financial investment (see s763B);
-                                                    manages financial risk (see s763C);
-                                                    makes non-cash payments (see s763D).
+                                                   • makes a financial investment (see s763B);
+                                                   • manages financial risk (see s763C);
+                                                   • makes non-cash payments (see s763D).
                                                      Note: This definition is contained in s763A of the Corporations Act:
                                                      see also s763B–765A.
 
                               financial product    A recommendation or a statement of opinion, or a report of
                               advice               either of these things, that:
-                                                    is intended to influence a person or persons in making a
+                                                   • is intended to influence a person or persons in making a
                                                      decision about a particular financial product or class of
                                                      financial product, or an interest in a particular financial
                                                      product or class of financial product; or
-                                                    could reasonably be regarded as being intended to have
+                                                   • could reasonably be regarded as being intended to have
                                                      such an influence.
 
                                                    This does not include anything in an exempt document or
@@ -5855,9 +5855,9 @@ Key terms
 
                               personal advice      Financial product advice given or directed to a person
                                                    (including by electronic means) in circumstances where:
-                                                    the person giving the advice has considered one or more of
+                                                   • the person giving the advice has considered one or more of
                                                      the person’s objectives, financial situation and needs; or
-                                                    a reasonable person might expect the person giving the
+                                                   • a reasonable person might expect the person giving the
                                                      advice to have considered one or more of these matters
                                                      Note: This definition is contained in s766B(3) of the Corporations
                                                      Act.

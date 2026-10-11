@@ -34,11 +34,11 @@ offered to retail investors.
                                Consultation papers: seek feedback from stakeholders on matters ASIC
                                is considering, such as proposed relief or proposed regulatory guidance.
                                Regulatory guides: give guidance to regulated entities by:
-                                   explaining when and how ASIC will exercise specific powers under
+                               •    explaining when and how ASIC will exercise specific powers under
                                     legislation (primarily the Corporations Act)
-                                   explaining how ASIC interprets the law
-                                   describing the principles underlying ASIC’s approach
-                                   giving practical guidance (e.g. describing the steps of a process such
+                               •    explaining how ASIC interprets the law
+                               •    describing the principles underlying ASIC’s approach
+                               •    giving practical guidance (e.g. describing the steps of a process such
                                     as applying for a licence or giving practical examples of how
                                     regulated entities may decide to meet their obligations).
                                Information sheets: provide concise guidance on a specific process or
@@ -53,7 +53,7 @@ offered to retail investors.
 
                              Previous version:
 
-                                  Superseded Regulatory Guide 45, issued 2 September 2008
+                             •     Superseded Regulatory Guide 45, issued 2 September 2008
 
 
                              Disclaimer
@@ -434,8 +434,8 @@ Table 2:    Advertising standards for mortgage schemes (whether listed or unlist
 
  Comparisons with bank       Advertisements should state that a mortgage scheme is not a bank deposit. They
  deposits and ‘risk-free’    should not suggest that:
- suggestions                  a mortgage scheme is, or compares favourably to, a bank deposit; or
-                              there is little or no risk of the investor losing their principal or not being repaid.
+ suggestions                 • a mortgage scheme is, or compares favourably to, a bank deposit; or
+                             • there is little or no risk of the investor losing their principal or not being repaid.
 
  Withdrawal periods,         Advertisements that refer to withdrawal periods, withdrawal rights or investment periods
  withdrawal rights and       should include details of any restrictions on withdrawals that might apply.
@@ -589,10 +589,10 @@ Table 3:     Risk features of unlisted mortgage schemes
  diversification     entities use to decide what         that an adverse event affecting one borrower or one type of
                      loans to make are variable and      loan will simultaneously affect the majority of borrowers, and
                      prone to risk, especially where:    therefore put the overall portfolio at greater risk.
-                      loan-to-valuation ratios are
+                     • loan-to-valuation ratios are
                        often much higher than for
                        traditional lending; and
-                      the loans made may be
+                     • the loans made may be
                        highly concentrated to
                        particular types of
                        commercial activities,
@@ -2680,8 +2680,8 @@ Key terms
 
                                benchmark                 A statement in relation to each benchmark that the
                                information               scheme either:
-                                                          meets the benchmark; or
-                                                          does not meet the benchmark and explains how and why
+                                                         • meets the benchmark; or
+                                                         • does not meet the benchmark and explains how and why
                                                            the responsible entity deals with the business factors or
                                                            issues underlying the benchmark in another way
 
@@ -2706,10 +2706,10 @@ Key terms
 
                                contributory mortgage      A mortgage scheme under which an investor invests in
                                scheme                     a single mortgage loan through:
-                                                           a general authority, where the investor receives a
+                                                          • a general authority, where the investor receives a
                                                             summary after the application is approved followed by
                                                             a cooling-off period; or
-                                                           a specific authority, where the investor receives
+                                                          • a specific authority, where the investor receives
                                                             a supplementary PDS before investing
 
                                Corporations Act           Corporations Act 2001, including regulations made for the

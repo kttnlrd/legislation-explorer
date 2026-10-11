@@ -32,11 +32,11 @@ debentures and notes may be described.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -61,7 +61,7 @@ debentures and notes may be described.
                              unsecured notes?.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 69, issued October 2007, reissued
+                             •       Superseded Regulatory Guide 69, issued October 2007, reissued
                                      August 2008 and June 2010
 
 
@@ -252,7 +252,7 @@ Benchmarks for unlisted notes
                              expect any advertising to support the use of these benchmarks: see RG 156.
 
               RG 69.8        Failing to meet one or more of these benchmarks does not mean that a
-                             particular note is necessarily a poor investmenthowever, additional
+                             particular note is necessarily a poor investment•however, additional
                              disclosure to investors will be needed to address that benchmark on an ‘if
                              not, why not’ basis so that investors can assess its impact on their investment
                              decision.
@@ -285,7 +285,7 @@ Table 2:     Benchmarks for unlisted notes
                                                          practices.
  benchmarks for
  property-related
-                        8 Lending principles            Benchmark 8 addresses the issuer’s property-related
+                        8 Lending principles•            Benchmark 8 addresses the issuer’s property-related
  notes
                           Loan-to-valuation ratios       practices.
 
@@ -311,7 +311,7 @@ Table 2:     Benchmarks for unlisted notes
 
 
 
-                             (b)   updated in ongoing disclosure as material changes occurfor example:
+                             (b)   updated in ongoing disclosure as material changes occur•for example:
                                    (i)    in a replacement prospectus, supplementary prospectus or
                                           continuous disclosure notice; and
                                    (ii)   at least twice a year, in quarterly reports to trustees; and
@@ -492,10 +492,10 @@ Table 3:     Common risk features of unlisted notes
  assessment and      what loans to make are extremely          is not diversified. Lack of diversification means there
  diversification     variable and prone to risk, especially    is greater risk that an adverse event affecting one
                      in the following key areas:               borrower or one type of loan will simultaneously affect
-                      loan-to-valuation ratios are often      the majority of borrowers, and therefore put the
+                     • loan-to-valuation ratios are often      the majority of borrowers, and therefore put the
                        much higher than for traditional        overall portfolio at risk.
                        lending; and
-                      the loans issuers make may be
+                     • the loans issuers make may be
                        highly concentrated to particular
                        types of assets, commercial
                        activities, locations or borrowers.
@@ -544,7 +544,7 @@ Table 3:     Common risk features of unlisted notes
                RG 69.26      Being unlisted also means that there is no market supervisor to:
                              (a)   initially assess and, if appropriate, admit the issuer’s securities to
                                    trading; and
-                             (b)   supervise the issuer’s ongoing compliance with any listing rulesin
+                             (b)   supervise the issuer’s ongoing compliance with any listing rules•in
                                    particular, a continuous disclosure regime.
 
                RG 69.27      The absence of a market listing exacerbates the risk that key new
@@ -1218,7 +1218,7 @@ Disclosure against the benchmarks: ‘If not, why not’
 
               RG 69.79       An issuer’s disclosures for Benchmarks 1, 2, 5, 6, 7 and 8 should also
                              explain the importance of each of these benchmarks to its business. We are
-                             not prescribing ‘boilerplate’ or standardised wordinghowever, we expect
+                             not prescribing ‘boilerplate’ or standardised wording•however, we expect
                              an issuer to closely base its disclosure on the material in Table 4, which is
                              adapted from our investor guide, Investing in unlisted debentures and
                              unsecured notes?
@@ -1246,8 +1246,8 @@ Table 4:     Explanation of benchmarks
  transactions                      same rigour and independence as transactions made on an arm’s-length
                                    commercial basis. There is a greater risk of the loans defaulting and, therefore,
                                    investors’ money is at greater risk if:
-                                    the issuer has a high number of loans to related parties; and
-                                    the assessment and approval process for these loans is not independent.
+                                   • the issuer has a high number of loans to related parties; and
+                                   • the assessment and approval process for these loans is not independent.
 
  Benchmark 7—Valuation             If the issuer does not include information about valuations in the prospectus, it
                                    will be more difficult for investors to assess how risky the investment is.
@@ -1287,7 +1287,7 @@ Table 4:     Explanation of benchmarks
                                     Note: We have produced an investor guide, Investing in unlisted debentures and
                                     unsecured notes?, to help investors understand and use the benchmarks and to promote
                                     informed decision making. We encourage an issuer to make the guide available to
-                                    investorsfor example, when distributing its prospectus. Copies of the investor guide
+                                    investors•for example, when distributing its prospectus. Copies of the investor guide
                                     are available at www.moneysmart.gov.au.
 
 
@@ -1863,7 +1863,7 @@ The categories of debentures
                              over ‘tangible property’.
 
               RG 69.131      We consider that ‘tangible property’ is property that has an actual physical
-                             existencefor example, goods and land. Tangible property is distinguished
+                             existence•for example, goods and land. Tangible property is distinguished
                              from intangible or incorporeal property such as choses in action (e.g. a
                              receivable). We consider that a security interest in favour of a trustee over a
                              loan receivable by an issuer, even if the issuer’s loan receivables are secured
@@ -2116,10 +2116,10 @@ Branding of products
               RG 69.145      We will not refuse lodgement of a prospectus which, in addition to using the
                              description prescribed in s283BH, also describes the product in another way,
                              provided that:
-                             (a)   the description used is not false or misleadingfor example, the
+                             (a)   the description used is not false or misleading•for example, the
                                    description of an unsecured note or an unsecured deposit note must not
                                    include the terms set out in items 1, 2 or 2A of s283BH(1);
-                             (b)   the description does not result in an omission from the prospectusfor
+                             (b)   the description does not result in an omission from the prospectus•for
                                    example, by being a half-truth; and
 
 
@@ -2132,7 +2132,7 @@ Branding of products
 
 
                              (c)   the prospectus clearly and prominently characterises the notes using the
-                                   description prescribed by s283BHfor example, as an unsecured note
+                                   description prescribed by s283BH•for example, as an unsecured note
                                    or an unsecured deposit note.
 
                                    Note: Issuers should comply with the advertising standards described in RG 156.

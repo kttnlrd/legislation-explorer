@@ -13,13 +13,13 @@ This guide sets out our approach to regulating horse breeding schemes and
 horse racing syndicates under the Corporations Act 2001 (Corporations Act).
 
 It explains:
-    our general approach to regulating certain small-scale horse breeding
+•    our general approach to regulating certain small-scale horse breeding
      schemes and horse racing syndicates;
-    the relief we give for certain types of horse breeding schemes and
+•    the relief we give for certain types of horse breeding schemes and
      horse racing syndicates from the managed investment, Australian
      financial services (AFS) licensing and product disclosure provisions of
      the Corporations Act; and
-    our approach to the co-regulatory arrangements between ASIC and
+•    our approach to the co-regulatory arrangements between ASIC and
      lead regulators for certain types of horse racing syndicates.
                                            REGULATORY GUIDE 91: Horse breeding schemes and horse racing syndicates
 
@@ -33,11 +33,11 @@ It explains:
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -51,9 +51,9 @@ It explains:
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 91, issued July 2007, reissued June
+                             •       Superseded Regulatory Guide 91, issued July 2007, reissued June
                                      2012
-                                    Superseded Policy Statement 20 Horse racing schemes, issued
+                             •       Superseded Policy Statement 20 Horse racing schemes, issued
                                      26 February 1996 and Superseded Policy Statement 91 Horse breeding
                                      schemes, issued September 1997
 
@@ -806,12 +806,12 @@ Table 3:     Conditions of relief—Managers of a horse racing syndicate
  Condition                   Description of condition
 
  Maintaining records         The manager must:
-                              keep certain accounting records;
-                              lodge the accounts for the syndicate with the lead regulator within 90 days after
+                             • keep certain accounting records;
+                             • lodge the accounts for the syndicate with the lead regulator within 90 days after
                                the end of each financial year;
-                              lodge a copy of the accounts for the syndicate with ASIC within 14 days after
+                             • lodge a copy of the accounts for the syndicate with ASIC within 14 days after
                                receiving a written request from ASIC; and
-                              have a separate account for depositing and paying all money relating to the
+                             • have a separate account for depositing and paying all money relating to the
                                operation of the syndicate.
 
  Managing established        The manager must manage the scheme in accordance with the syndicate
@@ -827,9 +827,9 @@ Table 4:     Conditions of relief—Promoters of a horse racing syndicate
 
  Setting up new              Before or on registration of the syndicate with the lead regulator, the promoter must
  schemes                     ensure that either:
-                              the members of the syndicate have unencumbered title to the whole of the
+                             • the members of the syndicate have unencumbered title to the whole of the
                                syndicate horses; or
-                              the members of the syndicate lease the whole of the syndicate horses under a
+                             • the members of the syndicate lease the whole of the syndicate horses under a
                                finance lease agreement in standard form approved by the lead regulator.
 
                              The promoter must not advertise horse racing syndicate interests or publish any
@@ -837,8 +837,8 @@ Table 4:     Conditions of relief—Promoters of a horse racing syndicate
                              without the prior approval of the lead regulator.
 
                              The promoter must:
-                              give a PDS only if it has been approved by the lead regulator; and
-                              if it is not the manager of the syndicate, state in any PDS that the manager will be
+                             • give a PDS only if it has been approved by the lead regulator; and
+                             • if it is not the manager of the syndicate, state in any PDS that the manager will be
                                required to manage the syndicate in accordance with the terms of any agreement
                                governing the syndicate approved by the lead regulator and any rules, regulations
                                or guidelines made by the lead regulator in respect of such manager or
@@ -857,30 +857,30 @@ Table 4:     Conditions of relief—Promoters of a horse racing syndicate
 
  Maintaining records         The promoter must promptly provide the lead regulator with a copy of each of the
                              following:
-                              the syndicate agreement and any changes to the syndicate agreement;
-                              any finance lease agreement and any changes to the finance lease agreement;
-                              any other agreement, and any changes to such an agreement, establishing or
+                             • the syndicate agreement and any changes to the syndicate agreement;
+                             • any finance lease agreement and any changes to the finance lease agreement;
+                             • any other agreement, and any changes to such an agreement, establishing or
                                affecting the syndicate;
-                              any other agreement, and any changes to such an agreement, that relates to the
+                             • any other agreement, and any changes to such an agreement, that relates to the
                                syndicate and to which a member of the syndicate is a party;
-                              each PDS for a syndicate;
-                              any other information to be provided by the promoter to an offeree in relation to
+                             • each PDS for a syndicate;
+                             • any other information to be provided by the promoter to an offeree in relation to
                                the syndicate, before providing the information to the offeree;
-                              any advertisement for interests in the syndicate; and
-                              any finance lease agreement and any changes to the finance lease agreement.
+                             • any advertisement for interests in the syndicate; and
+                             • any finance lease agreement and any changes to the finance lease agreement.
                              Within 45 days of the syndicate being fully subscribed, the promoter must register
                              the syndicate with the lead regulator.
 
  Managing established        The promoter must:
- schemes                      provide any assistance or information reasonably required by the lead regulator;
-                              not engage in acts or omissions in relation to the horse racing syndicate unless
+ schemes                     • provide any assistance or information reasonably required by the lead regulator;
+                             • not engage in acts or omissions in relation to the horse racing syndicate unless
                                the promoter reasonably believes those acts or omissions are in compliance with
                                any rules, regulations or guidelines made by the lead regulator that apply to the
                                promoter in relation to the horse racing syndicate;
-                              comply with any rules, regulations or guidelines made by the lead regulator to
+                             • comply with any rules, regulations or guidelines made by the lead regulator to
                                ensure the syndicate is honestly, efficiently and fairly operated;
-                              provide any assistance or information reasonably required by ASIC; and
-                              comply with the requirement to give periodic reports to members of a syndicate
+                             • provide any assistance or information reasonably required by ASIC; and
+                             • comply with the requirement to give periodic reports to members of a syndicate
                                under s1017D as if interests in the syndicate were a managed investment
                                product.
 
@@ -976,11 +976,11 @@ Table 5:     Transitional arrangements
  Provision of                To the extent that [CO 02/319] required a promoter to provide specific documents to
  documents                   the lead regulator, these documents do not have to be provided to the lead
                              regulator again. These documents are:
-                              the syndicate agreement;
-                              any changes to the syndicate agreement;
-                              any finance lease agreement;
-                              any changes to the finance lease agreement; and
-                              any other agreement that establishes or affects the syndicate and any changes to
+                             • the syndicate agreement;
+                             • any changes to the syndicate agreement;
+                             • any finance lease agreement;
+                             • any changes to the finance lease agreement; and
+                             • any other agreement that establishes or affects the syndicate and any changes to
                                such an agreement.
 
                              This exemption is based on the documents or information, which the promoter
@@ -1069,14 +1069,14 @@ Key terms
                                                          of the scheme
 
                                lead regulator            A body that:
-                                                          is responsible for the administration of horse racing in
+                                                         • is responsible for the administration of horse racing in
                                                            an Australian state or territory;
-                                                          has entered into a memorandum of understanding with
+                                                         • has entered into a memorandum of understanding with
                                                            ASIC that satisfies the mandatory content requirements
                                                            for a memorandum of understanding under ASIC
                                                            Corporations (Horse Schemes) Instrument 2016/790;
                                                            and
-                                                          has been notified by ASIC in writing is approved as a
+                                                         • has been notified by ASIC in writing is approved as a
                                                            lead regulator for the purposes of ASIC Corporations
                                                            (Horse Schemes) Instrument 2016/790
 
@@ -1095,9 +1095,9 @@ Key terms
                                Term                      Meaning in this document
 
                                manager                   For a horse racing syndicate, means the person:
-                                                          appointed as manager from time to time in accordance
+                                                         • appointed as manager from time to time in accordance
                                                            with the syndicate agreement; or
-                                                          otherwise appointed as manager of the syndicate from
+                                                         • otherwise appointed as manager of the syndicate from
                                                            time to time with the approval of the lead regulator.
                                                          For a private stallion scheme, means the person named
                                                          as manager in the stallion scheme agreement

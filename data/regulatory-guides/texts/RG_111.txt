@@ -25,11 +25,11 @@ can help security holders make informed decisions about transactions.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -44,7 +44,7 @@ can help security holders make informed decisions about transactions.
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 111, issued October 2007, reissued
+                             •       Superseded Regulatory Guide 111, issued October 2007, reissued
                                      March 2011
 
 
@@ -162,26 +162,26 @@ Table 1:     Examples of transactions for which entities commission an independe
 
  Transaction                               Circumstances
 
- Takeover bids                              The target must commission an expert report when the bidder’s
+ Takeover bids                             • The target must commission an expert report when the bidder’s
                                              voting power in the target is at least 30% of the target or when the
                                              bidder and the target have common directors: s640.
-                                            The bidder must commission an expert report when the
+                                           • The bidder must commission an expert report when the
                                              consideration paid by the bidder for acquiring a pre-bid stake
                                              includes unquoted securities: s636(1)(h)(iii) and 636(2).
-                                            Targets often commission expert reports to assist security holders,
+                                           • Targets often commission expert reports to assist security holders,
                                              even if there is no requirement to do so.
-                                            In joint bids the bidders must use their best endeavours to have the
+                                           • In joint bids the bidders must use their best endeavours to have the
                                              target engage an independent expert to prepare a report on whether
                                              the joint bid is fair and reasonable to target shareholders who are not
                                              associates of the bidders: see Table 9 in Regulatory Guide 9
                                              Takeover bids (RG 9) and RG 9.649.
 
- Schemes of arrangement                     The scheme company must commission an expert report when the
+ Schemes of arrangement                    • The scheme company must commission an expert report when the
                                              other party to the scheme holds at least 30% of the voting shares of
                                              the scheme company or when they have common directors: reg 5.1.01
                                              and Sch 8, cls 8303 and 8306 of the Corporations Regulations 2001
                                              (Corporations Regulations).
-                                            Scheme companies often commission an expert report when
+                                           • Scheme companies often commission an expert report when
                                              transactions are complex or effect a takeover.
 
  Compulsory acquisitions or buy-outs       The bidder in a compulsory acquisition must commission an expert
@@ -224,10 +224,10 @@ Table 1:     Examples of transactions for which entities commission an independe
 
  Share transfers under s444GA              Share transfers under s444GA that require relief from s606 will
                                            generally require an expert report to help:
-                                            ASIC in determining whether to grant relief from s606;
-                                            members, creditors, interested persons and ASIC in their decision to
+                                           • ASIC in determining whether to grant relief from s606;
+                                           • members, creditors, interested persons and ASIC in their decision to
                                              oppose leave of the court; and
-                                            the court in its decision to grant leave.
+                                           • the court in its decision to grant leave.
 
 
 
@@ -1319,25 +1319,25 @@ Clear, concise and effective communication
 Table 2:     Examples of information that an expert might consider putting in and leaving out of
              a concise expert report
 
- Include in the concise expert         Expert’s conclusion
- report                                Meaning of conclusion and significance for the decision to be made
-                                       Summary of reasons for conclusion
-                                       Summary of valuation including:
+ Include in the concise expert        • Expert’s conclusion
+ report                               • Meaning of conclusion and significance for the decision to be made
+                                      • Summary of reasons for conclusion
+                                      • Summary of valuation including:
                                          − methodologies used;
                                          − material assumptions; and
                                          − a justification of these
-                                       Financial Services Guide
+                                      • Financial Services Guide
 
- Leave out of the concise              Industry overview
- expert report                         Disclaimers
-                                       Detailed financial information
-                                       Detailed profile of parties to the transaction
-                                       Qualifications, declarations (e.g. indemnities) and consents
-                                       Detailed share price analysis
-                                       Details of capital structure (e.g. shareholder spread and directors’
+ Leave out of the concise             • Industry overview
+ expert report                        • Disclaimers
+                                      • Detailed financial information
+                                      • Detailed profile of parties to the transaction
+                                      • Qualifications, declarations (e.g. indemnities) and consents
+                                      • Detailed share price analysis
+                                      • Details of capital structure (e.g. shareholder spread and directors’
                                         relevant interests if not linked to the expert’s analysis)
-                                       List of previous ASX announcements
-                                       List of sources of information
+                                      • List of previous ASX announcements
+                                      • List of sources of information
 
 
 

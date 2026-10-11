@@ -27,11 +27,11 @@ under s912A(1) of the Corporations Act.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -47,9 +47,9 @@ under s912A(1) of the Corporations Act.
                              reflect changes to RG 1 and related guidance.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 105 AFS licensing: Organisational
+                             •       Superseded Regulatory Guide 105 AFS licensing: Organisational
                                      competence, issued April 2020
-                                    Superseded Regulatory Guide 105 Licensing: Organisational
+                             •       Superseded Regulatory Guide 105 Licensing: Organisational
                                      competence, issued October 2007, reissued December 2016
 
                              This guide replaced Section E of Regulatory Guide 164 Licensing:
@@ -1759,9 +1759,9 @@ Key terms
                                financial product           Generally, a facility through which, or through the
                                                            acquisition of which, a person does one or more of the
                                                            following:
-                                                            makes a financial investment (see s763B);
-                                                            manages financial risk (see s763C);
-                                                            makes non-cash payments (see s763D)
+                                                           • makes a financial investment (see s763B);
+                                                           • manages financial risk (see s763C);
+                                                           • makes non-cash payments (see s763D)
                                                                Note: See Div 3 of Pt 7.1 of the Corporations Act for the exact
                                                                definition. In addition to the general categories above, this
                                                                specifies certain things as being included or excluded from the
@@ -1769,11 +1769,11 @@ Key terms
 
                                financial product advice    A recommendation or a statement of opinion, or a report
                                                            of either of these things, that:
-                                                            is intended to influence a person or persons in making
+                                                           • is intended to influence a person or persons in making
                                                              a decision about a particular financial product or class
                                                              of financial product, or an interest in a particular
                                                              financial product or class of financial product; or
-                                                            could reasonably be regarded as being intended to
+                                                           • could reasonably be regarded as being intended to
                                                              have such an influence.
 
                                                            This does not include anything in an exempt document or
@@ -1823,10 +1823,10 @@ Key terms
 
                                personal advice             Financial product advice given or directed to a person
                                                            (including by electronic means) in circumstances where:
-                                                            the provider of the advice has considered one or more
+                                                           • the provider of the advice has considered one or more
                                                              of the client’s objectives, financial situation and needs;
                                                              or
-                                                            a reasonable person might expect the provider to have
+                                                           • a reasonable person might expect the provider to have
                                                              considered one or more of these matters
                                                                Note: This is the definition contained in s766B(3) of the
                                                                Corporations Act.

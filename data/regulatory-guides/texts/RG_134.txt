@@ -27,11 +27,11 @@ constitutions of registered schemes, CCIVs and Australian passport funds.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -47,7 +47,7 @@ constitutions of registered schemes, CCIVs and Australian passport funds.
                              to RG 134.27(b) and Note to RG 134.266.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 134, issued August 1998, updated
+                             •       Superseded Regulatory Guide 134, issued August 1998, updated
                                      November 1998, June 1999 and September 2000, reissued June 2013,
                                      February 2014, October 2015, July 2018 and October 2022
 
@@ -3491,9 +3491,9 @@ Key terms
 
                              ADI                       An authorised deposit-taking institution—a corporation that
                                                        is authorised under the Banking Act 1959. ADIs include:
-                                                        banks;
-                                                        building societies; and
-                                                        credit unions
+                                                       • banks;
+                                                       • building societies; and
+                                                       • credit unions
 
                              AFCA                      Australian Financial Complaints Authority—the external
                                                        dispute resolution scheme for which an authorisation under
@@ -3563,18 +3563,18 @@ Key terms
 
                              exchange traded fund      A registered scheme, the name of which does not contain
                                                        the expression ‘managed fund’ or ‘hedge fund’, where:
-                                                        interests in the scheme are in a class that is able to be
+                                                       • interests in the scheme are in a class that is able to be
                                                          traded on a financial market operated by ASX or Cboe
                                                          but the scheme is not listed on either of those markets;
-                                                        the responsible entity has the power and approval to
+                                                       • the responsible entity has the power and approval to
                                                          issue interests in that class on any day that those
                                                          interests are able to be traded on the relevant financial
                                                          market;
-                                                        the responsible entity allows applications for and
+                                                       • the responsible entity allows applications for and
                                                          redemptions of interests in that class on any day that
                                                          those interests are able to be traded on the relevant
                                                          financial market; and
-                                                        the price or value of any financial product, index,
+                                                       • the price or value of any financial product, index,
                                                          currency, commodity or other thing that the scheme
                                                          invests in or tracks is continuously disclosed or can be
                                                          immediately ascertained
@@ -3588,9 +3588,9 @@ Key terms
 
                              host economy              A participating economy that is not a passport fund’s home
                                                        economy and either:
-                                                        permits the fund to offer interests in the fund in that
+                                                       • permits the fund to offer interests in the fund in that
                                                          economy under the Asia Region Funds Passport; or
-                                                        has accepted an application from the fund to offer
+                                                       • has accepted an application from the fund to offer
                                                          interests in the fund in that economy under the Asia
                                                          Region Funds Passport (but not to register the fund as a
                                                          passport fund in that economy)
@@ -3617,18 +3617,18 @@ Key terms
 
                              managed fund              A registered scheme, the name of which contains the
                                                        expression ‘managed fund’ or ‘hedge fund’, where:
-                                                        interests in the scheme are in a class that is able to be
+                                                       • interests in the scheme are in a class that is able to be
                                                          traded on a financial market operated by ASX or Cboe,
                                                          but the scheme is not listed on either of those markets;
-                                                        the responsible entity has the power and approval to
+                                                       • the responsible entity has the power and approval to
                                                          issue interests in that class on any day that those
                                                          interests are able to be traded on the relevant financial
                                                          market;
-                                                        the responsible entity allows applications for and
+                                                       • the responsible entity allows applications for and
                                                          redemptions of interests in that class on any day that
                                                          those interests are able to be traded on the relevant
                                                          financial market; and
-                                                        the price or value of any financial product, index,
+                                                       • the price or value of any financial product, index,
                                                          currency, commodity or other thing that the scheme
                                                          invests in or tracks is continuously disclosed or can be
                                                          immediately ascertained
@@ -3649,10 +3649,10 @@ Key terms
 
                              participating economy     An economy that is a participant under the Memorandum of
                                                        Cooperation (while it is in effect) and has:
-                                                        advised the Asia Region Funds Passport Joint
+                                                       • advised the Asia Region Funds Passport Joint
                                                          Committee that it has implemented the Asia Region
                                                          Funds Passport; and
-                                                        not withdrawn from the Memorandum of Cooperation
+                                                       • not withdrawn from the Memorandum of Cooperation
 
                              passport fund             A regulated collective investment scheme, or sub-fund of a
                                                        regulated collective investment scheme, registered as a

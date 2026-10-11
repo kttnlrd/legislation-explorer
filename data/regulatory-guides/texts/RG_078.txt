@@ -29,11 +29,11 @@ and Div 5 of Pt 2-2 of the National Consumer Credit Protection Act 2009
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -54,10 +54,10 @@ and Div 5 of Pt 2-2 of the National Consumer Credit Protection Act 2009
                              Guide 34 Auditor obligations: Reporting to ASIC (RG 34).
 
                              Previous versions:
-                                    Superseded Regulatory Guide 78, issued September 2008, reissued
+                             •       Superseded Regulatory Guide 78, issued September 2008, reissued
                                      February 2014, March 2020, September 2021, April 2023, August 2025;
                                      and
-                                    Superseded Breach reporting by AFS licensees: An ASIC guide, issued
+                             •       Superseded Breach reporting by AFS licensees: An ASIC guide, issued
                                      October 2004, reissued May 2006, and known in the ASIC Digest as
                                      [SGD 190]; rebadged as a regulatory guide 5 July 2007.
 
@@ -438,28 +438,28 @@ Table 1:    Types of reportable situations
  Type of situation          Description                                                 Guidance and examples
 
  Breaches or ‘likely        These situations include:                                   See RG 78.29–RG 78.47
- breaches’ of core           any breach of a ‘core obligation’ where the breach          Note: For guidance on
+ breaches’ of core          • any breach of a ‘core obligation’ where the breach          Note: For guidance on
  obligations that are         is significant; and                                         determining whether or not
  significant                                                                              a breach is significant, see
-                             any ‘likely breach’ of a ‘core obligation’ where the        RG 78.31–RG 78.47.
+                            • any ‘likely breach’ of a ‘core obligation’ where the        RG 78.31–RG 78.47.
                               licensee or a representative of the licensee is no
                               longer able to comply with a core obligation and the
                               breach, if it occurs, will be significant.
 
  Investigations into        These situations include:                                   See RG 78.48–RG 78.62
- breaches or likely          investigations that continue for more than 60 days          Note: For guidance on
+ breaches or likely         • investigations that continue for more than 60 days          Note: For guidance on
  breaches of core             into whether there is a breach or likely breach of a        determining whether or not
  obligations that are                                                                     a breach is significant, see
                               core obligation that is significant; and                    RG 78.31–RG 78.47.
  significant
-                             the outcome of such an investigation if it discloses
+                            • the outcome of such an investigation if it discloses
                               there is no breach or likely breach of a core
                               obligation that is significant.
 
  Additional reportable      These situations include:                                   See RG 78.63–RG 78.67
- situations                  conduct constituting gross negligence;
-                             conduct constituting serious fraud; and
-                             other circumstances prescribed by the regulations.
+ situations                 • conduct constituting gross negligence;
+                            • conduct constituting serious fraud; and
+                            • other circumstances prescribed by the regulations.
 
  Reportable situations      These situations relate to conduct in certain               See RG 78.68–RG 78.82
  about other licensees      prescribed circumstances of financial advisers and
@@ -861,12 +861,12 @@ Table 2:    Examples of deemed significant breaches
                                       loss or damage.
                                       The breach may need to be reported to ASIC when the loss or damage to the
                                       debtor is material given:
-                                       the value of the goods surrendered;
-                                       the length of any delay in the sale of the goods to a purchaser nominated
+                                      • the value of the goods surrendered;
+                                      • the length of any delay in the sale of the goods to a purchaser nominated
                                         by the debtor (or, where a purchaser is not nominated by the debtor, the
                                         difference between the amount the goods are sold for and the best price
                                         that could have been reasonably obtained); and
-                                       the financial situation of the debtor.
+                                      • the financial situation of the debtor.
 
                                       Material loss or damage to consumer credit insurance clients
 
@@ -1076,13 +1076,13 @@ Table 3:    Factors that determine whether a breach (or likely breach) is ‘sig
 
                                 It would also amount to a deemed significant breach, as the following sections are
                                 civil penalty provisions:
-                                 s912A(1)(d) of the Corporations Act (obligation to have adequate resources to
+                                • s912A(1)(d) of the Corporations Act (obligation to have adequate resources to
                                   provide financial services covered by your licence);
-                                 s912A(1)(h) of the Corporations Act (obligation to have adequate risk
+                                • s912A(1)(h) of the Corporations Act (obligation to have adequate risk
                                   management systems);
-                                 s47(1)(k) of the National Credit Act (obligation to have adequate arrangements
+                                • s47(1)(k) of the National Credit Act (obligation to have adequate arrangements
                                   to ensure compliance with the general obligations under s47); and
-                                 s47(1)(l) of the National Credit Act (obligation to have adequate risk
+                                • s47(1)(l) of the National Credit Act (obligation to have adequate risk
                                   management systems and adequate resources to provide credit activities
                                   covered by your licence).
 
@@ -1292,10 +1292,10 @@ What is a reportable investigation?
                                    whether there has been some information gathering or human effort applied
                                    by the licensee to determine whether a breach has occurred or will occur.
                                    Examples of information gathering may include:
-                                    communicating with representatives or staff of the licensee who may
+                                   • communicating with representatives or staff of the licensee who may
                                      have been involved in the relevant conduct;
-                                    communicating with potentially affected clients; or
-                                    seeking specialist or technical advice.
+                                   • communicating with potentially affected clients; or
+                                   • seeking specialist or technical advice.
 
                                    Note: See Explanatory Memorandum, paragraphs 11.43–11.44.
 
@@ -1439,10 +1439,10 @@ Table 6:    Examples of investigations that are reportable situations
                                The licensee undertakes a detailed review of Adviser X’s client files to further
                                investigate the concerns identified in the compliance audit, including whether there
                                was a potential breach of:
-                                the licensee’s obligation under s961L of the Corporations Act to take all
+                               • the licensee’s obligation under s961L of the Corporations Act to take all
                                  reasonable steps to ensure that during the relevant period its representative,
                                  Adviser X, has complied with the best interests duty and related obligations; and
-                                the licensee’s core obligations to:
+                               • the licensee’s core obligations to:
                                  − do all things necessary to ensure that the financial services covered under its
                                    licence are provided efficiently, honestly and fairly;
                                  − comply with the financial services laws (being s961L in this example); and
@@ -2338,9 +2338,9 @@ Table 8:     Overview of content of the reportable situation prescribed form
  What to include               Description of content
 
  Date of the reportable        You must include:
- situation                      the date that the reportable situation arose or the date you anticipate that you
+ situation                     • the date that the reportable situation arose or the date you anticipate that you
                                  will no longer be able to comply with your obligations; and
-                                the date you first knew that there were reasonable grounds to believe that a
+                               • the date you first knew that there were reasonable grounds to believe that a
                                  reportable situation had arisen.
                                     Note 1: If there is a reportable situation, you must report it to ASIC within the reporting
                                     period from the date you first know that, or are reckless with respect to whether, there are
@@ -2352,15 +2352,15 @@ Table 8:     Overview of content of the reportable situation prescribed form
 
 
  Nature of the reportable      You must state whether the report relates to:
- situation                      a significant breach of a core obligation;
-                                a likely significant breach of a core obligation;
-                                an additional reportable situation (serious fraud or gross negligence);
-                                an investigation into whether a breach (or likely breach) of a core obligation has
+ situation                     • a significant breach of a core obligation;
+                               • a likely significant breach of a core obligation;
+                               • an additional reportable situation (serious fraud or gross negligence);
+                               • an investigation into whether a breach (or likely breach) of a core obligation has
                                  occurred that has continued for more than 30 days;
-                                an investigation into whether a breach (or likely breach) of a core obligation has
+                               • an investigation into whether a breach (or likely breach) of a core obligation has
                                  occurred that has continued for more than 30 days that discloses that no
                                  reportable situation has occurred; or
-                                a reportable situation about another licensee.
+                               • a reportable situation about another licensee.
 
  Description of the            You must describe the reportable situation, including the section of the relevant law
  reportable situation          that sets out the relevant obligation, including any relevant financial services law or
@@ -2375,8 +2375,8 @@ Table 8:     Overview of content of the reportable situation prescribed form
 
  Why the breach is             When relevant, you must identify why the breach is significant. This may involve
  significant (if relevant)     identifying:
-                                that the reportable situation relates to a deemed significant breach; or
-                                the factors in s912D(5) of the Corporations Act or s50A(5) of the National Credit
+                               • that the reportable situation relates to a deemed significant breach; or
+                               • the factors in s912D(5) of the Corporations Act or s50A(5) of the National Credit
                                  Act that you consider apply in determining whether the breach (or likely breach)
                                  is significant and required to be reported to ASIC.
 
@@ -2399,15 +2399,15 @@ Table 8:     Overview of content of the reportable situation prescribed form
  lasted                       continuing.
 
  Information about            If an authorised representative or credit representative is involved, you must include:
- representatives               that representative’s name and number;
-                               if the representative’s authorisation has been revoked or suspended; and
-                               if the representative’s work is being monitored or supervised.
+ representatives              • that representative’s name and number;
+                              • if the representative’s authorisation has been revoked or suspended; and
+                              • if the representative’s work is being monitored or supervised.
 
  Whether and how the          If relevant, you must provide details of plans to rectify the breach (or likely
  reportable situation has     breach). This includes:
- been rectified                when you expect to complete the rectification (or complete a plan for rectifying
+ been rectified               • when you expect to complete the rectification (or complete a plan for rectifying
                                 the breach); and
-                               how the rectification will be achieved.
+                              • how the rectification will be achieved.
                               If ongoing steps are being taken to rectify the breach (or likely breach), indicate
                               when you expect to send ASIC a report on your progress in rectifying it, as well as
                               a notification that rectification is complete.
@@ -2546,10 +2546,10 @@ Table 9:    Determining whether you may group multiple reportable situations in 
                                        The conduct can be grouped into a single report if both limbs of the
  related or identical conduct
                                        grouping test are met. The licensee should consider:
-                                        whether it is similar, related or identical conduct—for example, does the
+                                       • whether it is similar, related or identical conduct—for example, does the
                                          fee-charging error relate to the same type of fee, and does the error
                                          occur in similar circumstances?
-                                        whether it is the same root cause—for example, is the fee-charging error
+                                       • whether it is the same root cause—for example, is the fee-charging error
                                          on Product B caused by the same system deficiency as Product A?
 
  Example 12(c): Using the              A licensee identifies a systems error that resulted in a customer being
@@ -3006,16 +3006,16 @@ Table 10: Other helpful practices for meeting the breach reporting obligation
 
  Review                       A regular review or audit of breach reporting processes, including the operation of
                               the breach reporting process and internal benchmarking on:
-                               the number of incidents assessed and their outcomes;
-                               any trends; and
-                               timeliness, including for ongoing investigations, remediation and incident
+                              • the number of incidents assessed and their outcomes;
+                              • any trends; and
+                              • timeliness, including for ongoing investigations, remediation and incident
                                 identification.
 
  Oversight of lengthy         A process for oversight of lengthy investigations that enables:
- investigations                an understanding of the investigation to date;
-                               reasons for any current delays, if applicable;
-                               appropriate management of the investigation moving forward; and
-                               consideration of the significance of the breach.
+ investigations               • an understanding of the investigation to date;
+                              • reasons for any current delays, if applicable;
+                              • appropriate management of the investigation moving forward; and
+                              • consideration of the significance of the breach.
 
  Analysis                     Robust systems and processes for analysing root causes and systemic issues to
                               proactively detect significant or emerging issues and ensure that existing issues
@@ -3023,10 +3023,10 @@ Table 10: Other helpful practices for meeting the breach reporting obligation
 
  Accountability               Appropriate accountability checks after a significant breach is recorded and
                               reported to ASIC, including:
-                               considering appropriate ‘consequence management’ (i.e. learning opportunities
+                              • considering appropriate ‘consequence management’ (i.e. learning opportunities
                                 to stop a breach continuing or recurring, involving real and meaningful
                                 consequences for staff and management responsible for oversight); and
-                               prioritising the mitigation of consumer detriment once a breach is identified.
+                              • prioritising the mitigation of consumer detriment once a breach is identified.
 
  Governance structures        Robust governance and accountability structures around the breach reporting
                               obligation, including (where relevant) harmonised breach reporting practices and
@@ -3543,8 +3543,8 @@ Table 11: Guidance on root cause category options
                              either the design or the operation of a technology system.
 
                              This includes, for example:
-                              a system logic error leading to clients being mischarged interest; or
-                              a system outage leading to a failure to provide disclosure documents.
+                             • a system logic error leading to clients being mischarged interest; or
+                             • a system outage leading to a failure to provide disclosure documents.
                              There may be circumstances when a reportable situation is caused by a system
                              deficiency in conjunction with other root causes. For example, if the system
                              requires manual ‘workarounds’ to be applied for the correct outcome to be
@@ -3568,9 +3568,9 @@ Table 11: Guidance on root cause category options
                              process or training).
 
  Staff—inadequate            The reportable situation was caused, wholly or in significant part, by a staff member:
- supervision or lack of       not being subject to adequate supervision (particularly for staff members new to a
+ supervision or lack of      • not being subject to adequate supervision (particularly for staff members new to a
  training                      particular task or process); or
-                              not receiving training or adequate training.
+                             • not receiving training or adequate training.
 
  Staff—fraud and/or          The reportable situation was caused, wholly or in significant part, by an intentional
  misappropriation            act by a staff member to obtain an unjust or illegal advantage (usually by deception).
@@ -3609,15 +3609,15 @@ Table 11: Guidance on root cause category options
 
                              Other root causes that may be relevant instead of (or in addition to) this option
                              include:
-                              ‘failed change initiative’ (e.g. if the misunderstanding occurred as part of a
+                             • ‘failed change initiative’ (e.g. if the misunderstanding occurred as part of a
                                regulatory change program); and
-                              ‘inadequate compliance measures’ (e.g. if you do not have adequate measures in
+                             • ‘inadequate compliance measures’ (e.g. if you do not have adequate measures in
                                place to enable you to identify and understand your compliance obligations).
 
  Inadequate                  The reportable situation was caused, wholly or in significant part, by:
- management controls          a lack of controls in relation to a process, risk or obligation;
-                              a gap in those controls; or
-                              an issue with the adequacy of the controls (e.g. detective controls where
+ management controls         • a lack of controls in relation to a process, risk or obligation;
+                             • a gap in those controls; or
+                             • an issue with the adequacy of the controls (e.g. detective controls where
                                preventative ones were needed, or manual controls where automated ones were
                                needed).
                              Depending on the nature and extent of the controls’ inadequacy, you should
@@ -3644,10 +3644,10 @@ Table 11: Guidance on root cause category options
 
  Failed change initiative    The reportable situation was caused, wholly or in significant part, by a change
                              initiative. This includes all types of change initiatives, large and small, including:
-                              regulatory change programs;
-                              technology change (e.g. system migration or update);
-                              organisation change (e.g. restructures); and
-                              business process changes.
+                             • regulatory change programs;
+                             • technology change (e.g. system migration or update);
+                             • organisation change (e.g. restructures); and
+                             • business process changes.
 
  Other                       The root cause of the reportable situation cannot be explained by any one or
                              combination of the other root cause categories in this list. To further explain any
@@ -3903,10 +3903,10 @@ Q9: Can I withdraw or correct a report that I have submitted to ASIC?
 Table 13: When ASIC may approve a request to correct a report
 
  Example 15(a): Material      This includes scenarios such as:
- factual errors on a           the incorrect licensee has been selected;
+ factual errors on a          • the incorrect licensee has been selected;
  report
-                               duplicate notifications have been submitted; and
-                               an incorrect selection on a key field has been made (e.g. specifying the type of
+                              • duplicate notifications have been submitted; and
+                              • an incorrect selection on a key field has been made (e.g. specifying the type of
                                 reportable situation)
                               We will not process a change to a discrete field. Rather, we may remove the
                               incorrect report from the ASIC Regulatory Portal view and ask the licensee to
@@ -3988,10 +3988,10 @@ Key terms
                               additional reportable     A reportable situation as set out in s912D(2) of the
                               situation                 Corporations Act or s50A(2) of the National Credit Act,
                                                         including when the licensee or its representative:
-                                                         engages in conduct constituting gross negligence in the
+                                                        • engages in conduct constituting gross negligence in the
                                                           course of providing a financial service or engaging in a
                                                           credit activity; or
-                                                         commits serious fraud
+                                                        • commits serious fraud
 
                               AFS licence               An Australian financial services licence under s913B of
                                                         the Corporations Act that authorises a person who
@@ -4158,11 +4158,11 @@ Key terms
                                                           National Credit Act and s7 of ASIC Instrument 2024/620.
 
                               representative (of an     Means:
-                              AFS licensee)              an authorised representative of the licensee;
-                                                         an employee or director of the licensee;
-                                                         an employee or director of a related body corporate of
+                              AFS licensee)             • an authorised representative of the licensee;
+                                                        • an employee or director of the licensee;
+                                                        • an employee or director of a related body corporate of
                                                           the licensee; or
-                                                         any other person acting on behalf of the licensee
+                                                        • any other person acting on behalf of the licensee
                                                           Note: This is a definition in s9 of the Corporations Act.
 
 
@@ -4177,10 +4177,10 @@ Key terms
                               Term                      Meaning in this document
 
                               representative (of any    Means:
-                              other person)              an employee or director of the person;
-                                                         an employee or director of a related body corporate of
+                              other person)             • an employee or director of the person;
+                                                        • an employee or director of a related body corporate of
                                                           the person; or
-                                                         any other person acting on behalf of the first person
+                                                        • any other person acting on behalf of the first person
                                                           Note: This is a definition in s9 of the Corporations Act.
 
                               responsible entity        A responsible entity of a registered scheme as defined in
@@ -4203,8 +4203,8 @@ Key terms
                                                         s5 of the National Credit Act
 
                               significant breach        Means:
-                                                         a deemed significant breach; or
-                                                         a breach or likely breach of a core obligation that is
+                                                        • a deemed significant breach; or
+                                                        • a breach or likely breach of a core obligation that is
                                                           significant having regard to the factors in s912D(5) of
                                                           the Corporations Act or s50A(5) of the National Credit
                                                           Act

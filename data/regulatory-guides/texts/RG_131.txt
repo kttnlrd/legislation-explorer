@@ -16,10 +16,10 @@ corporate directors of retail corporate collective investment vehicles (CCIVs),
 and their advisers.
 
 It provides guidance on our requirements for:
-   establishing and registering a managed investment scheme and
+•   establishing and registering a managed investment scheme and
     subsequently registering as an Australian passport fund;
-   establishing and registering a CCIV and its initial sub-fund(s); and
-   registering further sub-funds.
+•   establishing and registering a CCIV and its initial sub-fund(s); and
+•   registering further sub-funds.
                                         REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
 
 
@@ -32,11 +32,11 @@ It provides guidance on our requirements for:
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -51,7 +51,7 @@ It provides guidance on our requirements for:
                              reflect changes to RG 1 and related guidance.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 131, issued July 2018
+                             •       Superseded Regulatory Guide 131, issued July 2018
 
 
                              Disclaimer
@@ -342,13 +342,13 @@ Table 1:      Application requirements for registering a managed investment sche
  requirements          scheme
 
  Application           Form 5100 Application for        Apply for registration as an   To register:
-                       registration of a managed        Australian passport fund,       the CCIV and initial sub-
+                       registration of a managed        Australian passport fund,      • the CCIV and initial sub-
                        investment scheme                available through the ASIC       fund(s), use
                                                         Regulatory Portal                Form 5201 Application for
                                                                                          registration of a corporate
                                                                                          collective investment
                                                                                          vehicle; and
-                                                                                        subsequent sub-fund(s),
+                                                                                       • subsequent sub-fund(s),
                                                                                          use Form 5202
                                                                                          Application for
                                                                                          registration of a sub-fund
@@ -356,10 +356,10 @@ Table 1:      Application requirements for registering a managed investment sche
                                                                                          investment vehicle.
 
  Constitution          Must meet s601GA and             Must meet section 4 of the     The constitution of a:
-                       601GB                            Australian Passport Rules       retail CCIV must meet
+                       601GB                            Australian Passport Rules      • retail CCIV must meet
                                                                                          s1223B, 1223G and
                                                                                          s1223H; and
-                                                                                        wholesale CCIV must
+                                                                                       • wholesale CCIV must
                                                                                          meet s1223B and 1223F.
 
  Compliance plan       Must meet s601HA                 Must meet s601HA, including Must meet s1226A.
@@ -394,9 +394,9 @@ Table 1:      Application requirements for registering a managed investment sche
 
  Additional               Not applicable                     The Australian passport             Not applicable
  information                                                 fund operator must supply:
-                                                              an Australian criminal
+                                                             • an Australian criminal
                                                                history check; and
-                                                              a bankruptcy check
+                                                             • a bankruptcy check
                                                                 Note: If an overseas criminal
                                                                 history or bankruptcy check
                                                                 has not been obtained, the
@@ -1201,9 +1201,9 @@ Table 2:     Summary of eligible entity requirements for Australian passport fun
  Home economy and home regulator test
 
  The Australian passport fund operator must:                                                     See section 3 of
-  have its principal place of business in Australia; and                                        Annex 2 to the
+ • have its principal place of business in Australia; and                                        Annex 2 to the
                                                                                                  Memorandum of
-  be regulated by ASIC as responsible entity of a registered scheme.
+ • be regulated by ASIC as responsible entity of a registered scheme.
                                                                                                  Cooperation
 
 
@@ -2415,9 +2415,9 @@ Key terms
 
                                host economy              A participating economy that is not a passport fund’s
                                                          home economy and either:
-                                                          permits the fund to offer interests in the fund in that
+                                                         • permits the fund to offer interests in the fund in that
                                                            economy under the Asia Region Funds Passport; or
-                                                          has accepted an application from the fund to offer
+                                                         • has accepted an application from the fund to offer
                                                            interests in the fund in that economy under the Asia
                                                            Region Funds Passport (but not to register the fund as
                                                            a passport fund in that economy)
@@ -2428,12 +2428,12 @@ Key terms
                                IOSCO                     The International Organization of Securities Commissions
 
                                IOSCO financial           An entity that:
-                               services related           carries on business in a financial, capital markets or
+                               services related          • carries on business in a financial, capital markets or
                                business                    financial services industry and is regulated in an
                                                            IOSCO jurisdiction;
-                                                          provides legal, accounting or compliance services
+                                                         • provides legal, accounting or compliance services
                                                            related to that kind of business; or
-                                                          provides consultation services relating to, and
+                                                         • provides consultation services relating to, and
                                                            addressing particular issues arising in, the operation of
                                                            collective investment schemes within the meaning of
                                                            section 55 of the Australian Passport Rules
@@ -2473,10 +2473,10 @@ Key terms
 
                                participating economy     An economy that is a participant under the Memorandum
                                                          of Cooperation (while it is in effect) and has:
-                                                          advised the Asia Region Funds Passport Joint
+                                                         • advised the Asia Region Funds Passport Joint
                                                            Committee that it has implemented the Asia Region
                                                            Funds Passport; and
-                                                          not withdrawn from the Memorandum of Cooperation
+                                                         • not withdrawn from the Memorandum of Cooperation
 
                                passport fund             A regulated collective investment scheme, or sub-fund of
                                                          a regulated collective investment scheme, registered as a

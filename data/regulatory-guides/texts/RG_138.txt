@@ -15,9 +15,9 @@ managed funds across participating economies in the Asia region.
 
 It explains our approach as a host regulator to the regulation of foreign
 passport funds in Australia, including:
-    the entry requirements to become a ‘notified foreign passport fund’;
-    ongoing requirements for notified foreign passport funds; and
-    the process for removing notified foreign passport funds (denotification).
+•    the entry requirements to become a ‘notified foreign passport fund’;
+•    ongoing requirements for notified foreign passport funds; and
+•    the process for removing notified foreign passport funds (denotification).
 
 It also explains ASIC’s powers and responsibilities in relation to notified
 foreign passport funds and their operators, including our discretionary
@@ -35,11 +35,11 @@ powers to grant exemptions and modifications to the Corporations
     Consultation papers: seek feedback from stakeholders on matters ASIC
     is considering, such as proposed relief or proposed regulatory guidance.
     Regulatory guides: give guidance to regulated entities by:
-        explaining when and how ASIC will exercise specific powers under
+    •    explaining when and how ASIC will exercise specific powers under
          legislation (primarily the Corporations Act)
-        explaining how ASIC interprets the law
-        describing the principles underlying ASIC’s approach
-        giving practical guidance (e.g. describing the steps of a process such
+    •    explaining how ASIC interprets the law
+    •    describing the principles underlying ASIC’s approach
+    •    giving practical guidance (e.g. describing the steps of a process such
          as applying for a licence or giving practical examples of how
          regulated entities may decide to meet their obligations).
     Information sheets: provide concise guidance on a specific process or
@@ -54,7 +54,7 @@ This guide was issued in November 2024 and is based on legislation and
 regulations as at the date of issue.
 
 Previous versions:
-       Superseded Regulatory Guide 138, issued July 2018, reissued
+•       Superseded Regulatory Guide 138, issued July 2018, reissued
         September 2018
 
 
@@ -363,38 +363,38 @@ Table 1:    Overview of requirements
 
  Entry                 For a foreign passport fund to become a notified foreign passport fund in       Section B
  requirements          Australia, the operator must:
- (before making         be a registered foreign company (see s1213(1));
+ (before making        • be a registered foreign company (see s1213(1));
  an offer)
-                        meet the ongoing offer of interests in the fund’s home economy
+                       • meet the ongoing offer of interests in the fund’s home economy
                          requirement in one of the available ways (see section 17 of the Australian
                          Passport Rules);
-                        check if the name of the foreign passport fund is available to use;
-                        complete and submit a notice of intention to offer interests in Australia
+                       • check if the name of the foreign passport fund is available to use;
+                       • complete and submit a notice of intention to offer interests in Australia
                          (see s1213(2)); and
-                        pay the relevant fee, which is set out in the notice of intention.
+                       • pay the relevant fee, which is set out in the notice of intention.
 
  Ongoing               In addition to responsibilities under the Australian Passport Rules, notified   Section C
  requirements          foreign passport funds and their operators must comply with certain
                        ongoing requirements under Australian law: see the Memorandum of
                        Cooperation. These requirements include:
-                        satisfying ongoing obligations of a registered foreign company;
-                        observing AFS licence exemption requirements, or holding an AFS
+                       • satisfying ongoing obligations of a registered foreign company;
+                       • observing AFS licence exemption requirements, or holding an AFS
                          licence;
-                        meeting Product Disclosure Statement (PDS) requirements, transaction
+                       • meeting Product Disclosure Statement (PDS) requirements, transaction
                          confirmation requirements and cooling-off requirements;
-                        complying with the prohibition on conflicted and other banned
+                       • complying with the prohibition on conflicted and other banned
                          remuneration, and with advertising requirements;
-                        maintaining a register of members;
-                        providing ongoing disclosures, periodic statements, financial reports and
+                       • maintaining a register of members;
+                       • providing ongoing disclosures, periodic statements, financial reports and
                          auditors’ reports to members;
-                        providing additional information about the interest on request, certain
+                       • providing additional information about the interest on request, certain
                          documents on request, or copies of books on court order;
-                        making annual lodgements, providing change of event notifications and
+                       • making annual lodgements, providing change of event notifications and
                          lodging registers of members;
-                        reporting breaches to ASIC;
-                        meeting internal and external requirements for handling Australian
+                       • reporting breaches to ASIC;
+                       • meeting internal and external requirements for handling Australian
                          member complaints; and
-                        paying an annual levy for ASIC supervisory costs.
+                       • paying an annual levy for ASIC supervisory costs.
 
  Denotification        A notified foreign passport fund may be removed from the Asia Region            Section D
  requirements          Funds Passport Register either voluntarily or by ASIC.
@@ -1430,8 +1430,8 @@ Table 3:    Exemptions from AFS licensing obligations in the Corporations Act an
 
  A notified foreign passport fund operator or person acting on its direction or its agent        s911A(2)(eh)–(ej)
  does not need to hold an AFS licence to:
-  acquire or dispose of assets in a notified foreign passport fund as an investment; or
-  issue, acquire or dispose of a derivative or a foreign exchange contract for the
+ • acquire or dispose of assets in a notified foreign passport fund as an investment; or
+ • issue, acquire or dispose of a derivative or a foreign exchange contract for the
    purposes of managing the financial consequences for the fund of particular events,
    or avoiding or limiting the financial consequences of fluctuations in, or in the value
    of, costs receipts (including prices or interest rates) (e.g. managing financial risk).
@@ -1472,8 +1472,8 @@ Table 3:    Exemptions from AFS licensing obligations in the Corporations Act an
  A person located outside Australia does not need to hold an AFS licence to provide a                notional s911A(2C),
  financial service to one of the following that is not acting as trustee, a responsible              inserted by
  entity of a registered scheme or on someone else’s behalf in relation to the service:               reg 7.6.02AG
-  an AFS licensee; or
-  a person exempt from the need to hold an AFS licence because they are regulated
+ • an AFS licensee; or
+ • a person exempt from the need to hold an AFS licence because they are regulated
    by an overseas regulatory authority, the service is covered by a written exemption
    from ASIC and the service is provided only to wholesale clients (see s911A(2)(h)).
 
@@ -1588,15 +1588,15 @@ Table 4:    Minimum content for a PDS
  Home economy            The PDS must include the notified foreign passport fund’s home economy.
 
  Necessary               The PDS must include statements that:
- statements               fund operations, and the notified foreign passport fund operator and custodian of
+ statements              • fund operations, and the notified foreign passport fund operator and custodian of
                            assets, are regulated by the law of the home economy;
-                          the rights and remedies available to a person who acquires an interest in the notified
+                         • the rights and remedies available to a person who acquires an interest in the notified
                            foreign passport fund may differ from the rights and remedies available in relation to a
                            registered scheme;
-                          information available to members in the home economy will, from time to time, be
+                         • information available to members in the home economy will, from time to time, be
                            made available to Australian members by posting on the notified foreign passport
                            fund website; and
-                          rights of a member in the event of the notified foreign passport fund being wound up
+                         • rights of a member in the event of the notified foreign passport fund being wound up
                            are mainly determined under the constitution and the law of the home economy.
 
  Home economy            The PDS must include an outline of the main rights and remedies available under the
@@ -1652,16 +1652,16 @@ Table 4:    Minimum content for a PDS
  Labour standards        The PDS must include information about the extent to which labour standards or
  or environmental,       environmental, social or ethical considerations are taken into account in the selection of
  social or ethical,      investments. The following information is required:
- considerations           statements on whether the operator does, or does not, take into account labour
+ considerations          • statements on whether the operator does, or does not, take into account labour
                            standards or environmental, social or ethical considerations in selecting, retaining or
                            realising investments;
-                          if the PDS discloses that labour standards are taken into account, a statement
+                         • if the PDS discloses that labour standards are taken into account, a statement
                            outlining:
                            − the standards that the operator considers to be labour standards for that purpose;
                              and
                            − the extent to which the operator takes those standards into account in the selection,
                              retention or realisation of the investment; and
-                          if the PDS discloses that environmental, social or ethical considerations are taken into
+                         • if the PDS discloses that environmental, social or ethical considerations are taken into
                            account, a statement outlining:
                            − the considerations that the operator regards as environmental, social or ethical
                              considerations for that purpose; and
@@ -1677,8 +1677,8 @@ Table 4:    Minimum content for a PDS
 
  Additional              If an interest in the notified foreign passport fund will be quoted on a financial market in
  information for         Australia or elsewhere, the PDS must state that:
- quoted interests         the interest is able to be traded on that market; or
-                          an application has been made, or will be made within seven days after the date of the
+ quoted interests        • the interest is able to be traded on that market; or
+                         • an application has been made, or will be made within seven days after the date of the
                            PDS, to the relevant market operator to enable trading of the interest on that
                            operator’s market.
 
@@ -2779,10 +2779,10 @@ Table 5:     Change of event notification requirements
 
  Notified foreign passport fund operator first discloses to any person that it                 As soon as practicable and
  intends to propose:                                                                           no later than seven days
-  a change in the operator;                                                                   from the date of disclosure
+ • a change in the operator;                                                                   from the date of disclosure
 
-  winding up or deregistration of the foreign passport fund; or
-  deregistration of the foreign passport fund as a regulated collective
+ • winding up or deregistration of the foreign passport fund; or
+ • deregistration of the foreign passport fund as a regulated collective
    investment scheme
    Note: Notification is not necessary if the person is an associate of the notified foreign
    passport fund operator or fund, within the meaning of section 12(6) of the Australian
@@ -3026,8 +3026,8 @@ Table 7:    Content of a written breach report
  Item                      Explanation
 
  Date of the breach        Include both:
-                            the date that the breach occurred; and
-                            the date the notified foreign passport fund operator became aware of the breach.
+                           • the date that the breach occurred; and
+                           • the date the notified foreign passport fund operator became aware of the breach.
 
  Description of the        Describe the obligation that has been breached, including references to the section of
  breach                    the Corporations Act or ASIC Act or other provision that sets out that obligation.
@@ -3056,8 +3056,8 @@ Table 7:    Content of a written breach report
  identified                operator’s compliance arrangements or because of a client complaint.
 
  Information about an      If an AFS licensee is involved, include:
- AFS licensee               the AFS licensee’s name and number; and
-                            if the AFS licensee’s authorisation has been revoked, all last known contact details.
+ AFS licensee              • the AFS licensee’s name and number; and
+                           • if the AFS licensee’s authorisation has been revoked, all last known contact details.
 
  How the breach has        Describe the process and responsibilities for handling the breach, including any steps
  been rectified            that have been taken to remedy it (e.g. any compensation paid to clients).
@@ -3112,16 +3112,16 @@ Table 8:    What we do with a breach report
  Further action by ASIC              If the following factors are satisfied and there has not been undue delay in
                                      notifying us, we may tell the notified foreign passport fund operator that we do
                                      not intend to make further inquiries about the matter:
-                                      the operator has made a genuine attempt to comply with the law and its
+                                     • the operator has made a genuine attempt to comply with the law and its
                                        breach reporting obligations;
-                                      either:
+                                     • either:
                                        − the cause(s) of the breach have been identified and, if readily rectified,
                                          addressed so that it is unlikely to recur; or
                                        − in other cases, a plan for rectifying the compliance failure has been
                                          developed and given to us;
-                                      the consequences (particularly to retail clients) are able to be dealt with
+                                     • the consequences (particularly to retail clients) are able to be dealt with
                                        comprehensively (e.g. by compensation and communication); and
-                                      if the circumstances suggest there are more significant compliance issues
+                                     • if the circumstances suggest there are more significant compliance issues
                                        within the operator’s business, they are identified.
 
                                      If these factors are not satisfied, we will consider whether to take enforcement
@@ -4092,9 +4092,9 @@ Table 9:     Strict liability offences
  eligible persons with a copy of the register of members on application
 
  Non-compliance with the prohibitions on using information from a register of members:                 s1213L(1) and (3)
-  to contact or send material to a person or disclose information knowing that it is likely to
+ • to contact or send material to a person or disclose information knowing that it is likely to
    be used to contact or send material to that person; or
-  for a prescribed purpose or knowing that disclosure will likely mean the information is
+ • for a prescribed purpose or knowing that disclosure will likely mean the information is
    used for a prescribed purpose
 
  Non-compliance with the obligation on notified foreign passport fund operators to provide             s1213M(1)
@@ -4105,15 +4105,15 @@ Table 9:     Strict liability offences
  the whole or part of the register of members as ASIC requires
 
  Non-compliance with the obligations on notified foreign passport funds to:                            s314A(9)
-  provide Australian members with financial reports and auditors’ reports prepared in
+ • provide Australian members with financial reports and auditors’ reports prepared in
    accordance with laws of the home economy (in English unless the member elects for
    them to be in the home economy language); and
-  notify Australian members of their right to receive, free of charge, a copy of the financial
+ • notify Australian members of their right to receive, free of charge, a copy of the financial
    reports and auditors’ reports
 
  Failure to lodge each of the following with ASIC:                                                     s319(1AA)
-  a copy of the financial reports prepared in accordance with the home economy laws; and
-  a copy of the auditor’s report
+ • a copy of the financial reports prepared in accordance with the home economy laws; and
+ • a copy of the auditor’s report
 
  Failure to lodge amended reports, including amended financial reports, with ASIC within               s321(1A) and
  14 days and to provide a copy of the amended report to any Australian member that asks                322(3)
@@ -4261,14 +4261,14 @@ Key terms
                               conflicted                Any benefit, whether monetary or non-monetary, given to
                               remuneration              an AFS licensee or its representatives who provide
                                                         financial product advice to retail clients that:
-                                                         because of the nature of the benefit, or the
+                                                        • because of the nature of the benefit, or the
                                                           circumstances in which it is given, could reasonably be
                                                           expected to influence:
                                                           − the choice of financial product recommended to
                                                             clients by the licensee or its representative; or
                                                           − the financial product advice given to clients by the
                                                             licensee or its representative; and
-                                                         is not given to the licensee or representative by a retail
+                                                        • is not given to the licensee or representative by a retail
                                                           client in relation to a financial product or financial
                                                           service provided by the licensee or representative to
                                                           the client.
@@ -4330,9 +4330,9 @@ Key terms
                               financial product         Generally a facility through which, or through the
                                                         acquisition of which, a person does one or more of the
                                                         following:
-                                                         makes a financial investment (see s763B);
-                                                         manages financial risk (see s763C);
-                                                         makes non-cash payments (see s763D)
+                                                        • makes a financial investment (see s763B);
+                                                        • manages financial risk (see s763C);
+                                                        • makes non-cash payments (see s763D)
                                                           Note: See Div 3 of Pt 7.1 of the Corporations Act for the exact
                                                           definition. In addition to the general categories above, this
                                                           specifies certain things as being included or excluded from the
@@ -4376,9 +4376,9 @@ Key terms
 
                               host economy              A participating economy that is not a passport fund’s
                                                         home economy and either:
-                                                         permits the fund to offer interests in the fund in that
+                                                        • permits the fund to offer interests in the fund in that
                                                           economy under the Asia Region Funds Passport; or
-                                                         has accepted an application from the fund to offer
+                                                        • has accepted an application from the fund to offer
                                                           interests in the fund in that economy under the Asia
                                                           Region Funds Passport (but not to register the fund as
                                                           a passport fund in that economy)
@@ -4403,9 +4403,9 @@ Key terms
 
                               minimum subscription      A condition that prevents the issue or sale of financial
                               condition                 products of a particular kind unless:
-                                                         applications for a minimum number of products of that
+                                                        • applications for a minimum number of products of that
                                                           kind are received; or
-                                                         a minimum amount is raised
+                                                        • a minimum amount is raised
 
                               NFPFRN                    Notified Foreign Passport Fund Registration Number
 
@@ -4437,10 +4437,10 @@ Key terms
 
                               participating economy     An economy that is a participant under the Memorandum
                                                         of Cooperation (while it is in effect) and has:
-                                                         advised the Asia Region Funds Passport Joint
+                                                        • advised the Asia Region Funds Passport Joint
                                                           Committee that it has implemented the Asia Region
                                                           Funds Passport; and
-                                                         not withdrawn from the Memorandum of Cooperation
+                                                        • not withdrawn from the Memorandum of Cooperation
 
                               passport fund             A regulated collective investment scheme, or sub-fund of
                                                         a regulated collective investment scheme, registered as a
@@ -4489,14 +4489,14 @@ Key terms
                               Term                      Meaning in this document
 
                               provide a financial       A person provides a financial service if they:
-                              service                    provide financial product advice;
-                                                         deal in a financial product;
-                                                         make a market for a financial product;
-                                                         operate a registered scheme;
-                                                         provide a custodial or depository service;
-                                                         provide a crowd-funding service;
-                                                         provide a claims-handling and settling service; or
-                                                         as a trustee company, provide traditional trustee
+                              service                   • provide financial product advice;
+                                                        • deal in a financial product;
+                                                        • make a market for a financial product;
+                                                        • operate a registered scheme;
+                                                        • provide a custodial or depository service;
+                                                        • provide a crowd-funding service;
+                                                        • provide a claims-handling and settling service; or
+                                                        • as a trustee company, provide traditional trustee
                                                           services
                                                           Note: This is a definition in s766A.
 
@@ -4516,11 +4516,11 @@ Key terms
                               notified fund             Recovery Levy Regulations
 
                               replacement PDS           A document that replaces an earlier PDS to:
-                                                         correct a misleading or deceptive statement or
+                                                        • correct a misleading or deceptive statement or
                                                           omission,
-                                                         update, or add to, information contained in the earlier
+                                                        • update, or add to, information contained in the earlier
                                                           PDS; or
-                                                         change a statement of a kind referred to in
+                                                        • change a statement of a kind referred to in
                                                           s1016E(1)(a) or (b) of the Corporations Act.
                                                           Note: This is a definition contained in s1014H.
 

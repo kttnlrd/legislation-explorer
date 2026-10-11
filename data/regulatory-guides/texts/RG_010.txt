@@ -14,12 +14,12 @@ compulsory acquisition under Ch 6A of the Corporations Act. It is also for
 persons who are required to give, or are entitled to, buyout rights.
 
 This guide:
-   discusses the purposes underlying compulsory acquisition and buyout
+•   discusses the purposes underlying compulsory acquisition and buyout
     rights and how we administer the provisions of Ch 6A;
-   explains the exemptions we have provided and modifications we have
+•   explains the exemptions we have provided and modifications we have
     made to the relevant requirements, and when we will consider case-by-
     case relief from the provisions; and
-   outlines our process for nominating persons to prepare an expert’s
+•   outlines our process for nominating persons to prepare an expert’s
     report under s667AA.
                                                           REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
 
@@ -33,11 +33,11 @@ This guide:
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -294,24 +294,24 @@ Table 1:      Compulsory acquisition under Ch 6A
  compulsory       securities in the bid class at the end of a full takeover bid if      all of the securities on the     6021
  acquisition:     it has met the compulsory acquisition threshold. To meet              terms that apply, or
  s661A(1)         the threshold the bidder must:                                        applied, to the bid at the
-                   have a relevant interest in 90% of the bid class                    time the compulsory
+                  • have a relevant interest in 90% of the bid class                    time the compulsory
                     securities (by number) during or at the end of the bid;             acquisition notice is
                     and                                                                 given.
-                   have acquired 75% of the securities (by number) that                Where alternative forms
+                  • have acquired 75% of the securities (by number) that                Where alternative forms
                     the bidder made offers for under the bid.                           of consideration are
                                                                                         available under the bid,
                   The compulsory acquisition may also extend to:
                                                                                         the holder may make an
-                   any bid class securities issued or granted after the offer          election with a default
+                  • any bid class securities issued or granted after the offer          election with a default
                     period up until the time the compulsory acquisition                 choice applying if no
                     notice is given;                                                    election is made.
-                   any securities coming into the bid class on exercise or
+                  • any securities coming into the bid class on exercise or
                     conversion of convertible securities up to six weeks
                     after the notice is given;
-                   certain non-transferable securities that would be in the
+                  • certain non-transferable securities that would be in the
                     bid class but for a restriction on transfer in the
                     constitution (see RG 10.69–RG 10.82); and
-                   any other bid class securities in which the bidder
+                  • any other bid class securities in which the bidder
                     already has a relevant interest.
                   Post-bid compulsory acquisition on the basis of the
                   threshold tests must commence with the dispatch of
@@ -322,11 +322,11 @@ Table 1:      Compulsory acquisition under Ch 6A
 
  General          Under general compulsory acquisition, any person can                  The acquirer must                Form
  compulsory       compulsorily acquire:                                                 propose to provide a cash        6024
- acquisition:      all of the securities in a class if the person (together with       sum for the securities.
+ acquisition:     • all of the securities in a class if the person (together with       sum for the securities.
  s664A(3)           any related body corporate) holds full beneficial                   The acquirer must also
                     interests in 90% or more of the securities (by number) in           include with the
                     the class; or                                                       compulsory acquisition
-                   all the securities in every class of shares or securities           notice an expert report
+                  • all the securities in every class of shares or securities           notice an expert report
                     convertible into shares, if the person:                             discussing whether the
                      − has 90% or more voting power in the company; and                 proposed terms of the
                                                                                         acquisition are fair value
@@ -399,9 +399,9 @@ Table 2:       Buyout rights under Ch 6A
                                                               If the holder responds with a notice
                                                               requiring the bidder to buy them out, the
                                                               terms of the buyout may be either:
-                                                               terms previously agreed between the
+                                                              • terms previously agreed between the
                                                                 bidder and the holder; or
-                                                               terms determined by a court on
+                                                              • terms determined by a court on
                                                                 application by the holder.
 
 
@@ -430,9 +430,9 @@ Table 2:       Buyout rights under Ch 6A
                                                                   requiring the bidder to buy them out, the
  s665A(2)
                                                                   terms of the buyout may be either:
-                                                                   terms previously agreed between the
+                                                                  • terms previously agreed between the
                                                                     acquirer and the holder; or
-                                                                   terms determined by a court on
+                                                                  • terms determined by a court on
                                                                     application by the holder.
 
 Note: The full titles of the ASIC forms in this table are listed in the ‘Related information’ section of this guide. You should

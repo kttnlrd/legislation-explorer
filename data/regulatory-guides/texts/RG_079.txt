@@ -30,11 +30,11 @@ advice prepared by research report providers for retail and wholesale clients.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -48,7 +48,7 @@ advice prepared by research report providers for retail and wholesale clients.
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 79 Managing conflicts of interest: An
+                             •       Superseded Regulatory Guide 79 Managing conflicts of interest: An
                                      ASIC guide for research report providers, issued November 2004 and
                                      known in the ASIC Digest as [GD 200]. Rebadged as a regulatory guide
                                      5 July 2007.
@@ -412,11 +412,11 @@ Table 1:    Examples of a ‘research report’ for the purposes of this guide
 
  Type of investment research                     Explanation
 
-  General advice produced by a research         This is a research report for the purposes of this guide.
+ ü General advice produced by a research         This is a research report for the purposes of this guide.
  report provider on a subscription basis or
  on a fee for service basis.
 
-  General advice (often called ‘sell side’      All ‘sell side’ research is a research report for the purposes of
+ ü General advice (often called ‘sell side’      All ‘sell side’ research is a research report for the purposes of
  research) prepared for advising on or           RG 79, regardless of whether it is for retail or wholesale clients.
  dealing in financial products.
 
@@ -452,9 +452,9 @@ Table 1:    Examples of a ‘research report’ for the purposes of this guide
                                                  However, where such material is re-distributed, it should be clear
  report.
                                                  that:
- Such a process may require permissions           the advice is a restatement, summary or extract of another
+ Such a process may require permissions          • the advice is a restatement, summary or extract of another
  from the original provider.                       report; and
-                                                  readers are directed to who prepared the original research
+                                                 • readers are directed to who prepared the original research
                                                    and, if available, how readers may obtain it.
 
                                                  See RG 79.26(f).
@@ -1747,12 +1747,12 @@ Table 5:    Conflicts and controls with direct and indirect business model confl
 
  Relationship between the              Adopt clear, written terms of engagement with the commissioning party to
  research report provider and          ensure interactions are free from undue influence. This should specify:
- commissioning party                    fees for service;
-                                        avenues of communication;
-                                        access to information and commitment to the ratings process;
-                                        use and distribution of the report; and
-                                        publication of the research (irrespective of the final rating).
-                                        Clear disclosure to users that the issuer has paid for the research
+ commissioning party                   • fees for service;
+                                       • avenues of communication;
+                                       • access to information and commitment to the ratings process;
+                                       • use and distribution of the report; and
+                                       • publication of the research (irrespective of the final rating).
+                                       • Clear disclosure to users that the issuer has paid for the research
                                        Entities with this conflict should consider the analogous requirements in
                                        RG 112 on independence of experts.
 
@@ -2496,9 +2496,9 @@ Key terms
 
                            financial product          A facility through which, or through the acquisition of which,
                                                       a person does one or more of the following:
-                                                       makes a financial investment (see s763B);
-                                                       manages financial risk (see s763C); and/or
-                                                       makes non-cash payments (see s763D)
+                                                      • makes a financial investment (see s763B);
+                                                      • manages financial risk (see s763C); and/or
+                                                      • makes non-cash payments (see s763D)
                                                             Note: This is a definition in s763A of the Corporations Act.
 
 
@@ -2515,11 +2515,11 @@ Key terms
                            financial product advice   A recommendation, a statement of opinion or an
                                                       interpretation of information, or a report of any of those
                                                       things, that:
-                                                       is intended to influence a person(s) in making a decision
+                                                      • is intended to influence a person(s) in making a decision
                                                         about a particular financial product or class of financial
                                                         products, or an interest in a particular financial product or
                                                         class of financial products; or
-                                                       could reasonably be regarded as being intended to have
+                                                      • could reasonably be regarded as being intended to have
                                                         such an influence;
 
                                                       but does not include anything in an exempt document
@@ -2542,9 +2542,9 @@ Key terms
 
                            personal advice            Financial product advice given or directed to a person
                                                       (including by electronic means) in circumstances where:
-                                                       the provider of the advice has considered one or more of
+                                                      • the provider of the advice has considered one or more of
                                                         the client’s objectives, financial situation and needs; or
-                                                       a reasonable person might expect the provider to have
+                                                      • a reasonable person might expect the provider to have
                                                         considered one or more of these matters
                                                             Note: This is the definition contained in s766B(3) of the
                                                             Corporations Act.
@@ -2558,11 +2558,11 @@ Key terms
                                                             Note: See s761A for the exact definition.
 
                            representative             In the case of an AFS licensee:
-                                                       an authorised representative of the licensee;
-                                                       an employee or director of the licensee;
-                                                       an employee or director of a related body corporate of
+                                                      • an authorised representative of the licensee;
+                                                      • an employee or director of the licensee;
+                                                      • an employee or director of a related body corporate of
                                                         the licensee; or
-                                                       any other person acting on behalf of the licensee
+                                                      • any other person acting on behalf of the licensee
                                                             Note: This is a definition in s910A.
 
                            research report            As defined in RG 79.25–RG 79.26
@@ -2707,32 +2707,32 @@ Appendix: Sample compliance review
 
                              Compliance topics
                              Topics that can be reviewed include:
-                                 research methodology and processes;
-                                 internal conflicts management procedures;
-                                 research publication and distribution;
-                                 conflicts disclosure to users;
-                                 monitoring and updating research;
-                                 staff training and supervision;
-                                 compliance and risk management; and
-                                 procedures for managing research quality and transparency.
+                             •    research methodology and processes;
+                             •    internal conflicts management procedures;
+                             •    research publication and distribution;
+                             •    conflicts disclosure to users;
+                             •    monitoring and updating research;
+                             •    staff training and supervision;
+                             •    compliance and risk management; and
+                             •    procedures for managing research quality and transparency.
 
                              Compliance processes
                              For any planned measures:
-                                 explain when and how the measures will be implemented;
-                                 include an explanation of how the relevant measure will ensure
+                             •    explain when and how the measures will be implemented;
+                             •    include an explanation of how the relevant measure will ensure
                                   compliance with the law, licence conditions and RG 79;
-                                 describe the resources, including the internal compliance resources,
+                             •    describe the resources, including the internal compliance resources,
                                   allocated to the measures;
-                                 detail any testing and reviews of the measures that have been or will be
+                             •    detail any testing and reviews of the measures that have been or will be
                                   conducted and the results of those tests and reviews;
-                                 where a measure necessarily involves the disclosure of information,
+                             •    where a measure necessarily involves the disclosure of information,
                                   include a hyperlink to access such disclosed information;
-                                 identify any failings of the measures against their aims and explain how
+                             •    identify any failings of the measures against their aims and explain how
                                   those failings have been or will be addressed;
-                                 identify by name any existing or planned policies or similar documents;
-                                 only address any measure that has been implemented or planned, or any
+                             •    identify by name any existing or planned policies or similar documents;
+                             •    only address any measure that has been implemented or planned, or any
                                   failing that has occurred, since any previous compliance review; and
-                                 address the specific instructions, if any, given for a topic.
+                             •    address the specific instructions, if any, given for a topic.
 
 
 

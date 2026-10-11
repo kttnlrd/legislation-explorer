@@ -14,11 +14,11 @@ schemes, including schemes that form part of a stapled group, and their
 advisers involved in buy-backs of interests in such schemes.
 
 It explains:
-    the relief we have given in ASIC Corporations (ASX-listed Schemes On-
+•    the relief we have given in ASIC Corporations (ASX-listed Schemes On-
      market Buy-backs) Instrument 2016/1159 from certain provisions of the
      Corporations Act 2001 and what a responsible entity of an ASX-listed
      scheme should do in conducting an on-market buy-back; and
-    our policy on applications for individual relief for scheme buy-backs.
+•    our policy on applications for individual relief for scheme buy-backs.
 
 Note: From 27 July 2020, applications for relief should be submitted through
 the ASIC Regulatory Portal. For more information, see how you apply for
@@ -35,11 +35,11 @@ relief.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (for example, describing the steps of a
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (for example, describing the steps of a
                                       process such as applying for a licence or giving practical examples of
                                       how regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -55,7 +55,7 @@ relief.
                              on 27 July 2020.
 
                              Previous version:
-                                    Superseded Regulatory Guide 101 On-market buy-backs by ASX-listed
+                             •       Superseded Regulatory Guide 101 On-market buy-backs by ASX-listed
                                      schemes, issued December 2007
 
 
@@ -407,44 +407,44 @@ Table 2:     Summary of key conditions of relief
                              Buy-backs) Instrument 2016/1159
 
  Interests must not be       The responsible entity must:                                                    RG 101.63
- disposed of and must         not dispose of the interests it buys back; and
+ disposed of and must        • not dispose of the interests it buys back; and
  be cancelled
-                              ensure that, immediately after registration of the transfer to the
+                             • ensure that, immediately after registration of the transfer to the
                                responsible entity of the interests bought back, the interests are
                                cancelled.
 
  Member approval must        If the ‘10/12 limit’ is exceeded:          If a selective scheme buy-back:      RG 101.67–
- be sought for the            a valid resolution of members is          a valid special resolution of      RG 101.84
+ be sought for the           • a valid resolution of members is         • a valid special resolution of      RG 101.84
  scheme buy-back in            required;                                  members is generally required;
  certain circumstances
-                              members must be given all                 members must be given all
+                             • members must be given all                • members must be given all
                                information known to the                   information known to the
                                responsible entity that is material        responsible entity that is
                                to the decision on how to vote on          material to the decision on how
                                the resolution; and                        to vote on the resolution; and
-                              member approval can only be               member approval can only be
+                             • member approval can only be              • member approval can only be
                                relied on for 12 months after it is        relied on for 12 months after it
                                given.                                     is given.
                                   Note: The 10/12 limit is 10% of the   If the 10/12 limit is exceeded:
                                   smallest number of interests that
-                                  are on issue at any time during the    a valid resolution of members
+                                  are on issue at any time during the   • a valid resolution of members
                                   previous 12 months.                     is generally required;
-                                                                         members must be given all
+                                                                        • members must be given all
                                                                           information known to the
                                                                           responsible entity that is
                                                                           material to the decision on how
                                                                           to vote on the resolution; and
-                                                                         member approval can only be
+                                                                        • member approval can only be
                                                                           relied on for 12 months after it
                                                                           is given.
 
  Notification                If the 10/12 limit is not exceeded:        If a listed scheme buy-back and      RG 101.85–
- requirements                 the responsible entity must notify       the 10/12 limit is not exceeded:     RG 101.89
-                               the market at least 14 days before        the responsible entity must
+ requirements                • the responsible entity must notify       the 10/12 limit is not exceeded:     RG 101.89
+                               the market at least 14 days before       • the responsible entity must
                                the scheme buy-back; and                   notify the prescribed financial
-                              the buy-back must commence                 market at least 14 days before
+                             • the buy-back must commence                 market at least 14 days before
                                within two months of the date the          the scheme buy-back; and
-                               buy-back was notified to the              the buy-back must commence
+                               buy-back was notified to the             • the buy-back must commence
                                market.                                    within two months of the date
                                                                           the buy-back was notified to
                                                                           the market.
@@ -1088,15 +1088,15 @@ Table 3:    Information to be provided to scheme members
 
  How a scheme buy-back           There should be an explanation of the type of scheme buy-back and how it works,
  works                           including:
-                                  an explanation of the scope of the scheme buy-back and of the key points in the
+                                 • an explanation of the scope of the scheme buy-back and of the key points in the
                                    terms and conditions;
-                                  if the scheme buy-back is on-market, details of how the responsible entity
+                                 • if the scheme buy-back is on-market, details of how the responsible entity
                                    proposes to purchase interests in the ordinary course of trading on the
                                    prescribed financial market;
-                                  prominent disclosure of the reasons for any members proposed to be excluded
+                                 • prominent disclosure of the reasons for any members proposed to be excluded
                                    from the scheme buy-back, and reasons for any other unequal treatment of
                                    members, such as a scale-back; and
-                                  details of how the procedures for scheme buy-back offers are fair to all members.
+                                 • details of how the procedures for scheme buy-back offers are fair to all members.
 
  The number of interests on      The number of interests on issue and the number and percentage of interests to be
  issue and the number and        bought back should be specified.
@@ -1134,9 +1134,9 @@ Table 3:    Information to be provided to scheme members
                                      interests in the reduction and in any scheme of which the reduction forms part.
 
  Financial and other effects         There should be an explanation of:
-                                      the financial effect that the scheme buy-back will have on members, including on
+                                     • the financial effect that the scheme buy-back will have on members, including on
                                        any distributions; and
-                                      the effect the reduction will have on the scheme and on the control of the
+                                     • the effect the reduction will have on the scheme and on the control of the
                                        scheme.
 
  Source of funds for the             Details should be provided of the source of funds proposed to be used to pay for

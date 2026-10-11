@@ -27,11 +27,11 @@ clients under s912B of the Corporations Act 2001 (Corporations Act).
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                      explaining when and how ASIC will exercise specific powers under
+                                 •     explaining when and how ASIC will exercise specific powers under
                                        legislation (primarily the Corporations Act)
-                                      explaining how ASIC interprets the law
-                                      describing the principles underlying ASIC’s approach
-                                      giving practical guidance (e.g. describing the steps of a process such
+                                 •     explaining how ASIC interprets the law
+                                 •     describing the principles underlying ASIC’s approach
+                                 •     giving practical guidance (e.g. describing the steps of a process such
                                        as applying for a licence or giving practical examples of how
                                        regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -48,7 +48,7 @@ clients under s912B of the Corporations Act 2001 (Corporations Act).
                              consolidating the note to RG 126.77 into that paragraph.
 
                              Previous versions:
-                                     Superseded Regulatory Guide 126, issued November 2007, reissued
+                             •        Superseded Regulatory Guide 126, issued November 2007, reissued
                                       March 2008, October 2009, December 2010, August 2017, July 2020
                                       and July 2022
 
@@ -240,17 +240,17 @@ Table 1:     What you must do to comply
 
  New AFS                  If you are applying for an AFS licence, you will need     When you apply for your AFS
  licensees                to confirm in your application that you have:             licence.
-                           adequate PI insurance in place; or                      You must have the insurance
-                           a process to ensure that you will have adequate PI      in place by the date your AFS
+                          • adequate PI insurance in place; or                      You must have the insurance
+                          • a process to ensure that you will have adequate PI      in place by the date your AFS
                             insurance in place when your AFS licence takes          licence commences.
                             effect.
 
                           We will ask questions about your proposed
                           compensation arrangements, including:
-                           the insurer and the type and level of PI insurance
+                          • the insurer and the type and level of PI insurance
                             you have (or will have) in place;
-                           the scope of the cover; and
-                           whether the policy meets the minimum standards
+                          • the scope of the cover; and
+                          • whether the policy meets the minimum standards
                             (see Section C).
 
                           You must also provide ASIC with a certificate of
@@ -267,10 +267,10 @@ Table 1:     What you must do to comply
  (we may approve                                                                    PI insurance.
  alternative                                                                        You should allow enough time:
  arrangements to PI
-                                                                                     for your application to be
+                                                                                    • for your application to be
  insurance)
                                                                                       assessed; and
-                                                                                     to obtain the required
+                                                                                    • to obtain the required
                                                                                       PI insurance if your
                                                                                       arrangements are not
                                                                                       approved.
@@ -703,10 +703,10 @@ Table 3:    Initial assessment process
  Step 2: Assess               Determine ‘the maximum liability that has, realistically, some potential to arise’: see
  potential liability          reg 7.6.02AAA(1)(a). We suggest you do this by making a reasonable estimate of
                               the following factors:
-                               the maximum exposure to a single client (‘worst loss scenario’ per client);
-                               the number of claims that could arise from a single event (potential for multiple
+                              • the maximum exposure to a single client (‘worst loss scenario’ per client);
+                              • the number of claims that could arise from a single event (potential for multiple
                                 claims); and
-                               the number of claims that might be expected during the policy period.
+                              • the number of claims that might be expected during the policy period.
 
                               See RG 126.39 and Table 4.
 
@@ -793,31 +793,31 @@ Table 4:    Features of adequate PI insurance
  Policy feature            Minimum requirements and factors to consider
 
  Amount of cover           Factors to consider:
- (continued)                Is the level of indemnity adequate to cover claims brought both inside and outside of
+ (continued)               • Is the level of indemnity adequate to cover claims brought both inside and outside of
                              AFCA?
                                 Note: The regulation prescribes AFCA membership as a key factor in assessing the
                                 adequacy of PI insurance arrangements. However, an estimate of claims under AFCA
                                 might not always provide an accurate guide to an AFS licensee’s potential liability, as
                                 claims could be brought outside AFCA, such as through the courts.
-                            Does the policy cover claims made by wholesale clients or claims that fall outside
+                           • Does the policy cover claims made by wholesale clients or claims that fall outside
                              the scope of s912B? If so, this might reduce the amount of cover available for
                              claims that fall within s912B and AFS licensees might need to increase the amount
                              of cover accordingly.
-                            Does the business carry a higher risk of claims (e.g. does it give advice on higher
+                           • Does the business carry a higher risk of claims (e.g. does it give advice on higher
                              risk products) or is it exposed to a higher volume of claims and therefore requires a
                              larger amount of PI insurance?
-                            Have weaknesses been identified in your compliance systems, such as a high
+                           • Have weaknesses been identified in your compliance systems, such as a high
                              number of claims or high-risk products/practices, which might mean a higher level of
                              cover is required?
 
  Scope of cover            Minimum requirement: The policy must indemnify the AFS licensee against liability
                            for loss or damage suffered by retail clients because of breaches of Ch 7 by the
                            licensee or its representatives. This includes liability:
-                            for fraud or dishonesty by officers, employees and other representatives of the
+                           • for fraud or dishonesty by officers, employees and other representatives of the
                              licensee (but fraud cover is not required for sole traders or for companies that have
                              one director who is also the company’s only financial adviser or representative, and
                              the company’s only shareholder and employee); and
-                            under AFCA awards.
+                           • under AFCA awards.
                              Note 1: The policy need not explicitly refer to ‘breaches of Ch 7’ or ‘AFCA awards’. However,
                              the policy must have the effect of providing cover for breaches of the relevant obligations
                              under Ch 7 and AFCA awards.
@@ -826,18 +826,18 @@ Table 4:    Features of adequate PI insurance
                              insurance.
 
  Exclusions                Minimum requirement: The policy must not have the effect of excluding:
-                            AFCA scheme awards;
-                            loss caused by the conduct of representatives generally;
-                            fraud and dishonesty by officers, employees and other representatives (but fraud
+                           • AFCA scheme awards;
+                           • loss caused by the conduct of representatives generally;
+                           • fraud and dishonesty by officers, employees and other representatives (but fraud
                              cover is not required for sole traders or for companies that have one director who is
                              also the company’s only financial adviser or representative, and the company’s only
                              shareholder and employee);
-                            claims for misrepresentations about services;
-                            claims arising from incidents that have been notified to ASIC (e.g. through a
+                           • claims for misrepresentations about services;
+                           • claims arising from incidents that have been notified to ASIC (e.g. through a
                              reportable situation transaction) on the basis that, by merely making the notification,
                              the AFS licensee has admitted liability and as a result the insurance policy will not
                              cover the claim); or
-                            awards by state boards and specialist tribunals for claims against trustee
+                           • awards by state boards and specialist tribunals for claims against trustee
                              companies (as defined in s601RAB) in relation to their role as guardians and
                              administrators of estates.
                                 Note 1: A policy may include a term prohibiting the AFS licensee from admitting liability for
@@ -869,7 +869,7 @@ Table 4:    Features of adequate PI insurance
                                 representatives.
 
                            Factors to consider:
-                            Are there many representatives and are they geographically dispersed? If so, the
+                           • Are there many representatives and are they geographically dispersed? If so, the
                              limit of indemnity might need to be higher to manage this risk.
                                 Note: In our experience, the greater the number of representatives that are working for an
                                 AFS licensee, and the more geographically dispersed they are, the greater the potential for
@@ -887,7 +887,7 @@ Table 4:    Features of adequate PI insurance
                                 minimum amount of cover referred to in the ‘Amount of cover’ policy feature above.
 
  Excess/deductibles        Factors to consider:
-                            Is the excess at a level that the business can confidently sustain as an uninsured
+                           • Is the excess at a level that the business can confidently sustain as an uninsured
                              loss, taking into account the AFS licensee’s financial resources?
                                 Note 1: A business with a lower cash flow available to meet claims might require a larger
                                 amount of cover and/or cover with a lower excess. If there is a limited asset base available
@@ -919,10 +919,10 @@ Table 4:    Features of adequate PI insurance
  AFCA scheme               Minimum requirement: The policy must cover AFCA scheme awards.
  awards
                            Factors to consider:
-                            Does the policy cover agreed decisions reached through the AFCA conciliation
+                           • Does the policy cover agreed decisions reached through the AFCA conciliation
                              process? (If not, you will be effectively self-insuring to cover any conciliated
                              agreements through the AFCA scheme.)
-                            Do lower sub-limits apply to AFCA awards and how are claims aggregated for the
+                           • Do lower sub-limits apply to AFCA awards and how are claims aggregated for the
                              purpose of these limits? Again, you will be effectively self-insuring to cover claims
                              outside these limits.
                                  Note: A policy will not be inadequate merely because it contains a lower sub-limit on the
@@ -938,9 +938,9 @@ Table 4:    Features of adequate PI insurance
  list                      where a client is being switched from a fund or product that is not on an approved
                            product list to another fund or product that is on an approved product list.
                            Factors to consider:
-                            AFS licensees should review the product list on a regular basis and inform the
+                           • AFS licensees should review the product list on a regular basis and inform the
                              insurer if there are other products that should be included on the product list.
-                            ASIC considers that this is a key area of potential retail client loss and encourages
+                           • ASIC considers that this is a key area of potential retail client loss and encourages
                              AFS licensees to endeavour to get cover generally for exposure to claims arising
                              from moving a client from a product that is not on an approved product list to a
                              product that is on an approved product list as part of their overall risk management
@@ -948,8 +948,8 @@ Table 4:    Features of adequate PI insurance
 
  Retroactive cover         Minimum requirement: If the AFS licensee had an immediately previous
                            PI insurance policy, the policy must provide retroactive cover to the earlier of:
-                            the retroactive date specified in the immediately previous PI insurance policy; or
-                            the commencement date of the first PI insurance policy in the series of continuous
+                           • the retroactive date specified in the immediately previous PI insurance policy; or
+                           • the commencement date of the first PI insurance policy in the series of continuous
                              policies.
 
  ‘Run-off’ cover           Not required: For the avoidance of doubt, the policy is not required to include
@@ -1498,9 +1498,9 @@ Key terms
                               financial product         Generally, a facility through which, or through the
                                                         acquisition of which, a person does one or more of the
                                                         following:
-                                                         makes a financial investment (see s763B);
-                                                         manages financial risk (see s763C);
-                                                         makes non-cash payments (see s763D)
+                                                        • makes a financial investment (see s763B);
+                                                        • manages financial risk (see s763C);
+                                                        • makes non-cash payments (see s763D)
                                                           Note: See Div 3 of Pt 7.1 of the Corporations Act for the exact
                                                           definition. In addition to the general categories above, this
                                                           specifies certain things as being included or excluded from the
@@ -1550,11 +1550,11 @@ Key terms
                               Term                      Meaning in this document
 
                               representative            Means:
-                                                         an authorised representative of the AFS licensee;
-                                                         an employee or director of the AFS licensee;
-                                                         an employee or director of a related body corporate of
+                                                        • an authorised representative of the AFS licensee;
+                                                        • an employee or director of the AFS licensee;
+                                                        • an employee or director of a related body corporate of
                                                           the AFS licensee; or
-                                                         any other person acting on behalf of the AFS licensee
+                                                        • any other person acting on behalf of the AFS licensee
                                                           Note: This is a definition in s9 of the Corporations Act.
 
                               responsible entity        A responsible entity of a registered scheme as defined in

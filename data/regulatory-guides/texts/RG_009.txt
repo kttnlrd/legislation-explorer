@@ -10,10 +10,10 @@ March 2024
 About this guide
 This guide is for listed and unlisted entities, their advisers, and investors
 involved in a takeover bid. It:
-    discusses ASIC’s regulatory role in relation to takeover bids and how
+•    discusses ASIC’s regulatory role in relation to takeover bids and how
      we interpret and administer the requirements of the takeover provisions
      in Ch 6 of the Corporations Act; and
-    explains how we exercise our discretionary powers in relation to
+•    explains how we exercise our discretionary powers in relation to
      takeover bids, including the power to exempt from, or modify, the
      takeover provisions.
                                                                              REGULATORY GUIDE 9: Takeover bids
@@ -28,11 +28,11 @@ involved in a takeover bid. It:
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -46,7 +46,7 @@ involved in a takeover bid. It:
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 9, issued June 2013, reissued
+                             •       Superseded Regulatory Guide 9, issued June 2013, reissued
                                      December 2016, updated (minor) July 2020 and reissued September
                                      2020
 
@@ -473,9 +473,9 @@ Table 1:      Summary of our guidance on takeover bids
 
  Takeover offers     We discuss a number of matters relevant to a bidder in structuring its bid    Section B
                      and formulating the terms of its offers, including:
-                      determining classes of securities in the target and which securities the
+                     • determining classes of securities in the target and which securities the
                        offer may relate to; and
-                      dealing with small holdings, foreign holders, and holders who do not
+                     • dealing with small holdings, foreign holders, and holders who do not
                        provide transfer documents.
 
  Bids for multiple   We discuss the relief we may provide when a bidder wants to bid for           Section C
@@ -502,8 +502,8 @@ Table 1:      Summary of our guidance on takeover bids
  Bidder’s            We discuss some of the information that should be included in the             Section G
  statement           bidder’s statement and the disclosure relief that may be available. We
                      also discuss our relief:
-                      to use a replacement bidder’s statement; and
-                      extending the time for dispatching the bidder’s statement to holders.
+                     • to use a replacement bidder’s statement; and
+                     • extending the time for dispatching the bidder’s statement to holders.
 
 
 
@@ -523,11 +523,11 @@ Table 1:      Summary of our guidance on takeover bids
 
  Consents             We discuss our relief from the consent requirement when quoting in           Section I
                       the bidder’s and target’s statements:
-                       books and journals;
-                       public officials;
-                       previous geological reports;
-                       trading data; and
-                       statements made by others in documents given to a securities
+                      • books and journals;
+                      • public officials;
+                      • previous geological reports;
+                      • trading data; and
+                      • statements made by others in documents given to a securities
                         exchange or lodged with ASIC.
 
  Supplementary        We discuss when sending, or not sending, supplementary statements            Section J
@@ -605,9 +605,9 @@ Table 2:     Other ASIC guidance that may be relevant
  misleading statements                     ensure that relevant parties in a bid do not mislead target holders and
                                            the market by acting inconsistently with the statements they make.
                                            It also discusses:
-                                            when and how relevant persons should provide corrective or
+                                           • when and how relevant persons should provide corrective or
                                              updated disclosure in a bid; and
-                                            the action we may take where a disclosure is misleading, ambiguous
+                                           • the action we may take where a disclosure is misleading, ambiguous
                                              or confusing.
 
  RG 55 Statements in disclosure            We discuss the requirement to obtain a person’s consent for
@@ -626,8 +626,8 @@ Table 2:     Other ASIC guidance that may be relevant
 
  RG 170 Prospective financial              We outline our policy on issuers’ obligations when disclosing
  information                               prospective financial information, such as:
-                                            when and how such information can or should be disclosed; and
-                                            what constitutes reasonable grounds for disclosing prospective
+                                           • when and how such information can or should be disclosed; and
+                                           • what constitutes reasonable grounds for disclosing prospective
                                              financial information.
 
 
@@ -645,9 +645,9 @@ Table 2:     Other ASIC guidance that may be relevant
  disclosure for retail investors           as a bidder’s statement or target’s statement, in a clear, concise and
                                            effective manner to assist in ensuring they are not misleading: s670A.
                                            It also explains:
-                                            what information investors generally require and expect to find in a
+                                           • what information investors generally require and expect to find in a
                                              s710 prospectus; and
-                                            the requirements of s711–712.
+                                           • the requirements of s711–712.
                                              Note: This may be relevant to the bidder’s disclosure in a scrip bid:
                                              s636(1)(g).
                                            See also Regulatory Guide 254 Offering securities under a disclosure
@@ -1734,7 +1734,7 @@ Exercising convertible securities acquired under a bid
               RG 9.138       Our relief will also require that the bidder’s offer for the convertible
                              securities is equitable compared with the offer for the voting shares or
                              interests, taking into account the rights and obligations attaching to the two
-                             classesthat is, the bidder must not make an offer at a premium for the
+                             classes•that is, the bidder must not make an offer at a premium for the
                              convertible securities and an offer at market or at a discount for the shares or
                              interests.
 
@@ -2030,10 +2030,10 @@ Table 3:     Summary of valuation approaches for the minimum bid price rule
  market)                 the date of the pre-bid purchase: see       days before any chosen valuation time
                          RG 9.176–RG 9.180.                          that:
 
-                         Or                                           is within the five business days before
+                         Or                                          • is within the five business days before
                                                                        the first offer is made to a holder; and
                          Valuation in accordance with case-by-
-                                                                      ensures the two-day valuation period
+                                                                     • ensures the two-day valuation period
                          case relief: see RG 9.196.
                                                                        does not start until at least five full
                                                                        trading days after the bidder’s statement
@@ -3562,10 +3562,10 @@ Table 4:       Factors that may suggest a benefit is likely to induce acceptance
  or disposal            on, the holder’s acceptance of the bid or disposal of the securities, the benefit will generally
                         amount to an inducement. It does not matter whether a link of this kind is implied, informal
                         or arises from an undocumented understanding between the parties.
-                        Less direct links may also suggest inducement in the circumstancesfor example:
-                         if the benefit is linked in a commercial sense with the holder’s acceptance or disposal
+                        Less direct links may also suggest inducement in the circumstances•for example:
+                        • if the benefit is linked in a commercial sense with the holder’s acceptance or disposal
                           (Aberfoyle); or
-                         if the holder’s acceptance or disposal will guarantee, or materially increase the
+                        • if the holder’s acceptance or disposal will guarantee, or materially increase the
                           likelihood, that a precondition to receiving the benefit will be satisfied.
                           Note: In some cases, even when an offer or benefit is not linked to the bid legally or commercially,
                           the overall circumstances or presentation of the offer or benefit may still give rise to a connection
@@ -3602,11 +3602,11 @@ Table 4:       Factors that may suggest a benefit is likely to induce acceptance
  Objective effect       Objective indications of the purpose and effect of the transaction involving a benefit may
  and circumstances      also give rise to concern that the benefit is likely to induce acceptance or disposal,
  of the benefit         including:
-                         where the parties have entered into unnecessarily complex or circuitous arrangements
+                        • where the parties have entered into unnecessarily complex or circuitous arrangements
                           or transactions—this may suggest a greater likelihood that a value transfer or other
                           inducement inherent in the benefit has been masked;
-                         where the overall arrangements are inconsistent with the stated purpose; and
-                         where the bidder appears to have selectively entered into beneficial arrangements with
+                        • where the overall arrangements are inconsistent with the stated purpose; and
+                        • where the bidder appears to have selectively entered into beneficial arrangements with
                           certain holders, unnecessarily favouring those with larger holdings.
 
 
@@ -3858,9 +3858,9 @@ Table 5:     Requirements for our relief for underwriting and placements, and co
  shares if there is reason to believe that the        accept the bid.
  bidder is the ultimate purchaser, unless:
                                                       This requirement directly reduces the likelihood that the
-  the offers under the takeover bid have been        underwriter will accept the bidder’s takeover bid because of
+ • the offers under the takeover bid have been        underwriter will accept the bidder’s takeover bid because of
    open for acceptance for three weeks; and           an inducement. It also removes to some extent the incentive
-  the underwriter reasonably believes that the       for a bidder to offer an inducement in the form of
+ • the underwriter reasonably believes that the       for a bidder to offer an inducement in the form of
    bidder’s takeover bid provides the best            underwriting or placements, because there is a possibility
    consideration on offer.                            that its bid will not be accepted if a rival bid is announced.
  However, we may grant relief without this            The three-week timeframe is designed to provide sufficient
@@ -3932,10 +3932,10 @@ Table 5:     Requirements for our relief for underwriting and placements, and co
  securities in the target in which the underwriter    to purchase an underwriter’s securities in the target while a
  has a disposal relevant interest between the         bidder’s offer to the underwriter for underwriting or
  time that:                                           placements is open for acceptance. Otherwise, it would be
-  the bidder first makes an offer to the             possible for the relief to be abused.
+ • the bidder first makes an offer to the             possible for the relief to be abused.
    underwriter to enter into a funding agreement;
    and
-  the bidder receives from the underwriter the
+ • the bidder receives from the underwriter the
    written statement referred to at RG 9.333.
 
  The bidder may only knowingly purchase               This condition complements the requirements imposed on
@@ -5021,10 +5021,10 @@ Table 6:     Modified information requirements for the bidder’s statement unde
                                                    and address of holders.             included for dispatch.
 
  Bid timing, including:                            The bidder may omit the date        Dates must be included.
-  the offer period, which must be stated in       of the proposed offer, or any
+ • the offer period, which must be stated in       of the proposed offer, or any
    the offer under s624(1); and                    other date that is related to, or
                                                    dependent on, that date.
-  the date for giving the notice of status of
+ • the date for giving the notice of status of
    conditions required under s630(1)
 
  Details of the purchases and benefits given       The bidder may disclose this        Disclosure must be updated to
@@ -5244,12 +5244,12 @@ Table 7:     Terms of our relief for replacement bidder’s statements
  Lodgement and sending         No later than the time allowed for sending the original bidder’s statement, the
  of replacement and            bidder must lodge with us and send to the target (and, if the target is listed, the
  marked-up replacement         operator of the prescribed financial market):
-                                a copy of the replacement bidder’s statement; and
-                                a marked-up copy of the replacement bidder’s statement showing the changes
+                               • a copy of the replacement bidder’s statement; and
+                               • a marked-up copy of the replacement bidder’s statement showing the changes
                                  from the original bidder’s statement.
 
  Dispatch of replacement       The bidder must dispatch to holders the replacement bidder’s statement:
-                                in an off-market bid—14 to 28 days after the replacement bidder’s statement
+                               • in an off-market bid—14 to 28 days after the replacement bidder’s statement
                                  and marked-up replacement is lodged with us and sent to the target (and, if
                                  applicable, the operator of the prescribed financial market), unless:
                                  − the only change from the original bidder’s statement is an update on the
@@ -5258,21 +5258,21 @@ Table 7:     Terms of our relief for replacement bidder’s statements
                                    target’s statement may be approved, as specified in s639(1); or
                                  − ASIC agrees in writing to a shorter period of time: see RG 9.447–RG 9.448;
                                    and
-                                in a market bid—within 14 days after the replacement bidder’s statement and
+                               • in a market bid—within 14 days after the replacement bidder’s statement and
                                  marked-up replacement is lodged with us and sent to the target (and, if
                                  applicable, the operator of the prescribed financial market).
 
  Content of replacement        The replacement bidder’s statement must:
-                                be clearly identified as a replacement bidder’s statement;
-                                be dated the day it is lodged with us;
-                                explain that it replaces the original bidder’s statement and, where applicable,
+                               • be clearly identified as a replacement bidder’s statement;
+                               • be dated the day it is lodged with us;
+                               • explain that it replaces the original bidder’s statement and, where applicable,
                                  each supplementary bidder’s statement lodged with us;
-                                incorporate all the substantive information in the original bidder’s statement and
+                               • incorporate all the substantive information in the original bidder’s statement and
                                  each supplementary bidder’s statement that was lodged before, or at the same
                                  time as, the replacement;
-                                give the date that the original bidder’s statement and, where applicable, each
+                               • give the date that the original bidder’s statement and, where applicable, each
                                  supplementary bidder’s statement was lodged with us; and
-                                set out or reflect offers under the bid that are on the same terms as those set out
+                               • set out or reflect offers under the bid that are on the same terms as those set out
                                  in the original bidder’s statement and offer document (if any) lodged with ASIC.
 
 
@@ -5357,8 +5357,8 @@ Table 7:     Terms of our relief for replacement bidder’s statements
                              information before it dispatches the bidder’s statement to holders.
 
               RG 9.451       The requirements in s633A(3)(b) and (c) and s635A(3)(b) and (c) (inserted
-                             by ASIC Instrument 2023/688)for example, to date the bidder’s statement
-                             with the day on which the replacement statement is lodgeddo not apply.
+                             by ASIC Instrument 2023/688)•for example, to date the bidder’s statement
+                             with the day on which the replacement statement is lodged•do not apply.
                              This is because these are standard changes made under ASIC Instrument
                              2023/683, rather than under our relief in ASIC Instrument 2023/688 relating
                              to replacement bidder’s statements.
@@ -5597,28 +5597,28 @@ Table 8:     Terms of our relief for replacement target’s statements
  Lodgement and sending         No later than the time allowed for sending the original target’s statement, the
  of replacement and            target must lodge with us and send to the bidder (and, if the target is listed, the
  marked-up replacement         operator of the prescribed financial market):
-                                a copy of the replacement target’s statement; and
-                                a marked-up copy of the replacement bidder’s statement showing the changes
+                               • a copy of the replacement target’s statement; and
+                               • a marked-up copy of the replacement bidder’s statement showing the changes
                                  from the original target’s statement.
 
  Dispatch of replacement       The target must dispatch to holders the replacement target’s statement:
-                                in an off-market bid:
+                               • in an off-market bid:
                                    − no earlier than the day on which the target sends the target’s statement to the
                                      bidder; and
                                    − no later than 15 days after the target receives a notice from the bidder that all
                                      offers have been sent.
-                                in a market bid—within 14 days after the bid announcement or, if applicable,
+                               • in a market bid—within 14 days after the bid announcement or, if applicable,
                                  lodgement of a replacement bidder’s statement.
 
  Content of replacement        The replacement target’s statement must:
-                                be clearly identified as a replacement target’s statement;
-                                be dated the day it is lodged with us;
-                                explain that it replaces the original target’s statement and, where applicable,
+                               • be clearly identified as a replacement target’s statement;
+                               • be dated the day it is lodged with us;
+                               • explain that it replaces the original target’s statement and, where applicable,
                                  each supplementary target’s statement lodged with us;
-                                incorporate all the substantive information in the original target’s statement and
+                               • incorporate all the substantive information in the original target’s statement and
                                  each supplementary target’s statement that was lodged before, or at the same
                                  time as, the replacement;
-                                give the date that the original target’s statement and, where applicable, each
+                               • give the date that the original target’s statement and, where applicable, each
                                  supplementary target’s statement was lodged with us.
 
 
@@ -6253,7 +6253,7 @@ Supplementary statements when the target is listed
 
               RG 9.527       Despite compliance with s647(3), in some circumstances, failure to send
                              a supplementary statement to holders may give rise to unacceptable
-                             circumstances under s657Afor example, this failure may be contrary to the
+                             circumstances under s657A•for example, this failure may be contrary to the
                              purposes of Ch 6 of ensuring that:
                              (a)   holders are given enough information to enable them to assess the
                                    merits of the proposal (s602(b)(iii)); and
@@ -6492,10 +6492,10 @@ Withdrawal rights
                                    Note: In a conditional bid, this date is generally referenced from the end of the offer
                                    period: s620(2)(a).
 
-              RG 9.554       The alternative readingthat the postponement is measured from the date
+              RG 9.554       The alternative reading•that the postponement is measured from the date
                              for providing consideration under the offers, as previously extended, even if
                              previous extensions have already had the effect of postponing the time for
-                             paymentis excluded by both the construction of the provisions and their
+                             payment•is excluded by both the construction of the provisions and their
                              underlying policy.
 
               RG 9.555       The following examples illustrate the application of s650E in practice.
@@ -7486,9 +7486,9 @@ Table 10: Conditions of relief for joint bids and schemes
  2. Acceptance into higher rival bid / No vote against higher rival scheme                 RG 9.650–RG 9.656
 
  The joint bidders or acquirers and their associates:
-  must accept a rival bid that is higher than their bid or scheme proposal unless they
+ • must accept a rival bid that is higher than their bid or scheme proposal unless they
    match the rival bid; and
-  if a higher rival scheme of arrangement is proposed, must not vote against the
+ • if a higher rival scheme of arrangement is proposed, must not vote against the
    scheme.
 
 
@@ -7507,9 +7507,9 @@ Table 10: Conditions of relief for joint bids and schemes
 
  The joint bidders or acquirers must use their best endeavours to have the target
  engage an independent expert to prepare a report on whether:
-  in a joint bid—the bid is fair and reasonable to target holders who are not
+ • in a joint bid—the bid is fair and reasonable to target holders who are not
    associates of the bidders; or
-  in a joint scheme—whether the scheme is in the best interests of the target
+ • in a joint scheme—whether the scheme is in the best interests of the target
    holders.
 
  4. Termination of joint bid arrangements                                                       RG 9.658
@@ -7517,10 +7517,10 @@ Table 10: Conditions of relief for joint bids and schemes
  The joint bidders or acquirers must immediately terminate any relevant agreements or
  arrangements relating to the joint bid or scheme if the bid or scheme for which relief was
  obtained:
-  does not proceed (including, in a scheme, because the scheme did not receive
+ • does not proceed (including, in a scheme, because the scheme did not receive
    the necessary majority under s411(4)(a), or the court makes an order, which is
    final and not appealable, not to approve the scheme under s411(4)(b)); or
-  fails because of a defeating condition that has neither been satisfied nor waived.
+ • fails because of a defeating condition that has neither been satisfied nor waived.
 
 
 
@@ -7824,7 +7824,7 @@ Addressing a non-compliant bid
                              to address the effect of the contravention.
 
               RG 9.673       Our relief will mean that the breach does not give rise to a contravention of
-                             the general prohibition in s606however, it will not cover the primary
+                             the general prohibition in s606•however, it will not cover the primary
                              breach of the relevant provisions listed in s612. Third parties will retain a
                              cause of action for the original breach (subject to s659C).
 
@@ -7976,11 +7976,11 @@ Key terms
                                defeating condition       Has the meaning given in s9 of the Corporations Act
 
                                disposal relevant         A relevant interest disregarding the operation of:
-                               interest                   s608(1)(b) (relevant interest arising from the power to
+                               interest                  • s608(1)(b) (relevant interest arising from the power to
                                                            exercise or control the exercise of voting rights);
-                                                          608(3)(a) (deemed relevant interest arising from a
+                                                         • 608(3)(a) (deemed relevant interest arising from a
                                                            voting power of 20% or more); and
-                                                          608(8) (accelerated relevant interest)
+                                                         • 608(8) (accelerated relevant interest)
 
                                financial market          As defined in s767A of the Corporations Act, a facility
                                                          through which offers to acquire or dispose of financial

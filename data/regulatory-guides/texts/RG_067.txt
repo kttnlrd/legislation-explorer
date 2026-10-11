@@ -25,11 +25,11 @@ estate company.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -43,7 +43,7 @@ estate company.
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Policy Statement 67, issued October 1993, reissued
+                             •       Superseded Policy Statement 67, issued October 1993, reissued
                                      December 1994, July 1996, December 2006, rebadged as a regulatory
                                      guide 7 July 2007
 
@@ -253,19 +253,19 @@ B          Our approach to real estate companies
 Table 1:       Categories of ‘real estate company’
 
  Company title                A company:
-                               that is not listed on a prescribed financial market as defined in reg 7.1.01 of the
+                              • that is not listed on a prescribed financial market as defined in reg 7.1.01 of the
                                 Corporations Regulations 2001;
-                               that is either the proprietor or the lessee under a crown lease granted for a
+                              • that is either the proprietor or the lessee under a crown lease granted for a
                                 period of not less than 99 years of land on which a building (or buildings) divided
                                 into individual areas is erected; and
-                               whose shareholders, by holding their shares, have rights to exclusive occupancy
+                              • whose shareholders, by holding their shares, have rights to exclusive occupancy
                                 of a particular area or areas within a building and the right to the use of any
                                 common areas.
 
                               The company must also either:
-                               have a constitution that prohibits the payment of a dividend to its members other
+                              • have a constitution that prohibits the payment of a dividend to its members other
                                 than on the winding up of the company; or
-                               operate principally for the purposes of:
+                              • operate principally for the purposes of:
                                 − facilitating and enforcing the rights of shareholders in relation to the exclusive
                                   occupation of their particular areas; and
                                 − maintaining any common areas.
@@ -373,14 +373,14 @@ Disclosure
 Table 2:     Summary of conditions in the relief relating to disclosure
 
  Property and                    The contract must set out:
- occupancy                        particulars of the areas to which the shares relate, title particulars of the property
+ occupancy                       • particulars of the areas to which the shares relate, title particulars of the property
                                    to which the shares relate and any interests affecting that property; and
-                                  all occupancy and any usage rights to the areas to which the shares relate.
+                                 • all occupancy and any usage rights to the areas to which the shares relate.
 
  Title                           The contract must specify that on completion:
-                                  the vendor will be, or will be entitled to be, the registered holder of the shares;
+                                 • the vendor will be, or will be entitled to be, the registered holder of the shares;
                                    and
-                                  the title of the real estate company to the land will be unencumbered, except for
+                                 • the title of the real estate company to the land will be unencumbered, except for
                                    any matter affecting the title disclosed in the contract.
 
  Requisitions                    The contract must entitle the purchaser to make requisitions on the vendor’s title to
@@ -390,18 +390,18 @@ Table 2:     Summary of conditions in the relief relating to disclosure
  Warranty                        The contract must include a warranty that, as far as the vendor is aware after
                                  making reasonable inquiries of the directors and except as disclosed in the
                                  contract:
-                                  the real estate company has no actual or contingent liabilities (except for normal
+                                 • the real estate company has no actual or contingent liabilities (except for normal
                                    operating expenses for its current financial year);
-                                  there are no defects (whether ‘latent’ or ‘patent’) in any common areas requiring
+                                 • there are no defects (whether ‘latent’ or ‘patent’) in any common areas requiring
                                    repair or replacement (other than ordinary wear and tear);
-                                  the real estate company is not subject to external administration or in the
+                                 • the real estate company is not subject to external administration or in the
                                    process of being wound up; and
-                                  there are no court proceedings pending against the real estate company that
+                                 • there are no court proceedings pending against the real estate company that
                                    might prejudice or detrimentally affect it or its assets.
 
  Annexures                       The contract must include current copies of:
-                                  the title documents for the property to which the shares relate; and
-                                  the constitution and any other charter documents of the real estate company.
+                                 • the title documents for the property to which the shares relate; and
+                                 • the constitution and any other charter documents of the real estate company.
 
 Note: For full details of the conditions, see ASIC Corporations (Real Estate Companies) Instrument 2015/1049.
 
@@ -562,8 +562,8 @@ Real estate agents
 Table 3:     Summary of conditions in our relief relating to licensing
 
  Disclosure in writing           You must advise the client in writing that:
-                                  you do not hold an AFS licence; and
-                                  the relationship between the you and the client will be governed by the real
+                                 • you do not hold an AFS licence; and
+                                 • the relationship between the you and the client will be governed by the real
                                    estate licensing requirements in the relevant state or territory.
 
  Contract                        The contract for the sale of the shares must comply with the conditions in Table 2.
@@ -679,19 +679,19 @@ Key terms
 
                               financial product         A facility through which, or through the acquisition of
                                                         which, a person does one or more of the following:
-                                                         makes a financial investment (see s763B);
-                                                         manages financial risk (see s763C);
-                                                         makes non-cash payments (see s763D)
+                                                        • makes a financial investment (see s763B);
+                                                        • manages financial risk (see s763C);
+                                                        • makes non-cash payments (see s763D)
                                                              Note: This is a definition contained in s763A of the
                                                              Corporations Act: see also s763B–765A.
 
                               financial product         A recommendation or a statement of opinion, or a report
                               advice                    of either of these things, that:
-                                                         is intended to influence a person or persons in making
+                                                        • is intended to influence a person or persons in making
                                                           a decision about a particular financial product or class
                                                           of financial product, or an interest in a particular
                                                           financial product or class of financial product; or
-                                                         could reasonably be regarded as being intended to
+                                                        • could reasonably be regarded as being intended to
                                                           have such an influence.
 
                                                         This does not include anything in an exempt document
@@ -718,9 +718,9 @@ Key terms
 
                               personal advice           Financial product advice given or directed to a person
                                                         (including by electronic means) in circumstances where:
-                                                         the person giving the advice has considered one or more
+                                                        • the person giving the advice has considered one or more
                                                           of the client’s objectives, financial situation and needs; or
-                                                         a reasonable person might expect the person giving the
+                                                        • a reasonable person might expect the person giving the
                                                           advice to have considered one or more of these
                                                           matters
                                                              Note: This is a definition contained in s766B(3) of the

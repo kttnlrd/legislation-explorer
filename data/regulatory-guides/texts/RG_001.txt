@@ -27,11 +27,11 @@ documentation you will need to provide as part of the application process.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -45,15 +45,15 @@ documentation you will need to provide as part of the application process.
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 1, issued June 2022, November 2007,
+                             •       Superseded Regulatory Guide 1, issued June 2022, November 2007,
                                      January 2008, May 2010, June 2012, July 2014, July 2015, August 2016,
                                      September 2017, April 2020, January 2021 and December 2021
-                                    Superseded AFS Licensing Kit Part 1, issued February 2002 (version 1),
+                             •       Superseded AFS Licensing Kit Part 1, issued February 2002 (version 1),
                                      updated October 2002 (version 2), April 2003 (version 3), October 2003
                                      (version 4), March 2004 (version 5) and September and December
                                      2004 (version 6), revised November 2005 (version 7), rebadged as a
                                      regulatory guide July 2007
-                                    How do you get an Australian financial services licence?—Process
+                             •       How do you get an Australian financial services licence?—Process
                                      guideline, issued October 2001
 
                              This guide will also replace RG 2 and RG 3.
@@ -2857,19 +2857,19 @@ Table 3:     Financial product categories covered under an AFS licence
                                                                schemes)                                    Deal—Apply for, acquire, vary or dispose of the financial
  For more information on:                                                                                  product on behalf of another person
                                                                IDPS/platform operators
-  IDPS-like schemes, see RG 148                                                                           Arrange for another person to—Issue, apply for, acquire,
+ • IDPS-like schemes, see RG 148                                                                           Arrange for another person to—Issue, apply for, acquire,
                                                                MDA services providers
-  mortgage investment schemes, see RG 144                                                                 vary or dispose of the financial product
-  schemes that invest in, or provide direct exposure          Financial planners
+ • mortgage investment schemes, see RG 144                                                                 vary or dispose of the financial product
+ • schemes that invest in, or provide direct exposure          Financial planners
                                                                                                            Arrange for another person to—Apply for, acquire, vary or
    to, crypto-assets that are not financial products, see                                                  dispose of the financial product
    INFO 225
                                                                                                            Operate a registered scheme (responsible entity only)
-  MDA services, see RG 179
-  strata schemes and management rights schemes,                                                           General or personal advice about the financial product
+ • MDA services, see RG 179
+ • strata schemes and management rights schemes,                                                           General or personal advice about the financial product
    see Regulatory Guide 140 Strata schemes and
    management rights schemes (RG 140)
-  time-sharing schemes, see RG 160
+ • time-sharing schemes, see RG 160
 
  Margin lending facilities—including standard margin           Margin loan lenders                         Deal—Issue, apply for, acquire, vary or dispose of the
  lending facilities and non-standard margin lending                                                        financial product
@@ -3018,9 +3018,9 @@ Key terms
 
                                ADI                       An authorised deposit-taking institution—a corporation that
                                                          is authorised under the Banking Act 1959. ADIs include:
-                                                          banks;
-                                                          building societies; and
-                                                          credit unions
+                                                         • banks;
+                                                         • building societies; and
+                                                         • credit unions
 
                                AFCA                      Australian Financial Complaints Authority—the external
                                                          dispute resolution scheme for which an authorisation
@@ -3099,8 +3099,8 @@ Key terms
                                                          (including rights to property), the ownership of which is
                                                          evidenced cryptographically and that is held and
                                                          transferred electronically by:
-                                                          a type of distributed ledger technology; or
-                                                          another distributed cryptographically verifiable data
+                                                         • a type of distributed ledger technology; or
+                                                         • another distributed cryptographically verifiable data
                                                            structure
 
                                CSF                       Crowd-sourced funding
@@ -3139,23 +3139,23 @@ Key terms
                                fit and proper person     A person who ASIC must have no reason to believe is not
                                                          fit and proper to perform one or more of their functions
                                                          under s913BA of the Corporations Act, including:
-                                                          if you are a body corporate—each of your officers;
-                                                          if you are a partnership or multiple trustee:
+                                                         • if you are a body corporate—each of your officers;
+                                                         • if you are a partnership or multiple trustee:
                                                            − any partners or trustees; and
                                                            − any senior managers of the partnership or trust;
-                                                          if you are an individual—you;
-                                                          any person who ‘controls’ you, as the applicant
+                                                         • if you are an individual—you;
+                                                         • any person who ‘controls’ you, as the applicant
                                                            (referred to as a controller); and
-                                                          any officer, partner, trustee or senior manager of a
+                                                         • any officer, partner, trustee or senior manager of a
                                                            controller
                                                            Note: See s910B of the Corporations Act for the definition of
                                                            ‘control’.
 
                                foreign AFS licence       A modified AFS licence issued to a foreign financial
                                                          services provider that:
-                                                          provides financial services to wholesale clients in
+                                                         • provides financial services to wholesale clients in
                                                            Australia; and
-                                                          is regulated by an overseas regulatory regime that
+                                                         • is regulated by an overseas regulatory regime that
                                                            ASIC has determined is sufficiently equivalent to the
                                                            Australian regulatory regime
 
@@ -3222,11 +3222,11 @@ Key terms
                                superannuation fund       (Supervision) Act 1993
 
                                representative            Means:
-                                                          an authorised representative of the licensee;
-                                                          an employee or director of the licensee;
-                                                          an employee or director of a related body corporate of
+                                                         • an authorised representative of the licensee;
+                                                         • an employee or director of the licensee;
+                                                         • an employee or director of a related body corporate of
                                                            the licensee; or
-                                                          any other person acting on behalf of the licensee
+                                                         • any other person acting on behalf of the licensee
                                                            Note: This is a definition contained in s9 of the Corporations
                                                            Act.
 
@@ -3266,10 +3266,10 @@ Key terms
                                senior manager            Has the meaning given by s9 of the Corporations Act in
                                                          relation to a partnership or trust as a person, other than a
                                                          partner or trustee, who:
-                                                          makes, or participates in making, decisions that affect
+                                                         • makes, or participates in making, decisions that affect
                                                            the whole, or a substantial part, of the business or
                                                            affairs of the partnership or trust; and
-                                                          has the capacity to affect significantly the financial
+                                                         • has the capacity to affect significantly the financial
                                                            standing of the partnership or trust
 
                                simple managed            A registered scheme that invests at least 80% of its
@@ -3289,15 +3289,15 @@ Key terms
 
                                traditional trustee       Has the meaning given in s601RAC of the Corporations
                                company services          Act, and includes:
-                                                          performing estate management functions (as defined in
+                                                         • performing estate management functions (as defined in
                                                            s601RAC(2) of the Corporations Act);
-                                                          preparing a will, a trust instrument, a power of attorney
+                                                         • preparing a will, a trust instrument, a power of attorney
                                                            or an agency arrangement;
-                                                          applying for probate of a will, applying for grant of
+                                                         • applying for probate of a will, applying for grant of
                                                            letters of administration, or electing to administer a
                                                            deceased estate;
-                                                          establishing and operating common funds; and
-                                                          any other services prescribed by the Corporations
+                                                         • establishing and operating common funds; and
+                                                         • any other services prescribed by the Corporations
                                                            Regulations as traditional trustee company services
 
                                trustee company           Has the meaning given in s601RAB of the Corporations

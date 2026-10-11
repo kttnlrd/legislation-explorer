@@ -29,11 +29,11 @@ obtain shareholder approval.
                                Consultation papers: seek feedback from stakeholders on matters ASIC
                                is considering, such as proposed relief or proposed regulatory guidance.
                                Regulatory guides: give guidance to regulated entities by:
-                                    explaining when and how ASIC will exercise specific powers under
+                               •     explaining when and how ASIC will exercise specific powers under
                                      legislation (primarily the Corporations Act)
-                                    explaining how ASIC interprets the law
-                                    describing the principles underlying ASIC’s approach
-                                    giving practical guidance (e.g. describing the steps of a process such
+                               •     explaining how ASIC interprets the law
+                               •     describing the principles underlying ASIC’s approach
+                               •     giving practical guidance (e.g. describing the steps of a process such
                                      as applying for a licence or giving practical examples of how
                                      regulated entities may decide to meet their obligations).
                                Information sheets: provide concise guidance on a specific process or
@@ -56,7 +56,7 @@ obtain shareholder approval.
                               updated Rows D and E of Table 1.
 
                               Previous versions:
-                                 Superseded Policy Statement 110, issued May 1996, August 1997 and
+                              •   Superseded Policy Statement 110, issued May 1996, August 1997 and
                                   October 1998, rebadged as a regulatory guide on 5 July 2007
 
 
@@ -171,19 +171,19 @@ Table 1:     Summary of requirements under the buy-back provisions
  A. Employee share scheme or on-market buy-back (within 10/12 limit)
  None                       A notice indicating the company intends to carry out      At least 14 days before the
                             a buy-back (Form 281). The notice must:                   buy-back agreement is
-                             specify a date or period for the proposed buy-back;     entered into: s257F(1)(b).
+                            • specify a date or period for the proposed buy-back;     entered into: s257F(1)(b).
                               and
-                             may cover buy-backs carried out:
+                            • may cover buy-backs carried out:
                                − under a particular scheme; or
                                − as part of particular on-market buy-back activity.
 
  B. Employee share scheme or on-market buy-back (over 10/12 limit)
  By ordinary resolution:    A notice with details of share buy-back (Form 280).       Before the notice of meeting
  s257C                      The notice must:                                          is sent to shareholders:
-                             specify a date or period for the proposed buy-back;     s257C(3). You may meet the
+                            • specify a date or period for the proposed buy-back;     s257C(3). You may meet the
                               and                                                     requirement in s257F(1) to
                                                                                       give ASIC 14 days notice by
-                             be accompanied by:
+                            • be accompanied by:
                                                                                       lodging the notice as for ‘A’
                                − the notice of meeting; and                           in advance of other
                                − any other documents relating to the buy-back         documents: s257F(2)(b).
@@ -192,9 +192,9 @@ Table 1:     Summary of requirements under the buy-back provisions
  C. Equal access scheme (within 10/12 limit)
  None                       A notice with details of share buy-back (Form 280)        Before the buy-back
                             accompanied by:                                           agreement is entered into:
-                             the document setting out the terms of the offer; and    s257E. You may meet the
+                            • the document setting out the terms of the offer; and    s257E. You may meet the
                                                                                       requirement in s257F(1) to
-                             any other documents that will accompany the offer.
+                            • any other documents that will accompany the offer.
                                                                                       give ASIC 14 days notice by
                                                                                       lodging the notice as for ‘A’
                                                                                       in advance of other
@@ -203,26 +203,26 @@ Table 1:     Summary of requirements under the buy-back provisions
  D. Equal access scheme (over 10/12 limit)
  By ordinary resolution:    A notice with details of share buy-back (Form 280)        As for both ‘B’ and ‘C’. You
  s257C                      accompanied by:                                           may meet the requirement
-                             the notice of meeting;                                  in s257F(1) to give ASIC
+                            • the notice of meeting;                                  in s257F(1) to give ASIC
                                                                                       14 days notice by lodging
-                             any other documents relating to the buy-back that
+                            • any other documents relating to the buy-back that
                                                                                       notice as for ‘A’ in advance
                               will accompany it;
                                                                                       of other documents:
-                             the document setting out the terms of the offer; and    s257F(2)(b).
-                             any other documents that will accompany the offer.
+                            • the document setting out the terms of the offer; and    s257F(2)(b).
+                            • any other documents that will accompany the offer.
 
  E. Selective buy-back
  By special or              A notice with details of share buy-back (Form 280)        As for both ‘B’ and ‘C’. You
  unanimous resolution       accompanied by:                                           may meet the requirement
- unless exempted:            the notice of meeting;                                  in s257F(1) to give ASIC
+ unless exempted:           • the notice of meeting;                                  in s257F(1) to give ASIC
  s257D                                                                                14 days notice by lodging the
-                             any other documents relating to the buy-back that
+                            • any other documents relating to the buy-back that
                                                                                       notice as for ‘A’ in advance
  (See Section C for           will accompany it;
                                                                                       of other documents:
- our policy on relief)       the document setting out the terms of the offer; and    s257F(2)(b).
-                             any other documents that will accompany the offer.
+ our policy on relief)      • the document setting out the terms of the offer; and    s257F(2)(b).
+                            • any other documents that will accompany the offer.
 
 
 
@@ -369,39 +369,39 @@ Table 2:     What to disclose
  Details of the buy-back                                       Independent report
 
  A company should disclose:                                    If a company proposes to buy back a significant
-  the number of shares on issue;                              percentage of shares or the holdings of a major
-  the number and percentage of shares to be bought            shareholder, it should consider providing:
-   back;                                                        a report by its independent directors about whether
-  particulars of the terms of the buy-back;                     shareholders should vote in favour of the buy-back,
+ • the number of shares on issue;                              percentage of shares or the holdings of a major
+ • the number and percentage of shares to be bought            shareholder, it should consider providing:
+   back;                                                       • a report by its independent directors about whether
+ • particulars of the terms of the buy-back;                     shareholders should vote in favour of the buy-back,
                                                                  particularly regarding how much the company is
-  the offer price or a simple formula to calculate the
+ • the offer price or a simple formula to calculate the
                                                                  paying for the shares; and
    price;
-  the reasons for the buy-back (as a matter of best            an independent expert’s report with a valuation of
+ • the reasons for the buy-back (as a matter of best           • an independent expert’s report with a valuation of
    practice, this should include a short description of          the shares.
    why other ways of returning excess capital have not              Note: For our policy on experts’ reports, see
    been chosen);                                                    Regulatory Guide 111 Content of expert reports
-  the interests of any director who may participate in             (RG 111).
+ • the interests of any director who may participate in             (RG 111).
    the buy-back agreement;
-  the financial effect of the buy-back on the company
+ • the financial effect of the buy-back on the company
    (including on the level of franking credits to be           Non-cash consideration
    expended);
-  the source of the funds for the buy-back;                   To fulfil the disclosure requirements, directors will
+ • the source of the funds for the buy-back;                   To fulfil the disclosure requirements, directors will
                                                                usually need to provide:
-  if shareholder approval is required, the advantages
-   and disadvantages of the buy-back;                           a valuation of the assets offered as consideration
+ • if shareholder approval is required, the advantages
+   and disadvantages of the buy-back;                          • a valuation of the assets offered as consideration
                                                                  for the buy-back; and
-  for a selective buy-back:
-   − the effect the buy-back will have on the control of        an assessment of the effect on the company of the
+ • for a selective buy-back:
+   − the effect the buy-back will have on the control of       • an assessment of the effect on the company of the
      the company; and                                            assets being transferred.
    − the identity of the selling shareholders;
-  for an equal access scheme or an on-market buy-
+ • for an equal access scheme or an on-market buy-
    back, the date the offer will start and close;
-  if the company must lodge audited financial
+ • if the company must lodge audited financial
    statements, its latest set of audited financial
    statements (unless they have been recently given to
    the shareholders); and
-  if the company is listed, information about the
+ • if the company is listed, information about the
    current share price and any additional information
    required by the relevant financial market’s listing
    rules.
@@ -689,32 +689,32 @@ Table 3:     Examples of possible exemptions
  Minimum holding buy-back by unlisted company:
 
  We may exempt an unlisted company from the                    We will only give this exemption if:
- requirement to obtain shareholder approval to buy              each parcel bought back is the whole of a person’s
+ requirement to obtain shareholder approval to buy             • each parcel bought back is the whole of a person’s
  back small parcels of shares if there is an urgent need         holding;
  to make the buy-back and the buy-back cannot wait
-                                                                no parcel is bought back for more than $500 in total
+                                                               • no parcel is bought back for more than $500 in total
  until the company’s next general meeting.
                                                                  value;
- Our relief is consistent with the approach to minimum          the directors have determined the price is fair to all
+ Our relief is consistent with the approach to minimum         • the directors have determined the price is fair to all
  holding buy-backs for a listed company under s257B.             shareholders;
  We will apply a limit of 1% in a 12-month period
-                                                                no more than 1% in aggregate of the company’s
+                                                               • no more than 1% in aggregate of the company’s
  because substantive commercial decisions should
                                                                  shares is bought back in a 12 month period,
  remain in the hands of shareholders.
                                                                  calculated in accordance with s257B(4); and
-                                                                there is no secondary market in the shares.
+                                                               • there is no secondary market in the shares.
 
  Shareholder approval without holding a meeting:
 
  We may exempt a public company from holding a                 If we give this exemption, the company must:
- meeting to obtain shareholder approval for a buy-back          give shareholders the information that would be
+ meeting to obtain shareholder approval for a buy-back         • give shareholders the information that would be
  if we are satisfied shareholders can approve the buy-           required to be given under s257D(2) if a meeting
  back in another way, for example:                               had been held; and
-  by endorsing a circulating memorandum via                    lodge with ASIC a copy of the notice of proposed
+ • by endorsing a circulating memorandum via                   • lodge with ASIC a copy of the notice of proposed
    facsimile or email in accordance with the company’s           resolution and information documents sent to
    constitution; or                                              shareholders.
-  if there are no more than 50 shareholders in the
+ • if there are no more than 50 shareholders in the
    company entitled to vote, all of them indicating in
    writing that they approve the terms of the buy-back
    agreement and waive the right to a meeting.
@@ -742,33 +742,33 @@ Table 3:     Examples of possible exemptions
  (See next section for further detail on this type of buy-back)
 
  We may exempt a company from the requirement for              We will only give each exemption if the company:
- shareholder approval if:                                       complies with the buy-back provisions as though
-  the buy-back is in essence an equal access                    the buy-back were an equal access scheme
+ shareholder approval if:                                      • complies with the buy-back provisions as though
+ • the buy-back is in essence an equal access                    the buy-back were an equal access scheme
    scheme; but                                                   (including ordinary shareholder approval if over the
-  the buy-back does not meet all the requirements for           10/12 limit); and
-   an equal access scheme under s257B(2), so is                 complies as closely as possible with the
+ • the buy-back does not meet all the requirements for           10/12 limit); and
+   an equal access scheme under s257B(2), so is                • complies as closely as possible with the
    technically a selective buy-back.                             requirements for an equal access scheme (see
                                                                  RG 110.45–RG 110.46).
  For example, we may give this exemption to enable a
  company to:
-  if the company is a listed company (we give
+ • if the company is a listed company (we give
    separate relief for unlisted companies to do a
    minimum holding buy-back—see above), buy back
    a small parcel of shares from each shareholder
    (see RG 110.47);
-  avoid shareholders being left with small parcels
+ • avoid shareholders being left with small parcels
    after a buy-back by selectively scaling back shares
    to be acquired where the buy-back is over-
    subscribed (see RG 110.47);
-  buy back shares by way of a tender offer, usually
+ • buy back shares by way of a tender offer, usually
    through a ‘Dutch auction’ (see RG 110.49–
    RG 110.51);
-  allow shareholders to give irrevocable acceptances
+ • allow shareholders to give irrevocable acceptances
    before the offer period closes if it is impractical or
    unreasonably costly to comply strictly with the equal
    access scheme requirements (see RG 110.52–
    RG 110.53); and
-  exclude overseas shareholders from a buy-back
+ • exclude overseas shareholders from a buy-back
    where the company cannot make an offer to some
    shareholders because of the laws of the country in
    which they reside.
@@ -989,15 +989,15 @@ Dual-listed companies
 
                               Table 4:     Approved overseas financial markets
 
-                                American Stock Exchange                   London Stock Exchange
-                                Borsa Italiana                            NASDAQ Stock Market
-                                Bursa Malaysia Main Board and             New York Stock Exchange
-                                 Bursa Malaysia Second Board               New Zealand Exchange
-                                Euronext Amsterdam                        Singapore Exchange
-                                Euronext Paris                            SWX Swiss Exchange
-                                Frankfurt Stock Exchange                  Tokyo Stock Exchange
-                                Hong Kong Stock Exchange                  Toronto Stock Exchange
-                                JSE
+                               • American Stock Exchange                  • London Stock Exchange
+                               • Borsa Italiana                           • NASDAQ Stock Market
+                               • Bursa Malaysia Main Board and            • New York Stock Exchange
+                                 Bursa Malaysia Second Board              • New Zealand Exchange
+                               • Euronext Amsterdam                       • Singapore Exchange
+                               • Euronext Paris                           • SWX Swiss Exchange
+                               • Frankfurt Stock Exchange                 • Tokyo Stock Exchange
+                               • Hong Kong Stock Exchange                 • Toronto Stock Exchange
+                               • JSE
 
                               Note: See ASIC Corporations (Approved Foreign Markets—Buy-backs and Takeovers)
                               Instrument 2015/1071: s257B(7).

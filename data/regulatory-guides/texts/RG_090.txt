@@ -31,11 +31,11 @@ acknowledge their valuable contribution throughout the process.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how regulated
                                       entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -50,8 +50,8 @@ acknowledge their valuable contribution throughout the process.
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 90, issued August 2013
-                                    Superseded guide Example Statement of Advice (SOA) for a limited
+                             •       Superseded Regulatory Guide 90, issued August 2013
+                             •       Superseded guide Example Statement of Advice (SOA) for a limited
                                      financial advice scenario for a new client, issued August 2005,
                                      rebadged as a regulatory guide 5 July 2007
 
@@ -1158,8 +1158,8 @@ Key terms
 
                               adviser                     A natural person providing personal advice to clients on
                                                           behalf of an AFS licensee who is either:
-                                                           an authorised representative of a licensee; or
-                                                           an employee representative of a licensee
+                                                          • an authorised representative of a licensee; or
+                                                          • an employee representative of a licensee
                                                                 Note: This is the person to whom the obligations in Div 2 of
                                                                 Pt 7.7A of the Corporations Act apply: see the definition of
                                                                 ‘advice provider’ in the ‘key terms’ in RG 175.
@@ -1213,9 +1213,9 @@ Key terms
                                                         clients that, because of the nature of the benefit or the
                                                         circumstances in which it is given, could reasonably be
                                                         expected to influence:
-                                                         the choice of financial product recommended to clients
+                                                        • the choice of financial product recommended to clients
                                                           by the licensee or its representative; or
-                                                         the financial product advice given to clients by the
+                                                        • the financial product advice given to clients by the
                                                           licensee or its representative.
                                                         In addition, the benefit must not be excluded from being
                                                         conflicted remuneration by the Corporations Act or
@@ -1241,19 +1241,19 @@ Key terms
 
                               financial product         A facility through which, or through the acquisition of
                                                         which, a person does one or more of the following:
-                                                         makes a financial investment (see s763B);
-                                                         manages financial risk (see s763C);
-                                                         makes non-cash payments (see s763D)
+                                                        • makes a financial investment (see s763B);
+                                                        • manages financial risk (see s763C);
+                                                        • makes non-cash payments (see s763D)
                                                              Note: This is a definition contained in s763A of the
                                                              Corporations Act: see also s763B–765A.
 
                               financial product         A recommendation or a statement of opinion, or a report
                               advice                    of either of these things, that:
-                                                         is intended to influence a person or persons in making
+                                                        • is intended to influence a person or persons in making
                                                           a decision about a particular financial product or class
                                                           of financial product, or an interest in a particular
                                                           financial product or class of financial product; or
-                                                         could reasonably be regarded as being intended to
+                                                        • could reasonably be regarded as being intended to
                                                           have such an influence.
 
                                                         This does not include anything in an exempt document or
@@ -1292,10 +1292,10 @@ Key terms
 
                               personal advice           Financial product advice given or directed to a person
                                                         (including by electronic means) in circumstances where:
-                                                         the person giving the advice has considered one or
+                                                        • the person giving the advice has considered one or
                                                           more of the client’s objectives, financial situation and
                                                           needs; or
-                                                         a reasonable person might expect the person giving the
+                                                        • a reasonable person might expect the person giving the
                                                           advice to have considered one or more of these matters
                                                              Note: This is a definition contained in s766B(3) of the
                                                              Corporations Act.
@@ -1309,11 +1309,11 @@ Key terms
                                                         7.7A)
 
                               representative of an      Means:
-                              AFS licensee               an authorised representative of the licensee;
-                                                         an employee or director of the licensee;
-                                                         an employee or director of a related body corporate of
+                              AFS licensee              • an authorised representative of the licensee;
+                                                        • an employee or director of the licensee;
+                                                        • an employee or director of a related body corporate of
                                                           the licensee; or
-                                                         any other person acting on behalf of the licensee
+                                                        • any other person acting on behalf of the licensee
                                                              Note: This is a definition contained in s910A of the
                                                              Corporations Act.
 
@@ -1479,30 +1479,30 @@ Table 7:    Brad and Zara’s personal insurance needs
 Type of cover     Cover required for Brad                             Cover required for Zara
 
 Death             To ensure that:                                     To ensure that:
-                   the mortgage on their home ($440,000) is           the mortgage on their home can be cleared
+                  • the mortgage on their home ($440,000) is          • the mortgage on their home can be cleared
                     cleared in full;                                    in full;
-                   $10,000 will be available to assist with           $10,000 will be available to assist with
+                  • $10,000 will be available to assist with          • $10,000 will be available to assist with
                     funeral expenses; and                               funeral expenses; and
-                   his family can financially maintain their          her family can financially maintain their
+                  • his family can financially maintain their         • her family can financially maintain their
                     current lifestyle                                   current lifestyle
 
 TPD               To ensure that:                                     To ensure that:
-                   the mortgage on their home can be cleared          the mortgage on their home can be cleared
+                  • the mortgage on their home can be cleared         • the mortgage on their home can be cleared
                     in full;                                            in full;
-                   $100,000 will be available to assist with any      $100,000 will be available to assist with any
+                  • $100,000 will be available to assist with any     • $100,000 will be available to assist with any
                     related medical expenses; and                       related medical expenses; and
-                   their family can financially maintain their        their family can financially maintain their
+                  • their family can financially maintain their       • their family can financially maintain their
                     current lifestyle                                   current lifestyle
 
 Trauma            To ensure that:                                     To ensure that:
-                   $100,000 will be available to assist with any      $100,000 will be available to assist with any
+                  • $100,000 will be available to assist with any     • $100,000 will be available to assist with any
                     related medical expenses; and                       related medical expenses;
-                   $50,000 will be available to cover two years’      Brad’s income is replaced for one year so
+                  • $50,000 will be available to cover two years’     • Brad’s income is replaced for one year so
                     worth of mortgage payments                          he has the option to take some time away
                        Note: Zara’s income is not required to be        from work to support Zara and the children;
                        replaced if she takes time away from work to     and
                        support Brad.
-                                                                       $50,000 will be available to cover two years’
+                                                                      • $50,000 will be available to cover two years’
                                                                         worth of mortgage payments
 
 Inability to work To ensure that as much of Brad’s salary as          Replacement of Zara’s income is not a high
@@ -1630,29 +1630,29 @@ information, see:
      Recommended product overview: Brad
 Cover and           Insurer/             Amount             Premium         Key features of           First year
 product             owner                of cover           paid from       new policy                premium
-Life and TPD      MNO/super            $1,110,000              $1,840       Terminal illness           $2,040
+Life and TPD      MNO/super            $1,110,000              $1,840      Ø Terminal illness           $2,040
 cover             and Brad                   (life)            (super)       advancement
-(replace life and                       $510,000                 $200       Disability definition:
+(replace life and                       $510,000                 $200      Ø Disability definition:
 TPD cover held                              (TPD)               (cash)       ‘Unlikely‘
 through First
-                                                                            Occupation
+                                                                           Ø Occupation
 Corporate
                                                                              definition: ‘Own
 Superannuation
                                                                              occupation‘ (via
 Fund)
                                                                              Superlink)
-                                                                            Stepped premium
-Income              Mantra/                $5,350                Cash       90-day waiting             $1,200
+                                                                           Ø Stepped premium
+Income              Mantra/                $5,350                Cash      Ø 90-day waiting             $1,200
 protection          Brad               per month                             period
-(retain)                                plus $642                           Benefit to age 65
+(retain)                                plus $642                          Ø Benefit to age 65
                                             super
-                                                                            Level premium
+                                                                           Ø Level premium
                                      contributions
-                                                                            Agreed value
-                                                                            Super contribution
+                                                                           Ø Agreed value
+                                                                           Ø Super contribution
                                                                              option
-Trauma              MNO/Brad             $150,000                Cash       Stepped premium              $900
+Trauma              MNO/Brad             $150,000                Cash      Ø Stepped premium              $900
 (establish)
 
 Total               n/a                               n/a n/a               n/a                        $4,140
@@ -1669,10 +1669,10 @@ Total               n/a                               n/a n/a               n/a 
      Recommended product overview: Zara
 Cover and              Insurer/            Amount           Premium         Key features         First year
 product                owner               of cover         paid from       of new policy        premium
-Life and TPD cover OZ Industry    $840,000                  Super           Stepped premium            $650
+Life and TPD cover OZ Industry    $840,000                  Super          Ø Stepped premium            $650
 (increase)         Superannuation
                    Fund/super
-Trauma (establish) MNO                     $235,000         Cash            Stepped premium           $1,300
+Trauma (establish) MNO                     $235,000         Cash           Ø Stepped premium           $1,300
 
 Total                  n/a                 n/a              n/a             n/a                    $1,950
 
@@ -1725,37 +1725,37 @@ preferences and needs. This section outlines my understanding of your needs.
 
      What you both want
 What we discussed                                       Explanation
-At that meeting, you said you were worried              You both recognise the value of having comprehensive
+At that meeting, you said you were worried   Ø           You both recognise the value of having comprehensive
 about whether or not you had enough personal             personal insurance cover, especially while you have
 insurance.                                               young children.
-                                                        You want to ensure that if either of you dies or suffers a
+                                             Ø           You want to ensure that if either of you dies or suffers a
                                                          total and permanent disability, your mortgage can be
                                                          cleared, your family can maintain their current lifestyle,
                                                          and funds will be available to help with any funeral
                                                          costs or medical costs.
-                                                        You also want to ensure that if either of you suffers a
+                                                       Ø You also want to ensure that if either of you suffers a
                                                          severe illness or injury, funds will be available to cover
                                                          2 years’ worth of mortgage payments, help with
                                                          medical costs, and replace Brad’s salary for a year if he
                                                          needs to help care for Zara.
-                                                        Finally, if Brad is unable to work due to illness and
+                                                       Ø Finally, if Brad is unable to work due to illness and
                                                          injury, you want to ensure that as much of his salary as
                                                          possible is replaced.
-                                                        You expect that as your debts decrease and your
+                                                       Ø You expect that as your debts decrease and your
                                                          children become less dependent on you, the level of
                                                          insurance cover required will reduce.
-We discussed the availability of trauma                 You were not interested in obtaining advice on child
+We discussed the availability of trauma                Ø You were not interested in obtaining advice on child
 insurance cover for children.                            insurance. This is because you have flexibility with your
                                                          working arrangements, access to your cash reserves,
                                                          and both your parents live nearby to help if one of your
                                                          children becomes ill.
-Because of the value you place on insurance,              We agreed that I would provide you with a full review
+Because of the value you place on insurance,     Ø         We agreed that I would provide you with a full review
 you confirmed that you are willing to spend up             of your personal insurance needs, to ensure that your
 to $5,000 per year of your surplus cash on                 family has adequate financial support in the event of
 personal insurance premiums ($3,800 more                   death, disability or illness.
 than you currently spend), rather than directing
 these funds to your mortgage.
-You told me that, where possible, you would like  You agreed that it is important to balance your need
+You told me that, where possible, you would like Ø You agreed that it is important to balance your need
 all available surplus cash to be used to reduce    for appropriate personal insurance cover with your
 your mortgage.                                     goal to reduce your mortgage debt as quickly as
                                                    possible. You would prefer any personal insurance
@@ -1793,9 +1793,9 @@ My advice is limited to the above, and does not cover:
 •    any other aspect of your financial affairs (including child insurance)
 •    the suitability of your existing superannuation arrangements
 •    whether you will have enough superannuation for your retirement
-      I can give advice about these if you want it, for an additional cost
+     Ø I can give advice about these if you want it, for an additional cost
 •    taxation advice
-      I am not a tax adviser. However, I am registered with the Tax Practitioners Board and I am limited to
+     Ø I am not a tax adviser. However, I am registered with the Tax Practitioners Board and I am limited to
        only providing tax advice that is directly related to the matters that my advice covers.
 
 
@@ -1924,34 +1924,34 @@ Insurance needs: Brad
 
      Life insurance
 Financial need           Amount of cover              Explanation
-Clear mortgage                  $440,000              In the event of your death, your mortgage can be cleared.
-Funeral costs                     $10,000             In the event of your death, $10,000 will be available to
+Clear mortgage                  $440,000             Ø In the event of your death, your mortgage can be cleared.
+Funeral costs                     $10,000            Ø In the event of your death, $10,000 will be available to
                                                        help with funeral costs.
-Replacement of                  $760,000              In the event of your death, your family will receive
+Replacement of                  $760,000             Ø In the event of your death, your family will receive
 income                                                 $760,000 to replace approximately 50% of your salary to
                                                        age 65, to help them to maintain their current way of life
                                                        (based on inflation at 3% per year and investment returns
                                                        of 5% per year).
-Subtotal                      $1,210,000              This is the subtotal of all life insurance required to meet
+Subtotal                      $1,210,000             Ø This is the subtotal of all life insurance required to meet
                                                        Brad’s needs.
 
-Total                       $1,110,000                The total is the subtotal minus total superannuation
+Total                       $1,110,000               Ø The total is the subtotal minus total superannuation
                                                        ($100,000). This is because it is assumed that your
                                                        superannuation benefit will be available if/when you die.
 
 
      Total and permanent disability (TPD) insurance
 Financial need           Amount of cover             Explanation
-Clear mortgage                  $440,000             If you become totally and permanently disabled, your
+Clear mortgage                  $440,000            Ø If you become totally and permanently disabled, your
                                                       mortgage can be cleared.
-Medical costs                   $100,000             If you become totally and permanently disabled, you will
+Medical costs                   $100,000            Ø If you become totally and permanently disabled, you will
                                                       receive $100,000 to cover medical costs.
-Replacement of                         N/A           If you become totally and permanently disabled, your
+Replacement of                         N/A          Ø If you become totally and permanently disabled, your
 income                                                income protection policy will replace 75% of your salary
                                                       and cover employer superannuation guarantee
                                                       contributions. Additionally, your household expenses will
                                                       be reduced as a result of the mortgage being cleared.
-Subtotal                        $540,000             This is the subtotal of all TPD insurance required to meet
+Subtotal                        $540,000            Ø This is the subtotal of all TPD insurance required to meet
                                                       Brad’s needs.
 
 
@@ -1965,11 +1965,11 @@ Subtotal                        $540,000             This is the subtotal of 
 
 Financial need           Amount of cover             Explanation
 
-Total                       $510,000                 The total is the subtotal minus existing superannuation
+Total                       $510,000                Ø The total is the subtotal minus existing superannuation
                                                       ($100,000) and including tax ($70,000).
-                                                     If you become totally and permanently disabled, your
+                                                    Ø If you become totally and permanently disabled, your
                                                       superannuation benefit is assumed to be available.
-                                                     Based on your current position, if you make a TPD claim,
+                                                    Ø Based on your current position, if you make a TPD claim,
                                                       you would have to pay approximately $70,000 in tax on
                                                       your superannuation (insurance claim and current
                                                       superannuation benefit). Because of this, I have
@@ -1978,32 +1978,32 @@ Total                       $510,000                 The total is the subtota
 
      Trauma insurance
 Financial need           Amount of cover              Explanation
-Reduce mortgage                 $50,000               If you suffer a severe illness or injury (i.e. trauma), you will
+Reduce mortgage                 $50,000              Ø If you suffer a severe illness or injury (i.e. trauma), you will
                                                        receive $50,000 to cover 2 years’ worth of mortgage
                                                        repayments.
-Medical costs                 $100,000                If you suffer a severe illness or injury (i.e. trauma), you will
+Medical costs                 $100,000               Ø If you suffer a severe illness or injury (i.e. trauma), you will
                                                        receive $100,000 to cover medical costs.
 
-Total                       $150,000                  This is the total of all trauma insurance required to meet
+Total                       $150,000                 Ø This is the total of all trauma insurance required to meet
                                                        Brad’s needs.
 
 
      Income protection insurance
 Financial need                                       Explanation
-You obtain coverage for 75% of your salary           This is the maximum percentage of your salary you are
+You obtain coverage for 75% of your salary          Ø This is the maximum percentage of your salary you are
 ($5,312.50 per month) plus an additional              generally able to insure.
 amount to cover employer superannuation
 guarantee contributions.
-Noting that you have $25,000 in a mortgage  You have access to 3 months’ sick leave and therefore
+Noting that you have $25,000 in a mortgage Ø You have access to 3 months’ sick leave and therefore
 offset account, a 90-day waiting period and a   do not need the money immediately.
-benefit period to age 65 is appropriate.       You have indicated that you expect to work until you are
+benefit period to age 65 is appropriate.      Ø You have indicated that you expect to work until you are
                                                 65 years of age.
-                                               Please note that these policies make payments monthly
+                                              Ø Please note that these policies make payments monthly
                                                 in arrears, including the first payment, so it is important
                                                 to retain access to cash via your savings and mortgage
                                                 offset accounts.
 
- Note that premiums paid on income protection insurance are generally tax deductible. However,
+Ø Note that premiums paid on income protection insurance are generally tax deductible. However,
   it should also be noted that payments received under income protection insurance are generally
   assessable as taxable income.
 
@@ -2017,10 +2017,10 @@ benefit period to age 65 is appropriate.       You have indicated that you ex
 
      Superannuation contribution strategy
 Recommendation                                       Explanation
-You do not make additional contributions to          One of your stated goals is to reduce your mortgage.
+You do not make additional contributions to         Ø One of your stated goals is to reduce your mortgage.
 superannuation to offset the impact of the            Making additional contributions to superannuation
 insurance premiums at this time.                      would adversely impact that goal.
-                                                     Your current employer contributions substantially
+                                                    Ø Your current employer contributions substantially
                                                       exceed the recommended insurance premiums that will
                                                       be deducted from your superannuation.
 
@@ -2030,21 +2030,21 @@ Insurance needs: Zara
 
      Life insurance
 Financial need           Amount of cover             Explanation
-Clear mortgage                  $440,000             In the event of your death, your mortgage can be
+Clear mortgage                  $440,000            Ø In the event of your death, your mortgage can be
                                                       cleared.
-Funeral costs                     $10,000            In the event of your death, $10,000 will be available to
+Funeral costs                     $10,000           Ø In the event of your death, $10,000 will be available to
                                                       help with funeral costs.
-Income supplement               $240,000             In the event of your death, your family will receive an
+Income supplement               $240,000            Ø In the event of your death, your family will receive an
                                                       amount of $240,000 to generate an income stream of
                                                       about $30,000 per year. This will help them to maintain
                                                       their current lifestyle until the children are less
                                                       dependent (in about 9 years, when Noah is 16). The
                                                       income stream has been calculated based on inflation
                                                       at 3% per year and investment returns of 5% per year.
-Subtotal                        $690,000             This is the subtotal of all life insurance required to meet
+Subtotal                        $690,000            Ø This is the subtotal of all life insurance required to meet
                                                       Zara’s needs.
 
-Total                         $660,000               The total is the subtotal minus existing superannuation
+Total                         $660,000              Ø The total is the subtotal minus existing superannuation
                                                       ($30,000). This is because it is assumed that your
                                                       superannuation benefit will be available if/when you
                                                       die.
@@ -2059,26 +2059,26 @@ Total                         $660,000               The total is the subtota
 
      Total and permanent disability (TPD) insurance
 Financial need           Amount of cover             Explanation
-Clear mortgage                  $440,000             If you become totally and permanently disabled, your
+Clear mortgage                  $440,000            Ø If you become totally and permanently disabled, your
                                                       mortgage can be cleared.
-Medical costs                   $100,000             If you become totally and permanently disabled, you
+Medical costs                   $100,000            Ø If you become totally and permanently disabled, you
                                                       will receive $100,000 to cover medical costs.
-Income supplement               $240,000             If you become totally and permanently disabled, you
+Income supplement               $240,000            Ø If you become totally and permanently disabled, you
                                                       will receive $240,000 to generate an income stream of
                                                       about $30,000 per year. This will help your family to
                                                       maintain their current lifestyle until the children are less
                                                       dependent (in about 9 years, when Noah is 16). The
                                                       income stream has been calculated based on inflation
                                                       at 3% per year and investment returns of 5% per year.
-Subtotal                        $780,000             This is the subtotal of all TPD insurance required to
+Subtotal                        $780,000            Ø This is the subtotal of all TPD insurance required to
                                                       meet Zara’s needs.
 
-Total                         $840,000               The total is the subtotal minus existing superannuation
+Total                         $840,000              Ø The total is the subtotal minus existing superannuation
                                                       ($30,000) and including tax ($90,000).
-                                                     In the event of your death, or if you become totally and
+                                                    Ø In the event of your death, or if you become totally and
                                                       permanently disabled, your superannuation benefit is
                                                       assumed to be available.
-                                                     Based on your current position, if you make a TPD claim,
+                                                    Ø Based on your current position, if you make a TPD claim,
                                                       you would have to pay approximately $90,000 in tax on
                                                       your superannuation (insurance claim and current
                                                       superannuation benefit). Because of this, I have
@@ -2087,16 +2087,16 @@ Total                         $840,000               The total is the subtota
 
      Trauma insurance
 Financial need           Amount of cover              Explanation
-Reduce mortgage                   $50,000             If you suffer a severe illness or injury (i.e. trauma), you
+Reduce mortgage                   $50,000            Ø If you suffer a severe illness or injury (i.e. trauma), you
                                                        will receive $50,000 to cover 2 years’ worth of mortgage
                                                        repayments.
-Medical costs                   $100,000              If you suffer a severe illness or injury (i.e. trauma), you
+Medical costs                   $100,000             Ø If you suffer a severe illness or injury (i.e. trauma), you
                                                        will receive $100,000 to cover medical costs.
-Replacement of                    $85,000             If you suffer a severe illness or injury (i.e. trauma),
+Replacement of                    $85,000            Ø If you suffer a severe illness or injury (i.e. trauma),
 income                                                 $85,000 will allow Brad the flexibility to take one year
                                                        away from work to support the family.
 
-Total                         $235,000                This is the total of all trauma insurance required to meet
+Total                         $235,000               Ø This is the total of all trauma insurance required to meet
                                                        Zara’s needs.
 
 
@@ -2109,9 +2109,9 @@ Total                         $235,000                This is the total of al
 
      Income protection insurance
 Financial need                                       Explanation
-You are not eligible for income protection           This is because you are employed for only 14 hours per
+You are not eligible for income protection          Ø This is because you are employed for only 14 hours per
 insurance.                                            week.
-                                                     There are other ‘home maker’ products, similar to
+                                                    Ø There are other ‘home maker’ products, similar to
                                                       income protection insurance, which pay an agreed
                                                       monthly benefit if you become significantly disabled.
                                                       However, taking into account the other types of
@@ -2122,9 +2122,9 @@ insurance.                                            week.
 
      Superannuation contribution strategy
 Recommendation                                       Explanation
-You make a non-concessional contribution             This will enable you to receive a co-contribution
+You make a non-concessional contribution            Ø This will enable you to receive a co-contribution
 of $1,000 to your superannuation this                 amount.
-financial year.                                      A non-concessional contribution is an ‘after-tax’
+financial year.                                     Ø A non-concessional contribution is an ‘after-tax’
                                                       contribution. If you earn less than $51,021 per year
                                                       (before tax) and make after-tax superannuation
                                                       contributions, you are eligible to receive matching
@@ -2133,7 +2133,7 @@ financial year.                                      A non-concessional contr
                                                       $36,021, the maximum co-contribution is $500 based
                                                       on $0.50 from the Government for every $1 you
                                                       contribute.
-                                                     This recommendation will have a small impact on your
+                                                    Ø This recommendation will have a small impact on your
                                                       goal to reduce your mortgage. However, it is a small
                                                       contribution which, when matched with the co-
                                                       contribution, will benefit your superannuation balance
@@ -2167,34 +2167,34 @@ my advice, Zara’s superannuation balance will also benefit from a Government c
 
      How my advice is appropriate
 Recommendation              Why it is appropriate
-You both obtain higher  Brad, your recommended level of life cover will provide Zara with a lump sum in
+You both obtain higher Ø Brad, your recommended level of life cover will provide Zara with a lump sum in
 levels of life and TPD   the event of your death.
-cover; you both obtain  The amount of life cover (if invested) will generate enough to replace 50% of
+cover; you both obtain Ø The amount of life cover (if invested) will generate enough to replace 50% of
 trauma cover.            what you currently earn, to age 65.
-                        This will give some financial protection to Zara and the children because there
+                       Ø This will give some financial protection to Zara and the children because there
                          will be no mortgage to pay.
-                        Your recommended level of TPD cover takes into consideration that if you
+                       Ø Your recommended level of TPD cover takes into consideration that if you
                          become totally and permanently disabled, your income protection policy will
                          provide you with $5,350 per month, which would be sufficient because you will
                          have no mortgage to pay.
-                        Funds will also be provided to cover additional expenses, such as medical or
+                       Ø Funds will also be provided to cover additional expenses, such as medical or
                          recovery costs.
-                        If you suffer a severe illness or injury (i.e. trauma), your recommended trauma
+                       Ø If you suffer a severe illness or injury (i.e. trauma), your recommended trauma
                          cover will provide funds to meet medical expenses and also to cover 2 years’
                          worth of mortgage repayments.
-                        Zara, your recommended level of life cover is higher than the amount identified
+                       Ø Zara, your recommended level of life cover is higher than the amount identified
                          to meet your needs, because OZ Industry Superannuation Fund requires the levels
                          of life and TPD cover to match. Your life cover will therefore be $180,000 (that is,
                          $840,000 minus $660,000) above your identified need.
-                        Your recommended level of TPD cover will provide supplementary income for
+                       Ø Your recommended level of TPD cover will provide supplementary income for
                          about 9 years until your children are less dependent. This takes into account your
                          inability to obtain income protection cover given your current working hours.
-                        Funds will also be provided to cover additional expenses, such as medical or
+                       Ø Funds will also be provided to cover additional expenses, such as medical or
                          recovery costs.
-                        If you suffer a severe illness or injury (i.e. trauma), the recommended trauma
+                       Ø If you suffer a severe illness or injury (i.e. trauma), the recommended trauma
                          policy will provide funds to meet medical expenses and also to cover 2 years’
                          worth of mortgage payments.
-                        It will also provide funds to replace Brad’s income for 12 months so he can take
+                       Ø It will also provide funds to replace Brad’s income for 12 months so he can take
                          time off work to support you.
 
 
@@ -2206,50 +2206,50 @@ trauma cover.            what you currently earn, to age 65.
 
 
 Recommendation              Why it is appropriate
-Brad, you replace your         Brad, I first considered increasing your existing First Corporate Superannuation
+Brad, you replace your Ø        Brad, I first considered increasing your existing First Corporate Superannuation
 First Corporate                 Fund Term Life and TPD policy up to the recommended levels. The initial annual
 Superannuation Fund             premium would have been $1,920, which is $120 per year cheaper than the
 Term Life and TPD cover         MNO recommended policy.
-and you both obtain            However, the First Corporate Superannuation Fund TPD policy would only pay if
+and you both obtain     Ø       However, the First Corporate Superannuation Fund TPD policy would only pay if
 trauma cover through            your disability left you unable to work in any occupation for which you are
 MNO insurance.                  reasonably qualified given your education, training or experience. This is called
                                 an 'any occupation' definition or condition. Given you currently work in a
                                 specialised occupation, it is beneficial that you obtain TPD cover which would pay
                                 if you are unable to work in your own occupation. This is called an an ‘own
                                 occupation’ definition or condition.
-                               Researching your existing products and the products available on Planforit’s
+                           Ø    Researching your existing products and the products available on Planforit’s
                                 approved product list, I found that MNO Insurance ranked well in relation to cost
                                 and quality of cover with respect to life, trauma and TPD.
-                               This is primarily due to MNO Insurance’s favourable classification of your
+                           Ø    This is primarily due to MNO Insurance’s favourable classification of your
                                 occupation for the purposes of the TPD cover.
-                               The MNO policy will make a TPD benefit payment when, in the opinion of
+                           Ø    The MNO policy will make a TPD benefit payment when, in the opinion of
                                 medical specialists, you are unlikely to ever work again due to injury or illness.
-                               In addition, the MNO Life policy contains ‘terminal illness advancement’, which
+                           Ø    In addition, the MNO Life policy contains ‘terminal illness advancement’, which
                                 means if you are diagnosed with a terminal illness you may be eligible to receive
                                 the benefit payment before your death.
-                               Brad and Zara, MNO Trauma Insurance also offers advantageous terms. For
+                           Ø    Brad and Zara, MNO Trauma Insurance also offers advantageous terms. For
                                 example, it will make partial payments for certain conditions such as benign
                                 tumours, where other providers of trauma cover will not, without an additional
                                 cost. This is important for you, Zara, given your family history.
-                               The superior terms and conditions provided by MNO should provide broader
+                           Ø    The superior terms and conditions provided by MNO should provide broader
                                 coverage and more certainty if you make a claim, and therefore I consider the
                                 higher premium is justified.
-                               MNO Insurance allows policy holders to link policies to reduce costs. By linking
+                           Ø    MNO Insurance allows policy holders to link policies to reduce costs. By linking
                                 the trauma cover to the life and TPD cover, you pay only one policy fee.
-                               In my experience, MNO Insurance is efficient during the claims process.
-You both hold life and         Brad and Zara, paying for life and TPD cover from your superannuation fund will
+                           Ø    In my experience, MNO Insurance is efficient during the claims process.
+You both hold life and Ø        Brad and Zara, paying for life and TPD cover from your superannuation fund will
 TPD insurance within            have less impact on your cash flow. It will, however, affect your superannuation
 superannuation. Brad,           fund balance. Please see the ‘Consequences of my advice’ section for more
 your TPD cover is               details.
-recommended to be              Brad, a ‘Superlink’ arrangement means your TPD cover will be owned inside and
+recommended to be        Ø      Brad, a ‘Superlink’ arrangement means your TPD cover will be owned inside and
 held under a ‘Superlink’        outside of superannuation. This means a portion of the premium will be funded
 arrangement.                    from your superannuation and the balance from your personal cash flow. A
                                 ‘Superlink’ arrangement will enable access to more comprehensive cover and
                                 improved terms and conditions, which are not accessible for policies held solely
                                 within superannuation.
-Your life, trauma and  A stepped premium means that the premium you pay to maintain your cover
+Your life, trauma and Ø A stepped premium means that the premium you pay to maintain your cover
 TPD cover be arranged   increases each year with your age.
-with a stepped         A stepped premium is more affordable in the short term and appropriate
+with a stepped        Ø A stepped premium is more affordable in the short term and appropriate
 premium.                because you aim to reduce the sum insured when your mortgage balance has
                         reduced and your children are less dependent on you.
 
@@ -2263,43 +2263,43 @@ premium.                because you aim to reduce the sum insured when your mort
 
 
 Recommendation              Why it is appropriate
-Brad, you retain your          Brad, I reviewed your Mantra Income Protection cover to ensure that it was
+Brad, you retain your  Ø        Brad, I reviewed your Mantra Income Protection cover to ensure that it was
 existing income                 appropriate given your personal circumstances. When this policy commenced
 protection policy               7 years ago, it was structured on a ‘level’ premium basis, so the premium has
 without changes and,            remained level over the life of the policy.
-Zara, you retain your          When compared with a similar policy with a ‘stepped’ premium, funded through
+Zara, you retain your  Ø        When compared with a similar policy with a ‘stepped’ premium, funded through
 insurance through your          superannuation, the initial annual premium was $1,100 per year, which is slightly
 existing OZ Industry            cheaper than your current policy.
 Superannuation Fund.
-                               However, when projected over the longer term, your current level premium will
+                       Ø        However, when projected over the longer term, your current level premium will
                                 be significantly more cost effective. This is important given that you plan to
                                 retain your income protection policy until much closer to retirement.
-                               Because your current income protection policy is an agreed value policy, you may
+                           Ø    Because your current income protection policy is an agreed value policy, you may
                                 be able to claim up to the full $5,350 per month. As most income protection
                                 policies will only insure up to 75% of your income, your current income protection
                                 policy will pay $37.50 per month above the maximum amount that a new policy
                                 is likely to pay. Therefore, this policy meets your goal of ensuring that as much of
                                 your salary as possible is replaced.
-                               In addition, because the policy contains the superannuation contribution option,
+                           Ø    In addition, because the policy contains the superannuation contribution option,
                                 $642 per month will be contributed to your superannuation. This will ensure your
                                 superannuation balance continues to grow while you are unable to work.
-                               Zara, I reviewed your insurance through the OZ Industry Superannuation Fund to
+                           Ø    Zara, I reviewed your insurance through the OZ Industry Superannuation Fund to
                                 ensure it was appropriate for your personal circumstances. Its terms and
                                 conditions compared well to other products available, and the cost of the cover
                                 also compared well.
-                               By retaining your insurance cover within your existing superannuation fund, the
+                           Ø    By retaining your insurance cover within your existing superannuation fund, the
                                 payment of the insurance premiums is a straightforward process because the
                                 premium is simply deducted from your account balance.
-                               Also, by retaining your insurance cover within your existing superannuation fund,
+                           Ø    Also, by retaining your insurance cover within your existing superannuation fund,
                                 which you have held since 2005, you will not restart the 3-year period in relation
                                 to innocent non-disclosure (which is explained in the ‘Consequences of my advice’
                                 section)
-                               To offset the impact of premiums on your superannuation balance, I recommend
+                           Ø    To offset the impact of premiums on your superannuation balance, I recommend
                                 that you make a $1,000 non-concessional contribution to your superannuation
                                 this financial year. This will not only offset the effect of premiums on your
                                 superannuation, but it will enable you to receive a co-contribution amount of
                                 $500.
-Brad and Zara, you       Because your life insurance is held in superannuation, it is important to ensure
+Brad and Zara, you      Ø Because your life insurance is held in superannuation, it is important to ensure
 nominate each other as    that you nominate a beneficiary to formally record with the fund the person who
 the beneficiary on your   you wish to receive your benefits in the event of your death.
 superannuation and life
@@ -2339,11 +2339,11 @@ Premium                              $615                            $1,920     
      insurance products
 Insurance type                         First Corporate Superannuation MNO Insurance Term Life
                                        Fund Term Life and TPD cover and TPD cover
-Term life insurance:                   No                                        Yes
+Term life insurance:                  Ø No                                       Ø Yes
 Terminal illness advancement
-TPD insurance:                         ‘Unable’ to work                          ‘Unlikely’ to work
+TPD insurance:                        Ø ‘Unable’ to work                         Ø ‘Unlikely’ to work
 Disability definition
-TPD insurance:                         ‘Any occupation’                          ‘Own occupation’ – via
+TPD insurance:                        Ø ‘Any occupation’                         Ø ‘Own occupation’ – via
 Occupation definition                                                              Superlink
 
 
@@ -2356,12 +2356,12 @@ Occupation definition                                                           
 
      Additional consequences and risks you should understand
 Recommendation                  Consequences and risks
-You both obtain higher          Your overall combined premiums will increase from $2,095 per year to
+You both obtain higher        Ø  Your overall combined premiums will increase from $2,095 per year to
 levels of life and TPD cover;    $6,090 per year.
-you both obtain trauma          You will need to fund an additional $2,400 per year (on top of the $1,200
+you both obtain trauma        Ø  You will need to fund an additional $2,400 per year (on top of the $1,200
 cover.                           you are already paying for Brad’s income protection) from your surplus
                                  cash.
-                                Before the insurance company agrees to insure you for the level of cover you
+                               Ø Before the insurance company agrees to insure you for the level of cover you
                                  need, they will require you to complete a personal statement answering
                                  questions relating to your health and lifestyle. Zara, your family history of
                                  cancer, for example, will be disclosed in your personal statement. You may
@@ -2370,24 +2370,24 @@ cover.                           you are already paying for Brad’s income prot
                                  new or increased cover may be accepted, or it may be offered, but with
                                  special terms, including a higher premium or with exclusions, or it may be
                                  declined.
-                                The insurance premiums you will pay as outlined in this Statement of
+                               Ø The insurance premiums you will pay as outlined in this Statement of
                                  Advice are indications only and are subject to change depending on your
                                  responses to the personal statement relating to your health and lifestyle.
-                                Any new policy you buy may provide the insurer with the right to refuse
+                               Ø Any new policy you buy may provide the insurer with the right to refuse
                                  a claim if you have not met your obligation to give them all relevant
                                  information at the time you apply. This applies even when you have made
                                  an honest mistake (‘innocent non-disclosure’). The insurer’s right to refuse a
                                  claim in this situation lasts for 3 years.
-                                As your existing life and TPD policies have been in force for more than
+                               Ø As your existing life and TPD policies have been in force for more than
                                  3 years, your current insurer cannot refuse a claim due to innocent non-
                                  disclosure.
-                                Brad, if you change your insurer, the 3-year period starts over again.
-                                Zara, if you increase your existing life and TPD cover, the 3-year period
+                               Ø Brad, if you change your insurer, the 3-year period starts over again.
+                               Ø Zara, if you increase your existing life and TPD cover, the 3-year period
                                  relates only to the increased amount.
-                                No payments will be made under the recommended trauma policies in
+                               Ø No payments will be made under the recommended trauma policies in
                                  relation to certain illnesses if they occur within 3 months of the policy start
                                  date.
-                                Zara, your life and TPD insurance held within your OZ Industry
+                               Ø Zara, your life and TPD insurance held within your OZ Industry
                                  Superannuation Fund is offered as units of cover with the amount of
                                  insurance attached to each unit determined by your age. Currently, you
                                  have 2 units of cover, which, given your current age, equates to $200,000 in
@@ -2395,7 +2395,7 @@ cover.                           you are already paying for Brad’s income prot
                                  gradually reduce the amount insured on an annual basis until age 50. After
                                  age 50, the amount insured will decrease more rapidly. As such, it is
                                  important to review your insurance needs regularly, especially at age 50.
-                                The new or increased amount on your recommended respective life cover
+                               Ø The new or increased amount on your recommended respective life cover
                                  policies will have exclusions for death due to suicide for the first 13 months.
                                  Brad, this exclusion applies to the recommended life cover. Zara, this
                                  exclusion only applies to the increase in your life cover.
@@ -2410,51 +2410,51 @@ cover.                           you are already paying for Brad’s income prot
 
 
 Recommendation                  Consequences and risks
-You both hold life and TPD         If you accept the recommendations, your retirement savings will decrease
+You both hold life and TPD Ø        If you accept the recommendations, your retirement savings will decrease
 insurance within                    due to the increase in insurance premiums to be funded using your
 superannuation.                     superannuation.
-                                   Brad, an additional $1,225 per year of insurance premiums (on top of the
+                           Ø        Brad, an additional $1,225 per year of insurance premiums (on top of the
                                     current $615) will be deducted from your superannuation. Based on the
                                     expected level of annual superannuation guarantee contributions ($8,075)
                                     and the amount of premiums ($1,840), the premiums represent 23% of
                                     contributions.
-                                   Zara, an additional $370 per year of insurance premiums (on top of the
+                               Ø    Zara, an additional $370 per year of insurance premiums (on top of the
                                     current $280) will be deducted from your superannuation. Based on the
                                     expected level of annual superannuation guarantee contributions ($1,520)
                                     and the amount of premiums ($650), the premiums represent 43% of
                                     contributions.
-                                   Brad and Zara, because the insurance premiums will be funded from your
+                               Ø    Brad and Zara, because the insurance premiums will be funded from your
                                     superannuation, I estimate (based on modelling) that in 9 years’ time:
                                     - Brad’s superannuation will be $17,730 lower
                                     - Zara’s superannuation will be $5,300 lower.
                                     This excludes any additional contributions above annual superannuation
                                     guarantee contributions and assumes 5% investment returns and an annual
                                     premium increase of 7% per year.
-                                   Brad, I considered whether you should make additional contributions to
+                               Ø    Brad, I considered whether you should make additional contributions to
                                     superannuation to offset the impact of the premiums. However, given that
                                     you want to reduce your mortgage, I do not recommend this action at
                                     present.
-                                   Additionally, the recommended levels of cover rely on using your existing
+                               Ø    Additionally, the recommended levels of cover rely on using your existing
                                     superannuation balances to meet your financial needs if one of you dies or
                                     becomes totally and permanently disabled.
-                                   If you make a TPD claim, the proceeds paid to you as a lump sum from your
+                               Ø    If you make a TPD claim, the proceeds paid to you as a lump sum from your
                                     TPD insurance (held within superannuation) and from your superannuation
                                     benefit may be partially or fully taxable up to 22%. A calculation has been
                                     done based on your current tax liability in the event of a TPD claim, and this
                                     amount is included in the recommended TPD cover.
-                                   Brad, if you make a successful claim under an ‘own occupation’ definition,
+                               Ø    Brad, if you make a successful claim under an ‘own occupation’ definition,
                                     this tax will not apply – which may mean you are over-insured. A TPD policy
                                     provided on an ‘own occupation’ basis is one that pays if your disability
                                     leaves you unable to work in your own occupation.
-                                   Zara, given that your TPD policy is provided on an ‘any occupation’ basis,
+                               Ø    Zara, given that your TPD policy is provided on an ‘any occupation’ basis,
                                     your policy would only pay if your disability left you unable to work in any
                                     occupation for which you are reasonably qualified given your education,
                                     training or experience.
-                                   If you suffer a TPD event, a delay of 3 months will apply before your claim is
+                               Ø    If you suffer a TPD event, a delay of 3 months will apply before your claim is
                                     assessed. This is called a qualifying period and will impact the timing of you
                                     receiving a TPD benefit payment. This is also a condition of your existing
                                     products.
-You link your insurance         By bundling your life cover with TPD cover, you reduce your amount of life
+You link your insurance        Ø By bundling your life cover with TPD cover, you reduce your amount of life
 policies where possible.         cover when a TPD benefit is paid. This is also a condition of your existing
                                  product.
 
@@ -2467,9 +2467,9 @@ policies where possible.         cover when a TPD benefit is paid. This is also 
 
 
 Recommendation                  Consequences and risks
-Brad, you make a partial           This should be done as an enduring rollover, meaning that the rollover will
+Brad, you make a partial   Ø        This should be done as an enduring rollover, meaning that the rollover will
 rollover (payment) from             occur each year when your policy is renewed.
-your First Corporate               Please note that your First Corporate Superannuation Fund allows members
+your First Corporate       Ø        Please note that your First Corporate Superannuation Fund allows members
 Superannuation Fund to              one partial rollover each year without incurring an exit fee (subsequent
 MNO Super Life to fund the          rollovers are $40). As your First Corporate Superannuation Fund is a unitised
 superannuation                      fund, there are not expected to be any buy/sell costs or capital gains tax
@@ -2477,28 +2477,28 @@ component of the                    relating to units that will be sold to fund 
 recommended MNO
 Insurance Term Life and
 TPD cover.
-Zara, you make a $1,000         The investment management fees on your OZ Industry Superannuation Fund
+Zara, you make a $1,000        Ø The investment management fees on your OZ Industry Superannuation Fund
 non-concessional                 will increase by $5 per year (being $1,000 x 0.5% per year for the ‘Balanced’
 contribution to your             investment option).
-superannuation using            Your joint ABC Bank account will be reduced by $1,000. If you require access
+superannuation using           Ø Your joint ABC Bank account will be reduced by $1,000. If you require access
 funds held in your joint         to cash, you can access funds from your mortgage offset account.
 ABC Bank account.
-                                There are no fees and costs associated with withdrawing $1,000 cash from
+                               Ø There are no fees and costs associated with withdrawing $1,000 cash from
                                  ABC Bank.
-                                There are eligibility criteria and limits to the amount of non-concessional
+                               Ø There are eligibility criteria and limits to the amount of non-concessional
                                  contributions you are permitted to make and co-contributions you are
                                  eligible to receive.
-                                If your income for this financial year exceeds $36,021, you will not be
+                               Ø If your income for this financial year exceeds $36,021, you will not be
                                  eligible for the full co-contribution payment.
-                                If your income exceeds $51,021, you will not be eligible for a co-contribution
+                               Ø If your income exceeds $51,021, you will not be eligible for a co-contribution
                                  payment at all.
-Brad and Zara, you                 Superannuation is not a personal asset and therefore does not
+Brad and Zara, you         Ø        Superannuation is not a personal asset and therefore does not
 nominate each other as the          automatically form part of your estate. The superannuation fund trustees
 beneficiary on your                 will use their discretion on how, and to whom, they pay death benefits,
 superannuation and life             which may include insurance proceeds. Therefore, it is important to
 insurance.                          nominate each other as beneficiaries.
 
- The attached PDSs provide more information about the products that I have recommended in
+Ø The attached PDSs provide more information about the products that I have recommended in
   this Statement of Advice.
 
 
@@ -2515,7 +2515,7 @@ How to follow my advice
 Step               Description
 1                 Apply for $1,110,000 life cover and $510,000 TPD cover through MNO Insurance, using a
                   ‘Superlink’ ownership structure.
-                   A ‘Superlink’ ownership structure means that the TPD cover ownership will be split
+                  Ø A ‘Superlink’ ownership structure means that the TPD cover ownership will be split
                      between you and your superannuation fund.
 2                  Roll over $1,840 from your First Corporate Superannuation Fund to MNO Super Life to
                    fund the superannuation premium component of your MNO Insurance Term Life and TPD
@@ -2525,11 +2525,11 @@ Step               Description
                    in superannuation.
 4                 Cancel your existing First Corporate Superannuation Fund Term Life and TPD cover once
                   the MNO insurance is approved.
-                   WARNING: Do not cancel your existing insurance until your new insurance is in place.
+                  Ø WARNING: Do not cancel your existing insurance until your new insurance is in place.
 5                  Maintain your existing Mantra Income Protection cover.
 6                  Nominate Zara as your beneficiary on your First Corporate Superannuation Fund.
 7                 Nominate Zara as your beneficiary on your MNO Life Insurance policy plan.
-                   If circumstances change, review your death benefit nominations to ensure they remain
+                  Ø If circumstances change, review your death benefit nominations to ensure they remain
                     appropriate.
 
 
@@ -2541,7 +2541,7 @@ Step               Description
 3                  Make a non-concessional contribution of $1,000 to your OZ Industry Superannuation Fund
                    using personal cash reserves.
 4                 Nominate Brad as your beneficiary on your OZ Industry Superannuation Fund.
-                   If circumstances change, review your death benefit nominations to ensure they remain
+                  Ø If circumstances change, review your death benefit nominations to ensure they remain
                     appropriate.
 
 I will assist you with the completion of the required paperwork to implement my
@@ -2607,28 +2607,28 @@ this, 90% goes to me and 10% goes to Planforit. There is no fee for my advice.
 
 Authority to proceed
 Before you sign this authority, I would like you to check that I have:
-     given you my Financial Services Guide (FSG)
-     given you a Product Disclosure Statement (PDS) for each financial product that I have
+    q given you my Financial Services Guide (FSG)
+    q given you a Product Disclosure Statement (PDS) for each financial product that I have
       recommended
-     talked to you about your personal circumstances, insurance needs and financial goals in a
+    q talked to you about your personal circumstances, insurance needs and financial goals in a
       way you understand, and answered your questions
-     discussed any commissions I will receive.
+    q discussed any commissions I will receive.
 
 If I haven’t done all of these things, do not sign the authority to proceed.
 
 Before you sign this authority, please also make sure that you have:
-     read all the documents I have given you
-     checked that your personal information in this document is accurate
-     asked me questions about anything that you want clarified.
+    q read all the documents I have given you
+    q checked that your personal information in this document is accurate
+    q asked me questions about anything that you want clarified.
 
 By signing below, you agree to representatives of Planforit applying on your behalf for the products
 recommended in this Statement of Advice.
 
-     Signed ....................................................................................Zara Black
+    F Signed ....................................................................................Zara Black
          Date: ....... / ..... / 20 .....
 
 
-     Signed ....................................................................................Brad Black
+    F Signed ....................................................................................Brad Black
          Date: ....... / ..... / 20 .....
 
 
@@ -2637,7 +2637,7 @@ I recommend that your needs and products be reviewed at least once a year to acc
 changes to your personal goals or circumstances, such as births, marital status, employment, debt
 levels, and tax implications of insurance.
 
- To confirm that you wish to participate in an ongoing review service, please let me know and I
+Ø To confirm that you wish to participate in an ongoing review service, please let me know and I
   can provide details of services and costs.
 
 
@@ -2645,7 +2645,7 @@ Cooling-off period
 If you apply for a life insurance product recommended in this Statement of Advice, and then
 change your mind, you are entitled to cancel the product within a 14-day cooling-off period.
 
- Refer to the Product Disclosure Statements for further information.
+Ø Refer to the Product Disclosure Statements for further information.
 
 
 

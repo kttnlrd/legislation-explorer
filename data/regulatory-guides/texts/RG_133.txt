@@ -9,12 +9,12 @@ December 2024
 
 About this guide
 This guide is for:
-    responsible entities of registered managed investment schemes
+•    responsible entities of registered managed investment schemes
      (registered schemes);
-    licensed providers of custodial services (licensed custody providers);
-    managed discretionary account (MDA) providers that are responsible to
+•    licensed providers of custodial services (licensed custody providers);
+•    managed discretionary account (MDA) providers that are responsible to
      clients for assets held under an MDA; and
-    investor directed portfolio service (IDPS) operators that are responsible
+•    investor directed portfolio service (IDPS) operators that are responsible
      to clients for assets held under an IDPS.
 
 It explains the Australian financial services (AFS) licence obligations that
@@ -32,11 +32,11 @@ standards for asset holders.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -51,11 +51,11 @@ standards for asset holders.
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 133 Funds management and custodial
+                             •       Superseded Regulatory Guide 133 Funds management and custodial
                                      services: Holding assets, issued July 2018 and June 2022
-                                    Superseded Regulatory Guide 133 Managed investments and custodial
+                             •       Superseded Regulatory Guide 133 Managed investments and custodial
                                      or depository services: Holding assets, issued November 2013
-                                    Superseded Policy Statement 133 Managed investments: Scheme
+                             •       Superseded Policy Statement 133 Managed investments: Scheme
                                      property arrangements, issued August 1998, reissued October 1998
                                      and June 1999, rebadged as a regulatory guide 5 July 2007
 
@@ -286,23 +286,23 @@ Table 1:    Summary of our guidance
  Section of this guide                         Applies to
 
  Section B: Minimum standards and              The following entities who hold assets:
- related requirements for asset holders         responsible entities of registered schemes;
-                                                licensed custody providers;
-                                                MDA providers;
-                                                IDPS operators; and
-                                                other asset holders holding assets under the licence of their
+ related requirements for asset holders        • responsible entities of registered schemes;
+                                               • licensed custody providers;
+                                               • MDA providers;
+                                               • IDPS operators; and
+                                               • other asset holders holding assets under the licence of their
                                                  client
 
  Section C: Requirements when                  The following entities who engage asset holders:
- engaging another asset holder                  responsible entities of registered schemes;
+ engaging another asset holder                 • responsible entities of registered schemes;
                                                  Note: Under the Australian Passport Rules, the operator of a registered
                                                  scheme that is registered as an Australian passport fund for the
                                                  purposes of the Asia Region Funds Passport is required to appoint an
                                                  independent asset holder.
-                                                licensed custody providers;
-                                                MDA providers;
-                                                IDPS operators; and
-                                                other asset holders holding assets under the licence of their
+                                               • licensed custody providers;
+                                               • MDA providers;
+                                               • IDPS operators; and
+                                               • other asset holders holding assets under the licence of their
                                                  client
 
  Section D: Compliance controls for            Licensed custody providers
@@ -313,9 +313,9 @@ Table 1:    Summary of our guidance
  Section E: Protection of rights for land      Responsible entities of registered schemes whose members
  used in registered schemes                    require the use of particular land on which the scheme will occur
 
- Section F: Holding crypto assets               Responsible entities of registered schemes where the scheme
+ Section F: Holding crypto assets              • Responsible entities of registered schemes where the scheme
                                                  property includes, or comprises, crypto-assets; and
-                                                custodians of crypto-assets that are financial products
+                                               • custodians of crypto-assets that are financial products
 
  Section G: Relief from the obligation         Responsible entities, licensed custody providers, MDA providers
  to separate assets                            and IDPS operators, in relation to holding assets
@@ -2277,9 +2277,9 @@ Key terms
                                 ADI                       An authorised deposit-taking institution—a corporation
                                                           that is authorised under the Banking Act 1959. ADIs
                                                           include:
-                                                           banks;
-                                                           building societies; and
-                                                           credit unions
+                                                          • banks;
+                                                          • building societies; and
+                                                          • credit unions
 
                                 AFS licence               An Australian financial services licence under s913B of
                                                           the Corporations Act that authorises a person who carries
@@ -2312,13 +2312,13 @@ Key terms
                                                           2001
 
                                 asset holder              Means:
-                                                           a person who holds:
+                                                          • a person who holds:
                                                             − scheme property or assets of a registered scheme;
                                                             − client assets of an IDPS;
                                                             − client portfolio assets of an MDA service; or
                                                             − financial products, or a beneficial interest in financial
                                                               products, held under a custodial service; or
-                                                           a licensed custody provider or, where relevant, an
+                                                          • a licensed custody provider or, where relevant, an
                                                             entity that provides custodial services incidentally
 
                                 AUASB                     Auditing and Assurance Standards Board
@@ -2399,10 +2399,10 @@ Key terms
                                 Term                     Meaning in this document
 
                                 custodial staff          Natural persons who have duties relating to:
-                                                          holding assets;
-                                                          record keeping for assets;
-                                                          checking authorisations for instructions to transact; or
-                                                          functions incidental to these powers (but does not
+                                                         • holding assets;
+                                                         • record keeping for assets;
+                                                         • checking authorisations for instructions to transact; or
+                                                         • functions incidental to these powers (but does not
                                                            include functions that involve the exercise of a material
                                                            discretion whether under an arrangement with the
                                                            asset holder or a person engaged by the asset holder
@@ -2421,9 +2421,9 @@ Key terms
                                 financial product        Generally, a facility through which, or through the
                                                          acquisition of which, a person does one or more of the
                                                          following:
-                                                          makes a financial investment (see s763B);
-                                                          manages financial risk (see s763C);
-                                                          makes non-cash payments (see s763D)
+                                                         • makes a financial investment (see s763B);
+                                                         • manages financial risk (see s763C);
+                                                         • makes non-cash payments (see s763D)
                                                             Note: See Div 3 of Pt 7.1 of the Corporations Act for the exact
                                                             definition. In addition to the general categories above, this
                                                             specifies certain things as being included or excluded from the
@@ -2493,10 +2493,10 @@ Key terms
 
                                 participating economy    An economy that is a participant under the Memorandum
                                                          of Cooperation (while it is in effect) and has:
-                                                          advised the Asia Region Funds Passport Joint
+                                                         • advised the Asia Region Funds Passport Joint
                                                            Committee that it has implemented the Asia Region
                                                            Funds Passport; and
-                                                          not withdrawn from the Memorandum of Cooperation
+                                                         • not withdrawn from the Memorandum of Cooperation
 
                                 passport fund            A regulated collective investment scheme, or sub-fund of
                                                          a regulated collective investment scheme, registered as a

@@ -11,16 +11,16 @@ This guide is for auditors, including individual auditors, audit companies,
 members of audit firms and lead auditors.
 
 It gives guidance on auditors’ obligations to report to ASIC:
-    contraventions and suspected contraventions under s311, 601HG, 990K
+•    contraventions and suspected contraventions under s311, 601HG, 990K
      and 1226H of the Corporations Act 2001 (Corporations Act) and s104 of
      the National Consumer Credit Protection Act 2009 (National Credit Act);
-    attempts to unduly influence, interfere, or mislead the auditor under
+•    attempts to unduly influence, interfere, or mislead the auditor under
      s311, 601HG, 990K and 1226H of the Corporations Act and s104 of the
      National Credit Act;
-    conflict of interest situations and circumstances involving relevant
+•    conflict of interest situations and circumstances involving relevant
      relationships as part of an auditor’s independence obligations under
      s324CA–CC and s324CE–CG of the Corporations Act; and
-    the auditor’s own contraventions and suspected contraventions under
+•    the auditor’s own contraventions and suspected contraventions under
      s311, 601HG and 1226H of the Corporations Act.
 
 This guide also provides guidance about lodging auditor notifications under
@@ -38,11 +38,11 @@ happens when auditors do not meet their reporting obligations.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -57,11 +57,11 @@ happens when auditors do not meet their reporting obligations.
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 34, updated 20 December 2007, and
+                             •       Superseded Regulatory Guide 34, updated 20 December 2007, and
                                      reissued May 2013 and March 2020;
-                                    Superseded Policy Statement 34, issued 21 December 2004, and
+                             •       Superseded Policy Statement 34, issued 21 December 2004, and
                                      rebadged as a regulatory guide 5 July 2007; and
-                                    Superseded Practice Note 34, issued 5 July 1993 and updated 6
+                             •       Superseded Practice Note 34, issued 5 July 1993 and updated 6
                                      December 2004.
 
 
@@ -1128,8 +1128,8 @@ Table 1:    Suspected contraventions that are likely to be significant
  going concern
                                      especially having regard to the possible detriment to creditors or
  See:                                employees—and should be reported to ASIC.
-  s588G                             Suspected insolvent trading may become apparent at any time during the
-  CLERP 9 Bill EM at                year, including during the conduct of audit or review procedures after
+ • s588G                             Suspected insolvent trading may become apparent at any time during the
+ • CLERP 9 Bill EM at                year, including during the conduct of audit or review procedures after
    paragraph 5.245                   balance date and before the signing of the financial report.
                                      Going concern issues
                                      Where a financial report has been prepared on a going concern basis and
@@ -1138,8 +1138,8 @@ Table 1:    Suspected contraventions that are likely to be significant
                                      contravention and should be reported to ASIC.
                                      With all other going concern issues, the auditor should consider the effect
                                      of the going concern issues identified on:
-                                      the overall financial position of the entity; or
-                                      the adequacy of the information available about the overall financial
+                                     • the overall financial position of the entity; or
+                                     • the adequacy of the information available about the overall financial
                                        position of the entity: see s311(4)(b).
                                      An auditor that identifies going concern issues should perform sufficient
                                      work to establish whether there are reasonable grounds to suspect
@@ -1154,12 +1154,12 @@ Table 1:    Suspected contraventions that are likely to be significant
                                      should be reported to ASIC.
  See:
                                      An auditor should notify ASIC if:
-  s296, 296A(2), 296B, 296C
-                                      an entity’s financial or sustainability report fails to comply with the
-  CLERP 9 Bill EM at
+ • s296, 296A(2), 296B, 296C
+                                     • an entity’s financial or sustainability report fails to comply with the
+ • CLERP 9 Bill EM at
                                        accounting or sustainability standards and was materially misstated; and
    paragraph 5.245
-                                      a previously issued financial or sustainability report was materially
+                                     • a previously issued financial or sustainability report was materially
                                        misstated—even if the misstatement was unintentional or is revealed by
                                        new information that has come to light.
 
@@ -1169,9 +1169,9 @@ Table 1:    Suspected contraventions that are likely to be significant
 
                                      However, we do not consider that an auditor would be required to notify
                                      ASIC if:
-                                      an entity’s financial or sustainability report complied with the accounting
+                                     • an entity’s financial or sustainability report complied with the accounting
                                        or sustainability standards when that report was issued; and
-                                      a restatement is required by the relevant accounting or sustainability
+                                     • a restatement is required by the relevant accounting or sustainability
                                        standard due to the adoption of a new accounting or sustainability
                                        standard.
 
@@ -1190,11 +1190,11 @@ Table 1:    Suspected contraventions that are likely to be significant
  reports                             be significant and should be reported to ASIC.
 
  See:                                An auditor should consider its reporting obligations if:
-  s297, 308 and 309                  an auditor’s report is modified in relation to a scope limitation—with
-  CLERP 9 Bill EM at                  consideration given to whether the circumstances that led to the scope
+ • s297, 308 and 309                 • an auditor’s report is modified in relation to a scope limitation—with
+ • CLERP 9 Bill EM at                  consideration given to whether the circumstances that led to the scope
    paragraph 5.245                     limitation gives rise to reasonable grounds to suspect a contravention of
                                        the Corporations Act; and
-                                      an emphasis of matter paragraph is included in an unmodified audit
+                                     • an emphasis of matter paragraph is included in an unmodified audit
                                        report—although this may not necessarily relate to a circumstance that
                                        amounts to a significant contravention of the Corporations Act, the
                                        auditor should consider the underlying basis for that emphasis of matter
@@ -1204,7 +1204,7 @@ Table 1:    Suspected contraventions that are likely to be significant
  employees of the entity             officers or employees of the audited body would be significant in most
                                      circumstances and should be reported to ASIC.
  See:
-  CLERP 9 Bill EM at                If fraudulent conduct or financial reporting by officers or employees of the
+ • CLERP 9 Bill EM at                If fraudulent conduct or financial reporting by officers or employees of the
    paragraph 5.245                   audited body is suspected, the auditor should perform sufficient work to
                                      establish whether there are reasonable grounds to suspect a significant
                                      contravention of the Corporations Act has occurred or is continuing to
@@ -1217,23 +1217,23 @@ Table 1:    Suspected contraventions that are likely to be significant
 
                                      In particular, ASIC should be notified if the scale of the alleged fraud is
                                      likely to adversely affect:
-                                      the overall financial position of the entity; or
-                                      the adequacy of the information available about the overall financial
+                                     • the overall financial position of the entity; or
+                                     • the adequacy of the information available about the overall financial
                                        position of the entity: see s311(4)(b).
 
  Breach of general duties of         ASIC considers that a suspected breach by an officer or employee of the
  officers and employees              general duties in s180-184 would generally be significant as it effects the
                                      governance of the entity and should be reported to ASIC.
  See:
-  s180-184
+ • s180-184
 
  Related party transactions          ASIC considers that a suspected contravention associated with related
                                      party transactions would generally be significant and should be reported to
  See:
                                      ASIC.
-  Ch 2E
+ • Ch 2E
                                      This is because there is a risk that the interests of a related party may
-  Regulatory Guide 76 Related
+ • Regulatory Guide 76 Related
                                      influence the decision-making of directors to the detriment of the interests
    party transactions (RG 76)
                                      of members of the entity.
@@ -1242,7 +1242,7 @@ Table 1:    Suspected contraventions that are likely to be significant
  directors                           directors would generally be significant as it affects the governance of the
                                      company and should be reported to ASIC.
  See:
-  s201A
+ • s201A
 
 
 
@@ -1259,16 +1259,16 @@ Table 1:    Suspected contraventions that are likely to be significant
  keep books and records              records, including financial or sustainability records, would likely be
                                      significant and should be reported.
  See:
-  s286 and 286A                     The auditor should notify ASIC about these breaches regardless of
+ • s286 and 286A                     The auditor should notify ASIC about these breaches regardless of
                                      whether the matter has been reported in the audit report.
 
  Non-lodgement of financial          ASIC considers that a suspected failure to lodge a financial or
  and sustainability reports          sustainability report is significant and should be reported to ASIC:
 
- See:                                 for listed entities or disclosing entities—if the report has not been lodged
+ See:                                • for listed entities or disclosing entities—if the report has not been lodged
                                        by its due date; or
-  s319 and 320
-                                      for all other entities—if the report remains outstanding 28 days after its
+ • s319 and 320
+                                     • for all other entities—if the report remains outstanding 28 days after its
                                        due date.
                                        Note 1: RSE auditors must notify ASIC if an RSE has failed to lodge a financial or
                                        sustainability report if the report has not been lodged by its due date.
@@ -1280,14 +1280,14 @@ Table 1:    Suspected contraventions that are likely to be significant
  compliance plan
                                      In assessing the significance of instances of non-compliance and whether
  See:                                these should be reported, an auditor should consider matters including
-  s601FC(1)(h) and                  whether:
-   1224D(2)(g)                        there are any monetary or adverse impacts to investors or investor
+ • s601FC(1)(h) and                  whether:
+   1224D(2)(g)                       • there are any monetary or adverse impacts to investors or investor
                                        protection issues;
-                                      the breaches identified indicate a systemic failure in the compliance
+                                     • the breaches identified indicate a systemic failure in the compliance
                                        processes of the audited body;
-                                      the instances of non-compliance were the subject of previous audit
+                                     • the instances of non-compliance were the subject of previous audit
                                        findings that have not been addressed by the entity; and
-                                      the break down in compliance processes may impact the ability of the
+                                     • the break down in compliance processes may impact the ability of the
                                        entity to achieve any compliance plan objectives and/or statutory
                                        obligations.
 
@@ -1319,7 +1319,7 @@ Table 2:    Suspected contraventions that are unlikely to be significant
                                 contravention.
  See:
                                 The auditor may be able to adequately deal with the contravention by bringing
-  s312                         the matter to the attention of directors, provided the directors take appropriate
+ • s312                         the matter to the attention of directors, provided the directors take appropriate
                                 action. In this case, if the suspected contravention is not significant and has
                                 been adequately dealt with, there is no requirement for the auditor to report the
                                 matter to ASIC. However, the auditor should notify ASIC if the failure
@@ -1330,7 +1330,7 @@ Table 2:    Suspected contraventions that are unlikely to be significant
                                 An auditor may be able to deal adequately with the contravention by notifying
  See:
                                 the directors. In this case, if the suspected contravention is not significant and
-  s346C                        has been adequately dealt with, there is no requirement for the auditor to
+ • s346C                        has been adequately dealt with, there is no requirement for the auditor to
                                 report the matter to ASIC. However, the auditor is then on notice of a possible
                                 continuing breach, and should notify ASIC if the failure continues.
 
@@ -1430,10 +1430,10 @@ Key terms
 
                             RSE                       A registrable superannuation entity within the meaning of the
                                                       SIS Act but does not include the following:
-                                                       an exempt public sector superannuation scheme;
-                                                       an excluded approved deposit fund (within the meaning of
+                                                      • an exempt public sector superannuation scheme;
+                                                      • an excluded approved deposit fund (within the meaning of
                                                         the SIS Act); and
-                                                       a small APRA fund (within the meaning of s1017BB of the
+                                                      • a small APRA fund (within the meaning of s1017BB of the
                                                         Corporations Act)
 
                             SIS Act                   Superannuation Industry (Supervision) Act 1993

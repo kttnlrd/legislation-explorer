@@ -29,11 +29,11 @@ guides: see Table 1 in Section A.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -48,7 +48,7 @@ guides: see Table 1 in Section A.
                              and regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 104, issued October 2007, reissued
+                             •       Superseded Regulatory Guide 104, issued October 2007, reissued
                                      July 2015 and April 2020
 
 
@@ -345,25 +345,25 @@ Table 1:     Where to find our guidance on the general obligations
  Type of obligation                Where to find our guidance
 
  Your broad compliance             See Section C for our guidance on:
- obligations                        providing your financial services efficiently, honestly and fairly (s912A(1)(a));
-                                    complying with the conditions on your licence (s912A(1)(b)); and
-                                    complying with the financial services laws (s912A(1)(c)).
+ obligations                       • providing your financial services efficiently, honestly and fairly (s912A(1)(a));
+                                   • complying with the conditions on your licence (s912A(1)(b)); and
+                                   • complying with the financial services laws (s912A(1)(c)).
 
  Your internal systems             For our guidance on complying with the obligation in:
-                                    s912A(1)(h) to have risk management systems (if you are not regulated by
+                                   • s912A(1)(h) to have risk management systems (if you are not regulated by
                                      APRA), see Section D;
-                                    s912A(1)(aa) to have arrangements for managing conflicts of interest, see
+                                   • s912A(1)(aa) to have arrangements for managing conflicts of interest, see
                                      Regulatory Guide 181 Licensing: Managing conflicts of interest (RG 181);
                                      and
-                                    s912A(1)(g) to have a dispute resolution system (if you provide services to
+                                   • s912A(1)(g) to have a dispute resolution system (if you provide services to
                                      retail clients), see Regulatory Guide 271 Internal dispute resolution (RG 271).
                                      You must be a member of the Australian Financial Complaints Authority
                                      (AFCA).
 
  Your people                       See Section E for our guidance on ensuring your representatives:
-                                    comply with the financial services laws (s912A(1)(ca));
-                                    comply with the ASIC protocol (s912A(1)(cc)); and
-                                    are adequately trained and competent (s912A(1)(f))—and, if you provide
+                                   • comply with the financial services laws (s912A(1)(ca));
+                                   • comply with the ASIC protocol (s912A(1)(cc)); and
+                                   • are adequately trained and competent (s912A(1)(f))—and, if you provide
                                      financial product advice to retail clients, see also Regulatory Guide 146
                                      Licensing: Training of financial product advisers (RG 146).
 
@@ -375,8 +375,8 @@ Table 1:     Where to find our guidance on the general obligations
 
  Your resources                    If you are not regulated by APRA, for our guidance on complying with the
                                    obligation in s912A(1)(d) to have adequate:
-                                    human and technological resources, see Section F; and
-                                    financial resources, see Regulatory Guide 166 AFS licensing: Financial
+                                   • human and technological resources, see Section F; and
+                                   • financial resources, see Regulatory Guide 166 AFS licensing: Financial
                                      requirements (RG 166).
 
 
@@ -1363,33 +1363,33 @@ Table 2:     Your broad compliance obligations
 
  Compliance measures             Questions to consider
 
- Compliance framework             Have you documented your compliance measures?
-                                  Has your governing body signed off on them?
-                                  How do you monitor whether your compliance measures are being followed?
+ Compliance framework            • Have you documented your compliance measures?
+                                 • Has your governing body signed off on them?
+                                 • How do you monitor whether your compliance measures are being followed?
                                    Who is responsible?
-                                  How do you review your compliance arrangements to ensure they remain
+                                 • How do you review your compliance arrangements to ensure they remain
                                    effective and up to date (e.g. to deal with new products)?
-                                  Do you undertake regular external reviews of your compliance measures and
+                                 • Do you undertake regular external reviews of your compliance measures and
                                    their monitoring?
-                                  How do you assess the impact of outsourcing on your compliance measures?
+                                 • How do you assess the impact of outsourcing on your compliance measures?
 
- Implementing                     How do you communicate your compliance measures to your staff?
- compliance measures              Are your compliance measures integrated into relevant operational processes?
-                                  How do you promote a culture of compliance within your organisation?
+ Implementing                    • How do you communicate your compliance measures to your staff?
+ compliance measures             • Are your compliance measures integrated into relevant operational processes?
+                                 • How do you promote a culture of compliance within your organisation?
 
- Compliance function              Have you set up a separate compliance function within your organisation?
-                                  Do you have a compliance manager? Do they report to the governing body (or
+ Compliance function             • Have you set up a separate compliance function within your organisation?
+                                 • Do you have a compliance manager? Do they report to the governing body (or
                                    its delegate)?
-                                  Are compliance staff adequately trained and qualified in compliance
+                                 • Are compliance staff adequately trained and qualified in compliance
                                    responsibilities?
-                                  Are the responsibilities of compliance staff clearly defined and understood?
-                                  Do compliance staff have access to the information they need to perform their
+                                 • Are the responsibilities of compliance staff clearly defined and understood?
+                                 • Do compliance staff have access to the information they need to perform their
                                    role?
 
- Responding to                    How do you ensure that you identify and take action to remedy compliance
+ Responding to                   • How do you ensure that you identify and take action to remedy compliance
  compliance failures               failures and other compliance issues, including action to prevent their
                                    recurrence?
-                                  How do you identify and address systemic compliance failures or other trends in
+                                 • How do you identify and address systemic compliance failures or other trends in
                                    compliance issues?
 
 
@@ -1403,25 +1403,25 @@ Table 2:     Your broad compliance obligations
 
  Compliance measures             Questions to consider
 
- Breach reporting                 Is there a clear, well-understood and documented process for reporting
+ Breach reporting                • Is there a clear, well-understood and documented process for reporting
                                    compliance breaches (including to the governing body or its delegate)?
-                                  How do you ensure that relevant breaches are reported to ASIC? Who is
+                                 • How do you ensure that relevant breaches are reported to ASIC? Who is
                                    responsible for reporting to ASIC?
-                                  What records do you keep of compliance breaches (e.g. a breach register)?
-                                  Do you regularly review your compliance measures to take into account past
+                                 • What records do you keep of compliance breaches (e.g. a breach register)?
+                                 • Do you regularly review your compliance measures to take into account past
                                    breaches?
 
- Safeguarding client              How do you ensure that client money and assets are separated from your
+ Safeguarding client             • How do you ensure that client money and assets are separated from your
  money and assets                  money and assets?
 
- Record keeping                   How do you ensure that you keep adequate accounting, business and
+ Record keeping                  • How do you ensure that you keep adequate accounting, business and
                                    compliance monitoring records?
-                                  How do you ensure that you retain records for the statutory period?
+                                 • How do you ensure that you retain records for the statutory period?
 
- Conduct and disclosure           How do you ensure that you comply with your conduct obligations under the
+ Conduct and disclosure          • How do you ensure that you comply with your conduct obligations under the
  obligations                       Corporations Act (e.g. requirements about giving personal advice to retail
                                    clients)?
-                                  How do you ensure that you comply with your disclosure obligations (e.g.
+                                 • How do you ensure that you comply with your disclosure obligations (e.g.
                                    obligations relating to advertising, Product Disclosure Statements and Financial
                                    Services Guides)?
 
@@ -1430,20 +1430,20 @@ Table 3:     Your risk management systems
 
  Compliance measures             Questions to consider
 
- Risk management                  Have you documented your risk management systems?
- framework                        Do your documented measures show who is responsible for risk management?
-                                  Has your governing body signed off on your risk management measures and
+ Risk management                 • Have you documented your risk management systems?
+ framework                       • Do your documented measures show who is responsible for risk management?
+                                 • Has your governing body signed off on your risk management measures and
                                    made a commitment to ongoing risk management?
-                                  Have you appointed senior managers to oversee risk management measures?
-                                  Are there clear risk management reporting lines? Do your staff understand
+                                 • Have you appointed senior managers to oversee risk management measures?
+                                 • Are there clear risk management reporting lines? Do your staff understand
                                    what they are required to report on, and when?
-                                  Do you annually review your risk management measures to ensure they are
+                                 • Do you annually review your risk management measures to ensure they are
                                    effective? Does this include external review?
-                                  Do you have a business continuity plan?
+                                 • Do you have a business continuity plan?
 
- Implementing risk                How do you ensure that staff understand and comply with risk management
+ Implementing risk               • How do you ensure that staff understand and comply with risk management
  management                        measures?
-                                  Are risk management staff adequately trained and qualified in risk
+                                 • Are risk management staff adequately trained and qualified in risk
                                    management responsibilities?
 
 
@@ -1457,26 +1457,26 @@ Table 3:     Your risk management systems
 
  Compliance measures             Questions to consider
 
- Identifying risks                How do you identify risks to your business?
-                                  How do you identify risks to consumers and market integrity?
-                                  Have you considered all your obligations under the Corporations Act (including
+ Identifying risks               • How do you identify risks to your business?
+                                 • How do you identify risks to consumers and market integrity?
+                                 • Have you considered all your obligations under the Corporations Act (including
                                    the regulations and licence conditions) and identified the risks of non-
                                    compliance with them?
-                                  How do you ensure you identify new risks as they arise (e.g. because of new
+                                 • How do you ensure you identify new risks as they arise (e.g. because of new
                                    products or technology)?
-                                  Do you document the risks you identify?
+                                 • Do you document the risks you identify?
 
- Evaluating risks                 How do you establish the probability of a risk event occurring and the impact
+ Evaluating risks                • How do you establish the probability of a risk event occurring and the impact
                                    of the problem if the risk occurs?
-                                  How do you combine the probability and impact factors to determine the
+                                 • How do you combine the probability and impact factors to determine the
                                    overall risk?
-                                  How do you prioritise the risks and establish which ones need to be
+                                 • How do you prioritise the risks and establish which ones need to be
                                    addressed?
-                                  Do you document the risks you evaluate and how you arrive at your
+                                 • Do you document the risks you evaluate and how you arrive at your
                                    evaluation?
 
- Addressing risks                 How do you address those risks with appropriate measures and controls?
-                                  Do you document your measures and controls for addressing risk and the
+ Addressing risks                • How do you address those risks with appropriate measures and controls?
+                                 • Do you document your measures and controls for addressing risk and the
                                    reasons behind them?
 
 
@@ -1484,27 +1484,27 @@ Table 4:     Your people
 
  Compliance measures             Questions to consider
 
- Appointing                       What background checks (e.g. referee reports) do you do before you appoint
+ Appointing                      • What background checks (e.g. referee reports) do you do before you appoint
  representatives                   representatives? How do you check the person’s identity?
-                                  How do you ensure that you comply with your notification obligations under
+                                 • How do you ensure that you comply with your notification obligations under
                                    s916F in relation to your authorised representatives?
-                                  How do you ensure you comply with your obligations under the ASIC protocol
+                                 • How do you ensure you comply with your obligations under the ASIC protocol
                                    when employing or appointing representatives that will act as financial advisers?
 
- Monitoring and                   Have you established a clear reporting and supervisory structure covering all
+ Monitoring and                  • Have you established a clear reporting and supervisory structure covering all
  supervision framework             your representatives? How do you ensure that you are receiving accurate
                                    information?
-                                  Who is responsible for monitoring and supervision? To whom do they report?
-                                  Do you have representatives who operate from locations other than your
+                                 • Who is responsible for monitoring and supervision? To whom do they report?
+                                 • Do you have representatives who operate from locations other than your
                                    principal place of business? How do you monitor and supervise them?
-                                  How do you ensure your representatives understand your compliance measures?
+                                 • How do you ensure your representatives understand your compliance measures?
                                    How do you monitor that they are complying with your compliance measures?
-                                  How do you ensure that you keep sufficient records about your monitoring and
+                                 • How do you ensure that you keep sufficient records about your monitoring and
                                    supervisory activities to enable sharing of information under the ASIC protocol
                                    about your current and former representatives?
-                                  How do you identify and address higher risk activities of your representatives
+                                 • How do you identify and address higher risk activities of your representatives
                                    (e.g. providing financial product advice to retail clients, handling client money)?
-                                  Do you have a policy on disciplinary action for compliance failures or other
+                                 • Do you have a policy on disciplinary action for compliance failures or other
                                    compliance issues? Has it been clearly communicated to your
                                    representatives?
 
@@ -1519,21 +1519,21 @@ Table 4:     Your people
 
  Compliance measures             Questions to consider
 
- Training responsibilities        How do you identify which of your representatives provide financial services?
-                                  How do you identify and keep records of the training they complete (see
+ Training responsibilities       • How do you identify which of your representatives provide financial services?
+                                 • How do you identify and keep records of the training they complete (see
                                    reg 7.6.04(1)(d))?
-                                  How do you identify the knowledge and skills they need?
-                                  How do you ensure they have the necessary knowledge and skills to provide
+                                 • How do you identify the knowledge and skills they need?
+                                 • How do you ensure they have the necessary knowledge and skills to provide
                                    financial services?
-                                  How do you ensure that your representatives who provide financial product
+                                 • How do you ensure that your representatives who provide financial product
                                    advice to retail clients meet the training standards in RG 146?
 
- Continuing training              How do you ensure that your representatives who provide financial services
+ Continuing training             • How do you ensure that your representatives who provide financial services
                                    maintain and update their knowledge and skills?
-                                  Have you determined how much ongoing training they need?
-                                  Do you have a regular (e.g. annual) training program for them? Who is
+                                 • Have you determined how much ongoing training they need?
+                                 • Do you have a regular (e.g. annual) training program for them? Who is
                                    responsible for this?
-                                  How do you ensure your training program continues to meet the needs of your
+                                 • How do you ensure your training program continues to meet the needs of your
                                    representatives?
 
 
@@ -1541,29 +1541,29 @@ Table 5:     Your resources
 
  Measuring compliance            Questions to consider
 
- Adequacy of                      What technological resources (e.g. communications, IT) do you need to carry
+ Adequacy of                     • What technological resources (e.g. communications, IT) do you need to carry
  technological resources           out your business?
-                                  Have you identified key indicators that might show you do not have enough
+                                 • Have you identified key indicators that might show you do not have enough
                                    technological resources? How do you monitor these key indicators?
 
- IT framework                     Do you have an IT strategy to support your current and future operational
+ IT framework                    • Do you have an IT strategy to support your current and future operational
                                    needs?
-                                  Do you have a disaster recovery plan and do you test it regularly?
-                                  Do you have in-house IT staff to provide and/or manage the delivery of IT
+                                 • Do you have a disaster recovery plan and do you test it regularly?
+                                 • Do you have in-house IT staff to provide and/or manage the delivery of IT
                                    services? If not, how are your IT services managed and delivered?
-                                  Do you have outsourcing arrangements with third parties for the development
+                                 • Do you have outsourcing arrangements with third parties for the development
                                    and maintenance of your IT systems?
-                                  Do you have contracts with third parties that include service level agreements?
+                                 • Do you have contracts with third parties that include service level agreements?
                                    If so, how often do you review delivery of service levels under those
                                    agreements?
 
- Data back-up and IT              Do you have data back-up and recovery plans?
- security                         How regularly do you back up your data and how are back-ups stored (e.g. are
+ Data back-up and IT             • Do you have data back-up and recovery plans?
+ security                        • How regularly do you back up your data and how are back-ups stored (e.g. are
                                    they stored offsite)?
-                                  Do you have network security controls in place? How do you keep viruses out
+                                 • Do you have network security controls in place? How do you keep viruses out
                                    of your system?
-                                  How do you protect confidential and other sensitive information?
-                                  Is access to physical IT infrastructure restricted?
+                                 • How do you protect confidential and other sensitive information?
+                                 • Is access to physical IT infrastructure restricted?
 
 
 
@@ -1576,25 +1576,25 @@ Table 5:     Your resources
 
  Measuring compliance            Questions to consider
 
- Adequacy of human                What human resources do you need for each of your business activities (e.g.
+ Adequacy of human               • What human resources do you need for each of your business activities (e.g.
  resources                         compliance, monitoring and supervision, complaints handling)?
-                                  Have you identified key indicators that might show you do not have enough
+                                 • Have you identified key indicators that might show you do not have enough
                                    human resources? How do you monitor these key indicators?
-                                  How do you ensure extra staff are available when they are needed (e.g. to
+                                 • How do you ensure extra staff are available when they are needed (e.g. to
                                    supervise staff who have been involved in compliance failures)?
-                                  How do you ensure client accounts and interests are monitored while staff are
+                                 • How do you ensure client accounts and interests are monitored while staff are
                                    absent?
 
- Human resources                  Do you have a recruitment process?
- framework                        Do you have systems for inducting and training new staff?
-                                  Do you have a performance management process?
-                                  Do you have a succession planning process?
-                                  Do you have in-house human resources staff to provide and/or manage the
+ Human resources                 • Do you have a recruitment process?
+ framework                       • Do you have systems for inducting and training new staff?
+                                 • Do you have a performance management process?
+                                 • Do you have a succession planning process?
+                                 • Do you have in-house human resources staff to provide and/or manage the
                                    delivery of your human resources needs? If not, how are your human
                                    resources needs managed and delivered?
-                                  Do you have outsourcing arrangements with third parties for the development
+                                 • Do you have outsourcing arrangements with third parties for the development
                                    and maintenance of your human resources needs?
-                                  Do you have contracts with third parties that include service level agreements?
+                                 • Do you have contracts with third parties that include service level agreements?
                                    If so, how often do you review delivery of service levels under those
                                    agreements?
 
@@ -1697,11 +1697,11 @@ Key terms
                                superannuation fund       (Supervision) Act 1993
 
                                representative            Means:
-                                                          an authorised representative of the licensee;
-                                                          an employee or director of the licensee;
-                                                          an employee or director of a related body corporate of
+                                                         • an authorised representative of the licensee;
+                                                         • an employee or director of the licensee;
+                                                         • an employee or director of a related body corporate of
                                                            the licensee; or
-                                                          any other person acting on behalf of the licensee
+                                                         • any other person acting on behalf of the licensee
                                                            Note: This is a definition contained in s910A of the
                                                            Corporations Act.
 

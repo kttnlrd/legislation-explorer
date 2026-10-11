@@ -29,11 +29,11 @@ ASIC; however, the principles apply to our discretionary powers generally.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -48,9 +48,9 @@ ASIC; however, the principles apply to our discretionary powers generally.
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 51, issued December 2009, reissued
+                             •       Superseded Regulatory Guide 51, issued December 2009, reissued
                                      July 2020
-                                    Superseded Policy Statement 51, issued September 2006, rebadged as
+                             •       Superseded Policy Statement 51, issued September 2006, rebadged as
                                      a regulatory guide 5 July 2007
 
 
@@ -757,13 +757,13 @@ What to include in a relief application
                              Table 1:     All applications—Information required
 
                                Type and nature       Specify what relief is being sought, including:
-                               of relief sought       the particular discretionary power(s) ASIC is being
+                               of relief sought      • the particular discretionary power(s) ASIC is being
                                                        requested to exercise;
-                                                      the specific provision(s) from which the proposed relief is
+                                                     • the specific provision(s) from which the proposed relief is
                                                        sought;
-                                                      any provisions of the law affected by the proposed relief;
+                                                     • any provisions of the law affected by the proposed relief;
                                                        and
-                                                      the relevant published policy or policies.
+                                                     • the relevant published policy or policies.
                                                         Note: The application should include the sections of the
                                                         Corporations Act, the SIS Act, the National Credit Act, the ASIC
                                                         Act or the Insurance Act (whichever is relevant) under which relief
@@ -790,17 +790,17 @@ What to include in a relief application
 
                                Consultation with     If you have previously consulted with ASIC or another
                                ASIC or other         relevant organisation, provide:
-                               relevant               details of any relevant ASIC officers who have been
+                               relevant              • details of any relevant ASIC officers who have been
                                regulatory              consulted in relation to the application and the outcome of
                                organisations           that consultation: see RG 51.66–RG 51.67; and
-                                                      details of any other relevant regulatory organisations that
+                                                     • details of any other relevant regulatory organisations that
                                                        have been consulted in relation to the application and the
                                                        outcome of that consultation.
 
                                Third parties         Provide:
-                               affected by the        details of any third parties whose interests may be
+                               affected by the       • details of any third parties whose interests may be
                                application             adversely affected if the application was granted; and
-                                                      details of any consultation that had been undertaken with
+                                                     • details of any consultation that had been undertaken with
                                                        those third parties.
 
                                                      ASIC may determine that we are required to provide
@@ -828,9 +828,9 @@ What to include in a relief application
 
                                Details regarding     Explain the proposed commercial activity and advise of any
                                the proposed          factual matters that:
-                               activity, including    could reasonably be relevant to the application; or
+                               activity, including   • could reasonably be relevant to the application; or
                                any relevant
-                                                      may have implications for how the relevant legislative
+                                                     • may have implications for how the relevant legislative
                                factual matters
                                                        provisions or existing ASIC policy is applied in the
                                                        circumstances of the case.
@@ -841,21 +841,21 @@ What to include in a relief application
                                existing ASIC         existing statutory or legislative instrument relief.
                                policy
                                                      Explain how the relief sought would extend, relax, or vary:
-                                                      any legislation ASIC administers;
-                                                      the scope of ASIC published policy;
-                                                      any precedent relief, legislative instruments or pro forma
+                                                     • any legislation ASIC administers;
+                                                     • the scope of ASIC published policy;
+                                                     • any precedent relief, legislative instruments or pro forma
                                                        instruments; or
-                                                      any previous ASIC policy decision(s).
+                                                     • any previous ASIC policy decision(s).
                                                      Explain precisely how the proposed relief would operate to
                                                      facilitate the proposal.
 
                                Reason(s) the         Explain why ASIC should grant the relief. For example:
-                               relief should be       minor and technical variation of any legislation ASIC
+                               relief should be      • minor and technical variation of any legislation ASIC
                                granted                 administers—the application should explain why it is within
                                                        the policy underlying that provision;
-                                                      departure from existing ASIC policy—an application should
+                                                     • departure from existing ASIC policy—an application should
                                                        set out the extent of the departure; or
-                                                      variation of an instrument that already applies to the
+                                                     • variation of an instrument that already applies to the
                                                        applicant—an application should:
                                                         − confirm that the basis of the original relief still applies;
                                                           and
@@ -876,14 +876,14 @@ What to include in a relief application
 
                                The legal and         Explain the consequences of granting the relief and the
                                cost-benefit          reasons why it should be granted from:
-                               arguments for          a legal perspective―for example, why is the relief required
+                               arguments for         • a legal perspective―for example, why is the relief required
                                relief                  as a matter of law?
-                                                      a commercial perspective―for example, why it is not
+                                                     • a commercial perspective―for example, why it is not
                                                        commercially feasible to comply with the legislation ASIC
                                                        administers or existing ASIC policy, or to restructure or
                                                        redesign your proposed operations to bring them into
                                                        alignment with the law?
-                                                      a policy perspective―for example, identify the net
+                                                     • a policy perspective―for example, identify the net
                                                        regulatory benefit or detriment that would result if the relief
                                                        was granted. In particular, balance commercial
                                                        considerations against any relevant consumer or investor
@@ -1424,13 +1424,13 @@ The principles we apply in calculating fees
                                                   the number of entities affected.
 
                                                   For example:
-                                                   If a group of 10 credit licensees makes an application for the
+                                                  • If a group of 10 credit licensees makes an application for the
                                                     same relief for each credit licensee (i.e. where the application
                                                     is made by a law firm for a number of licensees in the same
                                                     group), the applicable fee would be the 10 credit licensees
                                                     multiplied by the prescribed fee for the exercise of that head of
                                                     power.
-                                                   If a responsible entity of 10 different schemes sought the
+                                                  • If a responsible entity of 10 different schemes sought the
                                                     same declaration to modify s601GA under s601QA(1)(b) of
                                                     the Corporations Act for each scheme, the applicable fee is
                                                     10 times the prescribed fee for the exercise of that head of
@@ -1546,13 +1546,13 @@ Key terms
                                Insurance Act             Insurance Act 1973
 
                                legislation ASIC          This refers to:
-                               administers                the ASIC Act;
-                                                          the Corporations Act;
-                                                          the Insurance Act
-                                                          the National Credit Act;
-                                                          the SIS Act;
-                                                          the Transitional Act; or
-                                                          any other legislation ASIC administers
+                               administers               • the ASIC Act;
+                                                         • the Corporations Act;
+                                                         • the Insurance Act
+                                                         • the National Credit Act;
+                                                         • the SIS Act;
+                                                         • the Transitional Act; or
+                                                         • any other legislation ASIC administers
                                                            Note: In some cases ASIC administers only part of the
                                                            legislation.
 

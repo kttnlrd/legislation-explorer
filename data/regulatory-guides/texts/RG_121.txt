@@ -14,12 +14,12 @@ conduct a financial services business in Australia.
 
 It provides general guidance on the financial services regime in Australia,
 including:
-   when a person or company from outside Australia may be required to
+•   when a person or company from outside Australia may be required to
     hold an Australian financial services (AFS) licence to carry on a
     financial services business in Australia;
-   circumstances in which a person or company may be exempt from
+•   circumstances in which a person or company may be exempt from
     holding an AFS licence; and
-   some of the obligations associated with being an AFS licensee.
+•   some of the obligations associated with being an AFS licensee.
                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
 
 
@@ -32,11 +32,11 @@ including:
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -52,7 +52,7 @@ including:
                              reflect changes to RG 1 and related guidance.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 121, issued 11 August 2008, reissued
+                             •       Superseded Regulatory Guide 121, issued 11 August 2008, reissued
                                      1 April 2011 and 30 July 2013
 
 
@@ -887,9 +887,9 @@ Table 1:    Does your conduct constitute ‘inducing’ people in Australia?
  You are a broker in Hong Kong and you have an advertisement            You may not need an AFS licence because
  for securities on your website that is accessible from Australia,      there may not be any inducing.
  but the advertisement:
-  is not targeted at people in Australia;
-  has a jurisdictional disclaimer; and
-  has little impact on investors in Australia.
+ • is not targeted at people in Australia;
+ • has a jurisdictional disclaimer; and
+ • has little impact on investors in Australia.
 
 
 
@@ -1667,17 +1667,17 @@ Table 2:    FFSPs
 
  Providing financial services to an     A person or company located outside Australia provides a financial service to a client in Australia      s911A(2D), as inserted by reg
  Australian client in relation to a     relating to a financial product:                                                                         7.6.02AG
- financial product it issued when        issued to the Australian client upon that client’s instigation;
- the Australian client was overseas      issued to the Australian client while that client was not in Australia; or
-                                         that supplements, or is similar to and substitutes, the financial product; and
-                                         does not induce people in Australia to use the service.
+ financial product it issued when       • issued to the Australian client upon that client’s instigation;
+ the Australian client was overseas     • issued to the Australian client while that client was not in Australia; or
+                                        • that supplements, or is similar to and substitutes, the financial product; and
+                                        • does not induce people in Australia to use the service.
 
  Providing a financial service to a     A person or company located outside Australia provides financial services to a professional              s911A(2E), as inserted by reg
  professional investor                  investor for dealing in, providing advice on, and/or making a market in:                                 7.6.02AG
-                                         derivatives
-                                         foreign exchange contracts
-                                         ACCUs, or
-                                         EIEUs.
+                                        • derivatives
+                                        • foreign exchange contracts
+                                        • ACCUs, or
+                                        • EIEUs.
 
 
 
@@ -1774,14 +1774,14 @@ Table 2:    FFSPs
  Regulated by an overseas               A person or company that is regulated by one of the following overseas regulatory authorities,                    ASIC Instrument 2016/396 and
  regulatory authority (cont.)           only provides the service to wholesale clients and was able to rely on the transitional relief on                 ASIC Corporations Instrument
                                         31 March 2020:                                                                                                    2016/1109 (i.e. the transitional
-                                         UK Financial Services Authority (FSA);                                                                          relief)
-                                         US Securities and Exchange Commission (SEC);
-                                         US Federal Reserve and Office of Comptroller of Currency (OCC);
-                                         Monetary Authority of Singapore (MAS);
-                                         Securities and Futures Commission (SFC) of Hong Kong;
-                                         US Commodity Futures Trading Commission (CFTC);
-                                         Federal Financial Supervisory Authority (BaFin) of Germany;
-                                         Commission for the Supervision of the Financial Sector (CSSF) of Luxembourg.
+                                        • UK Financial Services Authority (FSA);                                                                          relief)
+                                        • US Securities and Exchange Commission (SEC);
+                                        • US Federal Reserve and Office of Comptroller of Currency (OCC);
+                                        • Monetary Authority of Singapore (MAS);
+                                        • Securities and Futures Commission (SFC) of Hong Kong;
+                                        • US Commodity Futures Trading Commission (CFTC);
+                                        • Federal Financial Supervisory Authority (BaFin) of Germany;
+                                        • Commission for the Supervision of the Financial Sector (CSSF) of Luxembourg.
                                           Note 1: ASIC Corporations (Repeal and Transitional) Instrument 2016/396 repealed the following class
                                           orders but extends the relief available under them until 31 March 2026 for entities that were able to rely on
                                           the relief as at 31 March 2020:
@@ -1813,9 +1813,9 @@ Table 2:    FFSPs
 
  Foreign ADI                            A foreign ADI engages in limited dealings in either, or both of, derivatives and foreign exchange          ASIC Corporations (Foreign
                                         contracts:                                                                                                 Licensees and ADIs) Instrument
-                                         that are entered into for the purpose of managing financial risk arising in the ordinary course of       2016/186
+                                        • that are entered into for the purpose of managing financial risk arising in the ordinary course of       2016/186
                                           the foreign ADI’s banking business; and
-                                         where the counterparty to the dealing is a wholesale client.
+                                        • where the counterparty to the dealing is a wholesale client.
 
  Dealings with a limited connection     A person or company located outside Australia provides a financial service to a wholesale client           ASIC Instrument 2017/182
  to Australia                           and the only reason that the foreign person or company is carrying on a financial services
@@ -1865,9 +1865,9 @@ Table 3:    Connection with an AFS licensee
 
  Certain claims handling and            A person or company provides a claims handling and settling service in relation to an insurance          s911A(2)(ek)–(en)
  settling services                      product and:
-                                         the person is not specifically required to hold an AFS licence because of the operation of
+                                        • the person is not specifically required to hold an AFS licence because of the operation of
                                           s911A(2)(ek); or
-                                         the service is provided in the circumstances set out in s911A(el), (em) or (en).
+                                        • the service is provided in the circumstances set out in s911A(el), (em) or (en).
 
  Acting in an administrative            A person or company provides the financial services in one of the circumstances described in             s911A(2)(f)
  capacity                               s911A(2)(f).
@@ -1914,18 +1914,18 @@ Table 4:    Financial services that involve only the financial services provider
 
  Dealing in derivatives or foreign      A person or company deals on its own behalf, but does not make a market, in derivatives or                reg 7.6.01(1)(m)
  exchange contracts to manage           foreign exchange contracts where:
- financial risk                          the dealing is for the purpose of managing a financial risk that arises in the ordinary course of
+ financial risk                         • the dealing is for the purpose of managing a financial risk that arises in the ordinary course of
                                           a business; and
-                                         the person or company does not deal in derivatives or foreign exchange contracts as a
+                                        • the person or company does not deal in derivatives or foreign exchange contracts as a
                                           significant part of its business.
 
  Employee share schemes                 A person or company provides certain services in relation to an offer for the issue, sale or              s1100ZC(7), s1100N, s1100P,
                                         transfer of employee share scheme (ESS) interests made to ESS participants in connection with             s1100Q, s1100R
                                         an employee share scheme of a body corporate or registered scheme if the offer is expressed to
                                         be made under Div 1A of Pt 7.12 and the offer is covered by:
-                                         s1100P (offers for no monetary consideration);
-                                         s1100Q (offers for monetary consideration); or
-                                         s1100R (offers that would otherwise not need disclosure).
+                                        • s1100P (offers for no monetary consideration);
+                                        • s1100Q (offers for monetary consideration); or
+                                        • s1100R (offers that would otherwise not need disclosure).
                                           Note: ‘employee share scheme’, ‘ESS participant’ and ‘ESS interest’ are defined in s1100L and 1100M.
 
 
@@ -1953,14 +1953,14 @@ Table 4:    Financial services that involve only the financial services provider
 
  Certain dealings in relation to an     A person or company deals in an ACCU or EIEU, or derivatives over or foreign exchange                  reg 7.6.01(1)(ma)
  ACCU or EIEU                           contracts for such units, and:
-                                         the service does not involve the making of a market for those units, derivatives or foreign
+                                        • the service does not involve the making of a market for those units, derivatives or foreign
                                           exchange contracts;
-                                         the dealing is entered into for the purpose of managing financial risk in relation to the
+                                        • the dealing is entered into for the purpose of managing financial risk in relation to the
                                           surrender, cancellation or relinquishment of such units by the person, a related body corporate
                                           or associated entity;
-                                         the person does not deal in those units, derivates or foreign exchange contracts as the
+                                        • the person does not deal in those units, derivates or foreign exchange contracts as the
                                           principal activity of the person’s business; and
-                                         the dealing is entered into on the person’s own behalf or on behalf of a related body corporate
+                                        • the dealing is entered into on the person’s own behalf or on behalf of a related body corporate
                                           or associated entity.
 
 
@@ -1986,18 +1986,18 @@ Table 5:    Alternative regulatory regime
 
  Trustee capacity in relation to        A body deals in a financial product in the capacity of trustee of a pooled superannuation trust         reg 7.6.01(1)(b)
  superannuation                         (PST) where:
-                                         the PST is used for investment of the assets of a regulated superannuation fund; and
-                                         the regulated superannuation fund has net assets of at least $10 million on the date that it first
+                                        • the PST is used for investment of the assets of a regulated superannuation fund; and
+                                        • the regulated superannuation fund has net assets of at least $10 million on the date that it first
                                           invests in the PST.
 
  Trustee capacity (cont.)               A superannuation trustee service provided by the trustee of a PST in the circumstances set out          reg 7.6.01(1)(ba)
                                         in paragraph (b) of reg 7.6.01(1).
 
  Trustee capacity (cont.)               A body deals in a financial product in the capacity of trustee of a PST where:                          reg 7.6.01(1)(c)
-                                         the PST is used for investment of the assets of a regulated superannuation fund;
-                                         the regulated superannuation fund has net assets of at least $5 million, but less than $10
+                                        • the PST is used for investment of the assets of a regulated superannuation fund;
+                                        • the regulated superannuation fund has net assets of at least $5 million, but less than $10
                                           million on the date that it first invests in the PST; and
-                                         the trustee has a reasonable expectation that the net assets of the regulated superannuation
+                                        • the trustee has a reasonable expectation that the net assets of the regulated superannuation
                                           fund will equal or exceed $10 million not later than 3 months of the date on which it first invests
                                           in the PST.
 
@@ -2100,10 +2100,10 @@ Table 6:    Financial services business is not the sole or principal purpose of 
                                           exemptions for the provision of financial services in relation to non-cash payment facilities.
 
  Non-cash payment facilities            A person or company provides financial services in relation to:                                            ASIC Instrument 2016/211
- (other)                                 low value non-cash payment facilities where specified consumer protection requirements are
+ (other)                                • low value non-cash payment facilities where specified consumer protection requirements are
                                           met;
-                                         gift facilities, such as gift vouchers or cards; or
-                                         prepaid mobile facilities.
+                                        • gift facilities, such as gift vouchers or cards; or
+                                        • prepaid mobile facilities.
 
  Non-cash payment facilities            Loyalty schemes constituting non-cash payment facilities are not financial products for the                ASIC Instrument 2016/211
  (other) (cont.)                        purposes of Ch 7.
@@ -2268,9 +2268,9 @@ Key terms
                               financial product          Generally a facility through which, or through the
                                                          acquisition of which, a person does one or more of the
                                                          following:
-                                                          makes a financial investment (see s763B);
-                                                          manages financial risk (see s763C);
-                                                          makes non-cash payments (see s763D)
+                                                         • makes a financial investment (see s763B);
+                                                         • manages financial risk (see s763C);
+                                                         • makes non-cash payments (see s763D)
                                                             Note: See Div 3 of Pt 7.1 for the exact definition.
 
                               financial service          Has the meaning given in Div 4 of Pt 7.1
@@ -2279,9 +2279,9 @@ Key terms
                               regime
 
                               foreign AFS licence        A modified AFS licence issued to an FFSP that:
-                                                          provides financial services to wholesale clients in
+                                                         • provides financial services to wholesale clients in
                                                            Australia; and
-                                                          is regulated by an overseas regulatory regime that
+                                                         • is regulated by an overseas regulatory regime that
                                                            ASIC has determined is sufficiently equivalent to the
                                                            Australian regulatory regime
 
@@ -2335,11 +2335,11 @@ Key terms
                               example)                   example numbered 7.6.01C)
 
                               representative of an       Means:
-                              AFS licensee                an authorised representative of the licensee; or
-                                                          an employee or director of the licensee; or
-                                                          an employee or director of a related body corporate of
+                              AFS licensee               • an authorised representative of the licensee; or
+                                                         • an employee or director of the licensee; or
+                                                         • an employee or director of a related body corporate of
                                                            the licensee; or
-                                                          any other person acting on behalf of the licensee
+                                                         • any other person acting on behalf of the licensee
                                                             Note: This is a definition contained in s9.
 
                               responsible lending        The obligations under Ch 3 of the National Credit Act

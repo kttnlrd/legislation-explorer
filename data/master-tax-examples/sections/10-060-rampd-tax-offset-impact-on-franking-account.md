@@ -2,10 +2,10 @@
 act: "Australian Master Tax Examples"
 part: "10"
 section: "10-060-rampd-tax-offset-impact-on-franking-account"
-title: "10-060 - R&ampD tax offset impact on franking account"
+title: "10-060 - R&D tax offset impact on franking account"
 paragraph: "None"
 ---
-# 10-060 - R&ampD tax offset impact on franking account
+# 10-060 - R&D tax offset impact on franking account
 
 Worked example: R&D tax offset; impact on franking account Issue Jojo Pty Ltd (Jojo) lodges its 2023–24 income tax return in February 2025. It is entitled to a refundable R&D tax offset of $50,000. Its final income tax liability (not taking into account the R&D tax offset) is $30,000.
 

@@ -10,17 +10,17 @@ June 2025
 
 About this guide
 This guide is for:
-    responsible entities of registered managed investment schemes;
-    corporate directors of retail corporate collective investment vehicles
+•    responsible entities of registered managed investment schemes;
+•    corporate directors of retail corporate collective investment vehicles
      (retail CCIVs); and
-    Australian passport fund operators.
+•    Australian passport fund operators.
 
 Parts of this guide are also relevant for:
-    wholesale scheme operators;
-    corporate directors of wholesale corporate collective investment
+•    wholesale scheme operators;
+•    corporate directors of wholesale corporate collective investment
      vehicles (wholesale CCIVs);
-    investor directed portfolio service (IDPS) operators; and
-    managed discretionary account (MDA) providers.
+•    investor directed portfolio service (IDPS) operators; and
+•    managed discretionary account (MDA) providers.
 
 Aspects of this guide are also relevant to those with oversight
 responsibilities, including compliance committees, independent oversight
@@ -40,11 +40,11 @@ must meet under the Corporations Act and other legal obligations.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -58,11 +58,11 @@ must meet under the Corporations Act and other legal obligations.
                              regulations as at the date of issue.
 
                              Previous versions:
-                                    Superseded Regulatory Guide 132, issued July 2018, updated
+                             •       Superseded Regulatory Guide 132, issued July 2018, updated
                                      July 2022
-                                    Superseded Policy Statement 132, issued August 1998, updated
+                             •       Superseded Policy Statement 132, issued August 1998, updated
                                      November 1998, rebadged as a regulatory guide 5 July 2007
-                                    Superseded Regulatory Guides 116, 117, 118, 119 and 120, issued
+                             •       Superseded Regulatory Guides 116, 117, 118, 119 and 120, issued
                                      April 2004, replaced by Regulatory Guide 132 July 2018 and withdrawn
 
 
@@ -755,12 +755,12 @@ Table 2:     Other relevant obligations
 
                                                                     RG 181 supplements the guidance in this
                                                                     guide by setting out:
-                                                                     our general approach to compliance with the
+                                                                    • our general approach to compliance with the
                                                                       statutory obligation in s912A to manage
                                                                       conflicts of interest;
-                                                                     guidance for licensees generally on controlling
+                                                                    • guidance for licensees generally on controlling
                                                                       and avoiding conflicts of interest; and
-                                                                     guidance for licensees generally on
+                                                                    • guidance for licensees generally on
                                                                       disclosing conflicts of interest.
 
 
@@ -2565,37 +2565,37 @@ Table 3:      Areas of focus by asset kind
 
  Asset kind       Sub-asset kind              Typical areas of ASIC focus
 
- Cash/cash         Short-term money          Business, liquidity, market, expertise, investment strategy (approval
+ Cash/cash        • Short-term money          Business, liquidity, market, expertise, investment strategy (approval
  equivalent         market fund               and monitoring), valuation, outsourcing, financial, custodial
-                   Term deposits             arrangements, jurisdictional
+                  • Term deposits             arrangements, jurisdictional
 
-                   Treasury notes            Other areas of focus may be relevant (e.g. foreign exchange,
-                   Short-term debt           interest rate)
+                  • Treasury notes            Other areas of focus may be relevant (e.g. foreign exchange,
+                  • Short-term debt           interest rate)
                     securities
-                   Certificates of deposit
-                   At-call bank deposits
-                   At-call non-bank
+                  • Certificates of deposit
+                  • At-call bank deposits
+                  • At-call non-bank
                     financial institutions
                     deposits
-                   Bank-backed
+                  • Bank-backed
                     securities
-                   Other
+                  • Other
 
- Fixed             Government                Liquidity, credit, market, expertise, investment strategy (approval
- income            Corporate                 and monitoring), valuation, outsourcing, financial, custodial
+ Fixed            • Government                Liquidity, credit, market, expertise, investment strategy (approval
+ income           • Corporate                 and monitoring), valuation, outsourcing, financial, custodial
                                               arrangements, jurisdictional
-                   Certificates of deposit
-                   Preferred stock           Other areas of focus may be relevant (e.g. foreign exchange,
+                  • Certificates of deposit
+                  • Preferred stock           Other areas of focus may be relevant (e.g. foreign exchange,
                                               interest rate)
-                   Debentures
-                   Other
+                  • Debentures
+                  • Other
 
- Equities          Ethical                   Business, market, investment strategy (approval and monitoring),
-                   Franked                   valuation, outsourcing, financial, custodial arrangements,
+ Equities         • Ethical                   Business, market, investment strategy (approval and monitoring),
+                  • Franked                   valuation, outsourcing, financial, custodial arrangements,
                                               jurisdictional, foreign exchange, liquidity
-                   Value
-                   Concentrated
-                   Other
+                  • Value
+                  • Concentrated
+                  • Other
 
  Equities         Indexed                     Tracking error, operational, expertise, valuation, financial,
                                               investment strategy (approval and monitoring), efficacy of
@@ -2603,10 +2603,10 @@ Table 3:      Areas of focus by asset kind
 
                                               Risk is dependent on the underlying asset type
 
- Equities          Small-cap                 Business, market, investment strategy (approval and monitoring),
-                   Mid-cap                   valuation, outsourcing, financial, custodial arrangements,
+ Equities         • Small-cap                 Business, market, investment strategy (approval and monitoring),
+                  • Mid-cap                   valuation, outsourcing, financial, custodial arrangements,
                                               jurisdictional, foreign exchange, liquidity
-                   Large-cap
+                  • Large-cap
                                               Other areas of focus may be relevant (e.g. expertise in the specific
                                               sector, related party arrangements, leverage)
 
@@ -2630,12 +2630,12 @@ Table 3:      Areas of focus by asset kind
                                               leverage, related party arrangements
 
  Alternatives     Property                    Performance, financial, business, liquidity, expertise, valuation,
-                   Residential property      outsourcing, investment strategy (approval and monitoring),
+                  • Residential property      outsourcing, investment strategy (approval and monitoring),
                                               leverage, related party arrangements
-                   Commercial property
-                   Industrial property
-                   Retail property
-                   Rural property
+                  • Commercial property
+                  • Industrial property
+                  • Retail property
+                  • Rural property
 
  Alternatives     Mortgages                   Credit, market, liquidity, expertise, valuation, withdrawal, investment
                                               strategy (approval and monitoring), security
@@ -2645,12 +2645,12 @@ Table 3:      Areas of focus by asset kind
                                               leverage, related party arrangements
 
  Alternatives     Agriculture                 Production, environmental (weather, fire, floods), gestation,
-                   Forestry                  financial, liquidity, expertise, ownership structure, valuation, related
+                  • Forestry                  financial, liquidity, expertise, ownership structure, valuation, related
                                               party arrangements, medical
-                   Horticulture
-                   Viticulture
-                   Aquaculture
-                   Livestock
+                  • Horticulture
+                  • Viticulture
+                  • Aquaculture
+                  • Livestock
 
  Alternatives     Horse breeding              Production, environmental (weather, fire, floods), gestation,
                                               financial, liquidity, expertise, ownership structure, valuation, related
@@ -2726,22 +2726,22 @@ Table 4:      Areas of focus by investment strategy
                                                  outsourcing, financial, custodial arrangements
 
  Sectoral focus                                  Dependent on sectoral investment strategy
-  Consumer discretionary                           Note: We have generally aligned these sectors with those in the Global
+ • Consumer discretionary                           Note: We have generally aligned these sectors with those in the Global
                                                     Industry Classification Standard System (GICS), developed jointly by
-  Consumer staples                                 Standard and Poor’s and Morgan Stanley Capital International (MSCI).
-  Communication services                           GICS is used by the MSCI indexes, which include domestic and
+ • Consumer staples                                 Standard and Poor’s and Morgan Stanley Capital International (MSCI).
+ • Communication services                           GICS is used by the MSCI indexes, which include domestic and
                                                     international stocks, as well as by a large portion of the professional
-  Energy
+ • Energy
                                                     investment management community. We consider this to be an
-  Financials                                       appropriate, widely recognised framework aimed at standardising industry
-  Health care                                      definitions.
+ • Financials                                       appropriate, widely recognised framework aimed at standardising industry
+ • Health care                                      definitions.
 
-  Industrials
-  Information technology
-  Materials
-  Mixed
-  Real estate
-  Utilities
+ • Industrials
+ • Information technology
+ • Materials
+ • Mixed
+ • Real estate
+ • Utilities
 
 
 
@@ -3892,9 +3892,9 @@ Key terms
 
                                host economy                    A participating economy that is not a passport fund’s
                                                                home economy and either:
-                                                                permits the fund to offer interests in the fund in that
+                                                               • permits the fund to offer interests in the fund in that
                                                                  economy under the Asia Region Funds Passport; or
-                                                                has accepted an application from the fund to offer
+                                                               • has accepted an application from the fund to offer
                                                                  interests in the fund in that economy under the Asia
                                                                  Region Funds Passport (but not to register the fund
                                                                  as a passport fund in that economy)
@@ -3970,10 +3970,10 @@ Key terms
                                participating economy           An economy that is a participant under the
                                                                Memorandum of Cooperation (while it is in effect) and
                                                                has:
-                                                                advised the Asia Region Funds Passport Joint
+                                                               • advised the Asia Region Funds Passport Joint
                                                                  Committee that it has implemented the Asia Region
                                                                  Funds Passport; and
-                                                                not withdrawn from the Memorandum of
+                                                               • not withdrawn from the Memorandum of
                                                                  Cooperation
 
                                passport fund                   A regulated collective investment scheme, or sub-fund

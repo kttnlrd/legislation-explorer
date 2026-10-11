@@ -29,11 +29,11 @@ the fundraising provisions of the Corporations Act.
                                  Consultation papers: seek feedback from stakeholders on matters ASIC
                                  is considering, such as proposed relief or proposed regulatory guidance.
                                  Regulatory guides: give guidance to regulated entities by:
-                                     explaining when and how ASIC will exercise specific powers under
+                                 •    explaining when and how ASIC will exercise specific powers under
                                       legislation (primarily the Corporations Act)
-                                     explaining how ASIC interprets the law
-                                     describing the principles underlying ASIC’s approach
-                                     giving practical guidance (e.g. describing the steps of a process such
+                                 •    explaining how ASIC interprets the law
+                                 •    describing the principles underlying ASIC’s approach
+                                 •    giving practical guidance (e.g. describing the steps of a process such
                                       as applying for a licence or giving practical examples of how
                                       regulated entities may decide to meet their obligations).
                                  Information sheets: provide concise guidance on a specific process or
@@ -51,7 +51,7 @@ the fundraising provisions of the Corporations Act.
                              RG 87.137 and RG 87.153.
 
                              Previous versions:
-                                    Superseded Policy Statement 87, issued December 2004, rebadged as
+                             •       Superseded Policy Statement 87, issued December 2004, rebadged as
                                      a regulatory guide on 5 July 2007
 
 
@@ -415,9 +415,9 @@ Table 1:     Application of the requirements
  statement
 
  Lodge and publish financial       All charitable investment fundraisers. If they issue:     RG 87.72–RG 87.73
- report                             debentures, the report must be for the charitable
+ report                            • debentures, the report must be for the charitable
                                      investment fundraiser; and
-                                    interests in a charitable scheme, the report must be
+                                   • interests in a charitable scheme, the report must be
                                      for the scheme.
 
  Breach reporting                  All charitable investment fundraisers.                    RG 87.74–RG 87.78
@@ -838,13 +838,13 @@ Table 2:     Content requirements for identification statements
 
  Identification information    Information necessary to identify the charitable investment fundraiser—including,
                                as applicable:
-                                its Australian Business Number;
-                                particulars of its corporate status, including any legislation under which the
+                               • its Australian Business Number;
+                               • particulars of its corporate status, including any legislation under which the
                                  charitable investment fundraiser was incorporated and, where relevant, an
                                  incorporation number;
-                                the full name and date of birth of any natural person who is or is a part of the
+                               • the full name and date of birth of any natural person who is or is a part of the
                                  charitable investment fundraiser; and
-                                its address.
+                               • its address.
 
  Compliance                    Which exemptions the charitable investment fundraiser intends to rely on and
                                information demonstrating how the charitable investment fundraiser meets, or may
@@ -2291,9 +2291,9 @@ Key terms
 
                               financial product         A facility through which, or through the acquisition of
                                                         which, a person does one or more of the following:
-                                                         makes a financial investment (see s763B);
-                                                         manages financial risk (see s763C);
-                                                         makes non-cash payments (see s763D)
+                                                        • makes a financial investment (see s763B);
+                                                        • manages financial risk (see s763C);
+                                                        • makes non-cash payments (see s763D)
                                                           Note: This is a definition contained in s763A of the
                                                           Corporations Act: see also s763B–765A.
 
@@ -2308,18 +2308,18 @@ Key terms
 
                               managed investment        In general terms, a scheme that has the following
                               scheme                    features:
-                                                         people contribute money or money’s worth as
+                                                        • people contribute money or money’s worth as
                                                           consideration to acquire rights (interests) to benefits
                                                           produced by the scheme (whether the rights are actual,
                                                           prospective or contingent and whether they are
                                                           enforceable or not);
-                                                         any of the contributions are to be pooled, or used in a
+                                                        • any of the contributions are to be pooled, or used in a
                                                           common enterprise, to produce financial benefits, or
                                                           benefits consisting of rights or interests in property, for
                                                           the people (the members) who hold interests in the
                                                           scheme (whether as contributors to the scheme or as
                                                           people who have acquired interests from holders); and
-                                                         the members do not have day-to-day control over the
+                                                        • the members do not have day-to-day control over the
                                                           operation of the scheme (whether or not they have the
                                                           right to be consulted or to give directions)
                                                           Note: See s9 of the Corporations Act for the exact definition.
@@ -2384,7 +2384,7 @@ Key terms
 
                               sponsor                   In relation to a charitable investment fundraiser, a person
                                                         who:
-                                                         has entered into and given to ASIC a deed poll:
+                                                        • has entered into and given to ASIC a deed poll:
                                                           − in favour of each holder of a debenture or interest in
                                                             a managed investment scheme issued by each
                                                             charitable investment fundraiser for which the
@@ -2397,7 +2397,7 @@ Key terms
                                                              identification statement relates, except any
                                                              debentures or interest issued after revocation of the
                                                              acceptance of lodgement; and
-                                                         we have not subsequently notified in writing is no
+                                                        • we have not subsequently notified in writing is no
                                                           longer a sponsor for the purposes of Corporations
                                                           (Charitable Investment Fundraising) Instrument
                                                           2016/813, unless we have revoked the notification in
