@@ -61,8 +61,8 @@ SOURCES: dict[str, dict] = {
     # gst-1999: the plan (and codex/opus) said "no PDFs" — WRONG.  Two exact-compilation
     # volumes exist (verified footer: "Compilation No. 96", pages 430 + 306).  Since S2 they
     # live in the repo at source/gst-1999/, which is also what rebuild.sh's 1b guard reads.
-    "gst-1999": {"comp": 96, "pdfs": [REPO_SOURCE / "gst-1999" / "vol1.pdf",
-                                      REPO_SOURCE / "gst-1999" / "vol2.pdf"]},
+    "gst-1999": {"comp": 96, "pdfs": [REPO_SOURCE / "gst-1999" / "gst-1999-vol1.pdf",
+                                      REPO_SOURCE / "gst-1999" / "gst-1999-vol2.pdf"]},
 }
 
 COMP_RE = re.compile(r"Compilation No\.\s*(\d+)")
@@ -91,7 +91,12 @@ def pdf_compilation(pdf: Path) -> int | None:
 
 
 def pick_pdf(act: str, section: str, want_comp: int, override: Path | None):
-    """The PDF volume holding the section — refusing anything off-compilation."""
+    """The PDF volume holding the section — refusing anything off-compilation.
+
+    Returns EVERY distinct table the extractor finds, not the biggest: taking
+    max() by row count is what dropped whole tables.  G1 then proves the set is
+    complete against the candidate.
+    """
     import fitz
     cfg = SOURCES.get(act)
     if cfg is None:
@@ -119,16 +124,17 @@ def pick_pdf(act: str, section: str, want_comp: int, override: Path | None):
             print(f"  skip {Path(pdf).name}: compilation {got} != corpus {want_comp}")
             continue
         doc = fitz.open(pdf)
-        tables = EX.collect_tables(doc, section, detail=True)
+        tables = GATE.dedup_tables(EX.collect_tables(doc, section, detail=True))
         if not tables:
             continue
-        t = max(tables, key=lambda x: len(x["rows"]))
-        if best is None or len(t["rows"]) > len(best[1]["rows"]):
-            best = (Path(pdf), t)
+        rows = sum(len(t["rows"]) for t in tables)
+        # Most rows wins the VOLUME choice; every table in it is kept either way.
+        if best is None or rows > best[2]:
+            best = (Path(pdf), tables, rows)
     if best is None:
         raise SystemExit(f"{act} {section}: no table found in any compilation-"
                          f"{want_comp} volume")
-    return best
+    return best[0], best[1]
 
 
 def render_table(t: dict) -> list[str]:
@@ -142,8 +148,8 @@ def render_table(t: dict) -> list[str]:
     return out
 
 
-def build_candidate(original: Path, t: dict) -> str:
-    """One table where the multi-copy region was; every other line untouched.
+def build_candidate(original: Path, tables: list[dict]) -> str:
+    """Every distinct table where the multi-copy region was; other lines untouched.
 
     The corrupt files repeat the table header once per source page with the
     rows and stray blockquote shards interleaved.  The rebuilt table replaces
@@ -161,11 +167,16 @@ def build_candidate(original: Path, t: dict) -> str:
 
     notes = []
     existing = {tuple(GATE.norm_tokens(l)) for l in lines if not l.startswith("|")}
-    for n in t.get("notes") or []:
-        if tuple(GATE.norm_tokens(n)) not in existing:
-            notes.append(n)
+    for t in tables:
+        for n in t.get("notes") or []:
+            if tuple(GATE.norm_tokens(n)) not in existing:
+                notes.append(n)
 
-    body = render_table(t)
+    body: list[str] = []
+    for i, t in enumerate(tables):
+        if i:
+            body.append("")          # blank line between consecutive tables
+        body += render_table(t)
     if notes:
         body += [""] + notes
     out = lines[:lo] + body + region_prose + lines[hi + 1:]
@@ -182,18 +193,18 @@ def calibrate(act: str, section: str, pdf_override: Path | None = None) -> dict:
         raise SystemExit(f"{original}: frontmatter compilation {want} != verified "
                          f"map {cfg['comp']} — source map is stale, stop")
     print(f"== {act} {section}  ({original.relative_to(REPO)}, compilation {want})")
-    pdf, table = pick_pdf(act, section, want, pdf_override)
-    print(f"   source: {pdf}  pages {table['page']}  "
-          f"{len(table['rows'])} rows x {table['cols']} cols")
+    pdf, tables = pick_pdf(act, section, want, pdf_override)
+    print(f"   source: {pdf}  {len(tables)} distinct table(s)  "
+          + "  ".join(f"[{len(t['rows'])}x{t['cols']} p{t['page']}]" for t in tables))
 
     dest = OUT / act / f"{section}.md"
     dest.parent.mkdir(parents=True, exist_ok=True)
-    dest.write_text(build_candidate(original, table), encoding="utf-8")
+    dest.write_text(build_candidate(original, tables), encoding="utf-8")
 
-    rep = GATE.gate_file(act, original, dest, table)
+    rep = GATE.gate_file(act, original, dest, tables)
     rep["section"] = section
     rep["source_pdf"] = str(pdf)
-    rep["pdf_pages"] = table["page"]
+    rep["pdf_pages"] = [t["page"] for t in tables]
     (OUT / act / f"{section}.gate.json").write_text(
         json.dumps(rep, indent=2, ensure_ascii=False))
 

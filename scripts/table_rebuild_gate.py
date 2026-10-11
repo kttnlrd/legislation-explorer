@@ -161,7 +161,8 @@ def _row_tokens(rows: list[str]) -> set[str]:
     return out
 
 
-def g3_structural(orig_lines, cand_lines, table: dict) -> dict:
+def g3_structural(orig_lines, cand_lines, tables) -> dict:
+    tables = [tables] if isinstance(tables, dict) else list(tables)
     problems = []
     # DATA rows only: in markdown the line before a '---' separator is a header
     # row, and the corrupt files repeat that header once per source page.
@@ -210,7 +211,7 @@ def g3_structural(orig_lines, cand_lines, table: dict) -> dict:
     if o_ids - c_ids:
         problems.append(f"row identifiers dropped: {sorted(o_ids - c_ids)}")
 
-    pdf_header = [table.get("id_label", "Item")] + list(table["header"])
+    pdf_header = [tables[0].get("id_label", "Item")] + list(tables[0]["header"])
     cand_header = next((l for l in cand_lines if is_row(l)), "")
     got = [c.strip() for c in cand_header.strip().strip("|").split("|")]
     if got != [h.strip() for h in pdf_header]:
@@ -219,11 +220,12 @@ def g3_structural(orig_lines, cand_lines, table: dict) -> dict:
     # the header repeats on every page of a multi-page table; a merge that
     # swallowed row text into a header shows up as a header that disagrees
     # with its own repeats.
-    heads = table.get("block_headers") or []
-    if len({tuple(h) for h in heads}) > 1:
-        problems.append(f"PDF header differs between pages of the same table: {heads}")
+    for t in tables:
+        heads = t.get("block_headers") or []
+        if len({tuple(h) for h in heads}) > 1:
+            problems.append(f"PDF header differs between pages of the same table: {heads}")
 
-    ids = [r["item"] for r in table["rows"]]
+    ids = [r["item"] for t in tables for r in t["rows"]]
     if len(ids) != len(set(ids)):
         dup = [i for i, n in Counter(ids).items() if n > 1]
         problems.append(f"duplicate row identifiers: {dup}")
@@ -235,8 +237,12 @@ def g3_structural(orig_lines, cand_lines, table: dict) -> dict:
     if nums != sorted(nums):
         problems.append(f"row identifiers out of order: {ids}")
 
+    # A candidate may hold MORE THAN ONE table, so "row 0 is the header" no longer
+    # holds: take every row that is not itself a header (a header is the row
+    # immediately above a separator).  One-table candidates are unaffected.
     md_ids = [l.strip().strip("|").split("|")[0].strip()
-              for l in cand_lines if is_row(l)][1:]
+              for i, l in enumerate(cand_lines) if is_row(l)
+              and not (i + 1 < len(cand_lines) and SEP_RE.match(cand_lines[i + 1]))]
     if set(md_ids) != set(ids):
         problems.append(
             f"candidate identifier set != PDF identifier set; "
@@ -246,8 +252,9 @@ def g3_structural(orig_lines, cand_lines, table: dict) -> dict:
             "orig_rows": o_rows, "cand_rows": c_rows}
 
 
-def g4_notes(cand_lines: list[str], table: dict) -> dict:
-    notes = table.get("notes") or []
+def g4_notes(cand_lines: list[str], tables) -> dict:
+    tables = [tables] if isinstance(tables, dict) else list(tables)
+    notes = [n for t in tables for n in (t.get("notes") or [])]
     problems = []
     for ln in cand_lines:
         if is_row(ln) and NOTE_RE.search(ln):
@@ -323,34 +330,70 @@ def g0_boundary(table: dict) -> dict:
 
 
 # ── driver ──────────────────────────────────────────────────────────────────
-def gate_file(act: str, original: Path, candidate: Path, table: dict) -> dict:
+def gate_file(act: str, original: Path, candidate: Path, tables) -> dict:
+    """Gate a candidate against EVERY table the extractor found for the section.
+
+    Accepting a list is the point: the old single-table signature is what let a
+    section with two real tables be rebuilt as one, losing law.  G1 is the
+    backstop - it compares the union of all detected table tokens against the
+    candidate's table tokens, so a candidate that renders only some of the
+    source tables fails on the missing tokens, whatever the caller believed.
+    """
+    tables = [tables] if isinstance(tables, dict) else list(tables)
     orig_lines = original.read_text(encoding="utf-8").splitlines()
     cand_text = candidate.read_text(encoding="utf-8")
     cand_lines = cand_text.splitlines()
-    pdf_tokens = table["region_words"]
+    pdf_tokens = [w for t in tables for w in t["region_words"]]
 
+    g0s = [g0_boundary(t) for t in tables]
     gates = {
-        "G0_boundary": g0_boundary(table),
+        "G0_boundary": {"pass": all(g["pass"] for g in g0s),
+                        "reason": " | ".join(g["reason"] for g in g0s if not g["pass"])},
         "G1_token_provenance": g1_token_provenance(pdf_tokens, cand_lines),
         "G2_prose_preservation": g2_prose_preservation(orig_lines, cand_lines),
-        "G3_structural": g3_structural(orig_lines, cand_lines, table),
-        "G4_notes": g4_notes(cand_lines, table),
+        "G3_structural": g3_structural(orig_lines, cand_lines, tables),
+        "G4_notes": g4_notes(cand_lines, tables),
         "G5_glyph_ban": g5_glyph_ban(cand_lines),
         "G6_coherence": g6_coherence(act, cand_text),
     }
     return {"act": act, "original": str(original), "candidate": str(candidate),
+            "tables": len(tables),
             "verdict": "ACCEPTED" if all(g["pass"] for g in gates.values()) else "REJECTED",
             "gates": gates}
 
 
-def extract_table(pdf: Path, section: str) -> dict | None:
-    """The section's single logical table, with the fields the gates need."""
+def dedup_tables(tables: list[dict]) -> list[dict]:
+    """Collapse identical page-repeat copies; KEEP genuinely distinct tables.
+
+    The corrupt sources re-detect the same table once per page (the header
+    repeats), so collapsing repeats is right.  Collapsing everything is what
+    silently ate sections holding two REAL tables (fbt-1986 s103).  Identical
+    row content = a repeat; different rows = different law.
+    """
+    seen, out = set(), []
+    for t in tables:
+        key = tuple((r.get("item", ""),
+                     tuple(r.get("cols", {}).get(str(i), "") for i in range(1, t["cols"])))
+                    for r in t["rows"])
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(t)
+    return out
+
+
+def extract_tables(pdf: Path, section: str) -> list[dict]:
+    """EVERY distinct table for the section — the real unit of a rebuild."""
     import fitz
     doc = fitz.open(pdf)
-    tables = EX.collect_tables(doc, section, detail=True)
-    if not tables:
-        return None
-    return max(tables, key=lambda t: len(t["rows"]))
+    return dedup_tables(EX.collect_tables(doc, section, detail=True))
+
+
+def extract_table(pdf: Path, section: str) -> dict | None:
+    """The section's largest table.  Kept for single-table callers/tests;
+    gate_file itself takes the full list."""
+    tables = extract_tables(pdf, section)
+    return max(tables, key=lambda t: len(t["rows"])) if tables else None
 
 
 def selfcheck() -> int:
@@ -427,11 +470,11 @@ def main() -> int:
     ap.add_argument("--json", type=Path)
     a = ap.parse_args()
 
-    table = extract_table(a.pdf, a.section)
+    tables = extract_tables(a.pdf, a.section)
     if table is None:
         print(f"REJECTED {a.act} {a.section}: no table found in {a.pdf}", file=sys.stderr)
         return 1
-    rep = gate_file(a.act, a.original, a.candidate, table)
+    rep = gate_file(a.act, a.original, a.candidate, tables)
     print(f"{rep['verdict']}  {a.act} {a.section}")
     for name, g in rep["gates"].items():
         print(f"  {'PASS  ' if g['pass'] else 'REJECT'} {name}"
