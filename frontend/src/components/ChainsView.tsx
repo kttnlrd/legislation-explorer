@@ -10,7 +10,7 @@ type CNode = {
   id: string; kind: string; label?: string; title?: string; role?: string
   provision?: string; act?: string; section?: string; division?: string
   shared?: boolean; consumer?: boolean; fact?: string; gate?: boolean
-  x?: number; y?: number
+  x?: number; y?: number; fx?: number; fy?: number
 }
 type CEdge = { source: string | CNode; target: string | CNode; kind: string; note?: string }
 type Payload = {
@@ -26,6 +26,21 @@ const idOf = (v: string | CNode) => (typeof v === 'string' ? v : v.id)
 const actOf = (n: CNode) => n.act || n.id.split(':')[1] || ''
 const trunc = (s: string) => (s.length > 40 ? s.slice(0, 39) + '…' : s)
 const nameOf = (n: CNode) => n.label || n.id
+
+// Ids reachable from root along edges; reverse walks target -> source (ancestors).
+export function reach(root: string, edges: CEdge[], reverse = false): Set<string> {
+  const out = new Map<string, string[]>()
+  for (const e of edges) {
+    const [a, b] = reverse ? [idOf(e.target), idOf(e.source)] : [idOf(e.source), idOf(e.target)]
+    out.set(a, [...(out.get(a) || []), b])
+  }
+  const seen = new Set([root])
+  const stack = [root]
+  while (stack.length) for (const n of out.get(stack.pop()!) || []) if (!seen.has(n)) { seen.add(n); stack.push(n) }
+  return seen
+}
+
+type Hide = { id: string; mode: 'branch' | 'node' | 'focus' }
 
 // "152-10" -> [defaultAct, "152-10"]; "itaa-1936 340" -> ["itaa-1936", "340"]
 export function parseQuery(q: string, defaultAct: string): [string, string] | null {
@@ -57,6 +72,10 @@ export default function ChainsView({ isMobile }: { isMobile: boolean }) {
   const [error, setError] = useState('')
   const [selected, setSelected] = useState<CNode | null>(null)
   const [hidden, setHidden] = useState<Set<string>>(new Set())
+  const [hides, setHides] = useState<Hide[]>([])
+  const [pinned, setPinned] = useState<Set<string>>(new Set())
+  const [frozen, setFrozen] = useState(false)
+  const fitted = useRef(false)
   const [size, setSize] = useState({ w: 800, h: 600 })
   const boxRef = useRef<HTMLDivElement>(null)
   const fgRef = useRef<any>(null)
@@ -75,6 +94,7 @@ export default function ChainsView({ isMobile }: { isMobile: boolean }) {
   useEffect(() => {
     if (!urlAct || !urlSection) { setHead(null); setNodes([]); setEdges([]); return }
     setAct(urlAct); setQuery(urlSection); setSelected(null); setLoading(true); setError('')
+    setHides([]); setPinned(new Set()); setFrozen(false); fitted.current = false
     api.taxChains(urlAct, urlSection)
       .then((d: Payload) => {
         setHead(d)
@@ -90,6 +110,7 @@ export default function ChainsView({ isMobile }: { isMobile: boolean }) {
   const mergeIn = (a: string, s: string) => {
     api.taxChains(a, s).then((d: Payload) => {
       if (!d.nodes) return
+      setFrozen(false) // new nodes settle, then onEngineStop freezes again
       setNodes((prev) => {
         const seen = new Set(prev.map((n) => n.id))
         return [...prev, ...d.nodes!.filter((n) => !seen.has(n.id))]
@@ -107,6 +128,39 @@ export default function ChainsView({ isMobile }: { isMobile: boolean }) {
     // force-graph throws on dangling ends; drop them rather than invent nodes
     return { nodes, links: edges.filter((e) => ids.has(idOf(e.source)) && ids.has(idOf(e.target))) }
   }, [nodes, edges])
+
+  // Hidden node ids, derived from the hide list; the loaded data is never touched.
+  const hiddenIds = useMemo(() => {
+    const out = new Set<string>()
+    for (const h of hides) {
+      if (h.mode === 'node') out.add(h.id)
+      else if (h.mode === 'branch') reach(h.id, graphData.links).forEach((i) => out.add(i))
+      else {
+        const keep = new Set([...reach(h.id, graphData.links), ...reach(h.id, graphData.links, true), ...pinned])
+        nodes.forEach((n) => { if (!keep.has(n.id)) out.add(n.id) })
+      }
+    }
+    return out
+  }, [hides, graphData, nodes, pinned])
+
+  const hide = (mode: Hide['mode']) => {
+    if (!selected) return
+    setHides((h) => [...h.filter((x) => x.id !== selected.id), { id: selected.id, mode }])
+    if (mode !== 'focus') setSelected(null)
+  }
+
+  // Freeze = fix every node where it stands, so no tick can move anything.
+  // pinned holds only the user's drags; those survive Reheat.
+  const freeze = () => {
+    nodes.forEach((n) => { n.fx = n.x; n.fy = n.y })
+    setFrozen(true)
+  }
+  const reheat = (keep: Set<string>) => {
+    nodes.forEach((n) => { if (!keep.has(n.id)) { n.fx = undefined; n.fy = undefined } })
+    setFrozen(false)
+    fgRef.current?.d3ReheatSimulation()
+  }
+  const releaseAll = () => { setPinned(new Set()); reheat(new Set()) }
 
   const go = (e: React.FormEvent) => {
     e.preventDefault()
@@ -144,6 +198,11 @@ export default function ChainsView({ isMobile }: { isMobile: boolean }) {
       ctx.strokeStyle = c.ink
       ctx.beginPath(); ctx.arc(n.x!, n.y!, r + 2, 0, 2 * Math.PI); ctx.stroke()
       ctx.setLineDash([])
+    }
+    if (pinned.has(n.id)) {
+      ctx.lineWidth = 0.75 / scale
+      ctx.strokeStyle = c.ink
+      ctx.beginPath(); ctx.arc(n.x!, n.y!, r + 1.5, 0, 2 * Math.PI); ctx.stroke()
     }
     if (selected?.id === n.id) {
       ctx.lineWidth = 1.5 / scale
@@ -210,6 +269,29 @@ export default function ChainsView({ isMobile }: { isMobile: boolean }) {
           >{k.replace(/_/g, ' ')}</button>
         ))}
         <button type="button" className="lk-chains__chip" onClick={() => fgRef.current?.zoomToFit(400, 40)}>Reset view</button>
+        {nodes.length > 0 && (
+          <>
+            <button type="button" className="lk-chains__chip" aria-pressed={frozen} onClick={() => (frozen ? reheat(pinned) : freeze())}>{frozen ? 'Reheat' : 'Freeze'}</button>
+            {pinned.size > 0 && <button type="button" className="lk-chains__chip" onClick={releaseAll}>Release all ({pinned.size})</button>}
+          </>
+        )}
+        {hides.length > 0 && (
+          <details className="lk-chains__hidden">
+            <summary className="lk-chains__chip">Hidden ({hiddenIds.size})</summary>
+            <div className="lk-chains__hidden-list">
+              {hides.map((h) => {
+                const n = nodes.find((x) => x.id === h.id)
+                return (
+                  <button key={h.id} type="button" className="lk-chains__chip" title="Restore"
+                    onClick={() => setHides((l) => l.filter((x) => x.id !== h.id))}>
+                    {h.mode === 'focus' ? 'focus' : h.mode}: {trunc(n ? nameOf(n) : h.id)} ×
+                  </button>
+                )
+              })}
+              <button type="button" className="lk-chains__chip" onClick={() => setHides([])}>Unhide all</button>
+            </div>
+          </details>
+        )}
       </div>
 
       <div className="lk-chains__body">
@@ -241,7 +323,11 @@ export default function ChainsView({ isMobile }: { isMobile: boolean }) {
                 ctx.fillStyle = colour
                 ctx.beginPath(); ctx.arc(o.x!, o.y!, o.kind === 'section' ? 10 : 7, 0, 2 * Math.PI); ctx.fill()
               }}
-              linkVisibility={(e) => !hidden.has((e as CEdge).kind)}
+              nodeVisibility={(n) => !hiddenIds.has((n as CNode).id)}
+              linkVisibility={(e) => {
+                const l = e as CEdge
+                return !hidden.has(l.kind) && !hiddenIds.has(idOf(l.source)) && !hiddenIds.has(idOf(l.target))
+              }}
               linkColor={(e) => edgeColour[(e as CEdge).kind] || c.line}
               linkWidth={(e) => ((e as CEdge).kind === 'contains' ? 0.5 : 1.2)}
               linkLineDash={(e) => DASH[(e as CEdge).kind] || null}
@@ -251,8 +337,17 @@ export default function ChainsView({ isMobile }: { isMobile: boolean }) {
               linkDirectionalArrowColor={(e) => edgeColour[(e as CEdge).kind] || c.line}
               onNodeClick={(n) => onNodeClick(n as CNode)}
               onBackgroundClick={() => setSelected(null)}
-              cooldownTicks={120}
-              onEngineStop={() => fgRef.current?.zoomToFit(400, 40)}
+              onNodeDragEnd={(n) => {
+                const o = n as CNode
+                o.fx = o.x; o.fy = o.y
+                setPinned((p) => new Set(p).add(o.id))
+              }}
+              cooldownTicks={150}
+              d3AlphaDecay={0.05}
+              onEngineStop={() => {
+                freeze()
+                if (!fitted.current) { fitted.current = true; fgRef.current?.zoomToFit(400, 40) }
+              }}
             />
           )}
         </div>
@@ -276,6 +371,9 @@ export default function ChainsView({ isMobile }: { isMobile: boolean }) {
               {selected.kind === 'limb' && selected.section && (
                 <button type="button" className="lk-reader-btn lk-reader-btn--primary" onClick={() => mergeIn(actOf(selected), selected.section!)}>Show chains</button>
               )}
+              <button type="button" className="lk-reader-btn" onClick={() => hide('branch')}>Hide branch</button>
+              <button type="button" className="lk-reader-btn" onClick={() => hide('node')}>Hide node</button>
+              <button type="button" className="lk-reader-btn" onClick={() => hide('focus')}>Focus branch</button>
             </div>
           </aside>
         )}

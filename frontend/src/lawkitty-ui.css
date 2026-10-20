@@ -2131,6 +2131,10 @@ button.lk-map__row:hover { border-color: var(--gavel); background: var(--color-s
 .lk-chains__chip--audited_from { border-color: var(--tabby); }
 .lk-chains__chip--may_come_from { border: 1px dashed var(--tabby-deep); }
 .lk-chains__chip--feeds { border: 1px dotted var(--catnip); }
+.lk-chains__hidden { position: relative; }
+.lk-chains__hidden summary { list-style: none; }
+.lk-chains__hidden summary::-webkit-details-marker { display: none; }
+.lk-chains__hidden-list { position: absolute; z-index: 5; top: calc(100% + 4px); left: 0; display: flex; flex-direction: column; align-items: flex-start; gap: 4px; padding: 6px; min-width: 200px; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-md); }
 .lk-chains__body { position: relative; flex: 1; display: flex; min-height: 0; border: 1px solid var(--color-border); border-radius: var(--radius-md); overflow: hidden; background: var(--surface-sunken); }
 .lk-chains__graph { position: relative; flex: 1; min-width: 0; }
 .lk-chains__state { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: var(--space-4); text-align: center; font-size: 14px; }
