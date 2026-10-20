@@ -46,9 +46,27 @@ router.include_router(treaties_router)
 router.include_router(workflows_router)
 
 
-VERSION = "3.2"
+VERSION = "3.3"
 
 CHANGELOG = [
+    {
+        "version": "3.3",
+        "date": "2026-10-20",
+        "title": "Interpretive chains (alpha): see where a provision sits",
+        "changes": [
+            "New features:",
+            "|– ALPHA Interpretive chains: pick a provision and see it as a graph — its limbs, the facts each limb gates, the facts whose value is fixed by an audited link or may come from another limb, and the other provisions whose facts it feeds",
+            "|– The graph settles once and freezes, so it does not drift while you read; Freeze and Reheat toggle it",
+            "|– Drag a node to pin it; Release all unpins. Hide branch, Hide node and Focus branch prune what is irrelevant, and unhide restores without re-running the layout",
+            "|– Every section page carries a Chains button; the view is also reachable at /chains with a section search",
+            "|– interpretive_chains MCP tool returns the same relations as text, for an agent working a matter",
+            "Bugs fixed:",
+            "|– Facts served for a section now come from the division sheet, the same layer evaluate uses, so fact ids match across tools and audited shared nodes resolve instead of silently doing nothing",
+            "|– Chain edges are read from the build-time link tables, not recomputed at run time",
+            "Note:",
+            "|– ALPHA means the relations are auditable but thin: 106 shared nodes across 70 of 268 divisions. A provision with no recorded chain says so rather than guessing",
+        ],
+    },
     {
         "version": "3.2",
         "date": "2026-10-20",

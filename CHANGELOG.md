@@ -1,5 +1,31 @@
 # Changelog
 
+## 3.3 — 20 Oct 2026
+
+**New features (alpha)**
+
+**Interpretive chains.** Pick a provision and see where it sits. The view draws the provision as a graph: its
+limbs, the facts each limb gates, the facts whose value is fixed by an audited link or may come from another
+limb, and the other provisions whose facts it feeds. Reachable from the Chains button on any section page, or
+at `/chains` with a section search.
+
+- The graph settles once, then freezes, so it does not drift while you read. `Freeze` and `Reheat` toggle it.
+- Drag a node to pin it where you put it; `Release all` unpins everything.
+- `Hide branch`, `Hide node` and `Focus branch` prune what is irrelevant to the question in front of you.
+  Hidden nodes collect in a `Hidden (n)` chip and `Unhide all` restores them without re-running the layout.
+- Edge kinds are distinguishable at a glance: gate (solid), audited link (gold), chain link (dashed amber),
+  consumer (dotted green). Chips toggle each kind.
+- `interpretive_chains` exposes the same relations to agents through the MCP.
+
+This is alpha: every relation is auditable, but coverage is thin — 106 shared nodes across 70 of 268
+divisions. A provision with no recorded chain says so rather than guessing.
+
+**Bugs fixed**
+
+- Facts served for a section now come from the division sheet, the same layer `evaluate` uses. Fact ids match
+  across tools, and audited shared nodes resolve instead of silently doing nothing.
+- Chain edges are read from the build-time link tables rather than recomputed at run time.
+
 ## 3.2 — 20 Oct 2026
 
 **New features**
