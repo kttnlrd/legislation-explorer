@@ -431,12 +431,155 @@ def _section_title(act: str, section_id: str) -> str | None:
     return None
 
 
+# ── Citation-shaped references: public rulings and treaty articles (CDN-0270,
+#    CDN-0272) ────────────────────────────────────────────────────────────────
+# Rulings and treaties are not act sections, so the section/alias rules never
+# matched them and the FTS fallback answered with the nearest-looking section
+# ('IS 25/10' -> GST s 146-20, 'BR Pub 14/09' -> master-tax-guide). Both families
+# resolve here instead, before any section routing or search fallback runs.
+_RULING_CITATION_RE = _re.compile(
+    r'^(?P<type>[A-Za-z][A-Za-z ]{1,8}?)\s*(?P<year>\d{2,4})\s*[/_\- ]\s*(?P<num>\d{1,4}[A-Za-z]?)$'
+)
+_TREATY_REFERENCE_RE = _re.compile(
+    r'^(?:dta|treaty)\s*[:/]\s*(?P<country>[a-z][a-z _\-]+?)\s*[:/]\s*'
+    r'(?:art(?:icle)?\s*[-_ ]?)?(?P<article>\d{1,3})$',
+    _re.IGNORECASE,
+)
+
+
+def _expand_year(year: str) -> int:
+    y = int(year)
+    if y < 100:
+        y += 1900 if y >= 90 else 2000
+    return y
+
+
+def _ruling_keys(raw: str) -> tuple[set[str], tuple[str, int, str] | None]:
+    """Keys a ruling citation can be looked up by, plus its parsed form.
+
+    Two keys per form, because the manifest keeps display citations ('IS 25/19',
+    'BR Prd 04/01') while files and URLs use the underscore stem ('IS_2025_28'):
+    an alphanumeric key ('IS2519') and a year-expanded key ('IS202519'). The
+    stem's own number is a scrape sequence, not the ruling number, so the stem is
+    indexed under its own keys rather than parsed.
+    """
+    alnum = _re.sub(r'[^A-Za-z0-9]', '', raw).upper()
+    keys = {alnum} if alnum else set()
+    m = _RULING_CITATION_RE.match(raw.strip())
+    parsed = None
+    if m:
+        rtype = _re.sub(r'[^A-Za-z]', '', m.group("type")).upper()
+        year = _expand_year(m.group("year"))
+        num = m.group("num").upper().lstrip("0") or "0"
+        parsed = (rtype, year, num)
+        keys.add(f"{rtype}{year}{num}")
+    return keys, parsed
+
+
+@functools.lru_cache(maxsize=1)
+def _ruling_citation_index() -> dict[str, dict]:
+    """alphanumeric citation key -> ruling, for UCI/ATO rulings and NZ IRD rulings."""
+    index: dict[str, dict] = {}
+    for r in load_rulings():
+        sources = [r.get("citation") or ""]
+        stem = Path(str(r.get("source") or "")).stem
+        if stem:
+            sources.append(stem)
+        for src in sources:
+            keys, _ = _ruling_keys(src)
+            for k in keys:
+                index.setdefault(k, r)
+    return index
+
+
+def _resolve_ruling_reference(ref: str) -> dict | None:
+    """Return a ruling reference payload, or None when `ref` is not a ruling citation."""
+    keys, parsed = _ruling_keys(ref)
+    if parsed is None and not keys:
+        return None
+    index = _ruling_citation_index()
+    hit = next((index[k] for k in keys if k in index), None)
+    if hit:
+        return {
+            "reference": ref,
+            "result_type": "ruling",
+            "citation": hit.get("citation", ""),
+            "title": hit.get("full_title") or hit.get("title") or "",
+            "type": hit.get("type", ""),
+            "jurisdiction": hit.get("jurisdiction", "AU"),
+            "year": hit.get("year"),
+            "withdrawn": bool(hit.get("withdrawn")),
+            "resolved_by": "ruling_citation",
+            "lookup": f"get_ruling('{hit.get('citation', '')}')",
+            "note": "Ruling citation, not an act section. Fetch the text with get_ruling.",
+        }
+    if parsed is None:
+        return None
+    rtype, year, _ = parsed
+    near = sorted({
+        r.get("citation", "") for k, r in index.items()
+        if r.get("type", "").upper() == rtype and r.get("year") == year
+    })[:5]
+    return {
+        "reference": ref,
+        "result_type": "ruling",
+        "error": f"No {rtype} ruling {year} matching '{ref}' in the rulings corpus.",
+        "same_type_and_year": near,
+        "hint": "Ruling citations are '<TYPE> <YY>/<N>' (e.g. 'IS 25/19') or the "
+                "underscore form ('IS_2025_19'). Listing the year with list_rulings "
+                "shows what exists.",
+    }
+
+
+def _resolve_treaty_reference(ref: str) -> dict | None:
+    """Return a treaty-article payload for 'dta:<country>:<article>', else None."""
+    m = _TREATY_REFERENCE_RE.match(ref.strip())
+    if not m:
+        return None
+    slug = _re.sub(r'[\s_]+', '-', m.group("country").strip().lower())
+    article = int(m.group("article"))
+    tree_path = TREATIES_DIR / slug / "tree.json"
+    if not tree_path.is_file():
+        available = sorted(
+            d.name for d in TREATIES_DIR.iterdir()
+            if d.is_dir() and (d / "tree.json").is_file()
+        ) if TREATIES_DIR.is_dir() else []
+        return {
+            "reference": ref,
+            "result_type": "treaty_article",
+            "error": f"No double tax agreement for '{slug}'.",
+            "available_countries": available,
+            "hint": "Use the country slug, e.g. dta:new-zealand:13.",
+        }
+    try:
+        tree = json.loads(tree_path.read_text(encoding="utf-8"))
+    except Exception as e:
+        return {"reference": ref, "result_type": "treaty_article",
+                "error": f"Failed to read treaty tree: {e}"}
+    title = next((a.get("title", "") for a in tree.get("articles", [])
+                  if a.get("article") == article), "")
+    return {
+        "reference": ref,
+        "result_type": "treaty_article",
+        "treaty": tree.get("treaty", slug),
+        "country_slug": slug,
+        "schedule": tree.get("schedule"),
+        "article": article,
+        "title": title,
+        "resolved_by": "treaty_reference",
+        "lookup": f"get_treaty_article('{slug}', {article})",
+        "note": "Treaty article, not an act section. Fetch the text with get_treaty_article.",
+    }
+
+
 @mcp.tool(structured_output=False)
 async def resolve_alias(reference: str) -> str:
     """Resolve a section alias or short-hand reference to its act and section number.
 
     Handles common shorthand: 's 100A', 'Div 7A', 'Part IVA', 'Subdiv 115-C',
-    '109Y', '8-1', 'Div 152', etc.
+    '109Y', '8-1', 'Div 152', etc. Also resolves non-section citations:
+    rulings ('IS 25/19', 'TR 2024/1', 'IS_2025_19') and treaty articles
+    ('dta:new-zealand:13').
 
     Rules:
     - Div 7A          → ITAA 1936, Division 7A (ss 109Y-109ZQ)
@@ -473,6 +616,14 @@ async def resolve_alias(reference: str) -> str:
                 "url": f"https://legislation.scriptkitty.yachts/{url_suffix}" if url_suffix else None,
                 "resolved_by": "exact_rule",
             }, indent=2)
+
+    # -- Step 1b: Rulings and treaty articles (CDN-0270, CDN-0272) --
+    # Checked before section routing: a ruling citation must never be answered
+    # with an act section, and must never fall through to search.
+    for resolver in (_resolve_ruling_reference, _resolve_treaty_reference):
+        payload = resolver(ref)
+        if payload is not None:
+            return json.dumps(payload, indent=2, ensure_ascii=False)
 
     # -- Step 2: Try regex-based routing for common patterns not in the well-known list --
 
@@ -1009,9 +1160,77 @@ def _tree_same_division(tree: dict, section: str) -> list[dict]:
     return []
 
 
+
+def _fm_fields(content: str) -> dict:
+    """Parse the YAML frontmatter block of a section file into a flat dict."""
+    fields: dict = {}
+    if not content.startswith("---"):
+        return fields
+    end = _re.search(r"\n---\s*\n", content)
+    if not end:
+        return fields
+    for line in content[3:end.start()].splitlines():
+        if ":" not in line:
+            continue
+        key, _, val = line.partition(":")
+        fields[key.strip()] = val.strip().strip('"').strip("'")
+    return fields
+
+
+_SUB_MARKERS = [
+    r"\*\*\((?P<n>\d+[A-Za-z]?)\)\*\*",   # **(4)**
+    r"^\*\((?P<n>\d+[A-Za-z]?)\)\*",        # *(4)*
+    r"^\((?P<n>\d+[A-Za-z]?)\)",              # (4) at line start
+]
+
+
+def _extract_subsection(body: str, want: str) -> tuple[str, bool]:
+    """Return only subsection `want` of a section body, plus whether it was found.
+
+    Subsection pinpoints (CDN-0297) matter for long provisions: fetching s 83A-45 whole to read
+    subsection (4) wastes the caller's context.
+    """
+    want = want.strip().strip("()")
+    pats = [_re.compile(p, _re.M) for p in _SUB_MARKERS]
+    starts = []
+    for pat in pats:
+        for m in pat.finditer(body):
+            starts.append((m.start(), m.group("n"), m.end()))
+    if not starts:
+        return body, False
+    starts.sort()
+    for idx, (start, num, _end) in enumerate(starts):
+        if num.lower() != want.lower():
+            continue
+        finish = starts[idx + 1][0] if idx + 1 < len(starts) else len(body)
+        return body[start:finish].rstrip(), True
+    return body, False
+
+
+def _related(requested: set[str], fetch_graph, tree_same_division) -> tuple[dict, str]:
+    """Build the related block only from what the caller asked for, capped at 3 each."""
+    out: dict = {}
+    if {"related", "cases"} & requested:
+        out["cases"] = fetch_graph("cases")[:3]
+    if {"related", "rulings"} & requested:
+        out["rulings"] = fetch_graph("rulings")[:3]
+    if "private_rulings" in requested:
+        out["private_rulings"] = fetch_graph("private_rulings")[:3]
+    if "commentary" in requested:
+        out["commentary"] = fetch_graph("commentary")[:3]
+    if "sections" in requested:
+        out["sections"] = tree_same_division()[:3]
+    hint = ("" if out else
+            "Related material omitted. Call again with include=['related'] for up to 3 cases and "
+            "3 rulings; add 'sections' for same-division siblings, or 'private_rulings' / "
+            "'commentary'. Private rulings are not authority and are never returned by default.")
+    return out, hint
+
+
 # @mcp.tool(structured_output=False)
 async def get_section(act: str, section: str, max_body_length: int = 50000,
-                      include_commentary: bool = False) -> str:
+                      include_commentary: bool = False, include: list[str] | None = None,
+                      subsection: str | None = None, as_at: str | None = None) -> str:
     """Retrieve full text of a legislation section with related cases, rulings, and commentary.
 
     Leading s/sec/section is stripped automatically. Uses hyphenated format
@@ -1026,6 +1245,14 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
     - max_body_length: Maximum number of characters for the body text (default 50000)
     - include_commentary: Whether to include full commentary text (default False).
       When False, commentary returns a 500-char snippet + locator.
+    - include: opt-in related material, e.g. ['related'] or ['related','sections'].
+      Nothing related is returned unless asked; each list is capped at 3 items.
+      'related' = cases + public rulings. 'private_rulings' and 'commentary' are separate
+      opt-ins because neither is authority.
+    - subsection: return only this subsection, e.g. subsection='4' for s 83A-45(4).
+    - as_at: ISO date (YYYY-MM-DD) the caller is computing for. The response always carries
+      the compilation it is quoting; if the held compilation post-dates as_at the response says
+      so explicitly instead of pretending to be point-in-time.
     """
     section = _re.sub(r'^(?:s(?:ec(?:tion)?)?\.?)\s+', '', section.strip(),
                       flags=_re.IGNORECASE).strip()
@@ -1122,7 +1349,13 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
     # Strip HTML anchor tags (e.g. <a id="s8-1-1"></a>) — internal nav markers, not reading content
     body_clean = _re.sub(r'<a\s+id="[^"]*"\s*></a>\s*', '', body_clean)
     body_stripped = body_clean.strip()
-    truncated = bool(body_stripped) and not _re.search(r'[.\\)"\'!?]\s*$', body_stripped)
+    # `truncated` must mean "this response was cut", never "the stored text ends oddly".
+    # The previous test flagged any body without terminal punctuation, so a 1 KB section whose
+    # corpus text stops on an internal subheading reported truncation that never happened
+    # (CDN-0293, CDN-0294). A body that stops mid-sentence is a corpus defect and is reported
+    # separately as body_incomplete.
+    body_incomplete = bool(body_stripped) and not _re.search(r'[.\\)"\'!?]\s*$', body_stripped)
+    truncated = False
 
     # Strip markdown rendering scaffolding + scraped markup BEFORE the length
     # cap so the body returned to callers is clean prose (LK-26) and the cap
@@ -1165,25 +1398,45 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
         # Truncate to a concise preview
         body_out = body_out[:10000]
 
+    subsection_note = ""
+    if subsection:
+        shortened, found = _extract_subsection(body_out, subsection)
+        if found:
+            body_out = shortened
+            subsection_note = f"Returned subsection ({subsection}) only."
+        else:
+            subsection_note = (f"Subsection ({subsection}) not found; the full section body is "
+                               f"returned instead.")
+
+    if as_at:
+        as_at_note = ""
     # Fetch related content (top 10 each) — graph-first: graph.db is the
     # canonical link source (considered_in / interpreted_by / applies /
     # explained_in). The archived citation/commentary/smartlink indexes are
     # retired. Related sections come from the act tree (same part/division) —
     # the graph has no section→section edges.
+    requested = {str(x).strip().lower() for x in (include or [])}
+    want_related = bool(requested & {"related", "cases", "rulings", "sections",
+                                     "private_rulings", "commentary"})
+    if not want_related:
+        related_cases = related_rulings = related_private_rulings = []
+        related_commentary_raw = []
     try:
-        related_cases = _graph_cases_for_section(act, section, limit=10)
+        related_cases = _graph_cases_for_section(act, section, limit=3) if want_related else []
     except Exception:
         related_cases = []
     try:
-        related_rulings = _graph_rulings_for_section(act, section, limit=10)
+        related_rulings = _graph_rulings_for_section(act, section, limit=3) if want_related else []
     except Exception:
         related_rulings = []
     try:
-        related_private_rulings = _graph_private_rulings_for_section(act, section, limit=10)
+        related_private_rulings = (_graph_private_rulings_for_section(act, section, limit=3)
+                                  if "private_rulings" in requested else [])
     except Exception:
         related_private_rulings = []
     try:
-        related_commentary_raw = _graph_commentary_for_section(act, section, limit=10)
+        related_commentary_raw = (_graph_commentary_for_section(act, section, limit=3)
+                                 if "commentary" in requested else [])
     except Exception:
         related_commentary_raw = []
 
@@ -1218,27 +1471,58 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
         related_commentary.append(commentary_entry)
 
     try:
-        tree = load_tree(act)
-        related_sections = _tree_same_division(tree, section)[:10]
+        related_sections = (_tree_same_division(load_tree(act), section)[:3]
+                            if "sections" in requested else [])
     except Exception:
         related_sections = []
 
+    fields = _fm_fields(content)
     payload = {
         "act": act,
         "section": section,
         "body": body_out,
-        "truncated": truncated or body_truncated_flag,
+        # truncated == this response was cut by max_body_length or the definitions preview.
+        "truncated": bool(truncated or body_truncated_flag),
         "body_truncated_to": max_body_length,
-        "related": {
-            "cases": related_cases,
-            "rulings": related_rulings,
-            "sections": related_sections,
-        },
+        # CDN-0298: every response states the compilation it quotes, so a computation for a
+        # given income year can be tied to the text actually returned.
+        "compilation_no": fields.get("compilation_no"),
+        "compilation_date": fields.get("compilation_date"),
+        "act_title": fields.get("act"),
+        "jurisdiction": fields.get("jurisdiction"),
     }
-    if related_private_rulings:
-        payload["related"]["private_rulings"] = related_private_rulings
-    if related_commentary:
-        payload["related"]["commentary"] = related_commentary
+    if body_incomplete:
+        payload["body_incomplete"] = True
+        payload["body_incomplete_note"] = (
+            "The stored text for this section stops mid-sentence, usually at an internal "
+            "subheading. Nothing was cut by this call; the corpus text itself is incomplete. "
+            "Treat the tail as missing and check the source PDF before relying on it."
+        )
+    if subsection_note:
+        payload["subsection"] = subsection
+        payload["subsection_note"] = subsection_note
+    if as_at:
+        payload["as_at"] = as_at
+        comp_date = fields.get("compilation_date") or ""
+        if comp_date and as_at >= comp_date:
+            payload["as_at_note"] = (f"Text returned is compilation {fields.get('compilation_no')} "
+                                     f"of {comp_date}, which is in force for {as_at}.")
+        else:
+            payload["as_at_warning"] = (
+                f"as_at={as_at} predates the held compilation ({comp_date}). Historical "
+                f"compilations are not held, so the text returned is LATER than requested. "
+                f"Point-in-time retrieval is not satisfied by this response."
+            )
+    related_block, related_hint = _related(requested, lambda kind: {
+        "cases": related_cases,
+        "rulings": related_rulings,
+        "private_rulings": related_private_rulings,
+        "commentary": related_commentary,
+    }[kind], lambda: related_sections)
+    if related_block:
+        payload["related"] = related_block
+    if related_hint:
+        payload["related_omitted"] = related_hint
     if section_def_note:
         payload["note"] = section_def_note
     return json.dumps(payload, indent=2)
@@ -1535,12 +1819,21 @@ def _hybrid_sections(query: str, act: str | None, limit: int) -> list[dict]:
     n = max(limit, 20)
     fts = fts_search(query, act, limit=n).get("results", [])
     try:
-        from backend.services import vector_search_service as _vss
-        vec = _vss.search(
-            query, limit=n,
-            acts={act} if act else None,
-            source_types={"section"},
-        )
+        from backend.services import searchd_client
+        # searchd's HNSW walk first; the in-process matrix scan only when it is
+        # down (None). An empty list is a real answer, not a reason to fall back.
+        vec = None
+        if searchd_client.available():
+            vec = searchd_client.ann_candidates(
+                query, limit=n, acts={act} if act else None, types={"section"},
+            )
+        if vec is None:
+            from backend.services import vector_search_service as _vss
+            vec = _vss.search(
+                query, limit=n,
+                acts={act} if act else None,
+                source_types={"section"},
+            )
     except Exception:
         vec = []
 
@@ -1827,10 +2120,22 @@ async def find_similar_rulings(query: str, limit: int = 10, outcome: str = "",
         want_outcome = ""
 
     from backend.services import vector_search_service as _vss
+    from backend.services import searchd_client
     from backend.services import private_ruling_outcomes as _outcomes
 
     try:
-        top = _vss.search(query, limit=50)
+        # searchd first, sliced to rulings at retrieval time so a ruling-only
+        # query gets a full 50 candidates; the matrix scan only if it is down.
+        top = None
+        if searchd_client.available():
+            top = searchd_client.ann_candidates(
+                query, limit=50, types={"ruling", "private_ruling"},
+            )
+            if top is not None:
+                # an exact-reference hit carries no cosine; this tool ranks by it
+                top = [h for h in top if h.get("score") is not None]
+        if not top:   # [] as well as None
+            top = _vss.search(sq, limit=50)
     except Exception as exc:  # pragma: no cover - network/API failure path
         return json.dumps({"error": f"vector search failed: {exc}"})
 
@@ -3314,20 +3619,58 @@ async def search(
 
 
 @mcp.tool(structured_output=False)
-async def fetch(ref: str, chunk: int = 1) -> str:
-    """Return one document by document ID or human citation.
+async def fetch(ref: str | None = None, chunk: int = 1,
+                include: list[str] | None = None, as_at: str | None = None,
+                refs: list[str] | str | None = None) -> str:
+    """Return one document by document ID or human citation, or many at once.
 
-    ref examples: 'leg:itaa-1997:8-1', 'TR 2024/1', '[2024] HCA 1',
-    'rg:103', 'dta:usa:7', 'pbr:1051234567890',
+    ref examples: 'leg:itaa-1997:8-1', 'leg:itaa-1997:83A-45(4)' for a single subsection,
+    'TR 2024/1', '[2024] HCA 1', 'rg:103', 'dta:usa:7', 'pbr:1051234567890',
     'commentary:master-tax-guide:<topic>', 'map:<slug>', 'insolvency:<chapter>',
     'proposed_law:<id>', 'quote:<keyword>'.
+
+    Pass refs=[...] as a JSON array of refs to fetch several in one call (CDN-0297); each item
+    returns the same payload shape. Related material is opt-in via include=[...] and never
+    returned unless asked. as_at=YYYY-MM-DD stamps the response with the compilation quoted and
+    says whether that compilation actually matches the date asked for.
     """
+    if refs:
+        # Batch mode: keep every payload independent so one bad ref cannot sink the call.
+        try:
+            wanted_refs = json.loads(refs) if isinstance(refs, str) else list(refs)
+        except (TypeError, ValueError):
+            return json.dumps({"error": "refs must be a JSON array of reference strings.",
+                               "got": str(refs)[:200]}, indent=2)
+        # json.loads accepts any JSON, so a JSON *string* would iterate character by character.
+        if isinstance(wanted_refs, str) or not isinstance(wanted_refs, (list, tuple)) \
+                or not all(isinstance(x, str) for x in wanted_refs):
+            return json.dumps({"error": "refs must be a JSON array of reference strings.",
+                               "got": str(refs)[:200]}, indent=2)
+        capped = len(wanted_refs) > 50
+        items = []
+        for one in wanted_refs[:50]:
+            try:
+                parsed = json.loads(await fetch(ref=str(one), chunk=chunk, include=include,
+                                                as_at=as_at))
+            except Exception as exc:  # noqa: BLE001 - one failure must not lose the batch
+                parsed = {"error": f"{type(exc).__name__}: {exc}", "ref": str(one)}
+            items.append(parsed)
+        payload = {"count": len(items), "items": items}
+        if capped:
+            # A capped batch must never look like the whole request.
+            payload["items_omitted"] = len(wanted_refs) - len(items)
+            payload["note"] = (f"Batch capped at 50 refs; {len(wanted_refs) - len(items)} omitted. "
+                               f"Split the request to cover them.")
+        return json.dumps(payload, indent=2)
+
     ref = (ref or "").strip()
     if not ref:
-        return json.dumps({"error": "Empty reference.", "hint": _GET_INFO_HINT})
-    m = _re.match(r"(?i)^leg:([a-z0-9-]+):(.+)$", ref)
+        return json.dumps({"error": "Empty reference. Pass ref='leg:<act>:<section>' or "
+                                    "refs=['leg:...','leg:...'].", "hint": _GET_INFO_HINT})
+    m = _re.match(r"(?i)^leg:([a-z0-9-]+):(.+?)(?:\((\d+[A-Za-z]?)\))?$", ref)
     if m:
-        return await get_section(act=m.group(1), section=m.group(2))
+        return await get_section(act=m.group(1), section=m.group(2),
+                                 include=include, subsection=m.group(3), as_at=as_at)
     m = _re.match(r"(?i)^commentary:([a-z0-9-]+):(.+)$", ref)
     if m:
         return _fetch_commentary(m.group(1), m.group(2))
@@ -3481,3 +3824,144 @@ async def related(
         "next_cursor": None,
         "truncated": len(cites) > limit or len(cited_by) > limit,
     }, indent=2)
+
+
+# --- tax-encode: the typed tests layer -------------------------------------------------
+# tax-encode answers "what does this provision ask you to establish". It is called server-side
+# only; the browser never reaches it. Facts are questions, never conclusions.
+
+TAX_API_URL = os.environ.get("TAX_API_URL", "http://127.0.0.1:8793").rstrip("/")
+TAX_API_TOKEN = os.environ.get("TAX_API_TOKEN", "")
+
+
+def _tax(path: str, payload: dict | None = None) -> dict:
+    import urllib.error
+    import urllib.request
+
+    url = f"{TAX_API_URL}{path}"
+    data = json.dumps(payload).encode() if payload is not None else None
+    req = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json",
+                                                          "User-Agent": "scriptkitty-mcp"})
+    if TAX_API_TOKEN:
+        req.add_header("Authorization", f"Bearer {TAX_API_TOKEN}")
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            return json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        return {"error": f"tax-encode HTTP {e.code}", "detail": e.read().decode()[:300]}
+    except Exception as e:  # service down, DNS, timeout
+        return {"error": "tax-encode unavailable", "detail": str(e)[:200]}
+
+
+def _expr(e: dict | None, questions: dict, depth: int = 0) -> str:
+    """A gate as words: AND/OR/NOT over the fact questions, so a model can read it."""
+    if not e:
+        return "ungated"
+    op = e.get("op")
+    if op == "atom":
+        q = questions.get(e.get("fact"), e.get("fact"))
+        return q or "?"
+    if op == "limb":
+        return f"s {e.get('provision')}"
+    inside = ", ".join(_expr(a, questions, depth + 1) for a in (e.get("args") or []))
+    if op == "not":
+        return f"NOT ({inside})"
+    return f"{str(op).upper()}({inside})"
+
+
+@mcp.tool(structured_output=False)
+async def tests_for_section(act: str, section: str) -> str:
+    """The facts and gates a provision asks you to establish, from tax-encode.
+
+    Returns each limb in statutory order with its role (condition, consequence, definition,
+    note), the gate as AND/OR/NOT over the fact questions, and every fact with its provision.
+    A limb with no test is labelled ungated. Facts are questions for the user or their model to
+    answer; nothing here states a conclusion.
+
+    act: "itaa-1997" or "itaa-1936". section: e.g. "83A-45", "361", "152-10".
+    """
+    doc = _tax(f"/sections/{act}/{section}")
+    if doc.get("error"):
+        return json.dumps(doc)
+    facts = doc.get("facts") or {}
+    questions = {k: v.get("question") for k, v in facts.items()} if isinstance(facts, dict) else {}
+    records = doc.get("records") or []
+    out = [f"# {act} s {section} {doc.get('title') or ''}".rstrip(),
+           f"limbs: {len(records)}; facts: {len(questions)}"]
+    for r in records:
+        gate = _expr(r.get("test"), questions)
+        out.append(f"\n## {r.get('provision')} [{r.get('kind')}]" + (f" — {r.get('title')}" if r.get("title") else ""))
+        out.append(f"gate: {gate}" if r.get("test") else "gate: ungated")
+    if doc.get("partial"):
+        out.append(f"\npartial encoding: {doc['partial']}")
+    return "\n".join(out)
+
+
+@mcp.tool(structured_output=False)
+async def division_factsheet(act: str, division: str, query: str = "") -> str:
+    """Every fact in a division with its section, from tax-encode.
+
+    Use it to see the whole test surface of a division before working a matter. Optional query
+    filters facts by text. The output is a checklist, not advice.
+
+    act: "itaa-1997" or "itaa-1936". division: e.g. "152", "328", "Part X Div 9".
+    """
+    doc = _tax(f"/divisions/{act}/{division}")
+    if doc.get("error"):
+        return json.dumps(doc)
+    all_facts = doc.get("facts") or []
+    facts = all_facts
+    if query:
+        q = query.lower()
+        facts = [f for f in all_facts if q in ((f.get("q") or "") + " " + (f.get("id") or "")).lower()]
+    out = [f"# {act} Division {division}", f"facts: {len(facts)} of {len(all_facts)}"]
+    by_sec: dict[str, list] = {}
+    for f in facts:
+        prov = ((f.get("sections") or [{}])[0].get("provision") or "?")
+        by_sec.setdefault(prov.split("(")[0], []).append(f)
+    for sec in sorted(by_sec):
+        out.append(f"\n## s {sec}")
+        for f in by_sec[sec][:25]:
+            role = f.get("role") or "?"
+            out.append(f"- [{role}] {f.get('q')} ({f.get('id')})")
+        if len(by_sec[sec]) > 25:
+            out.append(f"- ... {len(by_sec[sec]) - 25} more in this section")
+    return "\n".join(out)
+
+
+@mcp.tool(structured_output=False)
+async def evaluate_matter(act: str, division: str, answers: dict | None = None,
+                          instance: dict | None = None, sections: list[str] | None = None) -> str:
+    """Evaluate a matter against a division's gates, from tax-encode.
+
+    Provide the facts you have answered and the entity bindings (for example
+    {"the CFC": "VTL"}). You get each limb's outcome (met, not met, undetermined), the facts it is
+    still missing, the facts decided by a shared node, and any conflict between your answer and a
+    shared node. Unanswered facts stay undetermined; nothing is inferred.
+
+    act: "itaa-1997" or "itaa-1936". answers: {fact_id: true|false}. sections: limit to these.
+    """
+    payload = {"act": act, "division": division, "answers": answers or {}, "instance": instance or {}}
+    if sections:
+        payload["sections"] = sections
+    doc = _tax("/evaluate", payload)
+    if doc.get("error"):
+        return json.dumps(doc)
+    out = [f"# {act} Division {division}"]
+    if doc.get("instance"):
+        out.append("instance: " + json.dumps(doc["instance"]))
+    if doc.get("counts"):
+        out.append("counts: " + json.dumps(doc["counts"]))
+    for l in (doc.get("limbs") or [])[:40]:
+        missing = l.get("missing") or []
+        out.append(f"\n## {l.get('provision')} — {l.get('outcome')}" + (f" (missing {len(missing)})" if missing else ""))
+        if missing:
+            out.append("  missing: " + ", ".join(missing[:6]))
+    shared = [f for f in (doc.get("facts") or []) if (f.get("source") or "").startswith("shared:")]
+    if shared:
+        out.append(f"\nshared from an audited link: {len(shared)}")
+        for f in shared[:10]:
+            out.append(f"- {f.get('id')} = {f.get('value')} [{f.get('source')}]")
+    for c in doc.get("conflicts") or []:
+        out.append(f"\nCONFLICT {c.get('fact')}: your answer {c.get('answer')} against {c.get('shared')}")
+    return "\n".join(out)
