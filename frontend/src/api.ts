@@ -47,6 +47,7 @@ async function fetchData(url: string, method: string = 'GET', body: any = null) 
 }
 
 export const api = {
+  taxChains: (act: string, section: string) => fetchJson(`/tax/chains/${encodeURIComponent(act)}/${encodeURIComponent(section)}`),
   acts: () => fetchData('/acts'),
   tree: (act: string) => fetchData(`/tree/${act}`),
   generateMcpToken: () => fetchData('/mcp-token', 'POST', {}),

@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import React from 'react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
@@ -52,6 +53,11 @@ const SectionContent: React.FC<SectionContentProps> = ({
             </React.Fragment>
           ))}
         </nav>
+        {sectionId && (
+          <Link className="lk-reader-btn" to={`/chains/${encodeURIComponent(act)}/${encodeURIComponent(sectionId)}`} title="Where this provision sits in the interpretive chains (ALPHA)">
+            Chains
+          </Link>
+        )}
         <button
           type="button"
           onClick={togglePin}

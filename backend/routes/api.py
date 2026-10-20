@@ -474,3 +474,46 @@ def api_info():
             },
         },
     }
+
+
+# --- tax-encode proxy (Interpretive chains, ALPHA) -------------------------------------
+# The browser never reaches tax-encode; these pass its JSON through unchanged.
+import os
+import time
+from urllib.parse import quote
+
+import httpx
+
+TAX_API_URL = os.environ.get("TAX_API_URL", "http://127.0.0.1:8793").rstrip("/")
+_TAX_TTL = 600
+_tax_cache: dict[tuple[str, str, str], tuple[float, object]] = {}  # ponytail: unbounded, LRU if sections explode
+
+
+async def _tax_get(kind: str, act: str, section: str):
+    key = (kind, act, section)
+    hit = _tax_cache.get(key)
+    if hit and time.monotonic() - hit[0] < _TAX_TTL:
+        return hit[1]
+    headers = {}
+    if os.environ.get("TAX_API_TOKEN"):
+        headers["Authorization"] = f"Bearer {os.environ['TAX_API_TOKEN']}"
+    try:
+        async with httpx.AsyncClient(timeout=10) as c:
+            r = await c.get(f"{TAX_API_URL}/{kind}/{quote(act, safe='')}/{quote(section, safe='')}",
+                            headers=headers)
+        body = r.json()
+    except Exception:  # down, timeout, non-JSON
+        return {"error": "tests unavailable"}
+    if r.status_code == 200:
+        _tax_cache[key] = (time.monotonic(), body)
+    return body
+
+
+@router.get("/api/tax/chains/{act}/{section}")
+async def tax_chains(act: str, section: str):
+    return await _tax_get("chains", act, section)
+
+
+@router.get("/api/tax/tests/{act}/{section}")
+async def tax_tests(act: str, section: str):
+    return await _tax_get("tests", act, section)

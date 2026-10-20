@@ -25,6 +25,7 @@ import AdminPanel from './components/AdminPanel'
 import AccountPanel from './components/AccountPanel'
 import McpTokenBanner from './components/McpTokenBanner'
 import MapView from './components/MapView'
+import ChainsView from './components/ChainsView'
 import IssuesModal from './components/IssuesModal'
 import SearchPanel from './components/SearchPanel'
 import CadenaLogo from './components/CadenaLogo'
@@ -181,6 +182,19 @@ function RouteMaps({ n }: { n: NavSetters }) {
       n.setBrowsingAct(true)
     }
   }, [id])
+  return null
+}
+
+// /chains is rendered from location; this only clears the other views.
+function RouteChains({ n }: { n: NavSetters }) {
+  useEffect(() => {
+    n.setActiveDefinitions(null)
+    n.setSearchPage(false)
+    n.setActiveMap(null)
+    n.setActiveSection('')
+    n.setActiveRuling(null)
+    n.setActivePrivateRuling(null)
+  }, [])
   return null
 }
 
@@ -863,6 +877,8 @@ export default function App() {
       <Route path="/definitions/:act/:term" element={<RouteDefinitions n={navSetters} />} />
       <Route path="/maps" element={<RouteMaps n={navSetters} />} />
       <Route path="/maps/:id" element={<RouteMaps n={navSetters} />} />
+      <Route path="/chains" element={<RouteChains n={navSetters} />} />
+      <Route path="/chains/:act/:section" element={<RouteChains n={navSetters} />} />
       <Route path="/private-rulings" element={<RoutePrivateRulingsIndex n={navSetters} />} />
       <Route path="/private-rulings/year/:year" element={<RoutePrivateRulingsYear n={navSetters} />} />
       <Route path="/private-rulings/:authnum" element={<RoutePrivateRuling n={navSetters} />} />
@@ -1218,6 +1234,8 @@ export default function App() {
 
         {adminView ? (
           <AdminPanel />
+        ) : location.pathname.startsWith('/chains') ? (
+          <ChainsView isMobile={isMobile} />
         ) : searchPage ? (
           <div style={{ marginTop: 4 }}>
             <SearchPanel
