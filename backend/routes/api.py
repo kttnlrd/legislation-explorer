@@ -46,9 +46,30 @@ router.include_router(treaties_router)
 router.include_router(workflows_router)
 
 
-VERSION = "3.1"
+VERSION = "3.2"
 
 CHANGELOG = [
+    {
+        "version": "3.2",
+        "date": "2026-10-20",
+        "title": "Tax-encode integration: typed tests for every section, division fact sheets, matter evaluation",
+        "changes": [
+            "New features:",
+            "|– Three MCP tools backed by tax-encode: tests_for_section (every limb in statutory order, its role, and its gate as AND/OR/NOT over the fact questions), division_factsheet (every fact in a division grouped by section), evaluate_matter (limb outcomes on your answers, the facts still missing, shared values, and conflicts)",
+            "|– Facts are questions with a provision and a source; a limb with no gate is labelled ungated rather than shown as satisfied",
+            "|– Server-side only: the tools call tax-encode over the loopback; no new public endpoint, no corpus data leaves the host",
+            "|– Degrades cleanly: if tax-encode is down the tool returns an explanatory error instead of a partial result",
+            "Performance:",
+            "|– Tax-encode evaluate is ~3 ms; section and division responses are read from its compiled index",
+            "Bugs fixed:",
+            "|– Tables were being discarded when one block failed a check; every distinct table is now kept and the set is gated as a whole",
+            "|– PDF-extraction character artifacts normalised across the corpus (CDN-0224, C21/C23)",
+            "|– ITAA 1997 compilation stamp made uniform at 267; Act No. 71 of 2026 applied (new s 26-120 plus 6 amended sections)",
+            "|– Search honoured a hard cap of 50 even when a larger limit was requested",
+            "Data:",
+            "|– FBTAA 1986 updated to Compilation 97 (1 July 2026)",
+        ],
+    },
     {
         "version": "3.1",
         "date": "2026-08-30",

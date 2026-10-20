@@ -1,5 +1,27 @@
 # Changelog
 
+## 3.2 — 20 Oct 2026
+
+**New features**
+
+- **Tax-encode integration** — three MCP tools backed by tax-encode, the typed tests layer over the Acts:
+  - `tests_for_section` — every limb of a provision in statutory order, its role (condition, consequence, definition, note) and its gate written as AND/OR/NOT over the fact questions, with a limb that has no gate labelled ungated.
+  - `division_factsheet` — every fact in a division, grouped by section, filterable by text: the whole test surface of a division before a matter is worked.
+  - `evaluate_matter` — limb outcomes on the answers supplied (met, not met, undetermined), the facts still missing on each limb, values decided by an audited shared node, and any conflict between an answer and a shared node.
+- Facts are questions with a provision and a source. Nothing returned by these tools states a conclusion, and an unanswered fact stays undetermined rather than becoming false.
+- Server-side only: the tools call tax-encode over the loopback, so no new public endpoint appears and no corpus data leaves the host. If tax-encode is down the tool explains that instead of returning a partial result.
+
+**Bugs fixed**
+
+- Tables were dropped whenever a single block failed a check; every distinct table is now kept and the set is gated as a whole.
+- PDF-extraction character artifacts normalised across the corpus (CDN-0224, C21/C23); OPC endnote appendix removed from 4 sections (CDN-0222).
+- ITAA 1997 compilation stamp made uniform at 267; Act No. 71 of 2026 applied (new s 26-120 plus 6 amended sections).
+- Search honoured a hard cap of 50 even when a larger limit was requested.
+
+**Data**
+
+- FBTAA 1986 updated to Compilation 97 (1 July 2026).
+
 ## 3.0.2 — 19 Aug 2026
 
 **New features** (highlights since 2.7.2 — see individual releases below for detail)
